@@ -1,0 +1,8 @@
+## gitignore
+## https://git-scm.com/docs/gitignore
+##
+
+--*/
+zz*
+
+__pycache__
