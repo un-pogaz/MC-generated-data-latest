@@ -1,0 +1,24 @@
+# Tell git what files are txt
+*.json    text
+*.txt     text
+*.lang    text
+*.mcmeta  text
+*.fsh     text
+*.vsh     text
+*.glsl    text
+*.md      text
+*.csv     text
+*.snbt    text
+
+# Tell git what files are binary
+*.bin     binary
+*.png     binary
+*.gif     binary
+*.jpg     binary
+*.jpeg    binary
+*.zip     binary
+*.nbt     binary
+
+# Prevent certain files from being exported:
+.gitattributes  export-ignore
+.gitignore      export-ignore
