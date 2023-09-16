@@ -243,9 +243,14 @@ minecraft:font/glyph_FF
 minecraft:gui/alchemy
 minecraft:gui/allitems
 minecraft:gui/background
+minecraft:gui/book
 minecraft:gui/container
 minecraft:gui/crafting
 minecraft:gui/crash_logo
+minecraft:gui/creative_inv/list_items
+minecraft:gui/creative_inv/search
+minecraft:gui/creative_inv/survival_inv
+minecraft:gui/demo_bg
 minecraft:gui/enchant
 minecraft:gui/furnace
 minecraft:gui/gui
@@ -254,6 +259,7 @@ minecraft:gui/inventory
 minecraft:gui/items
 minecraft:gui/particles
 minecraft:gui/slot
+minecraft:gui/trading
 minecraft:gui/trap
 minecraft:gui/unknown_pack
 minecraft:item/arrows
@@ -262,6 +268,7 @@ minecraft:item/book
 minecraft:item/cart
 minecraft:item/chest
 minecraft:item/door
+minecraft:item/enderchest
 minecraft:item/largechest
 minecraft:item/sign
 minecraft:item/xporb

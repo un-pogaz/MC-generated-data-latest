@@ -13,7 +13,7 @@
   },
   "bg_bg": {
     "region": "BG",
-    "name": "български"
+    "name": "Български"
   },
   "ca_es": {
     "region": "CAT",
@@ -36,16 +36,20 @@
     "name": "Deutsch"
   },
   "el_gr": {
-    "region": "GR",
-    "name": "Αγγλικά"
+    "region": "El",
+    "name": "Ελληνικά"
+  },
+  "en_au": {
+    "region": "AU",
+    "name": "Australian English"
   },
   "en_ca": {
-    "region": "UK",
-    "name": "English"
-  },
-  "en_gb": {
     "region": "CA",
     "name": "Canadian English"
+  },
+  "en_gb": {
+    "region": "UK",
+    "name": "English"
   },
   "en_pt": {
     "region": "PIRATE",
@@ -56,24 +60,24 @@
     "name": "Esperanto"
   },
   "es_ar": {
-    "region": "Argentina",
-    "name": "Castellano"
+    "region": "AR",
+    "name": "Español"
   },
   "es_es": {
     "region": "España",
     "name": "Español"
   },
   "es_mx": {
-    "region": "MX",
+    "region": "México",
     "name": "Español"
   },
   "es_uy": {
     "region": "Uruguay",
-    "name": "Uruguayo"
+    "name": "Español"
   },
   "es_ve": {
     "region": "Venezuela",
-    "name": "Español Venezolano"
+    "name": "Español"
   },
   "et_ee": {
     "region": "ET",
@@ -95,6 +99,10 @@
     "region": "Français",
     "name": "Français"
   },
+  "ga_ie": {
+    "region": "IE",
+    "name": "Gaeilge"
+  },
   "gl_es": {
     "region": "Galicia",
     "name": "Galego"
@@ -103,6 +111,10 @@
     "region": "IL",
     "name": "אנגלית"
   },
+  "hi_in": {
+    "region": "भारत",
+    "name": "अंग्रेज़ी"
+  },
   "hr_hr": {
     "region": "HR",
     "name": "Hrvatski"
@@ -110,6 +122,10 @@
   "hu_hu": {
     "region": "HU",
     "name": "Magyar"
+  },
+  "id_id": {
+    "region": "ID",
+    "name": "Bahasa Indonesia"
   },
   "is_is": {
     "region": "IS",
@@ -147,6 +163,10 @@
     "region": "MS",
     "name": "Bahasa Melayu"
   },
+  "ms_my": {
+    "region": "MS",
+    "name": "Bahasa Melayu"
+  },
   "mt_mt": {
     "region": "MT",
     "name": "Malti"
@@ -168,7 +188,7 @@
     "name": "Polski"
   },
   "pt_br": {
-    "region": "Brasil",
+    "region": "BR",
     "name": "Português"
   },
   "pt_pt": {
