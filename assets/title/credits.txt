@@ -8,6 +8,10 @@
 §7Game design, programming and graphics:
 §f			Markus Persson
 §f			Jens Bergensten
+§f			Nathan Adams
+
+§7Programming:
+§f			Erik Broes
 
 §7Music and sound:
 §f			Daniel Rosenfeld
@@ -42,6 +46,11 @@
 §f			Paul Spooner
 §f			Ryan 'Scaevolus' Hitchman
 §f			Elliot 'Hippoplatimus' Segal
+
+§7Developers of Mo' Creatures (horses etc):
+§f			John Olarte (DrZhark)
+§f			Kent Christian Jensen
+§f			Dan Roque
 
 §7Technologies used:
 §f			Java by Oracle
