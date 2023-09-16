@@ -2,6 +2,15 @@ minecraft:achievement/map
 minecraft:font
 minecraft:lang/languages
 minecraft:pack
+minecraft:textures/blocks/fire_0
+minecraft:textures/blocks/fire_1
+minecraft:textures/blocks/lava
+minecraft:textures/blocks/lava_flow
+minecraft:textures/blocks/portal
+minecraft:textures/blocks/water
+minecraft:textures/blocks/water_flow
+minecraft:textures/items/clock
+minecraft:textures/items/compass
 minecraft:title/credits
 minecraft:title/splashes
 minecraft:title/win
