@@ -280,6 +280,9 @@ minecraft:misc/tunnel
 minecraft:misc/vignette
 minecraft:misc/water
 minecraft:misc/watercolor
+minecraft:mob/cat_black
+minecraft:mob/cat_red
+minecraft:mob/cat_siamese
 minecraft:mob/cavespider
 minecraft:mob/char
 minecraft:mob/chicken
@@ -298,6 +301,7 @@ minecraft:mob/fire
 minecraft:mob/ghast
 minecraft:mob/ghast_fire
 minecraft:mob/lava
+minecraft:mob/ozelot
 minecraft:mob/pig
 minecraft:mob/pigman
 minecraft:mob/pigzombie
@@ -319,6 +323,7 @@ minecraft:mob/villager/librarian
 minecraft:mob/villager/priest
 minecraft:mob/villager/smith
 minecraft:mob/villager/villager
+minecraft:mob/villager_golem
 minecraft:mob/wolf
 minecraft:mob/wolf_angry
 minecraft:mob/wolf_tame
