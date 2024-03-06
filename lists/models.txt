@@ -283,6 +283,7 @@ minecraft:block/crimson_fence_inventory
 minecraft:block/crimson_fence_post
 minecraft:block/crimson_fence_side
 minecraft:block/crimson_fungus
+minecraft:block/crimson_hyphae
 minecraft:block/crimson_nylium
 minecraft:block/crimson_planks
 minecraft:block/crimson_pressure_plate
@@ -525,8 +526,6 @@ minecraft:block/green_stained_glass_pane_side_alt
 minecraft:block/green_terracotta
 minecraft:block/green_wool
 minecraft:block/grindstone
-minecraft:block/hanging_lantern
-minecraft:block/hanging_soul_fire_lantern
 minecraft:block/hay_block
 minecraft:block/hay_block_horizontal
 minecraft:block/heavy_weighted_pressure_plate
@@ -596,6 +595,7 @@ minecraft:block/kelp
 minecraft:block/kelp_plant
 minecraft:block/ladder
 minecraft:block/lantern
+minecraft:block/lantern_hanging
 minecraft:block/lapis_block
 minecraft:block/lapis_ore
 minecraft:block/large_fern_bottom
@@ -974,7 +974,6 @@ minecraft:block/redstone_dust_up
 minecraft:block/redstone_lamp
 minecraft:block/redstone_lamp_on
 minecraft:block/redstone_ore
-minecraft:block/redstone_ore_on
 minecraft:block/redstone_torch
 minecraft:block/redstone_torch_off
 minecraft:block/redstone_wall_torch
@@ -1058,6 +1057,7 @@ minecraft:block/snow_height8
 minecraft:block/soul_fire_floor0
 minecraft:block/soul_fire_floor1
 minecraft:block/soul_fire_lantern
+minecraft:block/soul_fire_lantern_hanging
 minecraft:block/soul_fire_side0
 minecraft:block/soul_fire_side1
 minecraft:block/soul_fire_side_alt0
@@ -1140,6 +1140,7 @@ minecraft:block/stripped_acacia_wood
 minecraft:block/stripped_birch_log
 minecraft:block/stripped_birch_log_horizontal
 minecraft:block/stripped_birch_wood
+minecraft:block/stripped_crimson_hyphae
 minecraft:block/stripped_crimson_stem
 minecraft:block/stripped_dark_oak_log
 minecraft:block/stripped_dark_oak_log_horizontal
@@ -1153,6 +1154,7 @@ minecraft:block/stripped_oak_wood
 minecraft:block/stripped_spruce_log
 minecraft:block/stripped_spruce_log_horizontal
 minecraft:block/stripped_spruce_wood
+minecraft:block/stripped_warped_hyphae
 minecraft:block/stripped_warped_stem
 minecraft:block/structure_block
 minecraft:block/structure_block_corner
@@ -1172,6 +1174,10 @@ minecraft:block/tall_grass_top
 minecraft:block/tall_seagrass_bottom
 minecraft:block/tall_seagrass_top
 minecraft:block/target
+minecraft:block/template_anvil
+minecraft:block/template_chorus_flower
+minecraft:block/template_command_block
+minecraft:block/template_daylight_detector
 minecraft:block/template_farmland
 minecraft:block/template_fence_gate
 minecraft:block/template_fence_gate_open
@@ -1182,6 +1188,7 @@ minecraft:block/template_fire_side
 minecraft:block/template_fire_side_alt
 minecraft:block/template_fire_up
 minecraft:block/template_fire_up_alt
+minecraft:block/template_four_turtle_eggs
 minecraft:block/template_glass_pane_noside
 minecraft:block/template_glass_pane_noside_alt
 minecraft:block/template_glass_pane_post
@@ -1198,11 +1205,16 @@ minecraft:block/template_piston_head
 minecraft:block/template_piston_head_short
 minecraft:block/template_rail_raised_ne
 minecraft:block/template_rail_raised_sw
+minecraft:block/template_seagrass
+minecraft:block/template_single_face
+minecraft:block/template_three_turtle_eggs
 minecraft:block/template_torch
 minecraft:block/template_torch_wall
 minecraft:block/template_trapdoor_bottom
 minecraft:block/template_trapdoor_open
 minecraft:block/template_trapdoor_top
+minecraft:block/template_turtle_egg
+minecraft:block/template_two_turtle_eggs
 minecraft:block/template_wall_post
 minecraft:block/template_wall_side
 minecraft:block/template_wall_side_tall
@@ -1214,6 +1226,7 @@ minecraft:block/three_slightly_cracked_turtle_eggs
 minecraft:block/three_turtle_eggs
 minecraft:block/three_very_cracked_turtle_eggs
 minecraft:block/tinted_cross
+minecraft:block/tinted_flower_pot_cross
 minecraft:block/tnt
 minecraft:block/torch
 minecraft:block/tripwire_attached_n
@@ -1269,6 +1282,7 @@ minecraft:block/warped_fence_inventory
 minecraft:block/warped_fence_post
 minecraft:block/warped_fence_side
 minecraft:block/warped_fungus
+minecraft:block/warped_hyphae
 minecraft:block/warped_nylium
 minecraft:block/warped_planks
 minecraft:block/warped_pressure_plate
@@ -1427,7 +1441,6 @@ minecraft:item/bowl
 minecraft:item/brain_coral
 minecraft:item/brain_coral_block
 minecraft:item/brain_coral_fan
-minecraft:item/brain_coral_wall_fan
 minecraft:item/bread
 minecraft:item/brewing_stand
 minecraft:item/brick
@@ -1453,7 +1466,6 @@ minecraft:item/brown_wool
 minecraft:item/bubble_coral
 minecraft:item/bubble_coral_block
 minecraft:item/bubble_coral_fan
-minecraft:item/bubble_coral_wall_fan
 minecraft:item/bucket
 minecraft:item/cactus
 minecraft:item/cake
@@ -1619,6 +1631,7 @@ minecraft:item/crimson_door
 minecraft:item/crimson_fence
 minecraft:item/crimson_fence_gate
 minecraft:item/crimson_fungus
+minecraft:item/crimson_hyphae
 minecraft:item/crimson_nylium
 minecraft:item/crimson_planks
 minecraft:item/crimson_pressure_plate
@@ -1675,24 +1688,19 @@ minecraft:item/daylight_detector
 minecraft:item/dead_brain_coral
 minecraft:item/dead_brain_coral_block
 minecraft:item/dead_brain_coral_fan
-minecraft:item/dead_brain_coral_wall_fan
 minecraft:item/dead_bubble_coral
 minecraft:item/dead_bubble_coral_block
 minecraft:item/dead_bubble_coral_fan
-minecraft:item/dead_bubble_coral_wall_fan
 minecraft:item/dead_bush
 minecraft:item/dead_fire_coral
 minecraft:item/dead_fire_coral_block
 minecraft:item/dead_fire_coral_fan
-minecraft:item/dead_fire_coral_wall_fan
 minecraft:item/dead_horn_coral
 minecraft:item/dead_horn_coral_block
 minecraft:item/dead_horn_coral_fan
-minecraft:item/dead_horn_coral_wall_fan
 minecraft:item/dead_tube_coral
 minecraft:item/dead_tube_coral_block
 minecraft:item/dead_tube_coral_fan
-minecraft:item/dead_tube_coral_wall_fan
 minecraft:item/debug_stick
 minecraft:item/detector_rail
 minecraft:item/diamond
@@ -1756,7 +1764,6 @@ minecraft:item/fire_charge
 minecraft:item/fire_coral
 minecraft:item/fire_coral_block
 minecraft:item/fire_coral_fan
-minecraft:item/fire_coral_wall_fan
 minecraft:item/firework_rocket
 minecraft:item/firework_star
 minecraft:item/fishing_rod
@@ -1845,7 +1852,6 @@ minecraft:item/hopper_minecart
 minecraft:item/horn_coral
 minecraft:item/horn_coral_block
 minecraft:item/horn_coral_fan
-minecraft:item/horn_coral_wall_fan
 minecraft:item/horse_spawn_egg
 minecraft:item/husk_spawn_egg
 minecraft:item/ice
@@ -2276,6 +2282,7 @@ minecraft:item/stripped_acacia_log
 minecraft:item/stripped_acacia_wood
 minecraft:item/stripped_birch_log
 minecraft:item/stripped_birch_wood
+minecraft:item/stripped_crimson_hyphae
 minecraft:item/stripped_crimson_stem
 minecraft:item/stripped_dark_oak_log
 minecraft:item/stripped_dark_oak_wood
@@ -2285,6 +2292,7 @@ minecraft:item/stripped_oak_log
 minecraft:item/stripped_oak_wood
 minecraft:item/stripped_spruce_log
 minecraft:item/stripped_spruce_wood
+minecraft:item/stripped_warped_hyphae
 minecraft:item/stripped_warped_stem
 minecraft:item/structure_block
 minecraft:item/structure_void
@@ -2318,7 +2326,6 @@ minecraft:item/tropical_fish_spawn_egg
 minecraft:item/tube_coral
 minecraft:item/tube_coral_block
 minecraft:item/tube_coral_fan
-minecraft:item/tube_coral_wall_fan
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
 minecraft:item/turtle_spawn_egg
@@ -2332,6 +2339,7 @@ minecraft:item/warped_door
 minecraft:item/warped_fence
 minecraft:item/warped_fence_gate
 minecraft:item/warped_fungus
+minecraft:item/warped_hyphae
 minecraft:item/warped_nylium
 minecraft:item/warped_planks
 minecraft:item/warped_pressure_plate
