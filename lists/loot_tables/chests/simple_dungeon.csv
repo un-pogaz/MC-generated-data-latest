@@ -1,16 +1,17 @@
 "Name","Count","Chance","Weight","Comment"
 ,,,,
 "1 to 3 time","--","--","--",
-"minecraft:saddle","1","15.7%","20/127",
-"minecraft:golden_apple","1","11.8%","15/127",
-"minecraft:enchanted_golden_apple","1","1.6%","2/127",
-"minecraft:music_disc_13","1","11.8%","15/127",
-"minecraft:music_disc_cat","1","11.8%","15/127",
-"minecraft:name_tag","1","15.7%","20/127",
-"minecraft:golden_horse_armor","1","7.9%","10/127",
-"minecraft:iron_horse_armor","1","11.8%","15/127",
-"minecraft:diamond_horse_armor","1","3.9%","5/127",
-"minecraft:enchanted_book","1","7.9%","10/127","enchantments: *"
+"minecraft:saddle","1","15.5%","20/129",
+"minecraft:golden_apple","1","11.6%","15/129",
+"minecraft:enchanted_golden_apple","1","1.6%","2/129",
+"minecraft:music_disc_otherside","1","1.6%","2/129",
+"minecraft:music_disc_13","1","11.6%","15/129",
+"minecraft:music_disc_cat","1","11.6%","15/129",
+"minecraft:name_tag","1","15.5%","20/129",
+"minecraft:golden_horse_armor","1","7.8%","10/129",
+"minecraft:iron_horse_armor","1","11.6%","15/129",
+"minecraft:diamond_horse_armor","1","3.9%","5/129",
+"minecraft:enchanted_book","1","7.8%","10/129","enchantments: *"
 ——,——,——,——,——
 "1 to 4 time","--","--","--",
 "minecraft:iron_ingot","1..4","8%","10/125",
