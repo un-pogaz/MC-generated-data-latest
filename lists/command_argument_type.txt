@@ -30,6 +30,7 @@ minecraft:objective
 minecraft:objective_criteria
 minecraft:operation
 minecraft:particle
+minecraft:resource
 minecraft:resource_location
 minecraft:resource_or_tag
 minecraft:rotation
