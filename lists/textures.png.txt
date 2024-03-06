@@ -1373,6 +1373,7 @@ minecraft:gui/recipe_book
 minecraft:gui/recipe_button
 minecraft:gui/resource_packs
 minecraft:gui/server_selection
+minecraft:gui/social_interactions
 minecraft:gui/spectator_widgets
 minecraft:gui/stream_indicator
 minecraft:gui/title/background/panorama_0
