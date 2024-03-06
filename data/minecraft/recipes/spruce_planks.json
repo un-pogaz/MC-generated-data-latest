@@ -7,6 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:spruce_planks"
+    "item": "minecraft:spruce_planks",
+    "count": 4
   }
 }
