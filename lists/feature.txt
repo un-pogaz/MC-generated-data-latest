@@ -64,6 +64,7 @@ minecraft:simple_random_selector
 minecraft:spring_feature
 minecraft:stronghold
 minecraft:swamp_hut
+minecraft:twisting_vines
 minecraft:village
 minecraft:vines
 minecraft:void_start_platform

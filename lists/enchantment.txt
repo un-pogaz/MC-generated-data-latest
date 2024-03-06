@@ -31,6 +31,7 @@ minecraft:riptide
 minecraft:sharpness
 minecraft:silk_touch
 minecraft:smite
+minecraft:soul_speed
 minecraft:sweeping
 minecraft:thorns
 minecraft:unbreaking
