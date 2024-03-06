@@ -296,7 +296,6 @@ minecraft:recipes/decorations/purple_bed
 minecraft:recipes/decorations/purple_bed_from_white_bed
 minecraft:recipes/decorations/purple_carpet
 minecraft:recipes/decorations/purple_glazed_terracotta
-minecraft:recipes/decorations/purple_shulker_box
 minecraft:recipes/decorations/purple_stained_glass_pane
 minecraft:recipes/decorations/red_banner
 minecraft:recipes/decorations/red_bed
@@ -304,6 +303,7 @@ minecraft:recipes/decorations/red_bed_from_white_bed
 minecraft:recipes/decorations/red_carpet
 minecraft:recipes/decorations/red_glazed_terracotta
 minecraft:recipes/decorations/red_stained_glass_pane
+minecraft:recipes/decorations/shulker_box
 minecraft:recipes/decorations/sign
 minecraft:recipes/decorations/slime_block
 minecraft:recipes/decorations/snow
