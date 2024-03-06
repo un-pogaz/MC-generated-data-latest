@@ -6,8 +6,11 @@ minecraft:chunk_status
 minecraft:custom_stat
 minecraft:enchantment
 minecraft:entity_type
+minecraft:float_provider_type
 minecraft:fluid
 minecraft:game_event
+minecraft:height_provider_type
+minecraft:int_provider_type
 minecraft:item
 minecraft:loot_condition_type
 minecraft:loot_function_type
@@ -41,7 +44,6 @@ minecraft:worldgen/chunk_generator
 minecraft:worldgen/decorator
 minecraft:worldgen/feature
 minecraft:worldgen/feature_size_type
-minecraft:worldgen/float_provider_type
 minecraft:worldgen/foliage_placer_type
 minecraft:worldgen/structure_feature
 minecraft:worldgen/structure_piece

@@ -12,4 +12,4 @@
 | minecraft:wet_sponge                        |     1 |   100% |      1 |                                         |
 | – – – – – – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – |
 | 1 time                                      |    -- |     -- |     -- | killed by player, random chance: 0.025% |
-| loot_table[]minecraft:gameplay/fishing/fish |     1 |   100% |      1 |                                         |
+| loot_table[]minecraft:gameplay/fishing/fish |     1 |   100% |      1 | furnace smelt                           |
