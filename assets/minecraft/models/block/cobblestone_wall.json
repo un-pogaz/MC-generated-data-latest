@@ -33,6 +33,10 @@
         "mossy_sew":  { "model": "wall_nse", "y": 90 },
         "mossy_swn":  { "model": "wall_nse", "y": 180 },
         "mossy_new":  { "model": "wall_nse", "y": 270 },
-        "mossy_nsew": { "model": "wall_nsew" }
+        "mossy_nsew": { "model": "wall_nsew" },
+        "above_ns":   { "model": "wall_ns_above" },
+        "above_ew":   { "model": "wall_ns_above", "y": 90 },
+        "above_mossy_ns": { "model": "wall_ns_above" },
+        "above_mossy_ew": { "model": "wall_ns_above", "y": 90 }
     }
 }

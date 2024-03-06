@@ -6,71 +6,71 @@
         {   "type": "cube",
             "from": [ 0, 0, 0 ],
             "to": [ 16, 2, 16 ],
-            "faceData": [
-                {
+            "faceData": {
+                "down": {
                     "uv": [ 0, 0, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "up": {
                     "uv": [ 0, 0, 16, 16 ],
                     "textureFacing": "up",
                     "cull": false
                 },
-                {
+                "north": {
                     "uv": [ 0, 14, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "south": {
                     "uv": [ 0, 14, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "west": {
                     "uv": [ 0, 14, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "east": {
                     "uv": [ 0, 14, 16, 16 ],
                     "textureFacing": "south"
                 }
-            ]
+            }
         },
         {   "type": "cube",
             "from": [ 2, 2, 6 ],
             "to": [ 14, 4, 8 ],
-            "faceData": [
-                {
+            "faceData": {
+                "down": {
                     "uv": [ 7, 2, 9, 14 ],
                     "textureFacing": "north",
                     "rotation": 90,
                     "cull": false
                 },
-                {
+                "up": {
                     "uv": [ 7, 2, 9, 14 ],
                     "textureFacing": "north",
                     "rotation": 90,
                     "cull": false
                 },
-                {
+                "north": {
                     "uv": [ 2, 7, 14, 9 ],
                     "textureFacing": "north",
                     "cull": false
                 },
-                {
+                "south": {
                     "uv": [ 2, 7, 14, 9 ],
                     "textureFacing": "north",
                     "cull": false
                 },
-                {
+                "west": {
                     "uv": [ 6, 7, 8, 9 ],
                     "textureFacing": "north",
                     "cull": false
                 },
-                {
+                "east": {
                     "uv": [ 6, 7, 8, 9 ],
                     "textureFacing": "north",
                     "cull": false
                 }
-            ]
+            }
         },
         {   "type": "plane",
             "from": [ 7, 7, 2 ],

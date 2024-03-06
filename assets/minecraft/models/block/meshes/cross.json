@@ -8,17 +8,8 @@
             "to": [ 16, 16, 8 ],
             "facing": "south",
             "rotation": [ 0, 45, 0 ],
-            "faceData": {
-                "uv": [ 0, 0, 16, 16 ],
-                "textureFacing": "down",
-                "cull": false
-            }
-        },
-        {   "type": "plane",
-            "from": [ 0, 0, 8 ],
-            "to": [ 16, 16, 8 ],
-            "facing": "north",
-            "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
+            "twoSided": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "down",
@@ -30,17 +21,8 @@
             "to": [ 8, 16, 16 ],
             "facing": "east",
             "rotation": [ 0, 45, 0 ],
-            "faceData": {
-                "uv": [ 0, 0, 16, 16 ],
-                "textureFacing": "down",
-                "cull": false
-            }
-        },
-        {   "type": "plane",
-            "from": [ 8, 0, 0 ],
-            "to": [ 8, 16, 16 ],
-            "facing": "west",
-            "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
+            "twoSided": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "down",
