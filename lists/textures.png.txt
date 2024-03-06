@@ -1009,7 +1009,6 @@ minecraft:gui/container/generic_54
 minecraft:gui/container/hopper
 minecraft:gui/container/horse
 minecraft:gui/container/inventory
-minecraft:gui/container/recipe_background
 minecraft:gui/container/shulker_box
 minecraft:gui/container/stats_icons
 minecraft:gui/container/villager
@@ -1024,6 +1023,7 @@ minecraft:gui/presets/luck
 minecraft:gui/presets/madness
 minecraft:gui/presets/water
 minecraft:gui/recipe_book
+minecraft:gui/recipe_button
 minecraft:gui/resource_packs
 minecraft:gui/server_selection
 minecraft:gui/spectator_widgets
