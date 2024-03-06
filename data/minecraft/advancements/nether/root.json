@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:red_nether_brick"
+            "item": "minecraft:red_nether_bricks"
         },
         "title": {
             "translate": "advancements.nether.root.title"

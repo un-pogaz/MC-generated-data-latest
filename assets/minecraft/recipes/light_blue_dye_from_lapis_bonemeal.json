@@ -3,17 +3,14 @@
   "group": "light_blue_dye",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 4
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "item": "minecraft:dye",
-      "data": 15
+      "item": "minecraft:bone_meal"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 12,
+    "item": "minecraft:light_blue_dye",
     "count": 2
   }
 }
