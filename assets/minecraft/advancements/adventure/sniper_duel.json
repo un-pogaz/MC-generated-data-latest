@@ -22,7 +22,9 @@
                 "entity": {
                     "type": "skeleton",
                     "distance": {
-                        "min": 50
+                        "horizontal": {
+                            "min": 50
+                        }
                     }
                 }
             }
