@@ -1030,6 +1030,7 @@ minecraft:gui/title/background/panorama_2
 minecraft:gui/title/background/panorama_3
 minecraft:gui/title/background/panorama_4
 minecraft:gui/title/background/panorama_5
+minecraft:gui/title/edition
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojang
 minecraft:gui/toasts
