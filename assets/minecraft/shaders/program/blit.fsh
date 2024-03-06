@@ -7,6 +7,5 @@ uniform vec4 ColorModulate;
 varying vec2 texCoord;
 
 void main(){
-    vec4 outColor = texture2D(DiffuseSampler, texCoord) * ColorModulate;
-    gl_FragColor = vec4(outColor.rgb, 1.0);
+    gl_FragColor = texture2D(DiffuseSampler, texCoord) * ColorModulate;
 }
