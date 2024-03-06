@@ -360,16 +360,19 @@ minecraft:colormap/grass
 minecraft:effect/dither
 minecraft:entity/arrow
 minecraft:entity/banner/base
+minecraft:entity/banner/border
 minecraft:entity/banner/bricks
 minecraft:entity/banner/circle
 minecraft:entity/banner/creeper
 minecraft:entity/banner/cross
+minecraft:entity/banner/curly_border
 minecraft:entity/banner/diagonal_left
 minecraft:entity/banner/diagonal_right
 minecraft:entity/banner/flower
 minecraft:entity/banner/gradient
 minecraft:entity/banner/half_horizontal
 minecraft:entity/banner/half_vertical
+minecraft:entity/banner/mojang
 minecraft:entity/banner/rhombus
 minecraft:entity/banner/skull
 minecraft:entity/banner/small_stripes
@@ -377,6 +380,7 @@ minecraft:entity/banner/square_bottom_left
 minecraft:entity/banner/square_bottom_right
 minecraft:entity/banner/square_top_left
 minecraft:entity/banner/square_top_right
+minecraft:entity/banner/straight_cross
 minecraft:entity/banner/stripe_bottom
 minecraft:entity/banner/stripe_center
 minecraft:entity/banner/stripe_downleft
