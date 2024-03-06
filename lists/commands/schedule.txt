@@ -1,4 +1,0 @@
-schedule clear <function brigadier:string[type="greedy"]>
-schedule function <function minecraft:function> <time minecraft:time[min="0"]>
-schedule function <function minecraft:function> <time minecraft:time[min="0"]> append
-schedule function <function minecraft:function> <time minecraft:time[min="0"]> replace

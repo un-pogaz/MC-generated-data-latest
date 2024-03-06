@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/suspicious_sand/break1",
+    "block/suspicious_sand/break2",
+    "block/suspicious_sand/break3",
+    "block/suspicious_sand/break4",
+    "block/suspicious_sand/break5",
+    "block/suspicious_sand/break6"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

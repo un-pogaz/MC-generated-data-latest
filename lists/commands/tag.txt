@@ -1,3 +1,0 @@
-tag <targets minecraft:entity[type="entities", amount="multiple"]> add <name brigadier:string[type="word"]>
-tag <targets minecraft:entity[type="entities", amount="multiple"]> list
-tag <targets minecraft:entity[type="entities", amount="multiple"]> remove <name brigadier:string[type="word"]>

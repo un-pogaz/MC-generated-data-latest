@@ -1,0 +1,5 @@
+minecraft:item/brush/brush_completed1
+minecraft:item/brush/brush_completed2
+minecraft:item/brush/brush_completed3
+minecraft:item/brush/brush_completed4
+minecraft:item/brush/brush_completed5

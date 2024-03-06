@@ -1,3 +1,0 @@
-summon <entity minecraft:resource[registry="minecraft:entity_type"]>
-summon <entity minecraft:resource[registry="minecraft:entity_type"]> <pos minecraft:vec3>
-summon <entity minecraft:resource[registry="minecraft:entity_type"]> <pos minecraft:vec3> <nbt minecraft:nbt_compound_tag>

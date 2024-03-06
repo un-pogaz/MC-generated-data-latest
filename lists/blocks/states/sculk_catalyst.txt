@@ -1,2 +1,0 @@
-bloom=true
-bloom=false  [default]

@@ -1,2 +1,0 @@
-lit=true  [default]
-lit=false

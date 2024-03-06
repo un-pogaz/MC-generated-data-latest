@@ -1,6 +1,0 @@
-weather clear
-weather clear <duration minecraft:time[min="1"]>
-weather rain
-weather rain <duration minecraft:time[min="1"]>
-weather thunder
-weather thunder <duration minecraft:time[min="1"]>

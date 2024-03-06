@@ -1,2 +1,0 @@
-enchant <targets minecraft:entity[type="entities", amount="multiple"]> <enchantment minecraft:resource[registry="minecraft:enchantment"]>
-enchant <targets minecraft:entity[type="entities", amount="multiple"]> <enchantment minecraft:resource[registry="minecraft:enchantment"]> <level brigadier:integer[min="0"]>

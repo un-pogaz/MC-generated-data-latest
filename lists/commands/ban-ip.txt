@@ -1,2 +1,0 @@
-ban-ip <target brigadier:string[type="word"]>
-ban-ip <target brigadier:string[type="word"]> <reason minecraft:message>

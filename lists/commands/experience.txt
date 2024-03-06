@@ -1,8 +1,0 @@
-experience add <targets minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer>
-experience add <targets minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer> levels
-experience add <targets minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer> points
-experience query <targets minecraft:entity[type="players", amount="single"]> levels
-experience query <targets minecraft:entity[type="players", amount="single"]> points
-experience set <targets minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer[min="0"]>
-experience set <targets minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer[min="0"]> levels
-experience set <targets minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer[min="0"]> points

@@ -1,6 +1,0 @@
-title <targets minecraft:entity[type="players", amount="multiple"]> actionbar <title minecraft:component>
-title <targets minecraft:entity[type="players", amount="multiple"]> clear
-title <targets minecraft:entity[type="players", amount="multiple"]> reset
-title <targets minecraft:entity[type="players", amount="multiple"]> subtitle <title minecraft:component>
-title <targets minecraft:entity[type="players", amount="multiple"]> times <fadeIn minecraft:time[min="0"]> <stay minecraft:time[min="0"]> <fadeOut minecraft:time[min="0"]>
-title <targets minecraft:entity[type="players", amount="multiple"]> title <title minecraft:component>

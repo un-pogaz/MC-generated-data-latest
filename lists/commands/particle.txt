@@ -1,7 +1,0 @@
-particle <name minecraft:particle>
-particle <name minecraft:particle> <pos minecraft:vec3>
-particle <name minecraft:particle> <pos minecraft:vec3> <delta minecraft:vec3> <speed brigadier:float[min="0.0"]> <count brigadier:integer[min="0"]>
-particle <name minecraft:particle> <pos minecraft:vec3> <delta minecraft:vec3> <speed brigadier:float[min="0.0"]> <count brigadier:integer[min="0"]> force
-particle <name minecraft:particle> <pos minecraft:vec3> <delta minecraft:vec3> <speed brigadier:float[min="0.0"]> <count brigadier:integer[min="0"]> force <viewers minecraft:entity[type="players", amount="multiple"]>
-particle <name minecraft:particle> <pos minecraft:vec3> <delta minecraft:vec3> <speed brigadier:float[min="0.0"]> <count brigadier:integer[min="0"]> normal
-particle <name minecraft:particle> <pos minecraft:vec3> <delta minecraft:vec3> <speed brigadier:float[min="0.0"]> <count brigadier:integer[min="0"]> normal <viewers minecraft:entity[type="players", amount="multiple"]>

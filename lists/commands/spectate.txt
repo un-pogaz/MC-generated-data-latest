@@ -1,3 +1,0 @@
-spectate
-spectate <target minecraft:entity[type="entities", amount="single"]>
-spectate <target minecraft:entity[type="entities", amount="single"]> <player minecraft:entity[type="players", amount="single"]>

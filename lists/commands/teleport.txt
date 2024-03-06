@@ -1,8 +1,0 @@
-teleport <destination minecraft:entity[type="entities", amount="single"]>
-teleport <location minecraft:vec3>
-teleport <targets minecraft:entity[type="entities", amount="multiple"]> <destination minecraft:entity[type="entities", amount="single"]>
-teleport <targets minecraft:entity[type="entities", amount="multiple"]> <location minecraft:vec3>
-teleport <targets minecraft:entity[type="entities", amount="multiple"]> <location minecraft:vec3> facing entity <facingEntity minecraft:entity[type="entities", amount="single"]>
-teleport <targets minecraft:entity[type="entities", amount="multiple"]> <location minecraft:vec3> facing entity <facingEntity minecraft:entity[type="entities", amount="single"]> <facingAnchor minecraft:entity_anchor>
-teleport <targets minecraft:entity[type="entities", amount="multiple"]> <location minecraft:vec3> facing <facingLocation minecraft:vec3>
-teleport <targets minecraft:entity[type="entities", amount="multiple"]> <location minecraft:vec3> <rotation minecraft:rotation>

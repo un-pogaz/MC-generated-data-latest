@@ -1,8 +1,0 @@
-can_summon=true,shrieking=true,waterlogged=true
-can_summon=true,shrieking=true,waterlogged=false
-can_summon=true,shrieking=false,waterlogged=true
-can_summon=true,shrieking=false,waterlogged=false
-can_summon=false,shrieking=true,waterlogged=true
-can_summon=false,shrieking=true,waterlogged=false
-can_summon=false,shrieking=false,waterlogged=true
-can_summon=false,shrieking=false,waterlogged=false  [default]

@@ -1,4 +1,0 @@
-minecraft:composter
-minecraft:lava
-minecraft:light
-minecraft:water

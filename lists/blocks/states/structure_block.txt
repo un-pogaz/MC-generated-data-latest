@@ -1,4 +1,0 @@
-mode=save
-mode=load  [default]
-mode=corner
-mode=data

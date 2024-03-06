@@ -1,3 +1,0 @@
-locate biome <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]>
-locate poi <poi minecraft:resource_or_tag[registry="minecraft:point_of_interest_type"]>
-locate structure <structure minecraft:resource_or_tag_key[registry="minecraft:worldgen/structure"]>

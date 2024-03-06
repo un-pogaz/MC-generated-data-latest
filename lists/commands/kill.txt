@@ -1,2 +1,0 @@
-kill
-kill <targets minecraft:entity[type="entities", amount="multiple"]>

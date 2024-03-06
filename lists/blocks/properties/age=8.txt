@@ -1,7 +1,0 @@
-minecraft:cactus
-minecraft:cave_vines
-minecraft:fire
-minecraft:kelp
-minecraft:sugar_cane
-minecraft:twisting_vines
-minecraft:weeping_vines
