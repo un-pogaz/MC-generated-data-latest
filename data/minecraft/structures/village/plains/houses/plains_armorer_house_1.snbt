@@ -2300,6 +2300,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -2571,5 +2572,5 @@
       Name: "minecraft:blast_furnace"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }
