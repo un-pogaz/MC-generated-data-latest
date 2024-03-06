@@ -3,6 +3,7 @@
     "variants": {
         "upright": { "model": "log" },
         "side_n":  { "model": "log_side" },
-        "side_e":  { "model": "log_side", "y": 90 }
+        "side_e":  { "model": "log_side", "y": 90 },
+        "all_bark": { "model": "cube" }
     }
 }

@@ -7,6 +7,7 @@
         "height8":  { "model": "snow_height8" },
         "height10":  { "model": "snow_height10" },
         "height12":  { "model": "snow_height12" },
-        "height14":  { "model": "snow_height14" }
+        "height14":  { "model": "snow_height14" },
+        "height16":  { "model": "cube" }
     }
 }
