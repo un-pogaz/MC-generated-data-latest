@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/wooden_door/open",
+    "block/wooden_door/open2",
+    "block/wooden_door/open3",
+    "block/wooden_door/open4"
+  ],
+  "subtitle": "subtitles.block.door.toggle"
+}

@@ -1,2 +1,0 @@
-minecraft:random/door_close
-minecraft:random/door_open

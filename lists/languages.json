@@ -24,9 +24,19 @@
     "name": "Azərbaycanca",
     "bidirectional": false
   },
+  "be_by": {
+    "region": "Беларусь",
+    "name": "Беларуская",
+    "bidirectional": false
+  },
   "bg_bg": {
     "region": "България",
     "name": "Български",
+    "bidirectional": false
+  },
+  "br_fr": {
+    "region": "Breizh",
+    "name": "Brezhoneg",
     "bidirectional": false
   },
   "ca_es": {
@@ -61,12 +71,12 @@
   },
   "en_au": {
     "region": "Australia",
-    "name": "Australian English",
+    "name": "English",
     "bidirectional": false
   },
   "en_ca": {
     "region": "Canada",
-    "name": "Canadian English",
+    "name": "English",
     "bidirectional": false
   },
   "en_gb": {
@@ -74,9 +84,19 @@
     "name": "English",
     "bidirectional": false
   },
+  "en_nz": {
+    "region": "New Zealand",
+    "name": "English",
+    "bidirectional": false
+  },
   "en_pt": {
     "region": "PIRATE",
     "name": "Pirate Speak",
+    "bidirectional": false
+  },
+  "en_ud": {
+    "region": "ʞ∩",
+    "name": "ɥsᴉꞁƃuƎ",
     "bidirectional": false
   },
   "eo_uy": {
@@ -110,8 +130,8 @@
     "bidirectional": false
   },
   "et_ee": {
-    "region": "US",
-    "name": "Inglise",
+    "region": "Eesti",
+    "name": "Eesti keel",
     "bidirectional": false
   },
   "eu_es": {
@@ -134,9 +154,14 @@
     "name": "Filipino",
     "bidirectional": false
   },
+  "fo_fo": {
+    "region": "Føroyar",
+    "name": "Føroyskt",
+    "bidirectional": false
+  },
   "fr_ca": {
     "region": "Canada",
-    "name": "Français canadien",
+    "name": "Français québécois",
     "bidirectional": false
   },
   "fr_fr": {
@@ -144,13 +169,23 @@
     "name": "Français",
     "bidirectional": false
   },
+  "fy_nl": {
+    "region": "Fryslân",
+    "name": "Frysk",
+    "bidirectional": false
+  },
   "ga_ie": {
     "region": "Éire",
     "name": "Gaeilge",
     "bidirectional": false
   },
+  "gd_gb": {
+    "region": "Alba",
+    "name": "Gàidhlig",
+    "bidirectional": false
+  },
   "gl_es": {
-    "region": "Galiza",
+    "region": "Galicia",
     "name": "Galego",
     "bidirectional": false
   },
@@ -204,6 +239,11 @@
     "name": "日本語",
     "bidirectional": false
   },
+  "jbo_en": {
+    "region": "lojbo",
+    "name": "la .lojban.",
+    "bidirectional": false
+  },
   "ka_ge": {
     "region": "საქართველო",
     "name": "ქართული",
@@ -212,6 +252,11 @@
   "ko_kr": {
     "region": "한국",
     "name": "한국어",
+    "bidirectional": false
+  },
+  "ksh_de": {
+    "region": "Rhingland",
+    "name": "Kölsch/Ripoarisch",
     "bidirectional": false
   },
   "kw_gb": {
@@ -229,6 +274,16 @@
     "name": "Lëtzebuergesch",
     "bidirectional": false
   },
+  "li_li": {
+    "region": "Limburg",
+    "name": "Limburgs",
+    "bidirectional": false
+  },
+  "lol_us": {
+    "region": "Kingdom of Cats",
+    "name": "LOLCAT",
+    "bidirectional": false
+  },
   "lt_lt": {
     "region": "Lietuva",
     "name": "Lietuvių",
@@ -242,6 +297,11 @@
   "mi_nz": {
     "region": "Aotearoa",
     "name": "Te Reo Māori",
+    "bidirectional": false
+  },
+  "mk_mk": {
+    "region": "Македонија",
+    "name": "Македонски",
     "bidirectional": false
   },
   "ms_my": {
@@ -315,13 +375,23 @@
     "bidirectional": false
   },
   "sk_sk": {
-    "region": "SK",
+    "region": "Slovakia",
     "name": "Slovenčina",
     "bidirectional": false
   },
   "sl_si": {
     "region": "Slovenija",
     "name": "Slovenščina",
+    "bidirectional": false
+  },
+  "so_so": {
+    "region": "Soomaaliya",
+    "name": "Af-Soomaali",
+    "bidirectional": false
+  },
+  "sq_al": {
+    "region": "Shqipëri",
+    "name": "Shqip",
     "bidirectional": false
   },
   "sr_sp": {
@@ -349,6 +419,11 @@
     "name": "Türkçe",
     "bidirectional": false
   },
+  "tzl_tzl": {
+    "region": "Talossa",
+    "name": "Talossan",
+    "bidirectional": false
+  },
   "uk_ua": {
     "region": "Україна",
     "name": "Українська",
@@ -356,7 +431,7 @@
   },
   "val_es": {
     "region": "País Valencià",
-    "name": "Valencià",
+    "name": "Català (Valencià)",
     "bidirectional": false
   },
   "vi_vn": {

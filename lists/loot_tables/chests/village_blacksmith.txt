@@ -1,0 +1,17 @@
+minecraft:diamond
+minecraft:iron_ingot
+minecraft:gold_ingot
+minecraft:bread
+minecraft:apple
+minecraft:iron_pickaxe
+minecraft:iron_sword
+minecraft:iron_chestplate
+minecraft:iron_helmet
+minecraft:iron_leggings
+minecraft:iron_boots
+minecraft:obsidian
+minecraft:sapling
+minecraft:saddle
+minecraft:iron_horse_armor
+minecraft:golden_horse_armor
+minecraft:diamond_horse_armor

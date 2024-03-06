@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/iron_door/close1",
+    "block/iron_door/close2",
+    "block/iron_door/close3",
+    "block/iron_door/close4"
+  ],
+  "subtitle": "subtitles.block.door.toggle"
+}

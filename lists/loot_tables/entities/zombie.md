@@ -1,0 +1,9 @@
+| Name                   | Count | Chance | Weight | Comment                                 |
+| ---------------------- | ----- | ------ | ------ | --------------------------------------- |
+| 1 time                 |    -- |     -- |     -- |                                         |
+| minecraft:rotten_flesh |  0..2 |   100% |      1 |                                         |
+| – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – |
+| 1 time                 |    -- |     -- |     -- | killed by player, random chance: 0.025% |
+| minecraft:iron_ingot   |     1 |  33.3% |    1/3 |                                         |
+| minecraft:carrot       |     1 |  33.3% |    1/3 |                                         |
+| minecraft:potato       |     1 |  33.3% |    1/3 |                                         |

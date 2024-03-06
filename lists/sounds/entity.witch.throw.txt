@@ -1,0 +1,3 @@
+minecraft:entity/witch/throw1
+minecraft:entity/witch/throw2
+minecraft:entity/witch/throw3

@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "random/glass1",
+    "random/glass2",
+    "random/glass3"
+  ],
+  "subtitle": "subtitles.entity.potion.splash"
+}
