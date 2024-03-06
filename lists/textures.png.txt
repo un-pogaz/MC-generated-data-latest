@@ -38,10 +38,6 @@ minecraft:blocks/black_terracotta
 minecraft:blocks/black_wool
 minecraft:blocks/blue_concrete
 minecraft:blocks/blue_concrete_powder
-minecraft:blocks/blue_coral
-minecraft:blocks/blue_coral_fan
-minecraft:blocks/blue_coral_plant
-minecraft:blocks/blue_dead_coral
 minecraft:blocks/blue_glazed_terracotta
 minecraft:blocks/blue_orchid
 minecraft:blocks/blue_stained_glass
@@ -51,6 +47,9 @@ minecraft:blocks/blue_wool
 minecraft:blocks/bone_block_side
 minecraft:blocks/bone_block_top
 minecraft:blocks/bookshelf
+minecraft:blocks/brain_coral
+minecraft:blocks/brain_coral_block
+minecraft:blocks/brain_coral_fan
 minecraft:blocks/brewing_stand
 minecraft:blocks/brewing_stand_base
 minecraft:blocks/brick
@@ -63,6 +62,9 @@ minecraft:blocks/brown_stained_glass
 minecraft:blocks/brown_stained_glass_pane_top
 minecraft:blocks/brown_terracotta
 minecraft:blocks/brown_wool
+minecraft:blocks/bubble_coral
+minecraft:blocks/bubble_coral_block
+minecraft:blocks/bubble_coral_fan
 minecraft:blocks/cactus_bottom
 minecraft:blocks/cactus_side
 minecraft:blocks/cactus_top
@@ -133,7 +135,12 @@ minecraft:blocks/dark_prismarine
 minecraft:blocks/daylight_detector_inverted_top
 minecraft:blocks/daylight_detector_side
 minecraft:blocks/daylight_detector_top
+minecraft:blocks/dead_brain_coral_block
+minecraft:blocks/dead_bubble_coral_block
 minecraft:blocks/dead_bush
+minecraft:blocks/dead_fire_coral_block
+minecraft:blocks/dead_horn_coral_block
+minecraft:blocks/dead_tube_coral_block
 minecraft:blocks/debug
 minecraft:blocks/debug2
 minecraft:blocks/destroy_stage_0
@@ -175,6 +182,9 @@ minecraft:blocks/end_stone_bricks
 minecraft:blocks/farmland
 minecraft:blocks/farmland_wet
 minecraft:blocks/fern
+minecraft:blocks/fire_coral
+minecraft:blocks/fire_coral_block
+minecraft:blocks/fire_coral_fan
 minecraft:blocks/fire_layer_0  [mcmeta]
 minecraft:blocks/fire_layer_1  [mcmeta]
 minecraft:blocks/flower_pot
@@ -218,6 +228,9 @@ minecraft:blocks/hay_block_top
 minecraft:blocks/hopper_inside
 minecraft:blocks/hopper_outside
 minecraft:blocks/hopper_top
+minecraft:blocks/horn_coral
+minecraft:blocks/horn_coral_block
+minecraft:blocks/horn_coral_fan
 minecraft:blocks/ice
 minecraft:blocks/iron_bars
 minecraft:blocks/iron_block
@@ -323,10 +336,6 @@ minecraft:blocks/peony_bottom
 minecraft:blocks/peony_top
 minecraft:blocks/pink_concrete
 minecraft:blocks/pink_concrete_powder
-minecraft:blocks/pink_coral
-minecraft:blocks/pink_coral_fan
-minecraft:blocks/pink_coral_plant
-minecraft:blocks/pink_dead_coral
 minecraft:blocks/pink_glazed_terracotta
 minecraft:blocks/pink_stained_glass
 minecraft:blocks/pink_stained_glass_pane_top
@@ -360,10 +369,6 @@ minecraft:blocks/pumpkin_stem
 minecraft:blocks/pumpkin_top
 minecraft:blocks/purple_concrete
 minecraft:blocks/purple_concrete_powder
-minecraft:blocks/purple_coral
-minecraft:blocks/purple_coral_fan
-minecraft:blocks/purple_coral_plant
-minecraft:blocks/purple_dead_coral
 minecraft:blocks/purple_glazed_terracotta
 minecraft:blocks/purple_stained_glass
 minecraft:blocks/purple_stained_glass_pane_top
@@ -382,10 +387,6 @@ minecraft:blocks/rail
 minecraft:blocks/rail_corner
 minecraft:blocks/red_concrete
 minecraft:blocks/red_concrete_powder
-minecraft:blocks/red_coral
-minecraft:blocks/red_coral_fan
-minecraft:blocks/red_coral_plant
-minecraft:blocks/red_dead_coral
 minecraft:blocks/red_glazed_terracotta
 minecraft:blocks/red_mushroom
 minecraft:blocks/red_mushroom_block
@@ -423,6 +424,7 @@ minecraft:blocks/sandstone_bottom
 minecraft:blocks/sandstone_top
 minecraft:blocks/sea_grass  [mcmeta]
 minecraft:blocks/sea_lantern  [mcmeta]
+minecraft:blocks/sea_pickle
 minecraft:blocks/shulker_top
 minecraft:blocks/shulker_top_black
 minecraft:blocks/shulker_top_blue
@@ -490,6 +492,9 @@ minecraft:blocks/tnt_top
 minecraft:blocks/torch
 minecraft:blocks/trip_wire
 minecraft:blocks/trip_wire_hook
+minecraft:blocks/tube_coral
+minecraft:blocks/tube_coral_block
+minecraft:blocks/tube_coral_fan
 minecraft:blocks/turtle_egg_not_cracked
 minecraft:blocks/turtle_egg_slightly_cracked
 minecraft:blocks/turtle_egg_very_cracked
@@ -516,10 +521,6 @@ minecraft:blocks/white_tulip
 minecraft:blocks/white_wool
 minecraft:blocks/yellow_concrete
 minecraft:blocks/yellow_concrete_powder
-minecraft:blocks/yellow_coral
-minecraft:blocks/yellow_coral_fan
-minecraft:blocks/yellow_coral_plant
-minecraft:blocks/yellow_dead_coral
 minecraft:blocks/yellow_glazed_terracotta
 minecraft:blocks/yellow_stained_glass
 minecraft:blocks/yellow_stained_glass_pane_top
@@ -1425,6 +1426,7 @@ minecraft:items/salmon
 minecraft:items/salmon_bucket
 minecraft:items/scute
 minecraft:items/sea_grass
+minecraft:items/sea_pickle
 minecraft:items/shears
 minecraft:items/shulker_shell
 minecraft:items/sign

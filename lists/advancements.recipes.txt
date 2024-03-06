@@ -346,6 +346,7 @@ minecraft:recipes/misc/book
 minecraft:recipes/misc/bowl
 minecraft:recipes/misc/brick
 minecraft:recipes/misc/bucket
+minecraft:recipes/misc/cactus_green
 minecraft:recipes/misc/charcoal
 minecraft:recipes/misc/chorus_fruit_popped
 minecraft:recipes/misc/coal
@@ -379,6 +380,7 @@ minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal
 minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy
 minecraft:recipes/misc/light_gray_dye_from_white_tulip
 minecraft:recipes/misc/lime_dye
+minecraft:recipes/misc/lime_dye_from_smelting
 minecraft:recipes/misc/magenta_dye_from_allium
 minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal
 minecraft:recipes/misc/magenta_dye_from_lapis_red_pink
