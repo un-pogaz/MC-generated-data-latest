@@ -29,6 +29,7 @@ minecraft:block/beacon
 minecraft:block/bed_foot
 minecraft:block/bed_head
 minecraft:block/bedrock
+minecraft:block/bedrock_mirrored
 minecraft:block/birch_bark
 minecraft:block/birch_inner_stairs
 minecraft:block/birch_leaves
@@ -149,6 +150,8 @@ minecraft:block/cube
 minecraft:block/cube_all
 minecraft:block/cube_bottom_top
 minecraft:block/cube_column
+minecraft:block/cube_mirrored
+minecraft:block/cube_mirrored_all
 minecraft:block/cube_top
 minecraft:block/cyan_pane_n
 minecraft:block/cyan_pane_ne
@@ -731,6 +734,7 @@ minecraft:block/stone_button
 minecraft:block/stone_button_inventory
 minecraft:block/stone_button_pressed
 minecraft:block/stone_inner_stairs
+minecraft:block/stone_mirrored
 minecraft:block/stone_outer_stairs
 minecraft:block/stone_pressure_plate_down
 minecraft:block/stone_pressure_plate_inventory
