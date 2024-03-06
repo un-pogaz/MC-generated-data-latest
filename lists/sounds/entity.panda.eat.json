@@ -1,53 +1,20 @@
 {
   "sounds": [
-    {
-      "name": "mob/panda/eat1",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat2",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat3",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat4",
-      "volume": 1
-    },
+    "mob/panda/eat1",
+    "mob/panda/eat2",
+    "mob/panda/eat3",
+    "mob/panda/eat4",
     {
       "name": "mob/panda/eat5",
       "volume": 0.85
     },
-    {
-      "name": "mob/panda/eat6",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat7",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat8",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat9",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat10",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat11",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/eat12",
-      "volume": 1
-    }
+    "mob/panda/eat6",
+    "mob/panda/eat7",
+    "mob/panda/eat8",
+    "mob/panda/eat9",
+    "mob/panda/eat10",
+    "mob/panda/eat11",
+    "mob/panda/eat12"
   ],
   "subtitle": "subtitles.entity.panda.eat"
 }

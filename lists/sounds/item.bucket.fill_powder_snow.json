@@ -1,24 +1,18 @@
 {
   "sounds": [
+    "item/bucket/fill_powder_snow1",
     {
       "name": "item/bucket/fill_powder_snow1",
-      "pitch": 1.0
-    },
-    {
-      "name": "item/bucket/fill_powder_snow2",
-      "pitch": 1.0
-    },
-    {
-      "name": "item/bucket/fill_powder_snow1",
-      "pitch": 0.9
-    },
-    {
-      "name": "item/bucket/fill_powder_snow2",
       "pitch": 0.9
     },
     {
       "name": "item/bucket/fill_powder_snow1",
       "pitch": 1.1
+    },
+    "item/bucket/fill_powder_snow2",
+    {
+      "name": "item/bucket/fill_powder_snow2",
+      "pitch": 0.9
     },
     {
       "name": "item/bucket/fill_powder_snow2",

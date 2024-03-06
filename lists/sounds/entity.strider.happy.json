@@ -1,25 +1,10 @@
 {
   "sounds": [
-    {
-      "name": "mob/strider/happy1",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/happy2",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/happy3",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/happy4",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/happy5",
-      "volume": 1
-    }
+    "mob/strider/happy1",
+    "mob/strider/happy2",
+    "mob/strider/happy3",
+    "mob/strider/happy4",
+    "mob/strider/happy5"
   ],
   "subtitle": "subtitles.entity.strider.happy"
 }

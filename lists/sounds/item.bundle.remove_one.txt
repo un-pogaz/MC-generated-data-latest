@@ -1,0 +1,9 @@
+minecraft:item/bundle/remove_one1
+minecraft:item/bundle/remove_one1
+minecraft:item/bundle/remove_one1
+minecraft:item/bundle/remove_one2
+minecraft:item/bundle/remove_one2
+minecraft:item/bundle/remove_one2
+minecraft:item/bundle/remove_one3
+minecraft:item/bundle/remove_one3
+minecraft:item/bundle/remove_one3

@@ -2,8 +2,7 @@
   "sounds": [
     {
       "name": "item/crossbow/loading_start",
-      "volume": 0.3,
-      "pitch": 1
+      "volume": 0.3
     }
   ],
   "subtitle": "subtitles.item.crossbow.charge"
