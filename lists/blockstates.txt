@@ -80,6 +80,7 @@ minecraft:dark_oak_slab
 minecraft:dark_oak_stairs
 minecraft:dark_prismarine
 minecraft:daylight_detector
+minecraft:daylight_detector_inverted
 minecraft:dead_bush
 minecraft:detector_rail
 minecraft:diamond_block

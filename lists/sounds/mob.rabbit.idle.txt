@@ -1,0 +1,4 @@
+minecraft:mob/rabbit/idle1
+minecraft:mob/rabbit/idle2
+minecraft:mob/rabbit/idle3
+minecraft:mob/rabbit/idle4
