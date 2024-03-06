@@ -6,17 +6,17 @@
       "weight": 2
     },
     {
-      "name": "music/game/calm1",
+      "name": "music/game/minecraft",
       "stream": true,
       "weight": 2
     },
     {
-      "name": "music/game/calm2",
+      "name": "music/game/clark",
       "stream": true,
       "weight": 2
     },
     {
-      "name": "music/game/calm3",
+      "name": "music/game/sweden",
       "stream": true,
       "weight": 2
     },
@@ -44,7 +44,7 @@
       "weight": 2
     },
     {
-      "name": "music/game/piano3",
+      "name": "music/game/mice_on_venus",
       "stream": true,
       "weight": 2
     },

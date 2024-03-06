@@ -92,6 +92,7 @@ minecraft:wooded_badlands
 #minecraft:has_structure/stronghold
 #minecraft:has_structure/swamp_hut
 #minecraft:has_structure/trail_ruins
+#minecraft:has_structure/trial_chambers
 #minecraft:has_structure/village_desert
 #minecraft:has_structure/village_plains
 #minecraft:has_structure/village_savanna

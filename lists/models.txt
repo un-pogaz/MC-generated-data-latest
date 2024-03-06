@@ -522,7 +522,9 @@ minecraft:block/cross
 minecraft:block/crying_obsidian
 minecraft:block/cube
 minecraft:block/cube_all
+minecraft:block/cube_all_inner_faces
 minecraft:block/cube_bottom_top
+minecraft:block/cube_bottom_top_inner_faces
 minecraft:block/cube_column
 minecraft:block/cube_column_horizontal
 minecraft:block/cube_column_mirrored
@@ -1941,6 +1943,9 @@ minecraft:block/torch
 minecraft:block/torchflower
 minecraft:block/torchflower_crop_stage0
 minecraft:block/torchflower_crop_stage1
+minecraft:block/trial_spawner
+minecraft:block/trial_spawner_active
+minecraft:block/trial_spawner_ejecting_reward
 minecraft:block/tripwire_attached_n
 minecraft:block/tripwire_attached_ne
 minecraft:block/tripwire_attached_ns
@@ -2261,6 +2266,7 @@ minecraft:item/brain_coral
 minecraft:item/brain_coral_block
 minecraft:item/brain_coral_fan
 minecraft:item/bread
+minecraft:item/breeze_spawn_egg
 minecraft:item/brewer_pottery_sherd
 minecraft:item/brewing_stand
 minecraft:item/brick
@@ -3689,6 +3695,8 @@ minecraft:item/torchflower_seeds
 minecraft:item/totem_of_undying
 minecraft:item/trader_llama_spawn_egg
 minecraft:item/trapped_chest
+minecraft:item/trial_key
+minecraft:item/trial_spawner
 minecraft:item/trident
 minecraft:item/trident_in_hand
 minecraft:item/trident_throwing
