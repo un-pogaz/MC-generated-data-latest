@@ -1,0 +1,5 @@
+minecraft:block/roots/step1
+minecraft:block/roots/step2
+minecraft:block/roots/step3
+minecraft:block/roots/step4
+minecraft:block/roots/step5

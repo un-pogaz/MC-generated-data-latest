@@ -2404,6 +2404,7 @@ minecraft:item/end_stone_brick_stairs
 minecraft:item/end_stone_brick_wall
 minecraft:item/end_stone_bricks
 minecraft:item/ender_chest
+minecraft:item/ender_dragon_spawn_egg
 minecraft:item/ender_eye
 minecraft:item/ender_pearl
 minecraft:item/enderman_spawn_egg
@@ -2542,6 +2543,7 @@ minecraft:item/iron_block
 minecraft:item/iron_boots
 minecraft:item/iron_chestplate
 minecraft:item/iron_door
+minecraft:item/iron_golem_spawn_egg
 minecraft:item/iron_helmet
 minecraft:item/iron_hoe
 minecraft:item/iron_horse_armor
@@ -3045,6 +3047,7 @@ minecraft:item/smooth_stone
 minecraft:item/smooth_stone_slab
 minecraft:item/snow
 minecraft:item/snow_block
+minecraft:item/snow_golem_spawn_egg
 minecraft:item/snowball
 minecraft:item/soul_campfire
 minecraft:item/soul_lantern
@@ -3225,6 +3228,7 @@ minecraft:item/witch_spawn_egg
 minecraft:item/wither_rose
 minecraft:item/wither_skeleton_skull
 minecraft:item/wither_skeleton_spawn_egg
+minecraft:item/wither_spawn_egg
 minecraft:item/wolf_spawn_egg
 minecraft:item/wooden_axe
 minecraft:item/wooden_hoe
