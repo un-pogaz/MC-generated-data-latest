@@ -1,1 +1,2 @@
 minecraft:campfire
+minecraft:soul_campfire

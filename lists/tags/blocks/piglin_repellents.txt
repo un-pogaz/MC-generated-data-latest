@@ -2,3 +2,4 @@ minecraft:soul_fire
 minecraft:soul_fire_torch
 minecraft:soul_fire_lantern
 minecraft:soul_fire_wall_torch
+minecraft:soul_campfire
