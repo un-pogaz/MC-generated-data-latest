@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:enchanted_book",
+        "icon": {
+            "item": "minecraft:enchanted_book"
+        },
         "title": "Enchanter",
         "description": "Enchant an item at an Enchanting Table"
     },

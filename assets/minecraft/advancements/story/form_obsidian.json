@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:obsidian",
+        "icon": {
+            "item": "minecraft:obsidian"
+        },
         "title": "Ice Bucket Challenge",
         "description": "Form and mine a block of Obsidian"
     },

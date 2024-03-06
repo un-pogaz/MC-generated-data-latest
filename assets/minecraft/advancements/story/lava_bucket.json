@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:lava_bucket",
+        "icon": {
+            "item": "minecraft:lava_bucket"
+        },
         "title": "Hot Stuff",
         "description": "Fill a bucket with lava"
     },

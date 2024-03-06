@@ -1,12 +1,14 @@
 {
     "display": {
-        "icon": "minecraft:emerald",
+        "icon": {
+            "item": "minecraft:emerald"
+        },
         "title": "What a Deal!",
         "description": "Successfully trade with a Villager"
     },
     "parent": "adventure/root",
     "criteria": {
-        "shot_arrow": {
+        "traded": {
             "trigger": "minecraft:villager_trade"
         }
     }
