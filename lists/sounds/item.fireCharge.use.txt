@@ -1,1 +1,1 @@
-minecraft:mob/ghast/fireball
+minecraft:mob/ghast/fireball4
