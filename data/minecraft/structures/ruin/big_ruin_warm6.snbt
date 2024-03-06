@@ -1445,6 +1445,31 @@
     },
     {
       nbt: {
+        metadata: "drowned",
+        mirror: "NONE",
+        ignoreEntities: 1b,
+        powered: 0b,
+        seed: 0L,
+        author: "LadyAgnes",
+        rotation: "NONE",
+        mode: "DATA",
+        posX: 0,
+        posY: 1,
+        sizeX: 0,
+        integrity: 1.0f,
+        posZ: 0,
+        showair: 0b,
+        name: "",
+        id: "minecraft:structure_block",
+        sizeY: 0,
+        showboundingbox: 1b,
+        sizeZ: 0
+      },
+      pos: [5, 1, 4],
+      state: 6
+    },
+    {
+      nbt: {
         metadata: "chest",
         mirror: "NONE",
         ignoreEntities: 1b,
@@ -1466,6 +1491,31 @@
         sizeZ: 0
       },
       pos: [10, 0, 9],
+      state: 6
+    },
+    {
+      nbt: {
+        metadata: "drowned",
+        mirror: "NONE",
+        ignoreEntities: 1b,
+        powered: 0b,
+        seed: 0L,
+        author: "LadyAgnes",
+        rotation: "NONE",
+        mode: "DATA",
+        posX: 0,
+        posY: 1,
+        sizeX: 0,
+        integrity: 1.0f,
+        posZ: 0,
+        showair: 0b,
+        name: "",
+        id: "minecraft:structure_block",
+        sizeY: 0,
+        showboundingbox: 1b,
+        sizeZ: 0
+      },
+      pos: [9, 1, 9],
       state: 6
     },
     {
@@ -5214,10 +5264,6 @@
     },
     {
       pos: [4, 1, 4],
-      state: 7
-    },
-    {
-      pos: [5, 1, 4],
       state: 7
     },
     {
@@ -9874,10 +9920,6 @@
     },
     {
       pos: [8, 1, 9],
-      state: 7
-    },
-    {
-      pos: [9, 1, 9],
       state: 7
     },
     {
@@ -16438,5 +16480,5 @@
       Name: "minecraft:air"
     }
   ],
-  DataVersion: 1469
+  DataVersion: 1482
 }
