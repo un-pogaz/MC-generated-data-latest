@@ -86,6 +86,7 @@ minecraft/lang/la_la.json
 minecraft/lang/lb_lu.json
 minecraft/lang/li_li.json
 minecraft/lang/lmo.json
+minecraft/lang/lo_la.json
 minecraft/lang/lol_us.json
 minecraft/lang/lt_lt.json
 minecraft/lang/lv_lv.json
@@ -110,6 +111,7 @@ minecraft/lang/ro_ro.json
 minecraft/lang/rpr.json
 minecraft/lang/ru_ru.json
 minecraft/lang/ry_ua.json
+minecraft/lang/sah_sah.json
 minecraft/lang/se_no.json
 minecraft/lang/sk_sk.json
 minecraft/lang/sl_si.json
