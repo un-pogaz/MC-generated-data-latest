@@ -2177,6 +2177,7 @@
     },
     {
       Properties: {
+        waterlogged: "false",
         distance: "7",
         persistent: "false"
       },
@@ -2237,5 +2238,5 @@
       Name: "minecraft:cobblestone_stairs"
     }
   ],
-  DataVersion: 3080
+  DataVersion: 3082
 }

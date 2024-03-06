@@ -1,0 +1,4 @@
+minecraft:mob/warden/heartbeat_1
+minecraft:mob/warden/heartbeat_2
+minecraft:mob/warden/heartbeat_3
+minecraft:mob/warden/heartbeat_4

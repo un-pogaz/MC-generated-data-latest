@@ -1,0 +1,12 @@
+minecraft:mob/warden/ambient_1
+minecraft:mob/warden/ambient_2
+minecraft:mob/warden/ambient_3
+minecraft:mob/warden/ambient_4
+minecraft:mob/warden/ambient_5
+minecraft:mob/warden/ambient_6
+minecraft:mob/warden/ambient_7
+minecraft:mob/warden/ambient_8
+minecraft:mob/warden/ambient_9
+minecraft:mob/warden/ambient_10
+minecraft:mob/warden/ambient_11
+minecraft:mob/warden/ambient_12

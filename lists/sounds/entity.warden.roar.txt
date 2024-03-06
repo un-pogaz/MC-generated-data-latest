@@ -1,0 +1,5 @@
+minecraft:mob/warden/roar_1
+minecraft:mob/warden/roar_2
+minecraft:mob/warden/roar_3
+minecraft:mob/warden/roar_4
+minecraft:mob/warden/roar_5

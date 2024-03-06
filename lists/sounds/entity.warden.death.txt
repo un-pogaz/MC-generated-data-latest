@@ -1,0 +1,2 @@
+minecraft:mob/warden/death_1
+minecraft:mob/warden/death_2
