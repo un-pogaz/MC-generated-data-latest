@@ -783,6 +783,7 @@ minecraft:zombie_wall_head
 #minecraft:doors
 #minecraft:dragon_immune
 #minecraft:enderman_holdable
+#minecraft:fence_gates
 #minecraft:fences
 #minecraft:fire
 #minecraft:flower_pots
@@ -822,6 +823,7 @@ minecraft:zombie_wall_head
 #minecraft:tall_flowers
 #minecraft:trapdoors
 #minecraft:underwater_bonemeals
+#minecraft:unstable_bottom_center
 #minecraft:valid_spawn
 #minecraft:wall_corals
 #minecraft:wall_post_override
