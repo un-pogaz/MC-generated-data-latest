@@ -9,6 +9,7 @@ minecraft:block_state
 minecraft:color
 minecraft:component
 minecraft:entity
+minecraft:entity_anchor
 minecraft:function
 minecraft:game_profile
 minecraft:item_predicate
@@ -22,6 +23,7 @@ minecraft:objective
 minecraft:objective_criteria
 minecraft:operation
 minecraft:particle
+minecraft:range
 minecraft:resource_location
 minecraft:rotation
 minecraft:score_holder

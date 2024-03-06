@@ -1,0 +1,5 @@
+minecraft:block/bubble_column/upwards_ambient1
+minecraft:block/bubble_column/upwards_ambient2
+minecraft:block/bubble_column/upwards_ambient3
+minecraft:block/bubble_column/upwards_ambient4
+minecraft:block/bubble_column/upwards_ambient5

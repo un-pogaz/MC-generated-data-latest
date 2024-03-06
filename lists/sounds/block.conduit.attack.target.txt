@@ -1,0 +1,3 @@
+minecraft:block/conduit/attack1
+minecraft:block/conduit/attack2
+minecraft:block/conduit/attack3

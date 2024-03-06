@@ -1,0 +1,2 @@
+minecraft:entity/pufferfish/hurt1
+minecraft:entity/pufferfish/hurt2

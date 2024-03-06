@@ -8,58 +8,11 @@
         "amount": "single",
         "type": "entities"
       },
-      "children": {
-        "facing": {
-          "type": "literal",
-          "children": {
-            "facingEntity": {
-              "type": "argument",
-              "parser": "minecraft:entity",
-              "properties": {
-                "amount": "single",
-                "type": "entities"
-              },
-              "executable": true
-            },
-            "facingLocation": {
-              "type": "argument",
-              "parser": "minecraft:vec3",
-              "executable": true
-            }
-          }
-        }
-      },
       "executable": true
     },
     "location": {
       "type": "argument",
       "parser": "minecraft:vec3",
-      "children": {
-        "facing": {
-          "type": "literal",
-          "children": {
-            "facingEntity": {
-              "type": "argument",
-              "parser": "minecraft:entity",
-              "properties": {
-                "amount": "single",
-                "type": "entities"
-              },
-              "executable": true
-            },
-            "facingLocation": {
-              "type": "argument",
-              "parser": "minecraft:vec3",
-              "executable": true
-            }
-          }
-        },
-        "rotation": {
-          "type": "argument",
-          "parser": "minecraft:rotation",
-          "executable": true
-        }
-      },
       "executable": true
     },
     "targets": {
@@ -77,27 +30,6 @@
             "amount": "single",
             "type": "entities"
           },
-          "children": {
-            "facing": {
-              "type": "literal",
-              "children": {
-                "facingEntity": {
-                  "type": "argument",
-                  "parser": "minecraft:entity",
-                  "properties": {
-                    "amount": "single",
-                    "type": "entities"
-                  },
-                  "executable": true
-                },
-                "facingLocation": {
-                  "type": "argument",
-                  "parser": "minecraft:vec3",
-                  "executable": true
-                }
-              }
-            }
-          },
           "executable": true
         },
         "location": {
@@ -107,14 +39,26 @@
             "facing": {
               "type": "literal",
               "children": {
-                "facingEntity": {
-                  "type": "argument",
-                  "parser": "minecraft:entity",
-                  "properties": {
-                    "amount": "single",
-                    "type": "entities"
-                  },
-                  "executable": true
+                "entity": {
+                  "type": "literal",
+                  "children": {
+                    "facingEntity": {
+                      "type": "argument",
+                      "parser": "minecraft:entity",
+                      "properties": {
+                        "amount": "single",
+                        "type": "entities"
+                      },
+                      "children": {
+                        "facingAnchor": {
+                          "type": "argument",
+                          "parser": "minecraft:entity_anchor",
+                          "executable": true
+                        }
+                      },
+                      "executable": true
+                    }
+                  }
                 },
                 "facingLocation": {
                   "type": "argument",

@@ -1,0 +1,5 @@
+minecraft:mob/turtle/walk1
+minecraft:mob/turtle/walk2
+minecraft:mob/turtle/walk3
+minecraft:mob/turtle/walk4
+minecraft:mob/turtle/walk5

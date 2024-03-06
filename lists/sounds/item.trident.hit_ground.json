@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "item/trident/ground_impact1",
+      "volume": 0.9
+    },
+    {
+      "name": "item/trident/ground_impact2",
+      "volume": 0.9
+    },
+    {
+      "name": "item/trident/ground_impact3",
+      "volume": 0.9
+    },
+    {
+      "name": "item/trident/ground_impact4",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.item.trident.hit_ground"
+}

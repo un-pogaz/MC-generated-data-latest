@@ -1,0 +1,6 @@
+minecraft:step/coral1
+minecraft:step/coral2
+minecraft:step/coral3
+minecraft:step/coral4
+minecraft:step/coral5
+minecraft:step/coral6

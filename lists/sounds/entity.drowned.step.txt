@@ -1,0 +1,5 @@
+minecraft:mob/drowned/step1
+minecraft:mob/drowned/step2
+minecraft:mob/drowned/step3
+minecraft:mob/drowned/step4
+minecraft:mob/drowned/step5

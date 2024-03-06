@@ -1,0 +1,6 @@
+minecraft:step/wet_grass1
+minecraft:step/wet_grass2
+minecraft:step/wet_grass3
+minecraft:step/wet_grass4
+minecraft:step/wet_grass5
+minecraft:step/wet_grass6
