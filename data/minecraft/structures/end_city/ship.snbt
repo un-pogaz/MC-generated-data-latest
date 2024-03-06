@@ -36631,10 +36631,11 @@
     },
     {
       Properties: {
+        powered: "false",
         facing: "north"
       },
       Name: "minecraft:dragon_wall_head"
     }
   ],
-  DataVersion: 3570
+  DataVersion: 3571
 }

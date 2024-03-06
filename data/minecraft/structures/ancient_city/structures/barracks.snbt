@@ -6576,10 +6576,11 @@
     },
     {
       Properties: {
+        powered: "false",
         rotation: "14"
       },
       Name: "minecraft:skeleton_skull"
     }
   ],
-  DataVersion: 3570
+  DataVersion: 3571
 }
