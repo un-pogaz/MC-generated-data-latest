@@ -1,0 +1,11 @@
+minecraft:music/game/bromeliad
+minecraft:music/game/hal1
+minecraft:music/game/hal2
+minecraft:music/game/hal3
+minecraft:music/game/hal4
+minecraft:music/game/left_to_bloom
+minecraft:music/game/nuance1
+minecraft:music/game/nuance2
+minecraft:music/game/piano1
+minecraft:music/game/piano2
+minecraft:music/game/piano3
