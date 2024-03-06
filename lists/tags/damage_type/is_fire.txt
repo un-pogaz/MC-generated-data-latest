@@ -1,0 +1,6 @@
+minecraft:in_fire
+minecraft:on_fire
+minecraft:lava
+minecraft:hot_floor
+minecraft:unattributed_fireball
+minecraft:fireball
