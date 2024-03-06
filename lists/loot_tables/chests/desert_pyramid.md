@@ -25,5 +25,5 @@
 | minecraft:sand                              |  1..8 |    20% |  10/50 |                 |
 | – – – – – – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – |
 | 1 time                                      |    -- |     -- |     -- |                 |
-| empty                                       |       |  88.9% |    8/9 |                 |
-| minecraft:dune_armor_trim_smithing_template |     1 |  11.1% |    1/9 |                 |
+| empty                                       |       |  85.7% |    6/7 |                 |
+| minecraft:dune_armor_trim_smithing_template |     2 |  14.3% |    1/7 |                 |

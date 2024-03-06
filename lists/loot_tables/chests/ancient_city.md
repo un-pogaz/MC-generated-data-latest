@@ -31,5 +31,5 @@
 | minecraft:coal                              | 6..15 |   8.1% |   7/86 |                                                |
 | – – – – – – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – –  |
 | 1 time                                      |    -- |     -- |     -- |                                                |
-| empty                                       |       |  95.2% |  20/21 |                                                |
-| minecraft:ward_armor_trim_smithing_template |     1 |   4.8% |   1/21 |                                                |
+| empty                                       |       |    95% |  19/20 |                                                |
+| minecraft:ward_armor_trim_smithing_template |     1 |     5% |   1/20 |                                                |

@@ -20,5 +20,5 @@
 | minecraft:leather_boots                      |     1 |   3.6% |   3/84 | enchantments: * |
 | – – – – – – – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – |
 | 1 time                                       |    -- |     -- |     -- |                 |
-| empty                                        |       |  88.9% |    8/9 |                 |
-| minecraft:coast_armor_trim_smithing_template |     1 |  11.1% |    1/9 |                 |
+| empty                                        |       |  83.3% |    5/6 |                 |
+| minecraft:coast_armor_trim_smithing_template |     2 |  16.7% |    1/6 |                 |
