@@ -184,7 +184,9 @@ minecraft:creeper_head
 minecraft:creeper_spawn_egg
 minecraft:crossbow
 minecraft:cut_red_sandstone
+minecraft:cut_red_sandstone_slab
 minecraft:cut_sandstone
+minecraft:cut_sandstone_slab
 minecraft:cyan_banner
 minecraft:cyan_bed
 minecraft:cyan_carpet
