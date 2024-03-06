@@ -109,7 +109,7 @@ minecraft:pink_wall_banner
 minecraft:piston
 minecraft:piston_head
 minecraft:player_wall_head
-minecraft:prismarine_bricks_stairs
+minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
 minecraft:purple_bed
 minecraft:purple_glazed_terracotta
