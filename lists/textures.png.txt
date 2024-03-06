@@ -965,7 +965,6 @@ minecraft:items/acacia_boat
 minecraft:items/apple
 minecraft:items/apple_golden
 minecraft:items/arrow
-minecraft:items/banner_base
 minecraft:items/banner_overlay
 minecraft:items/barrier
 minecraft:items/bed
