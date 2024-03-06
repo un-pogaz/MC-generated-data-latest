@@ -1943,10 +1943,10 @@ minecraft:mob/frog/step1
 minecraft:mob/frog/step2
 minecraft:mob/frog/step3
 minecraft:mob/frog/step4
-minecraft:mob/frog/tounge1
-minecraft:mob/frog/tounge2
-minecraft:mob/frog/tounge3
-minecraft:mob/frog/tounge4
+minecraft:mob/frog/tongue1
+minecraft:mob/frog/tongue2
+minecraft:mob/frog/tongue3
+minecraft:mob/frog/tongue4
 minecraft:mob/ghast/affectionate_scream
 minecraft:mob/ghast/charge
 minecraft:mob/ghast/death

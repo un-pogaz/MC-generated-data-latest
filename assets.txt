@@ -2050,10 +2050,10 @@ minecraft/sounds/mob/frog/step1.ogg
 minecraft/sounds/mob/frog/step2.ogg
 minecraft/sounds/mob/frog/step3.ogg
 minecraft/sounds/mob/frog/step4.ogg
-minecraft/sounds/mob/frog/tounge1.ogg
-minecraft/sounds/mob/frog/tounge2.ogg
-minecraft/sounds/mob/frog/tounge3.ogg
-minecraft/sounds/mob/frog/tounge4.ogg
+minecraft/sounds/mob/frog/tongue1.ogg
+minecraft/sounds/mob/frog/tongue2.ogg
+minecraft/sounds/mob/frog/tongue3.ogg
+minecraft/sounds/mob/frog/tongue4.ogg
 minecraft/sounds/mob/ghast/affectionate_scream.ogg
 minecraft/sounds/mob/ghast/charge.ogg
 minecraft/sounds/mob/ghast/death.ogg

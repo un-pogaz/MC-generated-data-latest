@@ -2,7 +2,7 @@ minecraft:tabby
 minecraft:black
 minecraft:red
 minecraft:siamese
-minecraft:british
+minecraft:british_shorthair
 minecraft:calico
 minecraft:persian
 minecraft:ragdoll
