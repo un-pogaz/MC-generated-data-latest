@@ -612,7 +612,8 @@ minecraft:entity/chest/trapped_double
 minecraft:entity/chicken
 minecraft:entity/conduit/base
 minecraft:entity/conduit/cage
-minecraft:entity/conduit/entity_core
+minecraft:entity/conduit/closed_eye
+minecraft:entity/conduit/open_eye
 minecraft:entity/conduit/wind
 minecraft:entity/conduit/wind_vertical
 minecraft:entity/cow/cow
@@ -1317,6 +1318,7 @@ minecraft:items/flower_pot
 minecraft:items/furnace_minecart
 minecraft:items/ghast_tear
 minecraft:items/glass_bottle
+minecraft:items/glistering_melon_slice
 minecraft:items/glowstone_dust
 minecraft:items/gold_ingot
 minecraft:items/gold_nugget
@@ -1375,8 +1377,8 @@ minecraft:items/lingering_potion
 minecraft:items/magenta_dye
 minecraft:items/magma_cream
 minecraft:items/map
-minecraft:items/melon
 minecraft:items/melon_seeds
+minecraft:items/melon_slice
 minecraft:items/milk_bucket
 minecraft:items/minecart
 minecraft:items/mushroom_stew
@@ -1440,7 +1442,6 @@ minecraft:items/slime_ball
 minecraft:items/snowball
 minecraft:items/spawn_egg
 minecraft:items/spawn_egg_overlay
-minecraft:items/speckled_melon
 minecraft:items/spectral_arrow
 minecraft:items/spider_eye
 minecraft:items/splash_potion

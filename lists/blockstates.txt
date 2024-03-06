@@ -264,7 +264,7 @@ minecraft:magenta_stained_glass_pane
 minecraft:magenta_terracotta
 minecraft:magenta_wool
 minecraft:magma_block
-minecraft:melon_block
+minecraft:melon
 minecraft:melon_stem
 minecraft:mob_spawner
 minecraft:mossy_cobblestone
