@@ -1,5 +1,6 @@
 minecraft:lodestone
 
+minecraft:crossbow
 minecraft:spectral_arrow
 minecraft:gilded_blackstone
 minecraft:crying_obsidian

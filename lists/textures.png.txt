@@ -576,10 +576,10 @@ minecraft:block/soul_campfire_fire  [mcmeta]
 minecraft:block/soul_campfire_log_lit  [mcmeta]
 minecraft:block/soul_fire_0  [mcmeta]
 minecraft:block/soul_fire_1  [mcmeta]
-minecraft:block/soul_fire_lantern  [mcmeta]
-minecraft:block/soul_fire_torch
+minecraft:block/soul_lantern  [mcmeta]
 minecraft:block/soul_sand
 minecraft:block/soul_soil
+minecraft:block/soul_torch
 minecraft:block/spawner
 minecraft:block/sponge
 minecraft:block/spruce_door_bottom
@@ -1748,7 +1748,7 @@ minecraft:item/skull_banner_pattern
 minecraft:item/slime_ball
 minecraft:item/snowball
 minecraft:item/soul_campfire
-minecraft:item/soul_fire_lantern
+minecraft:item/soul_lantern
 minecraft:item/spawn_egg
 minecraft:item/spawn_egg_overlay
 minecraft:item/spectral_arrow
