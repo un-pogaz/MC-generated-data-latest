@@ -16,3 +16,4 @@ minecraft:birch_log
 minecraft:jungle_log
 minecraft:acacia_log
 minecraft:dark_oak_log
+minecraft:mangrove_log

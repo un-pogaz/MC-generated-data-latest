@@ -1,0 +1,4 @@
+minecraft:mob/warden/sonic_boom1
+minecraft:mob/warden/sonic_boom2
+minecraft:mob/warden/sonic_boom3
+minecraft:mob/warden/sonic_boom4

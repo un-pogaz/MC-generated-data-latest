@@ -2799,6 +2799,14 @@ minecraft:mob/warden/sniff_1
 minecraft:mob/warden/sniff_2
 minecraft:mob/warden/sniff_3
 minecraft:mob/warden/sniff_4
+minecraft:mob/warden/sonic_boom1
+minecraft:mob/warden/sonic_boom2
+minecraft:mob/warden/sonic_boom3
+minecraft:mob/warden/sonic_boom4
+minecraft:mob/warden/sonic_charge1
+minecraft:mob/warden/sonic_charge2
+minecraft:mob/warden/sonic_charge3
+minecraft:mob/warden/sonic_charge4
 minecraft:mob/warden/step_1
 minecraft:mob/warden/step_2
 minecraft:mob/warden/step_3
