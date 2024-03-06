@@ -1,0 +1,4 @@
+minecraft:rotten_flesh
+
+minecraft:trident
+minecraft:gold_ingot
