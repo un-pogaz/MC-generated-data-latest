@@ -1,0 +1,3 @@
+type=top
+type=bottom  [default]
+type=double

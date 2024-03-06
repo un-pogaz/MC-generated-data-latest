@@ -1,0 +1,24 @@
+{
+  "type": "literal",
+  "children": {
+    "entity": {
+      "type": "argument",
+      "parser": "minecraft:resource_location",
+      "children": {
+        "pos": {
+          "type": "argument",
+          "parser": "minecraft:vec3",
+          "children": {
+            "nbt": {
+              "type": "argument",
+              "parser": "minecraft:nbt",
+              "executable": true
+            }
+          },
+          "executable": true
+        }
+      },
+      "executable": true
+    }
+  }
+}

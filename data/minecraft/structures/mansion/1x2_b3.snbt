@@ -689,17 +689,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player512",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 0,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 1,
         showair: 0b,
         name: "1x2B1",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 8,
+        showboundingbox: 0b,
         sizeZ: 15
       },
       pos: [3, 1, 0],
@@ -711,17 +714,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player855",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [3, 1, 4],
@@ -3402,24 +3408,19 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
       Properties: {
-        variant: "dark_oak",
         axis: "y"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
       Properties: {
-        variant: "dark_oak",
         axis: "x"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
       Properties: {
@@ -3431,5 +3432,5 @@
       Name: "minecraft:air"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

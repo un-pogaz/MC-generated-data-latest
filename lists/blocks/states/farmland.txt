@@ -1,0 +1,8 @@
+moisture=0  [default]
+moisture=1
+moisture=2
+moisture=3
+moisture=4
+moisture=5
+moisture=6
+moisture=7

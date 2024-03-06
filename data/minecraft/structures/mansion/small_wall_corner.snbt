@@ -75,14 +75,13 @@
     {
       Properties: {
         east: "false",
-        south: "false",
+        south: "true",
         north: "false",
-        variant: "cobblestone",
-        west: "false",
-        up: "false"
+        west: "true",
+        up: "true"
       },
       Name: "minecraft:cobblestone_wall"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

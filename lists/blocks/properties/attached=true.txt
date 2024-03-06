@@ -1,0 +1,2 @@
+minecraft:tripwire
+minecraft:tripwire_hook

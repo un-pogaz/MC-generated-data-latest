@@ -1,0 +1,16 @@
+east=true,north=true,south=true,west=true
+east=true,north=true,south=true,west=false
+east=true,north=true,south=false,west=true
+east=true,north=true,south=false,west=false
+east=true,north=false,south=true,west=true
+east=true,north=false,south=true,west=false
+east=true,north=false,south=false,west=true
+east=true,north=false,south=false,west=false
+east=false,north=true,south=true,west=true
+east=false,north=true,south=true,west=false
+east=false,north=true,south=false,west=true
+east=false,north=true,south=false,west=false
+east=false,north=false,south=true,west=true
+east=false,north=false,south=true,west=false
+east=false,north=false,south=false,west=true
+east=false,north=false,south=false,west=false  [default]

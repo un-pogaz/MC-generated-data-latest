@@ -801,7 +801,7 @@
     },
     {
       pos: [0, 4, 6],
-      state: 4
+      state: 8
     },
     {
       pos: [1, 4, 6],
@@ -873,7 +873,7 @@
     },
     {
       pos: [0, 10, 6],
-      state: 8
+      state: 9
     },
     {
       pos: [1, 10, 6],
@@ -958,30 +958,44 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
       Name: "minecraft:air"
     },
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:white_carpet"
     },
     {
       Properties: {
         east: "false",
         south: "false",
+        north: "true",
+        west: "false"
+      },
+      Name: "minecraft:dark_oak_fence"
+    },
+    {
+      Name: "minecraft:torch"
+    },
+    {
+      Properties: {
+        half: "top",
+        shape: "straight",
+        facing: "north"
+      },
+      Name: "minecraft:dark_oak_stairs"
+    },
+    {
+      Name: "minecraft:red_carpet"
+    },
+    {
+      Properties: {
+        east: "false",
+        south: "true",
         north: "false",
         west: "false"
       },
@@ -989,32 +1003,12 @@
     },
     {
       Properties: {
-        facing: "up"
-      },
-      Name: "minecraft:torch"
-    },
-    {
-      Properties: {
         half: "top",
-        shape: "outer_right",
-        facing: "north"
-      },
-      Name: "minecraft:dark_oak_stairs"
-    },
-    {
-      Properties: {
-        color: "red"
-      },
-      Name: "minecraft:carpet"
-    },
-    {
-      Properties: {
-        half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "south"
       },
       Name: "minecraft:dark_oak_stairs"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

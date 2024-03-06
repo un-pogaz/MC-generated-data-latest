@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "attached": [
+      "true",
+      "false"
+    ],
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}
