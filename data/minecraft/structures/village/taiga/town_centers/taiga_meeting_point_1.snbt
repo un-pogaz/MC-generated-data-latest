@@ -1,5 +1,5 @@
 {
-  size: [22, 6, 18],
+  size: [22, 3, 18],
   entities: [],
   blocks: [
     {
@@ -77,12 +77,22 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
       pos: [6, 1, 0],
       state: 2
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/taiga/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [7, 0, 2],
+      state: 3
     },
     {
       nbt: {
@@ -107,7 +117,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -117,7 +127,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -133,6 +143,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/taiga/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [2, 0, 4],
+      state: 3
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/common/iron_golem",
         final_state: "minecraft:grass_path",
         id: "minecraft:jigsaw",
@@ -144,7 +164,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -153,8 +173,18 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/taiga/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [9, 0, 5],
+      state: 3
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -164,7 +194,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -174,7 +204,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -184,7 +214,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -194,7 +224,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -204,7 +234,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -214,7 +244,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -224,7 +254,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/taiga/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -764,10 +794,6 @@
       state: 9
     },
     {
-      pos: [7, 0, 2],
-      state: 9
-    },
-    {
       pos: [8, 0, 2],
       state: 9
     },
@@ -1228,10 +1254,6 @@
       state: 9
     },
     {
-      pos: [2, 0, 4],
-      state: 9
-    },
-    {
       pos: [3, 0, 4],
       state: 9
     },
@@ -1489,10 +1511,6 @@
     },
     {
       pos: [7, 0, 5],
-      state: 9
-    },
-    {
-      pos: [9, 0, 5],
       state: 9
     },
     {
@@ -4942,5 +4960,5 @@
       Name: "minecraft:spruce_trapdoor"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }
