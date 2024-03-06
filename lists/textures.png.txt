@@ -465,6 +465,7 @@ minecraft:entity/endercrystal/endercrystal_beam
 minecraft:entity/enderdragon/dragon
 minecraft:entity/enderdragon/dragon_exploding
 minecraft:entity/enderdragon/dragon_eyes
+minecraft:entity/enderdragon/dragon_fireball
 minecraft:entity/enderman/enderman
 minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
@@ -981,6 +982,7 @@ minecraft:items/door_iron
 minecraft:items/door_jungle
 minecraft:items/door_spruce
 minecraft:items/door_wood
+minecraft:items/dragon_breath
 minecraft:items/dye_powder_black
 minecraft:items/dye_powder_blue
 minecraft:items/dye_powder_brown
@@ -1088,6 +1090,7 @@ minecraft:items/potato_baked
 minecraft:items/potato_poisonous
 minecraft:items/potion_bottle_drinkable
 minecraft:items/potion_bottle_empty
+minecraft:items/potion_bottle_lingering
 minecraft:items/potion_bottle_splash
 minecraft:items/potion_overlay
 minecraft:items/prismarine_crystals
