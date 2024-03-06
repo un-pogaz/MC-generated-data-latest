@@ -1,9 +1,9 @@
 power=0,sculk_sensor_phase=inactive,waterlogged=true
-power=0,sculk_sensor_phase=inactive,waterlogged=false
+power=0,sculk_sensor_phase=inactive,waterlogged=false  [default]
 power=0,sculk_sensor_phase=active,waterlogged=true
 power=0,sculk_sensor_phase=active,waterlogged=false
 power=0,sculk_sensor_phase=cooldown,waterlogged=true
-power=0,sculk_sensor_phase=cooldown,waterlogged=false  [default]
+power=0,sculk_sensor_phase=cooldown,waterlogged=false
 power=1,sculk_sensor_phase=inactive,waterlogged=true
 power=1,sculk_sensor_phase=inactive,waterlogged=false
 power=1,sculk_sensor_phase=active,waterlogged=true
