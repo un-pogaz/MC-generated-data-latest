@@ -1,5 +1,4 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
         "variant=north_west": { "model": "brown_mushroom_block_nw" },
         "variant=north": { "model": "brown_mushroom_block_n" },

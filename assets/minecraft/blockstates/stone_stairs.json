@@ -1,5 +1,4 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
         "facing=east,half=bottom,shape=straight":  { "model": "stone_stairs" },
         "facing=west,half=bottom,shape=straight":  { "model": "stone_stairs", "y": 180, "uvlock": true },
