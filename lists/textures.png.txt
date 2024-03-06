@@ -63,6 +63,7 @@ minecraft:blocks/daylight_detector_side
 minecraft:blocks/daylight_detector_top
 minecraft:blocks/deadbush
 minecraft:blocks/debug
+minecraft:blocks/debug2
 minecraft:blocks/destroy_stage_0
 minecraft:blocks/destroy_stage_1
 minecraft:blocks/destroy_stage_2
