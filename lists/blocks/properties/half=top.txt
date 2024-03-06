@@ -6,12 +6,15 @@ minecraft:brick_stairs
 minecraft:cobblestone_stairs
 minecraft:dark_oak_stairs
 minecraft:dark_oak_trapdoor
+minecraft:dark_prismarine_stairs
 minecraft:iron_trapdoor
 minecraft:jungle_stairs
 minecraft:jungle_trapdoor
 minecraft:nether_brick_stairs
 minecraft:oak_stairs
 minecraft:oak_trapdoor
+minecraft:prismarine_bricks_stairs
+minecraft:prismarine_stairs
 minecraft:purpur_stairs
 minecraft:quartz_stairs
 minecraft:red_sandstone_stairs

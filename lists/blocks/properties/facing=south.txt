@@ -43,6 +43,7 @@ minecraft:dark_oak_door
 minecraft:dark_oak_fence_gate
 minecraft:dark_oak_stairs
 minecraft:dark_oak_trapdoor
+minecraft:dark_prismarine_stairs
 minecraft:dispenser
 minecraft:dragon_wall_head
 minecraft:dropper
@@ -104,6 +105,8 @@ minecraft:pink_wall_banner
 minecraft:piston
 minecraft:piston_head
 minecraft:player_wall_head
+minecraft:prismarine_bricks_stairs
+minecraft:prismarine_stairs
 minecraft:purple_bed
 minecraft:purple_glazed_terracotta
 minecraft:purple_shulker_box

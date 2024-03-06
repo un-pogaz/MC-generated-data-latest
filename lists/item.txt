@@ -188,6 +188,8 @@ minecraft:dark_oak_slab
 minecraft:dark_oak_stairs
 minecraft:dark_oak_trapdoor
 minecraft:dark_prismarine
+minecraft:dark_prismarine_slab
+minecraft:dark_prismarine_stairs
 minecraft:daylight_detector
 minecraft:dead_bush
 minecraft:debug_stick
@@ -212,6 +214,8 @@ minecraft:donkey_spawn_egg
 minecraft:dragon_breath
 minecraft:dragon_egg
 minecraft:dragon_head
+minecraft:dried_kelp
+minecraft:dried_kelp_block
 minecraft:dropper
 minecraft:egg
 minecraft:elder_guardian_spawn_egg
@@ -349,6 +353,7 @@ minecraft:jungle_sapling
 minecraft:jungle_slab
 minecraft:jungle_stairs
 minecraft:jungle_trapdoor
+minecraft:kelp_top
 minecraft:knowledge_book
 minecraft:ladder
 minecraft:lapis_block
@@ -496,6 +501,7 @@ minecraft:paper
 minecraft:parrot_spawn_egg
 minecraft:peony
 minecraft:petrified_oak_slab
+minecraft:phantom_spawn_egg
 minecraft:pig_spawn_egg
 minecraft:pink_banner
 minecraft:pink_bed
@@ -525,8 +531,12 @@ minecraft:potion
 minecraft:powered_rail
 minecraft:prismarine
 minecraft:prismarine_bricks
+minecraft:prismarine_bricks_slab
+minecraft:prismarine_bricks_stairs
 minecraft:prismarine_crystals
 minecraft:prismarine_shard
+minecraft:prismarine_slab
+minecraft:prismarine_stairs
 minecraft:pufferfish
 minecraft:pumpkin
 minecraft:pumpkin_pie
@@ -593,6 +603,7 @@ minecraft:sand
 minecraft:sandstone
 minecraft:sandstone_slab
 minecraft:sandstone_stairs
+minecraft:sea_grass
 minecraft:sea_lantern
 minecraft:shears
 minecraft:sheep_spawn_egg
@@ -652,6 +663,12 @@ minecraft:stone_slab
 minecraft:stone_sword
 minecraft:stray_spawn_egg
 minecraft:string
+minecraft:stripped_acacia_log
+minecraft:stripped_birch_log
+minecraft:stripped_dark_oak_log
+minecraft:stripped_jungle_log
+minecraft:stripped_oak_log
+minecraft:stripped_spruce_log
 minecraft:structure_block
 minecraft:structure_void
 minecraft:sugar
@@ -665,7 +682,12 @@ minecraft:tnt_minecart
 minecraft:torch
 minecraft:totem_of_undying
 minecraft:trapped_chest
+minecraft:trident
 minecraft:tripwire_hook
+minecraft:turtle_egg
+minecraft:turtle_helmet
+minecraft:turtle_shell_piece
+minecraft:turtle_spawn_egg
 minecraft:vex_spawn_egg
 minecraft:villager_spawn_egg
 minecraft:vindication_illager_spawn_egg
