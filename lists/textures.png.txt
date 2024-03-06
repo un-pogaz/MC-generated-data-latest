@@ -19,7 +19,6 @@ minecraft:block/anvil_top
 minecraft:block/attached_melon_stem
 minecraft:block/attached_pumpkin_stem
 minecraft:block/azalea_leaves
-minecraft:block/azalea_leaves_flowers
 minecraft:block/azalea_plant
 minecraft:block/azalea_side
 minecraft:block/azalea_top
@@ -319,6 +318,7 @@ minecraft:block/fletching_table_front
 minecraft:block/fletching_table_side
 minecraft:block/fletching_table_top
 minecraft:block/flower_pot
+minecraft:block/flowering_azalea_leaves
 minecraft:block/flowering_azalea_side
 minecraft:block/flowering_azalea_top
 minecraft:block/frosted_ice_0

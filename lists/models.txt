@@ -55,7 +55,6 @@ minecraft:block/attached_melon_stem
 minecraft:block/attached_pumpkin_stem
 minecraft:block/azalea
 minecraft:block/azalea_leaves
-minecraft:block/azalea_leaves_flowers
 minecraft:block/azure_bluet
 minecraft:block/bamboo1_age0
 minecraft:block/bamboo1_age1
@@ -598,6 +597,7 @@ minecraft:block/fletching_table
 minecraft:block/flower_pot
 minecraft:block/flower_pot_cross
 minecraft:block/flowering_azalea
+minecraft:block/flowering_azalea_leaves
 minecraft:block/four_dead_sea_pickles
 minecraft:block/four_sea_pickles
 minecraft:block/four_slightly_cracked_turtle_eggs
@@ -1726,7 +1726,6 @@ minecraft:item/axolotl_bucket
 minecraft:item/axolotl_spawn_egg
 minecraft:item/azalea
 minecraft:item/azalea_leaves
-minecraft:item/azalea_leaves_flowers
 minecraft:item/azure_bluet
 minecraft:item/baked_potato
 minecraft:item/bamboo
@@ -2190,6 +2189,7 @@ minecraft:item/flint_and_steel
 minecraft:item/flower_banner_pattern
 minecraft:item/flower_pot
 minecraft:item/flowering_azalea
+minecraft:item/flowering_azalea_leaves
 minecraft:item/fox_spawn_egg
 minecraft:item/furnace
 minecraft:item/furnace_minecart
