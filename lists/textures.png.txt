@@ -816,6 +816,7 @@ minecraft:gui/title/background/panorama_5
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojang
 minecraft:gui/widgets
+minecraft:gui/world_selection
 minecraft:items/apple
 minecraft:items/apple_golden
 minecraft:items/arrow
