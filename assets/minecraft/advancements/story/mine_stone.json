@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:wooden_pickaxe"
         },
-        "title": "Stone Age",
-        "description": "Mine stone with your new pickaxe"
+        "title": {
+            "translate": "advancements.story.mine_stone.title"
+        },
+        "description": {
+            "translate": "advancements.story.mine_stone.description"
+        }
     },
     "parent": "minecraft:story/root",
     "criteria": {

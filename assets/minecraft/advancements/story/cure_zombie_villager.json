@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:golden_apple"
         },
-        "title": "Zombie Doctor",
-        "description": "Weaken and then cure a zombie villager",
+        "title": {
+            "translate": "advancements.story.cure_zombie_villager.title"
+        },
+        "description": {
+            "translate": "advancements.story.cure_zombie_villager.description"
+        },
         "frame": "goal"
     },
     "parent": "minecraft:story/enter_the_nether",

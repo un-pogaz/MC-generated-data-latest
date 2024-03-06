@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:map"
         },
-        "title": "Adventure",
-        "description": "Adventure, exploration and combat",
+        "title": {
+            "translate": "advancements.adventure.root.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.root.description"
+        },
         "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
     },
     "criteria": {
