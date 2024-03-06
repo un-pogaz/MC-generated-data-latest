@@ -624,6 +624,7 @@ minecraft:entity/banner/diagonal_right
 minecraft:entity/banner/diagonal_up_left
 minecraft:entity/banner/diagonal_up_right
 minecraft:entity/banner/flower
+minecraft:entity/banner/globe
 minecraft:entity/banner/gradient
 minecraft:entity/banner/gradient_up
 minecraft:entity/banner/half_horizontal
@@ -1494,6 +1495,7 @@ minecraft:item/furnace_minecart
 minecraft:item/ghast_tear
 minecraft:item/glass_bottle
 minecraft:item/glistering_melon_slice
+minecraft:item/globe_banner_pattern
 minecraft:item/glowstone_dust
 minecraft:item/gold_ingot
 minecraft:item/gold_nugget
