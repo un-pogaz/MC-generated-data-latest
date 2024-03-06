@@ -64,6 +64,7 @@ minecraft:blue_carpet
 minecraft:blue_concrete
 minecraft:blue_concrete_powder
 minecraft:blue_glazed_terracotta
+minecraft:blue_ice
 minecraft:blue_orchid
 minecraft:blue_shulker_box
 minecraft:blue_stained_glass
@@ -152,6 +153,7 @@ minecraft:command_block
 minecraft:command_block_minecart
 minecraft:comparator
 minecraft:compass
+minecraft:conduit
 minecraft:cooked_beef
 minecraft:cooked_chicken
 minecraft:cooked_cod
@@ -224,6 +226,7 @@ minecraft:diamond_sword
 minecraft:diorite
 minecraft:dirt
 minecraft:dispenser
+minecraft:dolphin_spawn_egg
 minecraft:donkey_spawn_egg
 minecraft:dragon_breath
 minecraft:dragon_egg
@@ -324,6 +327,7 @@ minecraft:green_wool
 minecraft:guardian_spawn_egg
 minecraft:gunpowder
 minecraft:hay_block
+minecraft:heart_of_the_sea
 minecraft:heavy_weighted_pressure_plate
 minecraft:hopper
 minecraft:hopper_minecart
@@ -474,6 +478,7 @@ minecraft:music_disc_ward
 minecraft:mutton
 minecraft:mycelium
 minecraft:name_tag
+minecraft:nautilus_shell
 minecraft:nether_brick
 minecraft:nether_brick_fence
 minecraft:nether_brick_slab
