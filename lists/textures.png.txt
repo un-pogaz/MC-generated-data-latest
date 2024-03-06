@@ -1,3 +1,4 @@
+minecraft:blocks/acacia_bark_top
 minecraft:blocks/acacia_door_bottom
 minecraft:blocks/acacia_door_top
 minecraft:blocks/acacia_leaves
@@ -21,6 +22,7 @@ minecraft:blocks/beetroots_stage0
 minecraft:blocks/beetroots_stage1
 minecraft:blocks/beetroots_stage2
 minecraft:blocks/beetroots_stage3
+minecraft:blocks/birch_bark_top
 minecraft:blocks/birch_door_bottom
 minecraft:blocks/birch_door_top
 minecraft:blocks/birch_leaves
@@ -129,6 +131,7 @@ minecraft:blocks/cyan_terracotta
 minecraft:blocks/cyan_wool
 minecraft:blocks/damaged_anvil_top
 minecraft:blocks/dandelion
+minecraft:blocks/dark_oak_bark_top
 minecraft:blocks/dark_oak_door_bottom
 minecraft:blocks/dark_oak_door_top
 minecraft:blocks/dark_oak_leaves
@@ -250,6 +253,7 @@ minecraft:blocks/item_frame
 minecraft:blocks/jack_o_lantern
 minecraft:blocks/jukebox_side
 minecraft:blocks/jukebox_top
+minecraft:blocks/jungle_bark_top
 minecraft:blocks/jungle_door_bottom
 minecraft:blocks/jungle_door_top
 minecraft:blocks/jungle_leaves
@@ -322,6 +326,7 @@ minecraft:blocks/nether_wart_stage1
 minecraft:blocks/nether_wart_stage2
 minecraft:blocks/netherrack
 minecraft:blocks/note_block
+minecraft:blocks/oak_bark_top
 minecraft:blocks/oak_door_bottom
 minecraft:blocks/oak_door_top
 minecraft:blocks/oak_leaves
@@ -445,6 +450,7 @@ minecraft:blocks/slime_block
 minecraft:blocks/snow
 minecraft:blocks/soul_sand
 minecraft:blocks/sponge
+minecraft:blocks/spruce_bark_top
 minecraft:blocks/spruce_door_bottom
 minecraft:blocks/spruce_door_top
 minecraft:blocks/spruce_leaves
@@ -1112,6 +1118,7 @@ minecraft:gui/title/background/panorama_2
 minecraft:gui/title/background/panorama_3
 minecraft:gui/title/background/panorama_4
 minecraft:gui/title/background/panorama_5
+minecraft:gui/title/background/panorama_overlay
 minecraft:gui/title/edition
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojang
