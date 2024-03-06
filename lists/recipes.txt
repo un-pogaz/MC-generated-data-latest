@@ -28,7 +28,7 @@ minecraft:baked_potato_from_smoking
 minecraft:banner_duplicate
 minecraft:barrel
 minecraft:beacon
-minecraft:bee_hive
+minecraft:beehive
 minecraft:beetroot_soup
 minecraft:birch_boat
 minecraft:birch_button
@@ -326,6 +326,8 @@ minecraft:green_wool
 minecraft:grindstone
 minecraft:hay_block
 minecraft:heavy_weighted_pressure_plate
+minecraft:honey_block
+minecraft:honeycomb_block
 minecraft:hopper
 minecraft:hopper_minecart
 minecraft:iron_axe
@@ -713,6 +715,12 @@ minecraft:stone_stairs
 minecraft:stone_stairs_from_stone_stonecutting
 minecraft:stone_sword
 minecraft:stonecutter
+minecraft:stripped_acacia_wood
+minecraft:stripped_birch_wood
+minecraft:stripped_dark_oak_wood
+minecraft:stripped_jungle_wood
+minecraft:stripped_oak_wood
+minecraft:stripped_spruce_wood
 minecraft:sugar_from_honey_bottle
 minecraft:sugar_from_sugar_cane
 minecraft:suspicious_stew
