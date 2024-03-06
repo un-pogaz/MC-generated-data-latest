@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "ambient/weather/rain1",
+    "ambient/weather/rain2",
+    "ambient/weather/rain3",
+    "ambient/weather/rain4"
+  ],
+  "subtitle": "subtitles.weather.rain"
+}

@@ -1,0 +1,3 @@
+minecraft:entity/cow/milk1
+minecraft:entity/cow/milk2
+minecraft:entity/cow/milk3

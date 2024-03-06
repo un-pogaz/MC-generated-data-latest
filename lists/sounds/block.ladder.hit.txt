@@ -1,0 +1,5 @@
+minecraft:step/ladder1
+minecraft:step/ladder2
+minecraft:step/ladder3
+minecraft:step/ladder4
+minecraft:step/ladder5

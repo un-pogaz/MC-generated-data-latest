@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "mob/rabbit/bunnymurder",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.entity.rabbit.death"
+}

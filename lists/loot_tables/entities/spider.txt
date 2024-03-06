@@ -1,0 +1,3 @@
+minecraft:string
+
+minecraft:spider_eye

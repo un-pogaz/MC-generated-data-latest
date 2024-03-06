@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/shulker_bullet/hit1",
+    "entity/shulker_bullet/hit2",
+    "entity/shulker_bullet/hit3",
+    "entity/shulker_bullet/hit4"
+  ],
+  "subtitle": "subtitles.entity.shulker_bullet.hit"
+}

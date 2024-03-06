@@ -1,0 +1,10 @@
+"Name","Count","Chance","Weight","Comment"
+,,,,
+"1 time","--","--","--",
+"minecraft:rotten_flesh","0..1","100%","1",
+——,——,——,——,——
+"1 time","--","--","--",
+"minecraft:gold_nugget","0..1","100%","1",
+——,——,——,——,——
+"1 time","--","--","--","killed by player, random chance: 0.025%"
+"minecraft:gold_ingot","1","100%","1",

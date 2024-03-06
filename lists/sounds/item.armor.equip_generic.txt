@@ -1,0 +1,6 @@
+minecraft:item/armor/equip_generic1
+minecraft:item/armor/equip_generic2
+minecraft:item/armor/equip_generic3
+minecraft:item/armor/equip_generic4
+minecraft:item/armor/equip_generic5
+minecraft:item/armor/equip_generic6

@@ -1,0 +1,8 @@
+minecraft:ambient/weather/rain1
+minecraft:ambient/weather/rain2
+minecraft:ambient/weather/rain3
+minecraft:ambient/weather/rain4
+minecraft:ambient/weather/rain5
+minecraft:ambient/weather/rain6
+minecraft:ambient/weather/rain7
+minecraft:ambient/weather/rain8
