@@ -101,9 +101,10 @@ minecraft:wither_skull
 minecraft:wolf
 minecraft:zombie
 minecraft:zombie_horse
-minecraft:zombie_pigman
 minecraft:zombie_villager
+minecraft:zombified_piglin
 #minecraft:arrows
 #minecraft:beehive_inhabitors
+#minecraft:impact_projectiles
 #minecraft:raiders
 #minecraft:skeletons

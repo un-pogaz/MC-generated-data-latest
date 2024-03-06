@@ -162,14 +162,16 @@ minecraft:block/crafting_table_side
 minecraft:block/crafting_table_top
 minecraft:block/crimson_door_bottom
 minecraft:block/crimson_door_top
-minecraft:block/crimson_fungi
+minecraft:block/crimson_fungus
 minecraft:block/crimson_nylium
 minecraft:block/crimson_nylium_side
 minecraft:block/crimson_planks
 minecraft:block/crimson_roots
+minecraft:block/crimson_roots_pot
 minecraft:block/crimson_stem  [mcmeta]
 minecraft:block/crimson_stem_top
 minecraft:block/crimson_trapdoor
+minecraft:block/crying_obsidian
 minecraft:block/cut_red_sandstone
 minecraft:block/cut_sandstone
 minecraft:block/cyan_concrete
@@ -601,6 +603,8 @@ minecraft:block/tall_grass_bottom
 minecraft:block/tall_grass_top
 minecraft:block/tall_seagrass_bottom  [mcmeta]
 minecraft:block/tall_seagrass_top  [mcmeta]
+minecraft:block/target_side
+minecraft:block/target_top
 minecraft:block/terracotta
 minecraft:block/tnt_bottom
 minecraft:block/tnt_side
@@ -617,15 +621,14 @@ minecraft:block/turtle_egg_very_cracked
 minecraft:block/vine
 minecraft:block/warped_door_bottom
 minecraft:block/warped_door_top
-minecraft:block/warped_fungi
+minecraft:block/warped_fungus
 minecraft:block/warped_nylium
 minecraft:block/warped_nylium_side
 minecraft:block/warped_planks
 minecraft:block/warped_roots
+minecraft:block/warped_roots_pot
 minecraft:block/warped_stem  [mcmeta]
 minecraft:block/warped_stem_top
-minecraft:block/warped_stripped_log_side
-minecraft:block/warped_stripped_log_top
 minecraft:block/warped_trapdoor
 minecraft:block/warped_wart_block
 minecraft:block/water_flow  [mcmeta]
@@ -890,7 +893,7 @@ minecraft:entity/phantom_eyes
 minecraft:entity/pig/pig
 minecraft:entity/pig/pig_saddle
 minecraft:entity/piglin/piglin
-minecraft:entity/piglin/zombie_piglin
+minecraft:entity/piglin/zombified_piglin
 minecraft:entity/projectiles/arrow
 minecraft:entity/projectiles/spectral_arrow
 minecraft:entity/projectiles/tipped_arrow
@@ -1029,7 +1032,6 @@ minecraft:entity/zombie/drowned_outer_layer
 minecraft:entity/zombie/husk
 minecraft:entity/zombie/zombie
 minecraft:entity/zombie/zombie_villager
-minecraft:entity/zombie_pigman
 minecraft:entity/zombie_villager/profession/armorer
 minecraft:entity/zombie_villager/profession/butcher  [mcmeta]
 minecraft:entity/zombie_villager/profession/cartographer
@@ -1814,6 +1816,8 @@ minecraft:models/armor/leather_piglin_helmet_overlay
 minecraft:models/armor/netherite_layer_1
 minecraft:models/armor/netherite_layer_2
 minecraft:models/armor/netherite_piglin_helmet
+minecraft:models/armor/piglin_leather_layer_1
+minecraft:models/armor/piglin_leather_layer_1_overlay
 minecraft:models/armor/turtle_layer_1
 minecraft:painting/alban
 minecraft:painting/aztec
