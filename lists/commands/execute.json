@@ -492,6 +492,29 @@
                 }
               }
             },
+            "bossbar": {
+              "type": "literal",
+              "children": {
+                "id": {
+                  "type": "argument",
+                  "parser": "minecraft:resource_location",
+                  "children": {
+                    "max": {
+                      "type": "literal",
+                      "redirect": [
+                        "execute"
+                      ]
+                    },
+                    "value": {
+                      "type": "literal",
+                      "redirect": [
+                        "execute"
+                      ]
+                    }
+                  }
+                }
+              }
+            },
             "entity": {
               "type": "literal",
               "children": {
@@ -695,6 +718,29 @@
                           }
                         }
                       }
+                    }
+                  }
+                }
+              }
+            },
+            "bossbar": {
+              "type": "literal",
+              "children": {
+                "id": {
+                  "type": "argument",
+                  "parser": "minecraft:resource_location",
+                  "children": {
+                    "max": {
+                      "type": "literal",
+                      "redirect": [
+                        "execute"
+                      ]
+                    },
+                    "value": {
+                      "type": "literal",
+                      "redirect": [
+                        "execute"
+                      ]
                     }
                   }
                 }
