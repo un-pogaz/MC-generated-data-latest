@@ -25,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_log2"
-    ],
-    [
+      "has_log2",
       "has_the_recipe"
     ]
   ]

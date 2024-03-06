@@ -94,15 +94,17 @@
         }
     },
     "requirements": [
-        ["bred_horse"],
-        ["bred_sheep"],
-        ["bred_cow"],
-        ["bred_mooshroom"],
-        ["bred_pig"],
-        ["bred_chicken"],
-        ["bred_wolf"],
-        ["bred_ocelot"],
-        ["bred_rabbit"],
-        ["bred_llama"]
+        [
+            "bred_horse",
+            "bred_sheep",
+            "bred_cow",
+            "bred_mooshroom",
+            "bred_pig",
+            "bred_chicken",
+            "bred_wolf",
+            "bred_ocelot",
+            "bred_rabbit",
+            "bred_llama"
+        ]
     ]
 }

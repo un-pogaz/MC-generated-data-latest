@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_nether_wart"
-    ],
-    [
+      "has_nether_wart",
       "has_the_recipe"
     ]
   ]

@@ -25,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_red_wool"
-    ],
-    [
+      "has_red_wool",
       "has_the_recipe"
     ]
   ]

@@ -6,9 +6,20 @@
     "###"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:sandstone"
-    }
+    "#": [
+      {
+        "item": "minecraft:sandstone",
+        "data": 0
+      },
+      {
+        "item": "minecraft:sandstone",
+        "data": 1
+      },
+      {
+        "item": "minecraft:sandstone",
+        "data": 2
+      }
+    ]
   },
   "result": {
     "item": "minecraft:sandstone_stairs",

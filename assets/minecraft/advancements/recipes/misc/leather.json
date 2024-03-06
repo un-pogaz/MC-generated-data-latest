@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_rabbit_hide"
-    ],
-    [
+      "has_rabbit_hide",
       "has_the_recipe"
     ]
   ]

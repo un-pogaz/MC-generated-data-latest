@@ -6,7 +6,8 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:purpur_slab"
+      "item": "minecraft:purpur_slab",
+      "data": 0
     }
   },
   "result": {
