@@ -1,2 +1,2 @@
-minecraft:block/wooden_door/close
-minecraft:block/wooden_door/open
+minecraft:block/chest/close_locked
+minecraft:block/chest/open_locked

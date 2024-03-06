@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/hanging_sign/step1",
+    "block/hanging_sign/step2",
+    "block/hanging_sign/step3",
+    "block/hanging_sign/step4"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

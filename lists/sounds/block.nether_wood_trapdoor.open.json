@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/nether_wood_trapdoor/toggle1",
+    "block/nether_wood_trapdoor/toggle2",
+    "block/nether_wood_trapdoor/toggle3",
+    "block/nether_wood_trapdoor/toggle4"
+  ],
+  "subtitle": "subtitles.block.trapdoor.toggle"
+}

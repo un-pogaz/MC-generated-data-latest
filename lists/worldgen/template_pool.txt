@@ -76,6 +76,7 @@ minecraft:village/common/cats
 minecraft:village/common/iron_golem
 minecraft:village/common/sheep
 minecraft:village/common/well_bottoms
+minecraft:village/desert/camel
 minecraft:village/desert/decor
 minecraft:village/desert/houses
 minecraft:village/desert/streets

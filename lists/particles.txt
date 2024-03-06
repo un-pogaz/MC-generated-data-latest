@@ -1,8 +1,6 @@
 minecraft:ambient_entity_effect
 minecraft:angry_villager
 minecraft:ash
-minecraft:block
-minecraft:block_marker
 minecraft:bubble
 minecraft:bubble_column_up
 minecraft:bubble_pop
@@ -25,14 +23,12 @@ minecraft:dripping_water
 minecraft:dust
 minecraft:dust_color_transition
 minecraft:effect
-minecraft:elder_guardian
 minecraft:electric_spark
 minecraft:enchant
 minecraft:enchanted_hit
 minecraft:end_rod
 minecraft:entity_effect
 minecraft:explosion
-minecraft:explosion_emitter
 minecraft:falling_dripstone_lava
 minecraft:falling_dripstone_water
 minecraft:falling_dust
@@ -51,9 +47,6 @@ minecraft:glow_squid_ink
 minecraft:happy_villager
 minecraft:heart
 minecraft:instant_effect
-minecraft:item
-minecraft:item_slime
-minecraft:item_snowball
 minecraft:landing_honey
 minecraft:landing_lava
 minecraft:landing_obsidian_tear

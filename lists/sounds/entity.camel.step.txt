@@ -1,0 +1,6 @@
+minecraft:mob/camel/step1
+minecraft:mob/camel/step2
+minecraft:mob/camel/step3
+minecraft:mob/camel/step4
+minecraft:mob/camel/step5
+minecraft:mob/camel/step6
