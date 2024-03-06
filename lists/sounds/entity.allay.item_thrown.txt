@@ -1,0 +1,1 @@
+minecraft:mob/allay/item_thrown1
