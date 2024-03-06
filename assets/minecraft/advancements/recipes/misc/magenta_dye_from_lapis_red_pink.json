@@ -5,13 +5,35 @@
     ]
   },
   "criteria": {
-    "has_dye": {
+    "has_pink_dye": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "item": "minecraft:dye",
             "data": 9
+          }
+        ]
+      }
+    },
+    "has_lapis": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dye",
+            "data": 4
+          }
+        ]
+      }
+    },
+    "has_red_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dye",
+            "data": 1
           }
         ]
       }
@@ -25,7 +47,13 @@
   },
   "requirements": [
     [
-      "has_dye"
+      "has_pink_dye"
+    ],
+    [
+      "has_lapis"
+    ],
+    [
+      "has_red_dye"
     ],
     [
       "has_the_recipe"

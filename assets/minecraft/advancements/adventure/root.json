@@ -2,6 +2,7 @@
     "display": {
         "icon": "minecraft:map",
         "title": "Adventure",
+        "description": "Adventure, exploration and combat.",
         "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
     },
     "criteria": {

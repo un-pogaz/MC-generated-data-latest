@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:end_stone",
-        "title": "Enter the End"
+        "title": "The End?",
+        "description": "Enter the End Portal"
     },
     "parent": "minecraft:story/follow_ender_eye",
     "criteria": {
