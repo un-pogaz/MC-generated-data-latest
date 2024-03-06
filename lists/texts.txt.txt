@@ -1,2 +1,3 @@
 minecraft:end
+minecraft:postcredits
 minecraft:splashes
