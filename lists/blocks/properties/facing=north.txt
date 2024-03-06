@@ -92,7 +92,6 @@ minecraft:horn_coral_wall_fan
 minecraft:iron_door
 minecraft:iron_trapdoor
 minecraft:jack_o_lantern
-minecraft:jigsaw
 minecraft:jungle_button
 minecraft:jungle_door
 minecraft:jungle_fence_gate
