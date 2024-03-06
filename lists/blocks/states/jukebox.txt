@@ -1,0 +1,2 @@
+has_record=true
+has_record=false  [default]

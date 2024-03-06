@@ -1,0 +1,16 @@
+facing=north,mode=compare,powered=true
+facing=north,mode=compare,powered=false  [default]
+facing=north,mode=subtract,powered=true
+facing=north,mode=subtract,powered=false
+facing=south,mode=compare,powered=true
+facing=south,mode=compare,powered=false
+facing=south,mode=subtract,powered=true
+facing=south,mode=subtract,powered=false
+facing=west,mode=compare,powered=true
+facing=west,mode=compare,powered=false
+facing=west,mode=subtract,powered=true
+facing=west,mode=subtract,powered=false
+facing=east,mode=compare,powered=true
+facing=east,mode=compare,powered=false
+facing=east,mode=subtract,powered=true
+facing=east,mode=subtract,powered=false

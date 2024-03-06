@@ -1,0 +1,2 @@
+half=upper
+half=lower  [default]
