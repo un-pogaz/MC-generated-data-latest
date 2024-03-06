@@ -1,0 +1,13 @@
+{
+  "id": "20w14a",
+  "type": "snapshot",
+  "time": "2020-04-02T14:28:06+00:00",
+  "releaseTime": "2020-04-02T14:28:06+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/2a916b7368aa072faa10b26d577fe425ef9da6e6/20w14a.json",
+  "assets": "1.16",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json",
+  "client": "https://launcher.mojang.com/v1/objects/cb36abdee528372522f52ae41ccc0609fd9c4038/client.jar",
+  "client_mappings": "https://launcher.mojang.com/v1/objects/6316a9aa6af559b8f2c8760ebd2c55cf3d34277a/client.txt",
+  "server": "https://launcher.mojang.com/v1/objects/affcf966ca903156070aa90b63417793a78b2165/server.jar",
+  "server_mappings": "https://launcher.mojang.com/v1/objects/1b2c98f855ef0f690e9d499d363fe5ee5969de62/server.txt"
+}
