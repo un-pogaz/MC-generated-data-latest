@@ -8,5 +8,6 @@
       "name": "mob/drowned/water/death2",
       "volume": 0.9
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.drowned.death"
 }

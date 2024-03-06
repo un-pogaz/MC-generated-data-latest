@@ -24,6 +24,11 @@
     "name": "Azərbaycanca",
     "bidirectional": false
   },
+  "bar": {
+    "region": "Bayern",
+    "name": "Boarisch",
+    "bidirectional": false
+  },
   "be_by": {
     "region": "Беларусь",
     "name": "Беларуская",
@@ -41,7 +46,7 @@
   },
   "brb": {
     "region": "Nederland",
-    "name": "Braobans",
+    "name": "Brabants",
     "bidirectional": false
   },
   "bs_ba": {
@@ -120,7 +125,7 @@
     "bidirectional": false
   },
   "enp": {
-    "region": "Worldwide",
+    "region": "Foroned Kingdom",
     "name": "Anglish",
     "bidirectional": false
   },
@@ -202,6 +207,11 @@
   "fr_fr": {
     "region": "France",
     "name": "Français",
+    "bidirectional": false
+  },
+  "fra_de": {
+    "region": "Frange",
+    "name": "Frängisch",
     "bidirectional": false
   },
   "fy_nl": {
@@ -304,6 +314,11 @@
     "name": "Taqbaylit",
     "bidirectional": false
   },
+  "kk_kz": {
+    "region": "Қазақстан",
+    "name": "Қазақ тілі",
+    "bidirectional": false
+  },
   "kn_in": {
     "region": "ಭಾರತ",
     "name": "ಕನ್ನಡ",
@@ -369,6 +384,11 @@
     "name": "Монгол",
     "bidirectional": false
   },
+  "moh_ca": {
+    "region": "Kanien'kehá:ka",
+    "name": "Kanien’kéha,",
+    "bidirectional": false
+  },
   "ms_my": {
     "region": "Malaysia",
     "name": "Bahasa Melayu",
@@ -402,6 +422,11 @@
   "no_no": {
     "region": "Norge",
     "name": "Norsk bokmål",
+    "bidirectional": false
+  },
+  "nuk": {
+    "region": "Nuučaan̓ułʔatḥ",
+    "name": "Nuučaan̓uł",
     "bidirectional": false
   },
   "oc_fr": {
@@ -486,7 +511,7 @@
   },
   "swg": {
     "region": "Allgai",
-    "name": "Oschtallgaierisch",
+    "name": "Oschtallgaiarisch",
     "bidirectional": false
   },
   "sxu": {
@@ -517,6 +542,11 @@
   "tr_tr": {
     "region": "Türkiye",
     "name": "Türkçe",
+    "bidirectional": false
+  },
+  "tt_ru": {
+    "region": "Рәсәй",
+    "name": "Татарча",
     "bidirectional": false
   },
   "tzl_tzl": {
