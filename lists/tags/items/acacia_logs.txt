@@ -1,3 +1,4 @@
 minecraft:acacia_log
 minecraft:acacia_bark
 minecraft:stripped_acacia_log
+minecraft:stripped_acacia_bark
