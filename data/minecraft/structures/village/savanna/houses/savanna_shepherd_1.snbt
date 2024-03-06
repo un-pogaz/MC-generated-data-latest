@@ -9468,7 +9468,7 @@
     },
     {
       Properties: {
-        facing: "south"
+        facing: "north"
       },
       Name: "minecraft:loom"
     },
