@@ -211,6 +211,7 @@ minecraft:warped_trapdoor
 minecraft:warped_wall_sign
 minecraft:waxed_cut_copper_stairs
 minecraft:waxed_exposed_cut_copper_stairs
+minecraft:waxed_oxidized_cut_copper_stairs
 minecraft:waxed_weathered_cut_copper_stairs
 minecraft:weathered_cut_copper_stairs
 minecraft:white_bed
