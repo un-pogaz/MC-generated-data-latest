@@ -1,0 +1,14 @@
+minecraft:block/azalea_leaves/break1
+minecraft:block/azalea_leaves/break2
+minecraft:block/azalea_leaves/break3
+minecraft:block/azalea_leaves/break4
+minecraft:block/azalea_leaves/break5
+minecraft:block/azalea_leaves/break6
+minecraft:block/azalea_leaves/break7
+minecraft:block/azalea_leaves/break1
+minecraft:block/azalea_leaves/break2
+minecraft:block/azalea_leaves/break3
+minecraft:block/azalea_leaves/break4
+minecraft:block/azalea_leaves/break5
+minecraft:block/azalea_leaves/break6
+minecraft:block/azalea_leaves/break7

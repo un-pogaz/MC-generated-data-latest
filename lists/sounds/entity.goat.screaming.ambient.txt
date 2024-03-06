@@ -1,0 +1,17 @@
+minecraft:mob/goat/idle1
+minecraft:mob/goat/idle2
+minecraft:mob/goat/idle3
+minecraft:mob/goat/idle4
+minecraft:mob/goat/idle5
+minecraft:mob/goat/idle6
+minecraft:mob/goat/idle7
+minecraft:mob/goat/idle8
+minecraft:mob/goat/scream1
+minecraft:mob/goat/scream2
+minecraft:mob/goat/scream3
+minecraft:mob/goat/scream4
+minecraft:mob/goat/scream5
+minecraft:mob/goat/scream6
+minecraft:mob/goat/scream7
+minecraft:mob/goat/scream8
+minecraft:mob/goat/scream9

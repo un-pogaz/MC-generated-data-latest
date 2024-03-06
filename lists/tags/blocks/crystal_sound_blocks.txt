@@ -1,0 +1,2 @@
+minecraft:amethyst_block
+minecraft:budding_amethyst
