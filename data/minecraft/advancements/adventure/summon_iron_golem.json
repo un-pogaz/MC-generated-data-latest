@@ -1,25 +1,33 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:carved_pumpkin"
-        },
-        "title": {
-            "translate": "advancements.adventure.summon_iron_golem.title"
-        },
-        "description": {
-            "translate": "advancements.adventure.summon_iron_golem.description"
-        },
-        "frame": "goal"
+  "parent": "minecraft:adventure/trade",
+  "display": {
+    "icon": {
+      "item": "minecraft:carved_pumpkin"
     },
-    "parent": "adventure/trade",
-    "criteria": {
-        "summoned_golem": {
-            "trigger": "minecraft:summoned_entity",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:villager_golem"
-                }
-            }
+    "title": {
+      "translate": "advancements.adventure.summon_iron_golem.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.summon_iron_golem.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "summoned_golem": {
+      "trigger": "minecraft:summoned_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:villager_golem"
         }
+      }
     }
+  },
+  "requirements": [
+    [
+      "summoned_golem"
+    ]
+  ]
 }
