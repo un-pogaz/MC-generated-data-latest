@@ -452,6 +452,12 @@ minecraft:entity/bat
 minecraft:entity/beacon_beam
 minecraft:entity/blaze
 minecraft:entity/boat
+minecraft:entity/boat/boat_acacia
+minecraft:entity/boat/boat_birch
+minecraft:entity/boat/boat_darkoak
+minecraft:entity/boat/boat_jungle
+minecraft:entity/boat/boat_oak
+minecraft:entity/boat/boat_spruce
 minecraft:entity/cat/black
 minecraft:entity/cat/ocelot
 minecraft:entity/cat/red
@@ -468,6 +474,7 @@ minecraft:entity/cow/cow
 minecraft:entity/cow/mooshroom
 minecraft:entity/creeper/creeper
 minecraft:entity/creeper/creeper_armor
+minecraft:entity/elytra
 minecraft:entity/enchanting_table_book
 minecraft:entity/end_gateway_beam
 minecraft:entity/end_portal
@@ -877,6 +884,7 @@ minecraft:gui/title/minecraft
 minecraft:gui/title/mojang
 minecraft:gui/widgets
 minecraft:gui/world_selection
+minecraft:items/acacia_boat
 minecraft:items/apple
 minecraft:items/apple_golden
 minecraft:items/arrow
@@ -889,9 +897,9 @@ minecraft:items/beef_raw
 minecraft:items/beetroot
 minecraft:items/beetroot_seeds
 minecraft:items/beetroot_soup
+minecraft:items/birch_boat
 minecraft:items/blaze_powder
 minecraft:items/blaze_rod
-minecraft:items/boat
 minecraft:items/bone
 minecraft:items/book_enchanted
 minecraft:items/book_normal
@@ -905,6 +913,7 @@ minecraft:items/bowl
 minecraft:items/bread
 minecraft:items/brewing_stand
 minecraft:items/brick
+minecraft:items/broken_elytra
 minecraft:items/bucket_empty
 minecraft:items/bucket_lava
 minecraft:items/bucket_milk
@@ -1023,6 +1032,7 @@ minecraft:items/compass_29
 minecraft:items/compass_30
 minecraft:items/compass_31
 minecraft:items/cookie
+minecraft:items/dark_oak_boat
 minecraft:items/diamond
 minecraft:items/diamond_axe
 minecraft:items/diamond_boots
@@ -1059,6 +1069,7 @@ minecraft:items/dye_powder_silver
 minecraft:items/dye_powder_white
 minecraft:items/dye_powder_yellow
 minecraft:items/egg
+minecraft:items/elytra
 minecraft:items/emerald
 minecraft:items/empty_armor_slot_boots
 minecraft:items/empty_armor_slot_chestplate
@@ -1112,6 +1123,7 @@ minecraft:items/iron_pickaxe
 minecraft:items/iron_shovel
 minecraft:items/iron_sword
 minecraft:items/item_frame
+minecraft:items/jungle_boat
 minecraft:items/lead
 minecraft:items/leather
 minecraft:items/leather_boots
@@ -1140,6 +1152,7 @@ minecraft:items/name_tag
 minecraft:items/nether_star
 minecraft:items/nether_wart
 minecraft:items/netherbrick
+minecraft:items/oak_boat
 minecraft:items/painting
 minecraft:items/paper
 minecraft:items/porkchop_cooked
@@ -1191,6 +1204,7 @@ minecraft:items/spawn_egg_overlay
 minecraft:items/spectral_arrow
 minecraft:items/spider_eye
 minecraft:items/spider_eye_fermented
+minecraft:items/spruce_boat
 minecraft:items/stick
 minecraft:items/stone_axe
 minecraft:items/stone_hoe

@@ -754,8 +754,8 @@ minecraft:block/structure_block_data
 minecraft:block/structure_block_load
 minecraft:block/structure_block_save
 minecraft:block/tall_grass
-minecraft:block/tallgrass
 minecraft:block/thin_block
+minecraft:block/tinted_cross
 minecraft:block/tnt
 minecraft:block/torch
 minecraft:block/torch_wall
@@ -858,6 +858,7 @@ minecraft:block/yellow_stained_glass_pane_post
 minecraft:block/yellow_stained_glass_pane_side
 minecraft:block/yellow_stained_glass_pane_side_alt
 minecraft:block/yellow_wool
+minecraft:item/acacia_boat
 minecraft:item/acacia_door
 minecraft:item/acacia_fence
 minecraft:item/acacia_fence_gate
@@ -887,6 +888,7 @@ minecraft:item/beef
 minecraft:item/beetroot
 minecraft:item/beetroot_seeds
 minecraft:item/beetroot_soup
+minecraft:item/birch_boat
 minecraft:item/birch_door
 minecraft:item/birch_fence
 minecraft:item/birch_fence_gate
@@ -909,7 +911,6 @@ minecraft:item/blue_stained_glass
 minecraft:item/blue_stained_glass_pane
 minecraft:item/blue_stained_hardened_clay
 minecraft:item/blue_wool
-minecraft:item/boat
 minecraft:item/bone
 minecraft:item/book
 minecraft:item/bookshelf
@@ -927,6 +928,7 @@ minecraft:item/brick
 minecraft:item/brick_block
 minecraft:item/brick_slab
 minecraft:item/brick_stairs
+minecraft:item/broken_elytra
 minecraft:item/brown_carpet
 minecraft:item/brown_mushroom
 minecraft:item/brown_mushroom_block
@@ -1086,6 +1088,7 @@ minecraft:item/cyan_stained_glass_pane
 minecraft:item/cyan_stained_hardened_clay
 minecraft:item/cyan_wool
 minecraft:item/dandelion
+minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_door
 minecraft:item/dark_oak_fence
 minecraft:item/dark_oak_fence_gate
@@ -1139,6 +1142,7 @@ minecraft:item/dye_silver
 minecraft:item/dye_white
 minecraft:item/dye_yellow
 minecraft:item/egg
+minecraft:item/elytra
 minecraft:item/emerald
 minecraft:item/emerald_block
 minecraft:item/emerald_ore
@@ -1234,6 +1238,7 @@ minecraft:item/iron_sword
 minecraft:item/iron_trapdoor
 minecraft:item/item_frame
 minecraft:item/jukebox
+minecraft:item/jungle_boat
 minecraft:item/jungle_door
 minecraft:item/jungle_fence
 minecraft:item/jungle_fence_gate
@@ -1297,6 +1302,7 @@ minecraft:item/nether_wart
 minecraft:item/netherbrick
 minecraft:item/netherrack
 minecraft:item/noteblock
+minecraft:item/oak_boat
 minecraft:item/oak_door
 minecraft:item/oak_fence
 minecraft:item/oak_fence_gate
@@ -1429,6 +1435,7 @@ minecraft:item/spectral_arrow
 minecraft:item/spider_eye
 minecraft:item/sponge
 minecraft:item/sponge_wet
+minecraft:item/spruce_boat
 minecraft:item/spruce_door
 minecraft:item/spruce_fence
 minecraft:item/spruce_fence_gate
