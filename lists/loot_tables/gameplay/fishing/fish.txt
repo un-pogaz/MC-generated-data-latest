@@ -1,4 +1,4 @@
 minecraft:cod
 minecraft:salmon
-minecraft:clownfish
+minecraft:tropical_fish
 minecraft:pufferfish

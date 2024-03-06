@@ -1,3 +1,0 @@
-spawnpoint
-spawnpoint <targets minecraft:entity[amount="multiple", type="players"]>
-spawnpoint <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:block_pos>
