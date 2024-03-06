@@ -715,6 +715,8 @@ minecraft/sounds/block/copper/step3.ogg
 minecraft/sounds/block/copper/step4.ogg
 minecraft/sounds/block/copper/step5.ogg
 minecraft/sounds/block/copper/step6.ogg
+minecraft/sounds/block/crafter/craft.ogg
+minecraft/sounds/block/crafter/fail.ogg
 minecraft/sounds/block/decorated_pot/break1.ogg
 minecraft/sounds/block/decorated_pot/break2.ogg
 minecraft/sounds/block/decorated_pot/break3.ogg
