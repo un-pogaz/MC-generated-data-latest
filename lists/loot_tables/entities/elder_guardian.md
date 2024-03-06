@@ -4,9 +4,9 @@
 | minecraft:prismarine_shard    |  0..2 |   100% |      1 |         |
 | – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – |
 | 1 time                        |    -- |     -- |     -- |         |
-| minecraft:fish                |     1 |    40% |    2/5 |         |
-| minecraft:prismarine_crystals |     1 |    40% |    2/5 |         |
-| empty                         |       |    20% |    1/5 |         |
+| minecraft:fish                |     1 |    50% |    3/6 |         |
+| minecraft:prismarine_crystals |     1 |  33.3% |    2/6 |         |
+| empty                         |       |  16.7% |    1/6 |         |
 | – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – |
 | 1 time                        |    -- |     -- |     -- |         |
 | minecraft:sponge              |     1 |   100% |      1 |         |
