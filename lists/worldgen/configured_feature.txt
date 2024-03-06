@@ -84,7 +84,6 @@ minecraft:jungle_tree_no_vine
 minecraft:kelp_cold
 minecraft:kelp_warm
 minecraft:lake_lava
-minecraft:lake_water
 minecraft:large_basalt_columns
 minecraft:large_dripstone
 minecraft:lush_caves_ceiling_vegetation
@@ -98,6 +97,7 @@ minecraft:mega_pine_checked
 minecraft:mega_spruce
 minecraft:mega_spruce_checked
 minecraft:monster_room
+minecraft:monster_room_deep
 minecraft:moss_patch
 minecraft:moss_patch_bonemeal
 minecraft:moss_patch_ceiling
@@ -120,6 +120,7 @@ minecraft:ore_copper_large
 minecraft:ore_debris_large
 minecraft:ore_debris_small
 minecraft:ore_diamond
+minecraft:ore_diamond_buried
 minecraft:ore_diamond_large
 minecraft:ore_diorite_lower
 minecraft:ore_diorite_upper
@@ -128,6 +129,7 @@ minecraft:ore_emerald
 minecraft:ore_gold
 minecraft:ore_gold_deltas
 minecraft:ore_gold_extra
+minecraft:ore_gold_lower
 minecraft:ore_gold_nether
 minecraft:ore_granite_lower
 minecraft:ore_granite_upper
@@ -147,8 +149,8 @@ minecraft:ore_redstone_lower
 minecraft:ore_soul_sand
 minecraft:ore_tuff
 minecraft:patch_berry_bush
-minecraft:patch_berry_decorated
-minecraft:patch_berry_sparse
+minecraft:patch_berry_common
+minecraft:patch_berry_rare
 minecraft:patch_brown_mushroom
 minecraft:patch_cactus
 minecraft:patch_cactus_decorated
