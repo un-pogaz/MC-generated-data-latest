@@ -626,7 +626,6 @@ minecraft:block/respawn_anchor_side3
 minecraft:block/respawn_anchor_side4
 minecraft:block/respawn_anchor_top  [mcmeta]
 minecraft:block/respawn_anchor_top_off
-minecraft:block/root_vines_head
 minecraft:block/rooted_dirt
 minecraft:block/rose_bush_bottom
 minecraft:block/rose_bush_top
