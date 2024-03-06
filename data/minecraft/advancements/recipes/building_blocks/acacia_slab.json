@@ -2,16 +2,16 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:gold_ingot_from_gold_block"
+      "minecraft:acacia_slab"
     ]
   },
   "criteria": {
-    "has_gold_block": {
+    "has_planks": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:gold_block"
+            "item": "minecraft:acacia_planks"
           }
         ]
       }
@@ -19,13 +19,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "gold_ingot_from_gold_block"
+        "recipe": "minecraft:acacia_slab"
       }
     }
   },
   "requirements": [
     [
-      "has_gold_block",
+      "has_planks",
       "has_the_recipe"
     ]
   ]

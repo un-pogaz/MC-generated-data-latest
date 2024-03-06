@@ -6,7 +6,7 @@
     ]
   },
   "criteria": {
-    "entered_water": {
+    "in_water": {
       "trigger": "minecraft:enter_block",
       "conditions": {
         "block": "minecraft:water"
@@ -15,13 +15,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "boat"
+        "recipe": "minecraft:boat"
       }
     }
   },
   "requirements": [
     [
-      "entered_water",
+      "in_water",
       "has_the_recipe"
     ]
   ]

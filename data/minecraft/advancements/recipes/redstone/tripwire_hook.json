@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "tripwire_hook"
+        "recipe": "minecraft:tripwire_hook"
       }
     }
   },

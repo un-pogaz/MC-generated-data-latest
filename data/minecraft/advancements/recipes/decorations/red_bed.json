@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "red_bed"
+        "recipe": "minecraft:red_bed"
       }
     }
   },

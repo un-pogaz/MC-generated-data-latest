@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "green_wool"
+        "recipe": "minecraft:green_wool"
       }
     }
   },

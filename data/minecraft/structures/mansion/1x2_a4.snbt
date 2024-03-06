@@ -1,6 +1,7 @@
 {
   size: [7, 8, 15],
   entities: [],
+  author: "Player899",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -1175,20 +1176,20 @@
         Items: [
           {
             Slot: 4b,
-            id: "minecraft:sapling",
             Count: 9b,
+            id: "minecraft:sapling",
             Damage: 5s
           },
           {
             Slot: 10b,
-            id: "minecraft:sapling",
             Count: 10b,
+            id: "minecraft:sapling",
             Damage: 5s
           },
           {
             Slot: 23b,
-            id: "minecraft:sapling",
             Count: 9b,
+            id: "minecraft:sapling",
             Damage: 5s
           }
         ],
@@ -3387,7 +3388,6 @@
       state: 4
     }
   ],
-  author: "Player899",
   palette: [
     {
       Properties: {

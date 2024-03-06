@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "light_gray_dye_from_oxeye_daisy"
+        "recipe": "minecraft:light_gray_dye_from_oxeye_daisy"
       }
     }
   },

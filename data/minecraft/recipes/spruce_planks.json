@@ -1,16 +1,12 @@
 {
-  "type": "crafting_shaped",
+  "type": "crafting_shapeless",
   "group": "planks",
-  "pattern": [
-    "#"
-  ],
-  "key": {
-    "#": {
+  "ingredients": [
+    {
       "item": "minecraft:spruce_log"
     }
-  },
+  ],
   "result": {
-    "item": "minecraft:spruce_planks",
-    "count": 4
+    "item": "minecraft:spruce_planks"
   }
 }

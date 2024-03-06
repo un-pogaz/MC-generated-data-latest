@@ -1,14 +1,11 @@
 {
-  "type": "crafting_shaped",
+  "type": "crafting_shapeless",
   "group": "wooden_button",
-  "pattern": [
-    "#"
-  ],
-  "key": {
-    "#": {
+  "ingredients": [
+    {
       "item": "minecraft:jungle_planks"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:jungle_button"
   }

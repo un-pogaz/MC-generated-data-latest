@@ -1,6 +1,7 @@
 {
   size: [7, 8, 15],
   entities: [],
+  author: "Player833",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -615,14 +616,14 @@
         Items: [
           {
             Slot: 11b,
-            id: "minecraft:ender_pearl",
             Count: 1b,
+            id: "minecraft:ender_pearl",
             Damage: 0s
           },
           {
             Slot: 15b,
-            id: "minecraft:ender_pearl",
             Count: 1b,
+            id: "minecraft:ender_pearl",
             Damage: 0s
           }
         ],
@@ -3381,7 +3382,6 @@
       state: 6
     }
   ],
-  author: "Player833",
   palette: [
     {
       Properties: {

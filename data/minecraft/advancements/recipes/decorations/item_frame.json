@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "item_frame"
+        "recipe": "minecraft:item_frame"
       }
     }
   },
