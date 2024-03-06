@@ -1,0 +1,12 @@
+facing=north,open=true
+facing=north,open=false  [default]
+facing=east,open=true
+facing=east,open=false
+facing=south,open=true
+facing=south,open=false
+facing=west,open=true
+facing=west,open=false
+facing=up,open=true
+facing=up,open=false
+facing=down,open=true
+facing=down,open=false

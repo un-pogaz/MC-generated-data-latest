@@ -1,0 +1,3 @@
+minecraft:lantern
+minecraft:mangrove_propagule
+minecraft:soul_lantern

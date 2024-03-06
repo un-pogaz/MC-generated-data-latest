@@ -1,0 +1,12 @@
+type=normal,facing=north  [default]
+type=sticky,facing=north
+type=normal,facing=east
+type=sticky,facing=east
+type=normal,facing=south
+type=sticky,facing=south
+type=normal,facing=west
+type=sticky,facing=west
+type=normal,facing=up
+type=sticky,facing=up
+type=normal,facing=down
+type=sticky,facing=down

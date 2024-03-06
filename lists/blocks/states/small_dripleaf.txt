@@ -1,0 +1,16 @@
+facing=north,half=upper,waterlogged=true
+facing=north,half=upper,waterlogged=false
+facing=north,half=lower,waterlogged=true
+facing=north,half=lower,waterlogged=false  [default]
+facing=south,half=upper,waterlogged=true
+facing=south,half=upper,waterlogged=false
+facing=south,half=lower,waterlogged=true
+facing=south,half=lower,waterlogged=false
+facing=west,half=upper,waterlogged=true
+facing=west,half=upper,waterlogged=false
+facing=west,half=lower,waterlogged=true
+facing=west,half=lower,waterlogged=false
+facing=east,half=upper,waterlogged=true
+facing=east,half=upper,waterlogged=false
+facing=east,half=lower,waterlogged=true
+facing=east,half=lower,waterlogged=false

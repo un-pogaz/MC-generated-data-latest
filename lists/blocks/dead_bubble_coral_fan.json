@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

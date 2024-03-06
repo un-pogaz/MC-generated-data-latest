@@ -1,0 +1,2 @@
+gamemode <gamemode minecraft:gamemode>
+gamemode <gamemode minecraft:gamemode> <target minecraft:entity[type="players", amount="multiple"]>

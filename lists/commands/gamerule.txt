@@ -1,0 +1,90 @@
+gamerule announceAdvancements
+gamerule announceAdvancements <value brigadier:bool>
+gamerule blockExplosionDropDecay
+gamerule blockExplosionDropDecay <value brigadier:bool>
+gamerule commandBlockOutput
+gamerule commandBlockOutput <value brigadier:bool>
+gamerule commandModificationBlockLimit
+gamerule commandModificationBlockLimit <value brigadier:integer>
+gamerule disableElytraMovementCheck
+gamerule disableElytraMovementCheck <value brigadier:bool>
+gamerule disableRaids
+gamerule disableRaids <value brigadier:bool>
+gamerule doDaylightCycle
+gamerule doDaylightCycle <value brigadier:bool>
+gamerule doEntityDrops
+gamerule doEntityDrops <value brigadier:bool>
+gamerule doFireTick
+gamerule doFireTick <value brigadier:bool>
+gamerule doImmediateRespawn
+gamerule doImmediateRespawn <value brigadier:bool>
+gamerule doInsomnia
+gamerule doInsomnia <value brigadier:bool>
+gamerule doLimitedCrafting
+gamerule doLimitedCrafting <value brigadier:bool>
+gamerule doMobLoot
+gamerule doMobLoot <value brigadier:bool>
+gamerule doMobSpawning
+gamerule doMobSpawning <value brigadier:bool>
+gamerule doPatrolSpawning
+gamerule doPatrolSpawning <value brigadier:bool>
+gamerule doTileDrops
+gamerule doTileDrops <value brigadier:bool>
+gamerule doTraderSpawning
+gamerule doTraderSpawning <value brigadier:bool>
+gamerule doVinesSpread
+gamerule doVinesSpread <value brigadier:bool>
+gamerule doWardenSpawning
+gamerule doWardenSpawning <value brigadier:bool>
+gamerule doWeatherCycle
+gamerule doWeatherCycle <value brigadier:bool>
+gamerule drowningDamage
+gamerule drowningDamage <value brigadier:bool>
+gamerule fallDamage
+gamerule fallDamage <value brigadier:bool>
+gamerule fireDamage
+gamerule fireDamage <value brigadier:bool>
+gamerule forgiveDeadPlayers
+gamerule forgiveDeadPlayers <value brigadier:bool>
+gamerule freezeDamage
+gamerule freezeDamage <value brigadier:bool>
+gamerule globalSoundEvents
+gamerule globalSoundEvents <value brigadier:bool>
+gamerule keepInventory
+gamerule keepInventory <value brigadier:bool>
+gamerule lavaSourceConversion
+gamerule lavaSourceConversion <value brigadier:bool>
+gamerule logAdminCommands
+gamerule logAdminCommands <value brigadier:bool>
+gamerule maxCommandChainLength
+gamerule maxCommandChainLength <value brigadier:integer>
+gamerule maxEntityCramming
+gamerule maxEntityCramming <value brigadier:integer>
+gamerule mobExplosionDropDecay
+gamerule mobExplosionDropDecay <value brigadier:bool>
+gamerule mobGriefing
+gamerule mobGriefing <value brigadier:bool>
+gamerule naturalRegeneration
+gamerule naturalRegeneration <value brigadier:bool>
+gamerule playersSleepingPercentage
+gamerule playersSleepingPercentage <value brigadier:integer>
+gamerule randomTickSpeed
+gamerule randomTickSpeed <value brigadier:integer>
+gamerule reducedDebugInfo
+gamerule reducedDebugInfo <value brigadier:bool>
+gamerule sendCommandFeedback
+gamerule sendCommandFeedback <value brigadier:bool>
+gamerule showDeathMessages
+gamerule showDeathMessages <value brigadier:bool>
+gamerule snowAccumulationHeight
+gamerule snowAccumulationHeight <value brigadier:integer>
+gamerule spawnRadius
+gamerule spawnRadius <value brigadier:integer>
+gamerule spectatorsGenerateChunks
+gamerule spectatorsGenerateChunks <value brigadier:bool>
+gamerule tntExplosionDropDecay
+gamerule tntExplosionDropDecay <value brigadier:bool>
+gamerule universalAnger
+gamerule universalAnger <value brigadier:bool>
+gamerule waterSourceConversion
+gamerule waterSourceConversion <value brigadier:bool>

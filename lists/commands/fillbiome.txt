@@ -1,0 +1,2 @@
+fillbiome <from minecraft:block_pos> <to minecraft:block_pos> <biome minecraft:resource[registry="minecraft:worldgen/biome"]>
+fillbiome <from minecraft:block_pos> <to minecraft:block_pos> <biome minecraft:resource[registry="minecraft:worldgen/biome"]> replace <filter minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]>

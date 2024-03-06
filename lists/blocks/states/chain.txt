@@ -1,0 +1,6 @@
+axis=x,waterlogged=true
+axis=x,waterlogged=false
+axis=y,waterlogged=true
+axis=y,waterlogged=false  [default]
+axis=z,waterlogged=true
+axis=z,waterlogged=false

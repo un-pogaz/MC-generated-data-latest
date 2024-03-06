@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "type": [
+      "single",
+      "left",
+      "right"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

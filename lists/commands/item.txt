@@ -1,0 +1,14 @@
+item modify block <pos minecraft:block_pos> <slot minecraft:item_slot> <modifier minecraft:resource_location>
+item modify entity <targets minecraft:entity[type="entities", amount="multiple"]> <slot minecraft:item_slot> <modifier minecraft:resource_location>
+item replace block <pos minecraft:block_pos> <slot minecraft:item_slot> from block <source minecraft:block_pos> <sourceSlot minecraft:item_slot>
+item replace block <pos minecraft:block_pos> <slot minecraft:item_slot> from block <source minecraft:block_pos> <sourceSlot minecraft:item_slot> <modifier minecraft:resource_location>
+item replace block <pos minecraft:block_pos> <slot minecraft:item_slot> from entity <source minecraft:entity[type="entities", amount="single"]> <sourceSlot minecraft:item_slot>
+item replace block <pos minecraft:block_pos> <slot minecraft:item_slot> from entity <source minecraft:entity[type="entities", amount="single"]> <sourceSlot minecraft:item_slot> <modifier minecraft:resource_location>
+item replace block <pos minecraft:block_pos> <slot minecraft:item_slot> with <item minecraft:item_stack>
+item replace block <pos minecraft:block_pos> <slot minecraft:item_slot> with <item minecraft:item_stack> <count brigadier:integer[max="64", min="1"]>
+item replace entity <targets minecraft:entity[type="entities", amount="multiple"]> <slot minecraft:item_slot> from block <source minecraft:block_pos> <sourceSlot minecraft:item_slot>
+item replace entity <targets minecraft:entity[type="entities", amount="multiple"]> <slot minecraft:item_slot> from block <source minecraft:block_pos> <sourceSlot minecraft:item_slot> <modifier minecraft:resource_location>
+item replace entity <targets minecraft:entity[type="entities", amount="multiple"]> <slot minecraft:item_slot> from entity <source minecraft:entity[type="entities", amount="single"]> <sourceSlot minecraft:item_slot>
+item replace entity <targets minecraft:entity[type="entities", amount="multiple"]> <slot minecraft:item_slot> from entity <source minecraft:entity[type="entities", amount="single"]> <sourceSlot minecraft:item_slot> <modifier minecraft:resource_location>
+item replace entity <targets minecraft:entity[type="entities", amount="multiple"]> <slot minecraft:item_slot> with <item minecraft:item_stack>
+item replace entity <targets minecraft:entity[type="entities", amount="multiple"]> <slot minecraft:item_slot> with <item minecraft:item_stack> <count brigadier:integer[max="64", min="1"]>

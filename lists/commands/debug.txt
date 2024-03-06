@@ -1,0 +1,3 @@
+debug function <name minecraft:function>
+debug start
+debug stop

@@ -1,0 +1,19 @@
+scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria>
+scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria> <displayName minecraft:component>
+scoreboard objectives list
+scoreboard objectives modify <objective minecraft:objective> displayname <displayName minecraft:component>
+scoreboard objectives modify <objective minecraft:objective> rendertype hearts
+scoreboard objectives modify <objective minecraft:objective> rendertype integer
+scoreboard objectives remove <objective minecraft:objective>
+scoreboard objectives setdisplay <slot minecraft:scoreboard_slot>
+scoreboard objectives setdisplay <slot minecraft:scoreboard_slot> <objective minecraft:objective>
+scoreboard players add <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> <score brigadier:integer[min="0"]>
+scoreboard players enable <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective>
+scoreboard players get <target minecraft:score_holder[amount="single"]> <objective minecraft:objective>
+scoreboard players list
+scoreboard players list <target minecraft:score_holder[amount="single"]>
+scoreboard players operation <targets minecraft:score_holder[amount="multiple"]> <targetObjective minecraft:objective> <operation minecraft:operation> <source minecraft:score_holder[amount="multiple"]> <sourceObjective minecraft:objective>
+scoreboard players remove <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> <score brigadier:integer[min="0"]>
+scoreboard players reset <targets minecraft:score_holder[amount="multiple"]>
+scoreboard players reset <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective>
+scoreboard players set <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> <score brigadier:integer>

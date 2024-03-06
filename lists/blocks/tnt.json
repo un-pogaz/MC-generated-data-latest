@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "unstable": [
+      "true",
+      "false"
+    ]
+  }
+}

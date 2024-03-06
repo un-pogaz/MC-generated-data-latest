@@ -1,0 +1,4 @@
+recipe give <targets minecraft:entity[type="players", amount="multiple"]> *
+recipe give <targets minecraft:entity[type="players", amount="multiple"]> <recipe minecraft:resource_location>
+recipe take <targets minecraft:entity[type="players", amount="multiple"]> *
+recipe take <targets minecraft:entity[type="players", amount="multiple"]> <recipe minecraft:resource_location>

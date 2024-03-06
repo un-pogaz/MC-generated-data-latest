@@ -1637,6 +1637,7 @@ minecraft:gui/container/stats_icons
 minecraft:gui/container/stonecutter
 minecraft:gui/container/villager2
 minecraft:gui/demo_background
+minecraft:gui/footer_separator
 minecraft:gui/hanging_signs/acacia
 minecraft:gui/hanging_signs/bamboo
 minecraft:gui/hanging_signs/birch
@@ -1648,7 +1649,10 @@ minecraft:gui/hanging_signs/mangrove
 minecraft:gui/hanging_signs/oak
 minecraft:gui/hanging_signs/spruce
 minecraft:gui/hanging_signs/warped
+minecraft:gui/header_separator
 minecraft:gui/icons
+minecraft:gui/info_icon
+minecraft:gui/light_dirt_background
 minecraft:gui/options_background
 minecraft:gui/presets/isles
 minecraft:gui/recipe_book
@@ -1660,6 +1664,7 @@ minecraft:gui/slider
 minecraft:gui/social_interactions
 minecraft:gui/spectator_widgets
 minecraft:gui/stream_indicator
+minecraft:gui/tab_button
 minecraft:gui/title/background/panorama_0
 minecraft:gui/title/background/panorama_1
 minecraft:gui/title/background/panorama_2
@@ -1671,6 +1676,7 @@ minecraft:gui/title/edition
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojangstudios
 minecraft:gui/toasts
+minecraft:gui/unseen_notification
 minecraft:gui/widgets
 minecraft:gui/world_selection
 minecraft:item/acacia_boat
@@ -2233,7 +2239,8 @@ minecraft:item/yellow_dye
 minecraft:map/map_background
 minecraft:map/map_background_checkerboard
 minecraft:map/map_icons
-minecraft:misc/enchanted_item_glint  [mcmeta]
+minecraft:misc/enchanted_glint_entity
+minecraft:misc/enchanted_glint_item
 minecraft:misc/forcefield
 minecraft:misc/nausea
 minecraft:misc/powder_snow_outline

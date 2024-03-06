@@ -1,0 +1,2 @@
+minecraft:dispenser
+minecraft:dropper

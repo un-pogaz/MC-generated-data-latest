@@ -1,0 +1,132 @@
+execute align <axes minecraft:swizzle> >>redirect{execute}
+execute anchored <anchor minecraft:entity_anchor> >>redirect{execute}
+execute as <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute at <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute facing entity <targets minecraft:entity[type="entities", amount="multiple"]> <anchor minecraft:entity_anchor> >>redirect{execute}
+execute facing <pos minecraft:vec3> >>redirect{execute}
+execute if biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]>
+execute if biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]> >>redirect{execute}
+execute if block <pos minecraft:block_pos> <block minecraft:block_predicate>
+execute if block <pos minecraft:block_pos> <block minecraft:block_predicate> >>redirect{execute}
+execute if blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> all
+execute if blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> all >>redirect{execute}
+execute if blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> masked
+execute if blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> masked >>redirect{execute}
+execute if data block <sourcePos minecraft:block_pos> <path minecraft:nbt_path>
+execute if data block <sourcePos minecraft:block_pos> <path minecraft:nbt_path> >>redirect{execute}
+execute if data entity <source minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path>
+execute if data entity <source minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> >>redirect{execute}
+execute if data storage <source minecraft:resource_location> <path minecraft:nbt_path>
+execute if data storage <source minecraft:resource_location> <path minecraft:nbt_path> >>redirect{execute}
+execute if dimension <dimension minecraft:dimension>
+execute if dimension <dimension minecraft:dimension> >>redirect{execute}
+execute if entity <entities minecraft:entity[type="entities", amount="multiple"]>
+execute if entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute if loaded <pos minecraft:block_pos>
+execute if loaded <pos minecraft:block_pos> >>redirect{execute}
+execute if predicate <predicate minecraft:resource_location>
+execute if predicate <predicate minecraft:resource_location> >>redirect{execute}
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> < <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> < <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> <= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> <= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> = <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> = <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> > <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> > <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:int_range>
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:int_range> >>redirect{execute}
+execute in <dimension minecraft:dimension> >>redirect{execute}
+execute on attacker >>redirect{execute}
+execute on controller >>redirect{execute}
+execute on leasher >>redirect{execute}
+execute on origin >>redirect{execute}
+execute on owner >>redirect{execute}
+execute on passengers >>redirect{execute}
+execute on target >>redirect{execute}
+execute on vehicle >>redirect{execute}
+execute positioned as <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute positioned over <heightmap minecraft:heightmap> >>redirect{execute}
+execute positioned <pos minecraft:vec3> >>redirect{execute}
+execute rotated as <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute rotated <rot minecraft:rotation> >>redirect{execute}
+execute run >>redirect{*}
+execute store result block <targetPos minecraft:block_pos> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
+execute store result block <targetPos minecraft:block_pos> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
+execute store result block <targetPos minecraft:block_pos> <path minecraft:nbt_path> float <scale brigadier:double> >>redirect{execute}
+execute store result block <targetPos minecraft:block_pos> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
+execute store result block <targetPos minecraft:block_pos> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
+execute store result block <targetPos minecraft:block_pos> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute store result bossbar <id minecraft:resource_location> max >>redirect{execute}
+execute store result bossbar <id minecraft:resource_location> value >>redirect{execute}
+execute store result entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
+execute store result entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
+execute store result entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> float <scale brigadier:double> >>redirect{execute}
+execute store result entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
+execute store result entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
+execute store result entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute store result score <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> >>redirect{execute}
+execute store result storage <target minecraft:resource_location> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
+execute store result storage <target minecraft:resource_location> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
+execute store result storage <target minecraft:resource_location> <path minecraft:nbt_path> float <scale brigadier:double> >>redirect{execute}
+execute store result storage <target minecraft:resource_location> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
+execute store result storage <target minecraft:resource_location> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
+execute store result storage <target minecraft:resource_location> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute store success block <targetPos minecraft:block_pos> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
+execute store success block <targetPos minecraft:block_pos> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
+execute store success block <targetPos minecraft:block_pos> <path minecraft:nbt_path> float <scale brigadier:double> >>redirect{execute}
+execute store success block <targetPos minecraft:block_pos> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
+execute store success block <targetPos minecraft:block_pos> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
+execute store success block <targetPos minecraft:block_pos> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute store success bossbar <id minecraft:resource_location> max >>redirect{execute}
+execute store success bossbar <id minecraft:resource_location> value >>redirect{execute}
+execute store success entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
+execute store success entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
+execute store success entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> float <scale brigadier:double> >>redirect{execute}
+execute store success entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
+execute store success entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
+execute store success entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute store success score <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> >>redirect{execute}
+execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
+execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
+execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> float <scale brigadier:double> >>redirect{execute}
+execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
+execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
+execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute summon <entity minecraft:resource[registry="minecraft:entity_type"]> >>redirect{execute}
+execute unless biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]>
+execute unless biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]> >>redirect{execute}
+execute unless block <pos minecraft:block_pos> <block minecraft:block_predicate>
+execute unless block <pos minecraft:block_pos> <block minecraft:block_predicate> >>redirect{execute}
+execute unless blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> all
+execute unless blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> all >>redirect{execute}
+execute unless blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> masked
+execute unless blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> masked >>redirect{execute}
+execute unless data block <sourcePos minecraft:block_pos> <path minecraft:nbt_path>
+execute unless data block <sourcePos minecraft:block_pos> <path minecraft:nbt_path> >>redirect{execute}
+execute unless data entity <source minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path>
+execute unless data entity <source minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> >>redirect{execute}
+execute unless data storage <source minecraft:resource_location> <path minecraft:nbt_path>
+execute unless data storage <source minecraft:resource_location> <path minecraft:nbt_path> >>redirect{execute}
+execute unless dimension <dimension minecraft:dimension>
+execute unless dimension <dimension minecraft:dimension> >>redirect{execute}
+execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]>
+execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute unless loaded <pos minecraft:block_pos>
+execute unless loaded <pos minecraft:block_pos> >>redirect{execute}
+execute unless predicate <predicate minecraft:resource_location>
+execute unless predicate <predicate minecraft:resource_location> >>redirect{execute}
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> < <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> < <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> <= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> <= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> = <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> = <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> > <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> > <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:int_range>
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:int_range> >>redirect{execute}

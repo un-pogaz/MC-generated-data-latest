@@ -1,0 +1,1 @@
+tellraw <targets minecraft:entity[type="players", amount="multiple"]> <message minecraft:component>
