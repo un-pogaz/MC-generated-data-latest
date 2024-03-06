@@ -683,10 +683,6 @@
       state: 0
     },
     {
-      pos: [4, 0, 11],
-      state: 0
-    },
-    {
       pos: [5, 0, 11],
       state: 0
     },
@@ -917,6 +913,16 @@
         attachement_type: "minecraft:bottom"
       },
       pos: [9, 1, 9],
+      state: 10
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/common/iron_golem",
+        final_state: "minecraft:sand",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [4, 0, 11],
       state: 10
     },
     {
@@ -1510,5 +1516,5 @@
       Name: "minecraft:smooth_sandstone_stairs"
     }
   ],
-  DataVersion: 1930
+  DataVersion: 1931
 }
