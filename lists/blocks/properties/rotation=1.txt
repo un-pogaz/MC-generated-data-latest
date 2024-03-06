@@ -27,6 +27,7 @@ minecraft:mangrove_sign
 minecraft:oak_hanging_sign
 minecraft:oak_sign
 minecraft:orange_banner
+minecraft:piglin_head
 minecraft:pink_banner
 minecraft:player_head
 minecraft:purple_banner
