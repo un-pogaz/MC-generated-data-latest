@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:ender_pearl",
+                    "type": "item",
+                    "name": "minecraft:ender_pearl",
                     "weight": 1,
                     "functions": [
                         {

@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:rabbit_hide",
+                    "type": "item",
+                    "name": "minecraft:rabbit_hide",
                     "weight": 1,
                     "functions": [
                         {
@@ -27,9 +28,10 @@
         },
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:rabbit",
+                    "type": "item",
+                    "name": "minecraft:rabbit",
                     "weight": 1,
                     "functions": [
                         {
@@ -67,9 +69,10 @@
                 }
             ],
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:rabbit_foot",
+                    "type": "item",
+                    "name": "minecraft:rabbit_foot",
                     "weight": 1
                 }
             ]

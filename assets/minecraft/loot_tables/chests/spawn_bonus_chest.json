@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 10,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:stick",
+                    "type": "item",
+                    "name": "minecraft:stick",
                     "weight": 10,
                     "functions": [
                         {
@@ -17,7 +18,8 @@
                     ]
                 },
                 {
-                    "item": "minecraft:planks",
+                    "type": "item",
+                    "name": "minecraft:planks",
                     "weight": 10,
                     "functions": [
                         {
@@ -37,7 +39,8 @@
                     ]
                 },
                 {
-                    "item": "minecraft:log",
+                    "type": "item",
+                    "name": "minecraft:log",
                     "weight": 10,
                     "functions": [
                         {
@@ -57,7 +60,8 @@
                     ]
                 },
                 {
-                    "item": "minecraft:log2",
+                    "type": "item",
+                    "name": "minecraft:log2",
                     "weight": 10,
                     "functions": [
                         {
@@ -77,23 +81,28 @@
                     ]
                 },
                 {
-                    "item": "minecraft:stone_axe",
+                    "type": "item",
+                    "name": "minecraft:stone_axe",
                     "weight": 3
                 },
                 {
-                    "item": "minecraft:wooden_axe",
+                    "type": "item",
+                    "name": "minecraft:wooden_axe",
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:stone_pickaxe",
+                    "type": "item",
+                    "name": "minecraft:stone_pickaxe",
                     "weight": 3
                 },
                 {
-                    "item": "minecraft:wooden_pickaxe",
+                    "type": "item",
+                    "name": "minecraft:wooden_pickaxe",
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:apple",
+                    "type": "item",
+                    "name": "minecraft:apple",
                     "weight": 5,
                     "functions": [
                         {
@@ -106,7 +115,8 @@
                     ]
                 },
                 {
-                    "item": "minecraft:bread",
+                    "type": "item",
+                    "name": "minecraft:bread",
                     "weight": 3,
                     "functions": [
                         {

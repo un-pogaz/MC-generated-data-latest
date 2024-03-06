@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:blaze_rod",
+                    "type": "item",
+                    "name": "minecraft:blaze_rod",
                     "weight": 1,
                     "functions": [
                         {
