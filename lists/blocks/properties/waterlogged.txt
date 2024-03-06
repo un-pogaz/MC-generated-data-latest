@@ -109,6 +109,7 @@ minecraft:gray_candle
 minecraft:gray_stained_glass_pane
 minecraft:green_candle
 minecraft:green_stained_glass_pane
+minecraft:hanging_roots
 minecraft:horn_coral
 minecraft:horn_coral_fan
 minecraft:horn_coral_wall_fan
