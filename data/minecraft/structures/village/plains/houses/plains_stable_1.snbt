@@ -864,6 +864,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_block",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [8, 0, 8],
+      state: 7
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/plains/streets",
         final_state: "minecraft:air",
         id: "minecraft:jigsaw",
@@ -890,6 +900,16 @@
         attachement_type: "minecraft:bottom"
       },
       pos: [0, 0, 11],
+      state: 7
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_block",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [8, 0, 14],
       state: 7
     },
     {
@@ -2127,6 +2147,22 @@
       state: 12
     },
     {
+      pos: [0, 0, 6],
+      state: 12
+    },
+    {
+      pos: [1, 0, 6],
+      state: 12
+    },
+    {
+      pos: [7, 0, 6],
+      state: 12
+    },
+    {
+      pos: [8, 0, 6],
+      state: 12
+    },
+    {
       pos: [0, 1, 6],
       state: 12
     },
@@ -2313,6 +2349,14 @@
     {
       pos: [1, 0, 7],
       state: 23
+    },
+    {
+      pos: [7, 0, 7],
+      state: 12
+    },
+    {
+      pos: [8, 0, 7],
+      state: 12
     },
     {
       pos: [0, 1, 7],
@@ -2503,6 +2547,18 @@
       state: 12
     },
     {
+      pos: [0, 0, 8],
+      state: 12
+    },
+    {
+      pos: [1, 0, 8],
+      state: 12
+    },
+    {
+      pos: [7, 0, 8],
+      state: 12
+    },
+    {
       pos: [1, 1, 8],
       state: 12
     },
@@ -2668,6 +2724,22 @@
     },
     {
       pos: [8, 6, 8],
+      state: 12
+    },
+    {
+      pos: [0, 0, 9],
+      state: 12
+    },
+    {
+      pos: [1, 0, 9],
+      state: 12
+    },
+    {
+      pos: [7, 0, 9],
+      state: 12
+    },
+    {
+      pos: [8, 0, 9],
       state: 12
     },
     {
@@ -2848,6 +2920,22 @@
     },
     {
       pos: [8, 6, 9],
+      state: 12
+    },
+    {
+      pos: [0, 0, 10],
+      state: 12
+    },
+    {
+      pos: [1, 0, 10],
+      state: 12
+    },
+    {
+      pos: [7, 0, 10],
+      state: 12
+    },
+    {
+      pos: [8, 0, 10],
       state: 12
     },
     {
@@ -3035,6 +3123,18 @@
       state: 12
     },
     {
+      pos: [1, 0, 11],
+      state: 12
+    },
+    {
+      pos: [7, 0, 11],
+      state: 12
+    },
+    {
+      pos: [8, 0, 11],
+      state: 12
+    },
+    {
       pos: [0, 1, 11],
       state: 12
     },
@@ -3219,6 +3319,22 @@
       state: 12
     },
     {
+      pos: [0, 0, 12],
+      state: 12
+    },
+    {
+      pos: [1, 0, 12],
+      state: 12
+    },
+    {
+      pos: [7, 0, 12],
+      state: 12
+    },
+    {
+      pos: [8, 0, 12],
+      state: 12
+    },
+    {
       pos: [0, 1, 12],
       state: 12
     },
@@ -3388,6 +3504,22 @@
     },
     {
       pos: [8, 6, 12],
+      state: 12
+    },
+    {
+      pos: [0, 0, 13],
+      state: 12
+    },
+    {
+      pos: [1, 0, 13],
+      state: 12
+    },
+    {
+      pos: [7, 0, 13],
+      state: 12
+    },
+    {
+      pos: [8, 0, 13],
       state: 12
     },
     {
@@ -3571,6 +3703,18 @@
       state: 12
     },
     {
+      pos: [0, 0, 14],
+      state: 12
+    },
+    {
+      pos: [1, 0, 14],
+      state: 12
+    },
+    {
+      pos: [7, 0, 14],
+      state: 12
+    },
+    {
       pos: [0, 1, 14],
       state: 12
     },
@@ -3692,6 +3836,38 @@
     },
     {
       pos: [8, 6, 14],
+      state: 12
+    },
+    {
+      pos: [1, 0, 15],
+      state: 12
+    },
+    {
+      pos: [2, 0, 15],
+      state: 12
+    },
+    {
+      pos: [3, 0, 15],
+      state: 12
+    },
+    {
+      pos: [4, 0, 15],
+      state: 12
+    },
+    {
+      pos: [5, 0, 15],
+      state: 12
+    },
+    {
+      pos: [6, 0, 15],
+      state: 12
+    },
+    {
+      pos: [7, 0, 15],
+      state: 12
+    },
+    {
+      pos: [8, 0, 15],
       state: 12
     },
     {
@@ -4132,5 +4308,5 @@
       Name: "minecraft:glass_pane"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1916
 }
