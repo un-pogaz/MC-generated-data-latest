@@ -1,0 +1,4 @@
+minecraft:mob/zombiepig/zpigangry1
+minecraft:mob/zombiepig/zpigangry2
+minecraft:mob/zombiepig/zpigangry3
+minecraft:mob/zombiepig/zpigangry4

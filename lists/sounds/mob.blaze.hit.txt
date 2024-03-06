@@ -1,0 +1,4 @@
+minecraft:mob/blaze/hit1
+minecraft:mob/blaze/hit2
+minecraft:mob/blaze/hit3
+minecraft:mob/blaze/hit4

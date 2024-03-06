@@ -1,0 +1,3 @@
+minecraft:mob/horse/idle1
+minecraft:mob/horse/idle2
+minecraft:mob/horse/idle3

@@ -1,0 +1,3 @@
+minecraft:ambient/weather/thunder1
+minecraft:ambient/weather/thunder2
+minecraft:ambient/weather/thunder3

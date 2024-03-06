@@ -1,0 +1,4 @@
+minecraft:mob/horse/hit1
+minecraft:mob/horse/hit2
+minecraft:mob/horse/hit3
+minecraft:mob/horse/hit4

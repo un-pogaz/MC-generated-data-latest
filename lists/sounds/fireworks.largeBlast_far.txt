@@ -1,0 +1,1 @@
+minecraft:fireworks/largeBlast_far1

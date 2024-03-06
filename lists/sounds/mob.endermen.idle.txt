@@ -1,0 +1,5 @@
+minecraft:mob/endermen/idle1
+minecraft:mob/endermen/idle2
+minecraft:mob/endermen/idle3
+minecraft:mob/endermen/idle4
+minecraft:mob/endermen/idle5

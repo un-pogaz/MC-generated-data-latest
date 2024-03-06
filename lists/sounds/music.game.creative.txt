@@ -1,0 +1,7 @@
+minecraft:music.game
+minecraft:music/game/creative/creative1
+minecraft:music/game/creative/creative2
+minecraft:music/game/creative/creative3
+minecraft:music/game/creative/creative4
+minecraft:music/game/creative/creative5
+minecraft:music/game/creative/creative6

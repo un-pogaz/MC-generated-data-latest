@@ -1,0 +1,6 @@
+minecraft:step/grass1
+minecraft:step/grass2
+minecraft:step/grass3
+minecraft:step/grass4
+minecraft:step/grass5
+minecraft:step/grass6

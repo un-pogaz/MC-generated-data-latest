@@ -1,0 +1,4 @@
+minecraft:mob/bat/idle1
+minecraft:mob/bat/idle2
+minecraft:mob/bat/idle3
+minecraft:mob/bat/idle4

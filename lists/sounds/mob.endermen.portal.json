@@ -1,0 +1,7 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "mob/endermen/portal",
+    "mob/endermen/portal2"
+  ]
+}
