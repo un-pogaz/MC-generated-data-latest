@@ -1,0 +1,2 @@
+minecraft:mob/stray/death1
+minecraft:mob/stray/death2

@@ -59,6 +59,11 @@
     "name": "Dansk",
     "bidirectional": false
   },
+  "de_at": {
+    "region": "Östareich",
+    "name": "Deitsch",
+    "bidirectional": false
+  },
   "de_de": {
     "region": "Deutschland",
     "name": "Deutsch",
@@ -80,7 +85,7 @@
     "bidirectional": false
   },
   "en_gb": {
-    "region": "UK",
+    "region": "United Kingdom",
     "name": "English",
     "bidirectional": false
   },
@@ -95,8 +100,8 @@
     "bidirectional": false
   },
   "en_ud": {
-    "region": "ʞ∩",
-    "name": "ɥsᴉꞁƃuƎ",
+    "region": "ɯopᵷuᴉʞ pǝʇᴉu∩",
+    "name": "ɥsᴉꞁᵷuƎ",
     "bidirectional": false
   },
   "eo_uy": {
@@ -194,6 +199,11 @@
     "name": "Gaelg",
     "bidirectional": false
   },
+  "haw_us": {
+    "region": "Hawaiʻi",
+    "name": "ʻŌlelo Hawaiʻi",
+    "bidirectional": false
+  },
   "he_il": {
     "region": "ישראל",
     "name": "עברית",
@@ -201,7 +211,7 @@
   },
   "hi_in": {
     "region": "भारत",
-    "name": "अंग्रेज़ी",
+    "name": "हिन्दी",
     "bidirectional": false
   },
   "hr_hr": {
@@ -304,6 +314,11 @@
     "name": "Македонски",
     "bidirectional": false
   },
+  "mn_mn": {
+    "region": "Монгол Улс",
+    "name": "Монгол",
+    "bidirectional": false
+  },
   "ms_my": {
     "region": "Malaysia",
     "name": "Bahasa Melayu",
@@ -375,7 +390,7 @@
     "bidirectional": false
   },
   "sk_sk": {
-    "region": "Slovakia",
+    "region": "Slovensko",
     "name": "Slovenčina",
     "bidirectional": false
   },
@@ -404,13 +419,18 @@
     "name": "Svenska",
     "bidirectional": false
   },
+  "swg_de": {
+    "region": "Allgai",
+    "name": "Ostallgaierisch",
+    "bidirectional": false
+  },
   "th_th": {
     "region": "ประเทศไทย",
     "name": "ภาษาไทย",
     "bidirectional": false
   },
   "tlh_aa": {
-    "region": "tlhIngan wo'",
+    "region": "Qo’noS",
     "name": "tlhIngan Hol",
     "bidirectional": false
   },
@@ -430,7 +450,7 @@
     "bidirectional": false
   },
   "val_es": {
-    "region": "País Valencià",
+    "region": "Comunitat Valenciana",
     "name": "Català (Valencià)",
     "bidirectional": false
   },

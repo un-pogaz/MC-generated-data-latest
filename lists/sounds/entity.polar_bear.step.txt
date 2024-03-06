@@ -1,0 +1,4 @@
+minecraft:mob/polarbear/step1
+minecraft:mob/polarbear/step2
+minecraft:mob/polarbear/step3
+minecraft:mob/polarbear/step4

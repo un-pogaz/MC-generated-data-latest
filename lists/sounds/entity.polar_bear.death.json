@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/polarbear/death1",
+    "mob/polarbear/death2",
+    "mob/polarbear/death3"
+  ],
+  "subtitle": "subtitles.entity.polar_bear.death"
+}
