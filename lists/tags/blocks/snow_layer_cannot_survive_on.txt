@@ -1,0 +1,3 @@
+minecraft:ice
+minecraft:packed_ice
+minecraft:barrier
