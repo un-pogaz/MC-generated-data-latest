@@ -82,4 +82,5 @@ minecraft:mangrove_roots
 minecraft:bamboo_mosaic
 minecraft:bamboo_mosaic_slab
 minecraft:bamboo_mosaic_stairs
+#minecraft:bamboo_blocks
 minecraft:chiseled_bookshelf
