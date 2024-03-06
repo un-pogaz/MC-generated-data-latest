@@ -8,13 +8,13 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:lime_wool"
+      "item": "minecraft:magenta_wool"
     },
     "|": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "minecraft:lime_wool"
+    "item": "minecraft:magenta_banner"
   }
 }
