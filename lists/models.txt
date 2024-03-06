@@ -39,6 +39,7 @@ minecraft:block/dragon_egg
 minecraft:block/dropper
 minecraft:block/emerald_block
 minecraft:block/emerald_ore
+minecraft:block/enchanting_table
 minecraft:block/end_portal_frame
 minecraft:block/end_stone
 minecraft:block/farmland
@@ -128,6 +129,7 @@ minecraft:block/meshes/cube
 minecraft:block/meshes/daylight_detector
 minecraft:block/meshes/door
 minecraft:block/meshes/dragon_egg
+minecraft:block/meshes/enchanting_table_base
 minecraft:block/meshes/end_portal_frame_empty
 minecraft:block/meshes/end_portal_frame_filled
 minecraft:block/meshes/farmland
@@ -223,7 +225,7 @@ minecraft:block/meshes/lever
 minecraft:block/meshes/lever_off
 minecraft:block/meshes/log
 minecraft:block/meshes/log_side
-minecraft:block/meshes/missingno
+minecraft:block/meshes/mob_spawner_cage
 minecraft:block/meshes/outer_stairs
 minecraft:block/meshes/outer_stairs_alt
 minecraft:block/meshes/pane_n
@@ -235,6 +237,8 @@ minecraft:block/meshes/piston
 minecraft:block/meshes/piston_extended
 minecraft:block/meshes/piston_head
 minecraft:block/meshes/piston_inventory
+minecraft:block/meshes/portal_ew
+minecraft:block/meshes/portal_ns
 minecraft:block/meshes/pressure_plate_down
 minecraft:block/meshes/pressure_plate_inventory
 minecraft:block/meshes/pressure_plate_up
@@ -357,7 +361,7 @@ minecraft:block/meshes/wall_nse
 minecraft:block/meshes/wall_nsew
 minecraft:block/meshes/wall_post
 minecraft:block/meshes/waterlily
-minecraft:block/missingno
+minecraft:block/mob_spawner
 minecraft:block/monster_egg
 minecraft:block/mossy_cobblestone
 minecraft:block/mycelium
@@ -373,6 +377,7 @@ minecraft:block/packed_ice
 minecraft:block/piston
 minecraft:block/piston_head
 minecraft:block/planks
+minecraft:block/portal
 minecraft:block/potatoes
 minecraft:block/powered_comparator
 minecraft:block/powered_repeater

@@ -4,9 +4,9 @@
     "inventoryRender3D": false,
     "elements": [
         {   "type": "plane",
-            "from": [ 15.2, 0, 0 ],
-            "to": [ 15.2, 16, 16 ],
-            "facing": "west",
+            "from": [ 0, 0, 0.8 ],
+            "to": [ 16, 16, 0.8 ],
+            "facing": "south",
             "twoSided": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
@@ -16,9 +16,9 @@
             }
         },
         {   "type": "plane",
-            "from": [ 0.8, 0, 0 ],
-            "to": [ 0.8, 16, 16 ],
-            "facing": "east",
+            "from": [ 15.2, 0, 0 ],
+            "to": [ 15.2, 16, 16 ],
+            "facing": "west",
             "twoSided": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
