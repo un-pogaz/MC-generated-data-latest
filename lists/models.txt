@@ -503,7 +503,7 @@ minecraft:block/end_stone_brick_wall_side
 minecraft:block/end_stone_brick_wall_side_tall
 minecraft:block/end_stone_bricks
 minecraft:block/ender_chest
-minecraft:block/exposed_copper_block
+minecraft:block/exposed_copper
 minecraft:block/exposed_cut_copper
 minecraft:block/exposed_cut_copper_slab
 minecraft:block/exposed_cut_copper_slab_top
@@ -893,7 +893,7 @@ minecraft:block/orientable_vertical
 minecraft:block/orientable_with_bottom
 minecraft:block/outer_stairs
 minecraft:block/oxeye_daisy
-minecraft:block/oxidized_copper_block
+minecraft:block/oxidized_copper
 minecraft:block/oxidized_cut_copper
 minecraft:block/oxidized_cut_copper_slab
 minecraft:block/oxidized_cut_copper_slab_top
@@ -1504,7 +1504,7 @@ minecraft:block/water
 minecraft:block/water_cauldron_full
 minecraft:block/water_cauldron_level1
 minecraft:block/water_cauldron_level2
-minecraft:block/weathered_copper_block
+minecraft:block/weathered_copper
 minecraft:block/weathered_cut_copper
 minecraft:block/weathered_cut_copper_slab
 minecraft:block/weathered_cut_copper_slab_top
@@ -2011,7 +2011,7 @@ minecraft:item/enderman_spawn_egg
 minecraft:item/endermite_spawn_egg
 minecraft:item/evoker_spawn_egg
 minecraft:item/experience_bottle
-minecraft:item/exposed_copper_block
+minecraft:item/exposed_copper
 minecraft:item/exposed_cut_copper
 minecraft:item/exposed_cut_copper_slab
 minecraft:item/exposed_cut_copper_stairs
@@ -2348,7 +2348,7 @@ minecraft:item/orange_terracotta
 minecraft:item/orange_tulip
 minecraft:item/orange_wool
 minecraft:item/oxeye_daisy
-minecraft:item/oxidized_copper_block
+minecraft:item/oxidized_copper
 minecraft:item/oxidized_cut_copper
 minecraft:item/oxidized_cut_copper_slab
 minecraft:item/oxidized_cut_copper_stairs
@@ -2669,7 +2669,7 @@ minecraft:item/warped_stem
 minecraft:item/warped_trapdoor
 minecraft:item/warped_wart_block
 minecraft:item/water_bucket
-minecraft:item/waxed_copper
+minecraft:item/waxed_copper_block
 minecraft:item/waxed_cut_copper
 minecraft:item/waxed_cut_copper_slab
 minecraft:item/waxed_cut_copper_stairs
@@ -2681,7 +2681,7 @@ minecraft:item/waxed_weathered_copper
 minecraft:item/waxed_weathered_cut_copper
 minecraft:item/waxed_weathered_cut_copper_slab
 minecraft:item/waxed_weathered_cut_copper_stairs
-minecraft:item/weathered_copper_block
+minecraft:item/weathered_copper
 minecraft:item/weathered_cut_copper
 minecraft:item/weathered_cut_copper_slab
 minecraft:item/weathered_cut_copper_stairs
