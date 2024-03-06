@@ -662,6 +662,7 @@ minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sandstone_wall
 minecraft:scaffolding
+minecraft:sculk_sensor
 minecraft:sea_lantern
 minecraft:sea_pickle
 minecraft:seagrass
@@ -867,6 +868,7 @@ minecraft:zombie_wall_head
 #minecraft:dark_oak_logs
 #minecraft:doors
 #minecraft:dragon_immune
+#minecraft:dripstone_replaceable_blocks
 #minecraft:enderman_holdable
 #minecraft:fence_gates
 #minecraft:fences
@@ -890,6 +892,7 @@ minecraft:zombie_wall_head
 #minecraft:non_flammable_wood
 #minecraft:nylium
 #minecraft:oak_logs
+#minecraft:occludes_vibration_signals
 #minecraft:piglin_repellents
 #minecraft:planks
 #minecraft:portals

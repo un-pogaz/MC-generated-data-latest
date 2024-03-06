@@ -114,6 +114,8 @@ minecraft:block/cake_inner
 minecraft:block/cake_side
 minecraft:block/cake_top
 minecraft:block/calcite
+minecraft:block/calibrated_sculk_sensor_side
+minecraft:block/calibrated_sculk_sensor_top
 minecraft:block/campfire_fire  [mcmeta]
 minecraft:block/campfire_log
 minecraft:block/campfire_log_lit  [mcmeta]
@@ -593,6 +595,11 @@ minecraft:block/sandstone_top
 minecraft:block/scaffolding_bottom
 minecraft:block/scaffolding_side
 minecraft:block/scaffolding_top
+minecraft:block/sculk_sensor_bottom
+minecraft:block/sculk_sensor_side
+minecraft:block/sculk_sensor_tendril_active  [mcmeta]
+minecraft:block/sculk_sensor_tendril_inactive  [mcmeta]
+minecraft:block/sculk_sensor_top
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
@@ -2098,6 +2105,7 @@ minecraft:particle/sweep_4
 minecraft:particle/sweep_5
 minecraft:particle/sweep_6
 minecraft:particle/sweep_7
+minecraft:particle/vibration  [mcmeta]
 realms:gui/realms/accept_icon
 realms:gui/realms/adventure
 realms:gui/realms/configure_icon
