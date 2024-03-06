@@ -1,0 +1,14 @@
+minecraft:block/sculk/break1
+minecraft:block/sculk/break2
+minecraft:block/sculk/break3
+minecraft:block/sculk/break4
+minecraft:block/sculk/break5
+minecraft:block/sculk/break6
+minecraft:block/sculk/break7
+minecraft:block/sculk/break8
+minecraft:block/sculk/break9
+minecraft:block/sculk/break10
+minecraft:block/sculk/break11
+minecraft:block/sculk/break12
+minecraft:block/sculk/break13
+minecraft:block/sculk/break14

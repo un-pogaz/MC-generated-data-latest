@@ -1,0 +1,5 @@
+minecraft:block/sculk/place1
+minecraft:block/sculk/place2
+minecraft:block/sculk/place3
+minecraft:block/sculk/place4
+minecraft:block/sculk/place5

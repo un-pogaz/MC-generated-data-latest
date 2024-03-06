@@ -1,0 +1,2 @@
+minecraft:mob/tadpole/death1
+minecraft:mob/tadpole/death2

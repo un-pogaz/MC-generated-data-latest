@@ -1,0 +1,2 @@
+minecraft:mob/frog/lay_spawn1
+minecraft:mob/frog/lay_spawn2

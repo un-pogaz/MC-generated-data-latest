@@ -1,0 +1,5 @@
+minecraft:block/sculk/charge1
+minecraft:block/sculk/charge2
+minecraft:block/sculk/charge3
+minecraft:block/sculk/charge4
+minecraft:block/sculk/charge5

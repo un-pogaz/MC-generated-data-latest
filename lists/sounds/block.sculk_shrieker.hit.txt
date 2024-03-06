@@ -1,0 +1,6 @@
+minecraft:block/sculk/step1
+minecraft:block/sculk/step2
+minecraft:block/sculk/step3
+minecraft:block/sculk/step4
+minecraft:block/sculk/step5
+minecraft:block/sculk/step6

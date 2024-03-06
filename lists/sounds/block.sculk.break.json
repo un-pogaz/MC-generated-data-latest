@@ -1,0 +1,19 @@
+{
+  "sounds": [
+    "block/sculk/break1",
+    "block/sculk/break2",
+    "block/sculk/break3",
+    "block/sculk/break4",
+    "block/sculk/break5",
+    "block/sculk/break6",
+    "block/sculk/break7",
+    "block/sculk/break8",
+    "block/sculk/break9",
+    "block/sculk/break10",
+    "block/sculk/break11",
+    "block/sculk/break12",
+    "block/sculk/break13",
+    "block/sculk/break14"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

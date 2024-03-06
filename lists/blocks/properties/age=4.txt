@@ -4,6 +4,7 @@ minecraft:cave_vines
 minecraft:chorus_flower
 minecraft:fire
 minecraft:kelp
+minecraft:mangrove_propagule
 minecraft:melon_stem
 minecraft:potatoes
 minecraft:pumpkin_stem

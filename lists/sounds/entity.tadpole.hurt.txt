@@ -1,0 +1,4 @@
+minecraft:mob/tadpole/hurt1
+minecraft:mob/tadpole/hurt2
+minecraft:mob/tadpole/hurt3
+minecraft:mob/tadpole/hurt4

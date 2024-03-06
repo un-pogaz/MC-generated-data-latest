@@ -1,0 +1,6 @@
+minecraft:block/packed_mud/step1
+minecraft:block/packed_mud/step2
+minecraft:block/packed_mud/step3
+minecraft:block/packed_mud/step4
+minecraft:block/packed_mud/step5
+minecraft:block/packed_mud/step6
