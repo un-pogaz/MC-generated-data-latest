@@ -1,1 +1,2 @@
 minecraft:bundle
+minecraft:trade_rebalance
