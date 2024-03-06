@@ -35,6 +35,7 @@ minecraft:polished_blackstone_slab
 minecraft:polished_deepslate_slab
 minecraft:polished_diorite_slab
 minecraft:polished_granite_slab
+minecraft:polished_tuff_slab
 minecraft:prismarine_brick_slab
 minecraft:prismarine_slab
 minecraft:purpur_slab
@@ -49,6 +50,8 @@ minecraft:smooth_stone_slab
 minecraft:spruce_slab
 minecraft:stone_brick_slab
 minecraft:stone_slab
+minecraft:tuff_brick_slab
+minecraft:tuff_slab
 minecraft:warped_slab
 minecraft:waxed_cut_copper_slab
 minecraft:waxed_exposed_cut_copper_slab

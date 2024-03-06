@@ -1,0 +1,5 @@
+minecraft:block/tuff_bricks/place1
+minecraft:block/tuff_bricks/place2
+minecraft:block/tuff_bricks/place3
+minecraft:block/tuff_bricks/place4
+minecraft:block/tuff_bricks/place5

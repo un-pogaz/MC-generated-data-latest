@@ -179,6 +179,7 @@ minecraft:block/chiseled_bookshelf_empty
 minecraft:block/chiseled_bookshelf_occupied
 minecraft:block/chiseled_bookshelf_side
 minecraft:block/chiseled_bookshelf_top
+minecraft:block/chiseled_copper
 minecraft:block/chiseled_deepslate
 minecraft:block/chiseled_nether_bricks
 minecraft:block/chiseled_polished_blackstone
@@ -187,6 +188,10 @@ minecraft:block/chiseled_quartz_block_top
 minecraft:block/chiseled_red_sandstone
 minecraft:block/chiseled_sandstone
 minecraft:block/chiseled_stone_bricks
+minecraft:block/chiseled_tuff
+minecraft:block/chiseled_tuff_bricks
+minecraft:block/chiseled_tuff_bricks_top
+minecraft:block/chiseled_tuff_top
 minecraft:block/chorus_flower
 minecraft:block/chorus_flower_dead
 minecraft:block/chorus_plant
@@ -213,7 +218,15 @@ minecraft:block/composter_side
 minecraft:block/composter_top
 minecraft:block/conduit
 minecraft:block/copper_block
+minecraft:block/copper_bulb
+minecraft:block/copper_bulb_lit
+minecraft:block/copper_bulb_lit_powered
+minecraft:block/copper_bulb_powered
+minecraft:block/copper_door_bottom
+minecraft:block/copper_door_top
+minecraft:block/copper_grate
 minecraft:block/copper_ore
+minecraft:block/copper_trapdoor
 minecraft:block/cornflower
 minecraft:block/cracked_deepslate_bricks
 minecraft:block/cracked_deepslate_tiles
@@ -344,7 +357,16 @@ minecraft:block/end_portal_frame_top
 minecraft:block/end_rod
 minecraft:block/end_stone
 minecraft:block/end_stone_bricks
+minecraft:block/exposed_chiseled_copper
 minecraft:block/exposed_copper
+minecraft:block/exposed_copper_bulb
+minecraft:block/exposed_copper_bulb_lit
+minecraft:block/exposed_copper_bulb_lit_powered
+minecraft:block/exposed_copper_bulb_powered
+minecraft:block/exposed_copper_door_bottom
+minecraft:block/exposed_copper_door_top
+minecraft:block/exposed_copper_grate
+minecraft:block/exposed_copper_trapdoor
 minecraft:block/exposed_cut_copper
 minecraft:block/farmland
 minecraft:block/farmland_moist
@@ -579,7 +601,16 @@ minecraft:block/orange_terracotta
 minecraft:block/orange_tulip
 minecraft:block/orange_wool
 minecraft:block/oxeye_daisy
+minecraft:block/oxidized_chiseled_copper
 minecraft:block/oxidized_copper
+minecraft:block/oxidized_copper_bulb
+minecraft:block/oxidized_copper_bulb_lit
+minecraft:block/oxidized_copper_bulb_lit_powered
+minecraft:block/oxidized_copper_bulb_powered
+minecraft:block/oxidized_copper_door_bottom
+minecraft:block/oxidized_copper_door_top
+minecraft:block/oxidized_copper_grate
+minecraft:block/oxidized_copper_trapdoor
 minecraft:block/oxidized_cut_copper
 minecraft:block/packed_ice
 minecraft:block/packed_mud
@@ -634,6 +665,7 @@ minecraft:block/polished_blackstone_bricks
 minecraft:block/polished_deepslate
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
+minecraft:block/polished_tuff
 minecraft:block/poppy
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
@@ -882,6 +914,7 @@ minecraft:block/tube_coral
 minecraft:block/tube_coral_block
 minecraft:block/tube_coral_fan
 minecraft:block/tuff
+minecraft:block/tuff_bricks
 minecraft:block/turtle_egg
 minecraft:block/turtle_egg_slightly_cracked
 minecraft:block/turtle_egg_very_cracked
@@ -905,7 +938,16 @@ minecraft:block/warped_wart_block
 minecraft:block/water_flow  [mcmeta]
 minecraft:block/water_overlay
 minecraft:block/water_still  [mcmeta]
+minecraft:block/weathered_chiseled_copper
 minecraft:block/weathered_copper
+minecraft:block/weathered_copper_bulb
+minecraft:block/weathered_copper_bulb_lit
+minecraft:block/weathered_copper_bulb_lit_powered
+minecraft:block/weathered_copper_bulb_powered
+minecraft:block/weathered_copper_door_bottom
+minecraft:block/weathered_copper_door_top
+minecraft:block/weathered_copper_grate
+minecraft:block/weathered_copper_trapdoor
 minecraft:block/weathered_cut_copper
 minecraft:block/weeping_vines
 minecraft:block/weeping_vines_plant
@@ -2102,6 +2144,7 @@ minecraft:item/cooked_porkchop
 minecraft:item/cooked_rabbit
 minecraft:item/cooked_salmon
 minecraft:item/cookie
+minecraft:item/copper_door
 minecraft:item/copper_ingot
 minecraft:item/creeper_banner_pattern
 minecraft:item/crimson_door
@@ -2165,6 +2208,7 @@ minecraft:item/ender_eye
 minecraft:item/ender_pearl
 minecraft:item/experience_bottle
 minecraft:item/explorer_pottery_sherd
+minecraft:item/exposed_copper_door
 minecraft:item/eye_armor_trim_smithing_template
 minecraft:item/feather
 minecraft:item/fermented_spider_eye
@@ -2339,6 +2383,7 @@ minecraft:item/oak_hanging_sign
 minecraft:item/oak_sign
 minecraft:item/orange_candle
 minecraft:item/orange_dye
+minecraft:item/oxidized_copper_door
 minecraft:item/painting
 minecraft:item/paper
 minecraft:item/phantom_membrane
@@ -2480,6 +2525,7 @@ minecraft:item/warped_hanging_sign
 minecraft:item/warped_sign
 minecraft:item/water_bucket
 minecraft:item/wayfinder_armor_trim_smithing_template
+minecraft:item/weathered_copper_door
 minecraft:item/wheat
 minecraft:item/wheat_seeds
 minecraft:item/white_candle

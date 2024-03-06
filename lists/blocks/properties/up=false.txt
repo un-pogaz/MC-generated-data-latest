@@ -20,6 +20,7 @@ minecraft:nether_brick_wall
 minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_wall
 minecraft:polished_deepslate_wall
+minecraft:polished_tuff_wall
 minecraft:prismarine_wall
 minecraft:red_mushroom_block
 minecraft:red_nether_brick_wall
@@ -27,4 +28,6 @@ minecraft:red_sandstone_wall
 minecraft:sandstone_wall
 minecraft:sculk_vein
 minecraft:stone_brick_wall
+minecraft:tuff_brick_wall
+minecraft:tuff_wall
 minecraft:vine
