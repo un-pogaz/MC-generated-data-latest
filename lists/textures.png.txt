@@ -142,10 +142,10 @@ minecraft:block/cauldron_bottom
 minecraft:block/cauldron_inner
 minecraft:block/cauldron_side
 minecraft:block/cauldron_top
-minecraft:block/cave_vines_body
-minecraft:block/cave_vines_body_lit
-minecraft:block/cave_vines_head
-minecraft:block/cave_vines_head_lit
+minecraft:block/cave_vines
+minecraft:block/cave_vines_lit
+minecraft:block/cave_vines_plant
+minecraft:block/cave_vines_plant_lit
 minecraft:block/chain
 minecraft:block/chain_command_block_back  [mcmeta]
 minecraft:block/chain_command_block_conditional  [mcmeta]
@@ -433,6 +433,7 @@ minecraft:block/light_gray_stained_glass_pane_top
 minecraft:block/light_gray_terracotta
 minecraft:block/light_gray_wool
 minecraft:block/lightning_rod
+minecraft:block/lightning_rod_on
 minecraft:block/lilac_bottom
 minecraft:block/lilac_top
 minecraft:block/lily_of_the_valley

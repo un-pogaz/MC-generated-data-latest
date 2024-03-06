@@ -11,6 +11,10 @@
     "powered": [
       "true",
       "false"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
     ]
   }
 }
