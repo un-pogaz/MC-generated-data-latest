@@ -1,0 +1,19 @@
+| Name                      | Count | Chance | Weight | Comment |
+| ------------------------- | ----- | ------ | ------ | ------- |
+| 1 time                    |    -- |     -- |     -- |         |
+| minecraft:white_wool      |     1 |   6.2% |   1/16 |         |
+| minecraft:orange_wool     |     1 |   6.2% |   1/16 |         |
+| minecraft:magenta_wool    |     1 |   6.2% |   1/16 |         |
+| minecraft:light_blue_wool |     1 |   6.2% |   1/16 |         |
+| minecraft:yellow_wool     |     1 |   6.2% |   1/16 |         |
+| minecraft:lime_wool       |     1 |   6.2% |   1/16 |         |
+| minecraft:pink_wool       |     1 |   6.2% |   1/16 |         |
+| minecraft:gray_wool       |     1 |   6.2% |   1/16 |         |
+| minecraft:light_gray_wool |     1 |   6.2% |   1/16 |         |
+| minecraft:cyan_wool       |     1 |   6.2% |   1/16 |         |
+| minecraft:purple_wool     |     1 |   6.2% |   1/16 |         |
+| minecraft:blue_wool       |     1 |   6.2% |   1/16 |         |
+| minecraft:brown_wool      |     1 |   6.2% |   1/16 |         |
+| minecraft:green_wool      |     1 |   6.2% |   1/16 |         |
+| minecraft:red_wool        |     1 |   6.2% |   1/16 |         |
+| minecraft:black_wool      |     1 |   6.2% |   1/16 |         |
