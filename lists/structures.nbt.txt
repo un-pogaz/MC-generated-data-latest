@@ -89,6 +89,7 @@ minecraft:mansion/2x2_b2
 minecraft:mansion/2x2_b3
 minecraft:mansion/2x2_b4
 minecraft:mansion/2x2_b5
+minecraft:mansion/2x2_s1
 minecraft:mansion/carpet_east
 minecraft:mansion/carpet_north
 minecraft:mansion/carpet_south
