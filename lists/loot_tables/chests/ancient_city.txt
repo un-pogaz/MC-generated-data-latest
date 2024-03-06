@@ -18,6 +18,7 @@ minecraft:amethyst_shard
 minecraft:experience_bottle
 minecraft:glow_berries
 minecraft:iron_leggings
+minecraft:echo_shard
 minecraft:potion
 minecraft:enchanted_book
 minecraft:book
