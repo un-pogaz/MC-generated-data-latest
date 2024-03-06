@@ -1,0 +1,55 @@
+{
+  "sounds": [
+    {
+      "name": "block/powder_snow/step1",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step2",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step3",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step4",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step5",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step6",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step7",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step8",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step9",
+      "volume": 0.83,
+      "pitch": 1.3
+    },
+    {
+      "name": "block/powder_snow/step10",
+      "volume": 0.83,
+      "pitch": 1.3
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

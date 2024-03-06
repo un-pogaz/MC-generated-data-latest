@@ -3497,7 +3497,7 @@
       Name: "minecraft:bookshelf"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:air"
@@ -3684,5 +3684,5 @@
       Name: "minecraft:lectern"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

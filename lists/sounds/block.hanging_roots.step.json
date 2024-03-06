@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/hanging_roots/step1",
+    "block/hanging_roots/step2",
+    "block/hanging_roots/step3",
+    "block/hanging_roots/step4",
+    "block/hanging_roots/step5",
+    "block/hanging_roots/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

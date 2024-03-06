@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    "block/powder_snow/step1",
+    "block/powder_snow/step2",
+    "block/powder_snow/step3",
+    "block/powder_snow/step4",
+    "block/powder_snow/step5",
+    "block/powder_snow/step6",
+    "block/powder_snow/step7",
+    "block/powder_snow/step8",
+    "block/powder_snow/step9",
+    "block/powder_snow/step10"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

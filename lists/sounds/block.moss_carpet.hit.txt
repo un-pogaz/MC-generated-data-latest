@@ -1,0 +1,6 @@
+minecraft:block/moss/step1
+minecraft:block/moss/step2
+minecraft:block/moss/step3
+minecraft:block/moss/step4
+minecraft:block/moss/step5
+minecraft:block/moss/step6

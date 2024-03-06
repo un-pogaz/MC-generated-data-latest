@@ -1,0 +1,4 @@
+minecraft:block/amethyst/break1
+minecraft:block/amethyst/break2
+minecraft:block/amethyst/break3
+minecraft:block/amethyst/break4

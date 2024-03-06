@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    {
+      "name": "block/big_dripleaf/break1",
+      "volume": 0.9,
+      "pitch": 1.2
+    },
+    {
+      "name": "block/big_dripleaf/break2",
+      "volume": 0.9,
+      "pitch": 1.2
+    },
+    {
+      "name": "block/big_dripleaf/break3",
+      "volume": 0.9,
+      "pitch": 1.2
+    },
+    {
+      "name": "block/big_dripleaf/break4",
+      "volume": 0.9,
+      "pitch": 1.2
+    },
+    {
+      "name": "block/big_dripleaf/break5",
+      "volume": 0.9,
+      "pitch": 1.2
+    },
+    {
+      "name": "block/big_dripleaf/break6",
+      "volume": 0.9,
+      "pitch": 1.2
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

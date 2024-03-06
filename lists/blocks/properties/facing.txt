@@ -4,6 +4,7 @@ minecraft:acacia_fence_gate
 minecraft:acacia_stairs
 minecraft:acacia_trapdoor
 minecraft:acacia_wall_sign
+minecraft:amethyst_cluster
 minecraft:andesite_stairs
 minecraft:anvil
 minecraft:attached_melon_stem
@@ -51,6 +52,7 @@ minecraft:crimson_fence_gate
 minecraft:crimson_stairs
 minecraft:crimson_trapdoor
 minecraft:crimson_wall_sign
+minecraft:cut_copper_stairs
 minecraft:cyan_bed
 minecraft:cyan_glazed_terracotta
 minecraft:cyan_shulker_box
@@ -100,6 +102,7 @@ minecraft:jungle_stairs
 minecraft:jungle_trapdoor
 minecraft:jungle_wall_sign
 minecraft:ladder
+minecraft:large_amethyst_bud
 minecraft:lectern
 minecraft:lever
 minecraft:light_blue_bed
@@ -110,6 +113,8 @@ minecraft:light_gray_bed
 minecraft:light_gray_glazed_terracotta
 minecraft:light_gray_shulker_box
 minecraft:light_gray_wall_banner
+minecraft:lightly_weathered_cut_copper_stairs
+minecraft:lightning_rod
 minecraft:lime_bed
 minecraft:lime_glazed_terracotta
 minecraft:lime_shulker_box
@@ -119,6 +124,7 @@ minecraft:magenta_bed
 minecraft:magenta_glazed_terracotta
 minecraft:magenta_shulker_box
 minecraft:magenta_wall_banner
+minecraft:medium_amethyst_bud
 minecraft:mossy_cobblestone_stairs
 minecraft:mossy_stone_brick_stairs
 minecraft:moving_piston
@@ -165,8 +171,10 @@ minecraft:redstone_wall_torch
 minecraft:repeater
 minecraft:repeating_command_block
 minecraft:sandstone_stairs
+minecraft:semi_weathered_cut_copper_stairs
 minecraft:shulker_box
 minecraft:skeleton_wall_skull
+minecraft:small_amethyst_bud
 minecraft:smoker
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs
@@ -194,6 +202,10 @@ minecraft:warped_fence_gate
 minecraft:warped_stairs
 minecraft:warped_trapdoor
 minecraft:warped_wall_sign
+minecraft:waxed_cut_copper_stairs
+minecraft:waxed_lightly_weathered_cut_copper_stairs
+minecraft:waxed_semi_weathered_cut_copper_stairs
+minecraft:weathered_cut_copper_stairs
 minecraft:white_bed
 minecraft:white_glazed_terracotta
 minecraft:white_shulker_box
