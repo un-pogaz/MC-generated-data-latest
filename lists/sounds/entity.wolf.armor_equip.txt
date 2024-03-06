@@ -1,4 +1,0 @@
-minecraft:mob/wolf/armor_equip1
-minecraft:mob/wolf/armor_equip1
-minecraft:mob/wolf/armor_equip2
-minecraft:mob/wolf/armor_equip2
