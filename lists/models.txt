@@ -811,6 +811,7 @@ minecraft:block/polished_andesite_slab_top
 minecraft:block/polished_andesite_stairs
 minecraft:block/polished_andesite_stairs_inner
 minecraft:block/polished_andesite_stairs_outer
+minecraft:block/polished_basalt
 minecraft:block/polished_diorite
 minecraft:block/polished_diorite_slab
 minecraft:block/polished_diorite_slab_top
@@ -997,6 +998,11 @@ minecraft:block/repeater_4tick_on
 minecraft:block/repeater_4tick_on_locked
 minecraft:block/repeating_command_block
 minecraft:block/repeating_command_block_conditional
+minecraft:block/respawn_anchor_0
+minecraft:block/respawn_anchor_1
+minecraft:block/respawn_anchor_2
+minecraft:block/respawn_anchor_3
+minecraft:block/respawn_anchor_4
 minecraft:block/rose_bush_bottom
 minecraft:block/rose_bush_top
 minecraft:block/sand
@@ -2103,6 +2109,7 @@ minecraft:item/polar_bear_spawn_egg
 minecraft:item/polished_andesite
 minecraft:item/polished_andesite_slab
 minecraft:item/polished_andesite_stairs
+minecraft:item/polished_basalt
 minecraft:item/polished_diorite
 minecraft:item/polished_diorite_slab
 minecraft:item/polished_diorite_stairs
@@ -2189,6 +2196,7 @@ minecraft:item/redstone_ore
 minecraft:item/redstone_torch
 minecraft:item/repeater
 minecraft:item/repeating_command_block
+minecraft:item/respawn_anchor
 minecraft:item/rose_bush
 minecraft:item/rotten_flesh
 minecraft:item/saddle
