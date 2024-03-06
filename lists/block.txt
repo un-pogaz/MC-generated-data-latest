@@ -686,6 +686,7 @@ minecraft:zombie_wall_head
 #minecraft:dark_oak_logs
 #minecraft:dirt_like
 #minecraft:doors
+#minecraft:dragon_immune
 #minecraft:enderman_holdable
 #minecraft:fences
 #minecraft:flower_pots
@@ -712,6 +713,7 @@ minecraft:zombie_wall_head
 #minecraft:wall_corals
 #minecraft:wall_signs
 #minecraft:walls
+#minecraft:wither_immune
 #minecraft:wooden_buttons
 #minecraft:wooden_doors
 #minecraft:wooden_fences

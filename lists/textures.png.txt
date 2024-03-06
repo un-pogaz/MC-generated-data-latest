@@ -766,11 +766,11 @@ minecraft:entity/horse/horse_skeleton
 minecraft:entity/horse/horse_white
 minecraft:entity/horse/horse_zombie
 minecraft:entity/horse/mule
-minecraft:entity/illager/beast
 minecraft:entity/illager/evoker
 minecraft:entity/illager/evoker_fangs
 minecraft:entity/illager/illusioner
 minecraft:entity/illager/pillager
+minecraft:entity/illager/ravager
 minecraft:entity/illager/vex
 minecraft:entity/illager/vex_charging
 minecraft:entity/illager/vindicator
@@ -792,6 +792,7 @@ minecraft:entity/llama/decor/orange
 minecraft:entity/llama/decor/pink
 minecraft:entity/llama/decor/purple
 minecraft:entity/llama/decor/red
+minecraft:entity/llama/decor/trader_llama
 minecraft:entity/llama/decor/white
 minecraft:entity/llama/decor/yellow
 minecraft:entity/llama/gray
@@ -936,6 +937,7 @@ minecraft:entity/villager/type/snow  [mcmeta]
 minecraft:entity/villager/type/swamp
 minecraft:entity/villager/type/taiga
 minecraft:entity/villager/villager
+minecraft:entity/wandering_trader
 minecraft:entity/witch
 minecraft:entity/wither/wither
 minecraft:entity/wither/wither_armor

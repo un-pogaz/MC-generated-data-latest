@@ -1689,7 +1689,6 @@ minecraft:item/horn_coral_wall_fan
 minecraft:item/horse_spawn_egg
 minecraft:item/husk_spawn_egg
 minecraft:item/ice
-minecraft:item/illager_beast_spawn_egg
 minecraft:item/infested_chiseled_stone_bricks
 minecraft:item/infested_cobblestone
 minecraft:item/infested_cracked_stone_bricks
@@ -1973,6 +1972,7 @@ minecraft:item/rabbit_hide
 minecraft:item/rabbit_spawn_egg
 minecraft:item/rabbit_stew
 minecraft:item/rail
+minecraft:item/ravager_spawn_egg
 minecraft:item/red_banner
 minecraft:item/red_bed
 minecraft:item/red_carpet
@@ -2124,6 +2124,7 @@ minecraft:item/tnt
 minecraft:item/tnt_minecart
 minecraft:item/torch
 minecraft:item/totem_of_undying
+minecraft:item/trader_llama_spawn_egg
 minecraft:item/trapped_chest
 minecraft:item/trident
 minecraft:item/trident_in_hand
@@ -2143,6 +2144,7 @@ minecraft:item/vex_spawn_egg
 minecraft:item/villager_spawn_egg
 minecraft:item/vindicator_spawn_egg
 minecraft:item/vine
+minecraft:item/wandering_trader_spawn_egg
 minecraft:item/water_bucket
 minecraft:item/wet_sponge
 minecraft:item/wheat
