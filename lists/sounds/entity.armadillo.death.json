@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/armadillo/death1",
+    "mob/armadillo/death2",
+    "mob/armadillo/death3",
+    "mob/armadillo/death4"
+  ],
+  "subtitle": "subtitles.entity.armadillo.death"
+}

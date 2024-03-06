@@ -1,0 +1,5 @@
+minecraft:mob/armadillo/hurt1
+minecraft:mob/armadillo/hurt2
+minecraft:mob/armadillo/hurt3
+minecraft:mob/armadillo/hurt4
+minecraft:mob/armadillo/hurt5
