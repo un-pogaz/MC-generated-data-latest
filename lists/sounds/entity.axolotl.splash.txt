@@ -1,3 +1,0 @@
-minecraft:mob/dolphin/splash1
-minecraft:mob/dolphin/splash2
-minecraft:mob/dolphin/splash3

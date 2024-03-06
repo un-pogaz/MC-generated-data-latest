@@ -1,3 +1,0 @@
-minecraft:mob/goat/eat1
-minecraft:mob/goat/eat2
-minecraft:mob/goat/eat3

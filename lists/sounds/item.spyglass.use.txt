@@ -1,4 +1,0 @@
-minecraft:item/spyglass/use
-minecraft:item/spyglass/use
-minecraft:item/spyglass/use
-minecraft:item/spyglass/use

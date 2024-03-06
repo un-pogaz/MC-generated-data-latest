@@ -1,4 +1,0 @@
-minecraft:block/calcite/break1
-minecraft:block/calcite/break2
-minecraft:block/calcite/break3
-minecraft:block/calcite/break4

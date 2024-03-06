@@ -1,6 +1,0 @@
-minecraft:mob/goat/step1
-minecraft:mob/goat/step2
-minecraft:mob/goat/step3
-minecraft:mob/goat/step4
-minecraft:mob/goat/step5
-minecraft:mob/goat/step6
