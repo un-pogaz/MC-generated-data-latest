@@ -1,0 +1,4 @@
+chunk force <x brigadier:integer[min="-1875000", max="1875000"]> <z brigadier:integer[min="-1875000", max="1875000"]>
+chunk in <dimension> force <x brigadier:integer[min="-1875000", max="1875000"]> <z brigadier:integer[min="-1875000", max="1875000"]>
+chunk in <dimension> unforce <x brigadier:integer[min="-1875000", max="1875000"]> <z brigadier:integer[min="-1875000", max="1875000"]>
+chunk unforce <x brigadier:integer[min="-1875000", max="1875000"]> <z brigadier:integer[min="-1875000", max="1875000"]>

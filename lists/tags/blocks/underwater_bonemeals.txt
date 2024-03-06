@@ -1,0 +1,2 @@
+minecraft:seagrass
+#minecraft:coral_plants

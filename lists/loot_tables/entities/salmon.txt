@@ -1,1 +1,3 @@
 minecraft:salmon
+
+minecraft:bone_meal

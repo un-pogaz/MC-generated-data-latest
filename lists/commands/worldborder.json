@@ -6,10 +6,10 @@
       "children": {
         "distance": {
           "type": "argument",
-          "parser": "brigadier:integer",
+          "parser": "brigadier:float",
           "properties": {
-            "min": -60000000,
-            "max": 60000000
+            "min": -60000000.0,
+            "max": 60000000.0
           },
           "children": {
             "time": {
@@ -75,10 +75,10 @@
       "children": {
         "distance": {
           "type": "argument",
-          "parser": "brigadier:integer",
+          "parser": "brigadier:float",
           "properties": {
-            "min": -60000000,
-            "max": 60000000
+            "min": -60000000.0,
+            "max": 60000000.0
           },
           "children": {
             "time": {
