@@ -2,7 +2,7 @@
 | ------------------------ | ----- | ------ | ------ | ------- |
 | 3 to 8 time              |    -- |     -- |     -- |         |
 | minecraft:gold_nugget    |  1..3 |   2.2% |   1/46 |         |
-| minecraft:grass          |     1 |  10.9% |   5/46 |         |
+| minecraft:short_grass    |     1 |  10.9% |   5/46 |         |
 | minecraft:tall_grass     |     1 |  10.9% |   5/46 |         |
 | minecraft:bread          |  1..4 |  21.7% |  10/46 |         |
 | minecraft:wheat_seeds    |  1..5 |  21.7% |  10/46 |         |
