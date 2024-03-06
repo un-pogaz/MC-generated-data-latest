@@ -1,0 +1,8 @@
+minecraft:clay_ball
+minecraft:green_dye
+minecraft:cactus
+minecraft:wheat
+minecraft:bread
+minecraft:book
+minecraft:dead_bush
+minecraft:emerald
