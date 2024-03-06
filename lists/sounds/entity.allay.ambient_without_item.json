@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/allay/idle_without_item1",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/allay/idle_without_item2",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/allay/idle_without_item3",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/allay/idle_without_item4",
+      "volume": 0.25
+    }
+  ],
+  "subtitle": "subtitles.entity.allay.ambient_without_item"
+}

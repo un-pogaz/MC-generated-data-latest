@@ -730,6 +730,7 @@ minecraft:redstone_ore
 minecraft:redstone_torch
 minecraft:redstone_wall_torch
 minecraft:redstone_wire
+minecraft:reinforced_deepslate
 minecraft:repeater
 minecraft:repeating_command_block
 minecraft:respawn_anchor
@@ -931,6 +932,8 @@ minecraft:yellow_wool
 minecraft:zombie_head
 minecraft:zombie_wall_head
 #minecraft:acacia_logs
+#minecraft:ancient_city_center_replaceable
+#minecraft:ancient_city_replaceable
 #minecraft:animals_spawnable_on
 #minecraft:anvil
 #minecraft:axolotls_spawnable_on
@@ -950,7 +953,6 @@ minecraft:zombie_wall_head
 #minecraft:campfires
 #minecraft:candle_cakes
 #minecraft:candles
-#minecraft:carpets
 #minecraft:cauldrons
 #minecraft:cave_vines
 #minecraft:climbable
@@ -1069,3 +1071,4 @@ minecraft:zombie_wall_head
 #minecraft:wooden_stairs
 #minecraft:wooden_trapdoors
 #minecraft:wool
+#minecraft:wool_carpets

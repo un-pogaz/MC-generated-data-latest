@@ -1,0 +1,2 @@
+minecraft:hit_ground
+minecraft:step

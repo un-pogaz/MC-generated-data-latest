@@ -1405,6 +1405,7 @@ minecraft:block/redstone_torch
 minecraft:block/redstone_torch_off
 minecraft:block/redstone_wall_torch
 minecraft:block/redstone_wall_torch_off
+minecraft:block/reinforced_deepslate
 minecraft:block/repeater_1tick
 minecraft:block/repeater_1tick_locked
 minecraft:block/repeater_1tick_on
@@ -1452,6 +1453,7 @@ minecraft:block/sculk_sensor
 minecraft:block/sculk_sensor_active
 minecraft:block/sculk_sensor_inactive
 minecraft:block/sculk_shrieker
+minecraft:block/sculk_shrieker_can_summon
 minecraft:block/sculk_vein
 minecraft:block/sea_lantern
 minecraft:block/sea_pickle
@@ -1671,6 +1673,7 @@ minecraft:block/template_piston_head_short
 minecraft:block/template_potted_azalea_bush
 minecraft:block/template_rail_raised_ne
 minecraft:block/template_rail_raised_sw
+minecraft:block/template_sculk_shrieker
 minecraft:block/template_seagrass
 minecraft:block/template_single_face
 minecraft:block/template_three_candles
@@ -1855,6 +1858,7 @@ minecraft:item/acacia_trapdoor
 minecraft:item/acacia_wood
 minecraft:item/activator_rail
 minecraft:item/air
+minecraft:item/allay_spawn_egg
 minecraft:item/allium
 minecraft:item/amethyst_block
 minecraft:item/amethyst_bud
@@ -2853,6 +2857,7 @@ minecraft:item/redstone_block
 minecraft:item/redstone_lamp
 minecraft:item/redstone_ore
 minecraft:item/redstone_torch
+minecraft:item/reinforced_deepslate
 minecraft:item/repeater
 minecraft:item/repeating_command_block
 minecraft:item/respawn_anchor
