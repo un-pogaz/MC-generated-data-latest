@@ -1166,6 +1166,8 @@ minecraft:item/cobblestone_wall
 minecraft:item/cobweb
 minecraft:item/cocoa_beans
 minecraft:item/cod
+minecraft:item/cod_bucket
+minecraft:item/cod_mob_spawn_egg
 minecraft:item/command_block
 minecraft:item/command_block_minecart
 minecraft:item/comparator
@@ -1599,7 +1601,9 @@ minecraft:item/prismarine_crystals
 minecraft:item/prismarine_shard
 minecraft:item/prismarine_slab
 minecraft:item/prismarine_stairs
+minecraft:item/puffer_fish_spawn_egg
 minecraft:item/pufferfish
+minecraft:item/pufferfish_bucket
 minecraft:item/pumpkin
 minecraft:item/pumpkin_pie
 minecraft:item/pumpkin_seeds
@@ -1661,6 +1665,8 @@ minecraft:item/rose_red
 minecraft:item/rotten_flesh
 minecraft:item/saddle
 minecraft:item/salmon
+minecraft:item/salmon_bucket
+minecraft:item/salmon_mob_spawn_egg
 minecraft:item/sand
 minecraft:item/sandstone
 minecraft:item/sandstone_slab
