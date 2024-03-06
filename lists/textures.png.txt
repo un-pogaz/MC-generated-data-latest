@@ -1241,6 +1241,7 @@ minecraft:gui/container/loom
 minecraft:gui/container/shulker_box
 minecraft:gui/container/smoker
 minecraft:gui/container/stats_icons
+minecraft:gui/container/stonecutter
 minecraft:gui/container/villager
 minecraft:gui/demo_background
 minecraft:gui/icons
