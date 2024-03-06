@@ -13,6 +13,7 @@ minecraft:entity_type
 minecraft:feature
 minecraft:fluid
 minecraft:item
+minecraft:menu
 minecraft:mob_effect
 minecraft:motive
 minecraft:particle_type

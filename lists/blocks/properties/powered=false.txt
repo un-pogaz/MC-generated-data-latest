@@ -23,6 +23,7 @@ minecraft:jungle_door
 minecraft:jungle_fence_gate
 minecraft:jungle_pressure_plate
 minecraft:jungle_trapdoor
+minecraft:lectern
 minecraft:lever
 minecraft:note_block
 minecraft:oak_button

@@ -55,7 +55,6 @@ minecraft:mineshaft
 minecraft:monster_room
 minecraft:nether_bridge
 minecraft:nether_spring
-minecraft:new_village
 minecraft:normal_tree
 minecraft:ocean_monument
 minecraft:ocean_ruin
