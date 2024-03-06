@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/fox/spit1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/fox/spit2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/fox/spit3",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.fox.spit"
+}

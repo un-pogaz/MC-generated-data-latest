@@ -1,9 +1,21 @@
 {
   "sounds": [
-    "mob/cat/meow1",
-    "mob/cat/meow2",
-    "mob/cat/meow3",
-    "mob/cat/meow4"
+    {
+      "name": "mob/cat/meow1",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/cat/meow2",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/cat/meow3",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/cat/meow4",
+      "volume": 0.5
+    }
   ],
   "subtitle": "subtitles.entity.cat.ambient"
 }

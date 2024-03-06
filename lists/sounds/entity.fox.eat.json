@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/fox/eat1",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/fox/eat2",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/fox/eat3",
+      "volume": 0.65
+    }
+  ],
+  "subtitle": "subtitles.entity.fox.eat"
+}

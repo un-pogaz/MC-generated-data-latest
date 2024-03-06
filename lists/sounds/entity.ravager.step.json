@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/ravager/step1",
+      "volume": 1
+    },
+    {
+      "name": "mob/ravager/step2",
+      "volume": 1
+    },
+    {
+      "name": "mob/ravager/step3",
+      "volume": 1
+    },
+    {
+      "name": "mob/ravager/step4",
+      "volume": 1
+    },
+    {
+      "name": "mob/ravager/step5",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.ravager.step"
+}

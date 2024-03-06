@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/panda/hurt1",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/panda/hurt2",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/panda/hurt3",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/panda/hurt4",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/panda/hurt5",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/panda/hurt6",
+      "volume": 0.82
+    }
+  ],
+  "subtitle": "subtitles.entity.panda.hurt"
+}

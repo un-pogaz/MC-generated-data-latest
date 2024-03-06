@@ -1,0 +1,2 @@
+minecraft:block/barrel/open1
+minecraft:block/barrel/open2

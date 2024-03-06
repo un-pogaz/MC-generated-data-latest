@@ -1,0 +1,5 @@
+minecraft:ui/loom/select_pattern1
+minecraft:ui/loom/select_pattern2
+minecraft:ui/loom/select_pattern3
+minecraft:ui/loom/select_pattern4
+minecraft:ui/loom/select_pattern5

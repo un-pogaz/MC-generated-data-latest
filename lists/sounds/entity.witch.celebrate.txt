@@ -1,0 +1,3 @@
+minecraft:entity/witch/celebrate
+minecraft:entity/witch/ambient1
+minecraft:entity/witch/ambient4

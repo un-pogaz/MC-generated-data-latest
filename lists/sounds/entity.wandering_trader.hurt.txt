@@ -1,0 +1,4 @@
+minecraft:mob/wandering_trader/hurt1
+minecraft:mob/wandering_trader/hurt2
+minecraft:mob/wandering_trader/hurt3
+minecraft:mob/wandering_trader/hurt4

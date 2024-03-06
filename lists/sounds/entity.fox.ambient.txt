@@ -1,0 +1,6 @@
+minecraft:mob/fox/idle1
+minecraft:mob/fox/idle2
+minecraft:mob/fox/idle3
+minecraft:mob/fox/idle4
+minecraft:mob/fox/idle5
+minecraft:mob/fox/idle6

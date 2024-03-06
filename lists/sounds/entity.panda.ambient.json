@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "mob/panda/idle1",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/idle2",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/idle3",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/idle4",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/nosebreath1",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/nosebreath2",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/nosebreath3",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/pant1",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/pant2",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.panda.ambient"
+}
