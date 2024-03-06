@@ -1,0 +1,5 @@
+minecraft:block/honeyblock/step1
+minecraft:block/honeyblock/step2
+minecraft:block/honeyblock/step3
+minecraft:block/honeyblock/step4
+minecraft:block/honeyblock/step5

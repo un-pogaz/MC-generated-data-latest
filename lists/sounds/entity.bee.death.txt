@@ -1,0 +1,2 @@
+minecraft:mob/bee/death1
+minecraft:mob/bee/death2

@@ -1,0 +1,6 @@
+minecraft:mob/bee/loop5
+minecraft:mob/bee/loop5
+minecraft:mob/bee/loop1
+minecraft:mob/bee/loop2
+minecraft:mob/bee/loop3
+minecraft:mob/bee/loop4

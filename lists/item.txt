@@ -32,6 +32,9 @@ minecraft:barrier
 minecraft:bat_spawn_egg
 minecraft:beacon
 minecraft:bedrock
+minecraft:bee_hive
+minecraft:bee_nest
+minecraft:bee_spawn_egg
 minecraft:beef
 minecraft:beetroot
 minecraft:beetroot_seeds
@@ -373,6 +376,8 @@ minecraft:gunpowder
 minecraft:hay_block
 minecraft:heart_of_the_sea
 minecraft:heavy_weighted_pressure_plate
+minecraft:honey_bottle
+minecraft:honeycomb
 minecraft:hopper
 minecraft:hopper_minecart
 minecraft:horn_coral
@@ -889,6 +894,7 @@ minecraft:zombie_villager_spawn_egg
 #minecraft:doors
 #minecraft:fences
 #minecraft:fishes
+#minecraft:flowers
 #minecraft:jungle_logs
 #minecraft:leaves
 #minecraft:logs
@@ -904,6 +910,7 @@ minecraft:zombie_villager_spawn_egg
 #minecraft:spruce_logs
 #minecraft:stairs
 #minecraft:stone_bricks
+#minecraft:tall_flowers
 #minecraft:trapdoors
 #minecraft:walls
 #minecraft:wooden_buttons
