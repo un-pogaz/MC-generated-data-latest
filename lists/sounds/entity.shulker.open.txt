@@ -1,5 +1,0 @@
-minecraft:entity/shulker/open1
-minecraft:entity/shulker/open2
-minecraft:entity/shulker/open3
-minecraft:entity/shulker/open4
-minecraft:entity/shulker/open5

@@ -1,2 +1,0 @@
-minecraft:mob/zombie/hurt1
-minecraft:mob/zombie/hurt2

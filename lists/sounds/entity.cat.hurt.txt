@@ -1,3 +1,0 @@
-minecraft:mob/cat/hitt1
-minecraft:mob/cat/hitt2
-minecraft:mob/cat/hitt3
