@@ -173,6 +173,9 @@ minecraft:block/dark_oak_stairs
 minecraft:block/daylight_detector
 minecraft:block/dead_bush
 minecraft:block/detector_rail_flat
+minecraft:block/detector_rail_powered_flat
+minecraft:block/detector_rail_powered_raised_ne
+minecraft:block/detector_rail_powered_raised_sw
 minecraft:block/detector_rail_raised_ne
 minecraft:block/detector_rail_raised_sw
 minecraft:block/diamond_block
@@ -566,6 +569,9 @@ minecraft:block/piston_extended
 minecraft:block/piston_extended_normal
 minecraft:block/piston_head
 minecraft:block/piston_head_normal
+minecraft:block/piston_head_short
+minecraft:block/piston_head_short_normal
+minecraft:block/piston_head_short_sticky
 minecraft:block/piston_head_sticky
 minecraft:block/piston_inventory_normal
 minecraft:block/piston_inventory_sticky
