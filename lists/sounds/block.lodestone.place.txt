@@ -1,0 +1,4 @@
+minecraft:block/lodestone/place1
+minecraft:block/lodestone/place2
+minecraft:block/lodestone/place3
+minecraft:block/lodestone/place4

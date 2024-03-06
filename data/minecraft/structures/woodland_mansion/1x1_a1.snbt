@@ -1753,15 +1753,15 @@
     },
     {
       Properties: {
-        east: "false",
+        east: "none",
         waterlogged: "false",
-        south: "false",
-        north: "false",
-        west: "false",
+        south: "none",
+        north: "none",
+        west: "none",
         up: "true"
       },
       Name: "minecraft:cobblestone_wall"
     }
   ],
-  DataVersion: 2230
+  DataVersion: 2504
 }

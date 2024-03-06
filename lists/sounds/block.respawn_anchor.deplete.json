@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "block/respawn_anchor/deplete1",
+    "block/respawn_anchor/deplete2"
+  ],
+  "subtitle": "subtitles.block.respawn_anchor.deplete"
+}

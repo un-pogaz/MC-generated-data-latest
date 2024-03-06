@@ -1,0 +1,4 @@
+minecraft:mob/hoglin/hurt1
+minecraft:mob/hoglin/hurt2
+minecraft:mob/hoglin/hurt3
+minecraft:mob/hoglin/hurt4

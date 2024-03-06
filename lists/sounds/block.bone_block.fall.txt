@@ -1,0 +1,5 @@
+minecraft:block/bone_block/step1
+minecraft:block/bone_block/step2
+minecraft:block/bone_block/step3
+minecraft:block/bone_block/step4
+minecraft:block/bone_block/step5

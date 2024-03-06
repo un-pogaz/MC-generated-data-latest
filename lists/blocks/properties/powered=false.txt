@@ -11,6 +11,11 @@ minecraft:birch_fence_gate
 minecraft:birch_pressure_plate
 minecraft:birch_trapdoor
 minecraft:comparator
+minecraft:crimson_button
+minecraft:crimson_door
+minecraft:crimson_fence_gate
+minecraft:crimson_pressure_plate
+minecraft:crimson_trapdoor
 minecraft:dark_oak_button
 minecraft:dark_oak_door
 minecraft:dark_oak_fence_gate
@@ -44,3 +49,8 @@ minecraft:stone_button
 minecraft:stone_pressure_plate
 minecraft:tripwire
 minecraft:tripwire_hook
+minecraft:warped_button
+minecraft:warped_door
+minecraft:warped_fence_gate
+minecraft:warped_pressure_plate
+minecraft:warped_trapdoor

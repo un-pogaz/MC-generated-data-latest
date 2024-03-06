@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/hoglin/hurt1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/hoglin/hurt2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/hoglin/hurt3",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/hoglin/hurt4",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.hoglin.hurt"
+}

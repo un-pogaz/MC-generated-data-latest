@@ -2,3 +2,4 @@ minecraft:cactus
 minecraft:fire
 minecraft:kelp
 minecraft:sugar_cane
+minecraft:weeping_vines

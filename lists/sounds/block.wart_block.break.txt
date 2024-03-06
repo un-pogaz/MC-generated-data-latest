@@ -1,0 +1,6 @@
+minecraft:block/netherwart/break1
+minecraft:block/netherwart/break2
+minecraft:block/netherwart/break3
+minecraft:block/netherwart/break4
+minecraft:block/netherwart/break5
+minecraft:block/netherwart/break6

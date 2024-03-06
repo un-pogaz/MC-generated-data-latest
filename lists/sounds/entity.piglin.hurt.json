@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin/hurt1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/piglin/hurt2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/piglin/hurt3",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin.hurt"
+}

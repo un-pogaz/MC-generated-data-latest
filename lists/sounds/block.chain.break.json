@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/chain/break1",
+      "volume": 0.5
+    },
+    {
+      "name": "block/chain/break2",
+      "volume": 0.5
+    },
+    {
+      "name": "block/chain/break3",
+      "volume": 0.5
+    },
+    {
+      "name": "block/chain/break4",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

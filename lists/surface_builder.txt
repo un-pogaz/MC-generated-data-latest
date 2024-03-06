@@ -6,7 +6,9 @@ minecraft:giant_tree_taiga
 minecraft:gravelly_mountain
 minecraft:mountain
 minecraft:nether
+minecraft:nether_forest
 minecraft:nope
 minecraft:shattered_savanna
+minecraft:soul_sand_valley
 minecraft:swamp
 minecraft:wooded_badlands

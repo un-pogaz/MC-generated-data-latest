@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/fungus/break1",
+    "block/fungus/break2",
+    "block/fungus/break3",
+    "block/fungus/break4",
+    "block/fungus/break5",
+    "block/fungus/break6"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

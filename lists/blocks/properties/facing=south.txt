@@ -44,6 +44,12 @@ minecraft:cocoa
 minecraft:command_block
 minecraft:comparator
 minecraft:creeper_wall_head
+minecraft:crimson_button
+minecraft:crimson_door
+minecraft:crimson_fence_gate
+minecraft:crimson_stairs
+minecraft:crimson_trapdoor
+minecraft:crimson_wall_sign
 minecraft:cyan_bed
 minecraft:cyan_glazed_terracotta
 minecraft:cyan_shulker_box
@@ -162,6 +168,7 @@ minecraft:smoker
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs
 minecraft:smooth_sandstone_stairs
+minecraft:soul_fire_wall_torch
 minecraft:spruce_button
 minecraft:spruce_door
 minecraft:spruce_fence_gate
@@ -177,6 +184,12 @@ minecraft:trapped_chest
 minecraft:tripwire_hook
 minecraft:tube_coral_wall_fan
 minecraft:wall_torch
+minecraft:warped_button
+minecraft:warped_door
+minecraft:warped_fence_gate
+minecraft:warped_stairs
+minecraft:warped_trapdoor
+minecraft:warped_wall_sign
 minecraft:white_bed
 minecraft:white_glazed_terracotta
 minecraft:white_shulker_box

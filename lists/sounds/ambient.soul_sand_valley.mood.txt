@@ -1,0 +1,4 @@
+minecraft:ambient/nether/soulsand_valley/mood1
+minecraft:ambient/nether/soulsand_valley/mood2
+minecraft:ambient/nether/soulsand_valley/mood3
+minecraft:ambient/nether/soulsand_valley/mood4

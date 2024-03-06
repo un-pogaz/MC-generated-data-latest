@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/soul_soil/step1",
+      "volume": 0.66
+    },
+    {
+      "name": "block/soul_soil/step2",
+      "volume": 0.66
+    },
+    {
+      "name": "block/soul_soil/step3",
+      "volume": 0.66
+    },
+    {
+      "name": "block/soul_soil/step4",
+      "volume": 0.66
+    },
+    {
+      "name": "block/soul_soil/step5",
+      "volume": 0.66
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

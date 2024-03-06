@@ -1,0 +1,24 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/nether_wastes/mood1",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/nether_wastes/mood2",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/nether_wastes/mood3",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/nether_wastes/mood4",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/nether_wastes/mood5",
+      "volume": 1
+    }
+  ]
+}

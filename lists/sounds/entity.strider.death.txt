@@ -1,0 +1,4 @@
+minecraft:mob/strider/death1
+minecraft:mob/strider/death2
+minecraft:mob/strider/death3
+minecraft:mob/strider/death4

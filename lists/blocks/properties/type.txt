@@ -4,6 +4,7 @@ minecraft:birch_slab
 minecraft:brick_slab
 minecraft:chest
 minecraft:cobblestone_slab
+minecraft:crimson_slab
 minecraft:cut_red_sandstone_slab
 minecraft:cut_sandstone_slab
 minecraft:dark_oak_slab
@@ -37,3 +38,4 @@ minecraft:spruce_slab
 minecraft:stone_brick_slab
 minecraft:stone_slab
 minecraft:trapped_chest
+minecraft:warped_slab

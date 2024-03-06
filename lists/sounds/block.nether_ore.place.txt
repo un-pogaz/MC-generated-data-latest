@@ -1,0 +1,4 @@
+minecraft:block/nether_ore/break1
+minecraft:block/nether_ore/break2
+minecraft:block/nether_ore/break3
+minecraft:block/nether_ore/break4

@@ -3,6 +3,7 @@ minecraft:andesite_slab
 minecraft:birch_slab
 minecraft:brick_slab
 minecraft:cobblestone_slab
+minecraft:crimson_slab
 minecraft:cut_red_sandstone_slab
 minecraft:cut_sandstone_slab
 minecraft:dark_oak_slab
@@ -33,3 +34,4 @@ minecraft:smooth_stone_slab
 minecraft:spruce_slab
 minecraft:stone_brick_slab
 minecraft:stone_slab
+minecraft:warped_slab

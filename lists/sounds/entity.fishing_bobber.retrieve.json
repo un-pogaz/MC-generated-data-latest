@@ -8,5 +8,6 @@
       "name": "entity/bobber/retrieve2",
       "pitch": 2.4
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.fishing_bobber.retrieve"
 }

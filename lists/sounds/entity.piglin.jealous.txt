@@ -1,0 +1,5 @@
+minecraft:mob/piglin/jealous1
+minecraft:mob/piglin/jealous2
+minecraft:mob/piglin/jealous3
+minecraft:mob/piglin/jealous4
+minecraft:mob/piglin/jealous5
