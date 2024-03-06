@@ -1,13 +1,13 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
-        "growth_stage0": { "model": "potatoes_stage0" },
-        "growth_stage1": { "model": "potatoes_stage0" },
-        "growth_stage2": { "model": "potatoes_stage1" },
-        "growth_stage3": { "model": "potatoes_stage1" },
-        "growth_stage4": { "model": "potatoes_stage2" },
-        "growth_stage5": { "model": "potatoes_stage2" },
-        "growth_stage6": { "model": "potatoes_stage2" },
-        "grown":         { "model": "potatoes_stage3" }
+        "age=0": { "model": "potatoes_stage0" },
+        "age=1": { "model": "potatoes_stage0" },
+        "age=2": { "model": "potatoes_stage1" },
+        "age=3": { "model": "potatoes_stage1" },
+        "age=4": { "model": "potatoes_stage2" },
+        "age=5": { "model": "potatoes_stage2" },
+        "age=6": { "model": "potatoes_stage2" },
+        "age=7": { "model": "potatoes_stage3" }
     }
 }
