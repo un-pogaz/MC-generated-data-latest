@@ -768,7 +768,6 @@ minecraft/sounds/block/decorated_pot/shatter2.ogg
 minecraft/sounds/block/decorated_pot/shatter3.ogg
 minecraft/sounds/block/decorated_pot/shatter4.ogg
 minecraft/sounds/block/decorated_pot/shatter5.ogg
-minecraft/sounds/block/decorated_pot/shatter6.ogg
 minecraft/sounds/block/decorated_pot/step1.ogg
 minecraft/sounds/block/decorated_pot/step2.ogg
 minecraft/sounds/block/decorated_pot/step3.ogg
