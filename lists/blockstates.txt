@@ -120,6 +120,7 @@ minecraft:cartography_table
 minecraft:carved_pumpkin
 minecraft:cauldron
 minecraft:cave_air
+minecraft:chain
 minecraft:chain_command_block
 minecraft:chest
 minecraft:chipped_anvil
