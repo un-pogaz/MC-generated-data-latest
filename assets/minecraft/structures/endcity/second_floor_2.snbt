@@ -1,5 +1,118 @@
 {
   author: "jeb_",
+  palette: [
+    {
+      Name: "minecraft:air"
+    },
+    {
+      Name: "minecraft:purpur_block"
+    },
+    {
+      Name: "minecraft:purpur_pillar",
+      Properties: {
+        axis: "y"
+      }
+    },
+    {
+      Name: "minecraft:end_bricks"
+    },
+    {
+      Name: "minecraft:structure_block",
+      Properties: {
+        mode: "save"
+      }
+    },
+    {
+      Name: "minecraft:purpur_stairs",
+      Properties: {
+        half: "top",
+        facing: "east",
+        shape: "straight"
+      }
+    },
+    {
+      Name: "minecraft:purpur_stairs",
+      Properties: {
+        half: "top",
+        facing: "south",
+        shape: "straight"
+      }
+    },
+    {
+      Name: "minecraft:purpur_stairs",
+      Properties: {
+        half: "bottom",
+        facing: "south",
+        shape: "straight"
+      }
+    },
+    {
+      Name: "minecraft:end_rod",
+      Properties: {
+        facing: "up"
+      }
+    },
+    {
+      Name: "minecraft:purpur_stairs",
+      Properties: {
+        half: "top",
+        facing: "west",
+        shape: "straight"
+      }
+    },
+    {
+      Name: "minecraft:stained_glass",
+      Properties: {
+        color: "magenta"
+      }
+    },
+    {
+      Name: "minecraft:purpur_stairs",
+      Properties: {
+        half: "bottom",
+        facing: "east",
+        shape: "straight"
+      }
+    },
+    {
+      Name: "minecraft:purpur_stairs",
+      Properties: {
+        half: "bottom",
+        facing: "west",
+        shape: "straight"
+      }
+    },
+    {
+      Name: "minecraft:purpur_slab",
+      Properties: {
+        half: "bottom",
+        variant: "default"
+      }
+    },
+    {
+      Name: "minecraft:purpur_stairs",
+      Properties: {
+        half: "bottom",
+        facing: "north",
+        shape: "straight"
+      }
+    },
+    {
+      Name: "minecraft:purpur_slab",
+      Properties: {
+        half: "top",
+        variant: "default"
+      }
+    },
+    {
+      Name: "minecraft:purpur_stairs",
+      Properties: {
+        half: "top",
+        facing: "north",
+        shape: "straight"
+      }
+    }
+  ],
   blocks: [
     {
       state: 0,
@@ -522,43 +635,43 @@
       pos: [11, 3, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [3, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [4, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [6, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [7, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [8, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 1]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 1]
     },
     {
@@ -566,43 +679,43 @@
       pos: [0, 5, 1]
     },
     {
-      state: 202,
+      state: 2,
       pos: [1, 5, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [2, 5, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [3, 5, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [4, 5, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [5, 5, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [6, 5, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [7, 5, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [8, 5, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [9, 5, 1]
     },
     {
-      state: 202,
+      state: 2,
       pos: [10, 5, 1]
     },
     {
@@ -614,35 +727,35 @@
       pos: [0, 6, 1]
     },
     {
-      state: 202,
+      state: 2,
       pos: [1, 6, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [2, 6, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [4, 6, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [5, 6, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [6, 6, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [7, 6, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [9, 6, 1]
     },
     {
-      state: 202,
+      state: 2,
       pos: [10, 6, 1]
     },
     {
@@ -654,35 +767,35 @@
       pos: [0, 7, 1]
     },
     {
-      state: 202,
+      state: 2,
       pos: [1, 7, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [2, 7, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [4, 7, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [5, 7, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [6, 7, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [7, 7, 1]
     },
     {
-      state: 206,
+      state: 3,
       pos: [9, 7, 1]
     },
     {
-      state: 202,
+      state: 2,
       pos: [10, 7, 1]
     },
     {
@@ -882,43 +995,43 @@
       pos: [11, 3, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [3, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [4, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [6, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [7, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [8, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 2]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 2]
     },
     {
@@ -926,7 +1039,7 @@
       pos: [0, 5, 2]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 5, 2]
     },
     {
@@ -962,7 +1075,7 @@
       pos: [9, 5, 2]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 5, 2]
     },
     {
@@ -974,7 +1087,7 @@
       pos: [0, 6, 2]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 6, 2]
     },
     {
@@ -1010,7 +1123,7 @@
       pos: [9, 6, 2]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 6, 2]
     },
     {
@@ -1022,7 +1135,7 @@
       pos: [0, 7, 2]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 7, 2]
     },
     {
@@ -1058,7 +1171,7 @@
       pos: [9, 7, 2]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 7, 2]
     },
     {
@@ -1258,11 +1371,11 @@
       pos: [11, 3, 3]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 3]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 3]
     },
     {
@@ -1290,11 +1403,11 @@
       pos: [8, 4, 3]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 3]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 3]
     },
     {
@@ -1302,7 +1415,7 @@
       pos: [0, 5, 3]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 5, 3]
     },
     {
@@ -1338,7 +1451,7 @@
       pos: [9, 5, 3]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 5, 3]
     },
     {
@@ -1614,11 +1727,11 @@
       pos: [11, 3, 4]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 4]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 4]
     },
     {
@@ -1646,11 +1759,11 @@
       pos: [8, 4, 4]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 4]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 4]
     },
     {
@@ -1658,7 +1771,7 @@
       pos: [0, 5, 4]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 5, 4]
     },
     {
@@ -1694,7 +1807,7 @@
       pos: [9, 5, 4]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 5, 4]
     },
     {
@@ -1706,7 +1819,7 @@
       pos: [0, 6, 4]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 6, 4]
     },
     {
@@ -1742,7 +1855,7 @@
       pos: [9, 6, 4]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 6, 4]
     },
     {
@@ -1754,7 +1867,7 @@
       pos: [0, 7, 4]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 7, 4]
     },
     {
@@ -1790,7 +1903,7 @@
       pos: [9, 7, 4]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 7, 4]
     },
     {
@@ -1866,11 +1979,11 @@
       pos: [4, 1, 5]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 1, 5]
     },
     {
-      state: 201,
+      state: 1,
       pos: [6, 1, 5]
     },
     {
@@ -1914,7 +2027,7 @@
       pos: [4, 2, 5]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 2, 5]
     },
     {
@@ -1978,11 +2091,11 @@
       pos: [11, 3, 5]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 5]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 5]
     },
     {
@@ -2010,11 +2123,11 @@
       pos: [8, 4, 5]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 5]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 5]
     },
     {
@@ -2022,7 +2135,7 @@
       pos: [0, 5, 5]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 5, 5]
     },
     {
@@ -2058,7 +2171,7 @@
       pos: [9, 5, 5]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 5, 5]
     },
     {
@@ -2070,7 +2183,7 @@
       pos: [0, 6, 5]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 6, 5]
     },
     {
@@ -2106,7 +2219,7 @@
       pos: [9, 6, 5]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 6, 5]
     },
     {
@@ -2118,7 +2231,7 @@
       pos: [0, 7, 5]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 7, 5]
     },
     {
@@ -2154,7 +2267,7 @@
       pos: [9, 7, 5]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 7, 5]
     },
     {
@@ -2230,7 +2343,7 @@
       pos: [4, 1, 6]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 1, 6]
     },
     {
@@ -2274,7 +2387,7 @@
       pos: [4, 2, 6]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 2, 6]
     },
     {
@@ -2318,7 +2431,7 @@
       pos: [3, 3, 6]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 3, 6]
     },
     {
@@ -2346,11 +2459,11 @@
       pos: [11, 3, 6]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 6]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 6]
     },
     {
@@ -2362,11 +2475,11 @@
       pos: [4, 4, 6]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 6]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 6]
     },
     {
@@ -2374,7 +2487,7 @@
       pos: [0, 5, 6]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 5, 6]
     },
     {
@@ -2406,7 +2519,7 @@
       pos: [9, 5, 6]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 5, 6]
     },
     {
@@ -2418,7 +2531,7 @@
       pos: [0, 6, 6]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 6, 6]
     },
     {
@@ -2454,7 +2567,7 @@
       pos: [9, 6, 6]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 6, 6]
     },
     {
@@ -2466,7 +2579,7 @@
       pos: [0, 7, 6]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 7, 6]
     },
     {
@@ -2502,7 +2615,7 @@
       pos: [9, 7, 6]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 7, 6]
     },
     {
@@ -2698,11 +2811,11 @@
       pos: [11, 3, 7]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 7]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 7]
     },
     {
@@ -2730,11 +2843,11 @@
       pos: [8, 4, 7]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 7]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 7]
     },
     {
@@ -2742,7 +2855,7 @@
       pos: [0, 5, 7]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 5, 7]
     },
     {
@@ -2774,7 +2887,7 @@
       pos: [8, 5, 7]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 5, 7]
     },
     {
@@ -2786,7 +2899,7 @@
       pos: [0, 6, 7]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 6, 7]
     },
     {
@@ -2818,7 +2931,7 @@
       pos: [8, 6, 7]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 6, 7]
     },
     {
@@ -2830,7 +2943,7 @@
       pos: [0, 7, 7]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 7, 7]
     },
     {
@@ -2858,7 +2971,7 @@
       pos: [7, 7, 7]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 7, 7]
     },
     {
@@ -3058,11 +3171,11 @@
       pos: [11, 3, 8]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 8]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 8]
     },
     {
@@ -3090,11 +3203,11 @@
       pos: [8, 4, 8]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 8]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 8]
     },
     {
@@ -3102,7 +3215,7 @@
       pos: [0, 5, 8]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 5, 8]
     },
     {
@@ -3134,7 +3247,7 @@
       pos: [8, 5, 8]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 5, 8]
     },
     {
@@ -3174,7 +3287,7 @@
       pos: [8, 6, 8]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 6, 8]
     },
     {
@@ -3210,7 +3323,7 @@
       pos: [7, 7, 8]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 7, 8]
     },
     {
@@ -3410,43 +3523,43 @@
       pos: [11, 3, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [3, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [4, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [6, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [7, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [8, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 9]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 9]
     },
     {
@@ -3454,7 +3567,7 @@
       pos: [0, 5, 9]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 5, 9]
     },
     {
@@ -3490,7 +3603,7 @@
       pos: [9, 5, 9]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 5, 9]
     },
     {
@@ -3502,7 +3615,7 @@
       pos: [0, 6, 9]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 6, 9]
     },
     {
@@ -3538,7 +3651,7 @@
       pos: [9, 6, 9]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 6, 9]
     },
     {
@@ -3550,7 +3663,7 @@
       pos: [0, 7, 9]
     },
     {
-      state: 206,
+      state: 3,
       pos: [1, 7, 9]
     },
     {
@@ -3586,7 +3699,7 @@
       pos: [9, 7, 9]
     },
     {
-      state: 206,
+      state: 3,
       pos: [10, 7, 9]
     },
     {
@@ -3786,43 +3899,43 @@
       pos: [11, 3, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [1, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [2, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [3, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [4, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [5, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [6, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [7, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [8, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [9, 4, 10]
     },
     {
-      state: 201,
+      state: 1,
       pos: [10, 4, 10]
     },
     {
@@ -3830,43 +3943,43 @@
       pos: [0, 5, 10]
     },
     {
-      state: 202,
+      state: 2,
       pos: [1, 5, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [2, 5, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [3, 5, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [4, 5, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [5, 5, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [6, 5, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [7, 5, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [8, 5, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [9, 5, 10]
     },
     {
-      state: 202,
+      state: 2,
       pos: [10, 5, 10]
     },
     {
@@ -3878,35 +3991,35 @@
       pos: [0, 6, 10]
     },
     {
-      state: 202,
+      state: 2,
       pos: [1, 6, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [2, 6, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [4, 6, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [5, 6, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [6, 6, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [7, 6, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [9, 6, 10]
     },
     {
-      state: 202,
+      state: 2,
       pos: [10, 6, 10]
     },
     {
@@ -3918,35 +4031,35 @@
       pos: [0, 7, 10]
     },
     {
-      state: 202,
+      state: 2,
       pos: [1, 7, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [2, 7, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [4, 7, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [5, 7, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [6, 7, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [7, 7, 10]
     },
     {
-      state: 206,
+      state: 3,
       pos: [9, 7, 10]
     },
     {
-      state: 202,
+      state: 2,
       pos: [10, 7, 10]
     },
     {
@@ -4282,7 +4395,7 @@
       pos: [11, 7, 11]
     },
     {
-      state: 255,
+      state: 4,
       nbt: {
         sizeZ: 0,
         posY: 1,
@@ -4302,327 +4415,327 @@
       pos: [8, 5, 6]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [0, 4, 0]
     },
     {
-      state: 24779,
+      state: 6,
       pos: [1, 4, 0]
     },
     {
-      state: 8395,
+      state: 7,
       pos: [2, 4, 0]
     },
     {
-      state: 24779,
+      state: 6,
       pos: [3, 4, 0]
     },
     {
-      state: 24779,
+      state: 6,
       pos: [4, 4, 0]
     },
     {
-      state: 8395,
+      state: 7,
       pos: [5, 4, 0]
     },
     {
-      state: 8395,
+      state: 7,
       pos: [6, 4, 0]
     },
     {
-      state: 24779,
+      state: 6,
       pos: [7, 4, 0]
     },
     {
-      state: 24779,
+      state: 6,
       pos: [8, 4, 0]
     },
     {
-      state: 8395,
+      state: 7,
       pos: [9, 4, 0]
     },
     {
-      state: 24779,
+      state: 6,
       pos: [10, 4, 0]
     },
     {
-      state: 24779,
+      state: 6,
       pos: [11, 4, 0]
     },
     {
-      state: 4294,
+      state: 8,
       pos: [0, 5, 0]
     },
     {
-      state: 4294,
+      state: 8,
       pos: [11, 5, 0]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [0, 4, 1]
     },
     {
-      state: 20683,
+      state: 9,
       pos: [11, 4, 1]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [3, 6, 1]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [8, 6, 1]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [3, 7, 1]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [8, 7, 1]
     },
     {
-      state: 203,
+      state: 11,
       pos: [0, 4, 2]
     },
     {
-      state: 4299,
+      state: 12,
       pos: [11, 4, 2]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [0, 4, 3]
     },
     {
-      state: 20683,
+      state: 9,
       pos: [11, 4, 3]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [1, 6, 3]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [10, 6, 3]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [1, 7, 3]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [10, 7, 3]
     },
     {
-      state: 205,
+      state: 13,
       pos: [5, 3, 4]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [0, 4, 4]
     },
     {
-      state: 20683,
+      state: 9,
       pos: [11, 4, 4]
     },
     {
-      state: 4299,
+      state: 12,
       pos: [6, 2, 5]
     },
     {
-      state: 205,
+      state: 13,
       pos: [7, 2, 5]
     },
     {
-      state: 8395,
+      state: 7,
       pos: [5, 3, 5]
     },
     {
-      state: 203,
+      state: 11,
       pos: [0, 4, 5]
     },
     {
-      state: 4299,
+      state: 12,
       pos: [11, 4, 5]
     },
     {
-      state: 12491,
+      state: 14,
       pos: [6, 1, 6]
     },
     {
-      state: 32973,
+      state: 15,
       pos: [4, 3, 6]
     },
     {
-      state: 203,
+      state: 11,
       pos: [0, 4, 6]
     },
     {
-      state: 203,
+      state: 11,
       pos: [5, 4, 6]
     },
     {
-      state: 32973,
+      state: 15,
       pos: [6, 4, 6]
     },
     {
-      state: 32973,
+      state: 15,
       pos: [7, 4, 6]
     },
     {
-      state: 32973,
+      state: 15,
       pos: [8, 4, 6]
     },
     {
-      state: 4299,
+      state: 12,
       pos: [11, 4, 6]
     },
     {
-      state: 205,
+      state: 13,
       pos: [6, 1, 7]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [0, 4, 7]
     },
     {
-      state: 20683,
+      state: 9,
       pos: [11, 4, 7]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [9, 5, 7]
     },
     {
-      state: 203,
+      state: 11,
       pos: [9, 6, 7]
     },
     {
-      state: 32973,
+      state: 15,
       pos: [8, 7, 7]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [9, 7, 7]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [0, 4, 8]
     },
     {
-      state: 20683,
+      state: 9,
       pos: [11, 4, 8]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [9, 5, 8]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [1, 6, 8]
     },
     {
-      state: 203,
+      state: 11,
       pos: [9, 6, 8]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [1, 7, 8]
     },
     {
-      state: 32973,
+      state: 15,
       pos: [8, 7, 8]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [9, 7, 8]
     },
     {
-      state: 203,
+      state: 11,
       pos: [0, 4, 9]
     },
     {
-      state: 4299,
+      state: 12,
       pos: [11, 4, 9]
     },
     {
-      state: 16587,
+      state: 5,
       pos: [0, 4, 10]
     },
     {
-      state: 20683,
+      state: 9,
       pos: [11, 4, 10]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [3, 6, 10]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [8, 6, 10]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [3, 7, 10]
     },
     {
-      state: 8287,
+      state: 10,
       pos: [8, 7, 10]
     },
     {
-      state: 28875,
+      state: 16,
       pos: [0, 4, 11]
     },
     {
-      state: 28875,
+      state: 16,
       pos: [1, 4, 11]
     },
     {
-      state: 12491,
+      state: 14,
       pos: [2, 4, 11]
     },
     {
-      state: 28875,
+      state: 16,
       pos: [3, 4, 11]
     },
     {
-      state: 28875,
+      state: 16,
       pos: [4, 4, 11]
     },
     {
-      state: 12491,
+      state: 14,
       pos: [5, 4, 11]
     },
     {
-      state: 12491,
+      state: 14,
       pos: [6, 4, 11]
     },
     {
-      state: 28875,
+      state: 16,
       pos: [7, 4, 11]
     },
     {
-      state: 28875,
+      state: 16,
       pos: [8, 4, 11]
     },
     {
-      state: 12491,
+      state: 14,
       pos: [9, 4, 11]
     },
     {
-      state: 28875,
+      state: 16,
       pos: [10, 4, 11]
     },
     {
-      state: 20683,
+      state: 9,
       pos: [11, 4, 11]
     },
     {
-      state: 4294,
+      state: 8,
       pos: [0, 5, 11]
     },
     {
-      state: 4294,
+      state: 8,
       pos: [11, 5, 11]
     }
   ],
