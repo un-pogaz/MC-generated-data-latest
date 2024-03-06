@@ -1,6 +1,7 @@
 minecraft:acacia_door
 minecraft:acacia_fence_gate
 minecraft:acacia_trapdoor
+minecraft:barrel
 minecraft:birch_door
 minecraft:birch_fence_gate
 minecraft:birch_trapdoor

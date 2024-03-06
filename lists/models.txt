@@ -62,6 +62,7 @@ minecraft:block/bamboo_sapling
 minecraft:block/bamboo_small_leaves
 minecraft:block/banner
 minecraft:block/barrel
+minecraft:block/barrel_open
 minecraft:block/barrier
 minecraft:block/beacon
 minecraft:block/bed
@@ -1613,6 +1614,7 @@ minecraft:item/flint
 minecraft:item/flint_and_steel
 minecraft:item/flower_banner_pattern
 minecraft:item/flower_pot
+minecraft:item/fox_spawn_egg
 minecraft:item/furnace
 minecraft:item/furnace_minecart
 minecraft:item/generated
