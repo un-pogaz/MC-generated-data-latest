@@ -3,6 +3,7 @@ icons/icon_32x32.png
 icons/minecraft.icns
 lang/af_ZA.lang
 lang/ar_SA.lang
+lang/ast_ES.lang
 lang/bg_BG.lang
 lang/ca_ES.lang
 lang/cs_CZ.lang
@@ -29,6 +30,7 @@ lang/fr_CA.lang
 lang/fr_FR.lang
 lang/ga_IE.lang
 lang/gl_ES.lang
+lang/gv_IM.lang
 lang/he_IL.lang
 lang/hi_IN.lang
 lang/hr_HR.lang
@@ -45,8 +47,10 @@ lang/la_LA.lang
 lang/lb_LU.lang
 lang/lt_LT.lang
 lang/lv_LV.lang
+lang/mi_NZ.lang
 lang/ms_MY.lang
 lang/mt_MT.lang
+lang/nds_DE.lang
 lang/nl_NL.lang
 lang/nn_NO.lang
 lang/no_NO.lang
@@ -65,6 +69,7 @@ lang/th_TH.lang
 lang/tlh_AA.lang
 lang/tr_TR.lang
 lang/uk_UA.lang
+lang/val_ES.lang
 lang/vi_VN.lang
 lang/zh_CN.lang
 lang/zh_TW.lang

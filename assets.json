@@ -1,6 +1,6 @@
 {
-  "assets": "1.7.3",
-  "asset_index": "https://launchermeta.mojang.com/v1/packages/f6cf726f4747128d13887010c2cbc44ba83504d9/1.7.3.json",
+  "assets": "1.7.4",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/545510a60f526b9aa8a38f9c0bc7a74235d21675/1.7.4.json",
   "objects": {
     "icons/icon_16x16.png": {
       "hash": "bdf48ef6b5d0d23bbb02e17d04865216179f510a",
@@ -18,344 +18,369 @@
       "url": "https://resources.download.minecraft.net/99/991b421dfd401f115241601b2b373140a8d78572"
     },
     "lang/af_ZA.lang": {
-      "hash": "a9ea89177fbf3f10e527102451eb1469671530d4",
-      "size": 69996,
-      "url": "https://resources.download.minecraft.net/a9/a9ea89177fbf3f10e527102451eb1469671530d4"
+      "hash": "3ed6b9d3d6c70d9e86bb10604378987f65d1a3ae",
+      "size": 77973,
+      "url": "https://resources.download.minecraft.net/3e/3ed6b9d3d6c70d9e86bb10604378987f65d1a3ae"
     },
     "lang/ar_SA.lang": {
-      "hash": "ab4b24fb41b13f1c83ee45879e0c0db3f86d7fa4",
-      "size": 83986,
-      "url": "https://resources.download.minecraft.net/ab/ab4b24fb41b13f1c83ee45879e0c0db3f86d7fa4"
+      "hash": "b739f1bcf05e82b225f6e128504af5c96574070f",
+      "size": 94338,
+      "url": "https://resources.download.minecraft.net/b7/b739f1bcf05e82b225f6e128504af5c96574070f"
+    },
+    "lang/ast_ES.lang": {
+      "hash": "6a130a7b8cfe8cf77d8f3d0bf0d625c9bc932b50",
+      "size": 79786,
+      "url": "https://resources.download.minecraft.net/6a/6a130a7b8cfe8cf77d8f3d0bf0d625c9bc932b50"
     },
     "lang/bg_BG.lang": {
-      "hash": "f36a4c278292b2c80b2e0889d60980fbb6f4339b",
-      "size": 95147,
-      "url": "https://resources.download.minecraft.net/f3/f36a4c278292b2c80b2e0889d60980fbb6f4339b"
+      "hash": "582bd1b3bc99991e20fe1cf0c3fb6297a4032fe9",
+      "size": 107294,
+      "url": "https://resources.download.minecraft.net/58/582bd1b3bc99991e20fe1cf0c3fb6297a4032fe9"
     },
     "lang/ca_ES.lang": {
-      "hash": "ebdfd687b678262836cb4179f8b3833fe557db28",
-      "size": 72677,
-      "url": "https://resources.download.minecraft.net/eb/ebdfd687b678262836cb4179f8b3833fe557db28"
+      "hash": "cea8602003df57fe675359c162e12518d5377802",
+      "size": 80859,
+      "url": "https://resources.download.minecraft.net/ce/cea8602003df57fe675359c162e12518d5377802"
     },
     "lang/cs_CZ.lang": {
-      "hash": "d8dd3873fac34c74f038df02d76d745febafe8da",
-      "size": 71829,
-      "url": "https://resources.download.minecraft.net/d8/d8dd3873fac34c74f038df02d76d745febafe8da"
+      "hash": "6f644df36783553adb873892f02c8df31a562ea7",
+      "size": 79835,
+      "url": "https://resources.download.minecraft.net/6f/6f644df36783553adb873892f02c8df31a562ea7"
     },
     "lang/cy_GB.lang": {
-      "hash": "16e554ed068e38f738f0afa7a03db23b77456ec3",
-      "size": 70247,
-      "url": "https://resources.download.minecraft.net/16/16e554ed068e38f738f0afa7a03db23b77456ec3"
+      "hash": "d60b0fa5b8f302825de6ca7f31be1d56f941aa9e",
+      "size": 78011,
+      "url": "https://resources.download.minecraft.net/d6/d60b0fa5b8f302825de6ca7f31be1d56f941aa9e"
     },
     "lang/da_DK.lang": {
-      "hash": "be7fd7a59648a565b83c1c6de161df470728b656",
-      "size": 68955,
-      "url": "https://resources.download.minecraft.net/be/be7fd7a59648a565b83c1c6de161df470728b656"
+      "hash": "a01580d5b2079ee690cd4257dcb9b9d5b5827c5c",
+      "size": 76874,
+      "url": "https://resources.download.minecraft.net/a0/a01580d5b2079ee690cd4257dcb9b9d5b5827c5c"
     },
     "lang/de_DE.lang": {
-      "hash": "e37d3ab28ec7acc17337da3d4a4fe4dd0642aac5",
-      "size": 71313,
-      "url": "https://resources.download.minecraft.net/e3/e37d3ab28ec7acc17337da3d4a4fe4dd0642aac5"
+      "hash": "05e5d4376f243eed7289bca215e149721ef32dbd",
+      "size": 79327,
+      "url": "https://resources.download.minecraft.net/05/05e5d4376f243eed7289bca215e149721ef32dbd"
     },
     "lang/el_GR.lang": {
-      "hash": "4330e3218548e9f3268d103e5ab71fa2b28d9b20",
-      "size": 103177,
-      "url": "https://resources.download.minecraft.net/43/4330e3218548e9f3268d103e5ab71fa2b28d9b20"
+      "hash": "4f02b8473cd09ecbac3c205a837411d5d6dd1765",
+      "size": 115140,
+      "url": "https://resources.download.minecraft.net/4f/4f02b8473cd09ecbac3c205a837411d5d6dd1765"
     },
     "lang/en_AU.lang": {
-      "hash": "cee3c7dc6d3fcc0bd399a743dad1b53bba485e60",
-      "size": 67927,
-      "url": "https://resources.download.minecraft.net/ce/cee3c7dc6d3fcc0bd399a743dad1b53bba485e60"
+      "hash": "6aeecd3a532caa1c33fe6019779f346537c20c3c",
+      "size": 75708,
+      "url": "https://resources.download.minecraft.net/6a/6aeecd3a532caa1c33fe6019779f346537c20c3c"
     },
     "lang/en_CA.lang": {
-      "hash": "6c6489f61ee7d2efa086fa63b23097530c52d26e",
-      "size": 67845,
-      "url": "https://resources.download.minecraft.net/6c/6c6489f61ee7d2efa086fa63b23097530c52d26e"
+      "hash": "195752f895bf895e0371ea791086b942d2a3a029",
+      "size": 75515,
+      "url": "https://resources.download.minecraft.net/19/195752f895bf895e0371ea791086b942d2a3a029"
     },
     "lang/en_GB.lang": {
-      "hash": "88bd61ca6d1201d0109262c2d3b0d1464d07ce74",
-      "size": 67676,
-      "url": "https://resources.download.minecraft.net/88/88bd61ca6d1201d0109262c2d3b0d1464d07ce74"
+      "hash": "3bdb52e1961c9ef22616bf9a8c36052c2d166124",
+      "size": 75337,
+      "url": "https://resources.download.minecraft.net/3b/3bdb52e1961c9ef22616bf9a8c36052c2d166124"
     },
     "lang/en_PT.lang": {
-      "hash": "eb59d5ba3728885ff40f1bf37cc8f72d6d9e6930",
-      "size": 71748,
-      "url": "https://resources.download.minecraft.net/eb/eb59d5ba3728885ff40f1bf37cc8f72d6d9e6930"
+      "hash": "ae9fe232bcd41ea3383126d4032e0c41e5c30986",
+      "size": 79997,
+      "url": "https://resources.download.minecraft.net/ae/ae9fe232bcd41ea3383126d4032e0c41e5c30986"
     },
     "lang/eo_UY.lang": {
-      "hash": "69ff827d47a5b247f88a71db37c27d010c755653",
-      "size": 69406,
-      "url": "https://resources.download.minecraft.net/69/69ff827d47a5b247f88a71db37c27d010c755653"
+      "hash": "48995567bac45b5870fbfd9123c36ee379596ab5",
+      "size": 76960,
+      "url": "https://resources.download.minecraft.net/48/48995567bac45b5870fbfd9123c36ee379596ab5"
     },
     "lang/es_AR.lang": {
-      "hash": "ec830f34a2ea5d964603ff621e7c4d64323a904c",
-      "size": 71755,
-      "url": "https://resources.download.minecraft.net/ec/ec830f34a2ea5d964603ff621e7c4d64323a904c"
+      "hash": "303e0ad5866acbb5251c2050715531ee08dcdd04",
+      "size": 79798,
+      "url": "https://resources.download.minecraft.net/30/303e0ad5866acbb5251c2050715531ee08dcdd04"
     },
     "lang/es_ES.lang": {
-      "hash": "ebcebf42cd5cc197b9d0f0e89e061f33382870c6",
-      "size": 73202,
-      "url": "https://resources.download.minecraft.net/eb/ebcebf42cd5cc197b9d0f0e89e061f33382870c6"
+      "hash": "7f0b43b1057f864ce183b4950382a6143d048bc0",
+      "size": 81340,
+      "url": "https://resources.download.minecraft.net/7f/7f0b43b1057f864ce183b4950382a6143d048bc0"
     },
     "lang/es_MX.lang": {
-      "hash": "720843b6860be60ec252ae17db4d54dd50b4829c",
-      "size": 73034,
-      "url": "https://resources.download.minecraft.net/72/720843b6860be60ec252ae17db4d54dd50b4829c"
+      "hash": "5841f1c149d75bdb5b5553dacff64d540a66c6e7",
+      "size": 80660,
+      "url": "https://resources.download.minecraft.net/58/5841f1c149d75bdb5b5553dacff64d540a66c6e7"
     },
     "lang/es_UY.lang": {
-      "hash": "c6843b4ba73c4c075d697398d43ee916283e5b93",
-      "size": 72868,
-      "url": "https://resources.download.minecraft.net/c6/c6843b4ba73c4c075d697398d43ee916283e5b93"
+      "hash": "048f00a828d2ddc685c28e1e1f6e75ac36059a38",
+      "size": 80725,
+      "url": "https://resources.download.minecraft.net/04/048f00a828d2ddc685c28e1e1f6e75ac36059a38"
     },
     "lang/es_VE.lang": {
-      "hash": "b73850cb324ddce5488f8edfe14ddb68e1f63670",
-      "size": 73296,
-      "url": "https://resources.download.minecraft.net/b7/b73850cb324ddce5488f8edfe14ddb68e1f63670"
+      "hash": "aa9280fff79e512f8e75e9b5f4d5e9d0d8a70237",
+      "size": 80955,
+      "url": "https://resources.download.minecraft.net/aa/aa9280fff79e512f8e75e9b5f4d5e9d0d8a70237"
     },
     "lang/et_EE.lang": {
-      "hash": "6c7de8b578694b6a86c5f462a2df708f9d804a13",
-      "size": 69679,
-      "url": "https://resources.download.minecraft.net/6c/6c7de8b578694b6a86c5f462a2df708f9d804a13"
+      "hash": "9efe2b58dc3a37b041520499d5aa014dad864b26",
+      "size": 77669,
+      "url": "https://resources.download.minecraft.net/9e/9efe2b58dc3a37b041520499d5aa014dad864b26"
     },
     "lang/eu_ES.lang": {
-      "hash": "e5dc74ad272f60621a04a67bd62a5cf63c4e8135",
-      "size": 73305,
-      "url": "https://resources.download.minecraft.net/e5/e5dc74ad272f60621a04a67bd62a5cf63c4e8135"
+      "hash": "7f197a6bebf80a5ec109dabe3f2290062333f563",
+      "size": 81235,
+      "url": "https://resources.download.minecraft.net/7f/7f197a6bebf80a5ec109dabe3f2290062333f563"
     },
     "lang/fa_IR.lang": {
-      "hash": "9b7368cc1a3b4f8e7d8dff923b2cbe9069cd0f3b",
-      "size": 71995,
-      "url": "https://resources.download.minecraft.net/9b/9b7368cc1a3b4f8e7d8dff923b2cbe9069cd0f3b"
+      "hash": "3f9ad38f61b975ef1bcf7e7b397a3ec781376bf2",
+      "size": 91109,
+      "url": "https://resources.download.minecraft.net/3f/3f9ad38f61b975ef1bcf7e7b397a3ec781376bf2"
     },
     "lang/fi_FI.lang": {
-      "hash": "16af3fb50160638e7250af4cc3beb3769f6e58b0",
-      "size": 72181,
-      "url": "https://resources.download.minecraft.net/16/16af3fb50160638e7250af4cc3beb3769f6e58b0"
+      "hash": "d515d3a178dd2b6cb730090e6dc5808e29060d6c",
+      "size": 80076,
+      "url": "https://resources.download.minecraft.net/d5/d515d3a178dd2b6cb730090e6dc5808e29060d6c"
     },
     "lang/fil_PH.lang": {
-      "hash": "0dbc616d03816a6f925a5b2f77e89738d290f194",
-      "size": 69231,
-      "url": "https://resources.download.minecraft.net/0d/0dbc616d03816a6f925a5b2f77e89738d290f194"
+      "hash": "a50eab95ec849f45f10a484ac35b2d2fdd537d1c",
+      "size": 78520,
+      "url": "https://resources.download.minecraft.net/a5/a50eab95ec849f45f10a484ac35b2d2fdd537d1c"
     },
     "lang/fr_CA.lang": {
-      "hash": "6df06576e677d952dc15da3926f4ed822d106354",
-      "size": 75791,
-      "url": "https://resources.download.minecraft.net/6d/6df06576e677d952dc15da3926f4ed822d106354"
+      "hash": "c368b10942886c39a54c3359aa2430845c86faba",
+      "size": 84088,
+      "url": "https://resources.download.minecraft.net/c3/c368b10942886c39a54c3359aa2430845c86faba"
     },
     "lang/fr_FR.lang": {
-      "hash": "419a50b4099da63ca54f70aaddee5dfd4084b37c",
-      "size": 74536,
-      "url": "https://resources.download.minecraft.net/41/419a50b4099da63ca54f70aaddee5dfd4084b37c"
+      "hash": "5ffe475c57fa72755d143bd6bfa2c36c5ef029cc",
+      "size": 82785,
+      "url": "https://resources.download.minecraft.net/5f/5ffe475c57fa72755d143bd6bfa2c36c5ef029cc"
     },
     "lang/ga_IE.lang": {
-      "hash": "78f017a2c23e6bdf6c8da0ef2ebd0a7d0ff8be88",
-      "size": 73730,
-      "url": "https://resources.download.minecraft.net/78/78f017a2c23e6bdf6c8da0ef2ebd0a7d0ff8be88"
+      "hash": "a870a691fd24a42946239b250e6d948d94707fd6",
+      "size": 82259,
+      "url": "https://resources.download.minecraft.net/a8/a870a691fd24a42946239b250e6d948d94707fd6"
     },
     "lang/gl_ES.lang": {
-      "hash": "f414a01c9317aaffd43169021f66dad9b9cc6ed3",
-      "size": 71887,
-      "url": "https://resources.download.minecraft.net/f4/f414a01c9317aaffd43169021f66dad9b9cc6ed3"
+      "hash": "38517ebb386032e97d3f562f48cd78b6c212de95",
+      "size": 79946,
+      "url": "https://resources.download.minecraft.net/38/38517ebb386032e97d3f562f48cd78b6c212de95"
+    },
+    "lang/gv_IM.lang": {
+      "hash": "c697ef4aec574fd844c78118ae2650489f54aac0",
+      "size": 78624,
+      "url": "https://resources.download.minecraft.net/c6/c697ef4aec574fd844c78118ae2650489f54aac0"
     },
     "lang/he_IL.lang": {
-      "hash": "00562baef8bd1db4c43990f6b1027361e7f620c4",
-      "size": 79972,
-      "url": "https://resources.download.minecraft.net/00/00562baef8bd1db4c43990f6b1027361e7f620c4"
+      "hash": "16765a632f7c13fe608c17aaedaf2b67c36a1f65",
+      "size": 89333,
+      "url": "https://resources.download.minecraft.net/16/16765a632f7c13fe608c17aaedaf2b67c36a1f65"
     },
     "lang/hi_IN.lang": {
-      "hash": "7f66e73aaa91fdc3164757a208fd29348bff2b35",
-      "size": 101712,
-      "url": "https://resources.download.minecraft.net/7f/7f66e73aaa91fdc3164757a208fd29348bff2b35"
+      "hash": "d11b484281827aa380e4beca991b022fde0fb514",
+      "size": 115883,
+      "url": "https://resources.download.minecraft.net/d1/d11b484281827aa380e4beca991b022fde0fb514"
     },
     "lang/hr_HR.lang": {
-      "hash": "090858721704b0a6f95342538ed732124bce4945",
-      "size": 69765,
-      "url": "https://resources.download.minecraft.net/09/090858721704b0a6f95342538ed732124bce4945"
+      "hash": "ad97cf18899a1ab1e0ec264d41f2719a14a1566f",
+      "size": 77620,
+      "url": "https://resources.download.minecraft.net/ad/ad97cf18899a1ab1e0ec264d41f2719a14a1566f"
     },
     "lang/hu_HU.lang": {
-      "hash": "10c2d1819d800db8ff9c0ea000db1223d2eecd4b",
-      "size": 72828,
-      "url": "https://resources.download.minecraft.net/10/10c2d1819d800db8ff9c0ea000db1223d2eecd4b"
+      "hash": "d8526a37e1cb96c2ebc5b9ac09221832b0041fe1",
+      "size": 81211,
+      "url": "https://resources.download.minecraft.net/d8/d8526a37e1cb96c2ebc5b9ac09221832b0041fe1"
     },
     "lang/hy_AM.lang": {
-      "hash": "b97a0903384607ba6ffd96f636b5a54f96736659",
-      "size": 88875,
-      "url": "https://resources.download.minecraft.net/b9/b97a0903384607ba6ffd96f636b5a54f96736659"
+      "hash": "b5633e1db22d36c993aed2d74a1ed2d506e651fc",
+      "size": 100381,
+      "url": "https://resources.download.minecraft.net/b5/b5633e1db22d36c993aed2d74a1ed2d506e651fc"
     },
     "lang/id_ID.lang": {
-      "hash": "dcc2504c5428b0d96a8e9488e9ee55e71dbbbfff",
-      "size": 69637,
-      "url": "https://resources.download.minecraft.net/dc/dcc2504c5428b0d96a8e9488e9ee55e71dbbbfff"
+      "hash": "c9edd2f96478748e691430f91fa8289172ec38fd",
+      "size": 77838,
+      "url": "https://resources.download.minecraft.net/c9/c9edd2f96478748e691430f91fa8289172ec38fd"
     },
     "lang/is_IS.lang": {
-      "hash": "3387bbc2e5982c355ebd1f4662c90e548f94835d",
-      "size": 69877,
-      "url": "https://resources.download.minecraft.net/33/3387bbc2e5982c355ebd1f4662c90e548f94835d"
+      "hash": "62730f0103a559ff127d99ab5ffc19ad730f851e",
+      "size": 78101,
+      "url": "https://resources.download.minecraft.net/62/62730f0103a559ff127d99ab5ffc19ad730f851e"
     },
     "lang/it_IT.lang": {
-      "hash": "3b1d6346f35f0eb0c3e044f17ae9e95d7c237b54",
-      "size": 73949,
-      "url": "https://resources.download.minecraft.net/3b/3b1d6346f35f0eb0c3e044f17ae9e95d7c237b54"
+      "hash": "d7f96fcc625dfe124deb0cb00809442e2c109867",
+      "size": 83257,
+      "url": "https://resources.download.minecraft.net/d7/d7f96fcc625dfe124deb0cb00809442e2c109867"
     },
     "lang/ja_JP.lang": {
-      "hash": "e7bcfd104fbe5f120000d3ae940275ccc4ee4ecc",
-      "size": 81647,
-      "url": "https://resources.download.minecraft.net/e7/e7bcfd104fbe5f120000d3ae940275ccc4ee4ecc"
+      "hash": "a7e4e9e58b319939998067ce7d4286366a3aea72",
+      "size": 90680,
+      "url": "https://resources.download.minecraft.net/a7/a7e4e9e58b319939998067ce7d4286366a3aea72"
     },
     "lang/ka_GE.lang": {
-      "hash": "b72de884145171dd9cb147bcdad0aeea663ffef7",
-      "size": 119947,
-      "url": "https://resources.download.minecraft.net/b7/b72de884145171dd9cb147bcdad0aeea663ffef7"
+      "hash": "747ded357960f6f911492e3840c11852938b0f04",
+      "size": 129291,
+      "url": "https://resources.download.minecraft.net/74/747ded357960f6f911492e3840c11852938b0f04"
     },
     "lang/ko_KR.lang": {
-      "hash": "ccc5779a459fbc82e553541721a487a60c92a3ee",
-      "size": 76963,
-      "url": "https://resources.download.minecraft.net/cc/ccc5779a459fbc82e553541721a487a60c92a3ee"
+      "hash": "ab1bc52bfa5c170b5b1f99906fc849c89b3f8ddd",
+      "size": 85215,
+      "url": "https://resources.download.minecraft.net/ab/ab1bc52bfa5c170b5b1f99906fc849c89b3f8ddd"
     },
     "lang/kw_GB.lang": {
-      "hash": "784a66b5b35f256bf82f786b04595af2b4af0a79",
-      "size": 69598,
-      "url": "https://resources.download.minecraft.net/78/784a66b5b35f256bf82f786b04595af2b4af0a79"
+      "hash": "90f64ff1aa400e252d4c84a642c9e191b631209d",
+      "size": 77281,
+      "url": "https://resources.download.minecraft.net/90/90f64ff1aa400e252d4c84a642c9e191b631209d"
     },
     "lang/la_LA.lang": {
-      "hash": "654565592eb8d2146e0649968bebd510a0edadcb",
-      "size": 70563,
-      "url": "https://resources.download.minecraft.net/65/654565592eb8d2146e0649968bebd510a0edadcb"
+      "hash": "a7980eb0105c8d409227e94a1bf39413383aafb1",
+      "size": 78311,
+      "url": "https://resources.download.minecraft.net/a7/a7980eb0105c8d409227e94a1bf39413383aafb1"
     },
     "lang/lb_LU.lang": {
-      "hash": "075249de69efdda8344c2d5b4c02bea403fad9a0",
-      "size": 69234,
-      "url": "https://resources.download.minecraft.net/07/075249de69efdda8344c2d5b4c02bea403fad9a0"
+      "hash": "0bf08d8c609d0abe442839d1a6c0ce8649c4c1af",
+      "size": 79744,
+      "url": "https://resources.download.minecraft.net/0b/0bf08d8c609d0abe442839d1a6c0ce8649c4c1af"
     },
     "lang/lt_LT.lang": {
-      "hash": "d36b4de109a4611e7e58dcaa570bad70e382bb27",
-      "size": 74452,
-      "url": "https://resources.download.minecraft.net/d3/d36b4de109a4611e7e58dcaa570bad70e382bb27"
+      "hash": "8822e8282e18ea3a84e217165d24d3835f9a02b4",
+      "size": 83192,
+      "url": "https://resources.download.minecraft.net/88/8822e8282e18ea3a84e217165d24d3835f9a02b4"
     },
     "lang/lv_LV.lang": {
-      "hash": "290d36a66649cd536c2b5de6f6aa74b8befb2f8a",
-      "size": 72522,
-      "url": "https://resources.download.minecraft.net/29/290d36a66649cd536c2b5de6f6aa74b8befb2f8a"
+      "hash": "b4448f3003574bd69e45a31f118a6fe8e7907316",
+      "size": 80596,
+      "url": "https://resources.download.minecraft.net/b4/b4448f3003574bd69e45a31f118a6fe8e7907316"
+    },
+    "lang/mi_NZ.lang": {
+      "hash": "28ad66f1224ff43b40dfb0ac938c7e667d072bc7",
+      "size": 75892,
+      "url": "https://resources.download.minecraft.net/28/28ad66f1224ff43b40dfb0ac938c7e667d072bc7"
     },
     "lang/ms_MY.lang": {
-      "hash": "c8badfd177f7a9d6628c27be79c7ea6d766687c0",
-      "size": 72423,
-      "url": "https://resources.download.minecraft.net/c8/c8badfd177f7a9d6628c27be79c7ea6d766687c0"
+      "hash": "c862b0a34a29f20a76e221d5e388ab821b15b600",
+      "size": 80021,
+      "url": "https://resources.download.minecraft.net/c8/c862b0a34a29f20a76e221d5e388ab821b15b600"
     },
     "lang/mt_MT.lang": {
-      "hash": "1820f8055731340a9ed00461d0a0c0b187588c43",
-      "size": 72844,
-      "url": "https://resources.download.minecraft.net/18/1820f8055731340a9ed00461d0a0c0b187588c43"
+      "hash": "c266cfe6c91b2f8042f88519d5ac42b918552941",
+      "size": 81127,
+      "url": "https://resources.download.minecraft.net/c2/c266cfe6c91b2f8042f88519d5ac42b918552941"
+    },
+    "lang/nds_DE.lang": {
+      "hash": "22d35e1c0d62f48f8636444e3dedf8a1bf797099",
+      "size": 76804,
+      "url": "https://resources.download.minecraft.net/22/22d35e1c0d62f48f8636444e3dedf8a1bf797099"
     },
     "lang/nl_NL.lang": {
-      "hash": "277f9bc77aba8ec9bdc6a8d5585200ce0e57304b",
-      "size": 70581,
-      "url": "https://resources.download.minecraft.net/27/277f9bc77aba8ec9bdc6a8d5585200ce0e57304b"
+      "hash": "ccc738ed50f49bca7f6e6d627a5ac1e7e869f782",
+      "size": 78536,
+      "url": "https://resources.download.minecraft.net/cc/ccc738ed50f49bca7f6e6d627a5ac1e7e869f782"
     },
     "lang/nn_NO.lang": {
-      "hash": "ce3ca53596ed6b87dbfe33efcb58a785c3d47af4",
-      "size": 67941,
-      "url": "https://resources.download.minecraft.net/ce/ce3ca53596ed6b87dbfe33efcb58a785c3d47af4"
+      "hash": "364d4310e77b0f834e95ede7ca5655a5f7c4a41d",
+      "size": 75900,
+      "url": "https://resources.download.minecraft.net/36/364d4310e77b0f834e95ede7ca5655a5f7c4a41d"
     },
     "lang/no_NO.lang": {
-      "hash": "cd2ae07ce8f7d135311228c0e3df9d19acc990e2",
-      "size": 68687,
-      "url": "https://resources.download.minecraft.net/cd/cd2ae07ce8f7d135311228c0e3df9d19acc990e2"
+      "hash": "0b41afb1ee994249fd619ec21c7891e9dcb65d1c",
+      "size": 76398,
+      "url": "https://resources.download.minecraft.net/0b/0b41afb1ee994249fd619ec21c7891e9dcb65d1c"
     },
     "lang/oc_FR.lang": {
-      "hash": "32719ce08065ea58af84138a837c35199cb934f9",
-      "size": 73684,
-      "url": "https://resources.download.minecraft.net/32/32719ce08065ea58af84138a837c35199cb934f9"
+      "hash": "70f0ea6e69e7618f15c9d987858be0741a86d60a",
+      "size": 81887,
+      "url": "https://resources.download.minecraft.net/70/70f0ea6e69e7618f15c9d987858be0741a86d60a"
     },
     "lang/pl_PL.lang": {
-      "hash": "149e040de6c1193ae9bb0a0b9dae5e300eaa8cac",
-      "size": 73213,
-      "url": "https://resources.download.minecraft.net/14/149e040de6c1193ae9bb0a0b9dae5e300eaa8cac"
+      "hash": "405fc8204500f9680625ffdc94b501f040d7e98c",
+      "size": 81239,
+      "url": "https://resources.download.minecraft.net/40/405fc8204500f9680625ffdc94b501f040d7e98c"
     },
     "lang/pt_BR.lang": {
-      "hash": "4384414d1b2fa7b2ad33d13c94a1e50c1d411f9e",
-      "size": 72462,
-      "url": "https://resources.download.minecraft.net/43/4384414d1b2fa7b2ad33d13c94a1e50c1d411f9e"
+      "hash": "5d2155f6ba1d8f8627d953b4c88b41f4eb218d16",
+      "size": 80733,
+      "url": "https://resources.download.minecraft.net/5d/5d2155f6ba1d8f8627d953b4c88b41f4eb218d16"
     },
     "lang/pt_PT.lang": {
-      "hash": "8e2947a0ba5746f92ee99b35c76cfdcb5422eac9",
-      "size": 73464,
-      "url": "https://resources.download.minecraft.net/8e/8e2947a0ba5746f92ee99b35c76cfdcb5422eac9"
+      "hash": "59c70721f818007eca5593c2a3506f4c6cafa0ce",
+      "size": 81127,
+      "url": "https://resources.download.minecraft.net/59/59c70721f818007eca5593c2a3506f4c6cafa0ce"
     },
     "lang/qya_AA.lang": {
-      "hash": "ffd5b9945bd7ce1bd42c5163c498567dce26936b",
-      "size": 67956,
-      "url": "https://resources.download.minecraft.net/ff/ffd5b9945bd7ce1bd42c5163c498567dce26936b"
+      "hash": "e9812055ae812979954ced67ab02606294eb8284",
+      "size": 75655,
+      "url": "https://resources.download.minecraft.net/e9/e9812055ae812979954ced67ab02606294eb8284"
     },
     "lang/ro_RO.lang": {
-      "hash": "0d00418922109286950ce5c083620ed368e91fa2",
-      "size": 74228,
-      "url": "https://resources.download.minecraft.net/0d/0d00418922109286950ce5c083620ed368e91fa2"
+      "hash": "e0dac6a81a78c4984aeee5206d089aa4044421b1",
+      "size": 81958,
+      "url": "https://resources.download.minecraft.net/e0/e0dac6a81a78c4984aeee5206d089aa4044421b1"
     },
     "lang/ru_RU.lang": {
-      "hash": "d71c0c4e1fa5aab39c6987ad823fca41788fcace",
-      "size": 94443,
-      "url": "https://resources.download.minecraft.net/d7/d71c0c4e1fa5aab39c6987ad823fca41788fcace"
+      "hash": "3b2a8aa9abfeef2440e3f4162e5a8513b625e546",
+      "size": 105422,
+      "url": "https://resources.download.minecraft.net/3b/3b2a8aa9abfeef2440e3f4162e5a8513b625e546"
     },
     "lang/sk_SK.lang": {
-      "hash": "e4c551a5a6c98f3d2197cbd78510650c3dac09f7",
-      "size": 72420,
-      "url": "https://resources.download.minecraft.net/e4/e4c551a5a6c98f3d2197cbd78510650c3dac09f7"
+      "hash": "6d88e2ab99219fb819e53560e99384fd386fe434",
+      "size": 80321,
+      "url": "https://resources.download.minecraft.net/6d/6d88e2ab99219fb819e53560e99384fd386fe434"
     },
     "lang/sl_SI.lang": {
-      "hash": "51f2b2ceceaa197e2f5fa044d4b9925b5336c99a",
-      "size": 70252,
-      "url": "https://resources.download.minecraft.net/51/51f2b2ceceaa197e2f5fa044d4b9925b5336c99a"
+      "hash": "2d75ccde60b46609a781bc1b29dc6dff8314b55e",
+      "size": 78319,
+      "url": "https://resources.download.minecraft.net/2d/2d75ccde60b46609a781bc1b29dc6dff8314b55e"
     },
     "lang/sr_SP.lang": {
-      "hash": "1eac2aa97411edb07381a48270b6967426167822",
-      "size": 91649,
-      "url": "https://resources.download.minecraft.net/1e/1eac2aa97411edb07381a48270b6967426167822"
+      "hash": "fccb3958d7d6f75d4d8ac6bef525f6d619b7befc",
+      "size": 102760,
+      "url": "https://resources.download.minecraft.net/fc/fccb3958d7d6f75d4d8ac6bef525f6d619b7befc"
     },
     "lang/sv_SE.lang": {
-      "hash": "3d71568665e75dd18a29d7cd6956fd33fd61264c",
-      "size": 68882,
-      "url": "https://resources.download.minecraft.net/3d/3d71568665e75dd18a29d7cd6956fd33fd61264c"
+      "hash": "c977b03f48aa05080a5b5aef347ff4f492e3fb6f",
+      "size": 76614,
+      "url": "https://resources.download.minecraft.net/c9/c977b03f48aa05080a5b5aef347ff4f492e3fb6f"
     },
     "lang/th_TH.lang": {
-      "hash": "77cbba200747fa3ff91e7e129d77e3cfd14ce1b2",
-      "size": 108702,
-      "url": "https://resources.download.minecraft.net/77/77cbba200747fa3ff91e7e129d77e3cfd14ce1b2"
+      "hash": "f4714c97da9b21c01e6a2bbc7082baa1900f7a53",
+      "size": 119892,
+      "url": "https://resources.download.minecraft.net/f4/f4714c97da9b21c01e6a2bbc7082baa1900f7a53"
     },
     "lang/tlh_AA.lang": {
-      "hash": "99a11700f8db47a9c21446957d0d008c290f0fba",
-      "size": 68121,
-      "url": "https://resources.download.minecraft.net/99/99a11700f8db47a9c21446957d0d008c290f0fba"
+      "hash": "f620e40d017007fcf3a53924e138eb03bba1170f",
+      "size": 75785,
+      "url": "https://resources.download.minecraft.net/f6/f620e40d017007fcf3a53924e138eb03bba1170f"
     },
     "lang/tr_TR.lang": {
-      "hash": "f4278b00b147d59e7d063092de28b66e0ae19840",
-      "size": 71332,
-      "url": "https://resources.download.minecraft.net/f4/f4278b00b147d59e7d063092de28b66e0ae19840"
+      "hash": "933ef8c5bf4641efcd002037d1d4958a6da6c909",
+      "size": 79402,
+      "url": "https://resources.download.minecraft.net/93/933ef8c5bf4641efcd002037d1d4958a6da6c909"
     },
     "lang/uk_UA.lang": {
-      "hash": "746810af78cc4df2c5ba00f930c3adf87e9d8df5",
-      "size": 93995,
-      "url": "https://resources.download.minecraft.net/74/746810af78cc4df2c5ba00f930c3adf87e9d8df5"
+      "hash": "3f4f42340eb9397eed113fab665ad14cb64af180",
+      "size": 104956,
+      "url": "https://resources.download.minecraft.net/3f/3f4f42340eb9397eed113fab665ad14cb64af180"
+    },
+    "lang/val_ES.lang": {
+      "hash": "cb58b2d9f44e6386da142ab74b6d3a0665f7380d",
+      "size": 80880,
+      "url": "https://resources.download.minecraft.net/cb/cb58b2d9f44e6386da142ab74b6d3a0665f7380d"
     },
     "lang/vi_VN.lang": {
-      "hash": "bc1d3a4bec5fecc51c2590fe0bb13539f55d7b81",
-      "size": 80882,
-      "url": "https://resources.download.minecraft.net/bc/bc1d3a4bec5fecc51c2590fe0bb13539f55d7b81"
+      "hash": "30e9b49c7800e94c6912525921de97711231fa00",
+      "size": 90272,
+      "url": "https://resources.download.minecraft.net/30/30e9b49c7800e94c6912525921de97711231fa00"
     },
     "lang/zh_CN.lang": {
-      "hash": "3d9568b9a9b738312d379af6fc43ca290e3614bc",
-      "size": 66855,
-      "url": "https://resources.download.minecraft.net/3d/3d9568b9a9b738312d379af6fc43ca290e3614bc"
+      "hash": "d06c833ac58f3b7fc072993dcee5247ab42325d9",
+      "size": 74124,
+      "url": "https://resources.download.minecraft.net/d0/d06c833ac58f3b7fc072993dcee5247ab42325d9"
     },
     "lang/zh_TW.lang": {
-      "hash": "9dda510b86d4e0e12d44d228783e395ccce56fbc",
-      "size": 66916,
-      "url": "https://resources.download.minecraft.net/9d/9dda510b86d4e0e12d44d228783e395ccce56fbc"
+      "hash": "0dfe38259a242dd404d2cff46bfd5a123f5e36df",
+      "size": 74168,
+      "url": "https://resources.download.minecraft.net/0d/0dfe38259a242dd404d2cff46bfd5a123f5e36df"
     },
     "pack.mcmeta": {
-      "hash": "dcd58a2f57954ec5208601e957f0851e617d8a90",
-      "size": 9090,
-      "url": "https://resources.download.minecraft.net/dc/dcd58a2f57954ec5208601e957f0851e617d8a90"
+      "hash": "1ed42482a20f4dad56e8b42443f7bb43b0bf37f9",
+      "size": 9959,
+      "url": "https://resources.download.minecraft.net/1e/1ed42482a20f4dad56e8b42443f7bb43b0bf37f9"
     },
     "sounds.json": {
       "hash": "fce0bb3e14ade7b292a7c1d5fa785533d8106d82",
