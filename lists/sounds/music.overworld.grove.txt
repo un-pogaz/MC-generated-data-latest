@@ -1,9 +1,9 @@
-minecraft:music/game/minecraft
 minecraft:music/game/clark
-minecraft:music/game/sweden
 minecraft:music/game/comforting_memories
 minecraft:music/game/infinite_amethyst
 minecraft:music/game/key
-minecraft:music/game/oxygene
 minecraft:music/game/mice_on_venus
+minecraft:music/game/minecraft
+minecraft:music/game/oxygene
+minecraft:music/game/sweden
 minecraft:music/game/wending

@@ -1982,6 +1982,10 @@ minecraft:mob/armadillo/hurt2
 minecraft:mob/armadillo/hurt3
 minecraft:mob/armadillo/hurt4
 minecraft:mob/armadillo/hurt5
+minecraft:mob/armadillo/hurt_reduced1
+minecraft:mob/armadillo/hurt_reduced2
+minecraft:mob/armadillo/hurt_reduced3
+minecraft:mob/armadillo/hurt_reduced4
 minecraft:mob/armadillo/land1
 minecraft:mob/armadillo/land2
 minecraft:mob/armadillo/land3

@@ -6,24 +6,20 @@
       "volume": 0.4
     },
     {
+      "name": "music/game/danny",
+      "stream": true
+    },
+    {
       "name": "music/game/echo_in_the_wind",
       "stream": true,
       "volume": 0.4
-    },
-    {
-      "name": "music/game/subwoofer_lullaby",
-      "stream": true
-    },
-    {
-      "name": "music/game/living_mice",
-      "stream": true
     },
     {
       "name": "music/game/haggstrom",
       "stream": true
     },
     {
-      "name": "music/game/danny",
+      "name": "music/game/key",
       "stream": true
     },
     {
@@ -32,11 +28,15 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/key",
+      "name": "music/game/living_mice",
       "stream": true
     },
     {
       "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
       "stream": true
     }
   ]

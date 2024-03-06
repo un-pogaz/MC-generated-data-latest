@@ -1,7 +1,7 @@
 minecraft:music/game/an_ordinary_day
-minecraft:music/game/subwoofer_lullaby
 minecraft:music/game/danny
 minecraft:music/game/infinite_amethyst
 minecraft:music/game/key
 minecraft:music/game/oxygene
+minecraft:music/game/subwoofer_lullaby
 minecraft:music/game/wending
