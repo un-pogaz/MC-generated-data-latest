@@ -9,6 +9,7 @@ minecraft:kelp
 minecraft:mangrove_propagule
 minecraft:melon_stem
 minecraft:nether_wart
+minecraft:pitcher_crop
 minecraft:potatoes
 minecraft:pumpkin_stem
 minecraft:sugar_cane

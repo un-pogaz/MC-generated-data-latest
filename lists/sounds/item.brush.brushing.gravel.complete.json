@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "item/brush/brushing_gravel_complete1",
+    "item/brush/brushing_gravel_complete2",
+    "item/brush/brushing_gravel_complete3",
+    "item/brush/brushing_gravel_complete4"
+  ],
+  "subtitle": "subtitles.item.brush.brushing.gravel.complete"
+}
