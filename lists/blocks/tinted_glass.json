@@ -1,1 +1,6 @@
-{}
+{
+  "definition": {
+    "type": "minecraft:tinted_glass",
+    "properties": {}
+  }
+}
