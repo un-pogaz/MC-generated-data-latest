@@ -432,6 +432,7 @@ minecraft:block/grindstone_side
 minecraft:block/hanging_roots
 minecraft:block/hay_block_side
 minecraft:block/hay_block_top
+minecraft:block/heavy_core
 minecraft:block/honey_block_bottom
 minecraft:block/honey_block_side
 minecraft:block/honey_block_top
@@ -1018,10 +1019,12 @@ minecraft:entity/banner/diagonal_left
 minecraft:entity/banner/diagonal_right
 minecraft:entity/banner/diagonal_up_left
 minecraft:entity/banner/diagonal_up_right
+minecraft:entity/banner/flow
 minecraft:entity/banner/flower
 minecraft:entity/banner/globe
 minecraft:entity/banner/gradient
 minecraft:entity/banner/gradient_up
+minecraft:entity/banner/guster
 minecraft:entity/banner/half_horizontal
 minecraft:entity/banner/half_horizontal_bottom
 minecraft:entity/banner/half_vertical
@@ -1143,7 +1146,9 @@ minecraft:entity/decorated_pot/danger_pottery_pattern
 minecraft:entity/decorated_pot/decorated_pot_base
 minecraft:entity/decorated_pot/decorated_pot_side
 minecraft:entity/decorated_pot/explorer_pottery_pattern
+minecraft:entity/decorated_pot/flow_pottery_pattern
 minecraft:entity/decorated_pot/friend_pottery_pattern
+minecraft:entity/decorated_pot/guster_pottery_pattern
 minecraft:entity/decorated_pot/heart_pottery_pattern
 minecraft:entity/decorated_pot/heartbreak_pottery_pattern
 minecraft:entity/decorated_pot/howl_pottery_pattern
@@ -1151,6 +1156,7 @@ minecraft:entity/decorated_pot/miner_pottery_pattern
 minecraft:entity/decorated_pot/mourner_pottery_pattern
 minecraft:entity/decorated_pot/plenty_pottery_pattern
 minecraft:entity/decorated_pot/prize_pottery_pattern
+minecraft:entity/decorated_pot/scrape_pottery_pattern
 minecraft:entity/decorated_pot/sheaf_pottery_pattern
 minecraft:entity/decorated_pot/shelter_pottery_pattern
 minecraft:entity/decorated_pot/skull_pottery_pattern
@@ -1320,10 +1326,12 @@ minecraft:entity/shield/diagonal_left
 minecraft:entity/shield/diagonal_right
 minecraft:entity/shield/diagonal_up_left
 minecraft:entity/shield/diagonal_up_right
+minecraft:entity/shield/flow
 minecraft:entity/shield/flower
 minecraft:entity/shield/globe
 minecraft:entity/shield/gradient
 minecraft:entity/shield/gradient_up
+minecraft:entity/shield/guster
 minecraft:entity/shield/half_horizontal
 minecraft:entity/shield/half_horizontal_bottom
 minecraft:entity/shield/half_vertical
@@ -1573,6 +1581,10 @@ minecraft:gui/hanging_signs/oak
 minecraft:gui/hanging_signs/spruce
 minecraft:gui/hanging_signs/warped
 minecraft:gui/header_separator
+minecraft:gui/inworld_footer_separator
+minecraft:gui/inworld_header_separator
+minecraft:gui/inworld_menu_background
+minecraft:gui/inworld_menu_list_background
 minecraft:gui/menu_background
 minecraft:gui/menu_list_background
 minecraft:gui/presets/isles
@@ -1986,6 +1998,7 @@ minecraft:gui/sprites/world_list/marked_join
 minecraft:gui/sprites/world_list/marked_join_highlighted
 minecraft:gui/sprites/world_list/warning
 minecraft:gui/sprites/world_list/warning_highlighted
+minecraft:gui/tab_header_background
 minecraft:gui/title/background/panorama_0
 minecraft:gui/title/background/panorama_1
 minecraft:gui/title/background/panorama_2
@@ -2037,6 +2050,7 @@ minecraft:item/blaze_powder
 minecraft:item/blaze_rod
 minecraft:item/blue_candle
 minecraft:item/blue_dye
+minecraft:item/bolt_armor_trim_smithing_template
 minecraft:item/bone
 minecraft:item/bone_meal
 minecraft:item/book
@@ -2046,6 +2060,7 @@ minecraft:item/bow_pulling_1
 minecraft:item/bow_pulling_2
 minecraft:item/bowl
 minecraft:item/bread
+minecraft:item/breeze_rod
 minecraft:item/brewer_pottery_sherd
 minecraft:item/brewing_stand
 minecraft:item/brick
@@ -2267,6 +2282,9 @@ minecraft:item/fishing_rod
 minecraft:item/fishing_rod_cast
 minecraft:item/flint
 minecraft:item/flint_and_steel
+minecraft:item/flow_armor_trim_smithing_template
+minecraft:item/flow_banner_pattern
+minecraft:item/flow_pottery_sherd
 minecraft:item/flower_banner_pattern
 minecraft:item/flower_pot
 minecraft:item/friend_pottery_sherd
@@ -2299,6 +2317,8 @@ minecraft:item/gray_dye
 minecraft:item/green_candle
 minecraft:item/green_dye
 minecraft:item/gunpowder
+minecraft:item/guster_banner_pattern
+minecraft:item/guster_pottery_sherd
 minecraft:item/heart_of_the_sea
 minecraft:item/heart_pottery_sherd
 minecraft:item/heartbreak_pottery_sherd
@@ -2368,6 +2388,7 @@ minecraft:item/light_gray_dye
 minecraft:item/lime_candle
 minecraft:item/lime_dye
 minecraft:item/lingering_potion
+minecraft:item/mace
 minecraft:item/magenta_candle
 minecraft:item/magenta_dye
 minecraft:item/magma_cream
@@ -2506,6 +2527,7 @@ minecraft:item/rotten_flesh
 minecraft:item/saddle
 minecraft:item/salmon
 minecraft:item/salmon_bucket
+minecraft:item/scrape_pottery_sherd
 minecraft:item/sea_pickle
 minecraft:item/seagrass
 minecraft:item/sentry_armor_trim_smithing_template
@@ -2592,6 +2614,7 @@ minecraft:item/yellow_dye
 minecraft:map/map_background
 minecraft:map/map_background_checkerboard
 minecraft:map/map_icons
+minecraft:misc/credits_vignette  [mcmeta]
 minecraft:misc/enchanted_glint_entity
 minecraft:misc/enchanted_glint_item
 minecraft:misc/forcefield
@@ -2915,12 +2938,16 @@ minecraft:trims/items/boots_trim
 minecraft:trims/items/chestplate_trim
 minecraft:trims/items/helmet_trim
 minecraft:trims/items/leggings_trim
+minecraft:trims/models/armor/bolt
+minecraft:trims/models/armor/bolt_leggings
 minecraft:trims/models/armor/coast
 minecraft:trims/models/armor/coast_leggings
 minecraft:trims/models/armor/dune
 minecraft:trims/models/armor/dune_leggings
 minecraft:trims/models/armor/eye
 minecraft:trims/models/armor/eye_leggings
+minecraft:trims/models/armor/flow
+minecraft:trims/models/armor/flow_leggings
 minecraft:trims/models/armor/host
 minecraft:trims/models/armor/host_leggings
 minecraft:trims/models/armor/raiser

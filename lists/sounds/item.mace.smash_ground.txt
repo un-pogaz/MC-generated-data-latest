@@ -1,0 +1,4 @@
+minecraft:item/mace/smash_ground1
+minecraft:item/mace/smash_ground2
+minecraft:item/mace/smash_ground3
+minecraft:item/mace/smash_ground4

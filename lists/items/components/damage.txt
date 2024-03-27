@@ -40,6 +40,7 @@ minecraft:leather_boots
 minecraft:leather_chestplate
 minecraft:leather_helmet
 minecraft:leather_leggings
+minecraft:mace
 minecraft:netherite_axe
 minecraft:netherite_boots
 minecraft:netherite_chestplate

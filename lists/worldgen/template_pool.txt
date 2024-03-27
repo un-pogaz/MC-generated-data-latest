@@ -81,6 +81,8 @@ minecraft:trial_chambers/chamber/addon
 minecraft:trial_chambers/chamber/addon/c6
 minecraft:trial_chambers/chamber/end
 minecraft:trial_chambers/chamber/entrance_cap
+minecraft:trial_chambers/chamber/pedestal
+minecraft:trial_chambers/chamber/slanted
 minecraft:trial_chambers/chambers/end
 minecraft:trial_chambers/chests/contents/supply
 minecraft:trial_chambers/chests/supply
