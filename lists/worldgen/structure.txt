@@ -47,6 +47,7 @@ minecraft:village_taiga
 #minecraft:on_swamp_explorer_maps
 #minecraft:on_taiga_village_maps
 #minecraft:on_treasure_maps
+#minecraft:on_trial_chambers_maps
 #minecraft:on_woodland_explorer_maps
 #minecraft:ruined_portal
 #minecraft:shipwreck

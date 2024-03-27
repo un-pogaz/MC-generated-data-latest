@@ -1926,6 +1926,7 @@ minecraft:item/mace/smash_ground1
 minecraft:item/mace/smash_ground2
 minecraft:item/mace/smash_ground3
 minecraft:item/mace/smash_ground4
+minecraft:item/mace/smash_ground_heavy
 minecraft:item/plant/crop1
 minecraft:item/plant/crop2
 minecraft:item/plant/crop3
