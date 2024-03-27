@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/cobweb/break1",
+    "block/cobweb/break2",
+    "block/cobweb/break3",
+    "block/cobweb/break4",
+    "block/cobweb/break5",
+    "block/cobweb/break6"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

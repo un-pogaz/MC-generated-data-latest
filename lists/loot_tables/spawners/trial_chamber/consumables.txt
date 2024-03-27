@@ -1,7 +1,6 @@
-minecraft:emerald
-minecraft:golden_carrot
+minecraft:cooked_chicken
+minecraft:bread
 minecraft:baked_potato
-minecraft:glow_berries
-minecraft:ender_pearl
 minecraft:potion
 minecraft:potion
+minecraft:rotten_flesh
