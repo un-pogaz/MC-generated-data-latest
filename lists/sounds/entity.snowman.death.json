@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/snowman/death1",
+    "entity/snowman/death2",
+    "entity/snowman/death3"
+  ],
+  "subtitle": "subtitles.entity.snowman.death"
+}

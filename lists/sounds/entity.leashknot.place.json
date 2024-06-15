@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/leashknot/place1",
+    "entity/leashknot/place2",
+    "entity/leashknot/place3"
+  ],
+  "subtitle": "subtitles.entity.leashknot.place"
+}

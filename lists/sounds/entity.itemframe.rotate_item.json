@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/itemframe/rotate_item1",
+    "entity/itemframe/rotate_item2",
+    "entity/itemframe/rotate_item3",
+    "entity/itemframe/rotate_item4"
+  ],
+  "subtitle": "subtitles.entity.itemframe.rotate_item"
+}

@@ -1,0 +1,3 @@
+minecraft:item/bucket/fill1
+minecraft:item/bucket/fill2
+minecraft:item/bucket/fill3

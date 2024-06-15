@@ -1,6 +1,6 @@
 {
-  "category": "block",
   "sounds": [
     "mob/ghast/fireball4"
-  ]
+  ],
+  "subtitle": "subtitles.item.firecharge.use"
 }

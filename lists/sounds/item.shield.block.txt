@@ -1,0 +1,5 @@
+minecraft:item/shield/block1
+minecraft:item/shield/block2
+minecraft:item/shield/block3
+minecraft:item/shield/block4
+minecraft:item/shield/block5
