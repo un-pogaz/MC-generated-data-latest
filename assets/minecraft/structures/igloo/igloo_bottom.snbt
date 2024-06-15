@@ -1264,7 +1264,7 @@
           ]
         },
         Riches: 15,
-        id: "Villager",
+        id: "minecraft:villager",
         CareerLevel: 1,
         Career: 1,
         ArmorItems: [
@@ -1353,14 +1353,13 @@
         ],
         UUIDLeast: -6631449421406796428L,
         Motion: [0.0d, -0.0784000015258789d, 0.0d],
-        IsVillager: 1b,
         Health: 19.049999237060547f,
         HandItems: [
           {},
           {}
         ],
-        VillagerProfession: 2,
-        id: "Zombie",
+        Profession: 2,
+        id: "minecraft:zombie_villager",
         ArmorItems: [
           {},
           {},
