@@ -1,0 +1,4 @@
+minecraft:mob/polarbear/warning3
+minecraft:mob/polarbear/warning1
+minecraft:mob/polarbear/warning2
+minecraft:mob/polarbear/warning3
