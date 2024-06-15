@@ -5,9 +5,10 @@
                 "min": 1,
                 "max": 4
             },
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:iron_ingot",
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
                     "functions": [
                         {
                             "function": "set_count",
@@ -20,7 +21,8 @@
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:gold_ingot",
+                    "type": "item",
+                    "name": "minecraft:gold_ingot",
                     "functions": [
                         {
                             "function": "set_count",
@@ -33,7 +35,8 @@
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:redstone",
+                    "type": "item",
+                    "name": "minecraft:redstone",
                     "functions": [
                         {
                             "function": "set_count",
@@ -46,7 +49,8 @@
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:coal",
+                    "type": "item",
+                    "name": "minecraft:coal",
                     "functions": [
                         {
                             "function": "set_count",
@@ -59,7 +63,8 @@
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:bread",
+                    "type": "item",
+                    "name": "minecraft:bread",
                     "functions": [
                         {
                             "function": "set_count",
@@ -72,7 +77,8 @@
                     "weight": 15
                 },
                 {
-                    "item": "minecraft:apple",
+                    "type": "item",
+                    "name": "minecraft:apple",
                     "functions": [
                         {
                             "function": "set_count",
@@ -85,11 +91,13 @@
                     "weight": 15
                 },
                 {
-                    "item": "minecraft:iron_pickaxe",
+                    "type": "item",
+                    "name": "minecraft:iron_pickaxe",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:book",
+                    "type": "item",
+                    "name": "minecraft:book",
                     "weight": 1,
                     "functions": [
                         {

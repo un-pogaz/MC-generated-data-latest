@@ -2,16 +2,17 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:coal",
+                    "type": "item",
+                    "name": "minecraft:coal",
                     "weight": 1,
                     "functions": [
                         {
                             "function": "set_count",
                             "count": {
-                                "min": 0,
-                                "max": 2
+                                "min": -1,
+                                "max": 1
                             }
                         },
                         {
@@ -27,9 +28,10 @@
         },
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:bone",
+                    "type": "item",
+                    "name": "minecraft:bone",
                     "weight": 1,
                     "functions": [
                         {
@@ -62,9 +64,10 @@
                 }
             ],
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:skull",
+                    "type": "item",
+                    "name": "minecraft:skull",
                     "weight": 1,
                     "functions": [
                         {

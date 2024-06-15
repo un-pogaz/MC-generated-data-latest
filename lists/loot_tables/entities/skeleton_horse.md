@@ -1,0 +1,4 @@
+| Name           | Count | Chance | Weight | Comment |
+| -------------- | ----- | ------ | ------ | ------- |
+| 1 time         |    -- |     -- |     -- |         |
+| minecraft:bone |     1 |   100% |      1 |         |

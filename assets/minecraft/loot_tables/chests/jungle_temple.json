@@ -5,9 +5,10 @@
                 "min": 2,
                 "max": 6
             },
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:diamond",
+                    "type": "item",
+                    "name": "minecraft:diamond",
                     "functions": [
                         {
                             "function": "set_count",
@@ -20,7 +21,8 @@
                     "weight": 3
                 },
                 {
-                    "item": "minecraft:iron_ingot",
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
                     "functions": [
                         {
                             "function": "set_count",
@@ -33,7 +35,8 @@
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:gold_ingot",
+                    "type": "item",
+                    "name": "minecraft:gold_ingot",
                     "functions": [
                         {
                             "function": "set_count",
@@ -46,7 +49,8 @@
                     "weight": 15
                 },
                 {
-                    "item": "minecraft:emerald",
+                    "type": "item",
+                    "name": "minecraft:emerald",
                     "functions": [
                         {
                             "function": "set_count",
@@ -59,7 +63,8 @@
                     "weight": 2
                 },
                 {
-                    "item": "minecraft:bone",
+                    "type": "item",
+                    "name": "minecraft:bone",
                     "functions": [
                         {
                             "function": "set_count",
@@ -72,7 +77,8 @@
                     "weight": 20
                 },
                 {
-                    "item": "minecraft:rotten_flesh",
+                    "type": "item",
+                    "name": "minecraft:rotten_flesh",
                     "functions": [
                         {
                             "function": "set_count",
@@ -85,23 +91,28 @@
                     "weight": 16
                 },
                 {
-                    "item": "minecraft:saddle",
+                    "type": "item",
+                    "name": "minecraft:saddle",
                     "weight": 3
                 },
                 {
-                    "item": "minecraft:iron_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:iron_horse_armor",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:golden_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:golden_horse_armor",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:diamond_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:diamond_horse_armor",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:book",
+                    "type": "item",
+                    "name": "minecraft:book",
                     "weight": 1,
                     "functions": [
                         {

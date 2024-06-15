@@ -5,9 +5,10 @@
                 "min": 2,
                 "max": 8
             },
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:apple",
+                    "type": "item",
+                    "name": "minecraft:apple",
                     "weight": 15,
                     "functions": [
                         {
@@ -20,7 +21,8 @@
                     ]
                 },
                 {
-                    "item": "minecraft:coal",
+                    "type": "item",
+                    "name": "minecraft:coal",
                     "weight": 15,
                     "functions": [
                         {
@@ -33,7 +35,8 @@
                     ]
                 },
                 {
-                    "item": "minecraft:gold_nugget",
+                    "type": "item",
+                    "name": "minecraft:gold_nugget",
                     "weight": 10,
                     "functions": [
                         {
@@ -46,19 +49,23 @@
                     ]
                 },
                 {
-                    "item": "minecraft:stone_axe",
+                    "type": "item",
+                    "name": "minecraft:stone_axe",
                     "weight": 2
                 },
                 {
-                    "item": "minecraft:rotten_flesh",
+                    "type": "item",
+                    "name": "minecraft:rotten_flesh",
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:emerald",
+                    "type": "item",
+                    "name": "minecraft:emerald",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:wheat",
+                    "type": "item",
+                    "name": "minecraft:wheat",
                     "weight": 10,
                     "functions": [
                         {
@@ -74,9 +81,10 @@
         },
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:golden_apple",
+                    "type": "item",
+                    "name": "minecraft:golden_apple",
                     "weight": 1
                 }
             ]
