@@ -1,0 +1,11 @@
+minecraft:diamond
+minecraft:iron_ingot
+minecraft:gold_ingot
+minecraft:emerald
+minecraft:bone
+minecraft:rotten_flesh
+minecraft:saddle
+minecraft:iron_horse_armor
+minecraft:golden_horse_armor
+minecraft:diamond_horse_armor
+minecraft:enchanted_book

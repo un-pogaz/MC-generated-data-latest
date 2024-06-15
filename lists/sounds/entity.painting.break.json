@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/painting/break1",
+    "entity/painting/break2",
+    "entity/painting/break3"
+  ],
+  "subtitle": "subtitles.entity.painting.break"
+}

@@ -1,0 +1,5 @@
+minecraft:entity/squid/ambient1
+minecraft:entity/squid/ambient2
+minecraft:entity/squid/ambient3
+minecraft:entity/squid/ambient4
+minecraft:entity/squid/ambient5
