@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/cow/say1",
-    "mob/cow/say2",
-    "mob/cow/say3",
-    "mob/cow/say4"
-  ],
-  "subtitle": "subtitles.entity.cow.ambient"
-}

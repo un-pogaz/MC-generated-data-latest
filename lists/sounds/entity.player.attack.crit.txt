@@ -1,3 +1,0 @@
-minecraft:entity/player/attack/crit1
-minecraft:entity/player/attack/crit2
-minecraft:entity/player/attack/crit3

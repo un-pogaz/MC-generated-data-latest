@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "item/bucket/fill_lava1",
-    "item/bucket/fill_lava2",
-    "item/bucket/fill_lava3"
-  ],
-  "subtitle": "subtitles.item.bucket.fill"
-}

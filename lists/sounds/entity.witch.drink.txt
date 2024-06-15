@@ -1,4 +1,0 @@
-minecraft:entity/witch/drink1
-minecraft:entity/witch/drink2
-minecraft:entity/witch/drink3
-minecraft:entity/witch/drink4

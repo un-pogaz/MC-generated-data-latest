@@ -1,3 +1,0 @@
-minecraft:red_flower
-
-minecraft:iron_ingot

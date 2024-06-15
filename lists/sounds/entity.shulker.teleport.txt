@@ -1,2 +1,0 @@
-minecraft:mob/endermen/portal
-minecraft:mob/endermen/portal2
