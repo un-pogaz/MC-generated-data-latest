@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/vex/idle1",
+    "mob/vex/idle2",
+    "mob/vex/idle3",
+    "mob/vex/idle4"
+  ],
+  "subtitle": "subtitles.entity.vex.ambient"
+}

@@ -1,0 +1,5 @@
+minecraft:mob/llama/step1
+minecraft:mob/llama/step2
+minecraft:mob/llama/step3
+minecraft:mob/llama/step4
+minecraft:mob/llama/step5

@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/llama/step1",
+    "mob/llama/step2",
+    "mob/llama/step3",
+    "mob/llama/step4",
+    "mob/llama/step5"
+  ],
+  "subtitle": "subtitles.entity.llama.step"
+}

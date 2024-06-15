@@ -1,7 +1,7 @@
 {
   "sounds": [
-    "mob/zombie/hurt1",
-    "mob/zombie/hurt2"
+    "mob/zombie_villager/hurt1",
+    "mob/zombie_villager/hurt2"
   ],
-  "subtitle": "subtitles.entity.zombie.hurt"
+  "subtitle": "subtitles.entity.zombie_villager.hurt"
 }

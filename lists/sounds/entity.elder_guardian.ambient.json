@@ -5,5 +5,5 @@
     "mob/guardian/elder_idle3",
     "mob/guardian/elder_idle4"
   ],
-  "subtitle": "subtitles.entity.guardian.ambient"
+  "subtitle": "subtitles.entity.elder_guardian.ambient"
 }

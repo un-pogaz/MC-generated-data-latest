@@ -1,8 +1,8 @@
 {
   "sounds": [
-    "mob/skeleton/say1",
-    "mob/skeleton/say2",
-    "mob/skeleton/say3"
+    "mob/wither_skeleton/idle1",
+    "mob/wither_skeleton/idle2",
+    "mob/wither_skeleton/idle3"
   ],
   "subtitle": "subtitles.entity.wither_skeleton.ambient"
 }
