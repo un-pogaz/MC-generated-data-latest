@@ -1,4 +1,5 @@
 {
+  "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
       "minecraft:magenta_bed_from_white_bed"
