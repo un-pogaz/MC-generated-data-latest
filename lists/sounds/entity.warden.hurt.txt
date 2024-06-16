@@ -1,0 +1,4 @@
+minecraft:mob/warden/hurt_1
+minecraft:mob/warden/hurt_2
+minecraft:mob/warden/hurt_3
+minecraft:mob/warden/hurt_4

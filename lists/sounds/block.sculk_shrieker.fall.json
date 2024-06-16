@@ -1,28 +1,10 @@
 {
   "sounds": [
-    {
-      "name": "block/sculk/step1",
-      "volume": 1
-    },
-    {
-      "name": "block/sculk/step2",
-      "volume": 1
-    },
-    {
-      "name": "block/sculk/step3",
-      "volume": 1
-    },
-    {
-      "name": "block/sculk/step4",
-      "volume": 1
-    },
-    {
-      "name": "block/sculk/step5",
-      "volume": 1
-    },
-    {
-      "name": "block/sculk/step6",
-      "volume": 1
-    }
+    "block/sculk/step1",
+    "block/sculk/step2",
+    "block/sculk/step3",
+    "block/sculk/step4",
+    "block/sculk/step5",
+    "block/sculk/step6"
   ]
 }

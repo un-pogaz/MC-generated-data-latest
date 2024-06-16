@@ -1,0 +1,6 @@
+minecraft:mob/warden/tendril_clicks_1
+minecraft:mob/warden/tendril_clicks_2
+minecraft:mob/warden/tendril_clicks_3
+minecraft:mob/warden/tendril_clicks_4
+minecraft:mob/warden/tendril_clicks_5
+minecraft:mob/warden/tendril_clicks_6
