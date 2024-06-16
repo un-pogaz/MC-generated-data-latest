@@ -7366,6 +7366,9 @@
       Name: "minecraft:lantern"
     },
     {
+      Properties: {
+        waterlogged: "false"
+      },
       Name: "minecraft:chain"
     },
     {
@@ -7375,5 +7378,5 @@
       Name: "minecraft:lava"
     }
   ],
-  DataVersion: 2529
+  DataVersion: 2532
 }
