@@ -8,6 +8,9 @@ minecraft:barrel
 minecraft:birch_door
 minecraft:birch_fence_gate
 minecraft:birch_trapdoor
+minecraft:cherry_door
+minecraft:cherry_fence_gate
+minecraft:cherry_trapdoor
 minecraft:crimson_door
 minecraft:crimson_fence_gate
 minecraft:crimson_trapdoor

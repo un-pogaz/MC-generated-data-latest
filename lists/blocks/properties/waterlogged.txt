@@ -55,6 +55,15 @@ minecraft:bubble_coral_wall_fan
 minecraft:campfire
 minecraft:candle
 minecraft:chain
+minecraft:cherry_fence
+minecraft:cherry_hanging_sign
+minecraft:cherry_leaves
+minecraft:cherry_sign
+minecraft:cherry_slab
+minecraft:cherry_stairs
+minecraft:cherry_trapdoor
+minecraft:cherry_wall_hanging_sign
+minecraft:cherry_wall_sign
 minecraft:chest
 minecraft:cobbled_deepslate_slab
 minecraft:cobbled_deepslate_stairs
@@ -103,6 +112,7 @@ minecraft:dead_horn_coral_wall_fan
 minecraft:dead_tube_coral
 minecraft:dead_tube_coral_fan
 minecraft:dead_tube_coral_wall_fan
+minecraft:decorated_pot
 minecraft:deepslate_brick_slab
 minecraft:deepslate_brick_stairs
 minecraft:deepslate_brick_wall

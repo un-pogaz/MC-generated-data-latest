@@ -1,6 +1,7 @@
 minecraft:acacia_hanging_sign
 minecraft:bamboo_hanging_sign
 minecraft:birch_hanging_sign
+minecraft:cherry_hanging_sign
 minecraft:crimson_hanging_sign
 minecraft:dark_oak_hanging_sign
 minecraft:jungle_hanging_sign

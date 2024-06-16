@@ -1,6 +1,7 @@
 minecraft:acacia_button
 minecraft:bamboo_button
 minecraft:birch_button
+minecraft:cherry_button
 minecraft:crimson_button
 minecraft:dark_oak_button
 minecraft:grindstone

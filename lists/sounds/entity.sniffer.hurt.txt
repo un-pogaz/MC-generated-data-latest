@@ -1,0 +1,3 @@
+minecraft:mob/sniffer/hurt1
+minecraft:mob/sniffer/hurt2
+minecraft:mob/sniffer/hurt3

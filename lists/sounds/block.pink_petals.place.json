@@ -1,0 +1,30 @@
+{
+  "sounds": [
+    {
+      "name": "block/cherry_leaves/break1",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/break2",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/break3",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/break4",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/break5",
+      "pitch": 1.2,
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

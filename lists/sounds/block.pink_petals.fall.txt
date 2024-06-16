@@ -1,0 +1,5 @@
+minecraft:block/cherry_leaves/step1
+minecraft:block/cherry_leaves/step2
+minecraft:block/cherry_leaves/step3
+minecraft:block/cherry_leaves/step4
+minecraft:block/cherry_leaves/step5

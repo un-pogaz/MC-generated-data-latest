@@ -1,0 +1,5 @@
+minecraft:mob/sniffer/happy1
+minecraft:mob/sniffer/happy2
+minecraft:mob/sniffer/happy3
+minecraft:mob/sniffer/happy4
+minecraft:mob/sniffer/happy5

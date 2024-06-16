@@ -1,0 +1,3 @@
+minecraft:mob/sniffer/sniffing1
+minecraft:mob/sniffer/sniffing2
+minecraft:mob/sniffer/sniffing3

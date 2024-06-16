@@ -1,0 +1,3 @@
+minecraft:block/cherrywood_fence_gate/toggle1
+minecraft:block/cherrywood_fence_gate/toggle2
+minecraft:block/cherrywood_fence_gate/toggle3

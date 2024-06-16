@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/cherrywood_fence_gate/toggle1",
+    "block/cherrywood_fence_gate/toggle2",
+    "block/cherrywood_fence_gate/toggle3"
+  ],
+  "subtitle": "subtitles.block.fence_gate.toggle"
+}

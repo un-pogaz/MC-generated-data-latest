@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/cherry_wood_hanging_sign/break1",
+    "block/cherry_wood_hanging_sign/break2",
+    "block/cherry_wood_hanging_sign/break3",
+    "block/cherry_wood_hanging_sign/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

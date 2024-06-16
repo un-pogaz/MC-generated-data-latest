@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/cherry_leaves/step1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/step2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/step3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/step4",
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/step5",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

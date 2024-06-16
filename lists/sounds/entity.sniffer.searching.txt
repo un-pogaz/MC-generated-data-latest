@@ -1,0 +1,12 @@
+minecraft:mob/sniffer/searching1
+minecraft:mob/sniffer/searching1
+minecraft:mob/sniffer/searching2
+minecraft:mob/sniffer/searching2
+minecraft:mob/sniffer/searching3
+minecraft:mob/sniffer/searching3
+minecraft:mob/sniffer/searching4
+minecraft:mob/sniffer/searching4
+minecraft:mob/sniffer/searching5
+minecraft:mob/sniffer/searching5
+minecraft:mob/sniffer/searching6
+minecraft:mob/sniffer/searching6
