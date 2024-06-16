@@ -1,0 +1,2 @@
+minecraft:bamboo_jungle
+minecraft:jungle
