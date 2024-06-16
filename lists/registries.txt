@@ -15,6 +15,7 @@ minecraft:dimension_type
 minecraft:enchantment
 minecraft:entity_type
 minecraft:feature
+minecraft:feature_size_type
 minecraft:fluid
 minecraft:foliage_placer_type
 minecraft:item
