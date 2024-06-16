@@ -624,6 +624,7 @@ minecraft:entity/llama/spit
 minecraft:entity/minecart
 minecraft:entity/parrot/parrot_blue
 minecraft:entity/parrot/parrot_green
+minecraft:entity/parrot/parrot_grey
 minecraft:entity/parrot/parrot_red_blue
 minecraft:entity/parrot/parrot_yellow_blue
 minecraft:entity/pig/pig
