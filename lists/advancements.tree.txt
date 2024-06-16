@@ -34,6 +34,7 @@ husbandry/root
 │ └>husbandry/balanced_diet
 │ └>husbandry/break_diamond_hoe
 └>husbandry/tame_an_animal
+  └>husbandry/complete_catalogue
 
 nether/root
 └>nether/fast_travel

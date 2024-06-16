@@ -1,0 +1,6 @@
+facing=north  [default]
+facing=east
+facing=south
+facing=west
+facing=up
+facing=down
