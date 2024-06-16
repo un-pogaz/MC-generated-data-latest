@@ -2284,6 +2284,7 @@ minecraft:item/diorite_stairs
 minecraft:item/diorite_wall
 minecraft:item/dirt
 minecraft:item/dirt_path
+minecraft:item/disc_fragment_5
 minecraft:item/dispenser
 minecraft:item/dolphin_spawn_egg
 minecraft:item/donkey_spawn_egg
@@ -2629,6 +2630,7 @@ minecraft:item/mushroom_stem
 minecraft:item/mushroom_stew
 minecraft:item/music_disc_11
 minecraft:item/music_disc_13
+minecraft:item/music_disc_5
 minecraft:item/music_disc_blocks
 minecraft:item/music_disc_cat
 minecraft:item/music_disc_chirp

@@ -1776,6 +1776,7 @@ minecraft:item/diamond_leggings
 minecraft:item/diamond_pickaxe
 minecraft:item/diamond_shovel
 minecraft:item/diamond_sword
+minecraft:item/disc_fragment_5
 minecraft:item/dragon_breath
 minecraft:item/dried_kelp
 minecraft:item/echo_shard
@@ -1915,6 +1916,7 @@ minecraft:item/mojang_banner_pattern
 minecraft:item/mushroom_stew
 minecraft:item/music_disc_11
 minecraft:item/music_disc_13
+minecraft:item/music_disc_5
 minecraft:item/music_disc_blocks
 minecraft:item/music_disc_cat
 minecraft:item/music_disc_chirp
@@ -2154,7 +2156,9 @@ minecraft:painting/bust
 minecraft:painting/courbet
 minecraft:painting/creebet
 minecraft:painting/donkey_kong
+minecraft:painting/earth
 minecraft:painting/fighters
+minecraft:painting/fire
 minecraft:painting/graham
 minecraft:painting/kebab
 minecraft:painting/match
@@ -2170,6 +2174,8 @@ minecraft:painting/sunset
 minecraft:painting/void
 minecraft:painting/wanderer
 minecraft:painting/wasteland
+minecraft:painting/water
+minecraft:painting/wind
 minecraft:painting/wither
 minecraft:particle/angry
 minecraft:particle/big_smoke_0
