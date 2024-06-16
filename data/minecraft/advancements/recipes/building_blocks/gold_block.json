@@ -2,7 +2,7 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:gold_ingot_from_block",
+      "minecraft:gold_ingot_from_gold_block",
       "minecraft:gold_block"
     ]
   },
