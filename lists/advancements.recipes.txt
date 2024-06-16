@@ -1038,6 +1038,7 @@ minecraft:recipes/tools/netherite_axe_smithing
 minecraft:recipes/tools/netherite_hoe_smithing
 minecraft:recipes/tools/netherite_pickaxe_smithing
 minecraft:recipes/tools/netherite_shovel_smithing
+minecraft:recipes/tools/recovery_compass
 minecraft:recipes/tools/shears
 minecraft:recipes/tools/spyglass
 minecraft:recipes/tools/stone_axe
