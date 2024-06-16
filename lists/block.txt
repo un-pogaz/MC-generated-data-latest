@@ -727,6 +727,7 @@ minecraft:zombie_wall_head
 #minecraft:anvil
 #minecraft:bamboo_plantable_on
 #minecraft:banners
+#minecraft:beacon_base_blocks
 #minecraft:beds
 #minecraft:bee_growables
 #minecraft:beehives
@@ -771,11 +772,13 @@ minecraft:zombie_wall_head
 #minecraft:underwater_bonemeals
 #minecraft:valid_spawn
 #minecraft:wall_corals
+#minecraft:wall_post_override
 #minecraft:wall_signs
 #minecraft:walls
 #minecraft:warped_stems
 #minecraft:wart_blocks
 #minecraft:wither_immune
+#minecraft:wither_summon_base_blocks
 #minecraft:wooden_buttons
 #minecraft:wooden_doors
 #minecraft:wooden_fences
