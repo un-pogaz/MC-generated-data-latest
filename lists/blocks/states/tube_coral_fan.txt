@@ -1,4 +1,2 @@
-facing=north  [default]
-facing=south
-facing=west
-facing=east
+waterlogged=true  [default]
+waterlogged=false

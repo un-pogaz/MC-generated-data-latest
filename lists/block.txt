@@ -67,6 +67,7 @@ minecraft:bookshelf
 minecraft:brain_coral
 minecraft:brain_coral_block
 minecraft:brain_coral_fan
+minecraft:brain_coral_wall_fan
 minecraft:brewing_stand
 minecraft:brick_slab
 minecraft:brick_stairs
@@ -89,6 +90,7 @@ minecraft:bubble_column
 minecraft:bubble_coral
 minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
+minecraft:bubble_coral_wall_fan
 minecraft:cactus
 minecraft:cake
 minecraft:carrots
@@ -155,11 +157,21 @@ minecraft:dark_prismarine_slab
 minecraft:dark_prismarine_stairs
 minecraft:daylight_detector
 minecraft:dead_brain_coral_block
+minecraft:dead_brain_coral_fan
+minecraft:dead_brain_coral_wall_fan
 minecraft:dead_bubble_coral_block
+minecraft:dead_bubble_coral_fan
+minecraft:dead_bubble_coral_wall_fan
 minecraft:dead_bush
 minecraft:dead_fire_coral_block
+minecraft:dead_fire_coral_fan
+minecraft:dead_fire_coral_wall_fan
 minecraft:dead_horn_coral_block
+minecraft:dead_horn_coral_fan
+minecraft:dead_horn_coral_wall_fan
 minecraft:dead_tube_coral_block
+minecraft:dead_tube_coral_fan
+minecraft:dead_tube_coral_wall_fan
 minecraft:detector_rail
 minecraft:diamond_block
 minecraft:diamond_ore
@@ -187,6 +199,7 @@ minecraft:fire
 minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
+minecraft:fire_coral_wall_fan
 minecraft:flower_pot
 minecraft:frosted_ice
 minecraft:furnace
@@ -230,6 +243,7 @@ minecraft:hopper
 minecraft:horn_coral
 minecraft:horn_coral_block
 minecraft:horn_coral_fan
+minecraft:horn_coral_wall_fan
 minecraft:ice
 minecraft:infested_chiseled_stone_bricks
 minecraft:infested_cobblestone
@@ -539,6 +553,7 @@ minecraft:tripwire_hook
 minecraft:tube_coral
 minecraft:tube_coral_block
 minecraft:tube_coral_fan
+minecraft:tube_coral_wall_fan
 minecraft:turtle_egg
 minecraft:vine
 minecraft:void_air
