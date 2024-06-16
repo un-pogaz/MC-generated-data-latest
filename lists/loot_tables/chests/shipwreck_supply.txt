@@ -1,0 +1,14 @@
+minecraft:paper
+minecraft:potato
+minecraft:poisonous_potato
+minecraft:carrot
+minecraft:wheat
+minecraft:coal
+minecraft:rotten_flesh
+minecraft:pumpkin
+minecraft:gunpowder
+minecraft:tnt
+minecraft:leather_helmet
+minecraft:leather_chestplate
+minecraft:leather_leggings
+minecraft:leather_boots
