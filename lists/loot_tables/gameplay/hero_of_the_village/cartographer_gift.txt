@@ -1,0 +1,2 @@
+minecraft:map
+minecraft:paper

@@ -1,0 +1,7 @@
+| Name                           | Count | Chance | Weight | Comment |
+| ------------------------------ | ----- | ------ | ------ | ------- |
+| 1 time                         |    -- |     -- |     -- |         |
+| minecraft:chainmail_helmet     |     1 |    25% |    1/4 |         |
+| minecraft:chainmail_chestplate |     1 |    25% |    1/4 |         |
+| minecraft:chainmail_leggings   |     1 |    25% |    1/4 |         |
+| minecraft:chainmail_boots      |     1 |    25% |    1/4 |         |
