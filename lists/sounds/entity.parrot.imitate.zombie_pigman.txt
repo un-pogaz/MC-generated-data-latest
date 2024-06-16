@@ -1,1 +1,1 @@
-minecraft:entity.zombie_pig.ambient
+minecraft:entity.zombie_pigman.ambient

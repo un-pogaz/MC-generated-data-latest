@@ -1,0 +1,3 @@
+minecraft:block/bubble_column/bubble1
+minecraft:block/bubble_column/bubble2
+minecraft:block/bubble_column/bubble3

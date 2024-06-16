@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "block/bubble_column/bubble1",
+      "volume": 0.1
+    },
+    {
+      "name": "block/bubble_column/bubble2",
+      "volume": 0.1
+    },
+    {
+      "name": "block/bubble_column/bubble3",
+      "volume": 0.1
+    }
+  ],
+  "subtitle": "subtitles.block.bubble_column.bubble_pop"
+}

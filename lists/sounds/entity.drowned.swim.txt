@@ -1,0 +1,5 @@
+minecraft:liquid/swim1
+minecraft:liquid/swim2
+minecraft:liquid/swim3
+minecraft:liquid/swim4
+minecraft:liquid/swim5
