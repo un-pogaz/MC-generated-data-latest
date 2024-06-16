@@ -1,0 +1,7 @@
+minecraft:cyan_banner
+minecraft:cyan_bed
+minecraft:cyan_carpet
+minecraft:cyan_shulker_box
+minecraft:cyan_stained_glass
+minecraft:cyan_stained_glass_pane
+minecraft:cyan_wall_banner

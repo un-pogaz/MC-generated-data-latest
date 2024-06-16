@@ -1,0 +1,4 @@
+minecraft:jungle_button
+minecraft:jungle_door
+minecraft:jungle_pressure_plate
+minecraft:jungle_trapdoor

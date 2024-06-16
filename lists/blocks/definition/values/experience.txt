@@ -1,0 +1,16 @@
+minecraft:coal_ore  = 0..2
+minecraft:copper_ore  = 0
+minecraft:deepslate_coal_ore  = 0..2
+minecraft:deepslate_copper_ore  = 0
+minecraft:deepslate_diamond_ore  = 3..7
+minecraft:deepslate_emerald_ore  = 3..7
+minecraft:deepslate_gold_ore  = 0
+minecraft:deepslate_iron_ore  = 0
+minecraft:deepslate_lapis_ore  = 2..5
+minecraft:diamond_ore  = 3..7
+minecraft:emerald_ore  = 3..7
+minecraft:gold_ore  = 0
+minecraft:iron_ore  = 0
+minecraft:lapis_ore  = 2..5
+minecraft:nether_gold_ore  = 0..1
+minecraft:nether_quartz_ore  = 2..5

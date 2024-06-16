@@ -3,3 +3,4 @@ minecraft:leather_chestplate
 minecraft:leather_leggings
 minecraft:leather_boots
 minecraft:leather_horse_armor
+minecraft:wolf_armor

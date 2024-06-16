@@ -11,6 +11,7 @@ minecraft:chunk_status
 minecraft:command_argument_type
 minecraft:creative_mode_tab
 minecraft:custom_stat
+minecraft:data_component_type
 minecraft:decorated_pot_patterns
 minecraft:enchantment
 minecraft:entity_type

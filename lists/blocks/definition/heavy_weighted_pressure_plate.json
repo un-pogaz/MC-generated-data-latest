@@ -1,0 +1,6 @@
+{
+  "block_set_type": "iron",
+  "max_weight": 150,
+  "properties": {},
+  "type": "minecraft:weighted_pressure_plate"
+}

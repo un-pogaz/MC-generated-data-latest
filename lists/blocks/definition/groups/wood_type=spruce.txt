@@ -1,0 +1,5 @@
+minecraft:spruce_fence_gate
+minecraft:spruce_hanging_sign
+minecraft:spruce_sign
+minecraft:spruce_wall_hanging_sign
+minecraft:spruce_wall_sign

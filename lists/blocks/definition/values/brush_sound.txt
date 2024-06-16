@@ -1,0 +1,2 @@
+minecraft:suspicious_gravel  = minecraft:item.brush.brushing.gravel
+minecraft:suspicious_sand  = minecraft:item.brush.brushing.sand

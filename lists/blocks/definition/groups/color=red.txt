@@ -1,0 +1,7 @@
+minecraft:red_banner
+minecraft:red_bed
+minecraft:red_carpet
+minecraft:red_shulker_box
+minecraft:red_stained_glass
+minecraft:red_stained_glass_pane
+minecraft:red_wall_banner

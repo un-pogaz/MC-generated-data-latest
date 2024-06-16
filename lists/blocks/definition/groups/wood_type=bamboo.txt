@@ -1,0 +1,5 @@
+minecraft:bamboo_fence_gate
+minecraft:bamboo_hanging_sign
+minecraft:bamboo_sign
+minecraft:bamboo_wall_hanging_sign
+minecraft:bamboo_wall_sign

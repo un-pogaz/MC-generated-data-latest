@@ -1,0 +1,2 @@
+minecraft:lantern
+minecraft:soul_lantern

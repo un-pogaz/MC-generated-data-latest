@@ -1,0 +1,7 @@
+minecraft:magenta_banner
+minecraft:magenta_bed
+minecraft:magenta_carpet
+minecraft:magenta_shulker_box
+minecraft:magenta_stained_glass
+minecraft:magenta_stained_glass_pane
+minecraft:magenta_wall_banner
