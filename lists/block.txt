@@ -133,6 +133,7 @@ minecraft:cobweb
 minecraft:cocoa
 minecraft:command_block
 minecraft:comparator
+minecraft:composter
 minecraft:conduit
 minecraft:cornflower
 minecraft:cracked_stone_bricks
@@ -713,6 +714,7 @@ minecraft:zombie_wall_head
 #minecraft:walls
 #minecraft:wooden_buttons
 #minecraft:wooden_doors
+#minecraft:wooden_fences
 #minecraft:wooden_pressure_plates
 #minecraft:wooden_slabs
 #minecraft:wooden_stairs

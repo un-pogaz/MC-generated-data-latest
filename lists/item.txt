@@ -165,6 +165,7 @@ minecraft:command_block
 minecraft:command_block_minecart
 minecraft:comparator
 minecraft:compass
+minecraft:composter
 minecraft:conduit
 minecraft:cooked_beef
 minecraft:cooked_chicken
@@ -899,6 +900,7 @@ minecraft:zombie_villager_spawn_egg
 #minecraft:walls
 #minecraft:wooden_buttons
 #minecraft:wooden_doors
+#minecraft:wooden_fences
 #minecraft:wooden_pressure_plates
 #minecraft:wooden_slabs
 #minecraft:wooden_stairs
