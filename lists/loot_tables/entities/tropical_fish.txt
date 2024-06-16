@@ -1,1 +1,3 @@
 minecraft:tropical_fish
+
+minecraft:bone_meal
