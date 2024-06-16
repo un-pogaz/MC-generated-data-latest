@@ -1,0 +1,5 @@
+minecraft:mob/strider/step1
+minecraft:mob/strider/step2
+minecraft:mob/strider/step3
+minecraft:mob/strider/step4
+minecraft:mob/strider/step5

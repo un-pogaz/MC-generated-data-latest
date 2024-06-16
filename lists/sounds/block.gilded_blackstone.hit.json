@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/nether_ore/step1",
+    "block/nether_ore/step2",
+    "block/nether_ore/step3",
+    "block/nether_ore/step4",
+    "block/nether_ore/step5"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

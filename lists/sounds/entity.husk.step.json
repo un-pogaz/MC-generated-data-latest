@@ -5,5 +5,6 @@
     "mob/husk/step3",
     "mob/husk/step4",
     "mob/husk/step5"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
 }

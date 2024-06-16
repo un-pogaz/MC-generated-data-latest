@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/shroomlight/step1",
+    "block/shroomlight/step2",
+    "block/shroomlight/step3",
+    "block/shroomlight/step4",
+    "block/shroomlight/step5",
+    "block/shroomlight/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

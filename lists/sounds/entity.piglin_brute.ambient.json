@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin_brute/idle1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/idle2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/idle3",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/idle4",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/idle5",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/idle6",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/idle7",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/idle8",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/idle9",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin_brute.ambient"
+}

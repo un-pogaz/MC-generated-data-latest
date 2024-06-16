@@ -4,5 +4,6 @@
     "entity/player/hurt/drown2",
     "entity/player/hurt/drown3",
     "entity/player/hurt/drown4"
-  ]
+  ],
+  "subtitle": "subtitles.entity.player.hurt_drown"
 }

@@ -16,5 +16,6 @@
       "name": "block/composter/fill_success4",
       "volume": 1
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.composter.fill"
 }

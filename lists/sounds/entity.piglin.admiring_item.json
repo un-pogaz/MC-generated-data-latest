@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin/admire1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/piglin/admire2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/piglin/celebrate2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/piglin/celebrate4",
+      "volume": 0.85
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin.admiring_item"
+}

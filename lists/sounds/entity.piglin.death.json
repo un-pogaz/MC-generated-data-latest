@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin/death1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/piglin/death2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/piglin/death3",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/piglin/death4",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin.death"
+}

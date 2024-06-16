@@ -1,0 +1,6 @@
+minecraft:block/nether_bricks/break1
+minecraft:block/nether_bricks/break2
+minecraft:block/nether_bricks/break3
+minecraft:block/nether_bricks/break4
+minecraft:block/nether_bricks/break5
+minecraft:block/nether_bricks/break6

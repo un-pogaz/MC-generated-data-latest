@@ -1,5 +1,6 @@
 minecraft:acacia_button
 minecraft:birch_button
+minecraft:crimson_button
 minecraft:dark_oak_button
 minecraft:grindstone
 minecraft:jungle_button
@@ -7,3 +8,4 @@ minecraft:lever
 minecraft:oak_button
 minecraft:spruce_button
 minecraft:stone_button
+minecraft:warped_button

@@ -1,0 +1,5 @@
+minecraft:block/shroomlight/break1
+minecraft:block/shroomlight/break2
+minecraft:block/shroomlight/break3
+minecraft:block/shroomlight/break4
+minecraft:block/shroomlight/break5

@@ -1,0 +1,6 @@
+minecraft:block/nylium/break1
+minecraft:block/nylium/break2
+minecraft:block/nylium/break3
+minecraft:block/nylium/break4
+minecraft:block/nylium/break5
+minecraft:block/nylium/break6

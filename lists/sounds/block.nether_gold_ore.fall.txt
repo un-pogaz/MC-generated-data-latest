@@ -1,0 +1,5 @@
+minecraft:block/nether_ore/step1
+minecraft:block/nether_ore/step2
+minecraft:block/nether_ore/step3
+minecraft:block/nether_ore/step4
+minecraft:block/nether_ore/step5

@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin/idle1",
+      "volume": 0.66
+    },
+    {
+      "name": "mob/piglin/idle2",
+      "volume": 0.66
+    },
+    {
+      "name": "mob/piglin/idle3",
+      "volume": 0.66
+    },
+    {
+      "name": "mob/piglin/idle4",
+      "volume": 0.66
+    },
+    {
+      "name": "mob/piglin/idle5",
+      "volume": 0.66
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin.ambient"
+}

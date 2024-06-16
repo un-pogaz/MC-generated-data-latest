@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin/retreat1",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/piglin/retreat2",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/piglin/retreat3",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/piglin/retreat4",
+      "volume": 0.65
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin.retreat"
+}

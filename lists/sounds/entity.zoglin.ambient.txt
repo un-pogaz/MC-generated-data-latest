@@ -1,0 +1,7 @@
+minecraft:mob/zoglin/idle1
+minecraft:mob/zoglin/idle1
+minecraft:mob/zoglin/idle2
+minecraft:mob/zoglin/idle3
+minecraft:mob/zoglin/idle4
+minecraft:mob/zoglin/idle5
+minecraft:mob/zoglin/idle6
