@@ -63885,7 +63885,7 @@
       }
     ]
   },
-  "minecraft:white_shulker_box": {
+  "minecraft:shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -63936,7 +63936,7 @@
       }
     ]
   },
-  "minecraft:orange_shulker_box": {
+  "minecraft:white_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -63987,7 +63987,7 @@
       }
     ]
   },
-  "minecraft:magenta_shulker_box": {
+  "minecraft:orange_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64038,7 +64038,7 @@
       }
     ]
   },
-  "minecraft:light_blue_shulker_box": {
+  "minecraft:magenta_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64089,7 +64089,7 @@
       }
     ]
   },
-  "minecraft:yellow_shulker_box": {
+  "minecraft:light_blue_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64140,7 +64140,7 @@
       }
     ]
   },
-  "minecraft:lime_shulker_box": {
+  "minecraft:yellow_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64191,7 +64191,7 @@
       }
     ]
   },
-  "minecraft:pink_shulker_box": {
+  "minecraft:lime_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64242,7 +64242,7 @@
       }
     ]
   },
-  "minecraft:gray_shulker_box": {
+  "minecraft:pink_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64293,7 +64293,7 @@
       }
     ]
   },
-  "minecraft:light_gray_shulker_box": {
+  "minecraft:gray_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64344,7 +64344,7 @@
       }
     ]
   },
-  "minecraft:cyan_shulker_box": {
+  "minecraft:light_gray_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64395,7 +64395,7 @@
       }
     ]
   },
-  "minecraft:purple_shulker_box": {
+  "minecraft:cyan_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64446,7 +64446,7 @@
       }
     ]
   },
-  "minecraft:blue_shulker_box": {
+  "minecraft:purple_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64497,7 +64497,7 @@
       }
     ]
   },
-  "minecraft:brown_shulker_box": {
+  "minecraft:blue_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64548,7 +64548,7 @@
       }
     ]
   },
-  "minecraft:green_shulker_box": {
+  "minecraft:brown_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64599,7 +64599,7 @@
       }
     ]
   },
-  "minecraft:red_shulker_box": {
+  "minecraft:green_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64650,7 +64650,7 @@
       }
     ]
   },
-  "minecraft:black_shulker_box": {
+  "minecraft:red_shulker_box": {
     "properties": {
       "facing": [
         "north",
@@ -64701,13 +64701,15 @@
       }
     ]
   },
-  "minecraft:white_glazed_terracotta": {
+  "minecraft:black_shulker_box": {
     "properties": {
       "facing": [
         "north",
         "east",
         "south",
-        "west"
+        "west",
+        "up",
+        "down"
       ]
     },
     "states": [
@@ -64715,8 +64717,7 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6772,
-        "default": true
+        "id": 6772
       },
       {
         "properties": {
@@ -64735,6 +64736,56 @@
           "facing": "west"
         },
         "id": 6775
+      },
+      {
+        "properties": {
+          "facing": "up"
+        },
+        "id": 6776,
+        "default": true
+      },
+      {
+        "properties": {
+          "facing": "down"
+        },
+        "id": 6777
+      }
+    ]
+  },
+  "minecraft:white_glazed_terracotta": {
+    "properties": {
+      "facing": [
+        "north",
+        "east",
+        "south",
+        "west"
+      ]
+    },
+    "states": [
+      {
+        "properties": {
+          "facing": "north"
+        },
+        "id": 6778,
+        "default": true
+      },
+      {
+        "properties": {
+          "facing": "east"
+        },
+        "id": 6779
+      },
+      {
+        "properties": {
+          "facing": "south"
+        },
+        "id": 6780
+      },
+      {
+        "properties": {
+          "facing": "west"
+        },
+        "id": 6781
       }
     ]
   },
@@ -64752,26 +64803,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6776,
+        "id": 6782,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6777
+        "id": 6783
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6778
+        "id": 6784
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6779
+        "id": 6785
       }
     ]
   },
@@ -64789,26 +64840,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6780,
+        "id": 6786,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6781
+        "id": 6787
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6782
+        "id": 6788
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6783
+        "id": 6789
       }
     ]
   },
@@ -64826,26 +64877,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6784,
+        "id": 6790,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6785
+        "id": 6791
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6786
+        "id": 6792
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6787
+        "id": 6793
       }
     ]
   },
@@ -64863,26 +64914,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6788,
+        "id": 6794,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6789
+        "id": 6795
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6790
+        "id": 6796
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6791
+        "id": 6797
       }
     ]
   },
@@ -64900,26 +64951,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6792,
+        "id": 6798,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6793
+        "id": 6799
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6794
+        "id": 6800
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6795
+        "id": 6801
       }
     ]
   },
@@ -64937,26 +64988,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6796,
+        "id": 6802,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6797
+        "id": 6803
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6798
+        "id": 6804
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6799
+        "id": 6805
       }
     ]
   },
@@ -64974,26 +65025,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6800,
+        "id": 6806,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6801
+        "id": 6807
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6802
+        "id": 6808
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6803
+        "id": 6809
       }
     ]
   },
@@ -65011,26 +65062,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6804,
+        "id": 6810,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6805
+        "id": 6811
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6806
+        "id": 6812
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6807
+        "id": 6813
       }
     ]
   },
@@ -65048,26 +65099,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6808,
+        "id": 6814,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6809
+        "id": 6815
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6810
+        "id": 6816
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6811
+        "id": 6817
       }
     ]
   },
@@ -65085,26 +65136,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6812,
+        "id": 6818,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6813
+        "id": 6819
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6814
+        "id": 6820
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6815
+        "id": 6821
       }
     ]
   },
@@ -65122,26 +65173,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6816,
+        "id": 6822,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6817
+        "id": 6823
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6818
+        "id": 6824
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6819
+        "id": 6825
       }
     ]
   },
@@ -65159,26 +65210,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6820,
+        "id": 6826,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6821
+        "id": 6827
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6822
+        "id": 6828
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6823
+        "id": 6829
       }
     ]
   },
@@ -65196,26 +65247,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6824,
+        "id": 6830,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6825
+        "id": 6831
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6826
+        "id": 6832
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6827
+        "id": 6833
       }
     ]
   },
@@ -65233,26 +65284,26 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6828,
+        "id": 6834,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6829
+        "id": 6835
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6830
+        "id": 6836
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6831
+        "id": 6837
       }
     ]
   },
@@ -65270,78 +65321,30 @@
         "properties": {
           "facing": "north"
         },
-        "id": 6832,
+        "id": 6838,
         "default": true
       },
       {
         "properties": {
           "facing": "east"
         },
-        "id": 6833
+        "id": 6839
       },
       {
         "properties": {
           "facing": "south"
         },
-        "id": 6834
+        "id": 6840
       },
       {
         "properties": {
           "facing": "west"
         },
-        "id": 6835
+        "id": 6841
       }
     ]
   },
   "minecraft:white_concrete": {
-    "states": [
-      {
-        "id": 6836,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:orange_concrete": {
-    "states": [
-      {
-        "id": 6837,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:magenta_concrete": {
-    "states": [
-      {
-        "id": 6838,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:light_blue_concrete": {
-    "states": [
-      {
-        "id": 6839,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:yellow_concrete": {
-    "states": [
-      {
-        "id": 6840,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:lime_concrete": {
-    "states": [
-      {
-        "id": 6841,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:pink_concrete": {
     "states": [
       {
         "id": 6842,
@@ -65349,7 +65352,7 @@
       }
     ]
   },
-  "minecraft:gray_concrete": {
+  "minecraft:orange_concrete": {
     "states": [
       {
         "id": 6843,
@@ -65357,7 +65360,7 @@
       }
     ]
   },
-  "minecraft:light_gray_concrete": {
+  "minecraft:magenta_concrete": {
     "states": [
       {
         "id": 6844,
@@ -65365,7 +65368,7 @@
       }
     ]
   },
-  "minecraft:cyan_concrete": {
+  "minecraft:light_blue_concrete": {
     "states": [
       {
         "id": 6845,
@@ -65373,7 +65376,7 @@
       }
     ]
   },
-  "minecraft:purple_concrete": {
+  "minecraft:yellow_concrete": {
     "states": [
       {
         "id": 6846,
@@ -65381,7 +65384,7 @@
       }
     ]
   },
-  "minecraft:blue_concrete": {
+  "minecraft:lime_concrete": {
     "states": [
       {
         "id": 6847,
@@ -65389,7 +65392,7 @@
       }
     ]
   },
-  "minecraft:brown_concrete": {
+  "minecraft:pink_concrete": {
     "states": [
       {
         "id": 6848,
@@ -65397,7 +65400,7 @@
       }
     ]
   },
-  "minecraft:green_concrete": {
+  "minecraft:gray_concrete": {
     "states": [
       {
         "id": 6849,
@@ -65405,7 +65408,7 @@
       }
     ]
   },
-  "minecraft:red_concrete": {
+  "minecraft:light_gray_concrete": {
     "states": [
       {
         "id": 6850,
@@ -65413,7 +65416,7 @@
       }
     ]
   },
-  "minecraft:black_concrete": {
+  "minecraft:cyan_concrete": {
     "states": [
       {
         "id": 6851,
@@ -65421,7 +65424,7 @@
       }
     ]
   },
-  "minecraft:white_concrete_powder": {
+  "minecraft:purple_concrete": {
     "states": [
       {
         "id": 6852,
@@ -65429,7 +65432,7 @@
       }
     ]
   },
-  "minecraft:orange_concrete_powder": {
+  "minecraft:blue_concrete": {
     "states": [
       {
         "id": 6853,
@@ -65437,7 +65440,7 @@
       }
     ]
   },
-  "minecraft:magenta_concrete_powder": {
+  "minecraft:brown_concrete": {
     "states": [
       {
         "id": 6854,
@@ -65445,7 +65448,7 @@
       }
     ]
   },
-  "minecraft:light_blue_concrete_powder": {
+  "minecraft:green_concrete": {
     "states": [
       {
         "id": 6855,
@@ -65453,7 +65456,7 @@
       }
     ]
   },
-  "minecraft:yellow_concrete_powder": {
+  "minecraft:red_concrete": {
     "states": [
       {
         "id": 6856,
@@ -65461,7 +65464,7 @@
       }
     ]
   },
-  "minecraft:lime_concrete_powder": {
+  "minecraft:black_concrete": {
     "states": [
       {
         "id": 6857,
@@ -65469,7 +65472,7 @@
       }
     ]
   },
-  "minecraft:pink_concrete_powder": {
+  "minecraft:white_concrete_powder": {
     "states": [
       {
         "id": 6858,
@@ -65477,7 +65480,7 @@
       }
     ]
   },
-  "minecraft:gray_concrete_powder": {
+  "minecraft:orange_concrete_powder": {
     "states": [
       {
         "id": 6859,
@@ -65485,7 +65488,7 @@
       }
     ]
   },
-  "minecraft:light_gray_concrete_powder": {
+  "minecraft:magenta_concrete_powder": {
     "states": [
       {
         "id": 6860,
@@ -65493,7 +65496,7 @@
       }
     ]
   },
-  "minecraft:cyan_concrete_powder": {
+  "minecraft:light_blue_concrete_powder": {
     "states": [
       {
         "id": 6861,
@@ -65501,7 +65504,7 @@
       }
     ]
   },
-  "minecraft:purple_concrete_powder": {
+  "minecraft:yellow_concrete_powder": {
     "states": [
       {
         "id": 6862,
@@ -65509,7 +65512,7 @@
       }
     ]
   },
-  "minecraft:blue_concrete_powder": {
+  "minecraft:lime_concrete_powder": {
     "states": [
       {
         "id": 6863,
@@ -65517,7 +65520,7 @@
       }
     ]
   },
-  "minecraft:brown_concrete_powder": {
+  "minecraft:pink_concrete_powder": {
     "states": [
       {
         "id": 6864,
@@ -65525,7 +65528,7 @@
       }
     ]
   },
-  "minecraft:green_concrete_powder": {
+  "minecraft:gray_concrete_powder": {
     "states": [
       {
         "id": 6865,
@@ -65533,7 +65536,7 @@
       }
     ]
   },
-  "minecraft:red_concrete_powder": {
+  "minecraft:light_gray_concrete_powder": {
     "states": [
       {
         "id": 6866,
@@ -65541,7 +65544,7 @@
       }
     ]
   },
-  "minecraft:black_concrete_powder": {
+  "minecraft:cyan_concrete_powder": {
     "states": [
       {
         "id": 6867,
@@ -65549,10 +65552,58 @@
       }
     ]
   },
-  "minecraft:kelp": {
+  "minecraft:purple_concrete_powder": {
     "states": [
       {
         "id": 6868,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:blue_concrete_powder": {
+    "states": [
+      {
+        "id": 6869,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:brown_concrete_powder": {
+    "states": [
+      {
+        "id": 6870,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:green_concrete_powder": {
+    "states": [
+      {
+        "id": 6871,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:red_concrete_powder": {
+    "states": [
+      {
+        "id": 6872,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:black_concrete_powder": {
+    "states": [
+      {
+        "id": 6873,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:kelp": {
+    "states": [
+      {
+        "id": 6874,
         "default": true
       }
     ]
@@ -65593,165 +65644,165 @@
         "properties": {
           "age": "0"
         },
-        "id": 6869,
+        "id": 6875,
         "default": true
       },
       {
         "properties": {
           "age": "1"
         },
-        "id": 6870
+        "id": 6876
       },
       {
         "properties": {
           "age": "2"
         },
-        "id": 6871
+        "id": 6877
       },
       {
         "properties": {
           "age": "3"
         },
-        "id": 6872
+        "id": 6878
       },
       {
         "properties": {
           "age": "4"
         },
-        "id": 6873
+        "id": 6879
       },
       {
         "properties": {
           "age": "5"
         },
-        "id": 6874
+        "id": 6880
       },
       {
         "properties": {
           "age": "6"
         },
-        "id": 6875
+        "id": 6881
       },
       {
         "properties": {
           "age": "7"
         },
-        "id": 6876
+        "id": 6882
       },
       {
         "properties": {
           "age": "8"
         },
-        "id": 6877
+        "id": 6883
       },
       {
         "properties": {
           "age": "9"
         },
-        "id": 6878
+        "id": 6884
       },
       {
         "properties": {
           "age": "10"
         },
-        "id": 6879
+        "id": 6885
       },
       {
         "properties": {
           "age": "11"
         },
-        "id": 6880
+        "id": 6886
       },
       {
         "properties": {
           "age": "12"
         },
-        "id": 6881
+        "id": 6887
       },
       {
         "properties": {
           "age": "13"
         },
-        "id": 6882
+        "id": 6888
       },
       {
         "properties": {
           "age": "14"
         },
-        "id": 6883
+        "id": 6889
       },
       {
         "properties": {
           "age": "15"
         },
-        "id": 6884
+        "id": 6890
       },
       {
         "properties": {
           "age": "16"
         },
-        "id": 6885
+        "id": 6891
       },
       {
         "properties": {
           "age": "17"
         },
-        "id": 6886
+        "id": 6892
       },
       {
         "properties": {
           "age": "18"
         },
-        "id": 6887
+        "id": 6893
       },
       {
         "properties": {
           "age": "19"
         },
-        "id": 6888
+        "id": 6894
       },
       {
         "properties": {
           "age": "20"
         },
-        "id": 6889
+        "id": 6895
       },
       {
         "properties": {
           "age": "21"
         },
-        "id": 6890
+        "id": 6896
       },
       {
         "properties": {
           "age": "22"
         },
-        "id": 6891
+        "id": 6897
       },
       {
         "properties": {
           "age": "23"
         },
-        "id": 6892
+        "id": 6898
       },
       {
         "properties": {
           "age": "24"
         },
-        "id": 6893
+        "id": 6899
       },
       {
         "properties": {
           "age": "25"
         },
-        "id": 6894
+        "id": 6900
       }
     ]
   },
   "minecraft:dried_kelp_block": {
     "states": [
       {
-        "id": 6895,
+        "id": 6901,
         "default": true
       }
     ]
@@ -65776,137 +65827,89 @@
           "eggs": "1",
           "hatch": "0"
         },
-        "id": 6896,
+        "id": 6902,
         "default": true
       },
       {
         "properties": {
           "eggs": "1",
-          "hatch": "1"
-        },
-        "id": 6897
-      },
-      {
-        "properties": {
-          "eggs": "1",
-          "hatch": "2"
-        },
-        "id": 6898
-      },
-      {
-        "properties": {
-          "eggs": "2",
-          "hatch": "0"
-        },
-        "id": 6899
-      },
-      {
-        "properties": {
-          "eggs": "2",
-          "hatch": "1"
-        },
-        "id": 6900
-      },
-      {
-        "properties": {
-          "eggs": "2",
-          "hatch": "2"
-        },
-        "id": 6901
-      },
-      {
-        "properties": {
-          "eggs": "3",
-          "hatch": "0"
-        },
-        "id": 6902
-      },
-      {
-        "properties": {
-          "eggs": "3",
           "hatch": "1"
         },
         "id": 6903
       },
       {
         "properties": {
-          "eggs": "3",
+          "eggs": "1",
           "hatch": "2"
         },
         "id": 6904
       },
       {
         "properties": {
-          "eggs": "4",
+          "eggs": "2",
           "hatch": "0"
         },
         "id": 6905
       },
       {
         "properties": {
-          "eggs": "4",
+          "eggs": "2",
           "hatch": "1"
         },
         "id": 6906
       },
       {
         "properties": {
-          "eggs": "4",
+          "eggs": "2",
           "hatch": "2"
         },
         "id": 6907
-      }
-    ]
-  },
-  "minecraft:dead_coral": {
-    "states": [
+      },
       {
-        "id": 6908,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:blue_coral": {
-    "states": [
+        "properties": {
+          "eggs": "3",
+          "hatch": "0"
+        },
+        "id": 6908
+      },
       {
-        "id": 6909,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:pink_coral": {
-    "states": [
+        "properties": {
+          "eggs": "3",
+          "hatch": "1"
+        },
+        "id": 6909
+      },
       {
-        "id": 6910,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:purple_coral": {
-    "states": [
+        "properties": {
+          "eggs": "3",
+          "hatch": "2"
+        },
+        "id": 6910
+      },
       {
-        "id": 6911,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:red_coral": {
-    "states": [
+        "properties": {
+          "eggs": "4",
+          "hatch": "0"
+        },
+        "id": 6911
+      },
       {
-        "id": 6912,
-        "default": true
-      }
-    ]
-  },
-  "minecraft:yellow_coral": {
-    "states": [
+        "properties": {
+          "eggs": "4",
+          "hatch": "1"
+        },
+        "id": 6912
+      },
       {
-        "id": 6913,
-        "default": true
+        "properties": {
+          "eggs": "4",
+          "hatch": "2"
+        },
+        "id": 6913
       }
     ]
   },
-  "minecraft:blue_coral_plant": {
+  "minecraft:blue_dead_coral": {
     "states": [
       {
         "id": 6914,
@@ -65914,7 +65917,7 @@
       }
     ]
   },
-  "minecraft:pink_coral_plant": {
+  "minecraft:pink_dead_coral": {
     "states": [
       {
         "id": 6915,
@@ -65922,7 +65925,7 @@
       }
     ]
   },
-  "minecraft:purple_coral_plant": {
+  "minecraft:purple_dead_coral": {
     "states": [
       {
         "id": 6916,
@@ -65930,7 +65933,7 @@
       }
     ]
   },
-  "minecraft:red_coral_plant": {
+  "minecraft:red_dead_coral": {
     "states": [
       {
         "id": 6917,
@@ -65938,7 +65941,7 @@
       }
     ]
   },
-  "minecraft:yellow_coral_plant": {
+  "minecraft:yellow_dead_coral": {
     "states": [
       {
         "id": 6918,
@@ -65946,7 +65949,7 @@
       }
     ]
   },
-  "minecraft:void_air": {
+  "minecraft:blue_coral": {
     "states": [
       {
         "id": 6919,
@@ -65954,10 +65957,90 @@
       }
     ]
   },
-  "minecraft:cave_air": {
+  "minecraft:pink_coral": {
     "states": [
       {
         "id": 6920,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:purple_coral": {
+    "states": [
+      {
+        "id": 6921,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:red_coral": {
+    "states": [
+      {
+        "id": 6922,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:yellow_coral": {
+    "states": [
+      {
+        "id": 6923,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:blue_coral_plant": {
+    "states": [
+      {
+        "id": 6924,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:pink_coral_plant": {
+    "states": [
+      {
+        "id": 6925,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:purple_coral_plant": {
+    "states": [
+      {
+        "id": 6926,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:red_coral_plant": {
+    "states": [
+      {
+        "id": 6927,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:yellow_coral_plant": {
+    "states": [
+      {
+        "id": 6928,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:void_air": {
+    "states": [
+      {
+        "id": 6929,
+        "default": true
+      }
+    ]
+  },
+  "minecraft:cave_air": {
+    "states": [
+      {
+        "id": 6930,
         "default": true
       }
     ]
@@ -65974,14 +66057,14 @@
         "properties": {
           "drag": "true"
         },
-        "id": 6921,
+        "id": 6931,
         "default": true
       },
       {
         "properties": {
           "drag": "false"
         },
-        "id": 6922
+        "id": 6932
       }
     ]
   },
@@ -65999,26 +66082,26 @@
         "properties": {
           "mode": "save"
         },
-        "id": 6923,
+        "id": 6933,
         "default": true
       },
       {
         "properties": {
           "mode": "load"
         },
-        "id": 6924
+        "id": 6934
       },
       {
         "properties": {
           "mode": "corner"
         },
-        "id": 6925
+        "id": 6935
       },
       {
         "properties": {
           "mode": "data"
         },
-        "id": 6926
+        "id": 6936
       }
     ]
   }
