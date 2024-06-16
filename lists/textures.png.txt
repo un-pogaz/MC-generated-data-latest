@@ -152,6 +152,7 @@ minecraft:block/chain_command_block_conditional  [mcmeta]
 minecraft:block/chain_command_block_front  [mcmeta]
 minecraft:block/chain_command_block_side  [mcmeta]
 minecraft:block/chipped_anvil_top
+minecraft:block/chiseled_grimstone
 minecraft:block/chiseled_nether_bricks
 minecraft:block/chiseled_polished_blackstone
 minecraft:block/chiseled_quartz_block
@@ -343,6 +344,9 @@ minecraft:block/green_stained_glass
 minecraft:block/green_stained_glass_pane_top
 minecraft:block/green_terracotta
 minecraft:block/green_wool
+minecraft:block/grimstone
+minecraft:block/grimstone_bricks
+minecraft:block/grimstone_tiles
 minecraft:block/grindstone_pivot
 minecraft:block/grindstone_round
 minecraft:block/grindstone_side
@@ -533,6 +537,7 @@ minecraft:block/polished_blackstone
 minecraft:block/polished_blackstone_bricks
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
+minecraft:block/polished_grimstone
 minecraft:block/poppy
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1

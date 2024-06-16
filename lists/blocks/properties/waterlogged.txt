@@ -100,6 +100,15 @@ minecraft:gray_candle
 minecraft:gray_stained_glass_pane
 minecraft:green_candle
 minecraft:green_stained_glass_pane
+minecraft:grimstone_brick_slab
+minecraft:grimstone_brick_stairs
+minecraft:grimstone_brick_wall
+minecraft:grimstone_slab
+minecraft:grimstone_stairs
+minecraft:grimstone_tile_slab
+minecraft:grimstone_tile_stairs
+minecraft:grimstone_tile_wall
+minecraft:grimstone_wall
 minecraft:horn_coral
 minecraft:horn_coral_fan
 minecraft:horn_coral_wall_fan
@@ -159,6 +168,9 @@ minecraft:polished_diorite_slab
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_slab
 minecraft:polished_granite_stairs
+minecraft:polished_grimstone_slab
+minecraft:polished_grimstone_stairs
+minecraft:polished_grimstone_wall
 minecraft:powered_rail
 minecraft:prismarine_brick_slab
 minecraft:prismarine_brick_stairs
