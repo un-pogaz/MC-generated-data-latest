@@ -16,8 +16,10 @@ minecraft:recipes/building_blocks/andesite_slab
 minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting
 minecraft:recipes/building_blocks/andesite_stairs
 minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting
+minecraft:recipes/building_blocks/bamboo_block
 minecraft:recipes/building_blocks/bamboo_mosaic_slab
 minecraft:recipes/building_blocks/bamboo_mosaic_stairs
+minecraft:recipes/building_blocks/bamboo_planks
 minecraft:recipes/building_blocks/bamboo_slab
 minecraft:recipes/building_blocks/bamboo_stairs
 minecraft:recipes/building_blocks/birch_planks
@@ -526,7 +528,6 @@ minecraft:recipes/decorations/armor_stand
 minecraft:recipes/decorations/bamboo_fence
 minecraft:recipes/decorations/bamboo_hanging_sign
 minecraft:recipes/decorations/bamboo_mosaic
-minecraft:recipes/decorations/bamboo_planks
 minecraft:recipes/decorations/bamboo_sign
 minecraft:recipes/decorations/barrel
 minecraft:recipes/decorations/beehive

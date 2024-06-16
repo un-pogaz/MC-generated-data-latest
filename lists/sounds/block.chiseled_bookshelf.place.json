@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/chiseled_bookshelf/break1",
+    "block/chiseled_bookshelf/break2",
+    "block/chiseled_bookshelf/break3",
+    "block/chiseled_bookshelf/break4",
+    "block/chiseled_bookshelf/break5",
+    "block/chiseled_bookshelf/break6"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}
