@@ -14,7 +14,7 @@
       },
       "minecraft:adventure/brush_armadillo": {
         "icon": "minecraft:armadillo_scute",
-        "title": "Isn't it Scute?",
+        "title": "Isn't It Scute?",
         "description": "Get Armadillo Scutes from an Armadillo using a Brush",
         "frame": "task"
       },
@@ -561,7 +561,7 @@
           },
           "minecraft:husbandry/remove_wolf_armor": {
             "icon": "minecraft:shears",
-            "title": "Snip it!",
+            "title": "Shear Brilliance",
             "description": "Remove Wolf Armor from a Wolf using Shears",
             "frame": "task"
           },
