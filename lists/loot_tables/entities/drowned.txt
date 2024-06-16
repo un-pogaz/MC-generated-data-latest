@@ -1,3 +1,3 @@
 minecraft:rotten_flesh
 
-minecraft:gold_ingot
+minecraft:copper_ingot

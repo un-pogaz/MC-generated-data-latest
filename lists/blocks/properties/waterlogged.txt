@@ -9,6 +9,8 @@ minecraft:amethyst_cluster
 minecraft:andesite_slab
 minecraft:andesite_stairs
 minecraft:andesite_wall
+minecraft:big_dripleaf
+minecraft:big_dripleaf_stem
 minecraft:birch_fence
 minecraft:birch_sign
 minecraft:birch_slab
@@ -84,6 +86,8 @@ minecraft:end_stone_brick_slab
 minecraft:end_stone_brick_stairs
 minecraft:end_stone_brick_wall
 minecraft:ender_chest
+minecraft:exposed_cut_copper_slab
+minecraft:exposed_cut_copper_stairs
 minecraft:fire_coral
 minecraft:fire_coral_fan
 minecraft:fire_coral_wall_fan
@@ -114,8 +118,6 @@ minecraft:light_blue_candle
 minecraft:light_blue_stained_glass_pane
 minecraft:light_gray_candle
 minecraft:light_gray_stained_glass_pane
-minecraft:lightly_weathered_cut_copper_slab
-minecraft:lightly_weathered_cut_copper_stairs
 minecraft:lime_candle
 minecraft:lime_stained_glass_pane
 minecraft:magenta_candle
@@ -139,6 +141,8 @@ minecraft:oak_trapdoor
 minecraft:oak_wall_sign
 minecraft:orange_candle
 minecraft:orange_stained_glass_pane
+minecraft:oxidized_cut_copper_slab
+minecraft:oxidized_cut_copper_stairs
 minecraft:petrified_oak_slab
 minecraft:pink_candle
 minecraft:pink_stained_glass_pane
@@ -182,9 +186,8 @@ minecraft:sandstone_wall
 minecraft:scaffolding
 minecraft:sculk_sensor
 minecraft:sea_pickle
-minecraft:semi_weathered_cut_copper_slab
-minecraft:semi_weathered_cut_copper_stairs
 minecraft:small_amethyst_bud
+minecraft:small_dripleaf
 minecraft:smooth_quartz_slab
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_slab
@@ -217,10 +220,10 @@ minecraft:warped_trapdoor
 minecraft:warped_wall_sign
 minecraft:waxed_cut_copper_slab
 minecraft:waxed_cut_copper_stairs
-minecraft:waxed_lightly_weathered_cut_copper_slab
-minecraft:waxed_lightly_weathered_cut_copper_stairs
-minecraft:waxed_semi_weathered_cut_copper_slab
-minecraft:waxed_semi_weathered_cut_copper_stairs
+minecraft:waxed_exposed_cut_copper_slab
+minecraft:waxed_exposed_cut_copper_stairs
+minecraft:waxed_weathered_cut_copper_slab
+minecraft:waxed_weathered_cut_copper_stairs
 minecraft:weathered_cut_copper_slab
 minecraft:weathered_cut_copper_stairs
 minecraft:white_candle

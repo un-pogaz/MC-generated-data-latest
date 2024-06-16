@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "tilt": [
+      "none",
+      "unstable",
+      "partial",
+      "full"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
