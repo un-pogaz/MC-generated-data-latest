@@ -246,6 +246,7 @@ minecraft:tripwire_hook
 minecraft:tube_coral_wall_fan
 minecraft:tuff_brick_stairs
 minecraft:tuff_stairs
+minecraft:vault
 minecraft:wall_torch
 minecraft:warped_button
 minecraft:warped_door

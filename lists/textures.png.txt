@@ -926,6 +926,15 @@ minecraft:block/turtle_egg_slightly_cracked
 minecraft:block/turtle_egg_very_cracked
 minecraft:block/twisting_vines
 minecraft:block/twisting_vines_plant
+minecraft:block/vault_bottom
+minecraft:block/vault_front_ejecting
+minecraft:block/vault_front_off
+minecraft:block/vault_front_on
+minecraft:block/vault_side_off
+minecraft:block/vault_side_on
+minecraft:block/vault_top_ejecting
+minecraft:block/vault_top_off
+minecraft:block/vault_top_on
 minecraft:block/verdant_froglight_side
 minecraft:block/verdant_froglight_top
 minecraft:block/vine
@@ -2860,6 +2869,7 @@ minecraft:particle/trial_spawner_detection_1
 minecraft:particle/trial_spawner_detection_2
 minecraft:particle/trial_spawner_detection_3
 minecraft:particle/trial_spawner_detection_4
+minecraft:particle/vault_connection
 minecraft:particle/vibration  [mcmeta]
 minecraft:trims/color_palettes/amethyst
 minecraft:trims/color_palettes/copper
