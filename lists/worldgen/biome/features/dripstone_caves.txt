@@ -42,7 +42,7 @@ minecraft:disk_clay
 minecraft:disk_gravel
 
 minecraft:dripstone_cluster
-minecraft:small_dripstone
+minecraft:pointed_dripstone
 
 minecraft:spring_water
 minecraft:spring_lava
