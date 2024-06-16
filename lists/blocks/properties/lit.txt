@@ -1,4 +1,5 @@
 minecraft:blast_furnace
+minecraft:campfire
 minecraft:furnace
 minecraft:redstone_lamp
 minecraft:redstone_ore

@@ -91,6 +91,10 @@ minecraft:block/cake_bottom
 minecraft:block/cake_inner
 minecraft:block/cake_side
 minecraft:block/cake_top
+minecraft:block/campfire_fire  [mcmeta]
+minecraft:block/campfire_side
+minecraft:block/campfire_top
+minecraft:block/campfire_top_on  [mcmeta]
 minecraft:block/carrots_stage0
 minecraft:block/carrots_stage1
 minecraft:block/carrots_stage2
@@ -1215,6 +1219,7 @@ minecraft:gui/container/anvil
 minecraft:gui/container/beacon
 minecraft:gui/container/blast_furnace
 minecraft:gui/container/brewing_stand
+minecraft:gui/container/cartography_table
 minecraft:gui/container/crafting_table
 minecraft:gui/container/creative_inventory/tab_inventory
 minecraft:gui/container/creative_inventory/tab_item_search

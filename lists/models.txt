@@ -189,6 +189,8 @@ minecraft:block/cake_slice3
 minecraft:block/cake_slice4
 minecraft:block/cake_slice5
 minecraft:block/cake_slice6
+minecraft:block/campfire
+minecraft:block/campfire_on
 minecraft:block/carpet
 minecraft:block/carrots_stage0
 minecraft:block/carrots_stage1
@@ -1310,6 +1312,7 @@ minecraft:item/bubble_coral_wall_fan
 minecraft:item/bucket
 minecraft:item/cactus
 minecraft:item/cake
+minecraft:item/campfire
 minecraft:item/carrot
 minecraft:item/carrot_on_a_stick
 minecraft:item/cartography_table
