@@ -43,6 +43,7 @@ minecraft:unattributed_fireball
 minecraft:wither
 minecraft:wither_skull
 #minecraft:always_hurts_ender_dragons
+#minecraft:always_kills_armor_stands
 #minecraft:always_most_significant_fall
 #minecraft:always_triggers_silverfish
 #minecraft:avoids_guardian_thorns
