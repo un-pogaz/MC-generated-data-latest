@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:iron_sword",
-        "title": "Kill a mob"
+        "title": "Monster Hunter",
+        "description": "Kill any hostile monster"
     },
     "parent": "adventure/root",
     "criteria": {

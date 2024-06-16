@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:blaze_rod",
-        "title": "Obtain a Blaze Rod"
+        "title": "Into Fire",
+        "description": "Relieve a Blaze of its rod"
     },
     "parent": "minecraft:story/enter_the_nether",
     "criteria": {

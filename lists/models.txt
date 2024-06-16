@@ -31,8 +31,6 @@ minecraft:block/anvil_slightly_damaged
 minecraft:block/anvil_undamaged
 minecraft:block/anvil_very_damaged
 minecraft:block/beacon
-minecraft:block/bed_foot
-minecraft:block/bed_head
 minecraft:block/bedrock
 minecraft:block/bedrock_mirrored
 minecraft:block/beetroots_stage0

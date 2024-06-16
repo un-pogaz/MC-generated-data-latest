@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:diamond",
-        "title": "Diamonds!"
+        "title": "Diamonds!",
+        "description": "Acquire diamonds"
     },
     "parent": "minecraft:story/iron_tools",
     "criteria": {
