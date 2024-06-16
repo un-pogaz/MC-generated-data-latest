@@ -4,13 +4,13 @@ adventure/root
 └>adventure/honey_block_slide
 └>adventure/kill_a_mob
 │ └>adventure/kill_all_mobs
+│ └>adventure/kill_mob_near_sculk_catalyst
 │ └>adventure/shoot_arrow
 │ │ └>adventure/bullseye
 │ │ └>adventure/sniper_duel
 │ └>adventure/throw_trident
 │ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying
-└>adventure/kill_mob_near_sculk_catalyst
 └>adventure/lightning_rod_with_villager_no_fire
 └>adventure/ol_betsy
 │ └>adventure/arbalistic
