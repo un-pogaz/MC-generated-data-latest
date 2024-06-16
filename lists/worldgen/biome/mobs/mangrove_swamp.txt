@@ -1,4 +1,5 @@
 minecraft:bat
+minecraft:bogged
 minecraft:creeper
 minecraft:enderman
 minecraft:frog

@@ -1441,6 +1441,7 @@ minecraft:enchant/thorns/hit2
 minecraft:enchant/thorns/hit3
 minecraft:enchant/thorns/hit4
 minecraft:entity.blaze.ambient
+minecraft:entity.bogged.ambient
 minecraft:entity.breeze.idle_ground
 minecraft:entity.creeper.primed
 minecraft:entity.drowned.ambient
@@ -2093,6 +2094,19 @@ minecraft:mob/blaze/hit1
 minecraft:mob/blaze/hit2
 minecraft:mob/blaze/hit3
 minecraft:mob/blaze/hit4
+minecraft:mob/bogged/ambient1
+minecraft:mob/bogged/ambient2
+minecraft:mob/bogged/ambient3
+minecraft:mob/bogged/ambient4
+minecraft:mob/bogged/death
+minecraft:mob/bogged/hurt1
+minecraft:mob/bogged/hurt2
+minecraft:mob/bogged/hurt3
+minecraft:mob/bogged/hurt4
+minecraft:mob/bogged/step1
+minecraft:mob/bogged/step2
+minecraft:mob/bogged/step3
+minecraft:mob/bogged/step4
 minecraft:mob/breeze/charge1
 minecraft:mob/breeze/charge2
 minecraft:mob/breeze/charge3
