@@ -39,6 +39,7 @@ minecraft:blocks/black_wool
 minecraft:blocks/blue_concrete
 minecraft:blocks/blue_concrete_powder
 minecraft:blocks/blue_glazed_terracotta
+minecraft:blocks/blue_ice
 minecraft:blocks/blue_orchid
 minecraft:blocks/blue_stained_glass
 minecraft:blocks/blue_stained_glass_pane_top
@@ -610,10 +611,16 @@ minecraft:entity/chest/normal_double
 minecraft:entity/chest/trapped
 minecraft:entity/chest/trapped_double
 minecraft:entity/chicken
+minecraft:entity/conduit/base
+minecraft:entity/conduit/cage
+minecraft:entity/conduit/entity_core
+minecraft:entity/conduit/wind
+minecraft:entity/conduit/wind_vertical
 minecraft:entity/cow/cow
 minecraft:entity/cow/mooshroom
 minecraft:entity/creeper/creeper
 minecraft:entity/creeper/creeper_armor
+minecraft:entity/dolphin
 minecraft:entity/elytra
 minecraft:entity/enchanting_table_book
 minecraft:entity/end_gateway_beam
@@ -1328,6 +1335,7 @@ minecraft:items/golden_shovel
 minecraft:items/golden_sword
 minecraft:items/gray_dye
 minecraft:items/gunpowder
+minecraft:items/heart_of_the_sea
 minecraft:items/hopper
 minecraft:items/hopper_minecart
 minecraft:items/ink_sac
@@ -1389,6 +1397,7 @@ minecraft:items/music_disc_wait
 minecraft:items/music_disc_ward
 minecraft:items/mutton
 minecraft:items/name_tag
+minecraft:items/nautilus_shell
 minecraft:items/nether_brick
 minecraft:items/nether_star
 minecraft:items/nether_wart
