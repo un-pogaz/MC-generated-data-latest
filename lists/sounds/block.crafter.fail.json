@@ -1,0 +1,19 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 3,
+      "name": "block/crafter/fail"
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/crafter/fail",
+      "pitch": 0.96
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/crafter/fail",
+      "pitch": 1.04
+    }
+  ],
+  "subtitle": "subtitles.block.crafter.fail"
+}
