@@ -1,4 +1,3 @@
-minecraft:brick
 minecraft:angler_pottery_sherd
 minecraft:archer_pottery_sherd
 minecraft:arms_up_pottery_sherd
