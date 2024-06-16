@@ -22,6 +22,10 @@
             Name: "generic.armor"
           },
           {
+            Base: 0.0d,
+            Name: "generic.armorToughness"
+          },
+          {
             Base: 16.0d,
             Modifiers: [
               {
@@ -36,6 +40,7 @@
           }
         ],
         Riches: 15,
+        FallFlying: 0b,
         ForcedAge: 0,
         Invulnerable: 0b,
         AbsorptionAmount: 0.0f,
@@ -49,7 +54,7 @@
         Motion: [0.0d, -0.0784000015258789d, 0.0d],
         Leashed: 0b,
         Health: 20.0f,
-        UUIDLeast: -8404016208519177543L,
+        UUIDLeast: -6845685677944826400L,
         LeftHanded: 0b,
         Air: 300s,
         Dimension: 0,
@@ -59,13 +64,11 @@
               maxUses: 7,
               buy: {
                 Count: 36b,
-                id: "minecraft:rotten_flesh",
-                Damage: 0s
+                id: "minecraft:rotten_flesh"
               },
               sell: {
                 Count: 1b,
-                id: "minecraft:emerald",
-                Damage: 0s
+                id: "minecraft:emerald"
               },
               uses: 0,
               rewardExp: 1b
@@ -74,13 +77,11 @@
               maxUses: 7,
               buy: {
                 Count: 9b,
-                id: "minecraft:gold_ingot",
-                Damage: 0s
+                id: "minecraft:gold_ingot"
               },
               sell: {
                 Count: 1b,
-                id: "minecraft:emerald",
-                Damage: 0s
+                id: "minecraft:emerald"
               },
               uses: 0,
               rewardExp: 1b
@@ -88,15 +89,15 @@
           ]
         },
         OnGround: 1b,
-        Rotation: [-4.32769775390625f, -3.4165501594543457f],
+        Rotation: [-4.32769775390625f, -3.4165499210357666f],
         HandItems: [
           {},
           {}
         ],
         ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         Profession: 2,
-        UUIDMost: 1009044389481761978L,
-        Pos: [-72.5d, 62.0d, -120.5d],
+        UUIDMost: -7004751562544951452L,
+        Pos: [-986.5d, 8.0d, -1060.5d],
         ArmorItems: [
           {},
           {},
@@ -144,6 +145,10 @@
             Name: "generic.armor"
           },
           {
+            Base: 0.0d,
+            Name: "generic.armorToughness"
+          },
+          {
             Base: 35.0d,
             Modifiers: [
               {
@@ -165,6 +170,7 @@
             Name: "zombie.spawnReinforcements"
           }
         ],
+        FallFlying: 0b,
         Invulnerable: 0b,
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
@@ -177,7 +183,7 @@
         Motion: [0.0d, -0.0784000015258789d, 0.0d],
         Leashed: 0b,
         Health: 19.049999237060547f,
-        UUIDLeast: -6631449421406796428L,
+        UUIDLeast: -7579534392971231931L,
         LeftHanded: 0b,
         Air: 300s,
         Dimension: 0,
@@ -189,9 +195,9 @@
         ],
         ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
         Profession: 2,
-        UUIDMost: 9169347718178752431L,
+        UUIDMost: 2874228060903981697L,
         CanBreakDoors: 0b,
-        Pos: [-70.5d, 62.0d, -120.69999998807907d],
+        Pos: [-984.5d, 8.0d, -1060.699999988079d],
         ArmorItems: [
           {},
           {},
@@ -204,6 +210,61 @@
       },
       blockPos: [4, 1, 1],
       pos: [4.5d, 1.0d, 1.300000011920929d]
+    },
+    {
+      nbt: {
+        Motion: [0.0d, -0.0d, 0.0d],
+        Health: 5s,
+        UUIDLeast: -4621102109002098885L,
+        Invulnerable: 0b,
+        Air: 300s,
+        Dimension: 0,
+        OnGround: 1b,
+        PortalCooldown: 0,
+        Rotation: [158.15452575683594f, 0.0f],
+        FallDistance: 0.0f,
+        Item: {
+          Count: 1b,
+          id: "minecraft:splash_potion",
+          tag: {
+            Potion: "minecraft:weakness"
+          }
+        },
+        UUIDMost: -4325917531716565942L,
+        Pos: [-983.125d, 9.125d, -1055.4432321282263d],
+        PickupDelay: 0s,
+        Fire: -1s,
+        id: "minecraft:item",
+        Age: 322s
+      },
+      blockPos: [5, 2, 6],
+      pos: [5.875d, 2.125d, 6.556767871773673d]
+    },
+    {
+      nbt: {
+        Motion: [0.0d, -0.0d, 0.0d],
+        Health: 5s,
+        UUIDLeast: -6325086013932457436L,
+        Invulnerable: 0b,
+        Air: 300s,
+        Dimension: 0,
+        OnGround: 1b,
+        PortalCooldown: 0,
+        Rotation: [157.5155792236328f, 0.0f],
+        FallDistance: 0.0f,
+        Item: {
+          Count: 1b,
+          id: "minecraft:cactus"
+        },
+        UUIDMost: 4361043240273069479L,
+        Pos: [-983.7703382790569d, 9.0d, -1054.125d],
+        PickupDelay: 0s,
+        Fire: -1s,
+        id: "minecraft:item",
+        Age: 322s
+      },
+      blockPos: [5, 2, 7],
+      pos: [5.229661720943113d, 2.0d, 7.875d]
     }
   ],
   author: "Searge_DP",
@@ -313,16 +374,8 @@
       state: 1
     },
     {
-      pos: [2, 1, 1],
-      state: 3
-    },
-    {
       pos: [3, 1, 1],
       state: 1
-    },
-    {
-      pos: [4, 1, 1],
-      state: 3
     },
     {
       pos: [5, 1, 1],
@@ -333,16 +386,8 @@
       state: 1
     },
     {
-      pos: [2, 2, 1],
-      state: 3
-    },
-    {
       pos: [3, 2, 1],
       state: 1
-    },
-    {
-      pos: [4, 2, 1],
-      state: 3
     },
     {
       pos: [5, 2, 1],
@@ -353,16 +398,8 @@
       state: 1
     },
     {
-      pos: [2, 3, 1],
-      state: 3
-    },
-    {
       pos: [3, 3, 1],
       state: 1
-    },
-    {
-      pos: [4, 3, 1],
-      state: 3
     },
     {
       pos: [5, 3, 1],
@@ -402,15 +439,15 @@
     },
     {
       pos: [1, 1, 2],
-      state: 4
+      state: 3
     },
     {
       pos: [3, 1, 2],
-      state: 4
+      state: 3
     },
     {
       pos: [5, 1, 2],
-      state: 4
+      state: 3
     },
     {
       pos: [1, 2, 2],
@@ -458,7 +495,7 @@
     },
     {
       pos: [1, 0, 3],
-      state: 5
+      state: 4
     },
     {
       pos: [2, 0, 3],
@@ -466,7 +503,7 @@
     },
     {
       pos: [3, 0, 3],
-      state: 6
+      state: 5
     },
     {
       pos: [4, 0, 3],
@@ -474,51 +511,19 @@
     },
     {
       pos: [5, 0, 3],
-      state: 7
+      state: 6
     },
     {
       pos: [0, 1, 3],
-      state: 4
-    },
-    {
-      pos: [2, 1, 3],
-      state: 3
-    },
-    {
-      pos: [3, 1, 3],
-      state: 3
-    },
-    {
-      pos: [4, 1, 3],
-      state: 3
-    },
-    {
-      pos: [5, 1, 3],
       state: 3
     },
     {
       pos: [6, 1, 3],
-      state: 4
+      state: 3
     },
     {
       pos: [0, 2, 3],
       state: 2
-    },
-    {
-      pos: [1, 2, 3],
-      state: 3
-    },
-    {
-      pos: [2, 2, 3],
-      state: 3
-    },
-    {
-      pos: [4, 2, 3],
-      state: 3
-    },
-    {
-      pos: [5, 2, 3],
-      state: 3
     },
     {
       pos: [6, 2, 3],
@@ -527,18 +532,6 @@
     {
       pos: [0, 3, 3],
       state: 1
-    },
-    {
-      pos: [2, 3, 3],
-      state: 3
-    },
-    {
-      pos: [4, 3, 3],
-      state: 3
-    },
-    {
-      pos: [5, 3, 3],
-      state: 3
     },
     {
       pos: [6, 3, 3],
@@ -570,7 +563,7 @@
     },
     {
       pos: [2, 0, 4],
-      state: 8
+      state: 7
     },
     {
       pos: [3, 0, 4],
@@ -586,47 +579,15 @@
     },
     {
       pos: [0, 1, 4],
-      state: 4
-    },
-    {
-      pos: [2, 1, 4],
-      state: 3
-    },
-    {
-      pos: [3, 1, 4],
-      state: 3
-    },
-    {
-      pos: [4, 1, 4],
       state: 3
     },
     {
       pos: [6, 1, 4],
-      state: 4
+      state: 3
     },
     {
       pos: [0, 2, 4],
       state: 1
-    },
-    {
-      pos: [1, 2, 4],
-      state: 3
-    },
-    {
-      pos: [2, 2, 4],
-      state: 3
-    },
-    {
-      pos: [3, 2, 4],
-      state: 3
-    },
-    {
-      pos: [4, 2, 4],
-      state: 3
-    },
-    {
-      pos: [5, 2, 4],
-      state: 3
     },
     {
       pos: [6, 2, 4],
@@ -634,27 +595,7 @@
     },
     {
       pos: [0, 3, 4],
-      state: 8
-    },
-    {
-      pos: [1, 3, 4],
-      state: 3
-    },
-    {
-      pos: [2, 3, 4],
-      state: 3
-    },
-    {
-      pos: [3, 3, 4],
-      state: 3
-    },
-    {
-      pos: [4, 3, 4],
-      state: 3
-    },
-    {
-      pos: [5, 3, 4],
-      state: 3
+      state: 7
     },
     {
       pos: [6, 3, 4],
@@ -682,7 +623,7 @@
     },
     {
       pos: [1, 0, 5],
-      state: 6
+      state: 5
     },
     {
       pos: [2, 0, 5],
@@ -690,7 +631,7 @@
     },
     {
       pos: [3, 0, 5],
-      state: 6
+      state: 5
     },
     {
       pos: [4, 0, 5],
@@ -698,55 +639,19 @@
     },
     {
       pos: [5, 0, 5],
-      state: 6
+      state: 5
     },
     {
       pos: [0, 1, 5],
-      state: 4
-    },
-    {
-      pos: [1, 1, 5],
-      state: 3
-    },
-    {
-      pos: [2, 1, 5],
-      state: 3
-    },
-    {
-      pos: [3, 1, 5],
-      state: 3
-    },
-    {
-      pos: [4, 1, 5],
       state: 3
     },
     {
       pos: [6, 1, 5],
-      state: 4
+      state: 3
     },
     {
       pos: [0, 2, 5],
       state: 1
-    },
-    {
-      pos: [1, 2, 5],
-      state: 3
-    },
-    {
-      pos: [2, 2, 5],
-      state: 3
-    },
-    {
-      pos: [3, 2, 5],
-      state: 3
-    },
-    {
-      pos: [4, 2, 5],
-      state: 3
-    },
-    {
-      pos: [5, 2, 5],
-      state: 3
     },
     {
       pos: [6, 2, 5],
@@ -755,26 +660,6 @@
     {
       pos: [0, 3, 5],
       state: 1
-    },
-    {
-      pos: [1, 3, 5],
-      state: 3
-    },
-    {
-      pos: [2, 3, 5],
-      state: 3
-    },
-    {
-      pos: [3, 3, 5],
-      state: 3
-    },
-    {
-      pos: [4, 3, 5],
-      state: 3
-    },
-    {
-      pos: [5, 3, 5],
-      state: 3
     },
     {
       pos: [6, 3, 5],
@@ -790,7 +675,7 @@
     },
     {
       pos: [3, 4, 5],
-      state: 7
+      state: 6
     },
     {
       pos: [4, 4, 5],
@@ -818,71 +703,27 @@
     },
     {
       pos: [5, 0, 6],
-      state: 8
+      state: 7
     },
     {
       pos: [0, 1, 6],
-      state: 4
-    },
-    {
-      pos: [2, 1, 6],
-      state: 3
-    },
-    {
-      pos: [3, 1, 6],
-      state: 3
-    },
-    {
-      pos: [4, 1, 6],
       state: 3
     },
     {
       pos: [6, 1, 6],
-      state: 4
+      state: 3
     },
     {
       pos: [0, 2, 6],
       state: 2
     },
     {
-      pos: [2, 2, 6],
-      state: 3
-    },
-    {
-      pos: [3, 2, 6],
-      state: 3
-    },
-    {
-      pos: [4, 2, 6],
-      state: 3
-    },
-    {
       pos: [6, 2, 6],
-      state: 8
+      state: 7
     },
     {
       pos: [0, 3, 6],
       state: 1
-    },
-    {
-      pos: [1, 3, 6],
-      state: 3
-    },
-    {
-      pos: [2, 3, 6],
-      state: 3
-    },
-    {
-      pos: [3, 3, 6],
-      state: 3
-    },
-    {
-      pos: [4, 3, 6],
-      state: 3
-    },
-    {
-      pos: [5, 3, 6],
-      state: 3
     },
     {
       pos: [6, 3, 6],
@@ -894,7 +735,7 @@
     },
     {
       pos: [2, 4, 6],
-      state: 8
+      state: 7
     },
     {
       pos: [3, 4, 6],
@@ -914,7 +755,7 @@
     },
     {
       pos: [1, 0, 7],
-      state: 6
+      state: 5
     },
     {
       pos: [2, 0, 7],
@@ -922,7 +763,7 @@
     },
     {
       pos: [3, 0, 7],
-      state: 6
+      state: 5
     },
     {
       pos: [4, 0, 7],
@@ -930,47 +771,19 @@
     },
     {
       pos: [5, 0, 7],
-      state: 6
+      state: 5
     },
     {
       pos: [0, 1, 7],
-      state: 4
-    },
-    {
-      pos: [1, 1, 7],
-      state: 3
-    },
-    {
-      pos: [2, 1, 7],
-      state: 3
-    },
-    {
-      pos: [3, 1, 7],
-      state: 3
-    },
-    {
-      pos: [4, 1, 7],
       state: 3
     },
     {
       pos: [6, 1, 7],
-      state: 4
+      state: 3
     },
     {
       pos: [0, 2, 7],
       state: 1
-    },
-    {
-      pos: [1, 2, 7],
-      state: 3
-    },
-    {
-      pos: [2, 2, 7],
-      state: 3
-    },
-    {
-      pos: [4, 2, 7],
-      state: 3
     },
     {
       pos: [6, 2, 7],
@@ -979,14 +792,6 @@
     {
       pos: [0, 3, 7],
       state: 1
-    },
-    {
-      pos: [1, 3, 7],
-      state: 3
-    },
-    {
-      pos: [5, 3, 7],
-      state: 3
     },
     {
       pos: [6, 3, 7],
@@ -1018,27 +823,27 @@
     },
     {
       pos: [1, 1, 8],
-      state: 4
+      state: 3
     },
     {
       pos: [2, 1, 8],
-      state: 9
+      state: 8
     },
     {
       pos: [3, 1, 8],
-      state: 4
+      state: 3
     },
     {
       pos: [4, 1, 8],
-      state: 4
+      state: 3
     },
     {
       pos: [5, 1, 8],
-      state: 4
+      state: 3
     },
     {
       pos: [1, 2, 8],
-      state: 8
+      state: 7
     },
     {
       pos: [2, 2, 8],
@@ -1098,39 +903,44 @@
         Text3: "{\"text\":\"----\\u003e\"}",
         Text2: "{\"text\":\"\\u003c----\"}",
         Text1: "{\"text\":\"\"}",
-        id: "Sign"
+        id: "minecraft:sign"
       },
       pos: [3, 2, 3],
-      state: 10
+      state: 9
     },
     {
       nbt: {
         Items: [],
-        id: "Chest",
+        id: "minecraft:chest",
         Lock: ""
       },
       pos: [1, 1, 6],
-      state: 11
+      state: 10
     },
     {
       nbt: {
         metadata: "chest",
         mirror: "NONE",
         ignoreEntities: 0b,
+        powered: 0b,
+        seed: 0L,
         author: "Searge",
         rotation: "NONE",
         mode: "DATA",
         posX: 1,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 1,
+        showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [1, 2, 6],
-      state: 12
+      state: 11
     },
     {
       nbt: {
@@ -1142,77 +952,323 @@
             id: "minecraft:splash_potion",
             tag: {
               Potion: "minecraft:weakness"
-            },
-            Damage: 0s
+            }
           }
         ],
-        id: "Cauldron",
+        id: "minecraft:brewing_stand",
         BrewTime: 0s,
         Lock: ""
       },
       pos: [5, 2, 6],
+      state: 12
+    },
+    {
+      pos: [2, 1, 1],
       state: 13
     },
     {
-      nbt: {
-        Item: "minecraft:cactus",
-        Data: 0,
-        id: "FlowerPot"
-      },
-      pos: [5, 2, 7],
-      state: 14
+      pos: [4, 1, 1],
+      state: 13
+    },
+    {
+      pos: [2, 2, 1],
+      state: 13
+    },
+    {
+      pos: [4, 2, 1],
+      state: 13
+    },
+    {
+      pos: [2, 3, 1],
+      state: 13
+    },
+    {
+      pos: [4, 3, 1],
+      state: 13
     },
     {
       pos: [2, 1, 2],
-      state: 15
+      state: 14
     },
     {
       pos: [4, 1, 2],
-      state: 15
+      state: 14
     },
     {
       pos: [2, 2, 2],
-      state: 15
+      state: 14
     },
     {
       pos: [4, 2, 2],
-      state: 15
+      state: 14
     },
     {
       pos: [1, 1, 3],
-      state: 16
+      state: 15
+    },
+    {
+      pos: [2, 1, 3],
+      state: 13
+    },
+    {
+      pos: [3, 1, 3],
+      state: 13
+    },
+    {
+      pos: [4, 1, 3],
+      state: 13
+    },
+    {
+      pos: [5, 1, 3],
+      state: 13
+    },
+    {
+      pos: [1, 2, 3],
+      state: 13
+    },
+    {
+      pos: [2, 2, 3],
+      state: 13
+    },
+    {
+      pos: [4, 2, 3],
+      state: 13
+    },
+    {
+      pos: [5, 2, 3],
+      state: 13
     },
     {
       pos: [1, 3, 3],
-      state: 17
-    },
-    {
-      pos: [3, 3, 3],
-      state: 18
-    },
-    {
-      pos: [1, 1, 4],
       state: 16
     },
     {
+      pos: [2, 3, 3],
+      state: 13
+    },
+    {
+      pos: [3, 3, 3],
+      state: 17
+    },
+    {
+      pos: [4, 3, 3],
+      state: 13
+    },
+    {
+      pos: [5, 3, 3],
+      state: 13
+    },
+    {
+      pos: [1, 1, 4],
+      state: 15
+    },
+    {
+      pos: [2, 1, 4],
+      state: 13
+    },
+    {
+      pos: [3, 1, 4],
+      state: 13
+    },
+    {
+      pos: [4, 1, 4],
+      state: 13
+    },
+    {
       pos: [5, 1, 4],
-      state: 19
+      state: 18
+    },
+    {
+      pos: [1, 2, 4],
+      state: 13
+    },
+    {
+      pos: [2, 2, 4],
+      state: 13
+    },
+    {
+      pos: [3, 2, 4],
+      state: 13
+    },
+    {
+      pos: [4, 2, 4],
+      state: 13
+    },
+    {
+      pos: [5, 2, 4],
+      state: 13
+    },
+    {
+      pos: [1, 3, 4],
+      state: 13
+    },
+    {
+      pos: [2, 3, 4],
+      state: 13
+    },
+    {
+      pos: [3, 3, 4],
+      state: 13
+    },
+    {
+      pos: [4, 3, 4],
+      state: 13
+    },
+    {
+      pos: [5, 3, 4],
+      state: 13
+    },
+    {
+      pos: [1, 1, 5],
+      state: 13
+    },
+    {
+      pos: [2, 1, 5],
+      state: 13
+    },
+    {
+      pos: [3, 1, 5],
+      state: 13
+    },
+    {
+      pos: [4, 1, 5],
+      state: 13
     },
     {
       pos: [5, 1, 5],
-      state: 20
+      state: 19
+    },
+    {
+      pos: [1, 2, 5],
+      state: 13
+    },
+    {
+      pos: [2, 2, 5],
+      state: 13
+    },
+    {
+      pos: [3, 2, 5],
+      state: 13
+    },
+    {
+      pos: [4, 2, 5],
+      state: 13
+    },
+    {
+      pos: [5, 2, 5],
+      state: 13
+    },
+    {
+      pos: [1, 3, 5],
+      state: 13
+    },
+    {
+      pos: [2, 3, 5],
+      state: 13
+    },
+    {
+      pos: [3, 3, 5],
+      state: 13
+    },
+    {
+      pos: [4, 3, 5],
+      state: 13
+    },
+    {
+      pos: [5, 3, 5],
+      state: 13
+    },
+    {
+      pos: [2, 1, 6],
+      state: 13
+    },
+    {
+      pos: [3, 1, 6],
+      state: 13
+    },
+    {
+      pos: [4, 1, 6],
+      state: 13
     },
     {
       pos: [5, 1, 6],
-      state: 21
+      state: 20
+    },
+    {
+      pos: [2, 2, 6],
+      state: 13
+    },
+    {
+      pos: [3, 2, 6],
+      state: 13
+    },
+    {
+      pos: [4, 2, 6],
+      state: 13
+    },
+    {
+      pos: [1, 3, 6],
+      state: 13
+    },
+    {
+      pos: [2, 3, 6],
+      state: 13
+    },
+    {
+      pos: [3, 3, 6],
+      state: 13
+    },
+    {
+      pos: [4, 3, 6],
+      state: 13
+    },
+    {
+      pos: [5, 3, 6],
+      state: 13
+    },
+    {
+      pos: [1, 1, 7],
+      state: 13
+    },
+    {
+      pos: [2, 1, 7],
+      state: 13
+    },
+    {
+      pos: [3, 1, 7],
+      state: 13
+    },
+    {
+      pos: [4, 1, 7],
+      state: 13
     },
     {
       pos: [5, 1, 7],
-      state: 22
+      state: 21
+    },
+    {
+      pos: [1, 2, 7],
+      state: 13
+    },
+    {
+      pos: [2, 2, 7],
+      state: 13
     },
     {
       pos: [3, 2, 7],
+      state: 22
+    },
+    {
+      pos: [4, 2, 7],
+      state: 13
+    },
+    {
+      pos: [5, 2, 7],
       state: 23
+    },
+    {
+      pos: [1, 3, 7],
+      state: 13
     },
     {
       pos: [2, 3, 7],
@@ -1220,78 +1276,52 @@
     },
     {
       pos: [3, 3, 7],
-      state: 23
+      state: 22
     },
     {
       pos: [4, 3, 7],
       state: 24
     },
     {
+      pos: [5, 3, 7],
+      state: 13
+    },
+    {
       pos: [3, 4, 7],
-      state: 23
+      state: 22
     },
     {
       pos: [3, 5, 7],
-      state: 23
+      state: 22
     }
   ],
   palette: [
     {
-      Properties: {
-        variant: "stone"
-      },
       Name: "minecraft:stone"
     },
     {
-      Properties: {
-        variant: "stonebrick"
-      },
-      Name: "minecraft:stonebrick"
+      Name: "minecraft:stone_bricks"
     },
     {
-      Properties: {
-        variant: "cracked_stonebrick"
-      },
-      Name: "minecraft:stonebrick"
+      Name: "minecraft:cracked_stone_bricks"
     },
     {
-      Name: "minecraft:air"
+      Name: "minecraft:mossy_stone_bricks"
     },
     {
-      Properties: {
-        variant: "mossy_stonebrick"
-      },
-      Name: "minecraft:stonebrick"
+      Name: "minecraft:polished_andesite"
     },
     {
-      Properties: {
-        variant: "smooth_andesite"
-      },
-      Name: "minecraft:stone"
+      Name: "minecraft:chiseled_stone_bricks"
     },
     {
-      Properties: {
-        variant: "chiseled_stonebrick"
-      },
-      Name: "minecraft:stonebrick"
+      Name: "minecraft:infested_chiseled_stone_bricks"
     },
     {
-      Properties: {
-        variant: "chiseled_brick"
-      },
-      Name: "minecraft:monster_egg"
+      Name: "minecraft:infested_stone_bricks"
     },
     {
-      Properties: {
-        variant: "stone_brick"
-      },
-      Name: "minecraft:monster_egg"
-    },
-    {
-      Properties: {
-        variant: "mossy_brick"
-      },
-      Name: "minecraft:monster_egg"
+      Name: "minecraft:infested_mossy_stone_bricks"
     },
     {
       Properties: {
@@ -1301,7 +1331,8 @@
     },
     {
       Properties: {
-        facing: "east"
+        facing: "east",
+        type: "single"
       },
       Name: "minecraft:chest"
     },
@@ -1320,35 +1351,28 @@
       Name: "minecraft:brewing_stand"
     },
     {
-      Properties: {
-        contents: "empty",
-        legacy_data: "0"
-      },
-      Name: "minecraft:flower_pot"
+      Name: "minecraft:air"
     },
     {
       Properties: {
-        east: "false",
+        east: "true",
         south: "false",
         north: "false",
-        west: "false"
+        west: "true"
       },
       Name: "minecraft:iron_bars"
     },
     {
-      Properties: {
-        color: "red"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:red_carpet"
     },
     {
-      Name: "minecraft:web"
+      Name: "minecraft:cobweb"
     },
     {
       Properties: {
         facing: "south"
       },
-      Name: "minecraft:torch"
+      Name: "minecraft:wall_torch"
     },
     {
       Properties: {
@@ -1366,10 +1390,9 @@
     },
     {
       Properties: {
-        half: "top",
-        variant: "spruce"
+        type: "top"
       },
-      Name: "minecraft:wooden_slab"
+      Name: "minecraft:spruce_slab"
     },
     {
       Properties: {
@@ -1386,11 +1409,14 @@
       Name: "minecraft:ladder"
     },
     {
+      Name: "minecraft:potted_cactus"
+    },
+    {
       Properties: {
         facing: "north"
       },
-      Name: "minecraft:torch"
+      Name: "minecraft:wall_torch"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

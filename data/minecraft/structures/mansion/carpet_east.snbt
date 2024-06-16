@@ -38,17 +38,11 @@
   ],
   palette: [
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:white_carpet"
     },
     {
-      Properties: {
-        color: "red"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:red_carpet"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }
