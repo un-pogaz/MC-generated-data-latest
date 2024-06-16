@@ -12,6 +12,12 @@
         "description": "Sneak near a Sculk Sensor or Warden to prevent it from detecting you",
         "frame": "task"
       },
+      "minecraft:adventure/brush_armadillo": {
+        "icon": "minecraft:armadillo_scute",
+        "title": "Isn't it Scute?",
+        "description": "Get Armadillo Scutes from an Armadillo using a Brush",
+        "frame": "task"
+      },
       "minecraft:adventure/crafters_crafting_crafters": {
         "icon": "minecraft:crafter",
         "title": "Crafters Crafting Crafters",
@@ -129,7 +135,15 @@
             "icon": "minecraft:trial_key",
             "title": "Under Lock and Key",
             "description": "Unlock a Vault with a Trial Key",
-            "frame": "task"
+            "frame": "task",
+            "childs": {
+              "minecraft:adventure/revaulting": {
+                "icon": "minecraft:ominous_trial_key",
+                "title": "Revaulting",
+                "description": "Unlock an Ominous Vault with an Ominous Trial Key",
+                "frame": "goal"
+              }
+            }
           },
           "minecraft:adventure/who_needs_rockets": {
             "icon": "minecraft:wind_charge",
@@ -542,6 +556,25 @@
             "icon": "minecraft:cod",
             "title": "A Complete Catalogue",
             "description": "Tame all Cat variants!",
+            "frame": "challenge",
+            "rewards": "50 xp"
+          },
+          "minecraft:husbandry/remove_wolf_armor": {
+            "icon": "minecraft:shears",
+            "title": "Snip it!",
+            "description": "Remove Wolf Armor from a Wolf using Shears",
+            "frame": "task"
+          },
+          "minecraft:husbandry/repair_wolf_armor": {
+            "icon": "minecraft:wolf_armor",
+            "title": "Good as New",
+            "description": "Repair a damaged Wolf Armor using Armadillo Scutes",
+            "frame": "task"
+          },
+          "minecraft:husbandry/whole_pack": {
+            "icon": "minecraft:bone",
+            "title": "The Whole Pack",
+            "description": "Tame one of each Wolf variant",
             "frame": "challenge",
             "rewards": "50 xp"
           }
