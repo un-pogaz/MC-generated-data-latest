@@ -2,48 +2,42 @@
   "sounds": [
     {
       "name": "item/crossbow/shoot1",
-      "volume": 0.9,
-      "pitch": 0.9
-    },
-    {
-      "name": "item/crossbow/shoot2",
-      "volume": 0.9,
-      "pitch": 0.9
-    },
-    {
-      "name": "item/crossbow/shoot3",
-      "volume": 0.9,
-      "pitch": 0.9
+      "volume": 0.8
     },
     {
       "name": "item/crossbow/shoot1",
-      "volume": 0.9,
-      "pitch": 1
-    },
-    {
-      "name": "item/crossbow/shoot2",
-      "volume": 0.9,
-      "pitch": 1
-    },
-    {
-      "name": "item/crossbow/shoot3",
-      "volume": 0.9,
-      "pitch": 1
+      "volume": 0.9
     },
     {
       "name": "item/crossbow/shoot1",
-      "volume": 0.8,
-      "pitch": 1
+      "pitch": 0.9,
+      "volume": 0.9
     },
     {
       "name": "item/crossbow/shoot2",
-      "volume": 0.8,
-      "pitch": 1
+      "volume": 0.8
+    },
+    {
+      "name": "item/crossbow/shoot2",
+      "volume": 0.9
+    },
+    {
+      "name": "item/crossbow/shoot2",
+      "pitch": 0.9,
+      "volume": 0.9
     },
     {
       "name": "item/crossbow/shoot3",
-      "volume": 0.8,
-      "pitch": 1
+      "volume": 0.8
+    },
+    {
+      "name": "item/crossbow/shoot3",
+      "volume": 0.9
+    },
+    {
+      "name": "item/crossbow/shoot3",
+      "pitch": 0.9,
+      "volume": 0.9
     }
   ],
   "subtitle": "subtitles.item.crossbow.shoot"

@@ -1,9 +1,6 @@
 {
   "sounds": [
-    {
-      "name": "block/barrel/close",
-      "volume": 1
-    }
+    "block/barrel/close"
   ],
   "subtitle": "subtitles.block.barrel.close"
 }

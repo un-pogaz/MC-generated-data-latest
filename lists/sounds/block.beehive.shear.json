@@ -2,18 +2,17 @@
   "sounds": [
     {
       "name": "block/beehive/shear",
-      "volume": 0.8,
-      "pitch": 1
+      "volume": 0.8
     },
     {
       "name": "block/beehive/shear",
-      "volume": 0.8,
-      "pitch": 0.9
+      "pitch": 0.8,
+      "volume": 0.8
     },
     {
       "name": "block/beehive/shear",
-      "volume": 0.8,
-      "pitch": 0.8
+      "pitch": 0.9,
+      "volume": 0.8
     }
   ],
   "subtitle": "subtitles.block.beehive.shear"

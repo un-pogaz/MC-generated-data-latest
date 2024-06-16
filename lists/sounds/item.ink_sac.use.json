@@ -2,7 +2,7 @@
   "sounds": [
     {
       "name": "item/ink_sac/ink_sac1",
-      "pitch": 0.9
+      "pitch": 0.85
     },
     {
       "name": "item/ink_sac/ink_sac1",
@@ -10,11 +10,11 @@
     },
     {
       "name": "item/ink_sac/ink_sac1",
-      "pitch": 0.85
+      "pitch": 0.9
     },
     {
       "name": "item/ink_sac/ink_sac2",
-      "pitch": 0.9
+      "pitch": 0.85
     },
     {
       "name": "item/ink_sac/ink_sac2",
@@ -22,11 +22,11 @@
     },
     {
       "name": "item/ink_sac/ink_sac2",
-      "pitch": 0.85
+      "pitch": 0.9
     },
     {
       "name": "item/ink_sac/ink_sac3",
-      "pitch": 0.9
+      "pitch": 0.85
     },
     {
       "name": "item/ink_sac/ink_sac3",
@@ -34,7 +34,7 @@
     },
     {
       "name": "item/ink_sac/ink_sac3",
-      "pitch": 0.85
+      "pitch": 0.9
     }
   ],
   "subtitle": "subtitles.item.ink_sac.use"
