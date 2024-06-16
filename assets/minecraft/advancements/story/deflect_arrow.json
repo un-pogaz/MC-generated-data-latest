@@ -6,11 +6,13 @@
     "parent": "minecraft:story/obtain_armor",
     "criteria": {
         "deflected_projectile": {
-            "trigger": "minecraft:player_damaged",
+            "trigger": "minecraft:entity_hurt_player",
             "conditions": {
                 "damage": {
-                    "blocked": true,
-                    "is_projectile": true
+                    "type": {
+                        "is_projectile": true
+                    },
+                    "blocked": true
                 }
             }
         }

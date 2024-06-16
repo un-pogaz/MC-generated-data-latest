@@ -1,6 +1,14 @@
-minecraft:story/brew_potion
+minecraft:adventure/kill_a_mob
+minecraft:adventure/kill_all_mobs
+minecraft:adventure/root
+minecraft:adventure/shoot_arrow
+minecraft:adventure/sleep_in_bed
+minecraft:adventure/sniper_duel
+minecraft:adventure/trade
+minecraft:story/brew_weakness_potion
 minecraft:story/create_beacon
 minecraft:story/create_full_beacon
+minecraft:story/cure_zombie_villager
 minecraft:story/deflect_arrow
 minecraft:story/elytra
 minecraft:story/enchant_item
