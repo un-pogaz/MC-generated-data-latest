@@ -175,8 +175,6 @@ minecraft:farmland
 minecraft:fern
 minecraft:fire
 minecraft:flower_pot
-minecraft:flowing_lava
-minecraft:flowing_water
 minecraft:frosted_ice
 minecraft:furnace
 minecraft:glass
