@@ -13,13 +13,14 @@ minecraft:diamond_helmet
 minecraft:diamond_boots
 minecraft:diamond_leggings
 minecraft:diamond
+minecraft:enchanted_golden_apple
 
 minecraft:spectral_arrow
 minecraft:gold_block
+minecraft:iron_block
 minecraft:gold_ingot
 minecraft:iron_ingot
 minecraft:crying_obsidian
 minecraft:quartz
 minecraft:gilded_blackstone
 minecraft:magma_cream
-minecraft:iron_nugget

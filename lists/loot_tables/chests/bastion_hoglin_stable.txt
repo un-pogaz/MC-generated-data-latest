@@ -1,11 +1,15 @@
 minecraft:diamond_shovel
+minecraft:diamond_pickaxe
 minecraft:netherite_scrap
+minecraft:ancient_debris
 minecraft:ancient_debris
 minecraft:saddle
 minecraft:gold_block
-minecraft:golden_hoe
-empty
+minecraft:golden_carrot
+minecraft:golden_apple
 
+minecraft:golden_axe
+minecraft:crying_obsidian
 minecraft:glowstone
 minecraft:gilded_blackstone
 minecraft:soul_sand

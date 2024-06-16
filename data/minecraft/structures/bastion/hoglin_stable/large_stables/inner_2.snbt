@@ -2331,6 +2331,7 @@
     },
     {
       Properties: {
+        waterlogged: "false",
         hanging: "false"
       },
       Name: "minecraft:lantern"
@@ -2354,5 +2355,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2571
+  DataVersion: 2572
 }
