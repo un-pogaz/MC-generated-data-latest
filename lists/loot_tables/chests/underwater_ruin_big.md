@@ -1,15 +1,15 @@
-| Name                         | Count | Chance | Weight | Comment                                 |
-| ---------------------------- | ----- | ------ | ------ | --------------------------------------- |
-| 2 to 8 time                  |    -- |     -- |     -- |                                         |
-| minecraft:coal               |  1..4 |  32.3% |  10/31 |                                         |
-| minecraft:gold_nugget        |  1..3 |  32.3% |  10/31 |                                         |
-| minecraft:emerald            |     1 |   3.2% |   1/31 |                                         |
-| minecraft:wheat              |  2..3 |  32.3% |  10/31 |                                         |
-| – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – |
-| 1 time                       |    -- |     -- |     -- |                                         |
-| minecraft:golden_apple       |     1 |   4.3% |   1/23 |                                         |
-| minecraft:enchanted_book     |     1 |  21.7% |   5/23 | enchantments: *                         |
-| minecraft:leather_chestplate |     1 |   4.3% |   1/23 |                                         |
-| minecraft:golden_helmet      |     1 |   4.3% |   1/23 |                                         |
-| minecraft:fishing_rod        |     1 |  21.7% |   5/23 | enchantments: *                         |
-| minecraft:explorer_map       |     1 |  43.5% |  10/23 | destination: #minecraft:buried_treasure |
+| Name                         | Count | Chance | Weight | Comment                                  |
+| ---------------------------- | ----- | ------ | ------ | ---------------------------------------- |
+| 2 to 8 time                  |    -- |     -- |     -- |                                          |
+| minecraft:coal               |  1..4 |  32.3% |  10/31 |                                          |
+| minecraft:gold_nugget        |  1..3 |  32.3% |  10/31 |                                          |
+| minecraft:emerald            |     1 |   3.2% |   1/31 |                                          |
+| minecraft:wheat              |  2..3 |  32.3% |  10/31 |                                          |
+| – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – –  |
+| 1 time                       |    -- |     -- |     -- |                                          |
+| minecraft:golden_apple       |     1 |   4.3% |   1/23 |                                          |
+| minecraft:enchanted_book     |     1 |  21.7% |   5/23 | enchantments: *                          |
+| minecraft:leather_chestplate |     1 |   4.3% |   1/23 |                                          |
+| minecraft:golden_helmet      |     1 |   4.3% |   1/23 |                                          |
+| minecraft:fishing_rod        |     1 |  21.7% |   5/23 | enchantments: *                          |
+| minecraft:explorer_map       |     1 |  43.5% |  10/23 | destination: #minecraft:on_treasure_maps |

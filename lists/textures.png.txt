@@ -1383,7 +1383,7 @@ minecraft:gui/title/background/panorama_5
 minecraft:gui/title/background/panorama_overlay
 minecraft:gui/title/edition
 minecraft:gui/title/minecraft
-minecraft:gui/title/mojang
+minecraft:gui/title/mojangstudios
 minecraft:gui/toasts
 minecraft:gui/widgets
 minecraft:gui/world_selection
@@ -1692,6 +1692,7 @@ minecraft:item/mutton
 minecraft:item/name_tag
 minecraft:item/nautilus_shell
 minecraft:item/nether_brick
+minecraft:item/nether_sprouts
 minecraft:item/nether_star
 minecraft:item/nether_wart
 minecraft:item/netherite_axe
