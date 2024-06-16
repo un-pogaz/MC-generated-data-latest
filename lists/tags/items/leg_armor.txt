@@ -1,0 +1,6 @@
+minecraft:leather_leggings
+minecraft:chainmail_leggings
+minecraft:golden_leggings
+minecraft:iron_leggings
+minecraft:diamond_leggings
+minecraft:netherite_leggings
