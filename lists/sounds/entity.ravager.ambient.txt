@@ -1,0 +1,8 @@
+minecraft:mob/ravager/idle1
+minecraft:mob/ravager/idle2
+minecraft:mob/ravager/idle3
+minecraft:mob/ravager/idle4
+minecraft:mob/ravager/idle5
+minecraft:mob/ravager/idle6
+minecraft:mob/ravager/idle7
+minecraft:mob/ravager/idle8

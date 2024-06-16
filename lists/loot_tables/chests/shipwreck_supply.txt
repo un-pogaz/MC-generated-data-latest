@@ -3,9 +3,11 @@ minecraft:potato
 minecraft:poisonous_potato
 minecraft:carrot
 minecraft:wheat
+minecraft:suspicious_stew
 minecraft:coal
 minecraft:rotten_flesh
 minecraft:pumpkin
+minecraft:bamboo
 minecraft:gunpowder
 minecraft:tnt
 minecraft:leather_helmet

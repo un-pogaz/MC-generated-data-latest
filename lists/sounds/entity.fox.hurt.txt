@@ -1,0 +1,4 @@
+minecraft:mob/fox/hurt1
+minecraft:mob/fox/hurt2
+minecraft:mob/fox/hurt3
+minecraft:mob/fox/hurt4

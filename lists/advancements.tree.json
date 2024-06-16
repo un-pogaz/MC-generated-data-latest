@@ -56,6 +56,35 @@
           }
         }
       },
+      "minecraft:adventure/ol_betsy": {
+        "icon": "minecraft:crossbow",
+        "title": "Ol' Betsy",
+        "description": "Shoot a crossbow",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/arbalistic": {
+            "icon": "minecraft:crossbow",
+            "title": "Arbalistic",
+            "description": "Kill five unique mobs with one crossbow shot",
+            "frame": "challenge",
+            "rewards": "85 xp",
+            "hidden": true
+          },
+          "minecraft:adventure/two_birds_one_arrow": {
+            "icon": "minecraft:crossbow",
+            "title": "Two Birds, One Arrow",
+            "description": "Kill two Phantoms with a piercing arrow",
+            "frame": "challenge",
+            "rewards": "65 xp"
+          },
+          "minecraft:adventure/whos_the_pillager_now": {
+            "icon": "minecraft:crossbow",
+            "title": "Who's the Pillager Now?",
+            "description": "Give a Pillager a taste of their own medicine",
+            "frame": "task"
+          }
+        }
+      },
       "minecraft:adventure/sleep_in_bed": {
         "icon": "minecraft:red_bed",
         "title": "Sweet Dreams",

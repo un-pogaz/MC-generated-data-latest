@@ -1,0 +1,4 @@
+minecraft:block/composter/fill1
+minecraft:block/composter/fill2
+minecraft:block/composter/fill3
+minecraft:block/composter/fill4

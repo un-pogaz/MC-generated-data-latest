@@ -1,0 +1,2 @@
+minecraft:mob/wandering_trader/reappeared1
+minecraft:mob/wandering_trader/reappeared2

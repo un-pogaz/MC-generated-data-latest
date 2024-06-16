@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/ravager/roar1",
+      "volume": 1,
+      "attenuation_distance": 35
+    },
+    {
+      "name": "mob/ravager/roar2",
+      "volume": 1,
+      "attenuation_distance": 35
+    },
+    {
+      "name": "mob/ravager/roar3",
+      "volume": 1,
+      "attenuation_distance": 35
+    },
+    {
+      "name": "mob/ravager/roar4",
+      "volume": 1,
+      "attenuation_distance": 35
+    }
+  ],
+  "subtitle": "subtitles.entity.ravager.roar"
+}

@@ -11,7 +11,7 @@
           "children": {
             "nbt": {
               "type": "argument",
-              "parser": "minecraft:nbt",
+              "parser": "minecraft:nbt_compound_tag",
               "executable": true
             }
           },

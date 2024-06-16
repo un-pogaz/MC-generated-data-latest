@@ -1,0 +1,5 @@
+minecraft:mob/pillager/celebrate1
+minecraft:mob/pillager/celebrate2
+minecraft:mob/pillager/celebrate3
+minecraft:mob/pillager/celebrate4
+minecraft:mob/pillager/horn_celebrate

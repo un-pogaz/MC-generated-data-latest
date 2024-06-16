@@ -1,0 +1,7 @@
+minecraft:step/scaffold1
+minecraft:step/scaffold2
+minecraft:step/scaffold3
+minecraft:step/scaffold4
+minecraft:step/scaffold5
+minecraft:step/scaffold6
+minecraft:step/scaffold7

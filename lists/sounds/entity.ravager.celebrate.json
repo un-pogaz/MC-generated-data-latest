@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/ravager/celebrate1",
+      "volume": 1
+    },
+    {
+      "name": "mob/ravager/celebrate2",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.ravager.celebrate"
+}

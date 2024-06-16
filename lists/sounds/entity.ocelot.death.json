@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "mob/cat/ocelot/death1",
+      "volume": 0.45,
+      "pitch": 1
+    },
+    {
+      "name": "mob/cat/ocelot/death2",
+      "volume": 0.45,
+      "pitch": 1
+    },
+    {
+      "name": "mob/cat/ocelot/death3",
+      "volume": 0.45,
+      "pitch": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.cat.death"
+}

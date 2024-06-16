@@ -1,0 +1,4 @@
+minecraft:mob/wandering_trader/yes1
+minecraft:mob/wandering_trader/yes2
+minecraft:mob/wandering_trader/yes3
+minecraft:mob/wandering_trader/yes4

@@ -1,0 +1,53 @@
+{
+  "sounds": [
+    {
+      "name": "mob/mooshroom/eat1",
+      "volume": 1
+    },
+    {
+      "name": "mob/mooshroom/eat2",
+      "volume": 1
+    },
+    {
+      "name": "mob/mooshroom/eat3",
+      "volume": 1
+    },
+    {
+      "name": "mob/mooshroom/eat4",
+      "volume": 1
+    },
+    {
+      "name": "mob/mooshroom/eat1",
+      "pitch": 0.95
+    },
+    {
+      "name": "mob/mooshroom/eat2",
+      "pitch": 0.95
+    },
+    {
+      "name": "mob/mooshroom/eat3",
+      "pitch": 0.95
+    },
+    {
+      "name": "mob/mooshroom/eat4",
+      "pitch": 0.95
+    },
+    {
+      "name": "mob/mooshroom/eat1",
+      "pitch": 1.05
+    },
+    {
+      "name": "mob/mooshroom/eat2",
+      "pitch": 1.05
+    },
+    {
+      "name": "mob/mooshroom/eat3",
+      "pitch": 1.05
+    },
+    {
+      "name": "mob/mooshroom/eat4",
+      "pitch": 1.05
+    }
+  ],
+  "subtitle": "subtitles.entity.mooshroom.eat"
+}

@@ -1,0 +1,33 @@
+{
+  "sounds": [
+    {
+      "name": "mob/fox/aggro1",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/fox/aggro2",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/fox/aggro3",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/fox/aggro4",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/fox/aggro5",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/fox/aggro6",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/fox/aggro7",
+      "volume": 0.65
+    }
+  ],
+  "subtitle": "subtitles.entity.fox.aggro"
+}
