@@ -465,6 +465,7 @@ minecraft:block/green_stained_glass_pane_side_alt
 minecraft:block/green_terracotta
 minecraft:block/green_wool
 minecraft:block/grindstone
+minecraft:block/hanging_lantern
 minecraft:block/hay_block
 minecraft:block/heavy_weighted_pressure_plate
 minecraft:block/heavy_weighted_pressure_plate_down
@@ -494,6 +495,7 @@ minecraft:block/iron_trapdoor_top
 minecraft:block/item_frame
 minecraft:block/item_frame_map
 minecraft:block/jack_o_lantern
+minecraft:block/jigsaw
 minecraft:block/jukebox
 minecraft:block/jungle_button
 minecraft:block/jungle_button_inventory
@@ -528,6 +530,7 @@ minecraft:block/jungle_wood
 minecraft:block/kelp
 minecraft:block/kelp_plant
 minecraft:block/ladder
+minecraft:block/lantern
 minecraft:block/lapis_block
 minecraft:block/lapis_ore
 minecraft:block/large_fern_bottom
@@ -1694,6 +1697,7 @@ minecraft:item/iron_sword
 minecraft:item/iron_trapdoor
 minecraft:item/item_frame
 minecraft:item/jack_o_lantern
+minecraft:item/jigsaw
 minecraft:item/jukebox
 minecraft:item/jungle_boat
 minecraft:item/jungle_button
@@ -1713,6 +1717,7 @@ minecraft:item/jungle_wood
 minecraft:item/kelp
 minecraft:item/knowledge_book
 minecraft:item/ladder
+minecraft:item/lantern
 minecraft:item/lapis_block
 minecraft:item/lapis_lazuli
 minecraft:item/lapis_ore
