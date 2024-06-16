@@ -149,6 +149,7 @@ minecraft:budding_amethyst
 minecraft:cactus
 minecraft:cake
 minecraft:calcite
+minecraft:calibrated_sculk_sensor
 minecraft:campfire
 minecraft:candle
 minecraft:candle_cake
@@ -650,6 +651,8 @@ minecraft:pink_wall_banner
 minecraft:pink_wool
 minecraft:piston
 minecraft:piston_head
+minecraft:pitcher_crop
+minecraft:pitcher_plant
 minecraft:player_head
 minecraft:player_wall_head
 minecraft:podzol
@@ -826,6 +829,7 @@ minecraft:smooth_sandstone_slab
 minecraft:smooth_sandstone_stairs
 minecraft:smooth_stone
 minecraft:smooth_stone_slab
+minecraft:sniffer_egg
 minecraft:snow
 minecraft:snow_block
 minecraft:soul_campfire
@@ -891,6 +895,7 @@ minecraft:structure_block
 minecraft:structure_void
 minecraft:sugar_cane
 minecraft:sunflower
+minecraft:suspicious_gravel
 minecraft:suspicious_sand
 minecraft:sweet_berry_bush
 minecraft:tall_grass
@@ -1026,6 +1031,7 @@ minecraft:zombie_wall_head
 #minecraft:cherry_logs
 #minecraft:climbable
 #minecraft:coal_ores
+#minecraft:combination_step_sound_blocks
 #minecraft:completes_find_tree_tutorial
 #minecraft:convertable_to_mud
 #minecraft:copper_ores
@@ -1119,6 +1125,7 @@ minecraft:zombie_wall_head
 #minecraft:smelts_to_glass
 #minecraft:snaps_goat_horn
 #minecraft:sniffer_diggable_block
+#minecraft:sniffer_egg_hatch_boost
 #minecraft:snow
 #minecraft:snow_layer_can_survive_on
 #minecraft:snow_layer_cannot_survive_on
@@ -1133,10 +1140,12 @@ minecraft:zombie_wall_head
 #minecraft:strider_warm_blocks
 #minecraft:tall_flowers
 #minecraft:terracotta
+#minecraft:trail_ruins_replaceable
 #minecraft:trapdoors
 #minecraft:underwater_bonemeals
 #minecraft:unstable_bottom_center
 #minecraft:valid_spawn
+#minecraft:vibration_resonators
 #minecraft:wall_corals
 #minecraft:wall_hanging_signs
 #minecraft:wall_post_override

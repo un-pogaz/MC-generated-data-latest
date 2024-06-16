@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/turtle/egg/egg_break1",
+      "pitch": 0.8
+    },
+    {
+      "name": "mob/turtle/egg/egg_break2",
+      "pitch": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.sniffer.egg_hatch"
+}
