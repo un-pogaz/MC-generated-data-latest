@@ -1,0 +1,6 @@
+minecraft:block/muddy_mangrove_roots/break1
+minecraft:block/muddy_mangrove_roots/break2
+minecraft:block/muddy_mangrove_roots/break3
+minecraft:block/muddy_mangrove_roots/break4
+minecraft:block/muddy_mangrove_roots/break5
+minecraft:block/muddy_mangrove_roots/break6

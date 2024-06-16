@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/mud_bricks/break1",
+    "block/mud_bricks/break2",
+    "block/mud_bricks/break3",
+    "block/mud_bricks/break4",
+    "block/mud_bricks/break5",
+    "block/mud_bricks/break6"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

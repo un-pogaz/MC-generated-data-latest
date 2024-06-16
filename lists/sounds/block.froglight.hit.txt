@@ -1,0 +1,6 @@
+minecraft:block/froglight/step1
+minecraft:block/froglight/step2
+minecraft:block/froglight/step3
+minecraft:block/froglight/step4
+minecraft:block/froglight/step5
+minecraft:block/froglight/step6

@@ -1,0 +1,6 @@
+minecraft:block/frogspawn/step1
+minecraft:block/frogspawn/step2
+minecraft:block/frogspawn/step3
+minecraft:block/frogspawn/step4
+minecraft:block/frogspawn/step5
+minecraft:block/frogspawn/step6

@@ -1,0 +1,8 @@
+minecraft:mob/frog/long_jump1
+minecraft:mob/frog/long_jump1
+minecraft:mob/frog/long_jump2
+minecraft:mob/frog/long_jump2
+minecraft:mob/frog/long_jump3
+minecraft:mob/frog/long_jump3
+minecraft:mob/frog/long_jump4
+minecraft:mob/frog/long_jump4

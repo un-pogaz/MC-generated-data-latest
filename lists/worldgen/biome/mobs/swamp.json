@@ -21,6 +21,12 @@
       "weight": 8
     },
     {
+      "maxCount": 5,
+      "minCount": 2,
+      "type": "minecraft:frog",
+      "weight": 10
+    },
+    {
       "maxCount": 4,
       "minCount": 4,
       "type": "minecraft:pig",

@@ -1,0 +1,6 @@
+minecraft:block/sculk_catalyst/step1
+minecraft:block/sculk_catalyst/step2
+minecraft:block/sculk_catalyst/step3
+minecraft:block/sculk_catalyst/step4
+minecraft:block/sculk_catalyst/step5
+minecraft:block/sculk_catalyst/step6
