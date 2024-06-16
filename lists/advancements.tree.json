@@ -28,7 +28,7 @@
               "minecraft:adventure/sniper_duel": {
                 "icon": "minecraft:arrow",
                 "title": "Sniper Duel",
-                "description": "Kill a Skeleton with an arrow from more than 50 meters",
+                "description": "Kill a Skeleton from more than 50 meters away",
                 "frame": "challenge",
                 "rewards": "50 xp"
               }
