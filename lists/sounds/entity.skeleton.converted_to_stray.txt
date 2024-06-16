@@ -1,3 +1,0 @@
-minecraft:mob/stray/convert1
-minecraft:mob/stray/convert2
-minecraft:mob/stray/convert3

@@ -1,6 +1,0 @@
-minecraft:block/azalea/break1
-minecraft:block/azalea/break2
-minecraft:block/azalea/break3
-minecraft:block/azalea/break4
-minecraft:block/azalea/break5
-minecraft:block/azalea/break6

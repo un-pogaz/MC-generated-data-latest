@@ -38,8 +38,6 @@ gamerule fireDamage
 gamerule fireDamage <value brigadier:bool>
 gamerule forgiveDeadPlayers
 gamerule forgiveDeadPlayers <value brigadier:bool>
-gamerule freezeDamage
-gamerule freezeDamage <value brigadier:bool>
 gamerule keepInventory
 gamerule keepInventory <value brigadier:bool>
 gamerule logAdminCommands
@@ -52,8 +50,6 @@ gamerule mobGriefing
 gamerule mobGriefing <value brigadier:bool>
 gamerule naturalRegeneration
 gamerule naturalRegeneration <value brigadier:bool>
-gamerule playersSleepingPercentage
-gamerule playersSleepingPercentage <value brigadier:integer>
 gamerule randomTickSpeed
 gamerule randomTickSpeed <value brigadier:integer>
 gamerule reducedDebugInfo

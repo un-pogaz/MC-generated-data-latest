@@ -1,4 +1,0 @@
-minecraft:block/hanging_roots/break1
-minecraft:block/hanging_roots/break2
-minecraft:block/hanging_roots/break3
-minecraft:block/hanging_roots/break4

@@ -1790,7 +1790,7 @@
       Name: "minecraft:grass"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Properties: {
@@ -1973,5 +1973,5 @@
       Name: "minecraft:brown_wall_banner"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

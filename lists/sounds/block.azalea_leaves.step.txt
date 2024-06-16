@@ -1,5 +1,0 @@
-minecraft:block/azalea_leaves/step1
-minecraft:block/azalea_leaves/step2
-minecraft:block/azalea_leaves/step3
-minecraft:block/azalea_leaves/step4
-minecraft:block/azalea_leaves/step5
