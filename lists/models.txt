@@ -1,4 +1,3 @@
-minecraft:block/acacia_bark
 minecraft:block/acacia_button
 minecraft:block/acacia_button_inventory
 minecraft:block/acacia_button_pressed
@@ -27,6 +26,7 @@ minecraft:block/acacia_stairs_outer
 minecraft:block/acacia_trapdoor_bottom
 minecraft:block/acacia_trapdoor_open
 minecraft:block/acacia_trapdoor_top
+minecraft:block/acacia_wood
 minecraft:block/activator_rail
 minecraft:block/activator_rail_on
 minecraft:block/activator_rail_on_raised_ne
@@ -50,7 +50,6 @@ minecraft:block/beetroots_stage0
 minecraft:block/beetroots_stage1
 minecraft:block/beetroots_stage2
 minecraft:block/beetroots_stage3
-minecraft:block/birch_bark
 minecraft:block/birch_button
 minecraft:block/birch_button_inventory
 minecraft:block/birch_button_pressed
@@ -79,6 +78,7 @@ minecraft:block/birch_stairs_outer
 minecraft:block/birch_trapdoor_bottom
 minecraft:block/birch_trapdoor_open
 minecraft:block/birch_trapdoor_top
+minecraft:block/birch_wood
 minecraft:block/black_carpet
 minecraft:block/black_concrete
 minecraft:block/black_concrete_powder
@@ -236,7 +236,6 @@ minecraft:block/cyan_terracotta
 minecraft:block/cyan_wool
 minecraft:block/damaged_anvil
 minecraft:block/dandelion
-minecraft:block/dark_oak_bark
 minecraft:block/dark_oak_button
 minecraft:block/dark_oak_button_inventory
 minecraft:block/dark_oak_button_pressed
@@ -265,6 +264,7 @@ minecraft:block/dark_oak_stairs_outer
 minecraft:block/dark_oak_trapdoor_bottom
 minecraft:block/dark_oak_trapdoor_open
 minecraft:block/dark_oak_trapdoor_top
+minecraft:block/dark_oak_wood
 minecraft:block/dark_prismarine
 minecraft:block/dark_prismarine_slab
 minecraft:block/dark_prismarine_slab_top
@@ -417,7 +417,6 @@ minecraft:block/item_frame
 minecraft:block/item_frame_map
 minecraft:block/jack_o_lantern
 minecraft:block/jukebox
-minecraft:block/jungle_bark
 minecraft:block/jungle_button
 minecraft:block/jungle_button_inventory
 minecraft:block/jungle_button_pressed
@@ -446,6 +445,7 @@ minecraft:block/jungle_stairs_outer
 minecraft:block/jungle_trapdoor_bottom
 minecraft:block/jungle_trapdoor_open
 minecraft:block/jungle_trapdoor_top
+minecraft:block/jungle_wood
 minecraft:block/kelp
 minecraft:block/kelp_plant
 minecraft:block/ladder
@@ -524,7 +524,6 @@ minecraft:block/melon_stem_stage4
 minecraft:block/melon_stem_stage5
 minecraft:block/melon_stem_stage6
 minecraft:block/melon_stem_stage7
-minecraft:block/mob_spawner
 minecraft:block/mossy_cobblestone
 minecraft:block/mossy_cobblestone_wall_inventory
 minecraft:block/mossy_cobblestone_wall_post
@@ -544,6 +543,8 @@ minecraft:block/nether_brick_stairs
 minecraft:block/nether_brick_stairs_inner
 minecraft:block/nether_brick_stairs_outer
 minecraft:block/nether_bricks
+minecraft:block/nether_portal_ew
+minecraft:block/nether_portal_ns
 minecraft:block/nether_quartz_ore
 minecraft:block/nether_wart_block
 minecraft:block/nether_wart_stage0
@@ -551,7 +552,6 @@ minecraft:block/nether_wart_stage1
 minecraft:block/nether_wart_stage2
 minecraft:block/netherrack
 minecraft:block/note_block
-minecraft:block/oak_bark
 minecraft:block/oak_button
 minecraft:block/oak_button_inventory
 minecraft:block/oak_button_pressed
@@ -580,6 +580,7 @@ minecraft:block/oak_stairs_outer
 minecraft:block/oak_trapdoor_bottom
 minecraft:block/oak_trapdoor_open
 minecraft:block/oak_trapdoor_top
+minecraft:block/oak_wood
 minecraft:block/observer
 minecraft:block/observer_on
 minecraft:block/obsidian
@@ -633,8 +634,6 @@ minecraft:block/polished_andesite
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
 minecraft:block/poppy
-minecraft:block/portal_ew
-minecraft:block/portal_ns
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
 minecraft:block/potatoes_stage2
@@ -814,8 +813,8 @@ minecraft:block/snow_height4
 minecraft:block/snow_height6
 minecraft:block/snow_height8
 minecraft:block/soul_sand
+minecraft:block/spawner
 minecraft:block/sponge
-minecraft:block/spruce_bark
 minecraft:block/spruce_button
 minecraft:block/spruce_button_inventory
 minecraft:block/spruce_button_pressed
@@ -844,6 +843,7 @@ minecraft:block/spruce_stairs_outer
 minecraft:block/spruce_trapdoor_bottom
 minecraft:block/spruce_trapdoor_open
 minecraft:block/spruce_trapdoor_top
+minecraft:block/spruce_wood
 minecraft:block/stairs
 minecraft:block/stem_fruit
 minecraft:block/stem_growth0
@@ -872,18 +872,18 @@ minecraft:block/stone_pressure_plate_down
 minecraft:block/stone_slab
 minecraft:block/stone_slab_double
 minecraft:block/stone_slab_top
-minecraft:block/stripped_acacia_bark
 minecraft:block/stripped_acacia_log
-minecraft:block/stripped_birch_bark
+minecraft:block/stripped_acacia_wood
 minecraft:block/stripped_birch_log
-minecraft:block/stripped_dark_oak_bark
+minecraft:block/stripped_birch_wood
 minecraft:block/stripped_dark_oak_log
-minecraft:block/stripped_jungle_bark
+minecraft:block/stripped_dark_oak_wood
 minecraft:block/stripped_jungle_log
-minecraft:block/stripped_oak_bark
+minecraft:block/stripped_jungle_wood
 minecraft:block/stripped_oak_log
-minecraft:block/stripped_spruce_bark
+minecraft:block/stripped_oak_wood
 minecraft:block/stripped_spruce_log
+minecraft:block/stripped_spruce_wood
 minecraft:block/structure_block
 minecraft:block/structure_block_corner
 minecraft:block/structure_block_data
@@ -1007,7 +1007,6 @@ minecraft:block/yellow_stained_glass_pane_side
 minecraft:block/yellow_stained_glass_pane_side_alt
 minecraft:block/yellow_terracotta
 minecraft:block/yellow_wool
-minecraft:item/acacia_bark
 minecraft:item/acacia_boat
 minecraft:item/acacia_button
 minecraft:item/acacia_door
@@ -1021,6 +1020,7 @@ minecraft:item/acacia_sapling
 minecraft:item/acacia_slab
 minecraft:item/acacia_stairs
 minecraft:item/acacia_trapdoor
+minecraft:item/acacia_wood
 minecraft:item/activator_rail
 minecraft:item/air
 minecraft:item/allium
@@ -1039,7 +1039,6 @@ minecraft:item/beef
 minecraft:item/beetroot
 minecraft:item/beetroot_seeds
 minecraft:item/beetroot_soup
-minecraft:item/birch_bark
 minecraft:item/birch_boat
 minecraft:item/birch_button
 minecraft:item/birch_door
@@ -1053,6 +1052,7 @@ minecraft:item/birch_sapling
 minecraft:item/birch_slab
 minecraft:item/birch_stairs
 minecraft:item/birch_trapdoor
+minecraft:item/birch_wood
 minecraft:item/black_banner
 minecraft:item/black_bed
 minecraft:item/black_carpet
@@ -1142,7 +1142,6 @@ minecraft:item/chiseled_sandstone
 minecraft:item/chiseled_stone_bricks
 minecraft:item/chorus_flower
 minecraft:item/chorus_fruit
-minecraft:item/chorus_fruit_popped
 minecraft:item/chorus_plant
 minecraft:item/clay
 minecraft:item/clay_ball
@@ -1210,8 +1209,6 @@ minecraft:item/clock_60
 minecraft:item/clock_61
 minecraft:item/clock_62
 minecraft:item/clock_63
-minecraft:item/clownfish
-minecraft:item/clownfish_bucket
 minecraft:item/coal
 minecraft:item/coal_block
 minecraft:item/coal_ore
@@ -1291,7 +1288,6 @@ minecraft:item/cyan_wool
 minecraft:item/damaged_anvil
 minecraft:item/dandelion
 minecraft:item/dandelion_yellow
-minecraft:item/dark_oak_bark
 minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_button
 minecraft:item/dark_oak_door
@@ -1305,6 +1301,7 @@ minecraft:item/dark_oak_sapling
 minecraft:item/dark_oak_slab
 minecraft:item/dark_oak_stairs
 minecraft:item/dark_oak_trapdoor
+minecraft:item/dark_oak_wood
 minecraft:item/dark_prismarine
 minecraft:item/dark_prismarine_slab
 minecraft:item/dark_prismarine_stairs
@@ -1361,7 +1358,7 @@ minecraft:item/ender_eye
 minecraft:item/ender_pearl
 minecraft:item/enderman_spawn_egg
 minecraft:item/endermite_spawn_egg
-minecraft:item/evocation_illager_spawn_egg
+minecraft:item/evoker_spawn_egg
 minecraft:item/experience_bottle
 minecraft:item/farmland
 minecraft:item/feather
@@ -1476,7 +1473,6 @@ minecraft:item/iron_trapdoor
 minecraft:item/item_frame
 minecraft:item/jack_o_lantern
 minecraft:item/jukebox
-minecraft:item/jungle_bark
 minecraft:item/jungle_boat
 minecraft:item/jungle_button
 minecraft:item/jungle_door
@@ -1490,6 +1486,7 @@ minecraft:item/jungle_sapling
 minecraft:item/jungle_slab
 minecraft:item/jungle_stairs
 minecraft:item/jungle_trapdoor
+minecraft:item/jungle_wood
 minecraft:item/kelp
 minecraft:item/knowledge_book
 minecraft:item/ladder
@@ -1567,7 +1564,6 @@ minecraft:item/melon_seeds
 minecraft:item/melon_slice
 minecraft:item/milk_bucket
 minecraft:item/minecart
-minecraft:item/mob_spawner
 minecraft:item/mooshroom_spawn_egg
 minecraft:item/mossy_cobblestone
 minecraft:item/mossy_cobblestone_wall
@@ -1602,7 +1598,6 @@ minecraft:item/nether_wart
 minecraft:item/nether_wart_block
 minecraft:item/netherrack
 minecraft:item/note_block
-minecraft:item/oak_bark
 minecraft:item/oak_boat
 minecraft:item/oak_button
 minecraft:item/oak_door
@@ -1616,6 +1611,7 @@ minecraft:item/oak_sapling
 minecraft:item/oak_slab
 minecraft:item/oak_stairs
 minecraft:item/oak_trapdoor
+minecraft:item/oak_wood
 minecraft:item/observer
 minecraft:item/obsidian
 minecraft:item/ocelot_spawn_egg
@@ -1663,6 +1659,7 @@ minecraft:item/polar_bear_spawn_egg
 minecraft:item/polished_andesite
 minecraft:item/polished_diorite
 minecraft:item/polished_granite
+minecraft:item/popped_chorus_fruit
 minecraft:item/poppy
 minecraft:item/porkchop
 minecraft:item/potato
@@ -1773,12 +1770,12 @@ minecraft:item/snow
 minecraft:item/snow_block
 minecraft:item/snowball
 minecraft:item/soul_sand
+minecraft:item/spawner
 minecraft:item/spectral_arrow
 minecraft:item/spider_eye
 minecraft:item/spider_spawn_egg
 minecraft:item/splash_potion
 minecraft:item/sponge
-minecraft:item/spruce_bark
 minecraft:item/spruce_boat
 minecraft:item/spruce_button
 minecraft:item/spruce_door
@@ -1792,6 +1789,7 @@ minecraft:item/spruce_sapling
 minecraft:item/spruce_slab
 minecraft:item/spruce_stairs
 minecraft:item/spruce_trapdoor
+minecraft:item/spruce_wood
 minecraft:item/squid_spawn_egg
 minecraft:item/stick
 minecraft:item/sticky_piston
@@ -1809,18 +1807,18 @@ minecraft:item/stone_slab
 minecraft:item/stone_sword
 minecraft:item/stray_spawn_egg
 minecraft:item/string
-minecraft:item/stripped_acacia_bark
 minecraft:item/stripped_acacia_log
-minecraft:item/stripped_birch_bark
+minecraft:item/stripped_acacia_wood
 minecraft:item/stripped_birch_log
-minecraft:item/stripped_dark_oak_bark
+minecraft:item/stripped_birch_wood
 minecraft:item/stripped_dark_oak_log
-minecraft:item/stripped_jungle_bark
+minecraft:item/stripped_dark_oak_wood
 minecraft:item/stripped_jungle_log
-minecraft:item/stripped_oak_bark
+minecraft:item/stripped_jungle_wood
 minecraft:item/stripped_oak_log
-minecraft:item/stripped_spruce_bark
+minecraft:item/stripped_oak_wood
 minecraft:item/stripped_spruce_log
+minecraft:item/stripped_spruce_wood
 minecraft:item/structure_block
 minecraft:item/structure_void
 minecraft:item/sugar
@@ -1843,6 +1841,8 @@ minecraft:item/trident
 minecraft:item/trident_in_hand
 minecraft:item/trident_throwing
 minecraft:item/tripwire_hook
+minecraft:item/tropical_fish
+minecraft:item/tropical_fish_bucket
 minecraft:item/tropical_fish_spawn_egg
 minecraft:item/tube_coral
 minecraft:item/tube_coral_block
@@ -1852,7 +1852,7 @@ minecraft:item/turtle_helmet
 minecraft:item/turtle_spawn_egg
 minecraft:item/vex_spawn_egg
 minecraft:item/villager_spawn_egg
-minecraft:item/vindication_illager_spawn_egg
+minecraft:item/vindicator_spawn_egg
 minecraft:item/vine
 minecraft:item/water_bucket
 minecraft:item/wet_sponge

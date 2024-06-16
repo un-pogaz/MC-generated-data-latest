@@ -308,7 +308,6 @@ minecraft:block/magma  [mcmeta]
 minecraft:block/melon_side
 minecraft:block/melon_stem
 minecraft:block/melon_top
-minecraft:block/mob_spawner
 minecraft:block/mossy_cobblestone
 minecraft:block/mossy_stone_bricks
 minecraft:block/mushroom_block_inside
@@ -316,6 +315,7 @@ minecraft:block/mushroom_stem
 minecraft:block/mycelium_side
 minecraft:block/mycelium_top
 minecraft:block/nether_bricks
+minecraft:block/nether_portal  [mcmeta]
 minecraft:block/nether_quartz_ore
 minecraft:block/nether_wart_block
 minecraft:block/nether_wart_stage0
@@ -370,7 +370,6 @@ minecraft:block/polished_andesite
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
 minecraft:block/poppy
-minecraft:block/portal  [mcmeta]
 minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
 minecraft:block/potatoes_stage2
@@ -445,6 +444,7 @@ minecraft:block/shulker_box
 minecraft:block/slime_block
 minecraft:block/snow
 minecraft:block/soul_sand
+minecraft:block/spawner
 minecraft:block/sponge
 minecraft:block/spruce_door_bottom
 minecraft:block/spruce_door_top
@@ -625,10 +625,10 @@ minecraft:entity/creeper/creeper_armor
 minecraft:entity/dolphin
 minecraft:entity/elytra
 minecraft:entity/enchanting_table_book
+minecraft:entity/end_crystal/end_crystal
+minecraft:entity/end_crystal/end_crystal_beam
 minecraft:entity/end_gateway_beam
 minecraft:entity/end_portal
-minecraft:entity/endercrystal/endercrystal
-minecraft:entity/endercrystal/endercrystal_beam
 minecraft:entity/enderdragon/dragon
 minecraft:entity/enderdragon/dragon_exploding
 minecraft:entity/enderdragon/dragon_eyes
@@ -679,8 +679,8 @@ minecraft:entity/horse/horse_white
 minecraft:entity/horse/horse_zombie
 minecraft:entity/horse/mule
 minecraft:entity/illager/evoker
-minecraft:entity/illager/fangs
-minecraft:entity/illager/illusionist
+minecraft:entity/illager/evoker_fangs
+minecraft:entity/illager/illusioner
 minecraft:entity/illager/vex
 minecraft:entity/illager/vex_charging
 minecraft:entity/illager/vindicator
@@ -797,7 +797,7 @@ minecraft:entity/skeleton/stray_overlay
 minecraft:entity/skeleton/wither_skeleton
 minecraft:entity/slime/magmacube
 minecraft:entity/slime/slime
-minecraft:entity/snowman
+minecraft:entity/snow_golem
 minecraft:entity/spider/cave_spider
 minecraft:entity/spider/spider
 minecraft:entity/spider_eyes
@@ -1161,7 +1161,6 @@ minecraft:item/charcoal
 minecraft:item/chest_minecart
 minecraft:item/chicken
 minecraft:item/chorus_fruit
-minecraft:item/chorus_fruit_popped
 minecraft:item/clay_ball
 minecraft:item/clock_00
 minecraft:item/clock_01
@@ -1227,8 +1226,6 @@ minecraft:item/clock_60
 minecraft:item/clock_61
 minecraft:item/clock_62
 minecraft:item/clock_63
-minecraft:item/clownfish
-minecraft:item/clownfish_bucket
 minecraft:item/coal
 minecraft:item/cocoa_beans
 minecraft:item/cod
@@ -1411,6 +1408,7 @@ minecraft:item/paper
 minecraft:item/phantom_membrane
 minecraft:item/pink_dye
 minecraft:item/poisonous_potato
+minecraft:item/popped_chorus_fruit
 minecraft:item/porkchop
 minecraft:item/potato
 minecraft:item/potion
@@ -1465,6 +1463,8 @@ minecraft:item/tipped_arrow_head
 minecraft:item/tnt_minecart
 minecraft:item/totem_of_undying
 minecraft:item/trident
+minecraft:item/tropical_fish
+minecraft:item/tropical_fish_bucket
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
 minecraft:item/water_bucket
