@@ -2,6 +2,7 @@ minecraft:activity
 minecraft:attribute
 minecraft:block
 minecraft:block_entity_type
+minecraft:block_predicate_type
 minecraft:chunk_status
 minecraft:custom_stat
 minecraft:enchantment
@@ -37,7 +38,6 @@ minecraft:stat_type
 minecraft:villager_profession
 minecraft:villager_type
 minecraft:worldgen/biome_source
-minecraft:worldgen/block_placer_type
 minecraft:worldgen/block_state_provider_type
 minecraft:worldgen/carver
 minecraft:worldgen/chunk_generator
