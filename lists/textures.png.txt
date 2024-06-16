@@ -401,7 +401,6 @@ minecraft:block/glowstone
 minecraft:block/gold_block
 minecraft:block/gold_ore
 minecraft:block/granite
-minecraft:block/grass
 minecraft:block/grass_block_side
 minecraft:block/grass_block_side_overlay
 minecraft:block/grass_block_snow
@@ -784,6 +783,7 @@ minecraft:block/sculk_vein  [mcmeta]
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
+minecraft:block/short_grass
 minecraft:block/shroomlight
 minecraft:block/shulker_box
 minecraft:block/slime_block

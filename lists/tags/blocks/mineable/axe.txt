@@ -30,7 +30,7 @@ minecraft:dead_bush
 minecraft:fern
 minecraft:fletching_table
 minecraft:glow_lichen
-minecraft:grass
+minecraft:short_grass
 minecraft:hanging_roots
 minecraft:jack_o_lantern
 minecraft:jukebox
