@@ -1,5 +1,9 @@
 {
   "properties": {
+    "can_summon": [
+      "true",
+      "false"
+    ],
     "shrieking": [
       "true",
       "false"

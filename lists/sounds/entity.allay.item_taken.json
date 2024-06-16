@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/allay/item_taken1",
+      "pitch": 1.25,
+      "volume": 0.1
+    },
+    {
+      "name": "mob/allay/item_taken2",
+      "pitch": 1.25,
+      "volume": 0.1
+    },
+    {
+      "name": "mob/allay/item_taken3",
+      "pitch": 1.25,
+      "volume": 0.1
+    },
+    {
+      "name": "mob/allay/item_taken4",
+      "pitch": 1.25,
+      "volume": 0.1
+    }
+  ],
+  "subtitle": "subtitles.entity.allay.item_taken"
+}

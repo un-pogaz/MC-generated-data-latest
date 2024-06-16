@@ -41,7 +41,7 @@ minecraft:disk_clay
 minecraft:disk_gravel
 
 minecraft:sculk_vein
-minecraft:sculk_patch
+minecraft:sculk_patch_deep_dark
 
 []
 
