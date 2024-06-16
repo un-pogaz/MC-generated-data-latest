@@ -1,0 +1,4 @@
+minecraft:mob/armadillo/land1
+minecraft:mob/armadillo/land2
+minecraft:mob/armadillo/land3
+minecraft:mob/armadillo/land4

@@ -1,0 +1,4 @@
+minecraft:mob/armadillo/roll1
+minecraft:mob/armadillo/roll2
+minecraft:mob/armadillo/roll3
+minecraft:mob/armadillo/roll4
