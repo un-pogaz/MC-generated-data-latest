@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "entity.wither_skeleton.ambient",
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.entity.wither_skeleton.ambient"
+}
