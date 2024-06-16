@@ -1,4 +1,5 @@
 adventure/root
+└>adventure/avoid_vibration
 └>adventure/fall_from_world_height
 └>adventure/honey_block_slide
 └>adventure/kill_a_mob
@@ -40,7 +41,7 @@ end/root
 
 husbandry/root
 └>husbandry/allay_deliver_item_to_player
-│ └>husbandry/allay_deliver_cake_to_noteblock
+│ └>husbandry/allay_deliver_cake_to_note_block
 └>husbandry/breed_an_animal
 │ └>husbandry/bred_all_animals
 └>husbandry/fishy_business
@@ -57,7 +58,8 @@ husbandry/root
 │   └>husbandry/wax_off
 └>husbandry/silk_touch_nest
 └>husbandry/tadpole_in_a_bucket
-│ └>husbandry/froglights
+│ └>husbandry/leash_all_frog_variants
+│   └>husbandry/froglights
 └>husbandry/tame_an_animal
   └>husbandry/complete_catalogue
 

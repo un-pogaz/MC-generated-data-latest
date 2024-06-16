@@ -2908,6 +2908,14 @@ minecraft/sounds/mob/warden/sniff_1.ogg
 minecraft/sounds/mob/warden/sniff_2.ogg
 minecraft/sounds/mob/warden/sniff_3.ogg
 minecraft/sounds/mob/warden/sniff_4.ogg
+minecraft/sounds/mob/warden/sonic_boom1.ogg
+minecraft/sounds/mob/warden/sonic_boom2.ogg
+minecraft/sounds/mob/warden/sonic_boom3.ogg
+minecraft/sounds/mob/warden/sonic_boom4.ogg
+minecraft/sounds/mob/warden/sonic_charge1.ogg
+minecraft/sounds/mob/warden/sonic_charge2.ogg
+minecraft/sounds/mob/warden/sonic_charge3.ogg
+minecraft/sounds/mob/warden/sonic_charge4.ogg
 minecraft/sounds/mob/warden/step_1.ogg
 minecraft/sounds/mob/warden/step_2.ogg
 minecraft/sounds/mob/warden/step_3.ogg
