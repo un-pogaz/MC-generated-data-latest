@@ -339,7 +339,7 @@
           "minecraft:husbandry/wax_on": {
             "icon": "minecraft:honeycomb",
             "title": "Wax On",
-            "description": "Apply Wax to a Copper block!",
+            "description": "Apply Honeycomb to a Copper block!",
             "frame": "task",
             "childs": {
               "minecraft:husbandry/wax_off": {
