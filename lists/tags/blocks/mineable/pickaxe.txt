@@ -322,3 +322,4 @@ minecraft:infested_stone_bricks
 #minecraft:anvil
 #minecraft:cauldrons
 #minecraft:rails
+minecraft:conduit
