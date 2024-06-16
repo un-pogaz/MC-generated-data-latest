@@ -1,0 +1,1 @@
+minecraft:block/trial_spawner/close_shutter

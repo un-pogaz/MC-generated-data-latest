@@ -1,0 +1,5 @@
+minecraft:mob/breeze/idle1
+minecraft:mob/breeze/idle2
+minecraft:mob/breeze/idle3
+minecraft:mob/breeze/idle4
+minecraft:mob/breeze/idle5

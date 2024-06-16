@@ -1,7 +1,7 @@
 minecraft:music.game
-minecraft:music/game/creative/creative1
-minecraft:music/game/creative/creative2
-minecraft:music/game/creative/creative3
-minecraft:music/game/creative/creative4
-minecraft:music/game/creative/creative5
-minecraft:music/game/creative/creative6
+minecraft:music/game/creative/biome_fest
+minecraft:music/game/creative/blind_spots
+minecraft:music/game/creative/haunt_muskie
+minecraft:music/game/creative/aria_math
+minecraft:music/game/creative/dreiton
+minecraft:music/game/creative/taswell
