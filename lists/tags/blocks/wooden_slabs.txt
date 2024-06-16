@@ -8,4 +8,3 @@ minecraft:crimson_slab
 minecraft:warped_slab
 minecraft:mangrove_slab
 minecraft:bamboo_slab
-minecraft:bamboo_mosaic_slab
