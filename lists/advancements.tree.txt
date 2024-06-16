@@ -16,6 +16,7 @@ adventure/root
 │ └>adventure/arbalistic
 │ └>adventure/two_birds_one_arrow
 │ └>adventure/whos_the_pillager_now
+└>adventure/read_power_of_chiseled_bookshelf
 └>adventure/salvage_sherd
 │ └>adventure/craft_decorated_pot_using_only_sherds
 └>adventure/sleep_in_bed
