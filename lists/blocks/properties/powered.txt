@@ -4,6 +4,7 @@ minecraft:acacia_fence_gate
 minecraft:acacia_pressure_plate
 minecraft:acacia_trapdoor
 minecraft:activator_rail
+minecraft:bell
 minecraft:birch_button
 minecraft:birch_door
 minecraft:birch_fence_gate
