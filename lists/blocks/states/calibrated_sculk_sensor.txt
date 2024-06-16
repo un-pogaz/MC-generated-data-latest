@@ -1,5 +1,5 @@
-facing=north,power=0,sculk_sensor_phase=inactive,waterlogged=true  [default]
-facing=north,power=0,sculk_sensor_phase=inactive,waterlogged=false
+facing=north,power=0,sculk_sensor_phase=inactive,waterlogged=true
+facing=north,power=0,sculk_sensor_phase=inactive,waterlogged=false  [default]
 facing=north,power=0,sculk_sensor_phase=active,waterlogged=true
 facing=north,power=0,sculk_sensor_phase=active,waterlogged=false
 facing=north,power=0,sculk_sensor_phase=cooldown,waterlogged=true
