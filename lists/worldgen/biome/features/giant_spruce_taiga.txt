@@ -5,6 +5,7 @@ minecraft:lake_lava
 
 minecraft:forest_rock
 
+minecraft:amethyst_geode
 minecraft:monster_room
 
 []
@@ -22,6 +23,7 @@ minecraft:ore_gold
 minecraft:ore_redstone
 minecraft:ore_diamond
 minecraft:ore_lapis
+minecraft:ore_copper
 minecraft:disk_sand
 minecraft:disk_clay
 minecraft:disk_gravel
@@ -29,6 +31,7 @@ minecraft:disk_gravel
 []
 
 minecraft:patch_large_fern
+minecraft:glow_lichen
 minecraft:trees_giant_spruce
 minecraft:flower_default
 minecraft:patch_grass_taiga

@@ -5,6 +5,7 @@ minecraft:lake_lava
 
 []
 
+minecraft:amethyst_geode
 minecraft:monster_room
 
 []
@@ -22,12 +23,14 @@ minecraft:ore_gold
 minecraft:ore_redstone
 minecraft:ore_diamond
 minecraft:ore_lapis
+minecraft:ore_copper
 minecraft:disk_sand
 minecraft:disk_clay
 minecraft:disk_gravel
 
 []
 
+minecraft:glow_lichen
 minecraft:trees_jungle_edge
 minecraft:flower_warm
 minecraft:patch_grass_jungle

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/rooted_dirt/break1",
+    "block/rooted_dirt/break2",
+    "block/rooted_dirt/break3",
+    "block/rooted_dirt/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

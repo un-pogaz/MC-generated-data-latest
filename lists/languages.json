@@ -254,11 +254,6 @@
     "name": "Galego",
     "bidirectional": false
   },
-  "gv_im": {
-    "region": "Ellan Vannin",
-    "name": "Gaelg",
-    "bidirectional": false
-  },
   "haw_us": {
     "region": "Hawaiʻi",
     "name": "ʻŌlelo Hawaiʻi",
@@ -399,11 +394,6 @@
     "name": "文言",
     "bidirectional": false
   },
-  "mi_nz": {
-    "region": "Aotearoa",
-    "name": "Te Reo Māori",
-    "bidirectional": false
-  },
   "mk_mk": {
     "region": "Македонија",
     "name": "Македонски",
@@ -527,11 +517,6 @@
   "sv_se": {
     "region": "Sverige",
     "name": "Svenska",
-    "bidirectional": false
-  },
-  "swg": {
-    "region": "Allgai",
-    "name": "Oschdallgaiarisch",
     "bidirectional": false
   },
   "sxu": {

@@ -16,6 +16,7 @@ minecraft:diorite_wall
 minecraft:end_stone_brick_wall
 minecraft:fire
 minecraft:glass_pane
+minecraft:glow_lichen
 minecraft:granite_wall
 minecraft:gray_stained_glass_pane
 minecraft:green_stained_glass_pane

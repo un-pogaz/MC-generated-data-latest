@@ -1,0 +1,37 @@
+{
+  "sounds": [
+    {
+      "name": "mob/goat/idle1",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/goat/idle2",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/goat/idle3",
+      "volume": 0.84
+    },
+    {
+      "name": "mob/goat/idle4",
+      "volume": 0.84
+    },
+    {
+      "name": "mob/goat/idle5",
+      "volume": 0.84
+    },
+    {
+      "name": "mob/goat/idle6",
+      "volume": 0.84
+    },
+    {
+      "name": "mob/goat/idle7",
+      "volume": 0.83
+    },
+    {
+      "name": "mob/goat/idle8",
+      "volume": 0.84
+    }
+  ],
+  "subtitle": "subtitles.entity.goat.ambient"
+}

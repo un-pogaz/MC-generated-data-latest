@@ -1,0 +1,4 @@
+minecraft:block/amethyst_cluster/place1
+minecraft:block/amethyst_cluster/place2
+minecraft:block/amethyst_cluster/place3
+minecraft:block/amethyst_cluster/place4
