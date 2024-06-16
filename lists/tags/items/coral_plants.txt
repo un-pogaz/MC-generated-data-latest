@@ -1,5 +1,5 @@
-minecraft:blue_coral_plant
-minecraft:pink_coral_plant
-minecraft:purple_coral_plant
-minecraft:red_coral_plant
-minecraft:yellow_coral_plant
+minecraft:tube_coral
+minecraft:brain_coral
+minecraft:bubble_coral
+minecraft:fire_coral
+minecraft:horn_coral

@@ -37,7 +37,7 @@
           "minecraft:adventure/throw_trident": {
             "icon": "minecraft:trident",
             "title": "A Throwaway Joke",
-            "description": "Throw a trident at something.\nNote: throwing away your only weapon is not a good idea.",
+            "description": "Throw a trident at something.\nNote: Throwing away your only weapon is not a good idea.",
             "frame": "task",
             "childs": {
               "minecraft:adventure/very_very_frightening": {
