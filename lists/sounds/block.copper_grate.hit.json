@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/copper_grate/step1",
+    "block/copper_grate/step2",
+    "block/copper_grate/step3",
+    "block/copper_grate/step4",
+    "block/copper_grate/step5",
+    "block/copper_grate/step6"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

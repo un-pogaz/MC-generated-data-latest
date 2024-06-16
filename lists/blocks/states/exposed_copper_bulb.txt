@@ -1,0 +1,4 @@
+lit=true,powered=true
+lit=true,powered=false
+lit=false,powered=true
+lit=false,powered=false  [default]
