@@ -3324,6 +3324,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/savanna/zombie/streets",
@@ -3342,6 +3343,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/savanna/zombie/streets",
@@ -3353,6 +3355,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:street",
         pool: "minecraft:village/savanna/zombie/streets",
@@ -3552,5 +3555,5 @@
       Name: "minecraft:brown_wall_banner"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }
