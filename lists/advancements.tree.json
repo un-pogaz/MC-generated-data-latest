@@ -27,8 +27,8 @@
             "childs": {
               "minecraft:adventure/sniper_duel": {
                 "icon": "minecraft:arrow",
-                "title": "Sniper duel",
-                "description": "Kill a skeleton with an arrow from more than 50 meters",
+                "title": "Sniper Duel",
+                "description": "Kill a Skeleton with an arrow from more than 50 meters",
                 "frame": "challenge",
                 "rewards": "50 xp"
               }
@@ -58,7 +58,7 @@
       },
       "minecraft:adventure/sleep_in_bed": {
         "icon": "minecraft:red_bed",
-        "title": "Sweet dreams",
+        "title": "Sweet Dreams",
         "description": "Change your respawn point",
         "frame": "task",
         "childs": {
@@ -127,7 +127,7 @@
                   "minecraft:end/elytra": {
                     "icon": "minecraft:elytra",
                     "title": "Sky's the Limit",
-                    "description": "Find an Elytra",
+                    "description": "Find Elytra",
                     "frame": "goal"
                   },
                   "minecraft:end/levitate": {
@@ -144,7 +144,7 @@
           "minecraft:end/respawn_dragon": {
             "icon": "minecraft:end_crystal",
             "title": "The End... Again...",
-            "description": "Respawn the ender dragon",
+            "description": "Respawn the Ender Dragon",
             "frame": "goal"
           }
         }
@@ -227,7 +227,7 @@
       "minecraft:nether/fast_travel": {
         "icon": "minecraft:map",
         "title": "Subspace Bubble",
-        "description": "Use the Nether to travel 7km in the Overworld",
+        "description": "Use the Nether to travel 7 km in the Overworld",
         "frame": "challenge",
         "rewards": "100 xp"
       },
@@ -240,7 +240,7 @@
           "minecraft:nether/get_wither_skull": {
             "icon": "minecraft:wither_skeleton_skull",
             "title": "Spooky Scary Skeleton",
-            "description": "Obtain a wither skeleton's skull",
+            "description": "Obtain a Wither Skeleton's skull",
             "frame": "task",
             "childs": {
               "minecraft:nether/summon_wither": {
@@ -312,7 +312,7 @@
           "minecraft:nether/uneasy_alliance": {
             "icon": "minecraft:ghast_tear",
             "title": "Uneasy Alliance",
-            "description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it.",
+            "description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it",
             "frame": "challenge",
             "rewards": "100 xp"
           }
@@ -394,13 +394,13 @@
                               "minecraft:story/cure_zombie_villager": {
                                 "icon": "minecraft:golden_apple",
                                 "title": "Zombie Doctor",
-                                "description": "Weaken and then cure a zombie villager",
+                                "description": "Weaken and then cure a Zombie Villager",
                                 "frame": "goal"
                               },
                               "minecraft:story/follow_ender_eye": {
                                 "icon": "minecraft:ender_eye",
                                 "title": "Eye Spy",
-                                "description": "Follow an Ender Eye",
+                                "description": "Follow an Eye of Ender",
                                 "frame": "task",
                                 "childs": {
                                   "minecraft:story/enter_the_end": {
