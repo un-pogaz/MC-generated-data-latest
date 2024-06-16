@@ -2,6 +2,9 @@ minecraft:aquifer_barrier
 minecraft:aquifer_fluid_level_floodedness
 minecraft:aquifer_fluid_level_spread
 minecraft:aquifer_lava
+minecraft:badlands_pillar
+minecraft:badlands_pillar_roof
+minecraft:badlands_surface
 minecraft:calcite
 minecraft:cave_cheese
 minecraft:cave_entrance
@@ -12,8 +15,9 @@ minecraft:erosion
 minecraft:gravel
 minecraft:gravel_layer
 minecraft:ice
-minecraft:iceberg_and_badlands_pillar
-minecraft:iceberg_and_badlands_pillar_roof
+minecraft:iceberg_pillar
+minecraft:iceberg_pillar_roof
+minecraft:iceberg_surface
 minecraft:jagged
 minecraft:nether_state_selector
 minecraft:nether_wart
