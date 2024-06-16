@@ -1,0 +1,4 @@
+minecraft:block/bamboo_wood_fence/toggle1
+minecraft:block/bamboo_wood_fence/toggle2
+minecraft:block/bamboo_wood_fence/toggle3
+minecraft:block/bamboo_wood_fence/toggle4

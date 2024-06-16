@@ -1,6 +1,10 @@
 {
   "sounds": [
-    "random/click"
+    {
+      "name": "random/click",
+      "pitch": 0.75,
+      "volume": 0.3
+    }
   ],
   "subtitle": "subtitles.block.pressure_plate.click"
 }

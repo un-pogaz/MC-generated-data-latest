@@ -1,0 +1,4 @@
+minecraft:block/hanging_sign/step1
+minecraft:block/hanging_sign/step2
+minecraft:block/hanging_sign/step3
+minecraft:block/hanging_sign/step4
