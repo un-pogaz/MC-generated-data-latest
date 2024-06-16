@@ -1,0 +1,13 @@
+minecraft:bat
+minecraft:cod
+minecraft:creeper
+minecraft:dolphin
+minecraft:drowned
+minecraft:enderman
+minecraft:skeleton
+minecraft:slime
+minecraft:spider
+minecraft:squid
+minecraft:witch
+minecraft:zombie
+minecraft:zombie_villager

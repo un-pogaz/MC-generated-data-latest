@@ -1,0 +1,4 @@
+minecraft:enderman
+minecraft:ghast
+minecraft:skeleton
+minecraft:strider
