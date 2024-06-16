@@ -1,0 +1,2 @@
+minecraft:snow
+minecraft:powder_snow
