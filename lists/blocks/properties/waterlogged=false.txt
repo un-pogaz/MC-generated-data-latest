@@ -123,6 +123,7 @@ minecraft:jungle_wall_sign
 minecraft:ladder
 minecraft:lantern
 minecraft:large_amethyst_bud
+minecraft:light
 minecraft:light_blue_candle
 minecraft:light_blue_stained_glass_pane
 minecraft:light_gray_candle

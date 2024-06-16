@@ -105,7 +105,9 @@ minecraft:ore_coal_upper
 minecraft:ore_copper
 minecraft:ore_debris_large
 minecraft:ore_debris_small
+minecraft:ore_deepslate
 minecraft:ore_diamond
+minecraft:ore_diamond_large
 minecraft:ore_diorite
 minecraft:ore_dirt
 minecraft:ore_emerald
@@ -170,6 +172,8 @@ minecraft:pile_pumpkin
 minecraft:pile_snow
 minecraft:pine
 minecraft:plain_vegetation
+minecraft:rare_dripstone_cluster
+minecraft:rare_small_dripstone
 minecraft:red_mushroom_giant
 minecraft:red_mushroom_nether
 minecraft:red_mushroom_normal
