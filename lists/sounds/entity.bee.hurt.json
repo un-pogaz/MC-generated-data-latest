@@ -1,0 +1,38 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/hurt1",
+      "volume": 1
+    },
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/hurt2",
+      "volume": 1
+    },
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/hurt3",
+      "volume": 1
+    },
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/hurt1",
+      "volume": 1,
+      "pitch": 1.2
+    },
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/hurt2",
+      "volume": 1,
+      "pitch": 1.2
+    },
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/hurt3",
+      "volume": 1,
+      "pitch": 1.2
+    }
+  ],
+  "subtitle": "subtitles.entity.bee.hurt"
+}

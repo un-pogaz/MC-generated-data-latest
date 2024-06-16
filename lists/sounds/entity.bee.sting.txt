@@ -1,0 +1,2 @@
+minecraft:mob/bee/sting
+minecraft:mob/bee/sting

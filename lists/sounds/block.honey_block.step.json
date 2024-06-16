@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/honeyblock/step1",
+    "block/honeyblock/step2",
+    "block/honeyblock/step3",
+    "block/honeyblock/step4",
+    "block/honeyblock/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

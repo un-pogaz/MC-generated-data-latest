@@ -1,0 +1,12 @@
+minecraft:block/beehive/drip1
+minecraft:block/beehive/drip2
+minecraft:block/beehive/drip3
+minecraft:block/beehive/drip4
+minecraft:block/beehive/drip5
+minecraft:block/beehive/drip6
+minecraft:block/beehive/drip1
+minecraft:block/beehive/drip2
+minecraft:block/beehive/drip3
+minecraft:block/beehive/drip4
+minecraft:block/beehive/drip5
+minecraft:block/beehive/drip6
