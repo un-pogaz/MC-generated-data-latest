@@ -11,7 +11,7 @@ minecraft:nether_brick_slab
 minecraft:oak_slab
 minecraft:petrified_oak_slab
 minecraft:piston_head
-minecraft:prismarine_bricks_slab
+minecraft:prismarine_brick_slab
 minecraft:prismarine_slab
 minecraft:purpur_slab
 minecraft:quartz_slab
