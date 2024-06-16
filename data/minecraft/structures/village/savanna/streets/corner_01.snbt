@@ -64,7 +64,7 @@
     },
     {
       nbt: {
-        target_pool: "minecraft:village/savannna/decor",
+        target_pool: "minecraft:village/savanna/decor",
         final_state: "minecraft:grass_block",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"
@@ -74,7 +74,7 @@
     },
     {
       nbt: {
-        target_pool: "minecraft:village/savannna/decor",
+        target_pool: "minecraft:village/savanna/decor",
         final_state: "minecraft:grass_block",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"

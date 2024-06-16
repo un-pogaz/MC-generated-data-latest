@@ -71,8 +71,10 @@ minecraft:block/beetroots_stage0
 minecraft:block/beetroots_stage1
 minecraft:block/beetroots_stage2
 minecraft:block/beetroots_stage3
+minecraft:block/bell_between_walls
 minecraft:block/bell_ceiling
 minecraft:block/bell_floor
+minecraft:block/bell_wall
 minecraft:block/birch_button
 minecraft:block/birch_button_inventory
 minecraft:block/birch_button_pressed
