@@ -6,5 +6,5 @@
     "mob/ravager/step4",
     "mob/ravager/step5"
   ],
-  "subtitle": "subtitles.entity.ravager.step"
+  "subtitle": "subtitles.block.generic.footsteps"
 }
