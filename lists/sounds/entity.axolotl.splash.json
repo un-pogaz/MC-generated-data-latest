@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "mob/dolphin/splash1",
+      "volume": 0.9,
+      "pitch": 1.2
+    },
+    {
+      "name": "mob/dolphin/splash2",
+      "volume": 0.9,
+      "pitch": 1.2
+    },
+    {
+      "name": "mob/dolphin/splash3",
+      "volume": 0.9,
+      "pitch": 1.2
+    }
+  ],
+  "subtitle": "subtitles.entity.axolotl.splash"
+}

@@ -1,0 +1,4 @@
+minecraft:mob/goat/pre_ram1
+minecraft:mob/goat/pre_ram2
+minecraft:mob/goat/pre_ram3
+minecraft:mob/goat/pre_ram4

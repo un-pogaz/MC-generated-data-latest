@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/amethyst/place1",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/place2",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/place3",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/place4",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}
