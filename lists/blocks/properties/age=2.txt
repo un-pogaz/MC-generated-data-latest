@@ -11,4 +11,5 @@ minecraft:nether_wart
 minecraft:potatoes
 minecraft:pumpkin_stem
 minecraft:sugar_cane
+minecraft:sweet_berry_bush
 minecraft:wheat
