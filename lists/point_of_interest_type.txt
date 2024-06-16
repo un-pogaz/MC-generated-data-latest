@@ -10,6 +10,7 @@ minecraft:fletcher
 minecraft:home
 minecraft:leatherworker
 minecraft:librarian
+minecraft:lodestone
 minecraft:mason
 minecraft:meeting
 minecraft:nether_portal

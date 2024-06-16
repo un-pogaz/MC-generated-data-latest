@@ -150,6 +150,11 @@ minecraft:block.lava.extinguish
 minecraft:block.lava.pop
 minecraft:block.lever.click
 minecraft:block.lily_pad.place
+minecraft:block.lodestone.break
+minecraft:block.lodestone.fall
+minecraft:block.lodestone.hit
+minecraft:block.lodestone.place
+minecraft:block.lodestone.step
 minecraft:block.metal.break
 minecraft:block.metal.fall
 minecraft:block.metal.hit
@@ -745,6 +750,14 @@ minecraft:entity.stray.ambient
 minecraft:entity.stray.death
 minecraft:entity.stray.hurt
 minecraft:entity.stray.step
+minecraft:entity.strider.ambient
+minecraft:entity.strider.death
+minecraft:entity.strider.eat
+minecraft:entity.strider.happy
+minecraft:entity.strider.hurt
+minecraft:entity.strider.retreat
+minecraft:entity.strider.step
+minecraft:entity.strider.step_lava
 minecraft:entity.tnt.primed
 minecraft:entity.tropical_fish.ambient
 minecraft:entity.tropical_fish.death
@@ -885,6 +898,7 @@ minecraft:item.firecharge.use
 minecraft:item.flintandsteel.use
 minecraft:item.hoe.till
 minecraft:item.honey_bottle.drink
+minecraft:item.lodestone_compass.lock
 minecraft:item.nether_wart.plant
 minecraft:item.shield.block
 minecraft:item.shield.break
