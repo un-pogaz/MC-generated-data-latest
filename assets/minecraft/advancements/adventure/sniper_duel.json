@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:arrow"
         },
-        "title": "Sniper duel",
-        "description": "Kill a skeleton with an arrow from more than 50 meters",
+        "title": {
+            "translate": "advancements.adventure.sniper_duel.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.sniper_duel.description"
+        },
         "frame": "challenge"
     },
     "parent": "adventure/shoot_arrow",

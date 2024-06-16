@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:iron_pickaxe"
         },
-        "title": "Isn't It Iron Pick",
-        "description": "Upgrade your pickaxe"
+        "title": {
+            "translate": "advancements.story.iron_tools.title"
+        },
+        "description": {
+            "translate": "advancements.story.iron_tools.description"
+        }
     },
     "parent": "minecraft:story/smelt_iron",
     "criteria": {
