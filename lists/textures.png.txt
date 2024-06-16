@@ -1881,6 +1881,9 @@ minecraft:item/rabbit
 minecraft:item/rabbit_foot
 minecraft:item/rabbit_hide
 minecraft:item/rabbit_stew
+minecraft:item/raw_copper
+minecraft:item/raw_gold
+minecraft:item/raw_iron
 minecraft:item/red_candle
 minecraft:item/red_dye
 minecraft:item/redstone

@@ -2562,6 +2562,9 @@ minecraft:item/rabbit_spawn_egg
 minecraft:item/rabbit_stew
 minecraft:item/rail
 minecraft:item/ravager_spawn_egg
+minecraft:item/raw_copper
+minecraft:item/raw_gold
+minecraft:item/raw_iron
 minecraft:item/red_banner
 minecraft:item/red_bed
 minecraft:item/red_candle
@@ -2783,6 +2786,10 @@ minecraft:item/waxed_exposed_copper
 minecraft:item/waxed_exposed_cut_copper
 minecraft:item/waxed_exposed_cut_copper_slab
 minecraft:item/waxed_exposed_cut_copper_stairs
+minecraft:item/waxed_oxidized_copper
+minecraft:item/waxed_oxidized_cut_copper
+minecraft:item/waxed_oxidized_cut_copper_slab
+minecraft:item/waxed_oxidized_cut_copper_stairs
 minecraft:item/waxed_weathered_copper
 minecraft:item/waxed_weathered_cut_copper
 minecraft:item/waxed_weathered_cut_copper_slab
