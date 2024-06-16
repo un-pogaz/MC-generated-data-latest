@@ -1,4 +1,3 @@
-minecraft:netherite_hoe
 minecraft:enchanted_book
 minecraft:iron_boots
 minecraft:potion

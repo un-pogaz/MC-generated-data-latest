@@ -43,7 +43,10 @@ husbandry/root
   └>husbandry/complete_catalogue
 
 nether/root
+└>nether/distract_piglin
 └>nether/fast_travel
+└>nether/find_bastion
+│ └>nether/loot_bastion
 └>nether/find_fortress
 │ └>nether/get_wither_skull
 │ │ └>nether/summon_wither
@@ -53,8 +56,15 @@ nether/root
 │   └>nether/brew_potion
 │     └>nether/all_potions
 │       └>nether/all_effects
+└>nether/obtain_ancient_debris
+│ └>nether/netherite_armor
+│ └>nether/use_lodestone
+└>nether/obtain_crying_obsidian
+│ └>nether/charge_respawn_anchor
 └>nether/return_to_sender
-  └>nether/uneasy_alliance
+│ └>nether/uneasy_alliance
+└>nether/ride_strider
+  └>nether/explore_nether
 
 story/root
 └>story/mine_stone
