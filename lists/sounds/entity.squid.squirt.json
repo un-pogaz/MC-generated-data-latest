@@ -4,5 +4,5 @@
     "entity/squid/squirt2",
     "entity/squid/squirt3"
   ],
-  "subtitles": "subtitles.entity.squid.squirt"
+  "subtitle": "subtitles.entity.squid.squirt"
 }

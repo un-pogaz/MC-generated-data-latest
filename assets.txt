@@ -8,6 +8,7 @@ minecraft/lang/af_za.json
 minecraft/lang/ar_sa.json
 minecraft/lang/ast_es.json
 minecraft/lang/az_az.json
+minecraft/lang/bar.json
 minecraft/lang/be_by.json
 minecraft/lang/bg_bg.json
 minecraft/lang/br_fr.json
@@ -44,6 +45,7 @@ minecraft/lang/fil_ph.json
 minecraft/lang/fo_fo.json
 minecraft/lang/fr_ca.json
 minecraft/lang/fr_fr.json
+minecraft/lang/fra_de.json
 minecraft/lang/fy_nl.json
 minecraft/lang/ga_ie.json
 minecraft/lang/gd_gb.json
@@ -64,6 +66,7 @@ minecraft/lang/ja_jp.json
 minecraft/lang/jbo_en.json
 minecraft/lang/ka_ge.json
 minecraft/lang/kab_kab.json
+minecraft/lang/kk_kz.json
 minecraft/lang/kn_in.json
 minecraft/lang/ko_kr.json
 minecraft/lang/ksh.json
@@ -77,6 +80,7 @@ minecraft/lang/lv_lv.json
 minecraft/lang/mi_nz.json
 minecraft/lang/mk_mk.json
 minecraft/lang/mn_mn.json
+minecraft/lang/moh_ca.json
 minecraft/lang/ms_my.json
 minecraft/lang/mt_mt.json
 minecraft/lang/nds_de.json
@@ -108,6 +112,7 @@ minecraft/lang/ta_in.json
 minecraft/lang/th_th.json
 minecraft/lang/tlh_aa.json
 minecraft/lang/tr_tr.json
+minecraft/lang/tt_ru.json
 minecraft/lang/tzl_tzl.json
 minecraft/lang/uk_ua.json
 minecraft/lang/val_es.json
@@ -1528,6 +1533,7 @@ realms/lang/af_za.json
 realms/lang/ar_sa.json
 realms/lang/ast_es.json
 realms/lang/az_az.json
+realms/lang/bar.json
 realms/lang/be_by.json
 realms/lang/bg_bg.json
 realms/lang/br_fr.json
@@ -1564,6 +1570,7 @@ realms/lang/fil_ph.json
 realms/lang/fo_fo.json
 realms/lang/fr_ca.json
 realms/lang/fr_fr.json
+realms/lang/fra_de.json
 realms/lang/fy_nl.json
 realms/lang/ga_ie.json
 realms/lang/gd_gb.json
@@ -1584,6 +1591,7 @@ realms/lang/ja_jp.json
 realms/lang/jbo_en.json
 realms/lang/ka_ge.json
 realms/lang/kab_kab.json
+realms/lang/kk_kz.json
 realms/lang/kn_in.json
 realms/lang/ko_kr.json
 realms/lang/ksh.json
@@ -1597,6 +1605,7 @@ realms/lang/lv_lv.json
 realms/lang/mi_nz.json
 realms/lang/mk_mk.json
 realms/lang/mn_mn.json
+realms/lang/moh_ca.json
 realms/lang/ms_my.json
 realms/lang/mt_mt.json
 realms/lang/nds_de.json
@@ -1628,6 +1637,7 @@ realms/lang/ta_in.json
 realms/lang/th_th.json
 realms/lang/tlh_aa.json
 realms/lang/tr_tr.json
+realms/lang/tt_ru.json
 realms/lang/tzl_tzl.json
 realms/lang/uk_ua.json
 realms/lang/val_es.json

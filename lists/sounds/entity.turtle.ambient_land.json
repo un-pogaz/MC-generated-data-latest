@@ -13,5 +13,5 @@
       "volume": 0.8
     }
   ],
-  "subtitles": "subtitles.turtle.ambient_land"
+  "subtitle": "subtitles.entity.turtle.ambient_land"
 }

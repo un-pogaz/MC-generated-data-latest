@@ -4,5 +4,5 @@
     "mob/turtle/baby/egg_hatched2",
     "mob/turtle/baby/egg_hatched3"
   ],
-  "subtitles": "subtitles.turtle.egg_hatch"
+  "subtitle": "subtitles.entity.turtle.egg_hatch"
 }
