@@ -14,28 +14,22 @@
     },
     "W": [
       {
-        "item": "minecraft:wooden_slab",
-        "data": 0
+        "item": "minecraft:oak_slab"
       },
       {
-        "item": "minecraft:wooden_slab",
-        "data": 1
+        "item": "minecraft:spruce_slab"
       },
       {
-        "item": "minecraft:wooden_slab",
-        "data": 2
+        "item": "minecraft:birch_slab"
       },
       {
-        "item": "minecraft:wooden_slab",
-        "data": 3
+        "item": "minecraft:jungle_slab"
       },
       {
-        "item": "minecraft:wooden_slab",
-        "data": 4
+        "item": "minecraft:acacia_slab"
       },
       {
-        "item": "minecraft:wooden_slab",
-        "data": 5
+        "item": "minecraft:dark_oak_slab"
       }
     ]
   },

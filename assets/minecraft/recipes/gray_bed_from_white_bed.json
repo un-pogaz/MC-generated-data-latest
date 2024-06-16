@@ -3,16 +3,13 @@
   "group": "dyed_bed",
   "ingredients": [
     {
-      "item": "minecraft:bed",
-      "data": 0
+      "item": "minecraft:white_bed"
     },
     {
-      "item": "minecraft:dye",
-      "data": 8
+      "item": "minecraft:gray_dye"
     }
   ],
   "result": {
-    "item": "minecraft:bed",
-    "data": 7
+    "item": "minecraft:gray_bed"
   }
 }

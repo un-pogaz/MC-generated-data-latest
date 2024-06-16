@@ -6,22 +6,18 @@
   "key": {
     "#": [
       {
-        "item": "minecraft:red_sandstone",
-        "data": 0
+        "item": "minecraft:red_sandstone"
       },
       {
-        "item": "minecraft:red_sandstone",
-        "data": 1
+        "item": "minecraft:chiseled_red_sandstone"
       },
       {
-        "item": "minecraft:red_sandstone",
-        "data": 2
+        "item": "minecraft:cut_red_sandstone"
       }
     ]
   },
   "result": {
-    "item": "minecraft:stone_slab2",
-    "data": 0,
+    "item": "minecraft:red_sandstone_slab",
     "count": 6
   }
 }

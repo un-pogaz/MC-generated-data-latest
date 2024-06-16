@@ -69,13 +69,9 @@
                 },
                 {
                     "type": "item",
-                    "name": "minecraft:dye",
+                    "name": "minecraft:ink_sac",
                     "weight": 1,
                     "functions": [
-                        {
-                            "function": "set_data",
-                            "data": 0
-                        },
                         {
                             "function": "set_count",
                             "count": 10

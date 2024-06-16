@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:red_sandstone",
-            "data": 0
+            "item": "minecraft:red_sandstone"
           }
         ]
       }

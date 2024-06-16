@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 9
+            "item": "minecraft:pink_dye"
           }
         ]
       }
@@ -22,8 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 5
+            "item": "minecraft:purple_dye"
           }
         ]
       }

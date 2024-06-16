@@ -5,12 +5,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:nether_brick"
+      "item": "minecraft:nether_bricks"
     }
   },
   "result": {
-    "item": "minecraft:stone_slab",
-    "data": 6,
+    "item": "minecraft:nether_brick_slab",
     "count": 6
   }
 }

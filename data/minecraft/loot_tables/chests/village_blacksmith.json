@@ -122,7 +122,7 @@
                 },
                 {
                     "type": "item",
-                    "name": "minecraft:sapling",
+                    "name": "minecraft:oak_sapling",
                     "functions": [
                         {
                             "function": "set_count",

@@ -6,12 +6,10 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:stone_slab2",
-      "data": 0
+      "item": "minecraft:red_sandstone_slab"
     }
   },
   "result": {
-    "item": "minecraft:red_sandstone",
-    "data": 1
+    "item": "minecraft:chiseled_red_sandstone"
   }
 }

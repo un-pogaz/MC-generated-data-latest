@@ -17,8 +17,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:wool",
-            "data": 10
+            "item": "minecraft:purple_wool"
           }
         ]
       }

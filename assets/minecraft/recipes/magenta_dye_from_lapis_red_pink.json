@@ -3,21 +3,17 @@
   "group": "magenta_dye",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 4
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "item": "minecraft:dye",
-      "data": 1
+      "item": "minecraft:rose_red"
     },
     {
-      "item": "minecraft:dye",
-      "data": 9
+      "item": "minecraft:pink_dye"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 13,
+    "item": "minecraft:magenta_dye",
     "count": 3
   }
 }
