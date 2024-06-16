@@ -1,1 +1,1 @@
-empty
+minecraft:wind_charge

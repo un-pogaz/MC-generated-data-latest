@@ -12,6 +12,7 @@ icons/snapshot/icon_48x48.png
 icons/snapshot/minecraft.icns
 minecraft/font/include/unifont.json
 minecraft/font/unifont.zip
+minecraft/font/unifont_jp.zip
 minecraft/lang/af_za.json
 minecraft/lang/ar_sa.json
 minecraft/lang/ast_es.json
@@ -1809,6 +1810,9 @@ minecraft/sounds/entity/squid/hurt4.ogg
 minecraft/sounds/entity/squid/squirt1.ogg
 minecraft/sounds/entity/squid/squirt2.ogg
 minecraft/sounds/entity/squid/squirt3.ogg
+minecraft/sounds/entity/wind_charge/wind_burst1.ogg
+minecraft/sounds/entity/wind_charge/wind_burst2.ogg
+minecraft/sounds/entity/wind_charge/wind_burst3.ogg
 minecraft/sounds/entity/witch/ambient1.ogg
 minecraft/sounds/entity/witch/ambient2.ogg
 minecraft/sounds/entity/witch/ambient3.ogg
@@ -2132,6 +2136,7 @@ minecraft/sounds/mob/armadillo/land1.ogg
 minecraft/sounds/mob/armadillo/land2.ogg
 minecraft/sounds/mob/armadillo/land3.ogg
 minecraft/sounds/mob/armadillo/land4.ogg
+minecraft/sounds/mob/armadillo/peek.ogg
 minecraft/sounds/mob/armadillo/roll1.ogg
 minecraft/sounds/mob/armadillo/roll2.ogg
 minecraft/sounds/mob/armadillo/roll3.ogg
@@ -2143,8 +2148,9 @@ minecraft/sounds/mob/armadillo/step2.ogg
 minecraft/sounds/mob/armadillo/step3.ogg
 minecraft/sounds/mob/armadillo/step4.ogg
 minecraft/sounds/mob/armadillo/step5.ogg
-minecraft/sounds/mob/armadillo/unroll1.ogg
-minecraft/sounds/mob/armadillo/unroll2.ogg
+minecraft/sounds/mob/armadillo/unroll_finish1.ogg
+minecraft/sounds/mob/armadillo/unroll_finish2.ogg
+minecraft/sounds/mob/armadillo/unroll_start.ogg
 minecraft/sounds/mob/axolotl/attack1.ogg
 minecraft/sounds/mob/axolotl/attack2.ogg
 minecraft/sounds/mob/axolotl/attack3.ogg
