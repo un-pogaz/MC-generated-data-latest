@@ -13,7 +13,9 @@ adventure/root
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
 └>adventure/trade
-  └>adventure/summon_iron_golem
+│ └>adventure/summon_iron_golem
+└>adventure/voluntary_exile
+  └>adventure/hero_of_the_village
 
 end/root
 └>end/kill_dragon
