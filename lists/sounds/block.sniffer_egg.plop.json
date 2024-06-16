@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/chicken/plop",
+      "pitch": 0.6
+    },
+    {
+      "name": "mob/chicken/plop",
+      "pitch": 0.7
+    },
+    {
+      "name": "mob/chicken/plop",
+      "pitch": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.sniffer_egg.plop"
+}
