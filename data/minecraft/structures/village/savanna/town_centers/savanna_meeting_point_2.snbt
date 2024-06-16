@@ -40,7 +40,7 @@
     },
     {
       pos: [5, 0, 3],
-      state: 1
+      state: 0
     },
     {
       pos: [6, 0, 3],
@@ -253,7 +253,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -288,7 +288,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -298,7 +298,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -320,6 +320,16 @@
       },
       pos: [6, 4, 5],
       state: 11
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/savanna/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 6],
+      state: 6
     },
     {
       nbt: {
@@ -351,6 +361,26 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/savanna/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [7, 0, 8],
+      state: 6
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/savanna/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [4, 0, 9],
+      state: 6
+    },
+    {
+      nbt: {
         id: "minecraft:bell"
       },
       pos: [9, 2, 9],
@@ -359,7 +389,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -507,10 +537,6 @@
       state: 15
     },
     {
-      pos: [1, 0, 6],
-      state: 15
-    },
-    {
       pos: [2, 0, 6],
       state: 15
     },
@@ -525,6 +551,10 @@
     {
       pos: [10, 0, 6],
       state: 15
+    },
+    {
+      pos: [1, 1, 6],
+      state: 18
     },
     {
       pos: [4, 1, 6],
@@ -556,11 +586,11 @@
     },
     {
       pos: [0, 1, 7],
-      state: 18
+      state: 19
     },
     {
       pos: [1, 1, 7],
-      state: 18
+      state: 19
     },
     {
       pos: [3, 0, 8],
@@ -579,19 +609,11 @@
       state: 15
     },
     {
-      pos: [7, 0, 8],
-      state: 15
-    },
-    {
       pos: [2, 1, 8],
-      state: 18
+      state: 19
     },
     {
       pos: [1, 0, 9],
-      state: 15
-    },
-    {
-      pos: [4, 0, 9],
       state: 15
     },
     {
@@ -604,7 +626,7 @@
     },
     {
       pos: [2, 1, 9],
-      state: 18
+      state: 19
     },
     {
       pos: [1, 2, 9],
@@ -624,7 +646,7 @@
     },
     {
       pos: [3, 1, 10],
-      state: 18
+      state: 19
     }
   ],
   palette: [
@@ -724,8 +746,11 @@
       Name: "minecraft:water"
     },
     {
+      Name: "minecraft:air"
+    },
+    {
       Name: "minecraft:grass"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

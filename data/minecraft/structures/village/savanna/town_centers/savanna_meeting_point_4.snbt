@@ -103,7 +103,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -112,8 +112,28 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/savanna/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 1],
+      state: 3
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/savanna/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [0, 0, 3],
+      state: 3
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -123,7 +143,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -160,7 +180,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -376,10 +396,6 @@
       state: 9
     },
     {
-      pos: [1, 0, 1],
-      state: 10
-    },
-    {
       pos: [2, 0, 1],
       state: 10
     },
@@ -402,6 +418,14 @@
     {
       pos: [7, 0, 1],
       state: 10
+    },
+    {
+      pos: [1, 1, 1],
+      state: 9
+    },
+    {
+      pos: [1, 2, 1],
+      state: 9
     },
     {
       pos: [1, 0, 2],
@@ -434,10 +458,6 @@
     {
       pos: [4, 2, 2],
       state: 11
-    },
-    {
-      pos: [0, 0, 3],
-      state: 10
     },
     {
       pos: [1, 0, 3],
@@ -851,5 +871,5 @@
       Name: "minecraft:acacia_stairs"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }
