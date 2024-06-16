@@ -33,13 +33,17 @@ minecraft:block/activator_rail_on_raised_ne
 minecraft:block/activator_rail_on_raised_sw
 minecraft:block/activator_rail_raised_ne
 minecraft:block/activator_rail_raised_sw
+minecraft:block/air
 minecraft:block/allium
 minecraft:block/andesite
 minecraft:block/anvil
 minecraft:block/attached_melon_stem
 minecraft:block/attached_pumpkin_stem
 minecraft:block/azure_bluet
+minecraft:block/banner
+minecraft:block/barrier
 minecraft:block/beacon
+minecraft:block/bed
 minecraft:block/bedrock
 minecraft:block/bedrock_mirrored
 minecraft:block/beetroots_stage0
@@ -79,6 +83,7 @@ minecraft:block/black_carpet
 minecraft:block/black_concrete
 minecraft:block/black_concrete_powder
 minecraft:block/black_glazed_terracotta
+minecraft:block/black_shulker_box
 minecraft:block/black_stained_glass
 minecraft:block/black_stained_glass_pane_noside
 minecraft:block/black_stained_glass_pane_noside_alt
@@ -94,6 +99,7 @@ minecraft:block/blue_concrete_powder
 minecraft:block/blue_glazed_terracotta
 minecraft:block/blue_ice
 minecraft:block/blue_orchid
+minecraft:block/blue_shulker_box
 minecraft:block/blue_stained_glass
 minecraft:block/blue_stained_glass_pane_noside
 minecraft:block/blue_stained_glass_pane_noside_alt
@@ -127,6 +133,7 @@ minecraft:block/brown_glazed_terracotta
 minecraft:block/brown_mushroom
 minecraft:block/brown_mushroom_block
 minecraft:block/brown_mushroom_block_inventory
+minecraft:block/brown_shulker_box
 minecraft:block/brown_stained_glass
 minecraft:block/brown_stained_glass_pane_noside
 minecraft:block/brown_stained_glass_pane_noside_alt
@@ -161,6 +168,7 @@ minecraft:block/cauldron_level2
 minecraft:block/cauldron_level3
 minecraft:block/chain_command_block
 minecraft:block/chain_command_block_conditional
+minecraft:block/chest
 minecraft:block/chipped_anvil
 minecraft:block/chiseled_quartz_block
 minecraft:block/chiseled_red_sandstone
@@ -197,6 +205,7 @@ minecraft:block/comparator
 minecraft:block/comparator_on
 minecraft:block/comparator_on_subtract
 minecraft:block/comparator_subtract
+minecraft:block/conduit
 minecraft:block/coral_fan
 minecraft:block/cracked_stone_bricks
 minecraft:block/crafting_table
@@ -216,6 +225,7 @@ minecraft:block/cyan_carpet
 minecraft:block/cyan_concrete
 minecraft:block/cyan_concrete_powder
 minecraft:block/cyan_glazed_terracotta
+minecraft:block/cyan_shulker_box
 minecraft:block/cyan_stained_glass
 minecraft:block/cyan_stained_glass_pane_noside
 minecraft:block/cyan_stained_glass_pane_noside_alt
@@ -293,11 +303,13 @@ minecraft:block/dropper_vertical
 minecraft:block/emerald_block
 minecraft:block/emerald_ore
 minecraft:block/enchanting_table
+minecraft:block/end_portal
 minecraft:block/end_portal_frame
 minecraft:block/end_portal_frame_filled
 minecraft:block/end_rod
 minecraft:block/end_stone
 minecraft:block/end_stone_bricks
+minecraft:block/ender_chest
 minecraft:block/farmland
 minecraft:block/farmland_moist
 minecraft:block/fence_inventory
@@ -354,6 +366,7 @@ minecraft:block/gray_carpet
 minecraft:block/gray_concrete
 minecraft:block/gray_concrete_powder
 minecraft:block/gray_glazed_terracotta
+minecraft:block/gray_shulker_box
 minecraft:block/gray_stained_glass
 minecraft:block/gray_stained_glass_pane_noside
 minecraft:block/gray_stained_glass_pane_noside_alt
@@ -366,6 +379,7 @@ minecraft:block/green_carpet
 minecraft:block/green_concrete
 minecraft:block/green_concrete_powder
 minecraft:block/green_glazed_terracotta
+minecraft:block/green_shulker_box
 minecraft:block/green_stained_glass
 minecraft:block/green_stained_glass_pane_noside
 minecraft:block/green_stained_glass_pane_noside_alt
@@ -439,6 +453,7 @@ minecraft:block/lapis_block
 minecraft:block/lapis_ore
 minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
+minecraft:block/lava
 minecraft:block/leaves
 minecraft:block/lever
 minecraft:block/lever_on
@@ -446,6 +461,7 @@ minecraft:block/light_blue_carpet
 minecraft:block/light_blue_concrete
 minecraft:block/light_blue_concrete_powder
 minecraft:block/light_blue_glazed_terracotta
+minecraft:block/light_blue_shulker_box
 minecraft:block/light_blue_stained_glass
 minecraft:block/light_blue_stained_glass_pane_noside
 minecraft:block/light_blue_stained_glass_pane_noside_alt
@@ -458,6 +474,7 @@ minecraft:block/light_gray_carpet
 minecraft:block/light_gray_concrete
 minecraft:block/light_gray_concrete_powder
 minecraft:block/light_gray_glazed_terracotta
+minecraft:block/light_gray_shulker_box
 minecraft:block/light_gray_stained_glass
 minecraft:block/light_gray_stained_glass_pane_noside
 minecraft:block/light_gray_stained_glass_pane_noside_alt
@@ -475,6 +492,7 @@ minecraft:block/lime_carpet
 minecraft:block/lime_concrete
 minecraft:block/lime_concrete_powder
 minecraft:block/lime_glazed_terracotta
+minecraft:block/lime_shulker_box
 minecraft:block/lime_stained_glass
 minecraft:block/lime_stained_glass_pane_noside
 minecraft:block/lime_stained_glass_pane_noside_alt
@@ -487,6 +505,7 @@ minecraft:block/magenta_carpet
 minecraft:block/magenta_concrete
 minecraft:block/magenta_concrete_powder
 minecraft:block/magenta_glazed_terracotta
+minecraft:block/magenta_shulker_box
 minecraft:block/magenta_stained_glass
 minecraft:block/magenta_stained_glass_pane_noside
 minecraft:block/magenta_stained_glass_pane_noside_alt
@@ -511,6 +530,7 @@ minecraft:block/mossy_cobblestone_wall_inventory
 minecraft:block/mossy_cobblestone_wall_post
 minecraft:block/mossy_cobblestone_wall_side
 minecraft:block/mossy_stone_bricks
+minecraft:block/moving_piston
 minecraft:block/mushroom_block_inside
 minecraft:block/mushroom_stem
 minecraft:block/mushroom_stem_inventory
@@ -567,6 +587,7 @@ minecraft:block/orange_carpet
 minecraft:block/orange_concrete
 minecraft:block/orange_concrete_powder
 minecraft:block/orange_glazed_terracotta
+minecraft:block/orange_shulker_box
 minecraft:block/orange_stained_glass
 minecraft:block/orange_stained_glass_pane_noside
 minecraft:block/orange_stained_glass_pane_noside_alt
@@ -589,6 +610,7 @@ minecraft:block/pink_carpet
 minecraft:block/pink_concrete
 minecraft:block/pink_concrete_powder
 minecraft:block/pink_glazed_terracotta
+minecraft:block/pink_shulker_box
 minecraft:block/pink_stained_glass
 minecraft:block/pink_stained_glass_pane_noside
 minecraft:block/pink_stained_glass_pane_noside_alt
@@ -605,6 +627,7 @@ minecraft:block/piston_head
 minecraft:block/piston_head_short
 minecraft:block/piston_head_short_sticky
 minecraft:block/piston_head_sticky
+minecraft:block/piston_inventory
 minecraft:block/podzol
 minecraft:block/polished_andesite
 minecraft:block/polished_diorite
@@ -670,6 +693,7 @@ minecraft:block/purple_carpet
 minecraft:block/purple_concrete
 minecraft:block/purple_concrete_powder
 minecraft:block/purple_glazed_terracotta
+minecraft:block/purple_shulker_box
 minecraft:block/purple_stained_glass
 minecraft:block/purple_stained_glass_pane_noside
 minecraft:block/purple_stained_glass_pane_noside_alt
@@ -713,6 +737,7 @@ minecraft:block/red_sandstone_slab_top
 minecraft:block/red_sandstone_stairs
 minecraft:block/red_sandstone_stairs_inner
 minecraft:block/red_sandstone_stairs_outer
+minecraft:block/red_shulker_box
 minecraft:block/red_stained_glass
 minecraft:block/red_stained_glass_pane_noside
 minecraft:block/red_stained_glass_pane_noside_alt
@@ -769,6 +794,9 @@ minecraft:block/sandstone_stairs_outer
 minecraft:block/sea_lantern
 minecraft:block/sea_pickle
 minecraft:block/seagrass
+minecraft:block/shulker_box
+minecraft:block/sign
+minecraft:block/skull
 minecraft:block/slab
 minecraft:block/slab_top
 minecraft:block/slightly_cracked_turtle_egg
@@ -861,6 +889,7 @@ minecraft:block/structure_block_corner
 minecraft:block/structure_block_data
 minecraft:block/structure_block_load
 minecraft:block/structure_block_save
+minecraft:block/structure_void
 minecraft:block/sugar_cane
 minecraft:block/sunflower_bottom
 minecraft:block/sunflower_top
@@ -941,6 +970,7 @@ minecraft:block/vine_4u
 minecraft:block/vine_u
 minecraft:block/wall_inventory
 minecraft:block/wall_torch
+minecraft:block/water
 minecraft:block/wet_sponge
 minecraft:block/wheat_stage0
 minecraft:block/wheat_stage1
@@ -954,6 +984,7 @@ minecraft:block/white_carpet
 minecraft:block/white_concrete
 minecraft:block/white_concrete_powder
 minecraft:block/white_glazed_terracotta
+minecraft:block/white_shulker_box
 minecraft:block/white_stained_glass
 minecraft:block/white_stained_glass_pane_noside
 minecraft:block/white_stained_glass_pane_noside_alt
@@ -967,6 +998,7 @@ minecraft:block/yellow_carpet
 minecraft:block/yellow_concrete
 minecraft:block/yellow_concrete_powder
 minecraft:block/yellow_glazed_terracotta
+minecraft:block/yellow_shulker_box
 minecraft:block/yellow_stained_glass
 minecraft:block/yellow_stained_glass_pane_noside
 minecraft:block/yellow_stained_glass_pane_noside_alt
@@ -990,6 +1022,7 @@ minecraft:item/acacia_slab
 minecraft:item/acacia_stairs
 minecraft:item/acacia_trapdoor
 minecraft:item/activator_rail
+minecraft:item/air
 minecraft:item/allium
 minecraft:item/andesite
 minecraft:item/anvil
@@ -1864,4 +1897,3 @@ minecraft:item/zombie_horse_spawn_egg
 minecraft:item/zombie_pigman_spawn_egg
 minecraft:item/zombie_spawn_egg
 minecraft:item/zombie_villager_spawn_egg
-minecraft:piston_inventory
