@@ -4,6 +4,8 @@ gamerule commandBlockOutput
 gamerule commandBlockOutput <value brigadier:bool>
 gamerule disableElytraMovementCheck
 gamerule disableElytraMovementCheck <value brigadier:bool>
+gamerule disableRaids
+gamerule disableRaids <value brigadier:bool>
 gamerule doDaylightCycle
 gamerule doDaylightCycle <value brigadier:bool>
 gamerule doEntityDrops
