@@ -34,6 +34,20 @@
               }
             }
           },
+          "minecraft:adventure/throw_trident": {
+            "icon": "minecraft:trident",
+            "title": "A Throwaway Joke",
+            "description": "Throw a trident at something.\nNote: throwing away your only weapon is not a good idea.",
+            "frame": "task",
+            "childs": {
+              "minecraft:adventure/very_very_frightening": {
+                "icon": "minecraft:trident",
+                "title": "Very Very Frightening",
+                "description": "Strike a Villager with lightning",
+                "frame": "task"
+              }
+            }
+          },
           "minecraft:adventure/totem_of_undying": {
             "icon": "minecraft:totem_of_undying",
             "title": "Postmortal",
@@ -156,6 +170,20 @@
             "description": "Breed all the animals!",
             "frame": "challenge",
             "rewards": "100 xp"
+          }
+        }
+      },
+      "minecraft:husbandry/fishy_business": {
+        "icon": "minecraft:fishing_rod",
+        "title": "Fishy Business",
+        "description": "Catch a fish",
+        "frame": "task",
+        "childs": {
+          "minecraft:husbandry/tactical_fishing": {
+            "icon": "minecraft:pufferfish_bucket",
+            "title": "Tactical Fishing",
+            "description": "Catch a fish... without a fishing rod!",
+            "frame": "task"
           }
         }
       },

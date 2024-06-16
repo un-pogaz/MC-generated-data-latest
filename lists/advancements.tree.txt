@@ -3,6 +3,8 @@ adventure/root
 │ └>adventure/kill_all_mobs
 │ └>adventure/shoot_arrow
 │ │ └>adventure/sniper_duel
+│ └>adventure/throw_trident
+│ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
@@ -22,6 +24,8 @@ end/root
 husbandry/root
 └>husbandry/breed_an_animal
 │ └>husbandry/bred_all_animals
+└>husbandry/fishy_business
+│ └>husbandry/tactical_fishing
 └>husbandry/plant_seed
 │ └>husbandry/balanced_diet
 │ └>husbandry/break_diamond_hoe
