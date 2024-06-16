@@ -1,3 +1,4 @@
+minecraft:bastion_remnant
 minecraft:buried_treasure
 minecraft:desert_pyramid
 minecraft:endcity
@@ -10,6 +11,7 @@ minecraft:monument
 minecraft:nether_fossil
 minecraft:ocean_ruin
 minecraft:pillager_outpost
+minecraft:ruined_portal
 minecraft:shipwreck
 minecraft:stronghold
 minecraft:swamp_hut
