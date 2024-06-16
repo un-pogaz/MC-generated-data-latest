@@ -1,6 +1,10 @@
 {
   "type": "literal",
   "children": {
+    "Buried_Treasure": {
+      "type": "literal",
+      "executable": true
+    },
     "Desert_Pyramid": {
       "type": "literal",
       "executable": true
