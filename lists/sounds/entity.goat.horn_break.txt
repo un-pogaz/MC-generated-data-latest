@@ -1,0 +1,4 @@
+minecraft:mob/goat/horn_break1
+minecraft:mob/goat/horn_break2
+minecraft:mob/goat/horn_break3
+minecraft:mob/goat/horn_break4
