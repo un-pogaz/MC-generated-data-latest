@@ -12,6 +12,9 @@
         "frame": "challenge"
     },
     "parent": "minecraft:nether/root",
+    "rewards": {
+        "experience": 100
+    },
     "criteria": {
         "travelled": {
             "trigger": "minecraft:nether_travel",

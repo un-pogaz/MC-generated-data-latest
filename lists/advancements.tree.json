@@ -16,7 +16,8 @@
             "icon": "minecraft:diamond_sword",
             "title": "Monsters Hunted",
             "description": "Kill one of every hostile monster",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "100 xp"
           },
           "minecraft:adventure/shoot_arrow": {
             "icon": "minecraft:bow",
@@ -28,7 +29,8 @@
                 "icon": "minecraft:arrow",
                 "title": "Sniper duel",
                 "description": "Kill a skeleton with an arrow from more than 50 meters",
-                "frame": "challenge"
+                "frame": "challenge",
+                "rewards": "50 xp"
               }
             }
           },
@@ -50,7 +52,8 @@
             "icon": "minecraft:diamond_boots",
             "title": "Adventuring Time",
             "description": "Discover every biome",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "500 xp"
           }
         }
       },
@@ -117,7 +120,8 @@
                     "icon": "minecraft:shulker_shell",
                     "title": "Great View From Up Here",
                     "description": "Levitate up 50 blocks from the attacks of a Shulker",
-                    "frame": "challenge"
+                    "frame": "challenge",
+                    "rewards": "50 xp"
                   }
                 }
               }
@@ -150,7 +154,8 @@
             "icon": "minecraft:golden_carrot",
             "title": "Two by Two",
             "description": "Breed all the animals!",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "100 xp"
           }
         }
       },
@@ -164,13 +169,15 @@
             "icon": "minecraft:apple",
             "title": "A Balanced Diet",
             "description": "Eat everything that is edible, even if it's not good for you",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "100 xp"
           },
           "minecraft:husbandry/break_diamond_hoe": {
             "icon": "minecraft:diamond_hoe",
             "title": "Serious Dedication",
             "description": "Completely use up a diamond hoe, and then reevaluate your life choices",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "100 xp"
           }
         }
       },
@@ -193,7 +200,8 @@
         "icon": "minecraft:map",
         "title": "Subspace Bubble",
         "description": "Use the Nether to travel 7km in the Overworld",
-        "frame": "challenge"
+        "frame": "challenge",
+        "rewards": "100 xp"
       },
       "minecraft:nether/find_fortress": {
         "icon": "minecraft:nether_brick",
@@ -248,6 +256,7 @@
                     "title": "A Furious Cocktail",
                     "description": "Have every potion effect applied at the same time",
                     "frame": "challenge",
+                    "rewards": "100 xp",
                     "childs": {
                       "minecraft:nether/all_effects": {
                         "icon": "minecraft:bucket",
@@ -270,12 +279,14 @@
         "title": "Return to Sender",
         "description": "Destroy a Ghast with a fireball",
         "frame": "challenge",
+        "rewards": "50 xp",
         "childs": {
           "minecraft:nether/uneasy_alliance": {
             "icon": "minecraft:ghast_tear",
             "title": "Uneasy Alliance",
             "description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it.",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "100 xp"
           }
         }
       }
