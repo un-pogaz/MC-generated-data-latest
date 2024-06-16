@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_snowball"
-    ],
-    [
+      "has_snowball",
       "has_the_recipe"
     ]
   ]

@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_stone_pickaxe"
-    ],
-    [
+      "has_stone_pickaxe",
       "has_the_recipe"
     ]
   ]

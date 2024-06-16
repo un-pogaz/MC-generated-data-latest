@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_iron_block"
-    ],
-    [
+      "has_iron_block",
       "has_the_recipe"
     ]
   ]

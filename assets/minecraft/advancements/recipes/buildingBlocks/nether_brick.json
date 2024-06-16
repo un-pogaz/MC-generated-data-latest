@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_netherbrick"
-    ],
-    [
+      "has_netherbrick",
       "has_the_recipe"
     ]
   ]

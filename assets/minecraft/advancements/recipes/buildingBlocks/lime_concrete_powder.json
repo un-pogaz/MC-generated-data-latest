@@ -34,12 +34,8 @@
   },
   "requirements": [
     [
-      "has_the_recipe"
-    ],
-    [
-      "has_sand"
-    ],
-    [
+      "has_the_recipe",
+      "has_sand",
       "has_gravel"
     ]
   ]

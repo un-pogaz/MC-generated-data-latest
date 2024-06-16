@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_nether_star"
-    ],
-    [
+      "has_nether_star",
       "has_the_recipe"
     ]
   ]

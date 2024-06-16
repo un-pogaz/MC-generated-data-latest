@@ -20,7 +20,8 @@
             "item": "minecraft:coal",
             "count": {
               "min": 9
-            }
+            },
+            "data": 0
           }
         ]
       }
@@ -28,9 +29,7 @@
   },
   "requirements": [
     [
-      "has_the_recipe"
-    ],
-    [
+      "has_the_recipe",
       "has_at_least_9_coal"
     ]
   ]
