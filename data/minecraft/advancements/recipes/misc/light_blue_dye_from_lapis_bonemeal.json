@@ -29,7 +29,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "light_blue_dye_from_lapis_bonemeal"
+        "recipe": "minecraft:light_blue_dye_from_lapis_bonemeal"
       }
     }
   },

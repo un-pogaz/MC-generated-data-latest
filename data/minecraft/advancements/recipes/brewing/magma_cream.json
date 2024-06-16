@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "magma_cream"
+        "recipe": "minecraft:magma_cream"
       }
     }
   },

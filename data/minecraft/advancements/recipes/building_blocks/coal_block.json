@@ -2,17 +2,10 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:coal_block",
-      "minecraft:coal"
+      "minecraft:coal_block"
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "coal_block"
-      }
-    },
     "has_at_least_9_coal": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -20,17 +13,23 @@
           {
             "item": "minecraft:coal",
             "count": {
-              "min": 9
+              "min": 9.0
             }
           }
         ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coal_block"
       }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_at_least_9_coal"
+      "has_at_least_9_coal",
+      "has_the_recipe"
     ]
   ]
 }

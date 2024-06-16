@@ -39,7 +39,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "quartz_slab"
+        "recipe": "minecraft:quartz_slab"
       }
     }
   },

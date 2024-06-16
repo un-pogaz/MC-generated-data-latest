@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "stick"
-      }
-    },
     "has_oak_planks": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -71,17 +65,23 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:stick"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
       "has_oak_planks",
       "has_spruce_planks",
       "has_birch_planks",
       "has_jungle_planks",
       "has_acacia_planks",
-      "has_dark_oak_planks"
+      "has_dark_oak_planks",
+      "has_the_recipe"
     ]
   ]
 }

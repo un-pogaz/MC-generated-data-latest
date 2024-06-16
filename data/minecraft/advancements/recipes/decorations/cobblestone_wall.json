@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "cobblestone_wall"
+        "recipe": "minecraft:cobblestone_wall"
       }
     }
   },

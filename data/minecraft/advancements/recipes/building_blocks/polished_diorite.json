@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "polished_diorite"
+        "recipe": "minecraft:polished_diorite"
       }
     }
   },

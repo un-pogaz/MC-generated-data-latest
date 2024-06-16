@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "redstone_lamp"
-      }
-    },
     "has_glowstone": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:redstone_lamp"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_glowstone"
+      "has_glowstone",
+      "has_the_recipe"
     ]
   ]
 }

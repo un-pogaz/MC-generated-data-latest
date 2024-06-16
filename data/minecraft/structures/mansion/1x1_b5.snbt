@@ -1,6 +1,7 @@
 {
   size: [7, 11, 7],
   entities: [],
+  author: "Player2",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -312,50 +313,50 @@
         Items: [
           {
             Slot: 8b,
-            id: "minecraft:red_flower",
             Count: 1b,
+            id: "minecraft:red_flower",
             Damage: 2s
           },
           {
             Slot: 10b,
-            id: "minecraft:red_flower",
             Count: 1b,
+            id: "minecraft:red_flower",
             Damage: 2s
           },
           {
             Slot: 11b,
-            id: "minecraft:red_flower",
             Count: 1b,
+            id: "minecraft:red_flower",
             Damage: 2s
           },
           {
             Slot: 12b,
-            id: "minecraft:red_flower",
             Count: 1b,
+            id: "minecraft:red_flower",
             Damage: 2s
           },
           {
             Slot: 14b,
-            id: "minecraft:red_flower",
             Count: 1b,
+            id: "minecraft:red_flower",
             Damage: 2s
           },
           {
             Slot: 15b,
-            id: "minecraft:red_flower",
             Count: 1b,
+            id: "minecraft:red_flower",
             Damage: 2s
           },
           {
             Slot: 16b,
-            id: "minecraft:red_flower",
             Count: 1b,
+            id: "minecraft:red_flower",
             Damage: 2s
           },
           {
             Slot: 18b,
-            id: "minecraft:red_flower",
             Count: 1b,
+            id: "minecraft:red_flower",
             Damage: 2s
           }
         ],
@@ -2238,7 +2239,6 @@
       state: 4
     }
   ],
-  author: "Player2",
   palette: [
     {
       Properties: {
