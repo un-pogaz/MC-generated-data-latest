@@ -1,0 +1,6 @@
+minecraft:mob/parrot/idle1
+minecraft:mob/parrot/idle2
+minecraft:mob/parrot/idle3
+minecraft:mob/parrot/idle4
+minecraft:mob/parrot/idle5
+minecraft:mob/parrot/idle6

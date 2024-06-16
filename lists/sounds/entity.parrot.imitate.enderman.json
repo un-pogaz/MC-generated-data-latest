@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "type": "event",
+      "name": "entity.endermen.ambient",
+      "volume": 0.5,
+      "pitch": 1.7
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.enderman"
+}

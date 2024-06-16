@@ -1,0 +1,22 @@
+story/root
+└>story/mine_stone
+  └>story/upgrade_tools
+    └>story/smelt_iron
+      └>story/iron_tools
+      │ └>story/mine_diamond
+      │   └>story/enchant_item
+      │   └>story/shiny_gear
+      └>story/lava_bucket
+      │ └>story/form_obsidian
+      │   └>story/enter_the_nether
+      │     └>story/obtain_blaze_rod
+      │     │ └>story/brew_potion
+      │     │ └>story/follow_ender_eye
+      │     │   └>story/enter_the_end
+      │     │     └>story/enter_end_gateway
+      │     │       └>story/elytra
+      │     └>story/summon_wither
+      │       └>story/create_beacon
+      │         └>story/create_full_beacon
+      └>story/obtain_armor
+        └>story/deflect_arrow

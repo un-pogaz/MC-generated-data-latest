@@ -1,0 +1,4 @@
+minecraft:entity/player/hurt/drown1
+minecraft:entity/player/hurt/drown2
+minecraft:entity/player/hurt/drown3
+minecraft:entity/player/hurt/drown4
