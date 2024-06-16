@@ -607,6 +607,9 @@ minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
 minecraft:entity/experience_orb
 minecraft:entity/explosion
+minecraft:entity/fish/cod_mob
+minecraft:entity/fish/pufferfish
+minecraft:entity/fish/salmon_mob
 minecraft:entity/ghast/ghast
 minecraft:entity/ghast/ghast_shooting
 minecraft:entity/guardian
@@ -1175,9 +1178,11 @@ minecraft:items/clock_61
 minecraft:items/clock_62
 minecraft:items/clock_63
 minecraft:items/clownfish
+minecraft:items/clownfish_bucket
 minecraft:items/coal
 minecraft:items/cocoa_beans
 minecraft:items/cod
+minecraft:items/cod_bucket
 minecraft:items/command_block_minecart
 minecraft:items/comparator
 minecraft:items/compass_00
@@ -1256,6 +1261,7 @@ minecraft:items/fire_charge
 minecraft:items/firework_rocket
 minecraft:items/firework_star
 minecraft:items/firework_star_overlay
+minecraft:items/fish_pufferfish_raw
 minecraft:items/fishing_rod
 minecraft:items/fishing_rod_cast
 minecraft:items/flint
@@ -1359,6 +1365,7 @@ minecraft:items/potion_overlay
 minecraft:items/prismarine_crystals
 minecraft:items/prismarine_shard
 minecraft:items/pufferfish
+minecraft:items/pufferfish_bucket
 minecraft:items/pumpkin_pie
 minecraft:items/pumpkin_seeds
 minecraft:items/purple_dye
@@ -1374,6 +1381,7 @@ minecraft:items/rotten_flesh
 minecraft:items/ruby
 minecraft:items/saddle
 minecraft:items/salmon
+minecraft:items/salmon_bucket
 minecraft:items/scute
 minecraft:items/sea_grass
 minecraft:items/shears
