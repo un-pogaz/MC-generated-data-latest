@@ -1,9 +1,5 @@
 {
   "properties": {
-    "lit": [
-      "true",
-      "false"
-    ],
     "rotation": [
       "0",
       "1",
