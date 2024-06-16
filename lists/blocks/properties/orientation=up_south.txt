@@ -1,3 +1,2 @@
 minecraft:crafter
-minecraft:heavy_core
 minecraft:jigsaw

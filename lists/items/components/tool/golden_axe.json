@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "blocks": "#minecraft:incorrect_for_gold_tool",
+      "correct_for_drops": false
+    },
+    {
+      "blocks": "#minecraft:mineable/axe",
+      "correct_for_drops": true,
+      "speed": 12.0
+    }
+  ]
+}

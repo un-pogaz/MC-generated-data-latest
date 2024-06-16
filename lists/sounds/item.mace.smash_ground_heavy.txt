@@ -1,0 +1,1 @@
+minecraft:item/mace/smash_ground_heavy

@@ -1,0 +1,22 @@
+{
+  "can_always_eat": true,
+  "effects": [
+    {
+      "effect": {
+        "amplifier": 1,
+        "duration": 100,
+        "id": "minecraft:regeneration",
+        "show_icon": true
+      }
+    },
+    {
+      "effect": {
+        "duration": 2400,
+        "id": "minecraft:absorption",
+        "show_icon": true
+      }
+    }
+  ],
+  "nutrition": 4,
+  "saturation_modifier": 1.2
+}
