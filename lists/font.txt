@@ -1,0 +1,2 @@
+minecraft:alt
+minecraft:default

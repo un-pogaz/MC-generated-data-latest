@@ -1,0 +1,2 @@
+give <targets minecraft:entity[amount="multiple", type="players"]> <item minecraft:item_stack>
+give <targets minecraft:entity[amount="multiple", type="players"]> <item minecraft:item_stack> <count brigadier:integer[min="1"]>

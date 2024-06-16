@@ -1,0 +1,6 @@
+weather clear
+weather clear <duration brigadier:integer[min="0", max="1000000"]>
+weather rain
+weather rain <duration brigadier:integer[min="0", max="1000000"]>
+weather thunder
+weather thunder <duration brigadier:integer[min="0", max="1000000"]>

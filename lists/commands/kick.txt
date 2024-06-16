@@ -1,0 +1,2 @@
+kick <targets minecraft:entity[amount="multiple", type="players"]>
+kick <targets minecraft:entity[amount="multiple", type="players"]> <reason minecraft:message>

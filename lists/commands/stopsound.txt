@@ -1,0 +1,22 @@
+stopsound <targets minecraft:entity[amount="multiple", type="players"]>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> * <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> ambient
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> ambient <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> block
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> block <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> hostile
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> hostile <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> master
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> master <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> music
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> music <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> neutral
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> neutral <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> player
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> player <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> record
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> record <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> voice
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> voice <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> weather
+stopsound <targets minecraft:entity[amount="multiple", type="players"]> weather <sound minecraft:resource_location>
