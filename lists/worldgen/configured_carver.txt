@@ -5,6 +5,5 @@ minecraft:ocean_cave
 minecraft:prototype_canyon
 minecraft:prototype_cave
 minecraft:prototype_crevice
-minecraft:prototype_ocean_cave
 minecraft:underwater_canyon
 minecraft:underwater_cave
