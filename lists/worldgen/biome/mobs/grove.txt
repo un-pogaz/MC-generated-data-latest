@@ -1,13 +1,9 @@
 minecraft:bat
-minecraft:chicken
-minecraft:cow
 minecraft:creeper
 minecraft:enderman
 minecraft:fox
 minecraft:glow_squid
-minecraft:pig
 minecraft:rabbit
-minecraft:sheep
 minecraft:skeleton
 minecraft:slime
 minecraft:spider
