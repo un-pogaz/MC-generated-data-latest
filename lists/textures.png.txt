@@ -631,6 +631,8 @@ minecraft:block/shulker_box
 minecraft:block/slime_block
 minecraft:block/small_amethyst_bud
 minecraft:block/small_dripleaf_side
+minecraft:block/small_dripleaf_stem_bottom
+minecraft:block/small_dripleaf_stem_top
 minecraft:block/small_dripleaf_top
 minecraft:block/smithing_table_bottom
 minecraft:block/smithing_table_front
