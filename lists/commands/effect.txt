@@ -1,7 +1,7 @@
 effect clear
-effect clear <targets minecraft:entity[amount="multiple", type="entities"]>
-effect clear <targets minecraft:entity[amount="multiple", type="entities"]> <effect minecraft:mob_effect>
-effect give <targets minecraft:entity[amount="multiple", type="entities"]> <effect minecraft:mob_effect>
-effect give <targets minecraft:entity[amount="multiple", type="entities"]> <effect minecraft:mob_effect> <seconds brigadier:integer[min="1", max="1000000"]>
-effect give <targets minecraft:entity[amount="multiple", type="entities"]> <effect minecraft:mob_effect> <seconds brigadier:integer[min="1", max="1000000"]> <amplifier brigadier:integer[min="0", max="255"]>
-effect give <targets minecraft:entity[amount="multiple", type="entities"]> <effect minecraft:mob_effect> <seconds brigadier:integer[min="1", max="1000000"]> <amplifier brigadier:integer[min="0", max="255"]> <hideParticles brigadier:bool>
+effect clear <targets minecraft:entity[type="entities", amount="multiple"]>
+effect clear <targets minecraft:entity[type="entities", amount="multiple"]> <effect minecraft:mob_effect>
+effect give <targets minecraft:entity[type="entities", amount="multiple"]> <effect minecraft:mob_effect>
+effect give <targets minecraft:entity[type="entities", amount="multiple"]> <effect minecraft:mob_effect> <seconds brigadier:integer[max="1000000", min="1"]>
+effect give <targets minecraft:entity[type="entities", amount="multiple"]> <effect minecraft:mob_effect> <seconds brigadier:integer[max="1000000", min="1"]> <amplifier brigadier:integer[max="255", min="0"]>
+effect give <targets minecraft:entity[type="entities", amount="multiple"]> <effect minecraft:mob_effect> <seconds brigadier:integer[max="1000000", min="1"]> <amplifier brigadier:integer[max="255", min="0"]> <hideParticles brigadier:bool>
