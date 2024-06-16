@@ -7,6 +7,7 @@ minecraft:custom_stat
 minecraft:enchantment
 minecraft:entity_type
 minecraft:fluid
+minecraft:game_event
 minecraft:item
 minecraft:loot_condition_type
 minecraft:loot_function_type
@@ -21,6 +22,7 @@ minecraft:motive
 minecraft:particle_type
 minecraft:point_of_interest_type
 minecraft:pos_rule_test
+minecraft:position_source_type
 minecraft:potion
 minecraft:recipe_serializer
 minecraft:recipe_type
