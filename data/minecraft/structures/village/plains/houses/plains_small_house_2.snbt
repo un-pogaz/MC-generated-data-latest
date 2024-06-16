@@ -998,7 +998,7 @@
     },
     {
       pos: [0, 3, 3],
-      state: 8
+      state: 15
     },
     {
       pos: [2, 3, 3],
@@ -1505,5 +1505,5 @@
       Name: "minecraft:wall_torch"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1930
 }

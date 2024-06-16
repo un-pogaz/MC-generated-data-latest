@@ -179,10 +179,6 @@
       state: 3
     },
     {
-      pos: [0, 0, 5],
-      state: 2
-    },
-    {
       pos: [3, 0, 5],
       state: 0
     },
@@ -1418,6 +1414,10 @@
     {
       pos: [9, 5, 4],
       state: 9
+    },
+    {
+      pos: [0, 0, 5],
+      state: 13
     },
     {
       pos: [1, 0, 5],
@@ -2697,7 +2697,7 @@
     },
     {
       Properties: {
-        face: "ceiling",
+        attachment: "ceiling",
         facing: "east"
       },
       Name: "minecraft:bell"
@@ -2781,5 +2781,5 @@
       Name: "minecraft:tall_grass"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1930
 }
