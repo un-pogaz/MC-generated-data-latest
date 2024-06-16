@@ -43,6 +43,9 @@ minecraft:disk_gravel
 
 []
 
+minecraft:spring_water
+minecraft:spring_lava
+
 minecraft:glow_lichen
 minecraft:patch_grass_badlands
 minecraft:patch_dead_bush_badlands
@@ -51,5 +54,5 @@ minecraft:red_mushroom_normal
 minecraft:patch_sugar_cane_badlands
 minecraft:patch_pumpkin
 minecraft:patch_cactus_decorated
-minecraft:spring_water
-minecraft:spring_lava
+
+minecraft:freeze_top_layer
