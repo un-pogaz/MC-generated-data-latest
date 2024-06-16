@@ -1,1 +1,1 @@
-minecraft:sea_grass
+minecraft:seagrass
