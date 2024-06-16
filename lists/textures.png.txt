@@ -1609,6 +1609,7 @@ minecraft:gui/sprites/container/inventory/effect_background_large
 minecraft:gui/sprites/container/inventory/effect_background_small
 minecraft:gui/sprites/container/loom/banner_slot
 minecraft:gui/sprites/container/loom/dye_slot
+minecraft:gui/sprites/container/loom/error
 minecraft:gui/sprites/container/loom/pattern
 minecraft:gui/sprites/container/loom/pattern_highlighted
 minecraft:gui/sprites/container/loom/pattern_selected

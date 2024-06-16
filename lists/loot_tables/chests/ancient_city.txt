@@ -28,5 +28,6 @@ minecraft:soul_torch
 minecraft:coal
 
 empty
+minecraft:enchanted_book
 minecraft:ward_armor_trim_smithing_template
 minecraft:silence_armor_trim_smithing_template
