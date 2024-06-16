@@ -256,6 +256,7 @@ minecraft:green_stained_glass_pane
 minecraft:green_stained_glass_pane_from_glass_pane
 minecraft:green_terracotta
 minecraft:green_wool
+minecraft:grindstone
 minecraft:hay_block
 minecraft:heavy_weighted_pressure_plate
 minecraft:hopper
@@ -515,7 +516,6 @@ minecraft:redstone_block
 minecraft:redstone_from_smelting
 minecraft:redstone_lamp
 minecraft:redstone_torch
-minecraft:repair_item
 minecraft:repeater
 minecraft:sandstone
 minecraft:sandstone_slab
