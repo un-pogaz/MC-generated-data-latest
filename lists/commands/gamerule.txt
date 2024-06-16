@@ -60,6 +60,8 @@ gamerule logAdminCommands
 gamerule logAdminCommands <value brigadier:bool>
 gamerule maxCommandChainLength
 gamerule maxCommandChainLength <value brigadier:integer>
+gamerule maxCommandForkCount
+gamerule maxCommandForkCount <value brigadier:integer>
 gamerule maxEntityCramming
 gamerule maxEntityCramming <value brigadier:integer>
 gamerule mobExplosionDropDecay
