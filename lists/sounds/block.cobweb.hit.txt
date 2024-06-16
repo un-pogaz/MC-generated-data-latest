@@ -1,0 +1,6 @@
+minecraft:block/cobweb/step1
+minecraft:block/cobweb/step2
+minecraft:block/cobweb/step3
+minecraft:block/cobweb/step4
+minecraft:block/cobweb/step5
+minecraft:block/cobweb/step6

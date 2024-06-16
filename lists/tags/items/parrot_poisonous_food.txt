@@ -1,1 +1,1 @@
-minecraft:carrot
+minecraft:cookie

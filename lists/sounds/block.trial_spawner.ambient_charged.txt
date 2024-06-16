@@ -1,0 +1,5 @@
+minecraft:block/trial_spawner/ambient_charged1
+minecraft:block/trial_spawner/ambient_charged2
+minecraft:block/trial_spawner/ambient_charged3
+minecraft:block/trial_spawner/ambient_charged4
+minecraft:block/trial_spawner/ambient_charged5
