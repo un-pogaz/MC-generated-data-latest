@@ -6,15 +6,6 @@
       "west",
       "east"
     ],
-    "last_interaction_book_slot": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
     "slot_0_occupied": [
       "true",
       "false"
