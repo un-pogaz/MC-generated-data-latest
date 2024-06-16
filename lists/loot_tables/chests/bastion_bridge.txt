@@ -19,3 +19,9 @@ minecraft:leather
 minecraft:arrow
 minecraft:iron_nugget
 minecraft:gold_nugget
+
+empty
+minecraft:snout_armor_trim_smithing_template
+
+empty
+minecraft:netherite_upgrade_smithing_template

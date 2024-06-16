@@ -1,28 +1,34 @@
-| Name                        | Count | Chance | Weight | Comment         |
-| --------------------------- | ----- | ------ | ------ | --------------- |
-| 1 time                      |    -- |     -- |     -- |                 |
-| minecraft:diamond_shovel    |     1 |    15% | 15/100 | enchantments: * |
-| minecraft:diamond_pickaxe   |     1 |    12% | 12/100 | enchantments: * |
-| minecraft:netherite_scrap   |     1 |     8% |  8/100 |                 |
-| minecraft:ancient_debris    |     1 |    12% | 12/100 |                 |
-| minecraft:ancient_debris    |     2 |     5% |  5/100 |                 |
-| minecraft:saddle            |     1 |    12% | 12/100 |                 |
-| minecraft:gold_block        |  2..4 |    16% | 16/100 |                 |
-| minecraft:golden_carrot     | 8..17 |    10% | 10/100 |                 |
-| minecraft:golden_apple      |     1 |    10% | 10/100 |                 |
-| – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – |
-| 3 to 4 time                 |    -- |     -- |     -- |                 |
-| minecraft:golden_axe        |     1 |   7.1% |   1/14 | enchantments: * |
-| minecraft:crying_obsidian   |  1..5 |   7.1% |   1/14 |                 |
-| minecraft:glowstone         |  3..6 |   7.1% |   1/14 |                 |
-| minecraft:gilded_blackstone |  2..5 |   7.1% |   1/14 |                 |
-| minecraft:soul_sand         |  2..7 |   7.1% |   1/14 |                 |
-| minecraft:crimson_nylium    |  2..7 |   7.1% |   1/14 |                 |
-| minecraft:gold_nugget       |  2..8 |   7.1% |   1/14 |                 |
-| minecraft:leather           |  1..3 |   7.1% |   1/14 |                 |
-| minecraft:arrow             | 5..17 |   7.1% |   1/14 |                 |
-| minecraft:string            |  3..8 |   7.1% |   1/14 |                 |
-| minecraft:porkchop          |  2..5 |   7.1% |   1/14 |                 |
-| minecraft:cooked_porkchop   |  2..5 |   7.1% |   1/14 |                 |
-| minecraft:crimson_fungus    |  2..7 |   7.1% |   1/14 |                 |
-| minecraft:crimson_roots     |  2..7 |   7.1% |   1/14 |                 |
+| Name                                          | Count  | Chance | Weight | Comment         |
+| --------------------------------------------- | ------ | ------ | ------ | --------------- |
+| 1 time                                        |     -- |     -- |     -- |                 |
+| minecraft:lodestone                           |      1 |   100% |      1 |                 |
+| – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – |
+| 1 to 2 time                                   |     -- |     -- |     -- |                 |
+| minecraft:crossbow                            |      1 |   7.7% |   1/13 | enchantments: * |
+| minecraft:spectral_arrow                      | 10..28 |   7.7% |   1/13 |                 |
+| minecraft:gilded_blackstone                   |  8..12 |   7.7% |   1/13 |                 |
+| minecraft:crying_obsidian                     |   3..8 |   7.7% |   1/13 |                 |
+| minecraft:gold_block                          |      1 |   7.7% |   1/13 |                 |
+| minecraft:gold_ingot                          |   4..9 |   7.7% |   1/13 |                 |
+| minecraft:iron_ingot                          |   4..9 |   7.7% |   1/13 |                 |
+| minecraft:golden_sword                        |      1 |   7.7% |   1/13 |                 |
+| minecraft:golden_chestplate                   |      1 |   7.7% |   1/13 | enchantments: * |
+| minecraft:golden_helmet                       |      1 |   7.7% |   1/13 | enchantments: * |
+| minecraft:golden_leggings                     |      1 |   7.7% |   1/13 | enchantments: * |
+| minecraft:golden_boots                        |      1 |   7.7% |   1/13 | enchantments: * |
+| minecraft:golden_axe                          |      1 |   7.7% |   1/13 | enchantments: * |
+| – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – |
+| 2 to 4 time                                   |     -- |     -- |     -- |                 |
+| minecraft:string                              |   1..6 |    20% |    1/5 |                 |
+| minecraft:leather                             |   1..3 |    20% |    1/5 |                 |
+| minecraft:arrow                               |  5..17 |    20% |    1/5 |                 |
+| minecraft:iron_nugget                         |   2..6 |    20% |    1/5 |                 |
+| minecraft:gold_nugget                         |   2..6 |    20% |    1/5 |                 |
+| – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – |
+| 1 time                                        |     -- |     -- |     -- |                 |
+| empty                                         |        |  95.2% |  20/21 |                 |
+| minecraft:snout_armor_trim_smithing_template  |      1 |   4.8% |   1/21 |                 |
+| – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – |
+| 1 time                                        |     -- |     -- |     -- |                 |
+| empty                                         |        |  96.8% |  30/31 |                 |
+| minecraft:netherite_upgrade_smithing_template |      1 |   3.2% |   1/31 |                 |

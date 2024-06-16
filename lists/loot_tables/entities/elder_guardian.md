@@ -13,3 +13,7 @@
 | – – – – – – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –  |
 | 1 time                                      |    -- |     -- |     -- | killed by player, random chance: 0.025%|{enchantment: looting}: 0.035% + 0.01%*(level-1) |
 | loot_table[]minecraft:gameplay/fishing/fish |     1 |   100% |      1 | furnace smelt                                                                            |
+| – – – – – – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –  |
+| 1 time                                      |    -- |     -- |     -- |                                                                                          |
+| empty                                       |       |    80% |    4/5 |                                                                                          |
+| minecraft:tide_armor_trim_smithing_template |     1 |    20% |    1/5 |                                                                                          |

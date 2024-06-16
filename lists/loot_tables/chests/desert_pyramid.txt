@@ -19,3 +19,6 @@ minecraft:gunpowder
 minecraft:rotten_flesh
 minecraft:string
 minecraft:sand
+
+empty
+minecraft:dune_armor_trim_smithing_template
