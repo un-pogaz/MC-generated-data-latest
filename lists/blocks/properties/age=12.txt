@@ -1,3 +1,4 @@
 minecraft:cactus
 minecraft:fire
+minecraft:kelp_top
 minecraft:sugar_cane

@@ -1,0 +1,3 @@
+minecraft:acacia_log
+minecraft:acacia_bark
+minecraft:stripped_acacia_log

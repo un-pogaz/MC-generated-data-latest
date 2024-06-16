@@ -53,6 +53,8 @@ minecraft:recipes/building_blocks/dark_oak_planks
 minecraft:recipes/building_blocks/dark_oak_slab
 minecraft:recipes/building_blocks/dark_oak_stairs
 minecraft:recipes/building_blocks/dark_prismarine
+minecraft:recipes/building_blocks/dark_prismarine_slab
+minecraft:recipes/building_blocks/dark_prismarine_stairs
 minecraft:recipes/building_blocks/diamond_block
 minecraft:recipes/building_blocks/diorite
 minecraft:recipes/building_blocks/emerald_block
@@ -118,6 +120,10 @@ minecraft:recipes/building_blocks/polished_diorite
 minecraft:recipes/building_blocks/polished_granite
 minecraft:recipes/building_blocks/prismarine
 minecraft:recipes/building_blocks/prismarine_bricks
+minecraft:recipes/building_blocks/prismarine_bricks_slab
+minecraft:recipes/building_blocks/prismarine_bricks_stairs
+minecraft:recipes/building_blocks/prismarine_slab
+minecraft:recipes/building_blocks/prismarine_stairs
 minecraft:recipes/building_blocks/purple_concrete_powder
 minecraft:recipes/building_blocks/purple_stained_glass
 minecraft:recipes/building_blocks/purple_terracotta
@@ -186,6 +192,7 @@ minecraft:recipes/combat/leather_leggings
 minecraft:recipes/combat/shield
 minecraft:recipes/combat/spectral_arrow
 minecraft:recipes/combat/stone_sword
+minecraft:recipes/combat/turtle_helmet
 minecraft:recipes/combat/wooden_sword
 minecraft:recipes/decorations/acacia_fence
 minecraft:recipes/decorations/anvil
@@ -324,6 +331,7 @@ minecraft:recipes/food/cooked_porkchop
 minecraft:recipes/food/cooked_rabbit
 minecraft:recipes/food/cooked_salmon
 minecraft:recipes/food/cookie
+minecraft:recipes/food/dried_kelp
 minecraft:recipes/food/golden_apple
 minecraft:recipes/food/mushroom_stew
 minecraft:recipes/food/pumpkin_pie
