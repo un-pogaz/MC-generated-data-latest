@@ -1,0 +1,17 @@
+minecraft:buried_treasures
+minecraft:desert_pyramids
+minecraft:end_cities
+minecraft:igloos
+minecraft:jungle_temples
+minecraft:mineshafts
+minecraft:nether_complexes
+minecraft:nether_fossils
+minecraft:ocean_monuments
+minecraft:ocean_ruins
+minecraft:pillager_outposts
+minecraft:ruined_portals
+minecraft:shipwrecks
+minecraft:strongholds
+minecraft:swamp_huts
+minecraft:villages
+minecraft:woodland_mansions
