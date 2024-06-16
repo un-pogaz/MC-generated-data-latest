@@ -6,3 +6,4 @@ minecraft:redstone_ore
 minecraft:redstone_torch
 minecraft:redstone_wall_torch
 minecraft:smoker
+minecraft:soul_campfire

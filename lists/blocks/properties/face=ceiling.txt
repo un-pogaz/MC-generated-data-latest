@@ -6,6 +6,7 @@ minecraft:grindstone
 minecraft:jungle_button
 minecraft:lever
 minecraft:oak_button
+minecraft:polished_blackstone_button
 minecraft:spruce_button
 minecraft:stone_button
 minecraft:warped_button

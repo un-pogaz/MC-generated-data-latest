@@ -22,6 +22,7 @@ minecraft:black_bed
 minecraft:black_glazed_terracotta
 minecraft:black_shulker_box
 minecraft:black_wall_banner
+minecraft:blackstone_stairs
 minecraft:blast_furnace
 minecraft:blue_bed
 minecraft:blue_glazed_terracotta
@@ -141,6 +142,9 @@ minecraft:piston
 minecraft:piston_head
 minecraft:player_wall_head
 minecraft:polished_andesite_stairs
+minecraft:polished_blackstone_brick_stairs
+minecraft:polished_blackstone_button
+minecraft:polished_blackstone_stairs
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_stairs
 minecraft:prismarine_brick_stairs
@@ -167,6 +171,7 @@ minecraft:smoker
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs
 minecraft:smooth_sandstone_stairs
+minecraft:soul_campfire
 minecraft:soul_fire_wall_torch
 minecraft:spruce_button
 minecraft:spruce_door
