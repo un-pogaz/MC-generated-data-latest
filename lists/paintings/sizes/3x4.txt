@@ -1,0 +1,2 @@
+minecraft:backyard
+minecraft:pond

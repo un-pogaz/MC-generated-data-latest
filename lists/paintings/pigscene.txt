@@ -1,0 +1,4 @@
+texture: minecraft:pigscene
+name: Pigscene
+author: Kristoffer Zetterstrand
+size: 4x4

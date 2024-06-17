@@ -1,0 +1,4 @@
+texture: minecraft:fire
+name: Fire
+author: Mojang
+size: 2x2

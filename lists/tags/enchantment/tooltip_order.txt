@@ -2,12 +2,15 @@ minecraft:binding_curse
 minecraft:vanishing_curse
 minecraft:riptide
 minecraft:channeling
+minecraft:wind_burst
 minecraft:frost_walker
 minecraft:sharpness
 minecraft:smite
 minecraft:bane_of_arthropods
 minecraft:impaling
 minecraft:power
+minecraft:density
+minecraft:breach
 minecraft:piercing
 minecraft:sweeping_edge
 minecraft:multishot
@@ -37,6 +40,3 @@ minecraft:loyalty
 minecraft:unbreaking
 minecraft:infinity
 minecraft:mending
-minecraft:wind_burst
-minecraft:density
-minecraft:breach

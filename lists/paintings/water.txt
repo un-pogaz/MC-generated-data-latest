@@ -1,0 +1,4 @@
+texture: minecraft:water
+name: Water
+author: Mojang
+size: 2x2

@@ -1,0 +1,4 @@
+texture: minecraft:kebab
+name: Kebab med tre pepperoni
+author: Kristoffer Zetterstrand
+size: 1x1

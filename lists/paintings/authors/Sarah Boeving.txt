@@ -1,0 +1,5 @@
+minecraft:baroque
+minecraft:humble
+minecraft:meditative
+minecraft:prairie_ride
+minecraft:unpacked

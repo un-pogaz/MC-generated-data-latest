@@ -1,0 +1,4 @@
+texture: minecraft:finding
+name: Finding
+author: Kristoffer Zetterstrand
+size: 4x2

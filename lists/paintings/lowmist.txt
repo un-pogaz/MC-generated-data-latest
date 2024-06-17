@@ -1,0 +1,4 @@
+texture: minecraft:lowmist
+name: Lowmist
+author: Kristoffer Zetterstrand
+size: 4x2

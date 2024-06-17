@@ -2,4 +2,3 @@
 minecraft:compass
 minecraft:carved_pumpkin
 #minecraft:skulls
-minecraft:mace
