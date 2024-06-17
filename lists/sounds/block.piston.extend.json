@@ -1,6 +1,9 @@
 {
   "sounds": [
-    "tile/piston/out"
+    {
+      "attenuation_distance": 8,
+      "name": "tile/piston/out"
+    }
   ],
   "subtitle": "subtitles.block.piston.move"
 }
