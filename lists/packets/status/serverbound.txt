@@ -1,0 +1,2 @@
+minecraft:ping_request
+minecraft:status_request

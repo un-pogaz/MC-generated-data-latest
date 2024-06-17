@@ -1,0 +1,5 @@
+minecraft:cookie_response
+minecraft:custom_query_answer
+minecraft:hello
+minecraft:key
+minecraft:login_acknowledged
