@@ -38,6 +38,7 @@ minecraft:dripstone_cluster
 minecraft:end_gateway_delayed
 minecraft:end_gateway_return
 minecraft:end_island
+minecraft:end_platform
 minecraft:end_spike
 minecraft:fancy_oak
 minecraft:fancy_oak_bees

@@ -7,3 +7,15 @@
 []
 
 minecraft:end_spike
+
+[]
+
+[]
+
+[]
+
+[]
+
+[]
+
+minecraft:end_platform
