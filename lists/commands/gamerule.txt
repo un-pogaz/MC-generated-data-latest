@@ -42,6 +42,8 @@ gamerule drowningDamage
 gamerule drowningDamage <value brigadier:bool>
 gamerule enderPearlsVanishOnDeath
 gamerule enderPearlsVanishOnDeath <value brigadier:bool>
+gamerule entitiesWithPassengersCanUsePortals
+gamerule entitiesWithPassengersCanUsePortals <value brigadier:bool>
 gamerule fallDamage
 gamerule fallDamage <value brigadier:bool>
 gamerule fireDamage

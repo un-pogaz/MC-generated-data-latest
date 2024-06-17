@@ -1,0 +1,12 @@
+minecraft:11
+minecraft:13
+minecraft:blocks
+minecraft:cat
+minecraft:chirp
+minecraft:far
+minecraft:mall
+minecraft:mellohi
+minecraft:stal
+minecraft:strad
+minecraft:wait
+minecraft:ward
