@@ -241,6 +241,8 @@ minecraft:blocks/piston_inner
 minecraft:blocks/piston_side
 minecraft:blocks/piston_top_normal
 minecraft:blocks/piston_top_sticky
+minecraft:blocks/planks_acacia
+minecraft:blocks/planks_big_oak
 minecraft:blocks/planks_birch
 minecraft:blocks/planks_jungle
 minecraft:blocks/planks_oak
