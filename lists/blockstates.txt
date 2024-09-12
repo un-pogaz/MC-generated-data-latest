@@ -49,6 +49,7 @@ minecraft:carrots
 minecraft:cauldron
 minecraft:chiseled_brick_monster_egg
 minecraft:chiseled_quartz_block
+minecraft:chiseled_red_sandstone
 minecraft:chiseled_sandstone
 minecraft:chiseled_stonebrick
 minecraft:clay
@@ -235,6 +236,10 @@ minecraft:red_carpet
 minecraft:red_mushroom
 minecraft:red_mushroom_block
 minecraft:red_sand
+minecraft:red_sandstone
+minecraft:red_sandstone_double_slab
+minecraft:red_sandstone_slab
+minecraft:red_sandstone_stairs
 minecraft:red_stained_glass
 minecraft:red_stained_glass_pane
 minecraft:red_stained_hardened_clay
@@ -261,6 +266,7 @@ minecraft:slime
 minecraft:smooth_andesite
 minecraft:smooth_diorite
 minecraft:smooth_granite
+minecraft:smooth_red_sandstone
 minecraft:smooth_sandstone
 minecraft:snow
 minecraft:snow_layer
