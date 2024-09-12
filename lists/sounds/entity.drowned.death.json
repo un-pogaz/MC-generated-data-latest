@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/drowned/death1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/drowned/death2",
+      "volume": 0.9
+    }
+  ],
+  "subtitles": "subtitles.entity.drowned.death"
+}

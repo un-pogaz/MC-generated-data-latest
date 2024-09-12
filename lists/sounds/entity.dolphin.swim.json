@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "mob/dolphin/swim1",
+    "mob/dolphin/swim2",
+    "mob/dolphin/swim3",
+    "mob/dolphin/swim4",
+    "entity/fish/swim5",
+    "entity/fish/swim6",
+    "entity/fish/swim7"
+  ],
+  "subtitle": "subtitles.entity.dolphin.swim"
+}

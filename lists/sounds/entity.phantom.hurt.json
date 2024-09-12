@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/phantom/hurt1",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/phantom/hurt2",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/phantom/hurt3",
+      "volume": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.phantom.hurt"
+}

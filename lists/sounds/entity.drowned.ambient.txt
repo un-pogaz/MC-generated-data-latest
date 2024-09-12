@@ -1,0 +1,5 @@
+minecraft:mob/drowned/idle1
+minecraft:mob/drowned/idle2
+minecraft:mob/drowned/idle3
+minecraft:mob/drowned/idle4
+minecraft:mob/drowned/idle5
