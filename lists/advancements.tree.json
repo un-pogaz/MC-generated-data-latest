@@ -2,27 +2,32 @@
   "minecraft:adventure/root": {
     "icon": "minecraft:map",
     "title": "Adventure",
+    "description": "Adventure, exploration and combat.",
     "background": "minecraft:gui/advancements/backgrounds/adventure",
     "frame": "task",
     "childs": {
       "minecraft:adventure/kill_a_mob": {
         "icon": "minecraft:iron_sword",
-        "title": "Kill a mob",
+        "title": "Monster Hunter",
+        "description": "Kill any hostile monster",
         "frame": "task",
         "childs": {
           "minecraft:adventure/kill_all_mobs": {
             "icon": "minecraft:diamond_sword",
-            "title": "Kill all the mobs",
+            "title": "Monsters Hunted",
+            "description": "Kill one of every hostile monster",
             "frame": "challenge"
           },
           "minecraft:adventure/shoot_arrow": {
             "icon": "minecraft:bow",
-            "title": "Shoot something",
+            "title": "Take Aim",
+            "description": "Shoot something with a bow and arrow",
             "frame": "task",
             "childs": {
               "minecraft:adventure/sniper_duel": {
                 "icon": "minecraft:arrow",
                 "title": "Sniper duel",
+                "description": "Kill a skeleton with an arrow from more than 50 meters",
                 "frame": "challenge"
               }
             }
@@ -31,12 +36,22 @@
       },
       "minecraft:adventure/sleep_in_bed": {
         "icon": "minecraft:bed",
-        "title": "Change your spawn point",
-        "frame": "task"
+        "title": "Sweet dreams",
+        "description": "Change your respawn point",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/adventuring_time": {
+            "icon": "minecraft:diamond_boots",
+            "title": "Adventuring Time",
+            "description": "Discover every biome",
+            "frame": "challenge"
+          }
+        }
       },
       "minecraft:adventure/trade": {
         "icon": "minecraft:emerald",
-        "title": "Complete a trade",
+        "title": "What a Deal!",
+        "description": "Successfully trade with a Villager",
         "frame": "task"
       }
     }
@@ -44,42 +59,50 @@
   "minecraft:story/root": {
     "icon": "minecraft:grass",
     "title": "Minecraft",
+    "description": "The heart and story of the game",
     "background": "minecraft:gui/advancements/backgrounds/stone",
     "frame": "task",
     "childs": {
       "minecraft:story/mine_stone": {
         "icon": "minecraft:wooden_pickaxe",
-        "title": "Mine stone",
+        "title": "Stone Age",
+        "description": "Mine stone with your new pickaxe",
         "frame": "task",
         "childs": {
           "minecraft:story/upgrade_tools": {
             "icon": "minecraft:stone_pickaxe",
-            "title": "Upgrade tools",
+            "title": "Getting an Upgrade",
+            "description": "Construct a better pickaxe",
             "frame": "task",
             "childs": {
               "minecraft:story/smelt_iron": {
                 "icon": "minecraft:iron_ingot",
-                "title": "Smelt iron",
+                "title": "Acquire Hardware",
+                "description": "Smelt an iron ingot",
                 "frame": "task",
                 "childs": {
                   "minecraft:story/iron_tools": {
                     "icon": "minecraft:iron_pickaxe",
-                    "title": "Iron tools",
+                    "title": "Isn't It Iron Pick",
+                    "description": "Upgrade your pickaxe",
                     "frame": "task",
                     "childs": {
                       "minecraft:story/mine_diamond": {
                         "icon": "minecraft:diamond",
                         "title": "Diamonds!",
+                        "description": "Acquire diamonds",
                         "frame": "task",
                         "childs": {
                           "minecraft:story/enchant_item": {
                             "icon": "minecraft:enchanted_book",
-                            "title": "Enchant an item",
+                            "title": "Enchanter",
+                            "description": "Enchant an item at an Enchanting Table",
                             "frame": "task"
                           },
                           "minecraft:story/shiny_gear": {
                             "icon": "minecraft:diamond_chestplate",
-                            "title": "Shiny gear",
+                            "title": "Cover Me With Diamonds",
+                            "description": "Diamond armor saves lives",
                             "frame": "task"
                           }
                         }
@@ -88,54 +111,64 @@
                   },
                   "minecraft:story/lava_bucket": {
                     "icon": "minecraft:lava_bucket",
-                    "title": "Bucket of lava",
+                    "title": "Hot Stuff",
+                    "description": "Fill a bucket with lava",
                     "frame": "task",
                     "childs": {
                       "minecraft:story/form_obsidian": {
                         "icon": "minecraft:obsidian",
-                        "title": "Form obsidian",
+                        "title": "Ice Bucket Challenge",
+                        "description": "Form and mine a block of Obsidian",
                         "frame": "task",
                         "childs": {
                           "minecraft:story/enter_the_nether": {
                             "icon": "minecraft:flint_and_steel",
-                            "title": "Enter the Nether",
+                            "title": "We Need to Go Deeper",
+                            "description": "Build, light and enter a Nether Portal",
                             "frame": "task",
                             "childs": {
                               "minecraft:story/obtain_blaze_rod": {
                                 "icon": "minecraft:blaze_rod",
-                                "title": "Obtain a Blaze Rod",
+                                "title": "Into Fire",
+                                "description": "Relieve a Blaze of its rod",
                                 "frame": "task",
                                 "childs": {
                                   "minecraft:story/brew_weakness_potion": {
                                     "icon": "minecraft:potion",
-                                    "title": "Brew a Weakness Potion",
+                                    "title": "A Weak Brew",
+                                    "description": "Brew up a potion of Weakness",
                                     "frame": "task",
                                     "childs": {
                                       "minecraft:story/cure_zombie_villager": {
                                         "icon": "minecraft:golden_apple",
-                                        "title": "Cure a zombie villager",
+                                        "title": "Zombie Doctor",
+                                        "description": "Cure a zombie villager.",
                                         "frame": "goal"
                                       }
                                     }
                                   },
                                   "minecraft:story/follow_ender_eye": {
                                     "icon": "minecraft:ender_eye",
-                                    "title": "Follow an Ender Eye",
+                                    "title": "Eye Spy",
+                                    "description": "Follow an Ender Eye",
                                     "frame": "task",
                                     "childs": {
                                       "minecraft:story/enter_the_end": {
                                         "icon": "minecraft:end_stone",
-                                        "title": "Enter the End",
+                                        "title": "The End?",
+                                        "description": "Enter the End Portal",
                                         "frame": "task",
                                         "childs": {
                                           "minecraft:story/enter_end_gateway": {
                                             "icon": "minecraft:ender_pearl",
-                                            "title": "Enter a Gateway",
+                                            "title": "Remote Getaway",
+                                            "description": "Defeat the dragon and escape the island",
                                             "frame": "task",
                                             "childs": {
                                               "minecraft:story/elytra": {
                                                 "icon": "minecraft:elytra",
-                                                "title": "Learn to Fly",
+                                                "title": "Sky's the Limit",
+                                                "description": "Find an Elytra",
                                                 "frame": "task"
                                               }
                                             }
@@ -148,17 +181,20 @@
                               },
                               "minecraft:story/summon_wither": {
                                 "icon": "minecraft:nether_star",
-                                "title": "Summon the Wither",
+                                "title": "Withering Heights",
+                                "description": "Summon the Wither",
                                 "frame": "task",
                                 "childs": {
                                   "minecraft:story/create_beacon": {
                                     "icon": "minecraft:beacon",
-                                    "title": "Create a beacon",
+                                    "title": "Bring Home the Beacon",
+                                    "description": "Construct and place a Beacon",
                                     "frame": "task",
                                     "childs": {
                                       "minecraft:story/create_full_beacon": {
                                         "icon": "minecraft:beacon",
-                                        "title": "Create a full beacon",
+                                        "title": "Beaconator",
+                                        "description": "Bring a beacon to full power",
                                         "frame": "goal"
                                       }
                                     }
@@ -173,12 +209,14 @@
                   },
                   "minecraft:story/obtain_armor": {
                     "icon": "minecraft:iron_chestplate",
-                    "title": "Obtain armor",
+                    "title": "Suit Up",
+                    "description": "Protect yourself with a piece of iron armor",
                     "frame": "task",
                     "childs": {
                       "minecraft:story/deflect_arrow": {
                         "icon": "minecraft:shield",
-                        "title": "Deflect an arrow",
+                        "title": "Not Today, Thank You",
+                        "description": "Deflect an arrow with a shield",
                         "frame": "task"
                       }
                     }

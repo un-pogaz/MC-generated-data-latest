@@ -5,7 +5,18 @@
     ]
   },
   "criteria": {
-    "has_dye": {
+    "has_green_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dye",
+            "data": 2
+          }
+        ]
+      }
+    },
+    "has_lapis": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +36,10 @@
   },
   "requirements": [
     [
-      "has_dye"
+      "has_green_dye"
+    ],
+    [
+      "has_lapis"
     ],
     [
       "has_the_recipe"

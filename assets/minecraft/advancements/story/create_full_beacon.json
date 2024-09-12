@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:beacon",
-        "title": "Create a full beacon",
+        "title": "Beaconator",
+        "description": "Bring a beacon to full power",
         "frame": "goal"
     },
     "parent": "minecraft:story/create_beacon",
