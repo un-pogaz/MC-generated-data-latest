@@ -24,7 +24,7 @@
     "name": "Čeština"
   },
   "cy_gb": {
-    "region": "CY",
+    "region": "Cymru",
     "name": "Cymraeg"
   },
   "da_dk": {
@@ -40,7 +40,7 @@
     "name": "Ελληνικά"
   },
   "en_au": {
-    "region": "AU",
+    "region": "Australia",
     "name": "Australian English"
   },
   "en_ca": {
@@ -60,7 +60,7 @@
     "name": "Esperanto"
   },
   "es_ar": {
-    "region": "AR",
+    "region": "Argentina",
     "name": "Español"
   },
   "es_es": {
@@ -96,11 +96,11 @@
     "name": "Français"
   },
   "fr_fr": {
-    "region": "Français",
+    "region": "France",
     "name": "Français"
   },
   "ga_ie": {
-    "region": "IE",
+    "region": "Éire",
     "name": "Gaeilge"
   },
   "gl_es": {
@@ -216,7 +216,7 @@
     "name": "Slovenščina"
   },
   "sr_sp": {
-    "region": "Srbija",
+    "region": "Србија",
     "name": "Српски"
   },
   "sv_se": {
