@@ -62,6 +62,7 @@ minecraft:red_sandstone_stairs
 minecraft:red_stained_glass_pane
 minecraft:sandstone_slab
 minecraft:sandstone_stairs
+minecraft:sea_pickle
 minecraft:sign
 minecraft:spruce_fence
 minecraft:spruce_slab
