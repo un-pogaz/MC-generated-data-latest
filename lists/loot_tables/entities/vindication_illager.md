@@ -1,7 +1,4 @@
-| Name               | Count | Chance | Weight | Comment                                                                                    |
-| ------------------ | ----- | ------ | ------ | ------------------------------------------------------------------------------------------ |
-| 1 time             |    -- |     -- |     -- | random chance: 0.15%|{enchantment: looting}: 0.2125% + 0.0625%*(level-1), killed by player |
-| minecraft:iron_axe |     1 |   100% |      1 |                                                                                            |
-| – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –  |
-| 1 time             |    -- |     -- |     -- | killed by player                                                                           |
-| minecraft:emerald  |  0..1 |   100% |      1 | add drop: 0..1 * level {enchantment: looting}                                              |
+| Name              | Count | Chance | Weight | Comment                                       |
+| ----------------- | ----- | ------ | ------ | --------------------------------------------- |
+| 1 time            |    -- |     -- |     -- | killed by player                              |
+| minecraft:emerald |  0..1 |   100% |      1 | add drop: 0..1 * level {enchantment: looting} |
