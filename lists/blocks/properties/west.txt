@@ -2,6 +2,7 @@ minecraft:acacia_fence
 minecraft:andesite_wall
 minecraft:birch_fence
 minecraft:black_stained_glass_pane
+minecraft:blackstone_wall
 minecraft:blue_stained_glass_pane
 minecraft:brick_wall
 minecraft:brown_mushroom_block
@@ -32,6 +33,8 @@ minecraft:nether_brick_wall
 minecraft:oak_fence
 minecraft:orange_stained_glass_pane
 minecraft:pink_stained_glass_pane
+minecraft:polished_blackstone_brick_wall
+minecraft:polished_blackstone_wall
 minecraft:prismarine_wall
 minecraft:purple_stained_glass_pane
 minecraft:red_mushroom_block
