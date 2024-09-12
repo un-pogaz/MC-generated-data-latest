@@ -16,8 +16,10 @@
         "levitated": {
             "trigger": "minecraft:levitation",
             "conditions": {
-                "duration": {
-                    "min": 600
+                "distance": {
+                    "y": {
+                        "min": 50
+                    }
                 }
             }
         }
