@@ -275,7 +275,10 @@ minecraft:item/chest
 minecraft:item/door
 minecraft:item/enderchest
 minecraft:item/largechest
+minecraft:item/largexmaschest
 minecraft:item/sign
+minecraft:item/skis
+minecraft:item/xmaschest
 minecraft:item/xporb
 minecraft:misc/beacon
 minecraft:misc/beam
