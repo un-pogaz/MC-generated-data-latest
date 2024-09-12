@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "entity/shulker/ambient1",
+    "entity/shulker/ambient2",
+    "entity/shulker/ambient3",
+    "entity/shulker/ambient4",
+    "entity/shulker/ambient5",
+    "entity/shulker/ambient6",
+    "entity/shulker/ambient7"
+  ],
+  "subtitle": "subtitles.entity.shulker.ambient"
+}

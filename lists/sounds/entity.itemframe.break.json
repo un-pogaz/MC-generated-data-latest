@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/itemframe/break1",
+    "entity/itemframe/break2",
+    "entity/itemframe/break3"
+  ],
+  "subtitle": "subtitles.entity.itemframe.break"
+}

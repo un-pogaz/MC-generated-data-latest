@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/painting/place1",
+    "entity/painting/place2",
+    "entity/painting/place3",
+    "entity/painting/place4"
+  ],
+  "subtitle": "subtitles.entity.painting.place"
+}

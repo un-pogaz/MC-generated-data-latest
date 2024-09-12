@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "mob/cat/purreow1",
+    "mob/cat/purreow2"
+  ],
+  "subtitle": "subtitles.entity.cat.ambient"
+}

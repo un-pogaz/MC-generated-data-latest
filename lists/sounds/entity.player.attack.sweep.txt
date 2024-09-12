@@ -1,0 +1,7 @@
+minecraft:entity/player/attack/sweep1
+minecraft:entity/player/attack/sweep2
+minecraft:entity/player/attack/sweep3
+minecraft:entity/player/attack/sweep4
+minecraft:entity/player/attack/sweep5
+minecraft:entity/player/attack/sweep6
+minecraft:entity/player/attack/sweep7

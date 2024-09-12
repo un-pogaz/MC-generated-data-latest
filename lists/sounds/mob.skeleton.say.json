@@ -1,8 +1,0 @@
-{
-  "category": "hostile",
-  "sounds": [
-    "mob/skeleton/say1",
-    "mob/skeleton/say2",
-    "mob/skeleton/say3"
-  ]
-}

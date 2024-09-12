@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/wither/idle1",
+    "mob/wither/idle2",
+    "mob/wither/idle3",
+    "mob/wither/idle4"
+  ],
+  "subtitle": "subtitles.entity.wither.ambient"
+}
