@@ -289,7 +289,7 @@ Pumpa kungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
-Cześć Polska!
+Cześć Polsko!
 你好中国！
 Привет Россия!
 Γεια σου Ελλάδα!
@@ -309,3 +309,5 @@ Don't feed avocados to parrots!
 Swords for everyone!
 Plz reply to my tweet!
 .party()!
+Take her pillow!
+Put that cookie down!
