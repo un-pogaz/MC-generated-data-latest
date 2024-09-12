@@ -73,7 +73,7 @@ Herregud!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
-OpenGL 1.2!
+OpenGL 2.1 (if supported)!
 Thousands of colors!
 Try it!
 Age of Wonders is better!
@@ -328,3 +328,4 @@ Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
 Extra things!
+Yay, puppies for everyone!
