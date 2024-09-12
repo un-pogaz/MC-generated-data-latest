@@ -1,0 +1,13 @@
+{
+  "id": "15w32b",
+  "type": "snapshot",
+  "time": "2015-08-06T13:51:47+00:00",
+  "releaseTime": "2015-08-06T13:51:47+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/59db82d67a0a1c6b6a31d22cd050ff6c43f1611b/15w32b.json",
+  "assets": "1.8",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/f6ad102bcaa53b1a58358f16e376d548d44933ec/1.8.json",
+  "client": "https://launcher.mojang.com/v1/objects/1f448b05e56d3b36f0408eecd798b875ec230ef0/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/53c13fc634c89d408155553ebc8724f4b900fa1f/server.jar",
+  "server_mappings": null
+}
