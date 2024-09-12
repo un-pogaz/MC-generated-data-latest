@@ -9,7 +9,7 @@
             "trigger": "minecraft:summoned_entity",
             "conditions": {
                 "entity": {
-                    "type": "ender_dragon"
+                    "type": "wither"
                 }
             }
         }
