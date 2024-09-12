@@ -803,6 +803,7 @@ minecraft:zombie_wall_head
 #minecraft:planks
 #minecraft:portals
 #minecraft:pressure_plates
+#minecraft:prevent_mob_spawning_inside
 #minecraft:rails
 #minecraft:sand
 #minecraft:saplings
