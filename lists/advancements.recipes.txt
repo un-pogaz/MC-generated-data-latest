@@ -20,6 +20,7 @@ minecraft:recipes/building_blocks/black_stained_glass
 minecraft:recipes/building_blocks/black_terracotta
 minecraft:recipes/building_blocks/black_wool
 minecraft:recipes/building_blocks/blue_concrete_powder
+minecraft:recipes/building_blocks/blue_ice
 minecraft:recipes/building_blocks/blue_stained_glass
 minecraft:recipes/building_blocks/blue_terracotta
 minecraft:recipes/building_blocks/blue_wool
@@ -351,6 +352,7 @@ minecraft:recipes/misc/charcoal
 minecraft:recipes/misc/chorus_fruit_popped
 minecraft:recipes/misc/coal
 minecraft:recipes/misc/coal_from_smelting
+minecraft:recipes/misc/conduit
 minecraft:recipes/misc/cyan_dye
 minecraft:recipes/misc/diamond
 minecraft:recipes/misc/diamond_from_smelting
