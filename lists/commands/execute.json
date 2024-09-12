@@ -344,7 +344,7 @@
         "as": {
           "type": "literal",
           "children": {
-            "entities": {
+            "targets": {
               "type": "argument",
               "parser": "minecraft:entity",
               "properties": {
@@ -372,7 +372,7 @@
         "as": {
           "type": "literal",
           "children": {
-            "entities": {
+            "targets": {
               "type": "argument",
               "parser": "minecraft:entity",
               "properties": {
