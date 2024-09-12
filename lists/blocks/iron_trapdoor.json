@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "half": [
+      "top",
+      "bottom"
+    ],
+    "open": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

@@ -797,19 +797,19 @@
     },
     {
       pos: [2, 1, 2],
-      state: 8
+      state: 9
     },
     {
       pos: [3, 1, 2],
-      state: 8
+      state: 9
     },
     {
       pos: [4, 1, 2],
-      state: 8
+      state: 10
     },
     {
       pos: [5, 1, 2],
-      state: 9
+      state: 11
     },
     {
       pos: [6, 1, 2],
@@ -821,19 +821,19 @@
     },
     {
       pos: [1, 2, 2],
-      state: 10
+      state: 12
     },
     {
       pos: [2, 2, 2],
-      state: 10
+      state: 12
     },
     {
       pos: [3, 2, 2],
-      state: 10
+      state: 12
     },
     {
       pos: [4, 2, 2],
-      state: 10
+      state: 12
     },
     {
       pos: [5, 2, 2],
@@ -1073,11 +1073,11 @@
     },
     {
       pos: [1, 1, 3],
-      state: 11
+      state: 13
     },
     {
       pos: [4, 1, 3],
-      state: 12
+      state: 14
     },
     {
       pos: [5, 1, 3],
@@ -1093,19 +1093,19 @@
     },
     {
       pos: [1, 2, 3],
-      state: 10
+      state: 12
     },
     {
       pos: [2, 2, 3],
-      state: 13
+      state: 15
     },
     {
       pos: [3, 2, 3],
-      state: 13
+      state: 15
     },
     {
       pos: [4, 2, 3],
-      state: 10
+      state: 12
     },
     {
       pos: [5, 2, 3],
@@ -1345,19 +1345,19 @@
     },
     {
       pos: [1, 1, 4],
-      state: 14
+      state: 16
     },
     {
       pos: [2, 1, 4],
-      state: 14
+      state: 17
     },
     {
       pos: [3, 1, 4],
-      state: 14
+      state: 17
     },
     {
       pos: [4, 1, 4],
-      state: 12
+      state: 18
     },
     {
       pos: [5, 1, 4],
@@ -1373,19 +1373,19 @@
     },
     {
       pos: [1, 2, 4],
-      state: 10
+      state: 12
     },
     {
       pos: [2, 2, 4],
-      state: 10
+      state: 12
     },
     {
       pos: [3, 2, 4],
-      state: 10
+      state: 12
     },
     {
       pos: [4, 2, 4],
-      state: 10
+      state: 12
     },
     {
       pos: [5, 2, 4],
@@ -1629,7 +1629,7 @@
     },
     {
       pos: [2, 1, 5],
-      state: 15
+      state: 19
     },
     {
       pos: [3, 1, 5],
@@ -1637,7 +1637,7 @@
     },
     {
       pos: [4, 1, 5],
-      state: 15
+      state: 19
     },
     {
       pos: [5, 1, 5],
@@ -1801,7 +1801,7 @@
     },
     {
       pos: [3, 7, 5],
-      state: 7
+      state: 20
     },
     {
       pos: [4, 7, 5],
@@ -2162,22 +2162,13 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
-      Properties: {
-        variant: "oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:oak_planks"
     },
     {
       Name: "minecraft:air"
@@ -2210,7 +2201,7 @@
       Properties: {
         east: "false",
         south: "false",
-        north: "false",
+        north: "true",
         west: "false"
       },
       Name: "minecraft:dark_oak_fence"
@@ -2218,7 +2209,23 @@
     {
       Properties: {
         half: "top",
+        shape: "outer_left",
+        facing: "south"
+      },
+      Name: "minecraft:oak_stairs"
+    },
+    {
+      Properties: {
+        half: "top",
         shape: "straight",
+        facing: "south"
+      },
+      Name: "minecraft:oak_stairs"
+    },
+    {
+      Properties: {
+        half: "top",
+        shape: "outer_right",
         facing: "south"
       },
       Name: "minecraft:oak_stairs"
@@ -2232,10 +2239,7 @@
       Name: "minecraft:oak_stairs"
     },
     {
-      Properties: {
-        color: "silver"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:light_gray_carpet"
     },
     {
       Properties: {
@@ -2254,10 +2258,15 @@
       Name: "minecraft:oak_stairs"
     },
     {
+      Name: "minecraft:black_carpet"
+    },
+    {
       Properties: {
-        color: "black"
+        half: "top",
+        shape: "outer_right",
+        facing: "north"
       },
-      Name: "minecraft:carpet"
+      Name: "minecraft:oak_stairs"
     },
     {
       Properties: {
@@ -2269,12 +2278,29 @@
     },
     {
       Properties: {
+        half: "top",
+        shape: "outer_right",
+        facing: "west"
+      },
+      Name: "minecraft:oak_stairs"
+    },
+    {
+      Properties: {
         half: "bottom",
         shape: "straight",
         facing: "south"
       },
       Name: "minecraft:oak_stairs"
+    },
+    {
+      Properties: {
+        east: "false",
+        south: "true",
+        north: "false",
+        west: "false"
+      },
+      Name: "minecraft:dark_oak_fence"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

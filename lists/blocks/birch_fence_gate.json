@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "in_wall": [
+      "true",
+      "false"
+    ],
+    "open": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

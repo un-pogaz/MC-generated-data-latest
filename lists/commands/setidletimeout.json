@@ -1,0 +1,13 @@
+{
+  "type": "literal",
+  "children": {
+    "seconds": {
+      "type": "argument",
+      "parser": "brigadier:integer",
+      "properties": {
+        "min": 0
+      },
+      "executable": true
+    }
+  }
+}

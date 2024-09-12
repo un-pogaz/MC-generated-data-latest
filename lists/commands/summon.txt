@@ -1,0 +1,3 @@
+summon <entity minecraft:resource_location>
+summon <entity minecraft:resource_location> <pos minecraft:vec3>
+summon <entity minecraft:resource_location> <pos minecraft:vec3> <nbt minecraft:nbt>

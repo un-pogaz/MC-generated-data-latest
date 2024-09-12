@@ -1589,17 +1589,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player512",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [4, 3, 9],
@@ -3384,22 +3387,13 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
-      Properties: {
-        variant: "oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:oak_planks"
     },
     {
       Properties: {
@@ -3409,21 +3403,19 @@
     },
     {
       Properties: {
-        half: "bottom",
-        variant: "oak"
+        type: "bottom"
       },
-      Name: "minecraft:wooden_slab"
+      Name: "minecraft:oak_slab"
     },
     {
       Properties: {
-        half: "top",
-        variant: "oak"
+        type: "top"
       },
-      Name: "minecraft:wooden_slab"
+      Name: "minecraft:oak_slab"
     },
     {
       Name: "minecraft:air"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }
