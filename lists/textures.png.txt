@@ -191,6 +191,10 @@ minecraft:blocks/lapis_block
 minecraft:blocks/lapis_ore
 minecraft:blocks/lava_flow  [mcmeta]
 minecraft:blocks/lava_still  [mcmeta]
+minecraft:blocks/leaves_acacia
+minecraft:blocks/leaves_acacia_opaque
+minecraft:blocks/leaves_big_oak
+minecraft:blocks/leaves_big_oak_opaque
 minecraft:blocks/leaves_birch
 minecraft:blocks/leaves_birch_opaque
 minecraft:blocks/leaves_jungle
@@ -200,6 +204,10 @@ minecraft:blocks/leaves_oak_opaque
 minecraft:blocks/leaves_spruce
 minecraft:blocks/leaves_spruce_opaque
 minecraft:blocks/lever
+minecraft:blocks/log_acacia
+minecraft:blocks/log_acacia_top
+minecraft:blocks/log_big_oak
+minecraft:blocks/log_big_oak_top
 minecraft:blocks/log_birch
 minecraft:blocks/log_birch_top
 minecraft:blocks/log_jungle
@@ -284,9 +292,11 @@ minecraft:blocks/sandstone_carved
 minecraft:blocks/sandstone_normal
 minecraft:blocks/sandstone_smooth
 minecraft:blocks/sandstone_top
+minecraft:blocks/sapling_acacia
 minecraft:blocks/sapling_birch
 minecraft:blocks/sapling_jungle
 minecraft:blocks/sapling_oak
+minecraft:blocks/sapling_roofed_oak
 minecraft:blocks/sapling_spruce
 minecraft:blocks/snow
 minecraft:blocks/soul_sand
