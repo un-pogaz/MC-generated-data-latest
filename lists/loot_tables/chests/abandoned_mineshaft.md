@@ -1,17 +1,28 @@
-| Name                       | Count | Chance | Weight | Comment                                   |
-| -------------------------- | ----- | ------ | ------ | ----------------------------------------- |
-| 3 to 6 time                |    -- |     -- |     -- |                                           |
-| minecraft:iron_ingot       |  1..5 |  12.5% |  10/80 |                                           |
-| minecraft:gold_ingot       |  1..3 |   6.2% |   5/80 |                                           |
-| minecraft:redstone         |  4..9 |   6.2% |   5/80 |                                           |
-| minecraft:dye              |  4..9 |   6.2% |   5/80 |                                           |
-| minecraft:diamond          |  1..2 |   3.8% |   3/80 |                                           |
-| minecraft:coal             |  3..8 |  12.5% |  10/80 |                                           |
-| minecraft:bread            |  1..3 |  18.8% |  15/80 |                                           |
-| minecraft:iron_pickaxe     |     1 |   1.2% |   1/80 |                                           |
-| minecraft:rail             |  4..8 |   1.2% |   1/80 |                                           |
-| minecraft:melon_seeds      |  2..4 |  12.5% |  10/80 |                                           |
-| minecraft:pumpkin_seeds    |  2..4 |  12.5% |  10/80 |                                           |
-| minecraft:saddle           |     1 |   3.8% |   3/80 |                                           |
-| minecraft:iron_horse_armor |     1 |   1.2% |   1/80 |                                           |
-| minecraft:enchanted_book   |     1 |   1.2% |   1/80 | enchantments: {level: 30, treasure: true} |
+| Name                             | Count | Chance | Weight | Comment         |
+| -------------------------------- | ----- | ------ | ------ | --------------- |
+| 1 time                           |    -- |     -- |     -- |                 |
+| minecraft:golden_apple           |     1 |  28.2% |  20/71 |                 |
+| minecraft:enchanted_golden_apple |     1 |   1.4% |   1/71 |                 |
+| minecraft:name_tag               |     1 |  42.3% |  30/71 |                 |
+| minecraft:enchanted_book         |     1 |  14.1% |  10/71 | enchantments: * |
+| minecraft:iron_pickaxe           |     1 |     7% |   5/71 |                 |
+| empty                            |       |     7% |   5/71 |                 |
+| – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – |
+| 2 to 4 time                      |    -- |     -- |     -- |                 |
+| minecraft:iron_ingot             |  1..5 |    12% |  10/83 |                 |
+| minecraft:gold_ingot             |  1..3 |     6% |   5/83 |                 |
+| minecraft:redstone               |  4..9 |     6% |   5/83 |                 |
+| minecraft:dye                    |  4..9 |     6% |   5/83 |                 |
+| minecraft:diamond                |  1..2 |   3.6% |   3/83 |                 |
+| minecraft:coal                   |  3..8 |    12% |  10/83 |                 |
+| minecraft:bread                  |  1..3 |  18.1% |  15/83 |                 |
+| minecraft:melon_seeds            |  2..4 |    12% |  10/83 |                 |
+| minecraft:pumpkin_seeds          |  2..4 |    12% |  10/83 |                 |
+| minecraft:beetroot_seeds         |  2..4 |    12% |  10/83 |                 |
+| – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – |
+| 3 time                           |    -- |     -- |     -- |                 |
+| minecraft:rail                   |  4..8 |    40% |  20/50 |                 |
+| minecraft:golden_rail            |  1..4 |    10% |   5/50 |                 |
+| minecraft:detector_rail          |  1..4 |    10% |   5/50 |                 |
+| minecraft:activator_rail         |  1..4 |    10% |   5/50 |                 |
+| minecraft:torch                  | 1..16 |    30% |  15/50 |                 |

@@ -1,1 +1,1 @@
-minecraft:rotten_flesh
+minecraft:end_crystal
