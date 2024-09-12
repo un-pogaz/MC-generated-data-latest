@@ -2251,7 +2251,7 @@
     {
       Properties: {
         face: "ceiling",
-        facing: "west"
+        facing: "east"
       },
       Name: "minecraft:bell"
     },

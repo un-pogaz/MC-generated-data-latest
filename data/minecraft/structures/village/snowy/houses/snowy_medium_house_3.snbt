@@ -367,7 +367,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/villagers",
-        final_state: "minecraft:dirt",
+        final_state: "minecraft:grass_block",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"
       },
@@ -400,7 +400,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/villagers",
-        final_state: "minecraft:dirt",
+        final_state: "minecraft:grass_block",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"
       },
