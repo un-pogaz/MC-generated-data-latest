@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    {
+      "name": "block/barrel/open1",
+      "volume": 1,
+      "pitch": 1
+    },
+    {
+      "name": "block/barrel/open2",
+      "volume": 1,
+      "pitch": 1
+    }
+  ]
+}

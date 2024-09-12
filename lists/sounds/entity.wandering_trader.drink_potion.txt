@@ -1,0 +1,2 @@
+minecraft:random/drink
+minecraft:mob/wandering_trader/drink_potion

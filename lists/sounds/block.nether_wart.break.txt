@@ -1,0 +1,6 @@
+minecraft:item/plant/netherwart1
+minecraft:item/plant/netherwart2
+minecraft:item/plant/netherwart3
+minecraft:item/plant/netherwart4
+minecraft:item/plant/netherwart5
+minecraft:item/plant/netherwart6

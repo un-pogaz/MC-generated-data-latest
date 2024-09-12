@@ -38,12 +38,14 @@ minecraft:entities/giant
 minecraft:entities/guardian
 minecraft:entities/horse
 minecraft:entities/husk
+minecraft:entities/illager_beast
 minecraft:entities/iron_golem
 minecraft:entities/llama
 minecraft:entities/magma_cube
 minecraft:entities/mule
 minecraft:entities/mushroom_cow
 minecraft:entities/ocelot
+minecraft:entities/panda
 minecraft:entities/parrot
 minecraft:entities/phantom
 minecraft:entities/pig

@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/sweet_berry_bush/place1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sweet_berry_bush/place2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sweet_berry_bush/place3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sweet_berry_bush/place4",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sweet_berry_bush/place5",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sweet_berry_bush/place6",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

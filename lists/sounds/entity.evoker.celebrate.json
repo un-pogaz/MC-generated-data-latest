@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/evocation_illager/celebrate",
+    "mob/evocation_illager/idle1",
+    "mob/evocation_illager/idle2"
+  ],
+  "subtitle": "subtitles.entity.evoker.celebrate"
+}

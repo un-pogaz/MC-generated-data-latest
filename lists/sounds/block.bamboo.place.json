@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/bamboo/place1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/place2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/place3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/place4",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/place5",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/place6",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

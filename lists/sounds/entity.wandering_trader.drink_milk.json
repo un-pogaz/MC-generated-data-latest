@@ -1,0 +1,24 @@
+{
+  "sounds": [
+    {
+      "name": "mob/wandering_trader/drink_milk1",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/drink_milk2",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/drink_milk3",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/drink_milk4",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/drink_milk5",
+      "volume": 1
+    }
+  ]
+}

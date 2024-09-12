@@ -1,0 +1,6 @@
+minecraft:block/bamboo/step1
+minecraft:block/bamboo/step2
+minecraft:block/bamboo/step3
+minecraft:block/bamboo/step4
+minecraft:block/bamboo/step5
+minecraft:block/bamboo/step6

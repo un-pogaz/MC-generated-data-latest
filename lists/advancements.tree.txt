@@ -6,6 +6,10 @@ adventure/root
 │ └>adventure/throw_trident
 │ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying
+└>adventure/ol_betsy
+│ └>adventure/arbalistic
+│ └>adventure/two_birds_one_arrow
+│ └>adventure/whos_the_pillager_now
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
 └>adventure/trade

@@ -150,6 +150,53 @@
             }
           }
         },
+        "data": {
+          "type": "literal",
+          "children": {
+            "block": {
+              "type": "literal",
+              "children": {
+                "sourcePos": {
+                  "type": "argument",
+                  "parser": "minecraft:block_pos",
+                  "children": {
+                    "path": {
+                      "type": "argument",
+                      "parser": "minecraft:nbt_path",
+                      "executable": true,
+                      "redirect": [
+                        "execute"
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "entity": {
+              "type": "literal",
+              "children": {
+                "source": {
+                  "type": "argument",
+                  "parser": "minecraft:entity",
+                  "properties": {
+                    "amount": "single",
+                    "type": "entities"
+                  },
+                  "children": {
+                    "path": {
+                      "type": "argument",
+                      "parser": "minecraft:nbt_path",
+                      "executable": true,
+                      "redirect": [
+                        "execute"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "entity": {
           "type": "literal",
           "children": {
@@ -392,7 +439,7 @@
             "block": {
               "type": "literal",
               "children": {
-                "pos": {
+                "targetPos": {
                   "type": "argument",
                   "parser": "minecraft:block_pos",
                   "children": {
@@ -623,7 +670,7 @@
             "block": {
               "type": "literal",
               "children": {
-                "pos": {
+                "targetPos": {
                   "type": "argument",
                   "parser": "minecraft:block_pos",
                   "children": {
@@ -902,6 +949,53 @@
                           ]
                         }
                       }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "data": {
+          "type": "literal",
+          "children": {
+            "block": {
+              "type": "literal",
+              "children": {
+                "sourcePos": {
+                  "type": "argument",
+                  "parser": "minecraft:block_pos",
+                  "children": {
+                    "path": {
+                      "type": "argument",
+                      "parser": "minecraft:nbt_path",
+                      "executable": true,
+                      "redirect": [
+                        "execute"
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "entity": {
+              "type": "literal",
+              "children": {
+                "source": {
+                  "type": "argument",
+                  "parser": "minecraft:entity",
+                  "properties": {
+                    "amount": "single",
+                    "type": "entities"
+                  },
+                  "children": {
+                    "path": {
+                      "type": "argument",
+                      "parser": "minecraft:nbt_path",
+                      "executable": true,
+                      "redirect": [
+                        "execute"
+                      ]
                     }
                   }
                 }
