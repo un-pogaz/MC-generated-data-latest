@@ -20,7 +20,7 @@ void main() {
     baseTexel = baseTexel - fract(baseTexel * Resolution) / Resolution;
     float luma = dot(baseTexel.rgb, vec3(0.3, 0.59, 0.11));
     vec3 chroma = (baseTexel.rgb - luma) * Saturation;
-    baseTexel = vec4(luma + chroma, 1.0);
+    baseTexel = vec4(luma + chroma, baseTexel.a);
 
     gl_FragColor = baseTexel;
 }
