@@ -315,7 +315,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Now java 6!
+Now Java 6!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -354,3 +354,4 @@ Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
 /give @a hugs 64
 This is good for Realms.
+Any computer is a laptop if you're brave enough!

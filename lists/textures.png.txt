@@ -374,6 +374,7 @@ minecraft:blocks/wool_colored_yellow
 minecraft:colormap/foliage
 minecraft:colormap/grass
 minecraft:effect/dither
+minecraft:entity/alex
 minecraft:entity/armorstand/wood
 minecraft:entity/arrow
 minecraft:entity/banner/base
