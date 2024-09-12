@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/parrot/hurt1",
+      "pitch": 0.8
+    },
+    {
+      "name": "mob/parrot/hurt2",
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/parrot/hurt1",
+      "pitch": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.hurts"
+}

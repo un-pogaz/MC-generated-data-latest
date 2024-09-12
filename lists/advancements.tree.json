@@ -1,0 +1,145 @@
+{
+  "minecraft:story/root": {
+    "icon": "minecraft:grass",
+    "title": "Minecraft",
+    "background": "minecraft:gui/advancements/backgrounds/stone",
+    "frame": "task",
+    "childs": {
+      "minecraft:story/mine_stone": {
+        "icon": "minecraft:wooden_pickaxe",
+        "title": "Mine stone",
+        "frame": "task",
+        "childs": {
+          "minecraft:story/upgrade_tools": {
+            "icon": "minecraft:stone_pickaxe",
+            "title": "Upgrade tools",
+            "frame": "task",
+            "childs": {
+              "minecraft:story/smelt_iron": {
+                "icon": "minecraft:iron_ingot",
+                "title": "Smelt iron",
+                "frame": "task",
+                "childs": {
+                  "minecraft:story/iron_tools": {
+                    "icon": "minecraft:iron_pickaxe",
+                    "title": "Iron tools",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:story/mine_diamond": {
+                        "icon": "minecraft:diamond",
+                        "title": "Diamonds!",
+                        "frame": "task",
+                        "childs": {
+                          "minecraft:story/enchant_item": {
+                            "icon": "minecraft:enchanted_book",
+                            "title": "Enchant an item",
+                            "frame": "task"
+                          },
+                          "minecraft:story/shiny_gear": {
+                            "icon": "minecraft:diamond_chestplate",
+                            "title": "Shiny gear",
+                            "frame": "task"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "minecraft:story/lava_bucket": {
+                    "icon": "minecraft:lava_bucket",
+                    "title": "Bucket of lava",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:story/form_obsidian": {
+                        "icon": "minecraft:obsidian",
+                        "title": "Form obsidian",
+                        "frame": "task",
+                        "childs": {
+                          "minecraft:story/enter_the_nether": {
+                            "icon": "minecraft:flint_and_steel",
+                            "title": "Enter the Nether",
+                            "frame": "task",
+                            "childs": {
+                              "minecraft:story/obtain_blaze_rod": {
+                                "icon": "minecraft:blaze_rod",
+                                "title": "Obtain a Blaze Rod",
+                                "frame": "task",
+                                "childs": {
+                                  "minecraft:story/brew_potion": {
+                                    "icon": "minecraft:glass_bottle",
+                                    "title": "Brew a Potion",
+                                    "frame": "task"
+                                  },
+                                  "minecraft:story/follow_ender_eye": {
+                                    "icon": "minecraft:ender_eye",
+                                    "title": "Follow an Ender Eye",
+                                    "frame": "task",
+                                    "childs": {
+                                      "minecraft:story/enter_the_end": {
+                                        "icon": "minecraft:end_stone",
+                                        "title": "Enter the End",
+                                        "frame": "task",
+                                        "childs": {
+                                          "minecraft:story/enter_end_gateway": {
+                                            "icon": "minecraft:ender_pearl",
+                                            "title": "Enter a Gateway",
+                                            "frame": "task",
+                                            "childs": {
+                                              "minecraft:story/elytra": {
+                                                "icon": "minecraft:elytra",
+                                                "title": "Learn to Fly",
+                                                "frame": "task"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "minecraft:story/summon_wither": {
+                                "icon": "minecraft:nether_star",
+                                "title": "Summon the Wither",
+                                "frame": "task",
+                                "childs": {
+                                  "minecraft:story/create_beacon": {
+                                    "icon": "minecraft:beacon",
+                                    "title": "Create a beacon",
+                                    "frame": "task",
+                                    "childs": {
+                                      "minecraft:story/create_full_beacon": {
+                                        "icon": "minecraft:beacon",
+                                        "title": "Create a full beacon",
+                                        "frame": "challenge"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "minecraft:story/obtain_armor": {
+                    "icon": "minecraft:iron_chestplate",
+                    "title": "Obtain armor",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:story/deflect_arrow": {
+                        "icon": "minecraft:shield",
+                        "title": "Deflect an arrow",
+                        "frame": "task"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

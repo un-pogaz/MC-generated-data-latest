@@ -1,0 +1,4 @@
+minecraft:mob/parrot/death1
+minecraft:mob/parrot/death2
+minecraft:mob/parrot/death3
+minecraft:mob/parrot/death4

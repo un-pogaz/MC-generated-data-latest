@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "type": "event",
+      "name": "entity.blaze.ambient",
+      "volume": 0.4,
+      "pitch": 1.8
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.blaze"
+}

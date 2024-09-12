@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "type": "event",
+      "name": "entity.vindication_illager.ambient",
+      "volume": 0.6,
+      "pitch": 1.7
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.vindication_illager"
+}
