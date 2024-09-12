@@ -1748,6 +1748,7 @@ minecraft:item/leather
 minecraft:item/leather_boots
 minecraft:item/leather_chestplate
 minecraft:item/leather_helmet
+minecraft:item/leather_horse_armor
 minecraft:item/leather_leggings
 minecraft:item/lectern
 minecraft:item/lever

@@ -6,7 +6,7 @@
     },
     "elements": [
         {   "from": [ 5, 0, 4 ],
-            "to": [ 10, 7, 9 ],
+            "to": [ 9, 7, 8 ],
             "faces": {
                 "down":  { "uv": [  0, 0,  4, 4 ], "texture": "#all", "cullface": "down" },
                 "up":    { "uv": [  0, 0,  4, 4 ], "texture": "#all" },
@@ -41,8 +41,8 @@
             }
         },
         {
-            "from": [ 7, 0, 10 ],
-            "to": [ 10, 3, 13 ],
+            "from": [ 6, 0, 9 ],
+            "to": [ 10, 4, 13 ],
             "faces": {
                 "down":  { "uv": [  0, 11,  4, 15 ], "texture": "#all" },
                 "up":    { "uv": [  0, 11,  4, 15 ], "texture": "#all" },
