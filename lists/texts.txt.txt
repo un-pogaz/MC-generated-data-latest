@@ -1,6 +1,5 @@
 minecraft:achievement/map
 minecraft:font
-minecraft:lang/languages
 minecraft:pack
 minecraft:textures/blocks/fire_0
 minecraft:textures/blocks/fire_1
