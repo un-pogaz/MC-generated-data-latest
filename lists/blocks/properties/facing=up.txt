@@ -22,6 +22,7 @@ minecraft:piston_head
 minecraft:purple_shulker_box
 minecraft:red_shulker_box
 minecraft:repeating_command_block
+minecraft:shulker_box
 minecraft:sticky_piston
 minecraft:white_shulker_box
 minecraft:yellow_shulker_box
