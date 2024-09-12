@@ -134,6 +134,8 @@ minecraft:dark_oak_slab
 minecraft:dark_oak_stairs
 minecraft:dark_oak_trapdoor
 minecraft:dark_prismarine
+minecraft:dark_prismarine_slab
+minecraft:dark_prismarine_stairs
 minecraft:daylight_detector
 minecraft:detector_rail
 minecraft:diamond
@@ -150,6 +152,7 @@ minecraft:diamond_shovel
 minecraft:diamond_sword
 minecraft:diorite
 minecraft:dispenser
+minecraft:dried_kelp
 minecraft:dropper
 minecraft:emerald
 minecraft:emerald_block
@@ -379,6 +382,10 @@ minecraft:polished_granite
 minecraft:powered_rail
 minecraft:prismarine
 minecraft:prismarine_bricks
+minecraft:prismarine_bricks_slab
+minecraft:prismarine_bricks_stairs
+minecraft:prismarine_slab
+minecraft:prismarine_stairs
 minecraft:pumpkin_pie
 minecraft:pumpkin_seeds
 minecraft:purple_banner
@@ -479,6 +486,7 @@ minecraft:tnt_minecart
 minecraft:torch
 minecraft:trapped_chest
 minecraft:tripwire_hook
+minecraft:turtle_helmet
 minecraft:wheat
 minecraft:white_banner
 minecraft:white_bed
