@@ -1,0 +1,21 @@
+{
+  "category": "hostile",
+  "sounds": [
+    {
+      "name": "mob/guardian/guardian_idle1",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/guardian/guardian_idle2",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/guardian/guardian_idle3",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/guardian/guardian_idle4",
+      "volume": 0.1
+    }
+  ]
+}
