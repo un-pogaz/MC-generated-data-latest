@@ -2,5 +2,225 @@
   "en_us": {
     "region": "US",
     "name": "English"
+  },
+  "af_za": {
+    "region": "ZA",
+    "name": "Afrikaans"
+  },
+  "ar_sa": {
+    "region": "العالم العربي",
+    "name": "العربية"
+  },
+  "bg_bg": {
+    "region": "BG",
+    "name": "Български"
+  },
+  "ca_es": {
+    "region": "CAT",
+    "name": "Català"
+  },
+  "cs_cz": {
+    "region": "CZ",
+    "name": "Čeština"
+  },
+  "cy_gb": {
+    "region": "CY",
+    "name": "Cymraeg"
+  },
+  "da_dk": {
+    "region": "Danmark",
+    "name": "Dansk"
+  },
+  "de_de": {
+    "region": "Deutschland",
+    "name": "Deutsch"
+  },
+  "el_gr": {
+    "region": "GR",
+    "name": "Ελληνικά"
+  },
+  "en_ca": {
+    "region": "UK",
+    "name": "English"
+  },
+  "en_gb": {
+    "region": "CA",
+    "name": "Canadian English"
+  },
+  "en_pt": {
+    "region": "PIRATE",
+    "name": "Pirate Speak"
+  },
+  "es_ar": {
+    "region": "Argentina",
+    "name": "Español"
+  },
+  "es_es": {
+    "region": "España",
+    "name": "Español"
+  },
+  "es_mx": {
+    "region": "MX",
+    "name": "Español"
+  },
+  "es_uy": {
+    "region": "Uruguay",
+    "name": "Español"
+  },
+  "es_ve": {
+    "region": "Ve",
+    "name": "Español Venezolano"
+  },
+  "et_ee": {
+    "region": "ET",
+    "name": "Eesti"
+  },
+  "eu_es": {
+    "region": "ES",
+    "name": "Euskara"
+  },
+  "fi_fi": {
+    "region": "Suomi",
+    "name": "Suomi"
+  },
+  "fr_ca": {
+    "region": "CA",
+    "name": "Français"
+  },
+  "fr_fr": {
+    "region": "France",
+    "name": "Français"
+  },
+  "gl_es": {
+    "region": "Galicia",
+    "name": "Galego"
+  },
+  "he_il": {
+    "region": "IL",
+    "name": "עברית"
+  },
+  "hr_hr": {
+    "region": "HR",
+    "name": "Hrvatski"
+  },
+  "hu_hu": {
+    "region": "Bulgarian",
+    "name": "Български"
+  },
+  "is_is": {
+    "region": "IS",
+    "name": "Íslenska"
+  },
+  "it_it": {
+    "region": "Italia",
+    "name": "Italiano"
+  },
+  "ja_jp": {
+    "region": "日本",
+    "name": "日本語"
+  },
+  "ka_ge": {
+    "region": "საქართველო",
+    "name": "ქართული"
+  },
+  "ko_kr": {
+    "region": "한국",
+    "name": "한국어"
+  },
+  "ky_kg": {
+    "region": "भारत",
+    "name": "अंग्रेज़ी"
+  },
+  "lt_lt": {
+    "region": "Lietuva",
+    "name": "Lietuvių"
+  },
+  "lv_lv": {
+    "region": "Latvija",
+    "name": "Latviešu"
+  },
+  "mi_nz": {
+    "region": "MS",
+    "name": "Bahasa Melayu"
+  },
+  "nb_no": {
+    "region": "NO",
+    "name": "Norsk"
+  },
+  "nl_nl": {
+    "region": "Nederland",
+    "name": "Nederlands"
+  },
+  "nn_no": {
+    "region": "Norge",
+    "name": "Norsk nynorsk"
+  },
+  "pl_pl": {
+    "region": "Polska",
+    "name": "Polski"
+  },
+  "pt_br": {
+    "region": "Brasil",
+    "name": "Português"
+  },
+  "pt_pt": {
+    "region": "Portugal",
+    "name": "Portuguese"
+  },
+  "qya_aa": {
+    "region": "Arda",
+    "name": "Quenya"
+  },
+  "ro_ro": {
+    "region": "RO",
+    "name": "Română"
+  },
+  "ru_ru": {
+    "region": "Россия",
+    "name": "Русский"
+  },
+  "sk_sk": {
+    "region": "SK",
+    "name": "Slovenčina"
+  },
+  "sl_si": {
+    "region": "Slovenija",
+    "name": "Angleščina"
+  },
+  "sr_sp": {
+    "region": "Србија",
+    "name": "Srpski"
+  },
+  "sv_se": {
+    "region": "Sverige",
+    "name": "Svenska"
+  },
+  "th_th": {
+    "region": "TH",
+    "name": "ภาษาไทย"
+  },
+  "tlh_aa": {
+    "region": "US",
+    "name": "tlhIngan Hol"
+  },
+  "tr_tr": {
+    "region": "TR",
+    "name": "Türkçe"
+  },
+  "uk_ua": {
+    "region": "Україна",
+    "name": "Українська"
+  },
+  "vi_vn": {
+    "region": "US",
+    "name": "Tiếng Việt"
+  },
+  "zh_cn": {
+    "region": "中国",
+    "name": "简体中文"
+  },
+  "zh_tw": {
+    "region": "台灣",
+    "name": "繁體中文"
   }
 }
