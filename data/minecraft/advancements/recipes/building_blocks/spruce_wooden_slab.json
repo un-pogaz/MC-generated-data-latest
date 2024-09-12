@@ -2,14 +2,14 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:spruce_wooden_slab"
+      "minecraft:spruce_slab"
     ]
   },
   "criteria": {
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "spruce_wooden_slab"
+        "recipe": "spruce_slab"
       }
     },
     "has_planks": {
