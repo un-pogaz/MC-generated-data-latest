@@ -2,6 +2,7 @@ minecraft:iron_nugget
 minecraft:fern
 minecraft:large_fern
 minecraft:potato
+minecraft:sweet_berries
 minecraft:bread
 minecraft:pumpkin_seeds
 minecraft:pumpkin_pie
