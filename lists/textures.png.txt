@@ -563,6 +563,7 @@ minecraft:entity/shield/triangle_top
 minecraft:entity/shield/triangles_bottom
 minecraft:entity/shield/triangles_top
 minecraft:entity/shield_base
+minecraft:entity/shield_base_nopattern
 minecraft:entity/shulker/endergolem
 minecraft:entity/shulker/spark
 minecraft:entity/sign
