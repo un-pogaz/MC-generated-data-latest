@@ -691,19 +691,6 @@ minecraft:gui/container/villager
 minecraft:gui/demo_background
 minecraft:gui/icons
 minecraft:gui/options_background
-minecraft:gui/realms/cross_icon
-minecraft:gui/realms/expired_icon
-minecraft:gui/realms/invitation_icons
-minecraft:gui/realms/invite_icon
-minecraft:gui/realms/off_icon
-minecraft:gui/realms/on_icon
-minecraft:gui/realms/op_icon
-minecraft:gui/realms/plus_icon
-minecraft:gui/realms/restore_icon
-minecraft:gui/realms/toggle_off_icon
-minecraft:gui/realms/toggle_on_icon
-minecraft:gui/realms/user_icon
-minecraft:gui/realms/world_icon
 minecraft:gui/resource_packs
 minecraft:gui/stream_indicator
 minecraft:gui/title/background/panorama_0
@@ -714,7 +701,6 @@ minecraft:gui/title/background/panorama_4
 minecraft:gui/title/background/panorama_5
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojang
-minecraft:gui/title/realms
 minecraft:gui/widgets
 minecraft:items/apple
 minecraft:items/apple_golden
