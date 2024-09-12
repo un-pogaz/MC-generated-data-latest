@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/chest/close",
+    "block/chest/close2",
+    "block/chest/close3"
+  ],
+  "subtitle": "subtitles.block.chest.close"
+}

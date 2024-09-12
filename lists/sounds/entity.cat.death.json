@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/cat/hitt1",
+    "mob/cat/hitt2",
+    "mob/cat/hitt3"
+  ],
+  "subtitle": "subtitles.entity.cat.death"
+}

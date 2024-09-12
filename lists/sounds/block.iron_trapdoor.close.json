@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/iron_trapdoor/close1",
+    "block/iron_trapdoor/close2",
+    "block/iron_trapdoor/close3",
+    "block/iron_trapdoor/close4"
+  ],
+  "subtitle": "subtitles.block.iron_trapdoor.close"
+}

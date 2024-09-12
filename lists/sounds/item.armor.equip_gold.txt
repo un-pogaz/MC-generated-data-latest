@@ -1,0 +1,6 @@
+minecraft:item/armor/equip_gold1
+minecraft:item/armor/equip_gold2
+minecraft:item/armor/equip_gold3
+minecraft:item/armor/equip_gold4
+minecraft:item/armor/equip_gold5
+minecraft:item/armor/equip_gold6

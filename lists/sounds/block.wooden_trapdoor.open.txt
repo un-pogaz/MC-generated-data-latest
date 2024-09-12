@@ -1,0 +1,5 @@
+minecraft:block/wooden_trapdoor/open1
+minecraft:block/wooden_trapdoor/open2
+minecraft:block/wooden_trapdoor/open3
+minecraft:block/wooden_trapdoor/open4
+minecraft:block/wooden_trapdoor/open5

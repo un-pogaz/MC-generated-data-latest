@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/end/end",
+      "stream": true
+    }
+  ]
+}
