@@ -9,8 +9,7 @@
     }
   },
   "result": {
-    "item": "minecraft:stone_slab",
-    "data": 3,
+    "item": "minecraft:cobblestone_slab",
     "count": 6
   }
 }

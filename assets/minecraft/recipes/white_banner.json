@@ -8,15 +8,13 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:wool",
-      "data": 0
+      "item": "minecraft:white_wool"
     },
     "|": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "minecraft:banner",
-    "data": 15
+    "item": "minecraft:black_banner"
   }
 }

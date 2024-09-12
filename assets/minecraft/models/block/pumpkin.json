@@ -1,8 +1,7 @@
 {
-    "parent": "block/orientable",
+    "parent": "block/cube_column",
     "textures": {
-        "top": "blocks/pumpkin_top",
-        "front": "blocks/pumpkin_face_off",
+        "end": "blocks/pumpkin_top",
         "side": "blocks/pumpkin_side"
     }
 }

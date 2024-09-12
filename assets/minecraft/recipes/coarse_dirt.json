@@ -6,16 +6,14 @@
   ],
   "key": {
     "D": {
-      "item": "minecraft:dirt",
-      "data": 0
+      "item": "minecraft:dirt"
     },
     "G": {
       "item": "minecraft:gravel"
     }
   },
   "result": {
-    "item": "minecraft:dirt",
-    "data": 1,
+    "item": "minecraft:coarse_dirt",
     "count": 4
   }
 }

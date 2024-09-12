@@ -9,10 +9,10 @@
       "item": "minecraft:nether_wart"
     },
     "N": {
-      "item": "minecraft:netherbrick"
+      "item": "minecraft:nether_brick"
     }
   },
   "result": {
-    "item": "minecraft:red_nether_brick"
+    "item": "minecraft:red_nether_bricks"
   }
 }

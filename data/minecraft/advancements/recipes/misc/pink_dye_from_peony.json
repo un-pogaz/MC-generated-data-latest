@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:double_plant",
-            "data": 5
+            "item": "minecraft:peony"
           }
         ]
       }

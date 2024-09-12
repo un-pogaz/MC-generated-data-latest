@@ -2,17 +2,14 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 4
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "item": "minecraft:dye",
-      "data": 1
+      "item": "minecraft:rose_red"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 5,
+    "item": "minecraft:purple_dye",
     "count": 2
   }
 }

@@ -3,12 +3,10 @@
   "group": "pink_dye",
   "ingredients": [
     {
-      "item": "minecraft:red_flower",
-      "data": 7
+      "item": "minecraft:pink_tulip"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 9
+    "item": "minecraft:pink_dye"
   }
 }
