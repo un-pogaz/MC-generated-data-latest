@@ -6,6 +6,12 @@
     "background": "minecraft:gui/advancements/backgrounds/adventure",
     "frame": "task",
     "childs": {
+      "minecraft:adventure/honey_block_slide": {
+        "icon": "minecraft:honey_block",
+        "title": "Sticky Situation",
+        "description": "Jump into a Honey Block to break your fall",
+        "frame": "task"
+      },
       "minecraft:adventure/kill_a_mob": {
         "icon": "minecraft:iron_sword",
         "title": "Monster Hunter",
@@ -254,6 +260,18 @@
             "rewards": "100 xp"
           }
         }
+      },
+      "minecraft:husbandry/safely_harvest_honey": {
+        "icon": "minecraft:honey_bottle",
+        "title": "Bee Our Guest",
+        "description": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees",
+        "frame": "task"
+      },
+      "minecraft:husbandry/silk_touch_nest": {
+        "icon": "minecraft:bee_nest",
+        "title": "Total Beelocation",
+        "description": "Move a Bee Nest, with 3 bees inside, using Silk Touch",
+        "frame": "task"
       },
       "minecraft:husbandry/tame_an_animal": {
         "icon": "minecraft:lead",
