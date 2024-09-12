@@ -3,6 +3,5 @@ minecraft:font
 minecraft:lang/languages
 minecraft:pack
 minecraft:title/credits
-minecraft:title/earlyplayers
 minecraft:title/splashes
 minecraft:title/win
