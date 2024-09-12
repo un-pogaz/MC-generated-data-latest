@@ -1,0 +1,4 @@
+minecraft:mob/hoglin/retreat1
+minecraft:mob/hoglin/retreat2
+minecraft:mob/hoglin/retreat3
+minecraft:mob/hoglin/idle11

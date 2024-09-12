@@ -24,5 +24,6 @@
       "name": "mob/horse/skeleton/water/soft6",
       "volume": 0.6
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
 }

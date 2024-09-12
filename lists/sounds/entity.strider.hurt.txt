@@ -1,0 +1,4 @@
+minecraft:mob/strider/hurt1
+minecraft:mob/strider/hurt2
+minecraft:mob/strider/hurt3
+minecraft:mob/strider/hurt4

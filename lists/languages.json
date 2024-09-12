@@ -50,8 +50,8 @@
     "bidirectional": false
   },
   "brb": {
-    "region": "Nederland",
-    "name": "Brabants",
+    "region": "Braobant",
+    "name": "Braobans",
     "bidirectional": false
   },
   "bs_ba": {
@@ -85,7 +85,7 @@
     "bidirectional": false
   },
   "de_ch": {
-    "region": "Schwiz",
+    "region": "Schwiiz",
     "name": "Schwiizerdütsch",
     "bidirectional": false
   },
@@ -227,6 +227,11 @@
   "fra_de": {
     "region": "Franggn",
     "name": "Fränggisch",
+    "bidirectional": false
+  },
+  "fur_it": {
+    "region": "Friûl",
+    "name": "Furlan",
     "bidirectional": false
   },
   "fy_nl": {
@@ -481,7 +486,7 @@
   },
   "rpr": {
     "region": "Россійская имперія",
-    "name": "Дореформенный русскій",
+    "name": "Русскій дореформенный",
     "bidirectional": false
   },
   "ru_ru": {
@@ -506,7 +511,7 @@
   },
   "so_so": {
     "region": "Soomaaliya",
-    "name": "Af-Soomaali",
+    "name": "Soomaali",
     "bidirectional": false
   },
   "sq_al": {
@@ -522,6 +527,11 @@
   "sv_se": {
     "region": "Sverige",
     "name": "Svenska",
+    "bidirectional": false
+  },
+  "swg": {
+    "region": "Allgai",
+    "name": "Oschdallgaiarisch",
     "bidirectional": false
   },
   "sxu": {
@@ -552,6 +562,11 @@
   "tlh_aa": {
     "region": "tlhIngan wo'",
     "name": "tlhIngan Hol",
+    "bidirectional": false
+  },
+  "tok": {
+    "region": "ma pona",
+    "name": "toki pona",
     "bidirectional": false
   },
   "tr_tr": {

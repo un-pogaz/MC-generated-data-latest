@@ -1,2 +1,0 @@
-minecraft:mob/zombiepig/zpighurt1
-minecraft:mob/zombiepig/zpighurt2

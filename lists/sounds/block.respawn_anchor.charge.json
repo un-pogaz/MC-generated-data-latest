@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/respawn_anchor/charge1",
+    "block/respawn_anchor/charge2",
+    "block/respawn_anchor/charge3"
+  ],
+  "subtitle": "subtitles.block.respawn_anchor.charge"
+}

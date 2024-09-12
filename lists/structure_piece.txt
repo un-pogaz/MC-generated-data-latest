@@ -12,6 +12,7 @@ minecraft:neccs
 minecraft:nece
 minecraft:necsr
 minecraft:nectb
+minecraft:nefos
 minecraft:nemt
 minecraft:nerc
 minecraft:nesc

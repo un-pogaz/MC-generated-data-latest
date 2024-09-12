@@ -1,0 +1,5 @@
+minecraft:mob/zoglin/step1
+minecraft:mob/zoglin/step2
+minecraft:mob/zoglin/step3
+minecraft:mob/zoglin/step4
+minecraft:mob/zoglin/step5

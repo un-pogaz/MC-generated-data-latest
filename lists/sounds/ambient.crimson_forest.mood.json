@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/crimson_forest/mood1",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/crimson_forest/mood2",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/crimson_forest/mood3",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/crimson_forest/mood4",
+      "volume": 1
+    }
+  ]
+}

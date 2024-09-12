@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin/converted1",
+      "volume": 1,
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/piglin/converted2",
+      "volume": 1,
+      "pitch": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin_brute.converted_to_zombified"
+}

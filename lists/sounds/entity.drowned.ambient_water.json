@@ -16,5 +16,6 @@
       "name": "mob/drowned/water/idle4",
       "volume": 0.9
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.drowned.ambient_water"
 }

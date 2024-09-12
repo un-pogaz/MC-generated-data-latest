@@ -3,5 +3,6 @@
     "entity/player/hurt/fire_hurt1",
     "entity/player/hurt/fire_hurt2",
     "entity/player/hurt/fire_hurt3"
-  ]
+  ],
+  "subtitle": "subtitles.entity.player.hurt_on_fire"
 }

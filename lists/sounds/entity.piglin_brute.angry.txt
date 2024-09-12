@@ -1,0 +1,5 @@
+minecraft:mob/piglin_brute/angry1
+minecraft:mob/piglin_brute/angry2
+minecraft:mob/piglin_brute/angry3
+minecraft:mob/piglin_brute/angry4
+minecraft:mob/piglin_brute/angry5

@@ -1,0 +1,14 @@
+minecraft:ambient/nether/nether_wastes/addition1
+minecraft:ambient/nether/nether_wastes/addition2
+minecraft:ambient/nether/nether_wastes/addition3
+minecraft:ambient/nether/nether_wastes/addition4
+minecraft:ambient/nether/nether_wastes/addition5
+minecraft:ambient/nether/nether_wastes/addition6
+minecraft:ambient/nether/nether_wastes/addition7
+minecraft:ambient/nether/nether_wastes/addition8
+minecraft:ambient/nether/nether_wastes/dark1
+minecraft:ambient/nether/nether_wastes/dark2
+minecraft:ambient/nether/nether_wastes/ground1
+minecraft:ambient/nether/nether_wastes/ground2
+minecraft:ambient/nether/nether_wastes/ground3
+minecraft:ambient/nether/nether_wastes/ground4

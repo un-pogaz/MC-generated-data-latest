@@ -4,3 +4,5 @@ minecraft:birch_sign
 minecraft:acacia_sign
 minecraft:jungle_sign
 minecraft:dark_oak_sign
+minecraft:crimson_sign
+minecraft:warped_sign

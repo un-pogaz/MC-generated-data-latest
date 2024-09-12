@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/nether_sprouts/step1",
+      "volume": 0.5
+    },
+    {
+      "name": "block/nether_sprouts/step2",
+      "volume": 0.5
+    },
+    {
+      "name": "block/nether_sprouts/step3",
+      "volume": 0.5
+    },
+    {
+      "name": "block/nether_sprouts/step4",
+      "volume": 0.5
+    },
+    {
+      "name": "block/nether_sprouts/step5",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

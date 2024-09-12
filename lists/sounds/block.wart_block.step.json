@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/netherwart/step1",
+    "block/netherwart/step2",
+    "block/netherwart/step3",
+    "block/netherwart/step4",
+    "block/netherwart/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

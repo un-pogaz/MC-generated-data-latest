@@ -20,5 +20,6 @@
       "name": "block/smoker/smoker5",
       "volume": 1
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.villager.work_butcher"
 }
