@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    {
+      "name": "mob/polarbear/warning3",
+      "pitch": 0.9
+    },
+    "mob/polarbear/warning1",
+    "mob/polarbear/warning2",
+    "mob/polarbear/warning3"
+  ],
+  "subtitle": "subtitles.entity.polar_bear.warning"
+}

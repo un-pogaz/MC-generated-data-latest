@@ -1,0 +1,4 @@
+minecraft:mob/stray/hurt1
+minecraft:mob/stray/hurt2
+minecraft:mob/stray/hurt3
+minecraft:mob/stray/hurt4

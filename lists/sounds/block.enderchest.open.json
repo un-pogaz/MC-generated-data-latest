@@ -1,6 +1,6 @@
 {
   "sounds": [
-    "random/chestopen"
+    "block/enderchest/open"
   ],
   "subtitle": "subtitles.block.chest.open"
 }
