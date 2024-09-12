@@ -41,6 +41,10 @@
       "type": "literal",
       "executable": true
     },
+    "Pillager_Outpost": {
+      "type": "literal",
+      "executable": true
+    },
     "Shipwreck": {
       "type": "literal",
       "executable": true
