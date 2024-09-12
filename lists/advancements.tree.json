@@ -113,6 +113,23 @@
             "frame": "goal"
           }
         }
+      },
+      "minecraft:adventure/voluntary_exile": {
+        "icon": "minecraft:white_banner",
+        "title": "Voluntary Exile",
+        "description": "Kill a raid captain.\nMaybe consider staying away from villages for the time being...",
+        "frame": "task",
+        "hidden": true,
+        "childs": {
+          "minecraft:adventure/hero_of_the_village": {
+            "icon": "minecraft:white_banner",
+            "title": "Hero of the Village",
+            "description": "Successfully defend a village from a raid",
+            "frame": "challenge",
+            "rewards": "100 xp",
+            "hidden": true
+          }
+        }
       }
     }
   },
