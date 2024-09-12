@@ -1,0 +1,7 @@
+minecraft:achievement/map
+minecraft:font
+minecraft:pack
+minecraft:title/credits
+minecraft:title/earlyplayers
+minecraft:title/splashes
+minecraft:title/win
