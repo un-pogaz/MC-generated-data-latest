@@ -1,0 +1,4 @@
+minecraft:mob/wither/idle1
+minecraft:mob/wither/idle2
+minecraft:mob/wither/idle3
+minecraft:mob/wither/idle4

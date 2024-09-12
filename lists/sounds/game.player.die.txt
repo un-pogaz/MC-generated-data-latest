@@ -1,0 +1,3 @@
+minecraft:damage/hit1
+minecraft:damage/hit2
+minecraft:damage/hit3

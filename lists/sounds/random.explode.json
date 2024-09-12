@@ -1,0 +1,9 @@
+{
+  "category": "block",
+  "sounds": [
+    "random/explode1",
+    "random/explode2",
+    "random/explode3",
+    "random/explode4"
+  ]
+}

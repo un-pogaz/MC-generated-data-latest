@@ -1,0 +1,4 @@
+minecraft:mob/bat/hurt1
+minecraft:mob/bat/hurt2
+minecraft:mob/bat/hurt3
+minecraft:mob/bat/hurt4

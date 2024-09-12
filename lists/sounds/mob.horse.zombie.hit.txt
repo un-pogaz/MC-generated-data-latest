@@ -1,0 +1,4 @@
+minecraft:mob/horse/zombie/hit1
+minecraft:mob/horse/zombie/hit2
+minecraft:mob/horse/zombie/hit3
+minecraft:mob/horse/zombie/hit4

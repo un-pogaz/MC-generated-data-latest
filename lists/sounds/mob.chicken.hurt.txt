@@ -1,0 +1,2 @@
+minecraft:mob/chicken/hurt1
+minecraft:mob/chicken/hurt2

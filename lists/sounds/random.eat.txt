@@ -1,0 +1,3 @@
+minecraft:random/eat1
+minecraft:random/eat2
+minecraft:random/eat3

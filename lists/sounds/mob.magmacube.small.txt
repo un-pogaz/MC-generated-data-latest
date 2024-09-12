@@ -1,0 +1,5 @@
+minecraft:mob/magmacube/small1
+minecraft:mob/magmacube/small2
+minecraft:mob/magmacube/small3
+minecraft:mob/magmacube/small4
+minecraft:mob/magmacube/small5

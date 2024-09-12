@@ -1,0 +1,3 @@
+minecraft:mob/wolf/hurt1
+minecraft:mob/wolf/hurt2
+minecraft:mob/wolf/hurt3
