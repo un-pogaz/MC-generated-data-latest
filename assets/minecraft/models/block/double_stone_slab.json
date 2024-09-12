@@ -8,6 +8,7 @@
         "brick":        { "model": "cube" },
         "stone_brick":  { "model": "cube" },
         "nether_brick": { "model": "cube" },
-        "quartz":       { "model": "cube" }
+        "quartz":       { "model": "cube" },
+        "allstone":     { "model": "cube" }
     }
 }

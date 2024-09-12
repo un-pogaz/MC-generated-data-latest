@@ -43,32 +43,32 @@
             "faceData": [
                 {
                     "uv": [ 4, 4, 12, 12 ],
-                    "textureFacing": "down",
-                    "cull": false
-                },
-                {
-                    "uv": [ 4, 4, 12, 12 ],
-                    "textureFacing": "up",
-                    "cull": false
-                },
-                {
-                    "uv": [ 4, 0, 12, 13 ],
-                    "textureFacing": "north",
-                    "cull": false
-                },
-                {
-                    "uv": [ 4, 0, 12, 13 ],
                     "textureFacing": "south",
                     "cull": false
                 },
                 {
-                    "uv": [ 4, 0, 12, 13 ],
-                    "textureFacing": "west",
+                    "uv": [ 4, 4, 12, 12 ],
+                    "textureFacing": "south",
                     "cull": false
                 },
                 {
-                    "uv": [ 4, 0, 12, 13 ],
-                    "textureFacing": "east",
+                    "uv": [ 4, 0, 12, 3 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                {
+                    "uv": [ 4, 0, 12, 3 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                {
+                    "uv": [ 4, 0, 12, 3 ],
+                    "textureFacing": "south",
+                    "cull": false
+                },
+                {
+                    "uv": [ 4, 0, 12, 3 ],
+                    "textureFacing": "south",
                     "cull": false
                 }
             ]
