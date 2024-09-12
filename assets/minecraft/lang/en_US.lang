@@ -1744,6 +1744,7 @@ commands.scoreboard.objectives.list.count=Showing %d objective(s) on scoreboard:
 commands.scoreboard.objectives.list.entry=- %s: displays as '%s' and is type '%s'
 commands.scoreboard.objectives.list.empty=There are no objectives on the scoreboard
 commands.scoreboard.players.usage=/scoreboard players <set|add|remove|reset|list|enable|test|operation> ...
+commands.scoreboard.players.name.tooLong=The name '%s' is too long for a player, it can be at most %d characters long
 commands.scoreboard.players.set.success=Set score of %s for player %s to %d
 commands.scoreboard.players.set.tagMismatch=The dataTag does not match for %s
 commands.scoreboard.players.set.tagError=Could not parse dataTag, reason: %s
