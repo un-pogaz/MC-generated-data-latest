@@ -1,0 +1,8 @@
+eye=true,facing=north
+eye=true,facing=south
+eye=true,facing=west
+eye=true,facing=east
+eye=false,facing=north  [default]
+eye=false,facing=south
+eye=false,facing=west
+eye=false,facing=east
