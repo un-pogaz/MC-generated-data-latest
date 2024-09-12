@@ -1,6 +1,7 @@
 minecraft:bastion_generic_degradation
 minecraft:bottom_rampart
 minecraft:bridge
+minecraft:empty
 minecraft:entrance_replacement
 minecraft:farm_desert
 minecraft:farm_plains
@@ -13,6 +14,7 @@ minecraft:housing
 minecraft:mossify_10_percent
 minecraft:mossify_20_percent
 minecraft:mossify_70_percent
+minecraft:outpost_rot
 minecraft:rampart_degradation
 minecraft:roof
 minecraft:side_wall_degradation

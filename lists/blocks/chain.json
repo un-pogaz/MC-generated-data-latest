@@ -1,5 +1,10 @@
 {
   "properties": {
+    "axis": [
+      "x",
+      "y",
+      "z"
+    ],
     "waterlogged": [
       "true",
       "false"
