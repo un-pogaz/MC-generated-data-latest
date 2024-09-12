@@ -1,13 +1,10 @@
 {
-  "type": "crafting_shaped",
-  "pattern": [
-    "M"
-  ],
-  "key": {
-    "M": {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:melon"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:melon_seeds"
   }

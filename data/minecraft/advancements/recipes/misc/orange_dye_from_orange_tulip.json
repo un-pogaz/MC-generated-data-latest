@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "orange_dye_from_orange_tulip"
+        "recipe": "minecraft:orange_dye_from_orange_tulip"
       }
     }
   },

@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "melon_seeds"
+        "recipe": "minecraft:melon_seeds"
       }
     }
   },

@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "purple_stained_glass"
+        "recipe": "minecraft:purple_stained_glass"
       }
     }
   },

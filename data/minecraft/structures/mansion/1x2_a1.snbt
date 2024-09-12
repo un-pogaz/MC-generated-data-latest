@@ -1,6 +1,7 @@
 {
   size: [7, 8, 15],
   entities: [],
+  author: "Player833",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -758,8 +759,8 @@
         powered: 0b,
         author: "Player855",
         rotation: "NONE",
-        posX: 0,
         mode: "DATA",
+        posX: 0,
         posY: 1,
         sizeX: 0,
         posZ: 0,
@@ -789,8 +790,8 @@
         powered: 0b,
         author: "Player468",
         rotation: "NONE",
-        posX: 0,
         mode: "DATA",
+        posX: 0,
         posY: 1,
         sizeX: 0,
         posZ: 0,
@@ -3404,7 +3405,6 @@
       state: 4
     }
   ],
-  author: "Player833",
   palette: [
     {
       Properties: {

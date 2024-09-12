@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "brick_stairs"
+        "recipe": "minecraft:brick_stairs"
       }
     }
   },
