@@ -262,6 +262,7 @@ minecraft:gui/enchant
 minecraft:gui/furnace
 minecraft:gui/gui
 minecraft:gui/hopper
+minecraft:gui/horseinv
 minecraft:gui/icons
 minecraft:gui/inventory
 minecraft:gui/particles
