@@ -3,5 +3,5 @@
     "item/trident/throw1",
     "item/trident/throw2"
   ],
-  "subtitles": "subtitles.entity.drowned.shoot"
+  "subtitle": "subtitles.entity.drowned.shoot"
 }
