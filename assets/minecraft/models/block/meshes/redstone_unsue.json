@@ -10,7 +10,7 @@
             "facing": "up",
             "faceData": {
                 "uv": [ 5, 0, 16, 16 ],
-                "textureFacing": "up",
+                "textureFacing": "down",
 		"tint": true,
                 "cull": false
             }
@@ -21,8 +21,7 @@
             "facing": "up",
             "faceData": {
                 "uv": [ 5, 0, 16, 16 ],
-                "textureFacing": "down",
-		"tint": true,
+                "textureFacing": "up",
                 "cull": false
             }
         },
@@ -44,7 +43,6 @@
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "south",
-		"tint": true,
                 "cull": false
             }
         },
@@ -66,7 +64,6 @@
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "south",
-		"tint": true,
                 "cull": false
             }
         }
