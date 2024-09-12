@@ -19,10 +19,6 @@
       state: 0
     },
     {
-      pos: [11, 0, 0],
-      state: 0
-    },
-    {
       pos: [12, 0, 0],
       state: 0
     },
@@ -56,10 +52,6 @@
     },
     {
       pos: [14, 0, 1],
-      state: 0
-    },
-    {
-      pos: [15, 0, 1],
       state: 0
     },
     {
@@ -351,10 +343,6 @@
       state: 0
     },
     {
-      pos: [15, 0, 7],
-      state: 0
-    },
-    {
       pos: [7, 0, 8],
       state: 0
     },
@@ -384,13 +372,23 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/desert/villagers",
+        final_state: "minecraft:smooth_sandstone",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [11, 0, 0],
+      state: 4
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
       pos: [12, 1, 0],
-      state: 4
+      state: 5
     },
     {
       nbt: {
@@ -400,12 +398,22 @@
         attachement_type: "minecraft:bottom"
       },
       pos: [9, 0, 1],
-      state: 5
+      state: 4
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/desert/villagers",
+        final_state: "minecraft:smooth_sandstone",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [15, 0, 1],
+      state: 4
     },
     {
       nbt: {
         target_pool: "minecraft:village/desert/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -415,7 +423,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -425,7 +433,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -435,7 +443,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -452,7 +460,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -462,7 +470,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -472,17 +480,27 @@
     {
       nbt: {
         target_pool: "minecraft:village/common/cats",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"
       },
       pos: [9, 1, 6],
-      state: 5
+      state: 4
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/desert/villagers",
+        final_state: "minecraft:smooth_sandstone",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [15, 0, 7],
+      state: 4
     },
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -528,6 +546,10 @@
     {
       pos: [13, 1, 5],
       state: 11
+    },
+    {
+      pos: [14, 3, 5],
+      state: 13
     },
     {
       pos: [0, 0, 8],
@@ -585,13 +607,13 @@
     },
     {
       Properties: {
-        facing: "north"
+        facing: "up"
       },
       Name: "minecraft:jigsaw"
     },
     {
       Properties: {
-        facing: "up"
+        facing: "north"
       },
       Name: "minecraft:jigsaw"
     },
@@ -636,5 +658,5 @@
       Name: "minecraft:air"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

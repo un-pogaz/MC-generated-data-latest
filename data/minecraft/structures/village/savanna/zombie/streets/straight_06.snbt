@@ -9,7 +9,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/zombie/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -19,7 +19,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/zombie/decor",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"
       },
@@ -29,7 +29,7 @@
     {
       nbt: {
         target_pool: "minecraft:empty",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:empty"
       },
@@ -39,7 +39,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/zombie/decor",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"
       },
@@ -49,7 +49,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/zombie/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },

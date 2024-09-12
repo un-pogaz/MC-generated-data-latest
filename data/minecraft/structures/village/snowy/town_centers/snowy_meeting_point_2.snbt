@@ -1,5 +1,5 @@
 {
-  size: [11, 6, 9],
+  size: [11, 5, 9],
   entities: [],
   blocks: [
     {
@@ -127,12 +127,22 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
       pos: [5, 1, 0],
       state: 5
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/snowy/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [3, 0, 1],
+      state: 4
     },
     {
       nbt: {
@@ -146,8 +156,18 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/snowy/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 2],
+      state: 4
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -164,7 +184,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -184,7 +204,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -205,10 +225,6 @@
     },
     {
       pos: [2, 0, 1],
-      state: 10
-    },
-    {
-      pos: [3, 0, 1],
       state: 10
     },
     {
@@ -234,10 +250,6 @@
     {
       pos: [3, 3, 1],
       state: 11
-    },
-    {
-      pos: [1, 0, 2],
-      state: 10
     },
     {
       pos: [2, 0, 2],
@@ -665,5 +677,5 @@
       Name: "minecraft:spruce_stairs"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

@@ -184,6 +184,7 @@ minecraft:village/desert/terminators/terminator_02
 minecraft:village/desert/town_centers/desert_meeting_point_1
 minecraft:village/desert/town_centers/desert_meeting_point_2
 minecraft:village/desert/town_centers/desert_meeting_point_3
+minecraft:village/desert/villagers/baby
 minecraft:village/desert/villagers/nitwit
 minecraft:village/desert/villagers/unemployed
 minecraft:village/desert/zombie/houses/desert_medium_house_1
@@ -274,6 +275,7 @@ minecraft:village/plains/town_centers/plains_fountain_01
 minecraft:village/plains/town_centers/plains_meeting_point_1
 minecraft:village/plains/town_centers/plains_meeting_point_2
 minecraft:village/plains/town_centers/plains_meeting_point_3
+minecraft:village/plains/villagers/baby
 minecraft:village/plains/villagers/nitwit
 minecraft:village/plains/villagers/unemployed
 minecraft:village/plains/zombie/houses/plains_animal_pen_3
@@ -372,6 +374,7 @@ minecraft:village/savanna/town_centers/savanna_meeting_point_1
 minecraft:village/savanna/town_centers/savanna_meeting_point_2
 minecraft:village/savanna/town_centers/savanna_meeting_point_3
 minecraft:village/savanna/town_centers/savanna_meeting_point_4
+minecraft:village/savanna/villagers/baby
 minecraft:village/savanna/villagers/nitwit
 minecraft:village/savanna/villagers/unemployed
 minecraft:village/savanna/zombie/houses/savanna_animal_pen_2
@@ -417,7 +420,6 @@ minecraft:village/snowy/houses/snowy_animal_pen_1
 minecraft:village/snowy/houses/snowy_animal_pen_2
 minecraft:village/snowy/houses/snowy_armorer_house_1
 minecraft:village/snowy/houses/snowy_armorer_house_2
-minecraft:village/snowy/houses/snowy_butchers_shop
 minecraft:village/snowy/houses/snowy_butchers_shop_1
 minecraft:village/snowy/houses/snowy_butchers_shop_2
 minecraft:village/snowy/houses/snowy_cartographer_house_1
@@ -467,6 +469,7 @@ minecraft:village/snowy/streets/turn_01
 minecraft:village/snowy/town_centers/snowy_meeting_point_1
 minecraft:village/snowy/town_centers/snowy_meeting_point_2
 minecraft:village/snowy/town_centers/snowy_meeting_point_3
+minecraft:village/snowy/villagers/baby
 minecraft:village/snowy/villagers/nitwit
 minecraft:village/snowy/villagers/unemployed
 minecraft:village/snowy/zombie/houses/snowy_medium_house_1
@@ -507,10 +510,8 @@ minecraft:village/taiga/houses/taiga_armorer_2
 minecraft:village/taiga/houses/taiga_armorer_house_1
 minecraft:village/taiga/houses/taiga_butcher_shop_1
 minecraft:village/taiga/houses/taiga_cartographer_house_1
-minecraft:village/taiga/houses/taiga_decoration_1
 minecraft:village/taiga/houses/taiga_fisher_cottage_1
 minecraft:village/taiga/houses/taiga_fletcher_house_1
-minecraft:village/taiga/houses/taiga_lamp_post_1
 minecraft:village/taiga/houses/taiga_large_farm_1
 minecraft:village/taiga/houses/taiga_large_farm_2
 minecraft:village/taiga/houses/taiga_library_1
@@ -519,8 +520,6 @@ minecraft:village/taiga/houses/taiga_medium_house_1
 minecraft:village/taiga/houses/taiga_medium_house_2
 minecraft:village/taiga/houses/taiga_medium_house_3
 minecraft:village/taiga/houses/taiga_medium_house_4
-minecraft:village/taiga/houses/taiga_meeting_point_1
-minecraft:village/taiga/houses/taiga_sheperds_house_1
 minecraft:village/taiga/houses/taiga_shepherds_house_1
 minecraft:village/taiga/houses/taiga_small_farm_1
 minecraft:village/taiga/houses/taiga_small_house_1
@@ -531,7 +530,6 @@ minecraft:village/taiga/houses/taiga_small_house_5
 minecraft:village/taiga/houses/taiga_tannery_1
 minecraft:village/taiga/houses/taiga_temple_1
 minecraft:village/taiga/houses/taiga_tool_smith_1
-minecraft:village/taiga/houses/taiga_weapon_smith_1
 minecraft:village/taiga/houses/taiga_weaponsmith_1
 minecraft:village/taiga/houses/taiga_weaponsmith_2
 minecraft:village/taiga/streets/corner_01
@@ -559,6 +557,7 @@ minecraft:village/taiga/taiga_decoration_6
 minecraft:village/taiga/taiga_lamp_post_1
 minecraft:village/taiga/town_centers/taiga_meeting_point_1
 minecraft:village/taiga/town_centers/taiga_meeting_point_2
+minecraft:village/taiga/villagers/baby
 minecraft:village/taiga/villagers/nitwit
 minecraft:village/taiga/villagers/unemployed
 minecraft:village/taiga/zombie/houses/taiga_cartographer_house_1
