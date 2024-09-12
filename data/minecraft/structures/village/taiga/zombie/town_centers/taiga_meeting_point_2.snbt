@@ -2279,6 +2279,7 @@
     {
       Properties: {
         attachment: "floor",
+        powered: "false",
         facing: "east"
       },
       Name: "minecraft:bell"
@@ -2294,5 +2295,5 @@
       Name: "minecraft:spruce_fence"
     }
   ],
-  DataVersion: 2201
+  DataVersion: 2203
 }

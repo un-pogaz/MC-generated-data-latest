@@ -2985,6 +2985,7 @@
     {
       Properties: {
         attachment: "floor",
+        powered: "false",
         facing: "east"
       },
       Name: "minecraft:bell"
@@ -2992,6 +2993,7 @@
     {
       Properties: {
         attachment: "floor",
+        powered: "false",
         facing: "west"
       },
       Name: "minecraft:bell"
@@ -3024,5 +3026,5 @@
       Name: "minecraft:brown_wall_banner"
     }
   ],
-  DataVersion: 2201
+  DataVersion: 2203
 }
