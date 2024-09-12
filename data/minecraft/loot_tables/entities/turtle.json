@@ -5,7 +5,7 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:sea_grass",
+                    "name": "minecraft:seagrass",
                     "weight": 3,
                     "functions": [
                         {
