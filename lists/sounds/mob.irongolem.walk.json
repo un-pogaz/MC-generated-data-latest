@@ -1,0 +1,9 @@
+{
+  "category": "neutral",
+  "sounds": [
+    "mob/irongolem/walk1",
+    "mob/irongolem/walk2",
+    "mob/irongolem/walk3",
+    "mob/irongolem/walk4"
+  ]
+}

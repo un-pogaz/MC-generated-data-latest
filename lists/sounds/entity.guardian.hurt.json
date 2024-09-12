@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/guardian/guardian_hit1",
-    "mob/guardian/guardian_hit2",
-    "mob/guardian/guardian_hit3",
-    "mob/guardian/guardian_hit4"
-  ],
-  "subtitle": "subtitles.entity.guardian.hurt"
-}

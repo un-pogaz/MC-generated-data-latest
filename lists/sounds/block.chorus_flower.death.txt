@@ -1,3 +1,0 @@
-minecraft:block/chorus_flower/death1
-minecraft:block/chorus_flower/death2
-minecraft:block/chorus_flower/death3
