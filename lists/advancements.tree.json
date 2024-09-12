@@ -31,6 +31,12 @@
                 "frame": "challenge"
               }
             }
+          },
+          "minecraft:adventure/totem_of_undying": {
+            "icon": "minecraft:totem_of_undying",
+            "title": "Postmortal",
+            "description": "Use a Totem of Undying to cheat death",
+            "frame": "goal"
           }
         }
       },
@@ -183,6 +189,12 @@
     "background": "minecraft:gui/advancements/backgrounds/nether",
     "frame": "task",
     "childs": {
+      "minecraft:nether/fast_travel": {
+        "icon": "minecraft:map",
+        "title": "Subspace Bubble",
+        "description": "Use the Nether to travel 7km in the Overworld",
+        "frame": "challenge"
+      },
       "minecraft:nether/find_fortress": {
         "icon": "minecraft:nether_brick",
         "title": "A Terrible Fortress",
@@ -229,17 +241,33 @@
                 "icon": "minecraft:potion",
                 "title": "Local Brewery",
                 "description": "Brew a potion",
-                "frame": "task"
+                "frame": "task",
+                "childs": {
+                  "minecraft:nether/all_potions": {
+                    "icon": "minecraft:milk_bucket",
+                    "title": "A Furious Cocktail",
+                    "description": "Have every potion effect applied at the same time",
+                    "frame": "challenge"
+                  }
+                }
               }
             }
           }
         }
       },
       "minecraft:nether/return_to_sender": {
-        "icon": "minecraft:ghast_tear",
+        "icon": "minecraft:fire_charge",
         "title": "Return to Sender",
         "description": "Destroy a Ghast with a fireball",
-        "frame": "challenge"
+        "frame": "challenge",
+        "childs": {
+          "minecraft:nether/uneasy_alliance": {
+            "icon": "minecraft:ghast_tear",
+            "title": "Uneasy Alliance",
+            "description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it.",
+            "frame": "challenge"
+          }
+        }
       }
     }
   },
