@@ -28,7 +28,7 @@
     "name": "Cymraeg"
   },
   "da_dk": {
-    "region": "Danmark",
+    "region": "DK",
     "name": "Dansk"
   },
   "de_de": {
@@ -51,9 +51,13 @@
     "region": "PIRATE",
     "name": "Pirate Speak"
   },
+  "eo_uy": {
+    "region": "Mondo",
+    "name": "Esperanto"
+  },
   "es_ar": {
     "region": "Argentina",
-    "name": "Español"
+    "name": "Castellano"
   },
   "es_es": {
     "region": "España",
@@ -65,10 +69,10 @@
   },
   "es_uy": {
     "region": "Uruguay",
-    "name": "Español"
+    "name": "Uruguayo"
   },
   "es_ve": {
-    "region": "Ve",
+    "region": "Venezuela",
     "name": "Español Venezolano"
   },
   "et_ee": {
@@ -76,19 +80,19 @@
     "name": "Eesti"
   },
   "eu_es": {
-    "region": "ES",
+    "region": "EH",
     "name": "Euskara"
   },
   "fi_fi": {
-    "region": "Suomi",
-    "name": "Suomi"
+    "region": "FI",
+    "name": "suomi"
   },
   "fr_ca": {
     "region": "CA",
     "name": "Français"
   },
   "fr_fr": {
-    "region": "France",
+    "region": "Français",
     "name": "Français"
   },
   "gl_es": {
@@ -97,15 +101,15 @@
   },
   "he_il": {
     "region": "IL",
-    "name": "עברית"
+    "name": "אנגלית"
   },
   "hr_hr": {
     "region": "HR",
     "name": "Hrvatski"
   },
   "hu_hu": {
-    "region": "Bulgarian",
-    "name": "Български"
+    "region": "HU",
+    "name": "Magyar"
   },
   "is_is": {
     "region": "IS",
@@ -124,11 +128,11 @@
     "name": "ქართული"
   },
   "ko_kr": {
-    "region": "한국",
+    "region": "KR",
     "name": "한국어"
   },
   "ky_kg": {
-    "region": "भारत",
+    "region": "अमेरिका",
     "name": "अंग्रेज़ी"
   },
   "lt_lt": {
@@ -143,6 +147,10 @@
     "region": "MS",
     "name": "Bahasa Melayu"
   },
+  "mt_mt": {
+    "region": "MT",
+    "name": "Malti"
+  },
   "nb_no": {
     "region": "NO",
     "name": "Norsk"
@@ -152,7 +160,7 @@
     "name": "Nederlands"
   },
   "nn_no": {
-    "region": "Norge",
+    "region": "Noreg",
     "name": "Norsk nynorsk"
   },
   "pl_pl": {
@@ -165,7 +173,7 @@
   },
   "pt_pt": {
     "region": "Portugal",
-    "name": "Portuguese"
+    "name": "Português"
   },
   "qya_aa": {
     "region": "Arda",
@@ -184,11 +192,11 @@
     "name": "Slovenčina"
   },
   "sl_si": {
-    "region": "Slovenija",
-    "name": "Angleščina"
+    "region": "SLO",
+    "name": "Slovenščina"
   },
   "sr_sp": {
-    "region": "Србија",
+    "region": "Srbija",
     "name": "Srpski"
   },
   "sv_se": {
@@ -212,7 +220,7 @@
     "name": "Українська"
   },
   "vi_vn": {
-    "region": "US",
+    "region": "VN",
     "name": "Tiếng Việt"
   },
   "zh_cn": {
