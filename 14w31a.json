@@ -1,0 +1,13 @@
+{
+  "id": "14w31a",
+  "type": "snapshot",
+  "time": "2014-07-30T15:38:05+00:00",
+  "releaseTime": "2014-07-30T15:38:05+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/1243fe2c047064613e42a2c0e7ce0018fdf94035/14w31a.json",
+  "assets": "14w31a",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/10a2a0e75b03cfb5a7196abbdf43b54f7fa61deb/14w31a.json",
+  "client": "https://launcher.mojang.com/v1/objects/76f1d68d032fdaa228c477fd927dc12745277e8a/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/05fde0b4039104a27df8c7b95d327ecafc06cde7/server.jar",
+  "server_mappings": null
+}

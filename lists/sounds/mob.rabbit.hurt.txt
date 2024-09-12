@@ -1,0 +1,4 @@
+minecraft:mob/rabbit/hurt1
+minecraft:mob/rabbit/hurt2
+minecraft:mob/rabbit/hurt3
+minecraft:mob/rabbit/hurt4

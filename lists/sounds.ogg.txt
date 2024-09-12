@@ -165,6 +165,7 @@ minecraft:mob/endermen/stare
 minecraft:mob/ghast/affectionate_scream
 minecraft:mob/ghast/charge
 minecraft:mob/ghast/death
+minecraft:mob/ghast/fireball
 minecraft:mob/ghast/fireball4
 minecraft:mob/ghast/moan1
 minecraft:mob/ghast/moan2
@@ -300,6 +301,19 @@ minecraft:mob/pig/step2
 minecraft:mob/pig/step3
 minecraft:mob/pig/step4
 minecraft:mob/pig/step5
+minecraft:mob/rabbit/bunnymurder
+minecraft:mob/rabbit/hop1
+minecraft:mob/rabbit/hop2
+minecraft:mob/rabbit/hop3
+minecraft:mob/rabbit/hop4
+minecraft:mob/rabbit/hurt1
+minecraft:mob/rabbit/hurt2
+minecraft:mob/rabbit/hurt3
+minecraft:mob/rabbit/hurt4
+minecraft:mob/rabbit/idle1
+minecraft:mob/rabbit/idle2
+minecraft:mob/rabbit/idle3
+minecraft:mob/rabbit/idle4
 minecraft:mob/sheep/say1
 minecraft:mob/sheep/say2
 minecraft:mob/sheep/say3

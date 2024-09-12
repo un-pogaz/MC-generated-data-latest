@@ -1,5 +1,4 @@
 icons/icon_16x16.png
-icons/icon_32x32.png
 icons/minecraft.icns
 minecraft/icons/icon_16x16.png
 minecraft/icons/icon_32x32.png
@@ -379,6 +378,19 @@ minecraft/sounds/mob/pig/step2.ogg
 minecraft/sounds/mob/pig/step3.ogg
 minecraft/sounds/mob/pig/step4.ogg
 minecraft/sounds/mob/pig/step5.ogg
+minecraft/sounds/mob/rabbit/bunnymurder.ogg
+minecraft/sounds/mob/rabbit/hop1.ogg
+minecraft/sounds/mob/rabbit/hop2.ogg
+minecraft/sounds/mob/rabbit/hop3.ogg
+minecraft/sounds/mob/rabbit/hop4.ogg
+minecraft/sounds/mob/rabbit/hurt1.ogg
+minecraft/sounds/mob/rabbit/hurt2.ogg
+minecraft/sounds/mob/rabbit/hurt3.ogg
+minecraft/sounds/mob/rabbit/hurt4.ogg
+minecraft/sounds/mob/rabbit/idle1.ogg
+minecraft/sounds/mob/rabbit/idle2.ogg
+minecraft/sounds/mob/rabbit/idle3.ogg
+minecraft/sounds/mob/rabbit/idle4.ogg
 minecraft/sounds/mob/sheep/say1.ogg
 minecraft/sounds/mob/sheep/say2.ogg
 minecraft/sounds/mob/sheep/say3.ogg
