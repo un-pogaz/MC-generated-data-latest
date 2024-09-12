@@ -37,6 +37,7 @@ minecraft:blue_stained_glass
 minecraft:blue_stained_glass_pane
 minecraft:blue_stained_hardened_clay
 minecraft:blue_wool
+minecraft:bone_block
 minecraft:bookshelf
 minecraft:brewing_stand
 minecraft:brick_block
@@ -189,6 +190,7 @@ minecraft:magenta_stained_glass
 minecraft:magenta_stained_glass_pane
 minecraft:magenta_stained_hardened_clay
 minecraft:magenta_wool
+minecraft:magma
 minecraft:melon_block
 minecraft:melon_stem
 minecraft:mob_spawner
@@ -203,6 +205,7 @@ minecraft:nether_brick_fence
 minecraft:nether_brick_slab
 minecraft:nether_brick_stairs
 minecraft:nether_wart
+minecraft:nether_wart_block
 minecraft:netherrack
 minecraft:noteblock
 minecraft:oak_double_slab
@@ -260,6 +263,7 @@ minecraft:rail
 minecraft:red_carpet
 minecraft:red_mushroom
 minecraft:red_mushroom_block
+minecraft:red_nether_brick
 minecraft:red_sand
 minecraft:red_sandstone
 minecraft:red_sandstone_double_slab
@@ -322,6 +326,7 @@ minecraft:stone_slab
 minecraft:stone_stairs
 minecraft:stonebrick
 minecraft:structure_block
+minecraft:structure_void
 minecraft:sunflower
 minecraft:syringa
 minecraft:tall_grass
