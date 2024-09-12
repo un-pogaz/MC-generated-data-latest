@@ -2365,7 +2365,7 @@
     {
       nbt: {
         LootTable: "minecraft:chests/village/village_taiga_house",
-        Items: [],
+        Items: [L; ],
         id: "minecraft:chest",
         LootTableSeed: 0L
       },
@@ -2770,5 +2770,5 @@
       Name: "minecraft:blue_bed"
     }
   ],
-  DataVersion: 2537
+  DataVersion: 2554
 }
