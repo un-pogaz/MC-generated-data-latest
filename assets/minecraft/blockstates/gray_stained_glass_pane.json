@@ -1,21 +1,21 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
-        "none": { "model": "gray_pane_nsew" },
-        "n": { "model": "gray_pane_n" },
-        "e": { "model": "gray_pane_n", "y": 90 },
-        "s": { "model": "gray_pane_n", "y": 180 },
-        "w": { "model": "gray_pane_n", "y": 270 },
-        "ne": { "model": "gray_pane_ne" },
-        "es": { "model": "gray_pane_ne", "y": 90 },
-        "sw": { "model": "gray_pane_ne", "y": 180 },
-        "nw": { "model": "gray_pane_ne", "y": 270 },
-        "ns": { "model": "gray_pane_ns" },
-        "ew": { "model": "gray_pane_ns", "y": 90 },
-        "nse": { "model": "gray_pane_nse" },
-        "sew": { "model": "gray_pane_nse", "y": 90 },
-        "swn": { "model": "gray_pane_nse", "y": 180 },
-        "new": { "model": "gray_pane_nse", "y": 270 },
-        "nsew": { "model": "gray_pane_nsew" }
+        "east=false,north=false,south=false,west=false": { "model": "gray_pane_nsew" },
+        "east=false,north=true,south=false,west=false": { "model": "gray_pane_n" },
+        "east=true,north=false,south=false,west=false": { "model": "gray_pane_n", "y": 90 },
+        "east=false,north=false,south=true,west=false": { "model": "gray_pane_n", "y": 180 },
+        "east=false,north=false,south=false,west=true": { "model": "gray_pane_n", "y": 270 },
+        "east=true,north=true,south=false,west=false": { "model": "gray_pane_ne" },
+        "east=true,north=false,south=true,west=false": { "model": "gray_pane_ne", "y": 90 },
+        "east=false,north=false,south=true,west=true": { "model": "gray_pane_ne", "y": 180 },
+        "east=false,north=true,south=false,west=true": { "model": "gray_pane_ne", "y": 270 },
+        "east=false,north=true,south=true,west=false": { "model": "gray_pane_ns" },
+        "east=true,north=false,south=false,west=true": { "model": "gray_pane_ns", "y": 90 },
+        "east=true,north=true,south=true,west=false": { "model": "gray_pane_nse" },
+        "east=true,north=false,south=true,west=true": { "model": "gray_pane_nse", "y": 90 },
+        "east=false,north=true,south=true,west=true": { "model": "gray_pane_nse", "y": 180 },
+        "east=true,north=true,south=false,west=true": { "model": "gray_pane_nse", "y": 270 },
+        "east=true,north=true,south=true,west=true": { "model": "gray_pane_nsew" }
     }
 }
