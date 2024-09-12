@@ -26,6 +26,8 @@ minecraft:blocks/bamboo
 minecraft:blocks/bamboo_sapling
 minecraft:blocks/barrel
 minecraft:blocks/beacon
+minecraft:blocks/bee_hive
+minecraft:blocks/bee_nest
 minecraft:blocks/beetroots
 minecraft:blocks/bell
 minecraft:blocks/birch_button

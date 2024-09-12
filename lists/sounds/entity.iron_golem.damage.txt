@@ -1,0 +1,4 @@
+minecraft:mob/irongolem/damage1
+minecraft:mob/irongolem/damage2
+minecraft:mob/irongolem/damage1
+minecraft:mob/irongolem/damage2

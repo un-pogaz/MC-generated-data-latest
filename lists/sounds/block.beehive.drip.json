@@ -1,0 +1,77 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip1",
+      "volume": 0.3,
+      "pitch": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip2",
+      "volume": 0.3,
+      "pitch": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip3",
+      "volume": 0.3,
+      "pitch": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip4",
+      "volume": 0.3,
+      "pitch": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip5",
+      "volume": 0.3,
+      "pitch": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip6",
+      "volume": 0.3,
+      "pitch": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip1",
+      "volume": 0.3,
+      "pitch": 0.7
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip2",
+      "volume": 0.3,
+      "pitch": 0.7
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip3",
+      "volume": 0.3,
+      "pitch": 0.7
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip4",
+      "volume": 0.3,
+      "pitch": 0.7
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip5",
+      "volume": 0.3,
+      "pitch": 0.7
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/beehive/drip6",
+      "volume": 0.3,
+      "pitch": 0.7
+    }
+  ],
+  "subtitle": "subtitles.block.beehive.drip"
+}

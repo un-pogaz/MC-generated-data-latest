@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/sting"
+    },
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/sting",
+      "pitch": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.bee.sting"
+}
