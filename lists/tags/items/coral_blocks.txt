@@ -1,0 +1,2 @@
+#minecraft:dead_coral_blocks
+#minecraft:live_coral_blocks
