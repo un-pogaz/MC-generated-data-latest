@@ -37,6 +37,7 @@ nether/root
 │ └>nether/obtain_blaze_rod
 │   └>nether/brew_potion
 │     └>nether/all_potions
+│       └>nether/all_effects
 └>nether/return_to_sender
   └>nether/uneasy_alliance
 
