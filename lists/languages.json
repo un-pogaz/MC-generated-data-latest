@@ -13,7 +13,7 @@
   },
   "bg_bg": {
     "region": "BG",
-    "name": "Български"
+    "name": "български"
   },
   "ca_es": {
     "region": "CAT",
@@ -37,7 +37,7 @@
   },
   "el_gr": {
     "region": "GR",
-    "name": "Ελληνικά"
+    "name": "Αγγλικά"
   },
   "en_ca": {
     "region": "UK",
@@ -132,7 +132,7 @@
     "name": "한국어"
   },
   "ky_kg": {
-    "region": "अमेरिका",
+    "region": "भारत",
     "name": "अंग्रेज़ी"
   },
   "lt_lt": {
@@ -197,7 +197,7 @@
   },
   "sr_sp": {
     "region": "Srbija",
-    "name": "Srpski"
+    "name": "Српски"
   },
   "sv_se": {
     "region": "Sverige",
