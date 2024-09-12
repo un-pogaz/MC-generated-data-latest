@@ -1,9 +1,0 @@
-datapack disable <name brigadier:string[type="phrase"]>
-datapack enable <name brigadier:string[type="phrase"]>
-datapack enable <name brigadier:string[type="phrase"]> after <existing brigadier:string[type="phrase"]>
-datapack enable <name brigadier:string[type="phrase"]> before <existing brigadier:string[type="phrase"]>
-datapack enable <name brigadier:string[type="phrase"]> first
-datapack enable <name brigadier:string[type="phrase"]> last
-datapack list
-datapack list available
-datapack list enabled
