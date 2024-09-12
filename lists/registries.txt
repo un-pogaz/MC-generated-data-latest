@@ -18,6 +18,9 @@ minecraft:feature_size_type
 minecraft:fluid
 minecraft:foliage_placer_type
 minecraft:item
+minecraft:loot_condition_type
+minecraft:loot_function_type
+minecraft:loot_pool_entry_type
 minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect
