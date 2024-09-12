@@ -3,6 +3,7 @@ adventure/root
 └>adventure/kill_a_mob
 │ └>adventure/kill_all_mobs
 │ └>adventure/shoot_arrow
+│ │ └>adventure/bullseye
 │ │ └>adventure/sniper_duel
 │ └>adventure/throw_trident
 │ │ └>adventure/very_very_frightening
