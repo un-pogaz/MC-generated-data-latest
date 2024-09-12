@@ -1,0 +1,4 @@
+minecraft:mob/vex/idle1
+minecraft:mob/vex/idle2
+minecraft:mob/vex/idle3
+minecraft:mob/vex/idle4

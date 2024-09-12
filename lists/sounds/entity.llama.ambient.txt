@@ -1,0 +1,5 @@
+minecraft:mob/llama/idle1
+minecraft:mob/llama/idle2
+minecraft:mob/llama/idle3
+minecraft:mob/llama/idle4
+minecraft:mob/llama/idle5

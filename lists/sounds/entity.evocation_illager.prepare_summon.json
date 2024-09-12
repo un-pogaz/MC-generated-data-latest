@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/evocation_illager/prepare_summon"
+  ],
+  "subtitle": "subtitles.entity.evocation_illager.prepare_summon"
+}
