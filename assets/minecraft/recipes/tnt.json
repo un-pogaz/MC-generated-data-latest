@@ -6,9 +6,16 @@
     "X#X"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:sand"
-    },
+    "#": [
+       {
+         "item": "minecraft:sand",
+         "data": 0
+       },
+       {
+         "item": "minecraft:sand",
+         "data": 1
+       }
+    ],
     "X": {
       "item": "minecraft:gunpowder"
     }

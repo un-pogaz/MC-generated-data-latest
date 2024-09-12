@@ -36,12 +36,8 @@
   },
   "requirements": [
     [
-      "has_lapis"
-    ],
-    [
-      "has_bonemeal"
-    ],
-    [
+      "has_lapis",
+      "has_bonemeal",
       "has_the_recipe"
     ]
   ]

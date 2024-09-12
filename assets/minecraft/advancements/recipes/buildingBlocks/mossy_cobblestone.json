@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_vine"
-    ],
-    [
+      "has_vine",
       "has_the_recipe"
     ]
   ]

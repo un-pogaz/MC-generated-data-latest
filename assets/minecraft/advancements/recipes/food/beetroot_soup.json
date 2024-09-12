@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_beetroot"
-    ],
-    [
+      "has_beetroot",
       "has_the_recipe"
     ]
   ]
