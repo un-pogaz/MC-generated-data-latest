@@ -1721,8 +1721,9 @@ minecraft:gui/title/background/panorama_3
 minecraft:gui/title/background/panorama_4
 minecraft:gui/title/background/panorama_5
 minecraft:gui/title/background/panorama_overlay
-minecraft:gui/title/edition
-minecraft:gui/title/minecraft
+minecraft:gui/title/edition  [mcmeta]
+minecraft:gui/title/minceraft  [mcmeta]
+minecraft:gui/title/minecraft  [mcmeta]
 minecraft:gui/title/mojangstudios
 minecraft:gui/toasts
 minecraft:gui/unseen_notification
@@ -2679,4 +2680,4 @@ realms:gui/realms/trial_icon
 realms:gui/realms/upload
 realms:gui/realms/user_icon
 realms:gui/realms/world_icon
-realms:gui/title/realms
+realms:gui/title/realms  [mcmeta]
