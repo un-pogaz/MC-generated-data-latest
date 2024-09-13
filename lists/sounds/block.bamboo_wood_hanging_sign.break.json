@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/bamboo_wood_hanging_sign/break1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo_wood_hanging_sign/break2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo_wood_hanging_sign/break3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo_wood_hanging_sign/break4",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

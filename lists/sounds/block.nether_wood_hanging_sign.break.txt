@@ -1,0 +1,4 @@
+minecraft:block/nether_wood_hanging_sign/break1
+minecraft:block/nether_wood_hanging_sign/break2
+minecraft:block/nether_wood_hanging_sign/break3
+minecraft:block/nether_wood_hanging_sign/break4

@@ -5,5 +5,5 @@
     "mob/endermen/scream3",
     "mob/endermen/scream4"
   ],
-  "subtitle": "subtitles.entity.enderman.ambient"
+  "subtitle": "subtitles.entity.enderman.scream"
 }
