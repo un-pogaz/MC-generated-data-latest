@@ -1,0 +1,4 @@
+minecraft:block/trial_spawner/spawn1
+minecraft:block/trial_spawner/spawn2
+minecraft:block/trial_spawner/spawn3
+minecraft:block/trial_spawner/spawn4

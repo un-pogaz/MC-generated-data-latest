@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/trial_spawner/place1",
+    "block/trial_spawner/place2",
+    "block/trial_spawner/place3"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

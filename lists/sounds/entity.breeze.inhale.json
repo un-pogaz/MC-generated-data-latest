@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    "mob/breeze/inhale1",
+    {
+      "name": "mob/breeze/inhale1",
+      "pitch": 1.1
+    },
+    "mob/breeze/inhale2",
+    {
+      "name": "mob/breeze/inhale2",
+      "pitch": 1.1
+    }
+  ],
+  "subtitle": "subtitles.entity.breeze.inhale"
+}

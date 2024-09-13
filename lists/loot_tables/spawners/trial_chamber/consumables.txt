@@ -1,0 +1,7 @@
+minecraft:emerald
+minecraft:golden_carrot
+minecraft:baked_potato
+minecraft:glow_berries
+minecraft:ender_pearl
+minecraft:potion
+minecraft:potion
