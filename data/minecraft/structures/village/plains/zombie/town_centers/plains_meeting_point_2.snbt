@@ -2384,7 +2384,7 @@
     },
     {
       nbt: {
-        final_state: "minecraft:dirt_path",
+        final_state: "minecraft:grass_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/cats",
         id: "minecraft:jigsaw",
@@ -2476,7 +2476,7 @@
       Name: "minecraft:yellow_wool"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Properties: {
@@ -2577,5 +2577,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

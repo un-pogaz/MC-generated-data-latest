@@ -1,6 +1,0 @@
-minecraft:block/rooted_dirt/step1
-minecraft:block/rooted_dirt/step2
-minecraft:block/rooted_dirt/step3
-minecraft:block/rooted_dirt/step4
-minecraft:block/rooted_dirt/step5
-minecraft:block/rooted_dirt/step6

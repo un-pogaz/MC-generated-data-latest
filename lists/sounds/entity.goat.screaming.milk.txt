@@ -1,5 +1,0 @@
-minecraft:mob/goat/screaming_milk1
-minecraft:mob/goat/screaming_milk2
-minecraft:mob/goat/screaming_milk3
-minecraft:mob/goat/screaming_milk4
-minecraft:mob/goat/screaming_milk5

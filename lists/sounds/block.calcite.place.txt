@@ -1,4 +1,0 @@
-minecraft:block/calcite/place1
-minecraft:block/calcite/place2
-minecraft:block/calcite/place3
-minecraft:block/calcite/place4
