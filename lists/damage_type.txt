@@ -6,6 +6,7 @@ minecraft:cramming
 minecraft:dragon_breath
 minecraft:drown
 minecraft:dry_out
+minecraft:ender_pearl
 minecraft:explosion
 minecraft:fall
 minecraft:falling_anvil
@@ -23,6 +24,7 @@ minecraft:in_wall
 minecraft:indirect_magic
 minecraft:lava
 minecraft:lightning_bolt
+minecraft:mace_smash
 minecraft:magic
 minecraft:mob_attack
 minecraft:mob_attack_no_aggro
@@ -70,6 +72,7 @@ minecraft:wither_skull
 #minecraft:is_lightning
 #minecraft:is_player_attack
 #minecraft:is_projectile
+#minecraft:mace_smash
 #minecraft:no_anger
 #minecraft:no_impact
 #minecraft:no_knockback

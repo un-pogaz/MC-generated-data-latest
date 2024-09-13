@@ -1,0 +1,4 @@
+sound_event: minecraft:item.goat_horn.sound.2
+description: Seek
+range: 256 block
+length: 7s

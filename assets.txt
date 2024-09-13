@@ -2037,6 +2037,7 @@ minecraft/sounds/item/bundle/drop_contents3.ogg
 minecraft/sounds/item/bundle/insert1.ogg
 minecraft/sounds/item/bundle/insert2.ogg
 minecraft/sounds/item/bundle/insert3.ogg
+minecraft/sounds/item/bundle/insert_fail.ogg
 minecraft/sounds/item/bundle/remove_one1.ogg
 minecraft/sounds/item/bundle/remove_one2.ogg
 minecraft/sounds/item/bundle/remove_one3.ogg

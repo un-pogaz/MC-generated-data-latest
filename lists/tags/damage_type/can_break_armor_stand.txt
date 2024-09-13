@@ -1,2 +1,2 @@
-minecraft:player_attack
 minecraft:player_explosion
+#minecraft:is_player_attack

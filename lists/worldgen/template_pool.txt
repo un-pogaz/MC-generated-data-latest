@@ -94,7 +94,9 @@ minecraft:trial_chambers/corridors/addon/lower
 minecraft:trial_chambers/corridors/addon/middle
 minecraft:trial_chambers/corridors/addon/middle_upper
 minecraft:trial_chambers/decor
+minecraft:trial_chambers/decor/bed
 minecraft:trial_chambers/decor/chamber
+minecraft:trial_chambers/decor/disposal
 minecraft:trial_chambers/dispensers/chamber
 minecraft:trial_chambers/entrance
 minecraft:trial_chambers/hallway

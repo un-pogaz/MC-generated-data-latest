@@ -154,7 +154,6 @@ minecraft:sculk_vein
 minecraft:sea_pickle
 minecraft:seagrass_mid
 minecraft:seagrass_short
-minecraft:seagrass_simple
 minecraft:seagrass_slightly_less_short
 minecraft:seagrass_tall
 minecraft:single_piece_of_grass
