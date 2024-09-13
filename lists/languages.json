@@ -609,6 +609,11 @@
     "region": "Việt Nam",
     "bidirectional": false
   },
+  "vp_vl": {
+    "name": "Viossa",
+    "region": "Vilant",
+    "bidirectional": false
+  },
   "yi_de": {
     "name": "ייִדיש",
     "region": "אשכנזישע יידן",
