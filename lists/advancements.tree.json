@@ -6,6 +6,12 @@
     "background": "minecraft:gui/advancements/backgrounds/adventure",
     "frame": "task",
     "childs": {
+      "minecraft:adventure/caves_and_cliffs": {
+        "icon": "minecraft:water_bucket",
+        "title": "Caves & Cliffs",
+        "description": "Free fall from the top of the world (build limit) to the bottom of the world and survive",
+        "frame": "task"
+      },
       "minecraft:adventure/honey_block_slide": {
         "icon": "minecraft:honey_block",
         "title": "Sticky Situation",
@@ -116,6 +122,18 @@
             "description": "Discover every biome",
             "frame": "challenge",
             "rewards": "500 xp"
+          },
+          "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+            "icon": "minecraft:leather_boots",
+            "title": "Light as a Rabbit",
+            "description": "Walk on powder snow...without sinking in it",
+            "frame": "task"
+          },
+          "minecraft:husbandry/play_jukebox_in_meadows": {
+            "icon": "minecraft:jukebox",
+            "title": "Sound of Music",
+            "description": "Make the Meadows come alive with the sound of music from a jukebox",
+            "frame": "task"
           }
         }
       },
@@ -152,6 +170,12 @@
             "title": "Hired Help",
             "description": "Summon an Iron Golem to help defend a village",
             "frame": "goal"
+          },
+          "minecraft:adventure/trade_at_world_height": {
+            "icon": "minecraft:emerald",
+            "title": "Star Trader",
+            "description": "Trade with a villager at the build height limit",
+            "frame": "task"
           }
         }
       },
@@ -171,12 +195,6 @@
             "hidden": true
           }
         }
-      },
-      "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
-        "icon": "minecraft:leather_boots",
-        "title": "Light as a Rabbit",
-        "description": "Walk on powder snow...without sinking in it",
-        "frame": "task"
       }
     }
   },
@@ -537,6 +555,12 @@
         "description": "Ride a Strider with a Warped Fungus on a Stick",
         "frame": "task",
         "childs": {
+          "minecraft:adventure/ride_strider_in_overworld_lava": {
+            "icon": "minecraft:warped_fungus_on_a_stick",
+            "title": "Feels like home",
+            "description": "Take a Strider for a loooong ride on a lava lake in the Overworld",
+            "frame": "task"
+          },
           "minecraft:nether/explore_nether": {
             "icon": "minecraft:netherite_boots",
             "title": "Hot Tourist Destinations",

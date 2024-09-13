@@ -13,3 +13,5 @@ minecraft:iron_sword
 
 minecraft:cooked_cod
 minecraft:cooked_salmon
+
+minecraft:potion
