@@ -6,6 +6,7 @@ minecraft:glow_squid
 minecraft:skeleton
 minecraft:slime
 minecraft:spider
+minecraft:tropical_fish
 minecraft:witch
 minecraft:zombie
 minecraft:zombie_villager
