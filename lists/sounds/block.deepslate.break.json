@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/deepslate/break1",
+    "block/deepslate/break2",
+    "block/deepslate/break3",
+    "block/deepslate/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

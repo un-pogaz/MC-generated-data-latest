@@ -1432,7 +1432,7 @@
       Name: "minecraft:acacia_log"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:grass"
@@ -1552,5 +1552,5 @@
       Name: "minecraft:blast_furnace"
     }
   ],
-  DataVersion: 2584
+  DataVersion: 2681
 }

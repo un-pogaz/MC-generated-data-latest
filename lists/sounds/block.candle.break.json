@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/candle/break1",
+    "block/candle/break2",
+    "block/candle/break3",
+    "block/candle/break4",
+    "block/candle/break5"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

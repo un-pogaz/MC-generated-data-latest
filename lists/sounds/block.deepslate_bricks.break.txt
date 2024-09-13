@@ -1,0 +1,6 @@
+minecraft:block/deepslate_bricks/place1
+minecraft:block/deepslate_bricks/place2
+minecraft:block/deepslate_bricks/place3
+minecraft:block/deepslate_bricks/place4
+minecraft:block/deepslate_bricks/place5
+minecraft:block/deepslate_bricks/place6

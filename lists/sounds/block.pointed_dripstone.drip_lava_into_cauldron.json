@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/pointed_dripstone/drip_lava_cauldron1",
+    "block/pointed_dripstone/drip_lava_cauldron2",
+    "block/pointed_dripstone/drip_lava_cauldron3",
+    "block/pointed_dripstone/drip_lava_cauldron4"
+  ],
+  "subtitle": "subtitles.block.pointed_dripstone.drip_lava_into_cauldron"
+}

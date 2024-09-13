@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "item/axe/wax_off1",
+      "pitch": 1
+    },
+    {
+      "name": "item/axe/wax_off2",
+      "pitch": 1
+    },
+    {
+      "name": "item/axe/wax_off3",
+      "pitch": 1
+    },
+    {
+      "name": "item/axe/wax_off1",
+      "pitch": 1.1
+    },
+    {
+      "name": "item/axe/wax_off2",
+      "pitch": 1.1
+    },
+    {
+      "name": "item/axe/wax_off3",
+      "pitch": 1.1
+    },
+    {
+      "name": "item/axe/wax_off1",
+      "pitch": 0.9
+    },
+    {
+      "name": "item/axe/wax_off2",
+      "pitch": 0.9
+    },
+    {
+      "name": "item/axe/wax_off3",
+      "pitch": 0.9
+    }
+  ],
+  "subtitle": "subtitles.item.axe.wax_off"
+}
