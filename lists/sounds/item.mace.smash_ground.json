@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "item/mace/smash_ground1",
+    "item/mace/smash_ground2",
+    "item/mace/smash_ground3",
+    "item/mace/smash_ground4"
+  ],
+  "subtitle": "subtitles.item.mace.smash_ground"
+}

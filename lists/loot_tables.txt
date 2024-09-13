@@ -33,6 +33,9 @@ minecraft:chests/trial_chambers/entrance
 minecraft:chests/trial_chambers/intersection
 minecraft:chests/trial_chambers/intersection_barrel
 minecraft:chests/trial_chambers/reward
+minecraft:chests/trial_chambers/reward_common
+minecraft:chests/trial_chambers/reward_rare
+minecraft:chests/trial_chambers/reward_unique
 minecraft:chests/trial_chambers/supply
 minecraft:chests/underwater_ruin_big
 minecraft:chests/underwater_ruin_small
