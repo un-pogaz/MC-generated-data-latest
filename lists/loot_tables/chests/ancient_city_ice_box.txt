@@ -1,0 +1,5 @@
+minecraft:suspicious_stew
+minecraft:golden_carrot
+minecraft:baked_potato
+minecraft:packed_ice
+minecraft:snowball
