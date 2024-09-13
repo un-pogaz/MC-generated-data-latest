@@ -164,14 +164,9 @@ minecraft:block/chain_command_block_conditional  [mcmeta]
 minecraft:block/chain_command_block_front  [mcmeta]
 minecraft:block/chain_command_block_side  [mcmeta]
 minecraft:block/chipped_anvil_top
+minecraft:block/chiseled_bookshelf_empty
+minecraft:block/chiseled_bookshelf_occupied
 minecraft:block/chiseled_bookshelf_side
-minecraft:block/chiseled_bookshelf_stage0
-minecraft:block/chiseled_bookshelf_stage1
-minecraft:block/chiseled_bookshelf_stage2
-minecraft:block/chiseled_bookshelf_stage3
-minecraft:block/chiseled_bookshelf_stage4
-minecraft:block/chiseled_bookshelf_stage5
-minecraft:block/chiseled_bookshelf_stage6
 minecraft:block/chiseled_bookshelf_top
 minecraft:block/chiseled_deepslate
 minecraft:block/chiseled_nether_bricks
