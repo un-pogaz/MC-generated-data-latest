@@ -1,25 +1,10 @@
 {
   "sounds": [
-    {
-      "name": "mob/warden/roar_1",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/roar_2",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/roar_3",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/roar_4",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/roar_5",
-      "volume": 1
-    }
+    "mob/warden/roar_1",
+    "mob/warden/roar_2",
+    "mob/warden/roar_3",
+    "mob/warden/roar_4",
+    "mob/warden/roar_5"
   ],
   "subtitle": "subtitles.entity.warden.roar"
 }

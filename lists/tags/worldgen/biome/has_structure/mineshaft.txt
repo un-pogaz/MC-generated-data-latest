@@ -16,6 +16,7 @@ minecraft:snowy_plains
 minecraft:plains
 minecraft:sunflower_plains
 minecraft:swamp
+minecraft:mangrove_swamp
 minecraft:savanna_plateau
 minecraft:dripstone_caves
 minecraft:lush_caves
