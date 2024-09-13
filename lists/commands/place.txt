@@ -1,0 +1,6 @@
+place feature <feature minecraft:resource[registry="minecraft:worldgen/configured_feature"]>
+place feature <feature minecraft:resource[registry="minecraft:worldgen/configured_feature"]> <pos minecraft:block_pos>
+place jigsaw <pool minecraft:resource[registry="minecraft:worldgen/template_pool"]> <target minecraft:resource_location> <max_depth brigadier:integer[max="7", min="1"]>
+place jigsaw <pool minecraft:resource[registry="minecraft:worldgen/template_pool"]> <target minecraft:resource_location> <max_depth brigadier:integer[max="7", min="1"]> <position minecraft:block_pos>
+place structure <structure minecraft:resource[registry="minecraft:worldgen/structure"]>
+place structure <structure minecraft:resource[registry="minecraft:worldgen/structure"]> <pos minecraft:block_pos>

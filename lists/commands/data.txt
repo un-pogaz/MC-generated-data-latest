@@ -1,120 +1,120 @@
-data merge entity <target minecraft:entity[amount="single", type="entities"]> <nbt minecraft:nbt_compound_tag>
-data merge block <targetPos minecraft:block_pos> <nbt minecraft:nbt_compound_tag>
-data merge storage <target minecraft:resource_location> <nbt minecraft:nbt_compound_tag>
-data get entity <target minecraft:entity[amount="single", type="entities"]>
-data get entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path>
-data get entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path> <scale brigadier:double>
 data get block <targetPos minecraft:block_pos>
 data get block <targetPos minecraft:block_pos> <path minecraft:nbt_path>
 data get block <targetPos minecraft:block_pos> <path minecraft:nbt_path> <scale brigadier:double>
+data get entity <target minecraft:entity[type="entities", amount="single"]>
+data get entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path>
+data get entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> <scale brigadier:double>
 data get storage <target minecraft:resource_location>
 data get storage <target minecraft:resource_location> <path minecraft:nbt_path>
 data get storage <target minecraft:resource_location> <path minecraft:nbt_path> <scale brigadier:double>
-data remove entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path>
-data remove block <targetPos minecraft:block_pos> <path minecraft:nbt_path>
-data remove storage <target minecraft:resource_location> <path minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> append from block <sourcePos minecraft:block_pos>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> append from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> append from storage <source minecraft:resource_location>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> append from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> append value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> set value <value minecraft:nbt_tag>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> merge from block <sourcePos minecraft:block_pos>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> merge from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> merge from storage <source minecraft:resource_location>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> merge from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify entity <target minecraft:entity[amount="single", type="entities"]> <targetPath minecraft:nbt_path> merge value <value minecraft:nbt_tag>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
+data merge block <targetPos minecraft:block_pos> <nbt minecraft:nbt_compound_tag>
+data merge entity <target minecraft:entity[type="entities", amount="single"]> <nbt minecraft:nbt_compound_tag>
+data merge storage <target minecraft:resource_location> <nbt minecraft:nbt_compound_tag>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append from block <sourcePos minecraft:block_pos>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append from storage <source minecraft:resource_location>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> append value <value minecraft:nbt_tag>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set value <value minecraft:nbt_tag>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge from block <sourcePos minecraft:block_pos>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge from storage <source minecraft:resource_location>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
 data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> merge value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify block <targetPos minecraft:block_pos> <targetPath minecraft:nbt_path> set value <value minecraft:nbt_tag>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from block <sourcePos minecraft:block_pos>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from storage <source minecraft:resource_location>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> append value <value minecraft:nbt_tag>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from block <sourcePos minecraft:block_pos>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from storage <source minecraft:resource_location>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> merge value <value minecraft:nbt_tag>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify entity <target minecraft:entity[type="entities", amount="single"]> <targetPath minecraft:nbt_path> set value <value minecraft:nbt_tag>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from block <sourcePos minecraft:block_pos>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from storage <source minecraft:resource_location>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> append value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set value <value minecraft:nbt_tag>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[amount="single", type="entities"]>
-data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[amount="single", type="entities"]> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> insert <index brigadier:integer> value <value minecraft:nbt_tag>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from block <sourcePos minecraft:block_pos>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from storage <source minecraft:resource_location>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
 data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> merge value <value minecraft:nbt_tag>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> prepend value <value minecraft:nbt_tag>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from block <sourcePos minecraft:block_pos> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from entity <source minecraft:entity[type="entities", amount="single"]> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set from storage <source minecraft:resource_location> <sourcePath minecraft:nbt_path>
+data modify storage <target minecraft:resource_location> <targetPath minecraft:nbt_path> set value <value minecraft:nbt_tag>
+data remove block <targetPos minecraft:block_pos> <path minecraft:nbt_path>
+data remove entity <target minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path>
+data remove storage <target minecraft:resource_location> <path minecraft:nbt_path>
