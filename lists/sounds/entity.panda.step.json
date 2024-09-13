@@ -6,5 +6,5 @@
     "mob/panda/step4",
     "mob/panda/step5"
   ],
-  "subtitle": "subtitles.entity.panda.step"
+  "subtitle": "subtitles.block.generic.footsteps"
 }
