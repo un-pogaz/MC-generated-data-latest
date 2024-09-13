@@ -22,6 +22,7 @@ execute if dimension <dimension minecraft:dimension>
 execute if dimension <dimension minecraft:dimension> >>redirect{execute}
 execute if entity <entities minecraft:entity[type="entities", amount="multiple"]>
 execute if entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute if function <name minecraft:function> >>redirect{execute}
 execute if loaded <pos minecraft:block_pos>
 execute if loaded <pos minecraft:block_pos> >>redirect{execute}
 execute if predicate <predicate minecraft:resource_location>
@@ -114,6 +115,7 @@ execute unless dimension <dimension minecraft:dimension>
 execute unless dimension <dimension minecraft:dimension> >>redirect{execute}
 execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]>
 execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute unless function <name minecraft:function> >>redirect{execute}
 execute unless loaded <pos minecraft:block_pos>
 execute unless loaded <pos minecraft:block_pos> >>redirect{execute}
 execute unless predicate <predicate minecraft:resource_location>
