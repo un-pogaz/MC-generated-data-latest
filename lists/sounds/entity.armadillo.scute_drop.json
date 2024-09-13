@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    "mob/armadillo/scute_drop1",
+    {
+      "name": "mob/armadillo/scute_drop1",
+      "pitch": 0.9
+    },
+    "mob/armadillo/scute_drop2",
+    {
+      "name": "mob/armadillo/scute_drop2",
+      "pitch": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.armadillo.scute_drop"
+}

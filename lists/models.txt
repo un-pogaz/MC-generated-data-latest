@@ -2156,6 +2156,8 @@ minecraft:item/angler_pottery_sherd
 minecraft:item/anvil
 minecraft:item/apple
 minecraft:item/archer_pottery_sherd
+minecraft:item/armadillo_scute
+minecraft:item/armadillo_spawn_egg
 minecraft:item/armor_stand
 minecraft:item/arms_up_pottery_sherd
 minecraft:item/arrow
@@ -3538,7 +3540,6 @@ minecraft:item/sculk_catalyst
 minecraft:item/sculk_sensor
 minecraft:item/sculk_shrieker
 minecraft:item/sculk_vein
-minecraft:item/scute
 minecraft:item/sea_lantern
 minecraft:item/sea_pickle
 minecraft:item/seagrass
@@ -3727,6 +3728,7 @@ minecraft:item/turtle_helmet_lapis_trim
 minecraft:item/turtle_helmet_netherite_trim
 minecraft:item/turtle_helmet_quartz_trim
 minecraft:item/turtle_helmet_redstone_trim
+minecraft:item/turtle_scute
 minecraft:item/turtle_spawn_egg
 minecraft:item/twisting_vines
 minecraft:item/verdant_froglight
@@ -3827,6 +3829,7 @@ minecraft:item/wither_rose
 minecraft:item/wither_skeleton_skull
 minecraft:item/wither_skeleton_spawn_egg
 minecraft:item/wither_spawn_egg
+minecraft:item/wolf_armor
 minecraft:item/wolf_spawn_egg
 minecraft:item/wooden_axe
 minecraft:item/wooden_hoe

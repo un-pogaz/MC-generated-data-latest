@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/armadillo/step1",
+    "mob/armadillo/step2",
+    "mob/armadillo/step3",
+    "mob/armadillo/step4",
+    "mob/armadillo/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}
