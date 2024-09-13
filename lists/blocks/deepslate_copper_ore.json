@@ -1,1 +1,7 @@
-{}
+{
+  "definition": {
+    "type": "minecraft:drop_experience",
+    "experience": 0,
+    "properties": {}
+  }
+}

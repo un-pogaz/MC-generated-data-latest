@@ -1,0 +1,7 @@
+minecraft:green_banner
+minecraft:green_bed
+minecraft:green_carpet
+minecraft:green_shulker_box
+minecraft:green_stained_glass
+minecraft:green_stained_glass_pane
+minecraft:green_wall_banner

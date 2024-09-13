@@ -1,0 +1,4 @@
+minecraft:item/armor/damage_wolf1
+minecraft:item/armor/damage_wolf2
+minecraft:item/armor/damage_wolf3
+minecraft:item/armor/damage_wolf4

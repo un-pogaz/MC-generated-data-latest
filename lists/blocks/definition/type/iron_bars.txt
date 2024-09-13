@@ -1,0 +1,2 @@
+minecraft:glass_pane
+minecraft:iron_bars

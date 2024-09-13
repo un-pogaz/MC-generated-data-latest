@@ -1,0 +1,6 @@
+{
+  "fire_damage": 2,
+  "properties": {},
+  "spawn_particles": false,
+  "type": "minecraft:campfire"
+}
