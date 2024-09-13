@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/glow_squid/hurt1",
+    "entity/glow_squid/hurt2",
+    "entity/glow_squid/hurt3",
+    "entity/glow_squid/hurt4"
+  ],
+  "subtitle": "subtitles.entity.glow_squid.hurt"
+}

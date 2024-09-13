@@ -1,0 +1,4 @@
+minecraft:mob/goat/jump1
+minecraft:mob/goat/jump2
+minecraft:mob/goat/jump1
+minecraft:mob/goat/jump2

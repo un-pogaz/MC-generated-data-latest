@@ -29,6 +29,7 @@
     ],
     [],
     [
+      "minecraft:amethyst_geode",
       "minecraft:monster_room"
     ],
     [],
@@ -45,6 +46,7 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "minecraft:ore_gold_extra",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
@@ -52,6 +54,7 @@
     ],
     [],
     [
+      "minecraft:glow_lichen",
       "minecraft:patch_grass_badlands",
       "minecraft:patch_dead_bush_badlands",
       "minecraft:brown_mushroom_normal",

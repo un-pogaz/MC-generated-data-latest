@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/calcite/break1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/calcite/break2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/calcite/break3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/calcite/break4",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

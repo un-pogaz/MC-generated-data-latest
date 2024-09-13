@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "item/spyglass/use",
+      "volume": 0.5,
+      "pitch": 1.33
+    },
+    {
+      "name": "item/spyglass/use",
+      "volume": 0.5,
+      "pitch": 1.15
+    },
+    {
+      "name": "item/spyglass/use",
+      "volume": 0.5,
+      "pitch": 1.4
+    },
+    {
+      "name": "item/spyglass/use",
+      "volume": 0.5,
+      "pitch": 1.55
+    }
+  ],
+  "subtitle": "subtitles.item.spyglass.use"
+}

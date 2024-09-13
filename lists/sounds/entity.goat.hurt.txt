@@ -1,0 +1,4 @@
+minecraft:mob/goat/hurt1
+minecraft:mob/goat/hurt2
+minecraft:mob/goat/hurt3
+minecraft:mob/goat/hurt4

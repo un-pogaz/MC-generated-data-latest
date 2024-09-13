@@ -1,0 +1,7 @@
+minecraft:block/powder_snow/break1
+minecraft:block/powder_snow/break2
+minecraft:block/powder_snow/break3
+minecraft:block/powder_snow/break4
+minecraft:block/powder_snow/break5
+minecraft:block/powder_snow/break6
+minecraft:block/powder_snow/break7
