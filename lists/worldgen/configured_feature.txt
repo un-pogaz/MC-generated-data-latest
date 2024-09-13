@@ -88,6 +88,7 @@ minecraft:mega_pine
 minecraft:mega_spruce
 minecraft:monster_room
 minecraft:moss_patch
+minecraft:moss_patch_bonemeal
 minecraft:moss_patch_ceiling
 minecraft:moss_vegetation
 minecraft:mushroom_field_vegetation
