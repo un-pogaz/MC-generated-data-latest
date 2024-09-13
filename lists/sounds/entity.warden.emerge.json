@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "mob/warden/emerge",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.warden.emerge"
+}

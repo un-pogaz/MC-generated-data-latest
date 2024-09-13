@@ -1,0 +1,6 @@
+minecraft:mob/warden/angry_1
+minecraft:mob/warden/angry_2
+minecraft:mob/warden/angry_3
+minecraft:mob/warden/angry_4
+minecraft:mob/warden/angry_5
+minecraft:mob/warden/angry_6

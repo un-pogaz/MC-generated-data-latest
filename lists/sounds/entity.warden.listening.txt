@@ -1,0 +1,5 @@
+minecraft:mob/warden/listening_1
+minecraft:mob/warden/listening_2
+minecraft:mob/warden/listening_3
+minecraft:mob/warden/listening_4
+minecraft:mob/warden/listening_5
