@@ -1,0 +1,3 @@
+#minecraft:climbable
+minecraft:sweet_berry_bush
+minecraft:cobweb
