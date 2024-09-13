@@ -819,7 +819,6 @@ minecraft:block/granite_wall_inventory
 minecraft:block/granite_wall_post
 minecraft:block/granite_wall_side
 minecraft:block/granite_wall_side_tall
-minecraft:block/grass
 minecraft:block/grass_block
 minecraft:block/grass_block_snow
 minecraft:block/gravel
@@ -1665,6 +1664,7 @@ minecraft:block/sculk_vein
 minecraft:block/sea_lantern
 minecraft:block/sea_pickle
 minecraft:block/seagrass
+minecraft:block/short_grass
 minecraft:block/shroomlight
 minecraft:block/shulker_box
 minecraft:block/skull
@@ -2863,7 +2863,6 @@ minecraft:item/granite
 minecraft:item/granite_slab
 minecraft:item/granite_stairs
 minecraft:item/granite_wall
-minecraft:item/grass
 minecraft:item/grass_block
 minecraft:item/gravel
 minecraft:item/gray_banner
@@ -3551,6 +3550,7 @@ minecraft:item/sheep_spawn_egg
 minecraft:item/shelter_pottery_sherd
 minecraft:item/shield
 minecraft:item/shield_blocking
+minecraft:item/short_grass
 minecraft:item/shroomlight
 minecraft:item/shulker_box
 minecraft:item/shulker_shell
