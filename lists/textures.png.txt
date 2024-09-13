@@ -753,6 +753,11 @@ minecraft:effect/dither
 minecraft:entity/alex
 minecraft:entity/armorstand/wood
 minecraft:entity/arrow
+minecraft:entity/axolotl/axolotl_blue
+minecraft:entity/axolotl/axolotl_cyan
+minecraft:entity/axolotl/axolotl_gold
+minecraft:entity/axolotl/axolotl_lucy
+minecraft:entity/axolotl/axolotl_wild
 minecraft:entity/banner/base
 minecraft:entity/banner/border
 minecraft:entity/banner/bricks
@@ -1398,6 +1403,7 @@ minecraft:gui/container/anvil
 minecraft:gui/container/beacon
 minecraft:gui/container/blast_furnace
 minecraft:gui/container/brewing_stand
+minecraft:gui/container/bundle
 minecraft:gui/container/cartography_table
 minecraft:gui/container/crafting_table
 minecraft:gui/container/creative_inventory/tab_inventory
@@ -1451,6 +1457,7 @@ minecraft:item/amethyst_shard
 minecraft:item/apple
 minecraft:item/armor_stand
 minecraft:item/arrow
+minecraft:item/axolotl_bucket
 minecraft:item/baked_potato
 minecraft:item/bamboo
 minecraft:item/barrier

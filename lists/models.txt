@@ -1575,6 +1575,8 @@ minecraft:item/anvil
 minecraft:item/apple
 minecraft:item/armor_stand
 minecraft:item/arrow
+minecraft:item/axolotl_bucket
+minecraft:item/axolotl_spawn_egg
 minecraft:item/azure_bluet
 minecraft:item/baked_potato
 minecraft:item/bamboo
