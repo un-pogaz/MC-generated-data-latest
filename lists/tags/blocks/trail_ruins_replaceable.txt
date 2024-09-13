@@ -1,0 +1,4 @@
+minecraft:sand
+minecraft:gravel
+minecraft:dirt
+minecraft:coarse_dirt

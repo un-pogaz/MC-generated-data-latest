@@ -1,3 +1,2 @@
 minecraft:nether
 minecraft:overworld
-minecraft:overworld_update_1_20

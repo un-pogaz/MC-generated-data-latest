@@ -1,0 +1,45 @@
+| Name                                             | Count | Chance | Weight | Comment |
+| ------------------------------------------------ | ----- | ------ | ------ | ------- |
+| 1 time                                           |    -- |     -- |     -- |         |
+| minecraft:burn_pottery_shard                     |     1 |   1.8% |   1/56 |         |
+| minecraft:danger_pottery_shard                   |     1 |   1.8% |   1/56 |         |
+| minecraft:friend_pottery_shard                   |     1 |   1.8% |   1/56 |         |
+| minecraft:heart_pottery_shard                    |     1 |   1.8% |   1/56 |         |
+| minecraft:heartbreak_pottery_shard               |     1 |   1.8% |   1/56 |         |
+| minecraft:howl_pottery_shard                     |     1 |   1.8% |   1/56 |         |
+| minecraft:sheaf_pottery_shard                    |     1 |   1.8% |   1/56 |         |
+| minecraft:emerald                                |     1 |   3.6% |   2/56 |         |
+| minecraft:wheat                                  |     1 |   3.6% |   2/56 |         |
+| minecraft:wooden_hoe                             |     1 |   3.6% |   2/56 |         |
+| minecraft:clay                                   |     1 |   3.6% |   2/56 |         |
+| minecraft:brick                                  |     1 |   3.6% |   2/56 |         |
+| minecraft:yellow_dye                             |     1 |   3.6% |   2/56 |         |
+| minecraft:blue_dye                               |     1 |   3.6% |   2/56 |         |
+| minecraft:light_blue_dye                         |     1 |   3.6% |   2/56 |         |
+| minecraft:white_dye                              |     1 |   3.6% |   2/56 |         |
+| minecraft:orange_dye                             |     1 |   3.6% |   2/56 |         |
+| minecraft:red_candle                             |     1 |   3.6% |   2/56 |         |
+| minecraft:green_candle                           |     1 |   3.6% |   2/56 |         |
+| minecraft:purple_candle                          |     1 |   3.6% |   2/56 |         |
+| minecraft:brown_candle                           |     1 |   3.6% |   2/56 |         |
+| minecraft:magenta_stained_glass_pane             |     1 |   1.8% |   1/56 |         |
+| minecraft:pink_stained_glass_pane                |     1 |   1.8% |   1/56 |         |
+| minecraft:blue_stained_glass_pane                |     1 |   1.8% |   1/56 |         |
+| minecraft:light_blue_stained_glass_pane          |     1 |   1.8% |   1/56 |         |
+| minecraft:red_stained_glass_pane                 |     1 |   1.8% |   1/56 |         |
+| minecraft:yellow_stained_glass_pane              |     1 |   1.8% |   1/56 |         |
+| minecraft:purple_stained_glass_pane              |     1 |   1.8% |   1/56 |         |
+| minecraft:spruce_hanging_sign                    |     1 |   1.8% |   1/56 |         |
+| minecraft:oak_hanging_sign                       |     1 |   1.8% |   1/56 |         |
+| minecraft:gold_nugget                            |     1 |   1.8% |   1/56 |         |
+| minecraft:coal                                   |     1 |   1.8% |   1/56 |         |
+| minecraft:wheat_seeds                            |     1 |   1.8% |   1/56 |         |
+| minecraft:beetroot_seeds                         |     1 |   1.8% |   1/56 |         |
+| minecraft:dead_bush                              |     1 |   1.8% |   1/56 |         |
+| minecraft:flower_pot                             |     1 |   1.8% |   1/56 |         |
+| minecraft:string                                 |     1 |   1.8% |   1/56 |         |
+| minecraft:lead                                   |     1 |   1.8% |   1/56 |         |
+| minecraft:wayfinder_armor_trim_smithing_template |     1 |   1.8% |   1/56 |         |
+| minecraft:raiser_armor_trim_smithing_template    |     1 |   1.8% |   1/56 |         |
+| minecraft:shaper_armor_trim_smithing_template    |     1 |   1.8% |   1/56 |         |
+| minecraft:host_armor_trim_smithing_template      |     1 |   1.8% |   1/56 |         |

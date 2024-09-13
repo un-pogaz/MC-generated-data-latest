@@ -1,5 +1,9 @@
 {
   "properties": {
+    "cracked": [
+      "true",
+      "false"
+    ],
     "facing": [
       "north",
       "south",
