@@ -103,6 +103,7 @@
     },
     {
       nbt: {
+        joint: "rollable",
         final_state: "minecraft:hay_block",
         name: "minecraft:bottom",
         pool: "minecraft:empty",
@@ -124,5 +125,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }
