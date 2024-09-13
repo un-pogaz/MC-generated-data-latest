@@ -96,6 +96,7 @@ minecraft:wooded_badlands
 #minecraft:has_structure/village_snowy
 #minecraft:has_structure/village_taiga
 #minecraft:has_structure/woodland_mansion
+#minecraft:increased_fire_burnout
 #minecraft:is_badlands
 #minecraft:is_beach
 #minecraft:is_deep_ocean
@@ -112,14 +113,17 @@ minecraft:wooded_badlands
 #minecraft:is_taiga
 #minecraft:mineshaft_blocking
 #minecraft:more_frequent_drowned_spawns
-#minecraft:only_allows_snow_and_gold_rabbits
 #minecraft:plays_underwater_music
 #minecraft:polar_bears_spawn_on_alternate_blocks
 #minecraft:produces_corals_from_bonemeal
 #minecraft:reduce_water_ambient_spawns
 #minecraft:required_ocean_monument_surrounding
+#minecraft:snow_golem_melts
 #minecraft:spawns_cold_variant_frogs
+#minecraft:spawns_gold_rabbits
+#minecraft:spawns_snow_foxes
 #minecraft:spawns_warm_variant_frogs
+#minecraft:spawns_white_rabbits
 #minecraft:stronghold_biased_to
 #minecraft:water_on_map_outlines
 #minecraft:without_patrol_spawns
