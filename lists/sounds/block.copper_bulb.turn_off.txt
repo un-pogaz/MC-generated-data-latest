@@ -1,1 +1,1 @@
-minecraft:block/copper_bulb/turn_on
+minecraft:block/copper_bulb/turn_off
