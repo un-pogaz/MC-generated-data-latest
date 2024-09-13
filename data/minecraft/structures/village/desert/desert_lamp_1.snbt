@@ -16,10 +16,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:cut_sandstone",
         name: "minecraft:bottom",
         pool: "minecraft:empty",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:bottom"
       },
@@ -44,5 +44,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3826
+  DataVersion: 3827
 }
