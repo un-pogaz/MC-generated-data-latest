@@ -504,6 +504,7 @@ minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
 minecraft:block/potatoes_stage2
 minecraft:block/potatoes_stage3
+minecraft:block/powder_snow
 minecraft:block/powered_rail
 minecraft:block/powered_rail_on
 minecraft:block/prismarine  [mcmeta]
@@ -1776,6 +1777,7 @@ minecraft:item/porkchop
 minecraft:item/potato
 minecraft:item/potion
 minecraft:item/potion_overlay
+minecraft:item/powder_snow_bucket
 minecraft:item/prismarine_crystals
 minecraft:item/prismarine_shard
 minecraft:item/pufferfish
@@ -1861,6 +1863,7 @@ minecraft:map/map_icons
 minecraft:misc/enchanted_item_glint  [mcmeta]
 minecraft:misc/forcefield
 minecraft:misc/nausea
+minecraft:misc/powder_snow_outline
 minecraft:misc/pumpkinblur  [mcmeta]
 minecraft:misc/shadow  [mcmeta]
 minecraft:misc/spyglass_scope
