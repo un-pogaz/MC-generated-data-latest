@@ -1,0 +1,1 @@
+minecraft:block/trial_spawner/about_to_spawn_item

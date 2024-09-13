@@ -1,3 +1,4 @@
-| Name  | Count | Chance | Weight | Comment |
-| ----- | ----- | ------ | ------ | ------- |
-| empty |       |   100% |      1 |         |
+| Name                     | Count | Chance | Weight | Comment           |
+| ------------------------ | ----- | ------ | ------ | ----------------- |
+| 1 time                   |    -- |     -- |     -- | is captain raider |
+| minecraft:ominous_bottle |     1 |   100% |      1 |                   |

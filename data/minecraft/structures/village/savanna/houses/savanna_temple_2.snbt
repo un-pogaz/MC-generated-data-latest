@@ -1772,10 +1772,10 @@
     },
     {
       nbt: {
-        Fuel: 0b,
         Items: [],
         id: "minecraft:brewing_stand",
-        BrewTime: 0s
+        BrewTime: 0s,
+        Fuel: 0b
       },
       pos: [3, 1, 2],
       state: 20
@@ -1924,5 +1924,5 @@
       Name: "minecraft:brewing_stand"
     }
   ],
-  DataVersion: 3824
+  DataVersion: 3826
 }
