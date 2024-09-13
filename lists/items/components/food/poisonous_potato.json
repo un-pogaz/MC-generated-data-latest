@@ -1,14 +1,4 @@
 {
-  "effects": [
-    {
-      "effect": {
-        "duration": 100,
-        "id": "minecraft:poison",
-        "show_icon": true
-      },
-      "probability": 0.6
-    }
-  ],
   "nutrition": 2,
   "saturation": 1.2
 }
