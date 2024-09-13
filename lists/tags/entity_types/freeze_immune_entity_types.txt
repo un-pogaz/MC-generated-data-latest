@@ -1,0 +1,3 @@
+minecraft:stray
+minecraft:polar_bear
+minecraft:snow_golem

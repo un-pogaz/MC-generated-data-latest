@@ -123,8 +123,6 @@ minecraft:block/cake_inner
 minecraft:block/cake_side
 minecraft:block/cake_top
 minecraft:block/calcite
-minecraft:block/calibrated_sculk_sensor_side
-minecraft:block/calibrated_sculk_sensor_top
 minecraft:block/campfire_fire  [mcmeta]
 minecraft:block/campfire_log
 minecraft:block/campfire_log_lit  [mcmeta]
@@ -798,7 +796,6 @@ minecraft:colormap/grass
 minecraft:effect/dither
 minecraft:entity/alex
 minecraft:entity/armorstand/wood
-minecraft:entity/arrow
 minecraft:entity/axolotl/axolotl_blue
 minecraft:entity/axolotl/axolotl_cyan
 minecraft:entity/axolotl/axolotl_gold
@@ -953,6 +950,7 @@ minecraft:entity/fox/snow_fox
 minecraft:entity/fox/snow_fox_sleep
 minecraft:entity/ghast/ghast
 minecraft:entity/ghast/ghast_shooting
+minecraft:entity/goat/goat
 minecraft:entity/guardian
 minecraft:entity/guardian_beam
 minecraft:entity/guardian_elder
@@ -1174,7 +1172,6 @@ minecraft:entity/zombie/drowned
 minecraft:entity/zombie/drowned_outer_layer
 minecraft:entity/zombie/husk
 minecraft:entity/zombie/zombie
-minecraft:entity/zombie/zombie_villager
 minecraft:entity/zombie_villager/profession/armorer
 minecraft:entity/zombie_villager/profession/butcher  [mcmeta]
 minecraft:entity/zombie_villager/profession/cartographer
@@ -1787,6 +1784,23 @@ minecraft:item/leather_helmet_overlay
 minecraft:item/leather_horse_armor
 minecraft:item/leather_leggings
 minecraft:item/leather_leggings_overlay
+minecraft:item/light
+minecraft:item/light_00
+minecraft:item/light_01
+minecraft:item/light_02
+minecraft:item/light_03
+minecraft:item/light_04
+minecraft:item/light_05
+minecraft:item/light_06
+minecraft:item/light_07
+minecraft:item/light_08
+minecraft:item/light_09
+minecraft:item/light_10
+minecraft:item/light_11
+minecraft:item/light_12
+minecraft:item/light_13
+minecraft:item/light_14
+minecraft:item/light_15
 minecraft:item/light_blue_candle
 minecraft:item/light_blue_dye
 minecraft:item/light_gray_candle
@@ -1872,7 +1886,6 @@ minecraft:item/red_dye
 minecraft:item/redstone
 minecraft:item/repeater
 minecraft:item/rotten_flesh
-minecraft:item/ruby
 minecraft:item/saddle
 minecraft:item/salmon
 minecraft:item/salmon_bucket
@@ -1995,8 +2008,6 @@ minecraft:models/armor/leather_layer_2
 minecraft:models/armor/leather_layer_2_overlay
 minecraft:models/armor/netherite_layer_1
 minecraft:models/armor/netherite_layer_2
-minecraft:models/armor/piglin_leather_layer_1
-minecraft:models/armor/piglin_leather_layer_1_overlay
 minecraft:models/armor/turtle_layer_1
 minecraft:painting/alban
 minecraft:painting/aztec
@@ -2076,7 +2087,6 @@ minecraft:particle/explosion_8
 minecraft:particle/explosion_9
 minecraft:particle/flame
 minecraft:particle/flash
-minecraft:particle/footprint
 minecraft:particle/generic_0
 minecraft:particle/generic_1
 minecraft:particle/generic_2
