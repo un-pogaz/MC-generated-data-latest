@@ -1,0 +1,8 @@
+minecraft:mob/frog/idle1
+minecraft:mob/frog/idle2
+minecraft:mob/frog/idle3
+minecraft:mob/frog/idle4
+minecraft:mob/frog/idle5
+minecraft:mob/frog/idle6
+minecraft:mob/frog/idle7
+minecraft:mob/frog/idle8

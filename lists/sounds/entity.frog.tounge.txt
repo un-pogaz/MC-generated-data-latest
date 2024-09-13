@@ -1,0 +1,4 @@
+minecraft:mob/frog/tounge1
+minecraft:mob/frog/tounge2
+minecraft:mob/frog/tounge3
+minecraft:mob/frog/tounge4

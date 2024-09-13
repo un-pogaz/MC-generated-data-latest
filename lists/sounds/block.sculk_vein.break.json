@@ -1,0 +1,30 @@
+{
+  "sounds": [
+    {
+      "name": "block/sculk_vein/break1",
+      "pitch": 1.1,
+      "volume": 0.8
+    },
+    {
+      "name": "block/sculk_vein/break2",
+      "pitch": 1.1,
+      "volume": 0.8
+    },
+    {
+      "name": "block/sculk_vein/break3",
+      "pitch": 1.1,
+      "volume": 0.8
+    },
+    {
+      "name": "block/sculk_vein/break4",
+      "pitch": 1.1,
+      "volume": 0.8
+    },
+    {
+      "name": "block/sculk_vein/break5",
+      "pitch": 1.1,
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}
