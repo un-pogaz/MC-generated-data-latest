@@ -8,10 +8,6 @@
       "up",
       "down"
     ],
-    "lit": [
-      "true",
-      "false"
-    ],
     "waterlogged": [
       "true",
       "false"
