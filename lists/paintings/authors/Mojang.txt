@@ -1,0 +1,5 @@
+minecraft:earth
+minecraft:fire
+minecraft:water
+minecraft:wind
+minecraft:wither

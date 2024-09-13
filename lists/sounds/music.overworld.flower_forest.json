@@ -15,6 +15,12 @@
       "volume": 0.4
     },
     {
+      "name": "music/game/featherfall",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
       "name": "music/game/haggstrom",
       "stream": true
     },

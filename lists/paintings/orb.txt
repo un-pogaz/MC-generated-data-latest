@@ -1,0 +1,4 @@
+texture: minecraft:orb
+name: Orb
+author: Kristoffer Zetterstrand
+size: 4x4

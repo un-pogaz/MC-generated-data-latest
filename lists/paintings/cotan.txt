@@ -1,0 +1,4 @@
+texture: minecraft:cotan
+name: Cotán
+author: Kristoffer Zetterstrand
+size: 3x3

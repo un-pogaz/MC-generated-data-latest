@@ -1,0 +1,4 @@
+texture: minecraft:bomb
+name: Target Successfully Bombed
+author: Kristoffer Zetterstrand
+size: 1x1

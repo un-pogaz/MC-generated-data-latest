@@ -9,6 +9,16 @@
       "stream": true
     },
     {
+      "name": "music/game/eld_unknown",
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
+      "name": "music/game/endless",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
       "name": "music/game/haggstrom",
       "stream": true
     },
