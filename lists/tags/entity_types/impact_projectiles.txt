@@ -7,3 +7,4 @@ minecraft:egg
 minecraft:trident
 minecraft:dragon_fireball
 minecraft:wither_skull
+minecraft:wind_charge
