@@ -1,17 +1,8 @@
 {
   "sounds": [
-    {
-      "name": "mob/ravager/bite1",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/bite2",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/bite3",
-      "volume": 1
-    }
+    "mob/ravager/bite1",
+    "mob/ravager/bite2",
+    "mob/ravager/bite3"
   ],
   "subtitle": "subtitles.entity.ravager.attack"
 }

@@ -1,13 +1,7 @@
 {
   "sounds": [
-    {
-      "name": "mob/cat/eat1",
-      "volume": 1
-    },
-    {
-      "name": "mob/cat/eat2",
-      "volume": 1
-    }
+    "mob/cat/eat1",
+    "mob/cat/eat2"
   ],
   "subtitle": "subtitles.entity.cat.eat"
 }

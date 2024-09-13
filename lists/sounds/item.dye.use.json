@@ -1,12 +1,9 @@
 {
   "sounds": [
+    "item/dye/dye",
     {
       "name": "item/dye/dye",
       "pitch": 0.9
-    },
-    {
-      "name": "item/dye/dye",
-      "pitch": 1.1
     },
     {
       "name": "item/dye/dye",
@@ -14,7 +11,7 @@
     },
     {
       "name": "item/dye/dye",
-      "pitch": 1
+      "pitch": 1.1
     }
   ],
   "subtitle": "subtitles.item.dye.use"

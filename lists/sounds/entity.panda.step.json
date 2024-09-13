@@ -1,25 +1,10 @@
 {
   "sounds": [
-    {
-      "name": "mob/panda/step1",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/step2",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/step3",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/step4",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/step5",
-      "volume": 1
-    }
+    "mob/panda/step1",
+    "mob/panda/step2",
+    "mob/panda/step3",
+    "mob/panda/step4",
+    "mob/panda/step5"
   ],
   "subtitle": "subtitles.entity.panda.step"
 }

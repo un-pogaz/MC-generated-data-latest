@@ -2,23 +2,21 @@
   "sounds": [
     {
       "name": "mob/goat/jump1",
-      "volume": 0.8,
-      "pitch": 1
-    },
-    {
-      "name": "mob/goat/jump2",
-      "volume": 0.8,
-      "pitch": 1
+      "volume": 0.8
     },
     {
       "name": "mob/goat/jump1",
-      "volume": 0.8,
-      "pitch": 0.8
+      "pitch": 0.8,
+      "volume": 0.8
     },
     {
       "name": "mob/goat/jump2",
-      "volume": 0.8,
-      "pitch": 0.8
+      "volume": 0.8
+    },
+    {
+      "name": "mob/goat/jump2",
+      "pitch": 0.8,
+      "volume": 0.8
     }
   ],
   "subtitle": "subtitles.entity.goat.long_jump"

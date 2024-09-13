@@ -1,21 +1,9 @@
 {
   "sounds": [
-    {
-      "name": "mob/wandering_trader/hurt1",
-      "volume": 1
-    },
-    {
-      "name": "mob/wandering_trader/hurt2",
-      "volume": 1
-    },
-    {
-      "name": "mob/wandering_trader/hurt3",
-      "volume": 1
-    },
-    {
-      "name": "mob/wandering_trader/hurt4",
-      "volume": 1
-    }
+    "mob/wandering_trader/hurt1",
+    "mob/wandering_trader/hurt2",
+    "mob/wandering_trader/hurt3",
+    "mob/wandering_trader/hurt4"
   ],
   "subtitle": "subtitles.entity.wandering_trader.hurt"
 }

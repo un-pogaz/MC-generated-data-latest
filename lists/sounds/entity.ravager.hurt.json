@@ -1,21 +1,9 @@
 {
   "sounds": [
-    {
-      "name": "mob/ravager/hurt1",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/hurt2",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/hurt3",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/hurt4",
-      "volume": 1
-    }
+    "mob/ravager/hurt1",
+    "mob/ravager/hurt2",
+    "mob/ravager/hurt3",
+    "mob/ravager/hurt4"
   ],
   "subtitle": "subtitles.entity.ravager.hurt"
 }

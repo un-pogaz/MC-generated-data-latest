@@ -1,31 +1,17 @@
 {
   "sounds": [
-    {
-      "name": "block/bamboo/step1",
-      "volume": 1
-    },
+    "block/bamboo/step1",
     {
       "name": "block/bamboo/step2",
-      "volume": 1,
       "pitch": 0.7
     },
-    {
-      "name": "block/bamboo/step3",
-      "volume": 1
-    },
+    "block/bamboo/step3",
     {
       "name": "block/bamboo/step4",
-      "volume": 1,
       "pitch": 0.7
     },
-    {
-      "name": "block/bamboo/step5",
-      "volume": 1
-    },
-    {
-      "name": "block/bamboo/step6",
-      "volume": 1
-    }
+    "block/bamboo/step5",
+    "block/bamboo/step6"
   ],
   "subtitle": "subtitles.block.generic.footsteps"
 }
