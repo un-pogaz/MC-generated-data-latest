@@ -6,3 +6,6 @@ minecraft:music/game/floating_dream
 minecraft:music/game/left_to_bloom
 minecraft:music/game/one_more_day
 minecraft:music/game/piano3
+minecraft:music/game/swamp/aerie
+minecraft:music/game/swamp/firebugs
+minecraft:music/game/swamp/labyrinthine

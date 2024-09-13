@@ -1137,7 +1137,6 @@ minecraft:entity.husk.ambient
 minecraft:entity.illusioner.ambient
 minecraft:entity.magma_cube.squish
 minecraft:entity.phantom.ambient
-minecraft:entity.phantom.flap
 minecraft:entity.piglin.ambient
 minecraft:entity.piglin_brute.ambient
 minecraft:entity.pillager.ambient
@@ -1153,7 +1152,6 @@ minecraft:entity.vex.ambient
 minecraft:entity.vindicator.ambient
 minecraft:entity.warden.tendril_clicks
 minecraft:entity.witch.ambient
-minecraft:entity.witch.throw
 minecraft:entity.wither.ambient
 minecraft:entity.wither_skeleton.ambient
 minecraft:entity.zoglin.ambient
@@ -1636,6 +1634,7 @@ minecraft:mob/allay/item_taken1
 minecraft:mob/allay/item_taken2
 minecraft:mob/allay/item_taken3
 minecraft:mob/allay/item_taken4
+minecraft:mob/allay/item_thrown1
 minecraft:mob/axolotl/attack1
 minecraft:mob/axolotl/attack2
 minecraft:mob/axolotl/attack3
@@ -2924,6 +2923,7 @@ minecraft:mob/zombified_piglin/zpighurt1
 minecraft:mob/zombified_piglin/zpighurt2
 minecraft:music.game
 minecraft:music/game/an_ordinary_day
+minecraft:music/game/ancestry
 minecraft:music/game/calm1
 minecraft:music/game/calm2
 minecraft:music/game/calm3
@@ -2958,6 +2958,9 @@ minecraft:music/game/piano1
 minecraft:music/game/piano2
 minecraft:music/game/piano3
 minecraft:music/game/stand_tall
+minecraft:music/game/swamp/aerie
+minecraft:music/game/swamp/firebugs
+minecraft:music/game/swamp/labyrinthine
 minecraft:music/game/water/axolotl
 minecraft:music/game/water/dragon_fish
 minecraft:music/game/water/shuniji
@@ -3019,6 +3022,7 @@ minecraft:random/successful_hit
 minecraft:random/wood_click
 minecraft:records/11
 minecraft:records/13
+minecraft:records/5
 minecraft:records/blocks
 minecraft:records/cat
 minecraft:records/chirp

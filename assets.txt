@@ -1741,6 +1741,7 @@ minecraft/sounds/mob/allay/item_taken1.ogg
 minecraft/sounds/mob/allay/item_taken2.ogg
 minecraft/sounds/mob/allay/item_taken3.ogg
 minecraft/sounds/mob/allay/item_taken4.ogg
+minecraft/sounds/mob/allay/item_thrown1.ogg
 minecraft/sounds/mob/axolotl/attack1.ogg
 minecraft/sounds/mob/axolotl/attack2.ogg
 minecraft/sounds/mob/axolotl/attack3.ogg
@@ -3032,6 +3033,7 @@ minecraft/sounds/mob/zombified_piglin/zpigdeath.ogg
 minecraft/sounds/mob/zombified_piglin/zpighurt1.ogg
 minecraft/sounds/mob/zombified_piglin/zpighurt2.ogg
 minecraft/sounds/music/game/an_ordinary_day.ogg
+minecraft/sounds/music/game/ancestry.ogg
 minecraft/sounds/music/game/calm1.ogg
 minecraft/sounds/music/game/calm2.ogg
 minecraft/sounds/music/game/calm3.ogg
@@ -3066,6 +3068,9 @@ minecraft/sounds/music/game/piano1.ogg
 minecraft/sounds/music/game/piano2.ogg
 minecraft/sounds/music/game/piano3.ogg
 minecraft/sounds/music/game/stand_tall.ogg
+minecraft/sounds/music/game/swamp/aerie.ogg
+minecraft/sounds/music/game/swamp/firebugs.ogg
+minecraft/sounds/music/game/swamp/labyrinthine.ogg
 minecraft/sounds/music/game/water/axolotl.ogg
 minecraft/sounds/music/game/water/dragon_fish.ogg
 minecraft/sounds/music/game/water/shuniji.ogg
@@ -3134,6 +3139,7 @@ minecraft/sounds/random/successful_hit.ogg
 minecraft/sounds/random/wood_click.ogg
 minecraft/sounds/records/11.ogg
 minecraft/sounds/records/13.ogg
+minecraft/sounds/records/5.ogg
 minecraft/sounds/records/blocks.ogg
 minecraft/sounds/records/cat.ogg
 minecraft/sounds/records/chirp.ogg
