@@ -41,6 +41,7 @@ minecraft:worldgen/biome_source
 minecraft:worldgen/block_state_provider_type
 minecraft:worldgen/carver
 minecraft:worldgen/chunk_generator
+minecraft:worldgen/density_function_type
 minecraft:worldgen/feature
 minecraft:worldgen/feature_size_type
 minecraft:worldgen/foliage_placer_type
