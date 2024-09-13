@@ -164,7 +164,7 @@
           "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
             "icon": "minecraft:leather_boots",
             "title": "Light as a Rabbit",
-            "description": "Walk on Powder Snow...without sinking in it",
+            "description": "Walk on Powder Snow... without sinking in it",
             "frame": "task"
           }
         }
