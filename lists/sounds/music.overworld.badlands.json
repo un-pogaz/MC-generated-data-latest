@@ -7,24 +7,20 @@
       "weight": 2
     },
     {
+      "name": "music/game/danny",
+      "stream": true
+    },
+    {
+      "name": "music/game/dry_hands",
+      "stream": true
+    },
+    {
       "name": "music/game/echo_in_the_wind",
       "stream": true,
       "volume": 0.4
     },
     {
-      "name": "music/game/subwoofer_lullaby",
-      "stream": true
-    },
-    {
-      "name": "music/game/living_mice",
-      "stream": true
-    },
-    {
       "name": "music/game/haggstrom",
-      "stream": true
-    },
-    {
-      "name": "music/game/danny",
       "stream": true
     },
     {
@@ -32,7 +28,11 @@
       "stream": true
     },
     {
-      "name": "music/game/oxygene",
+      "name": "music/game/living_mice",
+      "stream": true
+    },
+    {
+      "name": "music/game/mice_on_venus",
       "stream": true
     },
     {
@@ -41,15 +41,15 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/dry_hands",
+      "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
       "stream": true
     },
     {
       "name": "music/game/wet_hands",
-      "stream": true
-    },
-    {
-      "name": "music/game/mice_on_venus",
       "stream": true
     }
   ]

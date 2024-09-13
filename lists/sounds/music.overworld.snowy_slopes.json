@@ -6,15 +6,11 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/subwoofer_lullaby",
+      "name": "music/game/haggstrom",
       "stream": true
     },
     {
       "name": "music/game/living_mice",
-      "stream": true
-    },
-    {
-      "name": "music/game/haggstrom",
       "stream": true
     },
     {
@@ -26,6 +22,10 @@
       "name": "music/game/stand_tall",
       "stream": true,
       "volume": 0.4
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true
     }
   ]
 }
