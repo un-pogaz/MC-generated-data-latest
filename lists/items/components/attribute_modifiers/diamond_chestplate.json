@@ -1,0 +1,18 @@
+{
+  "modifiers": [
+    {
+      "type": "minecraft:armor",
+      "amount": 8.0,
+      "id": "minecraft:armor.chestplate",
+      "operation": "add_value",
+      "slot": "chest"
+    },
+    {
+      "type": "minecraft:armor_toughness",
+      "amount": 2.0,
+      "id": "minecraft:armor.chestplate",
+      "operation": "add_value",
+      "slot": "chest"
+    }
+  ]
+}
