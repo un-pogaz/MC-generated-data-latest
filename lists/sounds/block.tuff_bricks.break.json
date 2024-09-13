@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/tuff_bricks/place1",
+    "block/tuff_bricks/place2",
+    "block/tuff_bricks/place3",
+    "block/tuff_bricks/place4",
+    "block/tuff_bricks/place5"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

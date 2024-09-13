@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/copper_trapdoor/toggle1",
+    "block/copper_trapdoor/toggle2",
+    "block/copper_trapdoor/toggle3",
+    "block/copper_trapdoor/toggle4"
+  ],
+  "subtitle": "subtitles.block.copper_trapdoor.toggle"
+}
