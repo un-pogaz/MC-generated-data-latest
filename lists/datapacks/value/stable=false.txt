@@ -8,6 +8,7 @@ minecraft:enchantment_provider
 minecraft:instrument
 minecraft:jukebox_song
 minecraft:painting_variant
+minecraft:trial_spawner
 minecraft:trim_material
 minecraft:trim_pattern
 minecraft:wolf_variant
