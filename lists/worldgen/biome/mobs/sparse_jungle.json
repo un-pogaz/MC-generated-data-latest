@@ -37,6 +37,12 @@
       "minCount": 4,
       "type": "minecraft:sheep",
       "weight": 12
+    },
+    {
+      "maxCount": 4,
+      "minCount": 2,
+      "type": "minecraft:wolf",
+      "weight": 8
     }
   ],
   "monster": [
