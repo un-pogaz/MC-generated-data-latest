@@ -1,4 +1,7 @@
 minecraft:alt
 minecraft:default
 minecraft:illageralt
+minecraft:include/default
+minecraft:include/space
+minecraft:include/unifont
 minecraft:uniform

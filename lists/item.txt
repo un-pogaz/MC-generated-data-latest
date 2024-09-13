@@ -738,6 +738,7 @@ minecraft:music_disc_mall
 minecraft:music_disc_mellohi
 minecraft:music_disc_otherside
 minecraft:music_disc_pigstep
+minecraft:music_disc_relic
 minecraft:music_disc_stal
 minecraft:music_disc_strad
 minecraft:music_disc_wait
@@ -1280,6 +1281,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:crimson_stems
 #minecraft:dampens_vibrations
 #minecraft:dark_oak_logs
+#minecraft:decorated_pot_ingredients
 #minecraft:decorated_pot_sherds
 #minecraft:diamond_ores
 #minecraft:dirt

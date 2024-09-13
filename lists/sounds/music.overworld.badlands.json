@@ -1,0 +1,56 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/crescent_dunes",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
+      "name": "music/game/echo_in_the_wind",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/hal1",
+      "stream": true
+    },
+    {
+      "name": "music/game/hal2",
+      "stream": true
+    },
+    {
+      "name": "music/game/hal3",
+      "stream": true
+    },
+    {
+      "name": "music/game/hal4",
+      "stream": true
+    },
+    {
+      "name": "music/game/nuance1",
+      "stream": true
+    },
+    {
+      "name": "music/game/nuance2",
+      "stream": true
+    },
+    {
+      "name": "music/game/one_more_day",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/piano1",
+      "stream": true
+    },
+    {
+      "name": "music/game/piano2",
+      "stream": true
+    },
+    {
+      "name": "music/game/piano3",
+      "stream": true
+    }
+  ]
+}

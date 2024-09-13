@@ -21,6 +21,12 @@
       "weight": 2
     },
     {
+      "name": "music/game/echo_in_the_wind",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
       "name": "music/game/floating_dream",
       "stream": true,
       "weight": 2
