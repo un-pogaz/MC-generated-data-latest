@@ -1,0 +1,8 @@
+minecraft:mob/camel/ambient1
+minecraft:mob/camel/ambient2
+minecraft:mob/camel/ambient3
+minecraft:mob/camel/ambient4
+minecraft:mob/camel/ambient5
+minecraft:mob/camel/ambient6
+minecraft:mob/camel/ambient7
+minecraft:mob/camel/ambient8

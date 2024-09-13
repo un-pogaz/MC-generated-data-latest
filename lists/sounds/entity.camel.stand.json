@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/camel/stand1",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel/stand2",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel/stand3",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel/stand4",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel/stand5",
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.entity.camel.stand"
+}

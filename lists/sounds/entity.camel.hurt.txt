@@ -1,0 +1,4 @@
+minecraft:mob/camel/hurt1
+minecraft:mob/camel/hurt2
+minecraft:mob/camel/hurt3
+minecraft:mob/camel/hurt4

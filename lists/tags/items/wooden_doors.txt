@@ -7,3 +7,4 @@ minecraft:dark_oak_door
 minecraft:crimson_door
 minecraft:warped_door
 minecraft:mangrove_door
+minecraft:bamboo_door
