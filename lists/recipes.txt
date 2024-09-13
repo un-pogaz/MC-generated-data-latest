@@ -310,6 +310,7 @@ minecraft:dark_prismarine_stairs
 minecraft:dark_prismarine_stairs_from_dark_prismarine_stonecutting
 minecraft:daylight_detector
 minecraft:decorated_pot
+minecraft:decorated_pot_simple
 minecraft:deepslate
 minecraft:deepslate_brick_slab
 minecraft:deepslate_brick_slab_from_cobbled_deepslate_stonecutting

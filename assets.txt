@@ -128,6 +128,7 @@ minecraft/lang/zh_cn.json
 minecraft/lang/zh_hk.json
 minecraft/lang/zh_tw.json
 minecraft/lang/zlm_arab.json
+minecraft/resourcepacks/high_contrast.zip
 minecraft/resourcepacks/programmer_art.zip
 minecraft/sounds.json
 minecraft/sounds/ambient/cave/cave1.ogg
