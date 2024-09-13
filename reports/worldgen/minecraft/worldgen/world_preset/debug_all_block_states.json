@@ -1,5 +1,15 @@
 {
   "dimensions": {
+    "minecraft:the_end": {
+      "type": "minecraft:the_end",
+      "generator": {
+        "biome_source": {
+          "type": "minecraft:the_end"
+        },
+        "settings": "minecraft:end",
+        "type": "minecraft:noise"
+      }
+    },
     "minecraft:the_nether": {
       "type": "minecraft:the_nether",
       "generator": {
@@ -15,16 +25,6 @@
       "type": "minecraft:overworld",
       "generator": {
         "type": "minecraft:debug"
-      }
-    },
-    "minecraft:the_end": {
-      "type": "minecraft:the_end",
-      "generator": {
-        "biome_source": {
-          "type": "minecraft:the_end"
-        },
-        "settings": "minecraft:end",
-        "type": "minecraft:noise"
       }
     }
   }

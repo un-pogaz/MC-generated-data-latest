@@ -1532,6 +1532,14 @@ minecraft:item/crossbow/shoot2
 minecraft:item/crossbow/shoot3
 minecraft:item/dye/dye
 minecraft:item/elytra/elytra_loop
+minecraft:item/goat_horn/call0
+minecraft:item/goat_horn/call1
+minecraft:item/goat_horn/call2
+minecraft:item/goat_horn/call3
+minecraft:item/goat_horn/call4
+minecraft:item/goat_horn/call5
+minecraft:item/goat_horn/call6
+minecraft:item/goat_horn/call7
 minecraft:item/hoe/till1
 minecraft:item/hoe/till2
 minecraft:item/hoe/till3
@@ -1963,6 +1971,10 @@ minecraft:mob/goat/death5
 minecraft:mob/goat/eat1
 minecraft:mob/goat/eat2
 minecraft:mob/goat/eat3
+minecraft:mob/goat/horn_break1
+minecraft:mob/goat/horn_break2
+minecraft:mob/goat/horn_break3
+minecraft:mob/goat/horn_break4
 minecraft:mob/goat/hurt1
 minecraft:mob/goat/hurt2
 minecraft:mob/goat/hurt3
