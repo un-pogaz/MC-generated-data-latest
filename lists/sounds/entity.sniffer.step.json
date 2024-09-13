@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/sniffer/step1",
+    "mob/sniffer/step2",
+    "mob/sniffer/step3",
+    "mob/sniffer/step4",
+    "mob/sniffer/step5",
+    "mob/sniffer/step6"
+  ],
+  "subtitle": "subtitles.entity.sniffer.step"
+}

@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/decorated_pot/step1",
+    "block/decorated_pot/step2",
+    "block/decorated_pot/step3",
+    "block/decorated_pot/step4",
+    "block/decorated_pot/step5"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

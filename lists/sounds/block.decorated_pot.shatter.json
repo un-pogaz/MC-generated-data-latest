@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/decorated_pot/shatter1",
+    "block/decorated_pot/shatter2",
+    "block/decorated_pot/shatter3",
+    "block/decorated_pot/shatter4",
+    "block/decorated_pot/shatter5",
+    "block/decorated_pot/shatter6"
+  ],
+  "subtitle": "subtitles.block.decorated_pot.shatter"
+}
