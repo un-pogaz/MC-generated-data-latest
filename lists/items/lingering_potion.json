@@ -17,8 +17,16 @@
       "value": []
     },
     {
+      "type": "minecraft:max_stack_size",
+      "value": 1
+    },
+    {
       "type": "minecraft:potion_contents",
       "value": {}
+    },
+    {
+      "type": "minecraft:rarity",
+      "value": "common"
     },
     {
       "type": "minecraft:repair_cost",

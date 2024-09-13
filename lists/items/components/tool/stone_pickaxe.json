@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "blocks": "#minecraft:incorrect_for_stone_tool",
+      "correct_for_drops": false
+    },
+    {
+      "blocks": "#minecraft:mineable/pickaxe",
+      "correct_for_drops": true,
+      "speed": 4.0
+    }
+  ]
+}

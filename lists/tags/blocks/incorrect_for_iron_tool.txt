@@ -1,0 +1,1 @@
+#minecraft:needs_diamond_tool
