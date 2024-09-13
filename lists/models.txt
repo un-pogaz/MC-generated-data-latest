@@ -470,6 +470,7 @@ minecraft:block/door_top
 minecraft:block/door_top_rh
 minecraft:block/dragon_egg
 minecraft:block/dried_kelp_block
+minecraft:block/dripstone_block
 minecraft:block/dropper
 minecraft:block/dropper_vertical
 minecraft:block/emerald_block
@@ -907,6 +908,17 @@ minecraft:block/piston_head_short_sticky
 minecraft:block/piston_head_sticky
 minecraft:block/piston_inventory
 minecraft:block/podzol
+minecraft:block/pointed_dripstone
+minecraft:block/pointed_dripstone_down_base
+minecraft:block/pointed_dripstone_down_frustum
+minecraft:block/pointed_dripstone_down_middle
+minecraft:block/pointed_dripstone_down_tip
+minecraft:block/pointed_dripstone_down_tip_merge
+minecraft:block/pointed_dripstone_up_base
+minecraft:block/pointed_dripstone_up_frustum
+minecraft:block/pointed_dripstone_up_middle
+minecraft:block/pointed_dripstone_up_tip
+minecraft:block/pointed_dripstone_up_tip_merge
 minecraft:block/polished_andesite
 minecraft:block/polished_andesite_slab
 minecraft:block/polished_andesite_slab_top
@@ -1948,6 +1960,7 @@ minecraft:item/dragon_egg
 minecraft:item/dragon_head
 minecraft:item/dried_kelp
 minecraft:item/dried_kelp_block
+minecraft:item/dripstone_block
 minecraft:item/dropper
 minecraft:item/drowned_spawn_egg
 minecraft:item/egg
@@ -2333,6 +2346,7 @@ minecraft:item/pink_wool
 minecraft:item/piston
 minecraft:item/player_head
 minecraft:item/podzol
+minecraft:item/pointed_dripstone
 minecraft:item/poisonous_potato
 minecraft:item/polar_bear_spawn_egg
 minecraft:item/polished_andesite
@@ -2520,7 +2534,6 @@ minecraft:item/spruce_stairs
 minecraft:item/spruce_trapdoor
 minecraft:item/spruce_wood
 minecraft:item/spyglass
-minecraft:item/spyglass_scoping
 minecraft:item/squid_spawn_egg
 minecraft:item/stick
 minecraft:item/sticky_piston
