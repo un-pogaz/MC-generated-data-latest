@@ -8,6 +8,7 @@ minecraft:bone_block
 minecraft:chain
 minecraft:cherry_log
 minecraft:cherry_wood
+minecraft:creaking_heart
 minecraft:crimson_hyphae
 minecraft:crimson_stem
 minecraft:dark_oak_log
@@ -24,6 +25,8 @@ minecraft:nether_portal
 minecraft:oak_log
 minecraft:oak_wood
 minecraft:ochre_froglight
+minecraft:pale_oak_log
+minecraft:pale_oak_wood
 minecraft:pearlescent_froglight
 minecraft:polished_basalt
 minecraft:purpur_pillar
@@ -47,6 +50,8 @@ minecraft:stripped_mangrove_log
 minecraft:stripped_mangrove_wood
 minecraft:stripped_oak_log
 minecraft:stripped_oak_wood
+minecraft:stripped_pale_oak_log
+minecraft:stripped_pale_oak_wood
 minecraft:stripped_spruce_log
 minecraft:stripped_spruce_wood
 minecraft:stripped_warped_hyphae

@@ -1,0 +1,4 @@
+minecraft:block/creaking_heart/place/wood1
+minecraft:block/creaking_heart/place/wood2
+minecraft:block/creaking_heart/place/wood3
+minecraft:block/creaking_heart/place/wood4

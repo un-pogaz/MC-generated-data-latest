@@ -9,3 +9,4 @@ minecraft:warped_pressure_plate
 minecraft:mangrove_pressure_plate
 minecraft:bamboo_pressure_plate
 minecraft:cherry_pressure_plate
+minecraft:pale_oak_pressure_plate

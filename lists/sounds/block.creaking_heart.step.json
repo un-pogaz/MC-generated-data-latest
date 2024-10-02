@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/creaking_heart/step/creaking_heart_step1",
+    "block/creaking_heart/step/creaking_heart_step2",
+    "block/creaking_heart/step/creaking_heart_step3",
+    "block/creaking_heart/step/creaking_heart_step4",
+    "block/creaking_heart/step/creaking_heart_step5",
+    "block/creaking_heart/step/creaking_heart_step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

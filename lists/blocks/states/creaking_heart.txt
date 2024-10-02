@@ -1,0 +1,9 @@
+axis=x,creaking=disabled
+axis=x,creaking=dormant
+axis=x,creaking=active
+axis=y,creaking=disabled  [default]
+axis=y,creaking=dormant
+axis=y,creaking=active
+axis=z,creaking=disabled
+axis=z,creaking=dormant
+axis=z,creaking=active

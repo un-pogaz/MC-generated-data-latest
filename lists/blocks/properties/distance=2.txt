@@ -7,5 +7,6 @@ minecraft:flowering_azalea_leaves
 minecraft:jungle_leaves
 minecraft:mangrove_leaves
 minecraft:oak_leaves
+minecraft:pale_oak_leaves
 minecraft:scaffolding
 minecraft:spruce_leaves

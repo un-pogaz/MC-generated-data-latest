@@ -1,0 +1,6 @@
+minecraft:block/creaking_heart/step/creaking_heart_step1
+minecraft:block/creaking_heart/step/creaking_heart_step2
+minecraft:block/creaking_heart/step/creaking_heart_step3
+minecraft:block/creaking_heart/step/creaking_heart_step4
+minecraft:block/creaking_heart/step/creaking_heart_step5
+minecraft:block/creaking_heart/step/creaking_heart_step6

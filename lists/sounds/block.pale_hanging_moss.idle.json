@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    "block/pale_hanging_moss/pale_hanging_moss1",
+    "block/pale_hanging_moss/pale_hanging_moss2",
+    "block/pale_hanging_moss/pale_hanging_moss3",
+    "block/pale_hanging_moss/pale_hanging_moss4",
+    "block/pale_hanging_moss/pale_hanging_moss5",
+    "block/pale_hanging_moss/pale_hanging_moss6",
+    "block/pale_hanging_moss/pale_hanging_moss7",
+    "block/pale_hanging_moss/pale_hanging_moss8",
+    "block/pale_hanging_moss/pale_hanging_moss9",
+    "block/pale_hanging_moss/pale_hanging_moss10",
+    "block/pale_hanging_moss/pale_hanging_moss11",
+    "block/pale_hanging_moss/pale_hanging_moss12",
+    "block/pale_hanging_moss/pale_hanging_moss13",
+    "block/pale_hanging_moss/pale_hanging_moss14",
+    "block/pale_hanging_moss/pale_hanging_moss15"
+  ],
+  "subtitle": "subtitles.block.pale_hanging_moss.idle"
+}

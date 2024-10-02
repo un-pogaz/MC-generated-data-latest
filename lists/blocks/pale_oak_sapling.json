@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "type": "minecraft:sapling",
+    "properties": {},
+    "tree": "pale_oak"
+  },
+  "properties": {
+    "stage": [
+      "0",
+      "1"
+    ]
+  }
+}

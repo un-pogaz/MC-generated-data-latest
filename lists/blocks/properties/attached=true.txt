@@ -7,6 +7,7 @@ minecraft:dark_oak_hanging_sign
 minecraft:jungle_hanging_sign
 minecraft:mangrove_hanging_sign
 minecraft:oak_hanging_sign
+minecraft:pale_oak_hanging_sign
 minecraft:spruce_hanging_sign
 minecraft:tripwire
 minecraft:tripwire_hook

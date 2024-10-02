@@ -1,0 +1,4 @@
+minecraft:block/creaking_heart/idle/creaking_heart_idle1
+minecraft:block/creaking_heart/idle/creaking_heart_idle2
+minecraft:block/creaking_heart/idle/creaking_heart_idle3
+minecraft:block/creaking_heart/idle/creaking_heart_idle4
