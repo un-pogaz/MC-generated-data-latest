@@ -7,9 +7,9 @@
     ],
     "facing": [
       "north",
-      "east",
       "south",
-      "west"
+      "west",
+      "east"
     ]
   }
 }
