@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/evocation_illager/idle1",
+    "mob/evocation_illager/idle2",
+    "mob/evocation_illager/idle3",
+    "mob/evocation_illager/idle4"
+  ],
+  "subtitle": "subtitles.entity.evocation_illager.ambient"
+}

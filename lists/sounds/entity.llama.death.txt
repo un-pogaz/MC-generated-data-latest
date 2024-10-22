@@ -1,0 +1,2 @@
+minecraft:mob/llama/death1
+minecraft:mob/llama/death2

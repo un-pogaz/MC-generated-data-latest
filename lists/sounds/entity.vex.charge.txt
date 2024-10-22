@@ -1,0 +1,3 @@
+minecraft:mob/vex/charge1
+minecraft:mob/vex/charge2
+minecraft:mob/vex/charge3

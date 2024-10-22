@@ -1,0 +1,1 @@
+minecraft:mob/evocation_illager/fangs
