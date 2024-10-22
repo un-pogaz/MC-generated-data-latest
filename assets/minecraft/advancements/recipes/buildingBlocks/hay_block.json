@@ -28,9 +28,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_wheat"
-    ],
-    [
+      "has_at_least_9_wheat",
       "has_the_recipe"
     ]
   ]

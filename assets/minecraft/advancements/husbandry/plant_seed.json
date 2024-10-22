@@ -44,10 +44,12 @@
         }
     },
     "requirements": [
-        ["wheat"],
-        ["pumpkin_stem"],
-        ["melon_stem"],
-        ["beetroots"],
-        ["nether_wart"]
+        [
+            "wheat",
+            "pumpkin_stem",
+            "melon_stem",
+            "beetroots",
+            "nether_wart"
+        ]
     ]
 }

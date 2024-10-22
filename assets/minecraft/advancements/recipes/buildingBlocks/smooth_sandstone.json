@@ -25,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_sandstone"
-    ],
-    [
+      "has_sandstone",
       "has_the_recipe"
     ]
   ]

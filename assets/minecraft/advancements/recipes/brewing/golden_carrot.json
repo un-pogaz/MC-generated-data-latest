@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_gold_nugget"
-    ],
-    [
+      "has_gold_nugget",
       "has_the_recipe"
     ]
   ]

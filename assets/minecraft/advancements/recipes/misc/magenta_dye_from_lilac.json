@@ -25,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_double_plant"
-    ],
-    [
+      "has_double_plant",
       "has_the_recipe"
     ]
   ]
