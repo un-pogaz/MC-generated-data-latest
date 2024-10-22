@@ -1,0 +1,8 @@
+minecraft:acacia_button
+minecraft:birch_button
+minecraft:dark_oak_button
+minecraft:jungle_button
+minecraft:lever
+minecraft:oak_button
+minecraft:spruce_button
+minecraft:stone_button

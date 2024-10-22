@@ -1,0 +1,24 @@
+{
+  "properties": {
+    "delay": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "locked": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

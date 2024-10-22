@@ -1,0 +1,10 @@
+data get block <pos minecraft:block_pos>
+data get block <pos minecraft:block_pos> <path minecraft:nbt_path>
+data get block <pos minecraft:block_pos> <path minecraft:nbt_path> <scale brigadier:double>
+data get entity <target minecraft:entity[amount="single", type="entities"]>
+data get entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path>
+data get entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path> <scale brigadier:double>
+data merge block <pos minecraft:block_pos> <nbt minecraft:nbt>
+data merge entity <target minecraft:entity[amount="single", type="entities"]> <nbt minecraft:nbt>
+data remove block <pos minecraft:block_pos> <path minecraft:nbt_path>
+data remove entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path>

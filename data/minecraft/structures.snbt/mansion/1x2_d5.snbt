@@ -4626,32 +4626,20 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:white_wool"
     },
     {
-      Properties: {
-        color: "orange"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:orange_wool"
     },
     {
-      Properties: {
-        color: "gray"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:gray_wool"
     },
     {
       Name: "minecraft:air"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

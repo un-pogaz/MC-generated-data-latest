@@ -461,7 +461,7 @@
     },
     {
       pos: [1, 1, 6],
-      state: 3
+      state: 8
     },
     {
       pos: [1, 2, 6],
@@ -489,7 +489,7 @@
     },
     {
       pos: [1, 1, 7],
-      state: 3
+      state: 9
     },
     {
       pos: [1, 3, 7],
@@ -517,26 +517,21 @@
       Name: "minecraft:cobblestone"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
       Properties: {
-        variant: "dark_oak",
         axis: "x"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
       Properties: {
         east: "false",
         south: "false",
         north: "false",
-        variant: "cobblestone",
-        west: "false",
-        up: "false"
+        west: "true",
+        up: "true"
       },
       Name: "minecraft:cobblestone_wall"
     },
@@ -546,18 +541,18 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "outer_left",
         facing: "north"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
@@ -565,8 +560,28 @@
         shape: "outer_right",
         facing: "south"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
+    },
+    {
+      Properties: {
+        east: "false",
+        south: "true",
+        north: "false",
+        west: "true",
+        up: "true"
+      },
+      Name: "minecraft:cobblestone_wall"
+    },
+    {
+      Properties: {
+        east: "false",
+        south: "false",
+        north: "true",
+        west: "true",
+        up: "true"
+      },
+      Name: "minecraft:cobblestone_wall"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

@@ -1073,17 +1073,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player855",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [3, 2, 8],
@@ -3384,23 +3387,16 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
+    },
+    {
+      Name: "minecraft:polished_andesite"
     },
     {
       Properties: {
-        variant: "smooth_andesite"
+        type: "double"
       },
-      Name: "minecraft:stone"
-    },
-    {
-      Properties: {
-        seamless: "false",
-        variant: "stone"
-      },
-      Name: "minecraft:double_stone_slab"
+      Name: "minecraft:stone_slab"
     },
     {
       Properties: {
@@ -3413,15 +3409,13 @@
     },
     {
       Properties: {
-        half: "bottom",
-        variant: "stone"
+        type: "bottom"
       },
       Name: "minecraft:stone_slab"
     },
     {
       Properties: {
-        half: "top",
-        variant: "stone"
+        type: "top"
       },
       Name: "minecraft:stone_slab"
     },
@@ -3433,11 +3427,10 @@
     },
     {
       Properties: {
-        damage: "2",
         facing: "west"
       },
-      Name: "minecraft:anvil"
+      Name: "minecraft:damaged_anvil"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }
