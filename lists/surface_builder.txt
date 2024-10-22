@@ -1,4 +1,5 @@
 minecraft:badlands
+minecraft:basalt_deltas
 minecraft:default
 minecraft:eroded_badlands
 minecraft:frozen_ocean

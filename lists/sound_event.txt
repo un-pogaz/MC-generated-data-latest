@@ -1,3 +1,6 @@
+minecraft:ambient.basalt_deltas.additions
+minecraft:ambient.basalt_deltas.loop
+minecraft:ambient.basalt_deltas.mood
 minecraft:ambient.cave
 minecraft:ambient.crimson_forest.additions
 minecraft:ambient.crimson_forest.loop
@@ -757,6 +760,7 @@ minecraft:entity.strider.eat
 minecraft:entity.strider.happy
 minecraft:entity.strider.hurt
 minecraft:entity.strider.retreat
+minecraft:entity.strider.saddle
 minecraft:entity.strider.step
 minecraft:entity.strider.step_lava
 minecraft:entity.tnt.primed
@@ -926,7 +930,11 @@ minecraft:music.dragon
 minecraft:music.end
 minecraft:music.game
 minecraft:music.menu
-minecraft:music.nether
+minecraft:music.nether.basalt_deltas
+minecraft:music.nether.crimson_forest
+minecraft:music.nether.nether_wastes
+minecraft:music.nether.soul_sand_valley
+minecraft:music.nether.warped_forest
 minecraft:music.under_water
 minecraft:music_disc.11
 minecraft:music_disc.13
