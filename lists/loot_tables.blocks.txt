@@ -95,6 +95,7 @@ minecraft:blocks/bubble_coral_block
 minecraft:blocks/bubble_coral_fan
 minecraft:blocks/cactus
 minecraft:blocks/cake
+minecraft:blocks/campfire
 minecraft:blocks/carrots
 minecraft:blocks/cartography_table
 minecraft:blocks/carved_pumpkin
