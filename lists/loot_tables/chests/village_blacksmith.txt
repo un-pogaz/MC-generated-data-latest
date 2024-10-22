@@ -10,7 +10,7 @@ minecraft:iron_helmet
 minecraft:iron_leggings
 minecraft:iron_boots
 minecraft:obsidian
-minecraft:sapling
+minecraft:oak_sapling
 minecraft:saddle
 minecraft:iron_horse_armor
 minecraft:golden_horse_armor

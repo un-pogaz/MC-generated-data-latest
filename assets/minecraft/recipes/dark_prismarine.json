@@ -10,12 +10,10 @@
       "item": "minecraft:prismarine_shard"
     },
     "I": {
-      "item": "minecraft:dye",
-      "data": 0
+      "item": "minecraft:ink_sac"
     }
   },
   "result": {
-    "item": "minecraft:prismarine",
-    "data": 2
+    "item": "minecraft:dark_prismarine"
   }
 }

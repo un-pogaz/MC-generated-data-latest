@@ -5,46 +5,22 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:fish",
-                    "functions": [
-                        {
-                            "function": "set_data",
-                            "data": 0
-                        }
-                    ],
+                    "name": "minecraft:cod",
                     "weight": 60
                 },
                 {
                     "type": "item",
-                    "name": "minecraft:fish",
-                    "functions": [
-                        {
-                            "function": "set_data",
-                            "data": 1
-                        }
-                    ],
+                    "name": "minecraft:salmon",
                     "weight": 25
                 },
                 {
                     "type": "item",
-                    "name": "minecraft:fish",
-                    "functions": [
-                        {
-                            "function": "set_data",
-                            "data": 2
-                        }
-                    ],
+                    "name": "minecraft:clownfish",
                     "weight": 2
                 },
                 {
                     "type": "item",
-                    "name": "minecraft:fish",
-                    "functions": [
-                        {
-                            "function": "set_data",
-                            "data": 3
-                        }
-                    ],
+                    "name": "minecraft:pufferfish",
                     "weight": 13
                 }
             ]

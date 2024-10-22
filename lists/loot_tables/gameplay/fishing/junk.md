@@ -9,6 +9,6 @@
 | minecraft:fishing_rod   |     1 |   2.4% |   2/83 |         |
 | minecraft:bowl          |     1 |    12% |  10/83 |         |
 | minecraft:stick         |     1 |     6% |   5/83 |         |
-| minecraft:dye           |    10 |   1.2% |   1/83 |         |
+| minecraft:ink_sac       |    10 |   1.2% |   1/83 |         |
 | minecraft:tripwire_hook |     1 |    12% |  10/83 |         |
 | minecraft:rotten_flesh  |     1 |    12% |  10/83 |         |

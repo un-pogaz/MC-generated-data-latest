@@ -1,7 +1,7 @@
 | Name                     | Count | Chance | Weight | Comment                                   |
 | ------------------------ | ----- | ------ | ------ | ----------------------------------------- |
 | 1 time                   |    -- |     -- |     -- |                                           |
-| minecraft:waterlily      |     1 |  16.7% |    1/6 |                                           |
+| minecraft:lily_pad       |     1 |  16.7% |    1/6 |                                           |
 | minecraft:name_tag       |     1 |  16.7% |    1/6 |                                           |
 | minecraft:saddle         |     1 |  16.7% |    1/6 |                                           |
 | minecraft:bow            |     1 |  16.7% |    1/6 | enchantments: {level: 30, treasure: true} |

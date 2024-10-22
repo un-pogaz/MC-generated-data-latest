@@ -2,20 +2,16 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:paper",
-      "data": 0
-    },
-	{
-      "item": "minecraft:paper",
-      "data": 0
-    },
-	{
-      "item": "minecraft:paper",
-      "data": 0
+      "item": "minecraft:paper"
     },
     {
-      "item": "minecraft:leather",
-      "data": 0
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:leather"
     }
   ],
   "result": {

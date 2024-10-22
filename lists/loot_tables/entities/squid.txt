@@ -1,1 +1,1 @@
-minecraft:dye
+minecraft:ink_sac

@@ -3,13 +3,11 @@
   "group": "red_dye",
   "ingredients": [
     {
-      "item": "minecraft:double_plant",
-      "data": 4
+      "item": "minecraft:rose_bush"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 1,
+    "item": "minecraft:rose_red",
     "count": 2
   }
 }
