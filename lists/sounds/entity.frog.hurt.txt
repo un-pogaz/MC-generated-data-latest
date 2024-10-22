@@ -1,0 +1,5 @@
+minecraft:mob/frog/hurt1
+minecraft:mob/frog/hurt2
+minecraft:mob/frog/hurt3
+minecraft:mob/frog/hurt4
+minecraft:mob/frog/hurt5

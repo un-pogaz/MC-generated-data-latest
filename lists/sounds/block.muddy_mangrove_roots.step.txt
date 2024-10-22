@@ -1,0 +1,6 @@
+minecraft:block/muddy_mangrove_roots/step1
+minecraft:block/muddy_mangrove_roots/step2
+minecraft:block/muddy_mangrove_roots/step3
+minecraft:block/muddy_mangrove_roots/step4
+minecraft:block/muddy_mangrove_roots/step5
+minecraft:block/muddy_mangrove_roots/step6
