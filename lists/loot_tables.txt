@@ -117,8 +117,8 @@ minecraft:entities/wither_skeleton
 minecraft:entities/wolf
 minecraft:entities/zombie
 minecraft:entities/zombie_horse
-minecraft:entities/zombie_pigman
 minecraft:entities/zombie_villager
+minecraft:entities/zombified_piglin
 minecraft:gameplay/cat_morning_gift
 minecraft:gameplay/fishing
 minecraft:gameplay/fishing/fish
