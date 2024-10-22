@@ -1,3 +1,4 @@
+minecraft:adventure/adventuring_time
 minecraft:adventure/kill_a_mob
 minecraft:adventure/kill_all_mobs
 minecraft:adventure/root
