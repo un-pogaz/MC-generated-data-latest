@@ -1527,6 +1527,7 @@ minecraft:gui/advancements/widgets
 minecraft:gui/advancements/window
 minecraft:gui/bars
 minecraft:gui/book
+minecraft:gui/chat_tags
 minecraft:gui/checkbox
 minecraft:gui/container/anvil
 minecraft:gui/container/beacon
