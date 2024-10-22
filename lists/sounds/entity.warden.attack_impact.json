@@ -1,13 +1,7 @@
 {
   "sounds": [
-    {
-      "name": "mob/warden/attack_impact_1",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/attack_impact_2",
-      "volume": 1
-    }
+    "mob/warden/attack_impact_1",
+    "mob/warden/attack_impact_2"
   ],
   "subtitle": "subtitles.entity.warden.attack_impact"
 }
