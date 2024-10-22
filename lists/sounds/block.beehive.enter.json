@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 14,
+      "name": "block/beehive/enter",
+      "pitch": 0.8
+    },
+    {
+      "attenuation_distance": 14,
+      "name": "block/beehive/enter",
+      "pitch": 0.7
+    }
+  ],
+  "subtitle": "subtitles.block.beehive.enter"
+}

@@ -1,0 +1,4 @@
+minecraft:item/bottle/drink_honey1
+minecraft:item/bottle/drink_honey2
+minecraft:item/bottle/drink_honey3
+minecraft:item/bottle/drink_honey3

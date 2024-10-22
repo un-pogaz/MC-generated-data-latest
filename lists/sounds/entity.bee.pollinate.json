@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 12,
+      "name": "mob/bee/pollinate1",
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/bee/pollinate2",
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/bee/pollinate3",
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "mob/bee/pollinate4",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.bee.pollinate"
+}
