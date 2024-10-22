@@ -7,14 +7,6 @@
       state: 0
     },
     {
-      pos: [4, 0, 0],
-      state: 1
-    },
-    {
-      pos: [5, 0, 0],
-      state: 1
-    },
-    {
       pos: [6, 0, 0],
       state: 0
     },
@@ -271,10 +263,6 @@
       state: 1
     },
     {
-      pos: [5, 0, 7],
-      state: 1
-    },
-    {
       pos: [6, 0, 7],
       state: 1
     },
@@ -288,13 +276,33 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_block",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [4, 0, 0],
+      state: 7
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_block",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [5, 0, 0],
+      state: 7
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/snowy/streets",
         final_state: "minecraft:air",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
       pos: [2, 1, 0],
-      state: 7
+      state: 8
     },
     {
       nbt: {
@@ -304,7 +312,7 @@
         attachement_type: "minecraft:bottom"
       },
       pos: [10, 0, 1],
-      state: 8
+      state: 7
     },
     {
       nbt: {
@@ -341,7 +349,17 @@
         attachement_type: "minecraft:bottom"
       },
       pos: [2, 0, 7],
-      state: 8
+      state: 7
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_block",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [5, 0, 7],
+      state: 7
     },
     {
       nbt: {
@@ -3153,13 +3171,13 @@
     },
     {
       Properties: {
-        facing: "north"
+        facing: "up"
       },
       Name: "minecraft:jigsaw"
     },
     {
       Properties: {
-        facing: "up"
+        facing: "north"
       },
       Name: "minecraft:jigsaw"
     },
@@ -3201,5 +3219,5 @@
       Name: "minecraft:air"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1916
 }
