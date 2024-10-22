@@ -899,6 +899,7 @@ minecraft:zombie_villager_spawn_egg
 #minecraft:flowers
 #minecraft:jungle_logs
 #minecraft:leaves
+#minecraft:lectern_books
 #minecraft:logs
 #minecraft:music_discs
 #minecraft:oak_logs
