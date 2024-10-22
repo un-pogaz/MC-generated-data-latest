@@ -1,0 +1,24 @@
+facing=north,type=single,waterlogged=true
+facing=north,type=single,waterlogged=false  [default]
+facing=north,type=left,waterlogged=true
+facing=north,type=left,waterlogged=false
+facing=north,type=right,waterlogged=true
+facing=north,type=right,waterlogged=false
+facing=south,type=single,waterlogged=true
+facing=south,type=single,waterlogged=false
+facing=south,type=left,waterlogged=true
+facing=south,type=left,waterlogged=false
+facing=south,type=right,waterlogged=true
+facing=south,type=right,waterlogged=false
+facing=west,type=single,waterlogged=true
+facing=west,type=single,waterlogged=false
+facing=west,type=left,waterlogged=true
+facing=west,type=left,waterlogged=false
+facing=west,type=right,waterlogged=true
+facing=west,type=right,waterlogged=false
+facing=east,type=single,waterlogged=true
+facing=east,type=single,waterlogged=false
+facing=east,type=left,waterlogged=true
+facing=east,type=left,waterlogged=false
+facing=east,type=right,waterlogged=true
+facing=east,type=right,waterlogged=false
