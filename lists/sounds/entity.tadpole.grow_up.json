@@ -1,0 +1,45 @@
+{
+  "sounds": [
+    {
+      "name": "mob/frog/idle1",
+      "pitch": 1.2,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/frog/idle2",
+      "pitch": 1.2,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/frog/idle3",
+      "pitch": 1.2,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/frog/idle4",
+      "pitch": 1.2,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/frog/idle5",
+      "pitch": 1.2,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/frog/idle6",
+      "pitch": 1.2,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/frog/idle7",
+      "pitch": 1.2,
+      "volume": 0.75
+    },
+    {
+      "name": "mob/frog/idle8",
+      "pitch": 1.2,
+      "volume": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.tadpole.grow_up"
+}

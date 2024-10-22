@@ -2,37 +2,56 @@
   "sounds": [
     {
       "name": "music/game/an_ordinary_day",
-      "stream": true
+      "stream": true,
+      "weight": 2
     },
     {
       "name": "music/game/calm1",
-      "stream": true
+      "stream": true,
+      "weight": 2
     },
     {
       "name": "music/game/calm2",
-      "stream": true
+      "stream": true,
+      "weight": 2
     },
     {
       "name": "music/game/calm3",
-      "stream": true
+      "stream": true,
+      "weight": 2
     },
     {
       "name": "music/game/floating_dream",
-      "stream": true
+      "stream": true,
+      "weight": 2
     },
     {
       "name": "music/game/left_to_bloom",
       "stream": true,
       "volume": 0.4,
-      "weight": 2
+      "weight": 4
     },
     {
       "name": "music/game/one_more_day",
       "stream": true,
-      "volume": 0.4
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/game/piano3",
+      "stream": true,
+      "weight": 2
+    },
+    {
+      "name": "music/game/swamp/aerie",
+      "stream": true
+    },
+    {
+      "name": "music/game/swamp/firebugs",
+      "stream": true
+    },
+    {
+      "name": "music/game/swamp/labyrinthine",
       "stream": true
     }
   ]
