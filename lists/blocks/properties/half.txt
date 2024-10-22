@@ -18,6 +18,7 @@ minecraft:dark_oak_trapdoor
 minecraft:dark_prismarine_stairs
 minecraft:diorite_stairs
 minecraft:end_stone_brick_stairs
+minecraft:exposed_cut_copper_stairs
 minecraft:granite_stairs
 minecraft:iron_door
 minecraft:iron_trapdoor
@@ -25,7 +26,6 @@ minecraft:jungle_door
 minecraft:jungle_stairs
 minecraft:jungle_trapdoor
 minecraft:large_fern
-minecraft:lightly_weathered_cut_copper_stairs
 minecraft:lilac
 minecraft:mossy_cobblestone_stairs
 minecraft:mossy_stone_brick_stairs
@@ -33,6 +33,7 @@ minecraft:nether_brick_stairs
 minecraft:oak_door
 minecraft:oak_stairs
 minecraft:oak_trapdoor
+minecraft:oxidized_cut_copper_stairs
 minecraft:peony
 minecraft:polished_andesite_stairs
 minecraft:polished_blackstone_brick_stairs
@@ -47,7 +48,7 @@ minecraft:red_nether_brick_stairs
 minecraft:red_sandstone_stairs
 minecraft:rose_bush
 minecraft:sandstone_stairs
-minecraft:semi_weathered_cut_copper_stairs
+minecraft:small_dripleaf
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs
 minecraft:smooth_sandstone_stairs
@@ -63,6 +64,6 @@ minecraft:warped_door
 minecraft:warped_stairs
 minecraft:warped_trapdoor
 minecraft:waxed_cut_copper_stairs
-minecraft:waxed_lightly_weathered_cut_copper_stairs
-minecraft:waxed_semi_weathered_cut_copper_stairs
+minecraft:waxed_exposed_cut_copper_stairs
+minecraft:waxed_weathered_cut_copper_stairs
 minecraft:weathered_cut_copper_stairs

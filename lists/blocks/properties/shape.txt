@@ -12,13 +12,14 @@ minecraft:dark_prismarine_stairs
 minecraft:detector_rail
 minecraft:diorite_stairs
 minecraft:end_stone_brick_stairs
+minecraft:exposed_cut_copper_stairs
 minecraft:granite_stairs
 minecraft:jungle_stairs
-minecraft:lightly_weathered_cut_copper_stairs
 minecraft:mossy_cobblestone_stairs
 minecraft:mossy_stone_brick_stairs
 minecraft:nether_brick_stairs
 minecraft:oak_stairs
+minecraft:oxidized_cut_copper_stairs
 minecraft:polished_andesite_stairs
 minecraft:polished_blackstone_brick_stairs
 minecraft:polished_blackstone_stairs
@@ -33,7 +34,6 @@ minecraft:rail
 minecraft:red_nether_brick_stairs
 minecraft:red_sandstone_stairs
 minecraft:sandstone_stairs
-minecraft:semi_weathered_cut_copper_stairs
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs
 minecraft:smooth_sandstone_stairs
@@ -42,6 +42,6 @@ minecraft:stone_brick_stairs
 minecraft:stone_stairs
 minecraft:warped_stairs
 minecraft:waxed_cut_copper_stairs
-minecraft:waxed_lightly_weathered_cut_copper_stairs
-minecraft:waxed_semi_weathered_cut_copper_stairs
+minecraft:waxed_exposed_cut_copper_stairs
+minecraft:waxed_weathered_cut_copper_stairs
 minecraft:weathered_cut_copper_stairs

@@ -13,14 +13,15 @@ minecraft:dark_oak_slab
 minecraft:dark_prismarine_slab
 minecraft:diorite_slab
 minecraft:end_stone_brick_slab
+minecraft:exposed_cut_copper_slab
 minecraft:granite_slab
 minecraft:jungle_slab
-minecraft:lightly_weathered_cut_copper_slab
 minecraft:mossy_cobblestone_slab
 minecraft:mossy_stone_brick_slab
 minecraft:moving_piston
 minecraft:nether_brick_slab
 minecraft:oak_slab
+minecraft:oxidized_cut_copper_slab
 minecraft:petrified_oak_slab
 minecraft:piston_head
 minecraft:polished_andesite_slab
@@ -35,7 +36,6 @@ minecraft:quartz_slab
 minecraft:red_nether_brick_slab
 minecraft:red_sandstone_slab
 minecraft:sandstone_slab
-minecraft:semi_weathered_cut_copper_slab
 minecraft:smooth_quartz_slab
 minecraft:smooth_red_sandstone_slab
 minecraft:smooth_sandstone_slab
@@ -46,6 +46,6 @@ minecraft:stone_slab
 minecraft:trapped_chest
 minecraft:warped_slab
 minecraft:waxed_cut_copper_slab
-minecraft:waxed_lightly_weathered_cut_copper_slab
-minecraft:waxed_semi_weathered_cut_copper_slab
+minecraft:waxed_exposed_cut_copper_slab
+minecraft:waxed_weathered_cut_copper_slab
 minecraft:weathered_cut_copper_slab
