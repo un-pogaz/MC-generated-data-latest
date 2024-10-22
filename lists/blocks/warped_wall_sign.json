@@ -6,10 +6,6 @@
       "west",
       "east"
     ],
-    "lit": [
-      "true",
-      "false"
-    ],
     "waterlogged": [
       "true",
       "false"
