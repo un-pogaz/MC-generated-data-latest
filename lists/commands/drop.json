@@ -11,16 +11,6 @@
             "distribute": {
               "type": "literal",
               "children": {
-                "award": {
-                  "type": "literal",
-                  "children": {
-                    "loot_table": {
-                      "type": "argument",
-                      "parser": "minecraft:resource_location",
-                      "executable": true
-                    }
-                  }
-                },
                 "fish": {
                   "type": "literal",
                   "children": {
@@ -110,16 +100,6 @@
                   "type": "argument",
                   "parser": "minecraft:item_slot",
                   "children": {
-                    "award": {
-                      "type": "literal",
-                      "children": {
-                        "loot_table": {
-                          "type": "argument",
-                          "parser": "minecraft:resource_location",
-                          "executable": true
-                        }
-                      }
-                    },
                     "fish": {
                       "type": "literal",
                       "children": {
@@ -203,16 +183,6 @@
                     "replace": {
                       "type": "literal",
                       "children": {
-                        "award": {
-                          "type": "literal",
-                          "children": {
-                            "loot_table": {
-                              "type": "argument",
-                              "parser": "minecraft:resource_location",
-                              "executable": true
-                            }
-                          }
-                        },
                         "fish": {
                           "type": "literal",
                           "children": {
@@ -302,16 +272,6 @@
                         "min": 0
                       },
                       "children": {
-                        "award": {
-                          "type": "literal",
-                          "children": {
-                            "loot_table": {
-                              "type": "argument",
-                              "parser": "minecraft:resource_location",
-                              "executable": true
-                            }
-                          }
-                        },
                         "fish": {
                           "type": "literal",
                           "children": {
@@ -395,16 +355,6 @@
                         "replace": {
                           "type": "literal",
                           "children": {
-                            "award": {
-                              "type": "literal",
-                              "children": {
-                                "loot_table": {
-                                  "type": "argument",
-                                  "parser": "minecraft:resource_location",
-                                  "executable": true
-                                }
-                              }
-                            },
                             "fish": {
                               "type": "literal",
                               "children": {
@@ -512,16 +462,6 @@
               "type": "argument",
               "parser": "minecraft:item_slot",
               "children": {
-                "award": {
-                  "type": "literal",
-                  "children": {
-                    "loot_table": {
-                      "type": "argument",
-                      "parser": "minecraft:resource_location",
-                      "executable": true
-                    }
-                  }
-                },
                 "fish": {
                   "type": "literal",
                   "children": {
@@ -609,16 +549,6 @@
                     "min": 0
                   },
                   "children": {
-                    "award": {
-                      "type": "literal",
-                      "children": {
-                        "loot_table": {
-                          "type": "argument",
-                          "parser": "minecraft:resource_location",
-                          "executable": true
-                        }
-                      }
-                    },
                     "fish": {
                       "type": "literal",
                       "children": {
@@ -718,16 +648,6 @@
             "type": "players"
           },
           "children": {
-            "award": {
-              "type": "literal",
-              "children": {
-                "loot_table": {
-                  "type": "argument",
-                  "parser": "minecraft:resource_location",
-                  "executable": true
-                }
-              }
-            },
             "fish": {
               "type": "literal",
               "children": {
@@ -819,16 +739,6 @@
           "type": "argument",
           "parser": "minecraft:vec3",
           "children": {
-            "award": {
-              "type": "literal",
-              "children": {
-                "loot_table": {
-                  "type": "argument",
-                  "parser": "minecraft:resource_location",
-                  "executable": true
-                }
-              }
-            },
             "fish": {
               "type": "literal",
               "children": {
