@@ -1,2 +1,2 @@
-minecraft:cave_vines_body
-minecraft:cave_vines_head
+minecraft:cave_vines_plant
+minecraft:cave_vines
