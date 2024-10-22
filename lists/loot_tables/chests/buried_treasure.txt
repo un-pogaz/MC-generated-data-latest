@@ -1,3 +1,5 @@
+minecraft:heart_of_the_sea
+
 minecraft:iron_ingot
 minecraft:gold_ingot
 minecraft:tnt
