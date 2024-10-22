@@ -257,6 +257,7 @@ minecraft:block/dragon_egg
 minecraft:block/dried_kelp_bottom
 minecraft:block/dried_kelp_side
 minecraft:block/dried_kelp_top
+minecraft:block/dripstone_block
 minecraft:block/dropper_front
 minecraft:block/dropper_front_vertical
 minecraft:block/emerald_block
@@ -492,6 +493,16 @@ minecraft:block/piston_top
 minecraft:block/piston_top_sticky
 minecraft:block/podzol_side
 minecraft:block/podzol_top
+minecraft:block/pointed_dripstone_down_base
+minecraft:block/pointed_dripstone_down_frustum
+minecraft:block/pointed_dripstone_down_middle
+minecraft:block/pointed_dripstone_down_tip
+minecraft:block/pointed_dripstone_down_tip_merge
+minecraft:block/pointed_dripstone_up_base
+minecraft:block/pointed_dripstone_up_frustum
+minecraft:block/pointed_dripstone_up_middle
+minecraft:block/pointed_dripstone_up_tip
+minecraft:block/pointed_dripstone_up_tip_merge
 minecraft:block/polished_andesite
 minecraft:block/polished_basalt_side
 minecraft:block/polished_basalt_top
@@ -1771,6 +1782,7 @@ minecraft:item/phantom_membrane
 minecraft:item/piglin_banner_pattern
 minecraft:item/pink_candle
 minecraft:item/pink_dye
+minecraft:item/pointed_dripstone
 minecraft:item/poisonous_potato
 minecraft:item/popped_chorus_fruit
 minecraft:item/porkchop
