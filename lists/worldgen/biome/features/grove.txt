@@ -1,6 +1,7 @@
 []
 
-minecraft:lake_lava
+minecraft:lake_lava_underground
+minecraft:lake_lava_surface
 
 minecraft:amethyst_geode
 
@@ -48,7 +49,7 @@ minecraft:spring_lava
 minecraft:spring_lava_frozen
 
 minecraft:glow_lichen
-minecraft:grove_vegetation
+minecraft:trees_grove
 minecraft:patch_sugar_cane
 minecraft:patch_pumpkin
 
