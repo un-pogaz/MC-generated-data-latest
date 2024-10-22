@@ -1,3 +1,4 @@
+effect clear
 effect clear <targets minecraft:entity[amount="multiple", type="entities"]>
 effect clear <targets minecraft:entity[amount="multiple", type="entities"]> <effect minecraft:mob_effect>
 effect give <targets minecraft:entity[amount="multiple", type="entities"]> <effect minecraft:mob_effect>
