@@ -55,6 +55,7 @@ minecraft:blue_concrete
 minecraft:blue_concrete_powder
 minecraft:blue_coral
 minecraft:blue_coral_plant
+minecraft:blue_dead_coral
 minecraft:blue_glazed_terracotta
 minecraft:blue_orchid
 minecraft:blue_shulker_box
@@ -149,7 +150,6 @@ minecraft:dark_prismarine_slab
 minecraft:dark_prismarine_stairs
 minecraft:daylight_detector
 minecraft:dead_bush
-minecraft:dead_coral
 minecraft:detector_rail
 minecraft:diamond_block
 minecraft:diamond_ore
@@ -360,6 +360,7 @@ minecraft:pink_concrete
 minecraft:pink_concrete_powder
 minecraft:pink_coral
 minecraft:pink_coral_plant
+minecraft:pink_dead_coral
 minecraft:pink_glazed_terracotta
 minecraft:pink_shulker_box
 minecraft:pink_stained_glass
@@ -416,6 +417,7 @@ minecraft:purple_concrete
 minecraft:purple_concrete_powder
 minecraft:purple_coral
 minecraft:purple_coral_plant
+minecraft:purple_dead_coral
 minecraft:purple_glazed_terracotta
 minecraft:purple_shulker_box
 minecraft:purple_stained_glass
@@ -439,6 +441,7 @@ minecraft:red_concrete
 minecraft:red_concrete_powder
 minecraft:red_coral
 minecraft:red_coral_plant
+minecraft:red_dead_coral
 minecraft:red_glazed_terracotta
 minecraft:red_mushroom
 minecraft:red_mushroom_block
@@ -469,6 +472,7 @@ minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sea_grass
 minecraft:sea_lantern
+minecraft:shulker_box
 minecraft:sign
 minecraft:skeleton_skull
 minecraft:skeleton_wall_skull
@@ -550,6 +554,7 @@ minecraft:yellow_concrete
 minecraft:yellow_concrete_powder
 minecraft:yellow_coral
 minecraft:yellow_coral_plant
+minecraft:yellow_dead_coral
 minecraft:yellow_glazed_terracotta
 minecraft:yellow_shulker_box
 minecraft:yellow_stained_glass
