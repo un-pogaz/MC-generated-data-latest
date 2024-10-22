@@ -11,6 +11,7 @@ minecraft:chests/stronghold_corridor
 minecraft:chests/stronghold_crossing
 minecraft:chests/stronghold_library
 minecraft:chests/village_blacksmith
+minecraft:chests/woodland_mansion
 minecraft:entities/bat
 minecraft:entities/blaze
 minecraft:entities/cave_spider
@@ -21,12 +22,14 @@ minecraft:entities/donkey
 minecraft:entities/elder_guardian
 minecraft:entities/enderman
 minecraft:entities/endermite
+minecraft:entities/evocation_illager
 minecraft:entities/ghast
 minecraft:entities/giant
 minecraft:entities/guardian
 minecraft:entities/horse
 minecraft:entities/husk
 minecraft:entities/iron_golem
+minecraft:entities/llama
 minecraft:entities/magma_cube
 minecraft:entities/mule
 minecraft:entities/mushroom_cow
@@ -61,6 +64,7 @@ minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
 minecraft:entities/villager
+minecraft:entities/vindication_illager
 minecraft:entities/witch
 minecraft:entities/wither_skeleton
 minecraft:entities/wolf
