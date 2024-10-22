@@ -5,3 +5,5 @@ minecraft:prismarine_crystals
 empty
 
 minecraft:sponge
+
+loot_table[]minecraft:gameplay/fishing
