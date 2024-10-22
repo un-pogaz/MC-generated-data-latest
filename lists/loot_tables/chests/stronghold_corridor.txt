@@ -16,4 +16,5 @@ minecraft:saddle
 minecraft:iron_horse_armor
 minecraft:golden_horse_armor
 minecraft:diamond_horse_armor
+minecraft:music_disc_otherside
 minecraft:enchanted_book
