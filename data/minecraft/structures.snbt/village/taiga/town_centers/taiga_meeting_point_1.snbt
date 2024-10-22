@@ -133,6 +133,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/iron_golem",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [6, 0, 4],
+      state: 3
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/taiga/houses",
         final_state: "minecraft:air",
         id: "minecraft:jigsaw",
@@ -1231,10 +1241,6 @@
     },
     {
       pos: [5, 0, 4],
-      state: 9
-    },
-    {
-      pos: [6, 0, 4],
       state: 9
     },
     {
@@ -4936,5 +4942,5 @@
       Name: "minecraft:spruce_trapdoor"
     }
   ],
-  DataVersion: 1930
+  DataVersion: 1931
 }

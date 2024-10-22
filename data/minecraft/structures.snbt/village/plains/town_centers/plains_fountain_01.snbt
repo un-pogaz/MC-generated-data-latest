@@ -207,6 +207,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/iron_golem",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [0, 0, 6],
+      state: 2
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/common/cats",
         final_state: "minecraft:grass_path",
         id: "minecraft:jigsaw",
@@ -474,10 +484,6 @@
       state: 10
     },
     {
-      pos: [0, 0, 6],
-      state: 8
-    },
-    {
       pos: [1, 0, 6],
       state: 8
     },
@@ -647,5 +653,5 @@
       Name: "minecraft:water"
     }
   ],
-  DataVersion: 1930
+  DataVersion: 1931
 }
