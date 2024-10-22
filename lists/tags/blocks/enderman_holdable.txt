@@ -1,8 +1,6 @@
 #minecraft:small_flowers
+#minecraft:dirt
 minecraft:grass_block
-minecraft:dirt
-minecraft:coarse_dirt
-minecraft:podzol
 minecraft:sand
 minecraft:red_sand
 minecraft:gravel

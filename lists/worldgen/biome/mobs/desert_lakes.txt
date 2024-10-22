@@ -1,6 +1,8 @@
+minecraft:axolotl
 minecraft:bat
 minecraft:creeper
 minecraft:enderman
+minecraft:glow_squid
 minecraft:husk
 minecraft:rabbit
 minecraft:skeleton
