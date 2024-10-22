@@ -582,6 +582,8 @@ minecraft:potted_warped_fungus
 minecraft:potted_warped_roots
 minecraft:potted_white_tulip
 minecraft:potted_wither_rose
+minecraft:powder_snow
+minecraft:powder_snow_cauldron
 minecraft:powered_rail
 minecraft:prismarine
 minecraft:prismarine_brick_slab
@@ -897,6 +899,7 @@ minecraft:zombie_wall_head
 #minecraft:signs
 #minecraft:slabs
 #minecraft:small_flowers
+#minecraft:snow_step_sound_blocks
 #minecraft:soul_fire_base_blocks
 #minecraft:soul_speed_blocks
 #minecraft:spruce_logs
