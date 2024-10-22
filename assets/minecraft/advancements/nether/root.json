@@ -3,15 +3,19 @@
         "icon": {
             "item": "minecraft:nether_wart"
         },
-        "title": "Nether",
-        "description": "Bring summer clothes",
+        "title": {
+            "translate": "advancements.nether.root.title"
+        },
+        "description": {
+            "translate": "advancements.nether.root.description"
+        },
         "background": "minecraft:textures/gui/advancements/backgrounds/nether.png"
     },
     "criteria": {
-        "entered_nether_portal": {
-            "trigger": "minecraft:enter_block",
+        "entered_nether": {
+            "trigger": "minecraft:changed_dimension",
             "conditions": {
-                "block": "minecraft:portal"
+                "to": "the_nether"
             }
         }
     }

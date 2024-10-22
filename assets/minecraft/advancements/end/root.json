@@ -3,15 +3,19 @@
         "icon": {
             "item": "minecraft:end_stone"
         },
-        "title": "The End",
-        "description": "Or the beginning?",
+        "title": {
+            "translate": "advancements.end.root.title"
+        },
+        "description": {
+            "translate": "advancements.end.root.description"
+        },
         "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
     },
     "criteria": {
-        "entered_end_portal": {
-            "trigger": "minecraft:enter_block",
+        "entered_end": {
+            "trigger": "minecraft:changed_dimension",
             "conditions": {
-                "block": "minecraft:end_portal"
+                "to": "the_end"
             }
         }
     }

@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:diamond_boots"
         },
-        "title": "Adventuring Time",
-        "description": "Discover every biome",
+        "title": {
+            "translate": "advancements.adventure.adventuring_time.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.adventuring_time.description"
+        },
         "frame": "challenge"
     },
     "parent": "adventure/sleep_in_bed",

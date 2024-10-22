@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:beacon"
         },
-        "title": "Bring Home the Beacon",
-        "description": "Construct and place a Beacon"
+        "title": {
+            "translate": "advancements.nether.create_beacon.title"
+        },
+        "description": {
+            "translate": "advancements.nether.create_beacon.description"
+        }
     },
     "parent": "minecraft:nether/summon_wither",
     "criteria": {
