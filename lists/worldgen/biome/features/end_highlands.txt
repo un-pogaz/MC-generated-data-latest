@@ -1,0 +1,17 @@
+[]
+
+[]
+
+[]
+
+[]
+
+minecraft:end_gateway
+
+[]
+
+[]
+
+[]
+
+minecraft:chorus_plant
