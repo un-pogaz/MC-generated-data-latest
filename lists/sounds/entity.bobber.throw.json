@@ -1,6 +1,6 @@
 {
   "sounds": [
-    "random/bow"
+    "entity/bobber/castfast"
   ],
   "subtitle": "subtitles.entity.bobber.throw"
 }

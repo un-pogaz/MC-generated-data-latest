@@ -35,6 +35,7 @@ minecraft:entities/magma_cube
 minecraft:entities/mule
 minecraft:entities/mushroom_cow
 minecraft:entities/ocelot
+minecraft:entities/parrot
 minecraft:entities/pig
 minecraft:entities/polar_bear
 minecraft:entities/rabbit

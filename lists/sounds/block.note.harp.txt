@@ -1,1 +1,1 @@
-minecraft:note/harp
+minecraft:note/harp2
