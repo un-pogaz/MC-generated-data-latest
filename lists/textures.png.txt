@@ -721,8 +721,8 @@ minecraft:entity/conduit/break_particle
 minecraft:entity/conduit/cage
 minecraft:entity/conduit/closed_eye
 minecraft:entity/conduit/open_eye
-minecraft:entity/conduit/wind
-minecraft:entity/conduit/wind_vertical
+minecraft:entity/conduit/wind  [mcmeta]
+minecraft:entity/conduit/wind_vertical  [mcmeta]
 minecraft:entity/cow/brown_mooshroom
 minecraft:entity/cow/cow
 minecraft:entity/cow/red_mooshroom
