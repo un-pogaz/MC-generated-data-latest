@@ -142,7 +142,6 @@ minecraft:village/desert/desert_lamp_1
 minecraft:village/desert/houses/desert_animal_pen_1
 minecraft:village/desert/houses/desert_animal_pen_2
 minecraft:village/desert/houses/desert_armorer_1
-minecraft:village/desert/houses/desert_blacksmith_1
 minecraft:village/desert/houses/desert_butcher_shop_1
 minecraft:village/desert/houses/desert_cartographer_house_1
 minecraft:village/desert/houses/desert_farm_1
@@ -412,7 +411,6 @@ minecraft:village/snowy/town_centers/snowy_meeting_point_3
 minecraft:village/taiga/houses/taiga_animal_pen_1
 minecraft:village/taiga/houses/taiga_armorer_2
 minecraft:village/taiga/houses/taiga_armorer_house_1
-minecraft:village/taiga/houses/taiga_armorer_house_2
 minecraft:village/taiga/houses/taiga_butcher_shop_1
 minecraft:village/taiga/houses/taiga_cartographer_house_1
 minecraft:village/taiga/houses/taiga_decoration_1
@@ -467,7 +465,6 @@ minecraft:village/taiga/taiga_decoration_6
 minecraft:village/taiga/taiga_lamp_post_1
 minecraft:village/taiga/town_centers/taiga_meeting_point_1
 minecraft:village/taiga/town_centers/taiga_meeting_point_2
-minecraft:village/taiga/zombie/houses/taiga_armorer_house_2
 minecraft:village/taiga/zombie/houses/taiga_cartographer_house_1
 minecraft:village/taiga/zombie/houses/taiga_fisher_cottage_1
 minecraft:village/taiga/zombie/houses/taiga_large_farm_2
