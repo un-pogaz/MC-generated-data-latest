@@ -52,6 +52,8 @@ gamerule mobGriefing
 gamerule mobGriefing <value brigadier:bool>
 gamerule naturalRegeneration
 gamerule naturalRegeneration <value brigadier:bool>
+gamerule playersSleepingPercentage
+gamerule playersSleepingPercentage <value brigadier:integer>
 gamerule randomTickSpeed
 gamerule randomTickSpeed <value brigadier:integer>
 gamerule reducedDebugInfo
