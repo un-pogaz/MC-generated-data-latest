@@ -514,6 +514,7 @@ minecraft:block/oak_stairs
 minecraft:block/oak_wall_gate_closed
 minecraft:block/oak_wall_gate_open
 minecraft:block/observer
+minecraft:block/observer_powered
 minecraft:block/obsidian
 minecraft:block/orange_stained_glass_pane_noside
 minecraft:block/orange_stained_glass_pane_noside_alt
