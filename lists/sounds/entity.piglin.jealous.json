@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin/jealous1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/piglin/jealous2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/piglin/jealous3",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/piglin/jealous4",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/piglin/jealous5",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin.jealous"
+}

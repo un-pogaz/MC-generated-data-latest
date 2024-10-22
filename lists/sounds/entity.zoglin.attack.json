@@ -1,0 +1,23 @@
+{
+  "sounds": [
+    {
+      "name": "mob/zoglin/attack1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/zoglin/attack2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/zoglin/attack1",
+      "volume": 0.8,
+      "pitch": 0.8
+    },
+    {
+      "name": "mob/zoglin/attack2",
+      "volume": 0.8,
+      "pitch": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.zoglin.attack"
+}

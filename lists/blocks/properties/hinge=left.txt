@@ -1,7 +1,9 @@
 minecraft:acacia_door
 minecraft:birch_door
+minecraft:crimson_door
 minecraft:dark_oak_door
 minecraft:iron_door
 minecraft:jungle_door
 minecraft:oak_door
 minecraft:spruce_door
+minecraft:warped_door

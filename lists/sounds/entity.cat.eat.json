@@ -8,5 +8,6 @@
       "name": "mob/cat/eat2",
       "volume": 1
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.cat.eat"
 }

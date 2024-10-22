@@ -1,0 +1,4 @@
+minecraft:block/lodestone/lock1
+minecraft:block/lodestone/lock2
+minecraft:block/lodestone/lock1
+minecraft:block/lodestone/lock2

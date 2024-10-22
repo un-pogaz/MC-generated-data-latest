@@ -1,1 +1,2 @@
 minecraft:kelp
+minecraft:weeping_vines

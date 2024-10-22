@@ -1,0 +1,4 @@
+minecraft:mob/piglin/death1
+minecraft:mob/piglin/death2
+minecraft:mob/piglin/death3
+minecraft:mob/piglin/death4

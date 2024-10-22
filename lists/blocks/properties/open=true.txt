@@ -5,6 +5,9 @@ minecraft:barrel
 minecraft:birch_door
 minecraft:birch_fence_gate
 minecraft:birch_trapdoor
+minecraft:crimson_door
+minecraft:crimson_fence_gate
+minecraft:crimson_trapdoor
 minecraft:dark_oak_door
 minecraft:dark_oak_fence_gate
 minecraft:dark_oak_trapdoor
@@ -19,3 +22,6 @@ minecraft:oak_trapdoor
 minecraft:spruce_door
 minecraft:spruce_fence_gate
 minecraft:spruce_trapdoor
+minecraft:warped_door
+minecraft:warped_fence_gate
+minecraft:warped_trapdoor

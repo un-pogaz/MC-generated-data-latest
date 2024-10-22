@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/zombified_piglin/zpigdeath"
+  ],
+  "subtitle": "subtitles.entity.zombified_piglin.death"
+}

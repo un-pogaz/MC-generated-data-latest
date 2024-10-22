@@ -3405,11 +3405,11 @@
     },
     {
       Properties: {
-        east: "false",
+        east: "none",
         waterlogged: "false",
-        south: "false",
-        north: "true",
-        west: "false",
+        south: "none",
+        north: "low",
+        west: "none",
         up: "true"
       },
       Name: "minecraft:cobblestone_wall"
@@ -3522,5 +3522,5 @@
       Name: "minecraft:cobblestone_stairs"
     }
   ],
-  DataVersion: 2230
+  DataVersion: 2504
 }

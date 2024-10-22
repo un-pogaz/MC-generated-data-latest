@@ -9303,22 +9303,22 @@
     },
     {
       Properties: {
-        east: "false",
+        east: "none",
         waterlogged: "false",
-        south: "false",
-        north: "false",
-        west: "true",
+        south: "none",
+        north: "none",
+        west: "low",
         up: "true"
       },
       Name: "minecraft:cobblestone_wall"
     },
     {
       Properties: {
-        east: "false",
+        east: "none",
         waterlogged: "false",
-        south: "false",
-        north: "true",
-        west: "true",
+        south: "none",
+        north: "low",
+        west: "low",
         up: "true"
       },
       Name: "minecraft:cobblestone_wall"
@@ -9414,5 +9414,5 @@
       Name: "minecraft:dark_oak_stairs"
     }
   ],
-  DataVersion: 2230
+  DataVersion: 2504
 }

@@ -1,0 +1,6 @@
+minecraft:block/shroomlight/step1
+minecraft:block/shroomlight/step2
+minecraft:block/shroomlight/step3
+minecraft:block/shroomlight/step4
+minecraft:block/shroomlight/step5
+minecraft:block/shroomlight/step6

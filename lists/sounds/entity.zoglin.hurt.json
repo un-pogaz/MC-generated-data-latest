@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/zoglin/hurt1",
+      "volume": 0.83
+    },
+    {
+      "name": "mob/zoglin/hurt2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/zoglin/hurt3",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.zoglin.hurt"
+}

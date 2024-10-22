@@ -1,0 +1,5 @@
+minecraft:entity/horse/eat1
+minecraft:entity/horse/eat2
+minecraft:entity/horse/eat3
+minecraft:entity/horse/eat4
+minecraft:entity/horse/eat5

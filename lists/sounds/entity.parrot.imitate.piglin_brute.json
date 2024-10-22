@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.piglin_brute.ambient",
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.piglin_brute"
+}

@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/chain/step1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/chain/step2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/chain/step3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/chain/step4",
+      "volume": 0.8
+    },
+    {
+      "name": "block/chain/step5",
+      "volume": 0.8
+    },
+    {
+      "name": "block/chain/step6",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}
