@@ -95,8 +95,9 @@ minecraft:block/carrots_stage0
 minecraft:block/carrots_stage1
 minecraft:block/carrots_stage2
 minecraft:block/carrots_stage3
-minecraft:block/cartography_table_front
-minecraft:block/cartography_table_side
+minecraft:block/cartography_table_side1
+minecraft:block/cartography_table_side2
+minecraft:block/cartography_table_side3
 minecraft:block/cartography_table_top
 minecraft:block/carved_pumpkin
 minecraft:block/cauldron_bottom
@@ -284,6 +285,9 @@ minecraft:block/iron_ore
 minecraft:block/iron_trapdoor
 minecraft:block/item_frame
 minecraft:block/jack_o_lantern
+minecraft:block/jigsaw_bottom
+minecraft:block/jigsaw_side
+minecraft:block/jigsaw_top
 minecraft:block/jukebox_side
 minecraft:block/jukebox_top
 minecraft:block/jungle_door_bottom
@@ -297,6 +301,7 @@ minecraft:block/jungle_trapdoor
 minecraft:block/kelp  [mcmeta]
 minecraft:block/kelp_plant  [mcmeta]
 minecraft:block/ladder
+minecraft:block/lantern  [mcmeta]
 minecraft:block/lapis_block
 minecraft:block/lapis_ore
 minecraft:block/large_fern_bottom
@@ -489,6 +494,7 @@ minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
 minecraft:block/shulker_box
 minecraft:block/slime_block
+minecraft:block/smithing_table_bottom
 minecraft:block/smithing_table_front
 minecraft:block/smithing_table_side
 minecraft:block/smithing_table_top
@@ -514,7 +520,7 @@ minecraft:block/spruce_trapdoor
 minecraft:block/stone
 minecraft:block/stone_bricks
 minecraft:block/stonecutter_bottom
-minecraft:block/stonecutter_saw
+minecraft:block/stonecutter_saw  [mcmeta]
 minecraft:block/stonecutter_side
 minecraft:block/stonecutter_top
 minecraft:block/stripped_acacia_log
@@ -1459,6 +1465,7 @@ minecraft:item/jungle_door
 minecraft:item/jungle_sign
 minecraft:item/kelp
 minecraft:item/knowledge_book
+minecraft:item/lantern
 minecraft:item/lapis_lazuli
 minecraft:item/lava_bucket
 minecraft:item/lead
