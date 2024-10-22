@@ -5,7 +5,7 @@ minecraft:entrance_replacement
 minecraft:farm_desert
 minecraft:farm_plains
 minecraft:farm_savanna
-minecraft:farm_snovy
+minecraft:farm_snowy
 minecraft:farm_taiga
 minecraft:high_rampart
 minecraft:high_wall
@@ -19,10 +19,10 @@ minecraft:side_wall_degradation
 minecraft:stable_degradation
 minecraft:street_plains
 minecraft:street_savanna
-minecraft:street_snovy_or_taiga
+minecraft:street_snowy_or_taiga
 minecraft:treasure_rooms
 minecraft:zombie_desert
 minecraft:zombie_plains
 minecraft:zombie_savanna
-minecraft:zombie_snovy
+minecraft:zombie_snowy
 minecraft:zombie_taiga
