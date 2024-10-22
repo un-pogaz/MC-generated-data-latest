@@ -1,0 +1,11 @@
+minecraft:iron_nugget
+minecraft:fern
+minecraft:large_fern
+minecraft:potato
+minecraft:bread
+minecraft:pumpkin_seeds
+minecraft:pumpkin_pie
+minecraft:emerald
+minecraft:spruce_sapling
+minecraft:spruce_sign
+minecraft:spruce_log
