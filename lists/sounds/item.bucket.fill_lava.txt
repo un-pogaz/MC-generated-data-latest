@@ -1,3 +1,0 @@
-minecraft:item/bucket/fill_lava1
-minecraft:item/bucket/fill_lava2
-minecraft:item/bucket/fill_lava3

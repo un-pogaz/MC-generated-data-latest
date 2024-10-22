@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "block/wooden_trapdoor/close1",
-    "block/wooden_trapdoor/close2",
-    "block/wooden_trapdoor/close3"
-  ],
-  "subtitle": "subtitles.block.trapdoor.toggle"
-}

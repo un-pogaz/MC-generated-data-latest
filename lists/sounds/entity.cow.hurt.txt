@@ -1,3 +1,0 @@
-minecraft:mob/cow/hurt1
-minecraft:mob/cow/hurt2
-minecraft:mob/cow/hurt3

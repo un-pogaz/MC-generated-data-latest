@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "mob/wolf/hurt1",
-    "mob/wolf/hurt2",
-    "mob/wolf/hurt3"
-  ],
-  "subtitle": "subtitles.entity.wolf.hurt"
-}

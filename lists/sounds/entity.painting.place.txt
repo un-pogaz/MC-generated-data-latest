@@ -1,4 +1,0 @@
-minecraft:entity/painting/place1
-minecraft:entity/painting/place2
-minecraft:entity/painting/place3
-minecraft:entity/painting/place4
