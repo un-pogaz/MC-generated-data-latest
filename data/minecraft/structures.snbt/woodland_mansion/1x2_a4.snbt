@@ -3377,8 +3377,7 @@
             id: "minecraft:dark_oak_sapling"
           }
         ],
-        id: "minecraft:chest",
-        Lock: ""
+        id: "minecraft:chest"
       },
       pos: [6, 1, 5],
       state: 9
@@ -3436,5 +3435,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }

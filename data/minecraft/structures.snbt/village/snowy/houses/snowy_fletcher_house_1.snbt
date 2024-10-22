@@ -2016,6 +2016,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:spruce_stairs[facing=east]",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -2164,5 +2165,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }
