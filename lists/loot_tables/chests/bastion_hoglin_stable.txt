@@ -1,4 +1,4 @@
-minecraft:netherite_shovel
+minecraft:diamond_shovel
 minecraft:netherite_scrap
 minecraft:ancient_debris
 minecraft:saddle
