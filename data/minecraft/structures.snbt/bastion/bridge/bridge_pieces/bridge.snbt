@@ -20798,6 +20798,9 @@
       Name: "minecraft:lantern"
     },
     {
+      Properties: {
+        waterlogged: "false"
+      },
       Name: "minecraft:chain"
     },
     {
@@ -20911,5 +20914,5 @@
       Name: "minecraft:smooth_quartz_slab"
     }
   ],
-  DataVersion: 2529
+  DataVersion: 2532
 }
