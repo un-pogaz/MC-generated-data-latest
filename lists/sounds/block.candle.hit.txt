@@ -1,0 +1,5 @@
+minecraft:block/candle/step1
+minecraft:block/candle/step2
+minecraft:block/candle/step3
+minecraft:block/candle/step4
+minecraft:block/candle/step5

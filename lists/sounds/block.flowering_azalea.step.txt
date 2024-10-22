@@ -1,0 +1,6 @@
+minecraft:block/azalea/step1
+minecraft:block/azalea/step2
+minecraft:block/azalea/step3
+minecraft:block/azalea/step4
+minecraft:block/azalea/step5
+minecraft:block/azalea/step6

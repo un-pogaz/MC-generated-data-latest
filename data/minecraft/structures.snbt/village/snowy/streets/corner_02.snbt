@@ -2074,7 +2074,7 @@
   ],
   palette: [
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:air"
@@ -2092,5 +2092,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2584
+  DataVersion: 2681
 }

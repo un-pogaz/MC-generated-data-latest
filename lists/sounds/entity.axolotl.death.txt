@@ -1,0 +1,2 @@
+minecraft:mob/axolotl/death1
+minecraft:mob/axolotl/death2
