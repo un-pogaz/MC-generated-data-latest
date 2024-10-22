@@ -1,37 +1,13 @@
 {
   "sounds": [
-    {
-      "name": "mob/ravager/idle1",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/idle2",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/idle3",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/idle4",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/idle5",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/idle6",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/idle7",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/idle8",
-      "volume": 1
-    }
+    "mob/ravager/idle1",
+    "mob/ravager/idle2",
+    "mob/ravager/idle3",
+    "mob/ravager/idle4",
+    "mob/ravager/idle5",
+    "mob/ravager/idle6",
+    "mob/ravager/idle7",
+    "mob/ravager/idle8"
   ],
   "subtitle": "subtitles.entity.ravager.ambient"
 }

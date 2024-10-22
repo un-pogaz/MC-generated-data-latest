@@ -1,17 +1,8 @@
 {
   "sounds": [
-    {
-      "name": "mob/pillager/hurt1",
-      "volume": 1
-    },
-    {
-      "name": "mob/pillager/hurt2",
-      "volume": 1
-    },
-    {
-      "name": "mob/pillager/hurt3",
-      "volume": 1
-    }
+    "mob/pillager/hurt1",
+    "mob/pillager/hurt2",
+    "mob/pillager/hurt3"
   ],
   "subtitle": "subtitles.entity.pillager.hurt"
 }

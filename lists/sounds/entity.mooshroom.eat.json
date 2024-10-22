@@ -1,48 +1,36 @@
 {
   "sounds": [
+    "mob/mooshroom/eat1",
     {
       "name": "mob/mooshroom/eat1",
-      "volume": 1
+      "pitch": 0.95
+    },
+    {
+      "name": "mob/mooshroom/eat1",
+      "pitch": 1.05
+    },
+    "mob/mooshroom/eat2",
+    {
+      "name": "mob/mooshroom/eat2",
+      "pitch": 0.95
     },
     {
       "name": "mob/mooshroom/eat2",
-      "volume": 1
+      "pitch": 1.05
+    },
+    "mob/mooshroom/eat3",
+    {
+      "name": "mob/mooshroom/eat3",
+      "pitch": 0.95
     },
     {
       "name": "mob/mooshroom/eat3",
-      "volume": 1
+      "pitch": 1.05
     },
+    "mob/mooshroom/eat4",
     {
       "name": "mob/mooshroom/eat4",
-      "volume": 1
-    },
-    {
-      "name": "mob/mooshroom/eat1",
       "pitch": 0.95
-    },
-    {
-      "name": "mob/mooshroom/eat2",
-      "pitch": 0.95
-    },
-    {
-      "name": "mob/mooshroom/eat3",
-      "pitch": 0.95
-    },
-    {
-      "name": "mob/mooshroom/eat4",
-      "pitch": 0.95
-    },
-    {
-      "name": "mob/mooshroom/eat1",
-      "pitch": 1.05
-    },
-    {
-      "name": "mob/mooshroom/eat2",
-      "pitch": 1.05
-    },
-    {
-      "name": "mob/mooshroom/eat3",
-      "pitch": 1.05
     },
     {
       "name": "mob/mooshroom/eat4",
