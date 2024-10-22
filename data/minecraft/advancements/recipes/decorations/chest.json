@@ -6,28 +6,27 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "chest"
-      }
-    },
     "has_lots_of_items": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "items": [],
         "slots": {
           "occupied": {
-            "min": 10
+            "min": 10.0
           }
         }
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:chest"
       }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_lots_of_items"
+      "has_lots_of_items",
+      "has_the_recipe"
     ]
   ]
 }

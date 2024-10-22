@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "bone_meal_from_bone"
+        "recipe": "minecraft:bone_meal_from_bone"
       }
     }
   },

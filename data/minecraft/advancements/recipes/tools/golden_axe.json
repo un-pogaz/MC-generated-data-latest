@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "golden_axe"
+        "recipe": "minecraft:golden_axe"
       }
     }
   },

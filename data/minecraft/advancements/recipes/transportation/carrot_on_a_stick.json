@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "carrot_on_a_stick"
-      }
-    },
     "has_carrot": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:carrot_on_a_stick"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_carrot"
+      "has_carrot",
+      "has_the_recipe"
     ]
   ]
 }

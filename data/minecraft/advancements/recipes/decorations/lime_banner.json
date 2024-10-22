@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "lime_banner"
-      }
-    },
     "has_lime_wool": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:lime_banner"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_lime_wool"
+      "has_lime_wool",
+      "has_the_recipe"
     ]
   ]
 }
