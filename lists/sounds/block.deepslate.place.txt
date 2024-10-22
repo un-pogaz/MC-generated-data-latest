@@ -1,6 +1,0 @@
-minecraft:block/deepslate/place1
-minecraft:block/deepslate/place2
-minecraft:block/deepslate/place3
-minecraft:block/deepslate/place4
-minecraft:block/deepslate/place5
-minecraft:block/deepslate/place6

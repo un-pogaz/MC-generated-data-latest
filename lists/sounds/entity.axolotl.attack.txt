@@ -1,4 +1,0 @@
-minecraft:mob/axolotl/attack1
-minecraft:mob/axolotl/attack2
-minecraft:mob/axolotl/attack3
-minecraft:mob/axolotl/attack4

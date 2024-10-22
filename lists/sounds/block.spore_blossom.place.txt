@@ -1,5 +1,0 @@
-minecraft:block/spore_blossom/break1
-minecraft:block/spore_blossom/break2
-minecraft:block/spore_blossom/break3
-minecraft:block/spore_blossom/break4
-minecraft:block/spore_blossom/break5

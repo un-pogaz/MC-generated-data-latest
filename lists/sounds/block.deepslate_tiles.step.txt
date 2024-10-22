@@ -1,5 +1,0 @@
-minecraft:block/deepslate_bricks/step1
-minecraft:block/deepslate_bricks/step2
-minecraft:block/deepslate_bricks/step3
-minecraft:block/deepslate_bricks/step4
-minecraft:block/deepslate_bricks/step5

@@ -2519,7 +2519,7 @@
       Name: "minecraft:spruce_door"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Properties: {
@@ -2770,5 +2770,5 @@
       Name: "minecraft:blue_bed"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }
