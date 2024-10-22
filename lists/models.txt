@@ -92,6 +92,7 @@ minecraft:block/blue_carpet
 minecraft:block/blue_concrete
 minecraft:block/blue_concrete_powder
 minecraft:block/blue_coral
+minecraft:block/blue_coral_plant
 minecraft:block/blue_glazed_terracotta
 minecraft:block/blue_orchid
 minecraft:block/blue_stained_glass
@@ -588,6 +589,7 @@ minecraft:block/pink_carpet
 minecraft:block/pink_concrete
 minecraft:block/pink_concrete_powder
 minecraft:block/pink_coral
+minecraft:block/pink_coral_plant
 minecraft:block/pink_glazed_terracotta
 minecraft:block/pink_stained_glass
 minecraft:block/pink_stained_glass_pane_noside
@@ -672,6 +674,7 @@ minecraft:block/purple_carpet
 minecraft:block/purple_concrete
 minecraft:block/purple_concrete_powder
 minecraft:block/purple_coral
+minecraft:block/purple_coral_plant
 minecraft:block/purple_glazed_terracotta
 minecraft:block/purple_stained_glass
 minecraft:block/purple_stained_glass_pane_noside
@@ -705,6 +708,7 @@ minecraft:block/red_carpet
 minecraft:block/red_concrete
 minecraft:block/red_concrete_powder
 minecraft:block/red_coral
+minecraft:block/red_coral_plant
 minecraft:block/red_glazed_terracotta
 minecraft:block/red_mushroom
 minecraft:block/red_mushroom_block
@@ -956,6 +960,7 @@ minecraft:block/yellow_carpet
 minecraft:block/yellow_concrete
 minecraft:block/yellow_concrete_powder
 minecraft:block/yellow_coral
+minecraft:block/yellow_coral_plant
 minecraft:block/yellow_glazed_terracotta
 minecraft:block/yellow_stained_glass
 minecraft:block/yellow_stained_glass_pane_noside
@@ -1030,6 +1035,7 @@ minecraft:item/blue_carpet
 minecraft:item/blue_concrete
 minecraft:item/blue_concrete_powder
 minecraft:item/blue_coral
+minecraft:item/blue_coral_plant
 minecraft:item/blue_glazed_terracotta
 minecraft:item/blue_orchid
 minecraft:item/blue_shulker_box
@@ -1162,6 +1168,7 @@ minecraft:item/clock_61
 minecraft:item/clock_62
 minecraft:item/clock_63
 minecraft:item/clownfish
+minecraft:item/clownfish_bucket
 minecraft:item/coal
 minecraft:item/coal_block
 minecraft:item/coal_ore
@@ -1581,6 +1588,7 @@ minecraft:item/pink_carpet
 minecraft:item/pink_concrete
 minecraft:item/pink_concrete_powder
 minecraft:item/pink_coral
+minecraft:item/pink_coral_plant
 minecraft:item/pink_dye
 minecraft:item/pink_glazed_terracotta
 minecraft:item/pink_shulker_box
@@ -1622,6 +1630,7 @@ minecraft:item/purple_carpet
 minecraft:item/purple_concrete
 minecraft:item/purple_concrete_powder
 minecraft:item/purple_coral
+minecraft:item/purple_coral_plant
 minecraft:item/purple_dye
 minecraft:item/purple_glazed_terracotta
 minecraft:item/purple_shulker_box
@@ -1650,6 +1659,7 @@ minecraft:item/red_carpet
 minecraft:item/red_concrete
 minecraft:item/red_concrete_powder
 minecraft:item/red_coral
+minecraft:item/red_coral_plant
 minecraft:item/red_glazed_terracotta
 minecraft:item/red_mushroom
 minecraft:item/red_mushroom_block
@@ -1769,8 +1779,10 @@ minecraft:item/torch
 minecraft:item/totem_of_undying
 minecraft:item/trapped_chest
 minecraft:item/trident
+minecraft:item/trident_in_hand
 minecraft:item/trident_throwing
 minecraft:item/tripwire_hook
+minecraft:item/tropical_fish_spawn_egg
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
 minecraft:item/turtle_spawn_egg
@@ -1811,6 +1823,7 @@ minecraft:item/yellow_carpet
 minecraft:item/yellow_concrete
 minecraft:item/yellow_concrete_powder
 minecraft:item/yellow_coral
+minecraft:item/yellow_coral_plant
 minecraft:item/yellow_glazed_terracotta
 minecraft:item/yellow_shulker_box
 minecraft:item/yellow_stained_glass
