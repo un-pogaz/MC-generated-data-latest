@@ -5,6 +5,7 @@ minecraft:lake_lava
 
 []
 
+minecraft:amethyst_geode
 minecraft:monster_room
 
 []
@@ -22,6 +23,7 @@ minecraft:ore_gold
 minecraft:ore_redstone
 minecraft:ore_diamond
 minecraft:ore_lapis
+minecraft:ore_copper
 minecraft:disk_sand
 minecraft:disk_clay
 minecraft:disk_gravel
@@ -30,6 +32,7 @@ minecraft:disk_gravel
 
 minecraft:patch_tall_grass_2
 minecraft:patch_sunflower
+minecraft:glow_lichen
 minecraft:plain_vegetation
 minecraft:flower_plain_decorated
 minecraft:patch_grass_plain

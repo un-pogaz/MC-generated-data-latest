@@ -1,0 +1,4 @@
+minecraft:block/copper/break1
+minecraft:block/copper/break2
+minecraft:block/copper/break3
+minecraft:block/copper/break4

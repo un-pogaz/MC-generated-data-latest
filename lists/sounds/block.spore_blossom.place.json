@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/spore_blossom/break1",
+    "block/spore_blossom/break2",
+    "block/spore_blossom/break3",
+    "block/spore_blossom/break4",
+    "block/spore_blossom/break5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}
