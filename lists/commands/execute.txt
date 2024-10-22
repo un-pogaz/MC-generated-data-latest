@@ -27,9 +27,9 @@ execute if score <target minecraft:score_holder[amount="single"]> <targetObjecti
 execute in overworld >>redirect{execute}
 execute in the_end >>redirect{execute}
 execute in the_nether >>redirect{execute}
-execute positioned as <entities minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
+execute positioned as <targets minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
 execute positioned <pos minecraft:vec3> >>redirect{execute}
-execute rotated as <entities minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
+execute rotated as <targets minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
 execute rotated <rot minecraft:rotation> >>redirect{execute}
 execute run >>redirect{*}
 execute store result block <pos minecraft:block_pos> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}

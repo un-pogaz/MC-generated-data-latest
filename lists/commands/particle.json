@@ -64,7 +64,8 @@
                 }
               }
             }
-          }
+          },
+          "executable": true
         }
       },
       "executable": true
