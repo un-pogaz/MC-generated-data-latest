@@ -29,6 +29,7 @@ minecraft:entities/magma_cube
 minecraft:entities/mushroom_cow
 minecraft:entities/ocelot
 minecraft:entities/pig
+minecraft:entities/polar_bear
 minecraft:entities/rabbit
 minecraft:entities/sheep
 minecraft:entities/sheep/black
@@ -55,6 +56,7 @@ minecraft:entities/slime
 minecraft:entities/snowman
 minecraft:entities/spider
 minecraft:entities/squid
+minecraft:entities/stray
 minecraft:entities/witch
 minecraft:entities/wither_skeleton
 minecraft:entities/wolf

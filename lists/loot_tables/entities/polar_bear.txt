@@ -1,0 +1,2 @@
+minecraft:fish
+minecraft:fish
