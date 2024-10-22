@@ -19,3 +19,6 @@ minecraft:endcity/tower_base
 minecraft:endcity/tower_floor
 minecraft:endcity/tower_piece
 minecraft:endcity/tower_top
+minecraft:igloo/igloo_bottom
+minecraft:igloo/igloo_middle
+minecraft:igloo/igloo_top

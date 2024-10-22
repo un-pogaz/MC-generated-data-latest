@@ -1,0 +1,4 @@
+minecraft:enchant/thorns/hit1
+minecraft:enchant/thorns/hit2
+minecraft:enchant/thorns/hit3
+minecraft:enchant/thorns/hit4

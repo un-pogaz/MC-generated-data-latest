@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "item/bottle/fill_dragonbreath1",
+    "item/bottle/fill_dragonbreath2"
+  ],
+  "subtitle": "subtitles.item.bottle.fill"
+}

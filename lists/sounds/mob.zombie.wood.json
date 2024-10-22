@@ -1,9 +1,0 @@
-{
-  "category": "hostile",
-  "sounds": [
-    "mob/zombie/wood1",
-    "mob/zombie/wood2",
-    "mob/zombie/wood3",
-    "mob/zombie/wood4"
-  ]
-}

@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "block/fence_gate/open1",
+    "block/fence_gate/open2"
+  ],
+  "subtitle": "subtitles.block.fence_gate.toggle"
+}

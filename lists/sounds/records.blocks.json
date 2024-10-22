@@ -1,9 +1,0 @@
-{
-  "category": "record",
-  "sounds": [
-    {
-      "name": "records/blocks",
-      "stream": true
-    }
-  ]
-}
