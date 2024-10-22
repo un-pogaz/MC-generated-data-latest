@@ -3,5 +3,5 @@
     "mob/evocation_illager/cast1",
     "mob/evocation_illager/cast2"
   ],
-  "subtitles": "subtitles.entity.illusioner.cast_spell"
+  "subtitle": "subtitles.entity.illusioner.cast_spell"
 }
