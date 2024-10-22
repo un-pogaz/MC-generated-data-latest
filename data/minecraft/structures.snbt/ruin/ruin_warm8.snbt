@@ -349,6 +349,31 @@
       state: 3
     },
     {
+      nbt: {
+        metadata: "drowned",
+        mirror: "NONE",
+        ignoreEntities: 1b,
+        powered: 0b,
+        seed: 0L,
+        author: "LadyAgnes",
+        rotation: "NONE",
+        mode: "DATA",
+        posX: 0,
+        posY: 1,
+        sizeX: 0,
+        integrity: 1.0f,
+        posZ: 0,
+        showair: 0b,
+        name: "",
+        id: "minecraft:structure_block",
+        sizeY: 0,
+        showboundingbox: 1b,
+        sizeZ: 0
+      },
+      pos: [1, 2, 3],
+      state: 3
+    },
+    {
       pos: [5, 0, 0],
       state: 4
     },
@@ -734,10 +759,6 @@
     },
     {
       pos: [0, 2, 3],
-      state: 4
-    },
-    {
-      pos: [1, 2, 3],
       state: 4
     },
     {
@@ -1223,6 +1244,7 @@
     {
       Properties: {
         half: "bottom",
+        waterlogged: "false",
         shape: "straight",
         facing: "south"
       },
@@ -1231,11 +1253,12 @@
     {
       Properties: {
         half: "bottom",
+        waterlogged: "false",
         shape: "straight",
         facing: "north"
       },
       Name: "minecraft:sandstone_stairs"
     }
   ],
-  DataVersion: 1469
+  DataVersion: 1482
 }
