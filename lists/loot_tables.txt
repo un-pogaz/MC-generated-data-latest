@@ -60,6 +60,7 @@ minecraft:entities/snowman
 minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
+minecraft:entities/villager
 minecraft:entities/witch
 minecraft:entities/wither_skeleton
 minecraft:entities/wolf
