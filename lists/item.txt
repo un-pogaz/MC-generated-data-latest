@@ -417,6 +417,7 @@ minecraft:glow_lichen
 minecraft:glow_squid_spawn_egg
 minecraft:glowstone
 minecraft:glowstone_dust
+minecraft:goat_horn
 minecraft:goat_spawn_egg
 minecraft:gold_block
 minecraft:gold_ingot
@@ -1193,6 +1194,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:music_discs
 #minecraft:non_flammable_wood
 #minecraft:oak_logs
+#minecraft:overworld_natural_logs
 #minecraft:piglin_food
 #minecraft:piglin_loved
 #minecraft:piglin_repellents

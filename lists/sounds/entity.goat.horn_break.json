@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/goat/horn_break1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/goat/horn_break2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/goat/horn_break3",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/goat/horn_break4",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.goat.horn_break"
+}

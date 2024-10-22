@@ -1,1 +1,1 @@
-empty
+minecraft:sculk_catalyst

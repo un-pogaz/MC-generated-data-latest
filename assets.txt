@@ -1639,6 +1639,14 @@ minecraft/sounds/item/crossbow/shoot2.ogg
 minecraft/sounds/item/crossbow/shoot3.ogg
 minecraft/sounds/item/dye/dye.ogg
 minecraft/sounds/item/elytra/elytra_loop.ogg
+minecraft/sounds/item/goat_horn/call0.ogg
+minecraft/sounds/item/goat_horn/call1.ogg
+minecraft/sounds/item/goat_horn/call2.ogg
+minecraft/sounds/item/goat_horn/call3.ogg
+minecraft/sounds/item/goat_horn/call4.ogg
+minecraft/sounds/item/goat_horn/call5.ogg
+minecraft/sounds/item/goat_horn/call6.ogg
+minecraft/sounds/item/goat_horn/call7.ogg
 minecraft/sounds/item/hoe/till1.ogg
 minecraft/sounds/item/hoe/till2.ogg
 minecraft/sounds/item/hoe/till3.ogg
@@ -2070,6 +2078,10 @@ minecraft/sounds/mob/goat/death5.ogg
 minecraft/sounds/mob/goat/eat1.ogg
 minecraft/sounds/mob/goat/eat2.ogg
 minecraft/sounds/mob/goat/eat3.ogg
+minecraft/sounds/mob/goat/horn_break1.ogg
+minecraft/sounds/mob/goat/horn_break2.ogg
+minecraft/sounds/mob/goat/horn_break3.ogg
+minecraft/sounds/mob/goat/horn_break4.ogg
 minecraft/sounds/mob/goat/hurt1.ogg
 minecraft/sounds/mob/goat/hurt2.ogg
 minecraft/sounds/mob/goat/hurt3.ogg
