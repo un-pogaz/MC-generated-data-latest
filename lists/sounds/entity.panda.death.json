@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/panda/death1",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/panda/death2",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/panda/death3",
+      "volume": 0.82
+    },
+    {
+      "name": "mob/panda/death4",
+      "volume": 0.82
+    }
+  ],
+  "subtitle": "subtitles.entity.panda.death"
+}

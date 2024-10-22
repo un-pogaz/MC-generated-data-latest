@@ -1,0 +1,3 @@
+minecraft:mob/fox/spit1
+minecraft:mob/fox/spit2
+minecraft:mob/fox/spit3

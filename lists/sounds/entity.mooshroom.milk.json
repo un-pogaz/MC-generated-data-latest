@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "mob/mooshroom/milk1",
+      "volume": 1
+    },
+    {
+      "name": "mob/mooshroom/milk2",
+      "volume": 1
+    },
+    {
+      "name": "mob/mooshroom/milk3",
+      "volume": 1
+    },
+    {
+      "name": "mob/mooshroom/milk1",
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/mooshroom/milk2",
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/mooshroom/milk3",
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/mooshroom/milk1",
+      "pitch": 1.1
+    },
+    {
+      "name": "mob/mooshroom/milk2",
+      "pitch": 1.1
+    },
+    {
+      "name": "mob/mooshroom/milk3",
+      "pitch": 1.1
+    }
+  ],
+  "subtitle": "subtitles.entity.mooshroom.milk"
+}

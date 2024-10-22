@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    {
+      "name": "block/fletching_table/fletching_table1",
+      "volume": 1,
+      "pitch": 1
+    },
+    {
+      "name": "block/fletching_table/fletching_table2",
+      "volume": 1,
+      "pitch": 1
+    }
+  ]
+}

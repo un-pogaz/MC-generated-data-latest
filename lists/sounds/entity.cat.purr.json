@@ -1,8 +1,17 @@
 {
   "sounds": [
-    "mob/cat/purr1",
-    "mob/cat/purr2",
-    "mob/cat/purr3"
+    {
+      "name": "mob/cat/purr1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/cat/purr2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/cat/purr3",
+      "volume": 0.7
+    }
   ],
   "subtitle": "subtitles.entity.cat.ambient"
 }

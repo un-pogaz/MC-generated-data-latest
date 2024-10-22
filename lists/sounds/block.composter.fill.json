@@ -1,0 +1,24 @@
+{
+  "sounds": [
+    {
+      "name": "block/composter/fill1",
+      "volume": 0.3,
+      "pitch": 0.8
+    },
+    {
+      "name": "block/composter/fill2",
+      "volume": 0.3,
+      "pitch": 0.8
+    },
+    {
+      "name": "block/composter/fill3",
+      "volume": 0.3,
+      "pitch": 0.8
+    },
+    {
+      "name": "block/composter/fill4",
+      "volume": 0.3,
+      "pitch": 0.8
+    }
+  ]
+}

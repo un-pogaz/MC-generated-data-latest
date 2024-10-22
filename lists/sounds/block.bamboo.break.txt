@@ -1,0 +1,6 @@
+minecraft:block/bamboo/place1
+minecraft:block/bamboo/place2
+minecraft:block/bamboo/place3
+minecraft:block/bamboo/place4
+minecraft:block/bamboo/place5
+minecraft:block/bamboo/place6

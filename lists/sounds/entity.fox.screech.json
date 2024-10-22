@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/fox/screech1",
+      "attenuation_distance": 32,
+      "volume": 0.45
+    },
+    {
+      "name": "mob/fox/screech2",
+      "attenuation_distance": 32,
+      "volume": 0.45
+    },
+    {
+      "name": "mob/fox/screech3",
+      "attenuation_distance": 32,
+      "volume": 0.45
+    },
+    {
+      "name": "mob/fox/screech4",
+      "attenuation_distance": 32,
+      "volume": 0.4
+    }
+  ],
+  "subtitle": "subtitles.entity.fox.screech"
+}

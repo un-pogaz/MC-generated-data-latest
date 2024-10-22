@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/blastfurnace/blastfurnace1",
+      "volume": 1
+    },
+    {
+      "name": "block/blastfurnace/blastfurnace2",
+      "volume": 1
+    },
+    {
+      "name": "block/blastfurnace/blastfurnace3",
+      "volume": 1
+    },
+    {
+      "name": "block/blastfurnace/blastfurnace4",
+      "volume": 1
+    },
+    {
+      "name": "block/blastfurnace/blastfurnace5",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.block.blastfurnace.fire_crackle"
+}

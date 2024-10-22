@@ -1,0 +1,37 @@
+{
+  "sounds": [
+    {
+      "name": "mob/panda/aggressive/aggressive1",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/aggressive/aggressive2",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/aggressive/aggressive3",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/aggressive/aggressive4",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/panda/nosebreath2",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/nosebreath3",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/pant1",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/pant2",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.panda.aggressive_ambient"
+}

@@ -1,6 +1,9 @@
 {
   "sounds": [
-    "block/bubble_column/upwards_inside"
+    {
+      "name": "block/bubble_column/upwards_inside",
+      "volume": 0.7
+    }
   ],
   "subtitle": "subtitles.block.bubble_column.upwards_inside"
 }
