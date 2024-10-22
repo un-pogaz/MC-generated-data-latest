@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/squid/squirt1",
+    "entity/squid/squirt2",
+    "entity/squid/squirt3"
+  ],
+  "subtitles": "subtitles.entity.squid.squirt"
+}

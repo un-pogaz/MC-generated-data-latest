@@ -1,0 +1,5 @@
+minecraft:mob/turtle/hurt1
+minecraft:mob/turtle/hurt2
+minecraft:mob/turtle/hurt3
+minecraft:mob/turtle/hurt4
+minecraft:mob/turtle/hurt5

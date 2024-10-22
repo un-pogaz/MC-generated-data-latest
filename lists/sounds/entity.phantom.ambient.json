@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/phantom/idle1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/phantom/idle2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/phantom/idle3",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/phantom/idle4",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/phantom/idle5",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.phantom.ambient"
+}

@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "entity/pufferfish/sting1",
+    "entity/pufferfish/sting2"
+  ],
+  "subtitle": "subtitles.entity.puffer_fish.sting"
+}

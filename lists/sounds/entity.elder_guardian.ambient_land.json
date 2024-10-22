@@ -5,5 +5,5 @@
     "mob/guardian/land_idle3",
     "mob/guardian/land_idle4"
   ],
-  "subtitle": "subtitles.entity.elder_guardian.ambient.land"
+  "subtitle": "subtitles.entity.elder_guardian.ambient_land"
 }

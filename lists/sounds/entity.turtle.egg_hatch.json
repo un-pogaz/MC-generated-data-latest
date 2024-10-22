@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/turtle/baby/egg_hatched1",
+    "mob/turtle/baby/egg_hatched2",
+    "mob/turtle/baby/egg_hatched3"
+  ],
+  "subtitles": "subtitles.turtle.egg_hatch"
+}

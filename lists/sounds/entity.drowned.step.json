@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/drowned/step1",
+    "mob/drowned/step2",
+    "mob/drowned/step3",
+    "mob/drowned/step4",
+    "mob/drowned/step5"
+  ],
+  "subtitles": "subtitles.entity.drowned.step"
+}

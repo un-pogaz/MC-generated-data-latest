@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "name": "block/conduit/deactivate",
+      "volume": 0.7
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "step/coral1",
+    "step/coral2",
+    "step/coral3",
+    "step/coral4",
+    "step/coral5",
+    "step/coral6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

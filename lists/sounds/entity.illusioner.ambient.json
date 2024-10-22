@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/illusion_illager/idle1",
+    "mob/illusion_illager/idle2",
+    "mob/illusion_illager/idle3",
+    "mob/illusion_illager/idle4"
+  ],
+  "subtitles": "subtitles.entity.illusioner.ambient"
+}

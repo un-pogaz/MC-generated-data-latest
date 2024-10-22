@@ -1,0 +1,3 @@
+minecraft:mob/phantom/hurt1
+minecraft:mob/phantom/hurt2
+minecraft:mob/phantom/hurt3
