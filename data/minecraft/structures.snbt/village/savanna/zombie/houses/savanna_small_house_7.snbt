@@ -1382,7 +1382,7 @@
     {
       nbt: {
         LootTable: "minecraft:chests/village/village_savanna_house",
-        Items: [],
+        Items: [L; ],
         id: "minecraft:chest",
         LootTableSeed: 0L
       },
@@ -1629,5 +1629,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2537
+  DataVersion: 2554
 }
