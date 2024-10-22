@@ -1,6 +1,7 @@
 {
     "parent": "block/tinted_cross",
     "textures": {
-        "cross": "blocks/kelp_plant"
+        "particle": "blocks/kelp",
+        "cross": "blocks/kelp"
     }
 }

@@ -1,7 +1,7 @@
 minecraft:cactus
 minecraft:carrots
 minecraft:fire
-minecraft:kelp_top
+minecraft:kelp
 minecraft:melon_stem
 minecraft:potatoes
 minecraft:pumpkin_stem
