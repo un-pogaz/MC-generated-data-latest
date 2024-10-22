@@ -352,7 +352,7 @@
                   "minecraft:nether/create_beacon": {
                     "icon": "minecraft:beacon",
                     "title": "Bring Home the Beacon",
-                    "description": "Construct and place a Beacon",
+                    "description": "Construct and place a beacon",
                     "frame": "task",
                     "childs": {
                       "minecraft:nether/create_full_beacon": {
@@ -418,7 +418,7 @@
           "minecraft:nether/use_lodestone": {
             "icon": "minecraft:lodestone",
             "title": "Country Lode, Take Me Home",
-            "description": "Use a Compass on a Lodestone",
+            "description": "Use a compass on a Lodestone",
             "frame": "task"
           }
         }
