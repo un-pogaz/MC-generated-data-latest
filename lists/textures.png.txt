@@ -379,6 +379,7 @@ minecraft:blocks/trip_wire
 minecraft:blocks/trip_wire_source
 minecraft:blocks/vine
 minecraft:blocks/water_flow  [mcmeta]
+minecraft:blocks/water_overlay
 minecraft:blocks/water_still  [mcmeta]
 minecraft:blocks/waterlily
 minecraft:blocks/web
