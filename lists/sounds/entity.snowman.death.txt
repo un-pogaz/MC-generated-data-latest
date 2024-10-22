@@ -1,0 +1,3 @@
+minecraft:entity/snowman/death1
+minecraft:entity/snowman/death2
+minecraft:entity/snowman/death3

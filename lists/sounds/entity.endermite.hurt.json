@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/silverfish/hit1",
+    "mob/silverfish/hit2",
+    "mob/silverfish/hit3"
+  ],
+  "subtitle": "subtitles.entity.endermite.hurt"
+}

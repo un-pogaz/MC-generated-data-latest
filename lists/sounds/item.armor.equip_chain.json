@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "item/armor/equip_chain1",
+    "item/armor/equip_chain2",
+    "item/armor/equip_chain3",
+    "item/armor/equip_chain4",
+    "item/armor/equip_chain5",
+    "item/armor/equip_chain6"
+  ],
+  "subtitle": "subtitles.item.armor.equip_chain"
+}

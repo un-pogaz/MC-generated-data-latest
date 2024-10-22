@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "block/wooden_door/close",
+    "block/wooden_door/open"
+  ],
+  "subtitle": "subtitles.block.chest.locked"
+}

@@ -1,0 +1,5 @@
+minecraft:coal
+
+minecraft:bone
+
+minecraft:skull

@@ -1,0 +1,5 @@
+minecraft:rabbit_hide
+
+minecraft:rabbit
+
+minecraft:rabbit_foot

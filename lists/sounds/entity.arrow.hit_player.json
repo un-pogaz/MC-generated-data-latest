@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "random/successful_hit"
+  ],
+  "subtitle": "subtitles.entity.arrow.hit_player"
+}

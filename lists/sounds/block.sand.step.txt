@@ -1,0 +1,5 @@
+minecraft:step/sand1
+minecraft:step/sand2
+minecraft:step/sand3
+minecraft:step/sand4
+minecraft:step/sand5

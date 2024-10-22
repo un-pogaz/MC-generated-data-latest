@@ -1,0 +1,4 @@
+minecraft:item/bottle/fill1
+minecraft:item/bottle/fill2
+minecraft:item/bottle/fill3
+minecraft:item/bottle/fill4
