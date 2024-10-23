@@ -1455,7 +1455,7 @@
       Name: "minecraft:acacia_wood"
     },
     {
-      Name: "minecraft:grass"
+      Name: "minecraft:short_grass"
     },
     {
       Name: "minecraft:air"
@@ -1702,5 +1702,5 @@
       Name: "minecraft:smoker"
     }
   ],
-  DataVersion: 3691
+  DataVersion: 3693
 }
