@@ -67,6 +67,7 @@ minecraft:wither_skull
 #minecraft:is_fire
 #minecraft:is_freezing
 #minecraft:is_lightning
+#minecraft:is_player_attack
 #minecraft:is_projectile
 #minecraft:no_anger
 #minecraft:no_impact
