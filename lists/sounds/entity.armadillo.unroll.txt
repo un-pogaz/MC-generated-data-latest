@@ -1,2 +1,0 @@
-minecraft:mob/armadillo/unroll1
-minecraft:mob/armadillo/unroll2
