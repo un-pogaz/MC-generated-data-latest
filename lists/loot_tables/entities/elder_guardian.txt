@@ -7,3 +7,6 @@ empty
 minecraft:wet_sponge
 
 loot_table[]minecraft:gameplay/fishing/fish
+
+empty
+minecraft:tide_armor_trim_smithing_template
