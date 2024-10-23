@@ -126,6 +126,7 @@ minecraft:zombified_piglin
 #minecraft:axolotl_always_hostiles
 #minecraft:axolotl_hunt_targets
 #minecraft:beehive_inhabitors
+#minecraft:can_breathe_under_water
 #minecraft:dismounts_underwater
 #minecraft:fall_damage_immune
 #minecraft:freeze_hurts_extra_types
@@ -136,3 +137,5 @@ minecraft:zombified_piglin
 #minecraft:powder_snow_walkable_mobs
 #minecraft:raiders
 #minecraft:skeletons
+#minecraft:undead
+#minecraft:zombies
