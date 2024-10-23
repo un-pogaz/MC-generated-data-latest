@@ -1,1 +1,2 @@
+return run >>redirect{*}
 return <value brigadier:integer>
