@@ -17,6 +17,10 @@
       "value": []
     },
     {
+      "type": "minecraft:max_stack_size",
+      "value": 64
+    },
+    {
       "type": "minecraft:pot_decorations",
       "value": [
         "minecraft:brick",
@@ -24,6 +28,10 @@
         "minecraft:brick",
         "minecraft:brick"
       ]
+    },
+    {
+      "type": "minecraft:rarity",
+      "value": "common"
     },
     {
       "type": "minecraft:repair_cost",
