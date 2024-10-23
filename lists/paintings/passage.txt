@@ -1,0 +1,4 @@
+texture: minecraft:passage
+name: Passage
+author: Kristoffer Zetterstrand
+size: 4x2

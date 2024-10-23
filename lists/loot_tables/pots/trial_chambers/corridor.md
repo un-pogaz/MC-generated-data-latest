@@ -1,14 +1,11 @@
-| Name                     | Count | Chance | Weight  | Comment |
-| ------------------------ | ----- | ------ | ------- | ------- |
-| 1 time                   |    -- |     -- |      -- |         |
-| minecraft:emerald        |  1..8 |  18.1% | 100/551 |         |
-| minecraft:lapis_lazuli   |  1..4 |  18.1% | 100/551 |         |
-| minecraft:amethyst_shard |  1..4 |  18.1% | 100/551 |         |
-| minecraft:arrow          |  1..4 |  18.1% | 100/551 |         |
-| minecraft:iron_ingot     |  1..6 |   9.1% |  50/551 |         |
-| minecraft:copper_ingot   |  1..6 |   9.1% |  50/551 |         |
-| minecraft:trial_key      |  1..3 |   3.6% |  20/551 |         |
-| minecraft:gold_ingot     |  1..6 |   3.6% |  20/551 |         |
-| minecraft:diamond        |  1..4 |  0.91% |   5/551 |         |
-| minecraft:emerald_block  |  1..3 |  0.91% |   5/551 |         |
-| minecraft:diamond_block  |  1..2 |  0.18% |   1/551 |         |
+| Name                                   | Count | Chance | Weight  | Comment |
+| -------------------------------------- | ----- | ------ | ------- | ------- |
+| 1 time                                 |    -- |     -- |      -- |         |
+| minecraft:emerald                      |  1..3 |  35.6% | 125/351 |         |
+| minecraft:arrow                        |  2..8 |  28.5% | 100/351 |         |
+| minecraft:iron_ingot                   |  1..2 |  28.5% | 100/351 |         |
+| minecraft:trial_key                    |     1 |   2.8% |  10/351 |         |
+| minecraft:music_disc_creator_music_box |     1 |   1.4% |   5/351 |         |
+| minecraft:diamond                      |  1..2 |   1.4% |   5/351 |         |
+| minecraft:emerald_block                |     1 |   1.4% |   5/351 |         |
+| minecraft:diamond_block                |     1 |  0.28% |   1/351 |         |

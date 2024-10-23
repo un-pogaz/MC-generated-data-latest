@@ -2,7 +2,7 @@
   "modifiers": [
     {
       "type": "minecraft:generic.attack_damage",
-      "amount": 6.0,
+      "amount": 5.0,
       "name": "Weapon modifier",
       "operation": "add_value",
       "slot": "mainhand",
@@ -15,7 +15,7 @@
     },
     {
       "type": "minecraft:generic.attack_speed",
-      "amount": -2.4000000953674316,
+      "amount": -3.5,
       "name": "Weapon modifier",
       "operation": "add_value",
       "slot": "mainhand",
