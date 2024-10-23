@@ -33,3 +33,4 @@ minecraft:stony_peaks
 minecraft:mushroom_fields
 minecraft:dripstone_caves
 minecraft:lush_caves
+minecraft:pale_garden

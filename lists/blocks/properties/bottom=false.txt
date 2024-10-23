@@ -1,1 +1,2 @@
+minecraft:pale_moss_carpet
 minecraft:scaffolding

@@ -1,3 +1,4 @@
 minecraft:minecart_improvements
 minecraft:redstone_experiments
 minecraft:trade_rebalance
+minecraft:winter_drop
