@@ -51,3 +51,4 @@ minecraft:frozen_peaks
 minecraft:dripstone_caves
 minecraft:lush_caves
 minecraft:deep_dark
+minecraft:pale_garden
