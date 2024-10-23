@@ -1187,6 +1187,7 @@ minecraft:turtle_helmet
 minecraft:turtle_scute
 minecraft:turtle_spawn_egg
 minecraft:twisting_vines
+minecraft:vault
 minecraft:verdant_froglight
 minecraft:vex_armor_trim_smithing_template
 minecraft:vex_spawn_egg
@@ -1347,6 +1348,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:diamond_ores
 #minecraft:dirt
 #minecraft:doors
+#minecraft:dyeable
 #minecraft:emerald_ores
 #minecraft:enchantable/armor
 #minecraft:enchantable/bow

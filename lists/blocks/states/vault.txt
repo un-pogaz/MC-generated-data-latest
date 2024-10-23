@@ -1,0 +1,16 @@
+facing=north,vault_state=inactive  [default]
+facing=north,vault_state=active
+facing=north,vault_state=unlocking
+facing=north,vault_state=ejecting
+facing=south,vault_state=inactive
+facing=south,vault_state=active
+facing=south,vault_state=unlocking
+facing=south,vault_state=ejecting
+facing=west,vault_state=inactive
+facing=west,vault_state=active
+facing=west,vault_state=unlocking
+facing=west,vault_state=ejecting
+facing=east,vault_state=inactive
+facing=east,vault_state=active
+facing=east,vault_state=unlocking
+facing=east,vault_state=ejecting

@@ -1,0 +1,4 @@
+minecraft:block/vault/break1
+minecraft:block/vault/break2
+minecraft:block/vault/break3
+minecraft:block/vault/break4
