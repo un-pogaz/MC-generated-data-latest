@@ -1,3 +1,0 @@
-#minecraft:candles
-#minecraft:candle_cakes
-#minecraft:campfires
