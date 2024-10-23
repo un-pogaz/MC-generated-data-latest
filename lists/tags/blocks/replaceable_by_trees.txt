@@ -1,3 +1,4 @@
+#minecraft:leaves
 minecraft:grass
 minecraft:fern
 minecraft:dead_bush
@@ -10,3 +11,10 @@ minecraft:peony
 minecraft:tall_grass
 minecraft:large_fern
 minecraft:hanging_roots
+minecraft:pitcher_plant
+minecraft:water
+minecraft:seagrass
+minecraft:tall_seagrass
+minecraft:warped_roots
+minecraft:nether_sprouts
+minecraft:crimson_roots

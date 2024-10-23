@@ -13,7 +13,6 @@ minecraft:nether_wart
 minecraft:pitcher_crop
 minecraft:potatoes
 minecraft:pumpkin_stem
-minecraft:sniffer_egg
 minecraft:sugar_cane
 minecraft:sweet_berry_bush
 minecraft:twisting_vines
