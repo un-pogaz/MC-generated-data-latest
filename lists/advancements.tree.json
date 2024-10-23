@@ -438,7 +438,7 @@
       "minecraft:husbandry/safely_harvest_honey": {
         "icon": "minecraft:honey_bottle",
         "title": "Bee Our Guest",
-        "description": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the Bees",
+        "description": "Use a Campfire to collect Honey from a Beehive using a Glass Bottle without aggravating the Bees",
         "frame": "task",
         "childs": {
           "minecraft:husbandry/wax_on": {
