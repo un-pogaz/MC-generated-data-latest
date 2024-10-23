@@ -97,10 +97,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:air",
         name: "minecraft:mob_connector",
         pool: "minecraft:empty",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:empty"
       },
@@ -119,5 +119,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3826
+  DataVersion: 3827
 }

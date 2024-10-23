@@ -13,6 +13,7 @@ minecraft:iron_hoe  = {{value}}
 minecraft:iron_pickaxe  = {{value}}
 minecraft:iron_shovel  = {{value}}
 minecraft:iron_sword  = {{value}}
+minecraft:mace  = {{value}}
 minecraft:netherite_axe  = {{value}}
 minecraft:netherite_hoe  = {{value}}
 minecraft:netherite_pickaxe  = {{value}}
