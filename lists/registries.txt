@@ -57,6 +57,7 @@ minecraft:worldgen/foliage_placer_type
 minecraft:worldgen/material_condition
 minecraft:worldgen/material_rule
 minecraft:worldgen/placement_modifier_type
+minecraft:worldgen/pool_alias_binding
 minecraft:worldgen/root_placer_type
 minecraft:worldgen/structure_piece
 minecraft:worldgen/structure_placement
