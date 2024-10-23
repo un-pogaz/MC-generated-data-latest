@@ -1,0 +1,129 @@
+{
+  size: [4, 2, 4],
+  entities: [],
+  blocks: [
+    {
+      pos: [0, 0, 1],
+      state: 0
+    },
+    {
+      pos: [0, 0, 2],
+      state: 0
+    },
+    {
+      pos: [0, 0, 3],
+      state: 0
+    },
+    {
+      pos: [1, 0, 0],
+      state: 0
+    },
+    {
+      pos: [1, 0, 1],
+      state: 0
+    },
+    {
+      pos: [1, 0, 2],
+      state: 0
+    },
+    {
+      pos: [1, 0, 3],
+      state: 0
+    },
+    {
+      pos: [2, 0, 0],
+      state: 0
+    },
+    {
+      pos: [2, 0, 1],
+      state: 0
+    },
+    {
+      pos: [2, 0, 2],
+      state: 0
+    },
+    {
+      pos: [3, 0, 0],
+      state: 0
+    },
+    {
+      pos: [3, 0, 1],
+      state: 0
+    },
+    {
+      pos: [0, 0, 0],
+      state: 1
+    },
+    {
+      pos: [2, 0, 3],
+      state: 1
+    },
+    {
+      pos: [3, 0, 2],
+      state: 1
+    },
+    {
+      nbt: {
+        final_state: "minecraft:sand",
+        name: "minecraft:bottom",
+        pool: "minecraft:village/desert/zombie/decor",
+        joint: "rollable",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [3, 0, 3],
+      state: 2
+    },
+    {
+      nbt: {
+        final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:village/desert/zombie/streets",
+        joint: "aligned",
+        id: "minecraft:jigsaw",
+        target: "minecraft:street"
+      },
+      pos: [0, 1, 2],
+      state: 3
+    },
+    {
+      nbt: {
+        final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:village/desert/zombie/streets",
+        joint: "aligned",
+        id: "minecraft:jigsaw",
+        target: "minecraft:street"
+      },
+      pos: [2, 1, 0],
+      state: 4
+    }
+  ],
+  palette: [
+    {
+      Name: "minecraft:smooth_sandstone"
+    },
+    {
+      Name: "minecraft:air"
+    },
+    {
+      Properties: {
+        orientation: "up_north"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "west_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "north_up"
+      },
+      Name: "minecraft:jigsaw"
+    }
+  ],
+  DataVersion: 3946
+}
