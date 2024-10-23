@@ -1,0 +1,10 @@
+minecraft:banner_patterns
+minecraft:beds
+minecraft:blocks
+minecraft:chests
+minecraft:mob_effects
+minecraft:paintings
+minecraft:particles
+minecraft:shield_patterns
+minecraft:shulker_boxes
+minecraft:signs

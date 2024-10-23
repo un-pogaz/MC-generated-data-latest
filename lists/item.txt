@@ -788,6 +788,7 @@ minecraft:phantom_spawn_egg
 minecraft:pig_spawn_egg
 minecraft:piglin_banner_pattern
 minecraft:piglin_brute_spawn_egg
+minecraft:piglin_head
 minecraft:piglin_spawn_egg
 minecraft:pillager_spawn_egg
 minecraft:pink_banner
@@ -1248,7 +1249,6 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:stone_bricks
 #minecraft:stone_crafting_materials
 #minecraft:stone_tool_materials
-#minecraft:stripped_logs
 #minecraft:tall_flowers
 #minecraft:terracotta
 #minecraft:trapdoors
