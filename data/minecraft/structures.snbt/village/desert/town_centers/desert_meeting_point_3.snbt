@@ -387,10 +387,6 @@
       state: 0
     },
     {
-      pos: [7, 0, 8],
-      state: 0
-    },
-    {
       pos: [7, 0, 9],
       state: 0
     },
@@ -1308,6 +1304,18 @@
     },
     {
       nbt: {
+        joint: "aligned",
+        final_state: "minecraft:sand",
+        name: "minecraft:empty",
+        pool: "minecraft:village/desert/camel",
+        id: "minecraft:jigsaw",
+        target: "minecraft:empty"
+      },
+      pos: [7, 0, 8],
+      state: 22
+    },
+    {
+      nbt: {
         joint: "rollable",
         final_state: "minecraft:sand",
         name: "minecraft:bottom",
@@ -1563,5 +1571,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 3120
+  DataVersion: 3205
 }

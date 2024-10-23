@@ -1,0 +1,5 @@
+minecraft:block/bamboo_wood/break1
+minecraft:block/bamboo_wood/break2
+minecraft:block/bamboo_wood/break3
+minecraft:block/bamboo_wood/break4
+minecraft:block/bamboo_wood/break5

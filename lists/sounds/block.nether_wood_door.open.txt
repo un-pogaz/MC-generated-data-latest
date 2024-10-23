@@ -1,0 +1,4 @@
+minecraft:block/nether_wood_door/toggle1
+minecraft:block/nether_wood_door/toggle2
+minecraft:block/nether_wood_door/toggle3
+minecraft:block/nether_wood_door/toggle4

@@ -1,0 +1,4 @@
+minecraft:block/bamboo_wood_trapdoor/toggle1
+minecraft:block/bamboo_wood_trapdoor/toggle2
+minecraft:block/bamboo_wood_trapdoor/toggle3
+minecraft:block/bamboo_wood_trapdoor/toggle4
