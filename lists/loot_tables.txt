@@ -1,3 +1,5 @@
+minecraft:archaeology/desert_pyramid
+minecraft:archaeology/desert_well
 minecraft:chests/abandoned_mineshaft
 minecraft:chests/ancient_city
 minecraft:chests/ancient_city_ice_box
@@ -114,6 +116,7 @@ minecraft:entities/silverfish
 minecraft:entities/skeleton
 minecraft:entities/skeleton_horse
 minecraft:entities/slime
+minecraft:entities/sniffer
 minecraft:entities/snow_golem
 minecraft:entities/spider
 minecraft:entities/squid

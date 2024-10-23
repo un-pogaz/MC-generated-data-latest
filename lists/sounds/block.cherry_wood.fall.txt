@@ -1,0 +1,6 @@
+minecraft:block/cherry_wood/step1
+minecraft:block/cherry_wood/step2
+minecraft:block/cherry_wood/step3
+minecraft:block/cherry_wood/step4
+minecraft:block/cherry_wood/step5
+minecraft:block/cherry_wood/step6
