@@ -1,7 +1,4 @@
 {
   "nutrition": 6,
-  "saturation": 7.2000003,
-  "using_converts_to": {
-    "id": "minecraft:bowl"
-  }
+  "saturation": 7.2000003
 }

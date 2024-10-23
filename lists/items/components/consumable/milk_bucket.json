@@ -1,0 +1,10 @@
+{
+  "animation": "drink",
+  "has_consume_particles": false,
+  "on_consume_effects": [
+    {
+      "type": "minecraft:clear_all_effects"
+    }
+  ],
+  "sound": "minecraft:entity.generic.drink"
+}
