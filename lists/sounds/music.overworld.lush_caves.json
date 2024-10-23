@@ -6,17 +6,7 @@
       "weight": 2
     },
     {
-      "name": "music/game/minecraft",
-      "stream": true,
-      "weight": 2
-    },
-    {
       "name": "music/game/clark",
-      "stream": true,
-      "weight": 2
-    },
-    {
-      "name": "music/game/sweden",
       "stream": true,
       "weight": 2
     },
@@ -38,14 +28,19 @@
       "weight": 4
     },
     {
-      "name": "music/game/one_more_day",
+      "name": "music/game/mice_on_venus",
       "stream": true,
-      "volume": 0.4,
       "weight": 2
     },
     {
-      "name": "music/game/mice_on_venus",
+      "name": "music/game/minecraft",
       "stream": true,
+      "weight": 2
+    },
+    {
+      "name": "music/game/one_more_day",
+      "stream": true,
+      "volume": 0.4,
       "weight": 2
     },
     {
@@ -62,6 +57,11 @@
       "name": "music/game/swamp/labyrinthine",
       "stream": true,
       "volume": 0.4
+    },
+    {
+      "name": "music/game/sweden",
+      "stream": true,
+      "weight": 2
     }
   ]
 }
