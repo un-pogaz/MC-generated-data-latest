@@ -6,4 +6,4 @@ minecraft:spruce_log
 minecraft:dark_oak_log
 minecraft:mangrove_log
 minecraft:cherry_log
-#minecraft:pale_oak_logs
+minecraft:pale_oak_log
