@@ -6,15 +6,15 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/hal1",
+      "name": "music/game/subwoofer_lullaby",
       "stream": true
     },
     {
-      "name": "music/game/hal2",
+      "name": "music/game/living_mice",
       "stream": true
     },
     {
-      "name": "music/game/hal3",
+      "name": "music/game/haggstrom",
       "stream": true
     },
     {

@@ -1,0 +1,15 @@
+"Name","Count","Chance","Weight","Comment"
+,,,,
+"1 time","--","--","--",
+"minecraft:water_bucket","1","13.8%","4/29",
+"minecraft:arrow","4..8","13.8%","4/29",
+"minecraft:snowball","4..8","20.7%","6/29",
+"minecraft:egg","4..8","6.9%","2/29",
+"minecraft:fire_charge","4..8","20.7%","6/29",
+"minecraft:splash_potion","2..5","3.4%","1/29","slowness"
+"minecraft:splash_potion","2..5","3.4%","1/29","poison"
+"minecraft:splash_potion","2..5","3.4%","1/29","weakness"
+"minecraft:lingering_potion","2..5","3.4%","1/29","slowness"
+"minecraft:lingering_potion","2..5","3.4%","1/29","poison"
+"minecraft:lingering_potion","2..5","3.4%","1/29","weakness"
+"minecraft:lingering_potion","2..5","3.4%","1/29","healing"
