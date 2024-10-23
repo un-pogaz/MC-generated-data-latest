@@ -3,8 +3,7 @@
     "mob/breeze/idle1",
     "mob/breeze/idle2",
     "mob/breeze/idle3",
-    "mob/breeze/idle4",
-    "mob/breeze/idle5"
+    "mob/breeze/idle4"
   ],
   "subtitle": "subtitles.entity.breeze.idle_ground"
 }

@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    "item/armor/equip_wolf1",
+    {
+      "name": "item/armor/equip_wolf1",
+      "pitch": 1.1
+    },
+    "item/armor/equip_wolf2",
+    {
+      "name": "item/armor/equip_wolf2",
+      "pitch": 1.1
+    }
+  ],
+  "subtitle": "subtitles.item.armor.equip_wolf"
+}

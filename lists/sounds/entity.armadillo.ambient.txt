@@ -1,0 +1,8 @@
+minecraft:mob/armadillo/ambient1
+minecraft:mob/armadillo/ambient2
+minecraft:mob/armadillo/ambient3
+minecraft:mob/armadillo/ambient4
+minecraft:mob/armadillo/ambient5
+minecraft:mob/armadillo/ambient6
+minecraft:mob/armadillo/ambient7
+minecraft:mob/armadillo/ambient8

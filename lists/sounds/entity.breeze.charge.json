@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/breeze/charge1",
+    "mob/breeze/charge2",
+    "mob/breeze/charge3"
+  ],
+  "subtitle": "subtitles.entity.breeze.charge"
+}
