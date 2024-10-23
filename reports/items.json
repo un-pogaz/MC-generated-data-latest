@@ -1500,6 +1500,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -2716,6 +2720,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -3518,6 +3526,10 @@
         "value": {
           "modifiers": []
         }
+      },
+      {
+        "type": "minecraft:container",
+        "value": []
       },
       {
         "type": "minecraft:enchantments",
@@ -4352,6 +4364,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -5164,6 +5180,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -5282,6 +5302,10 @@
         "value": {
           "modifiers": []
         }
+      },
+      {
+        "type": "minecraft:container",
+        "value": []
       },
       {
         "type": "minecraft:enchantments",
@@ -6798,6 +6822,10 @@
         "value": {
           "modifiers": []
         }
+      },
+      {
+        "type": "minecraft:container",
+        "value": []
       },
       {
         "type": "minecraft:enchantments",
@@ -9328,8 +9356,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 8.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -9341,8 +9369,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -9491,8 +9519,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 0.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -9504,8 +9532,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": 0.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -9622,8 +9650,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 4.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -9635,8 +9663,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -2.799999952316284,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -9677,8 +9705,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 4.5,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -9690,8 +9718,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -9732,7 +9760,7 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
+              "amount": 6.0,
               "name": "Weapon modifier",
               "operation": "add_value",
               "slot": "mainhand",
@@ -9956,6 +9984,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -10170,6 +10202,10 @@
         "value": {
           "modifiers": []
         }
+      },
+      {
+        "type": "minecraft:container",
+        "value": []
       },
       {
         "type": "minecraft:enchantments",
@@ -10696,6 +10732,10 @@
         "value": {
           "modifiers": []
         }
+      },
+      {
+        "type": "minecraft:container",
+        "value": []
       },
       {
         "type": "minecraft:enchantments",
@@ -11732,6 +11772,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -12307,8 +12351,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 6.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -12320,8 +12364,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -12470,8 +12514,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 0.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -12483,8 +12527,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -12577,8 +12621,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 1.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -12590,8 +12634,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -2.799999952316284,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -12632,8 +12676,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 1.5,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -12645,8 +12689,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -13863,6 +13907,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -14294,8 +14342,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 8.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -14307,8 +14355,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0999999046325684,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -14529,8 +14577,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 0.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -14542,8 +14590,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -1.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -14709,7 +14757,7 @@
             {
               "type": "minecraft:generic.attack_damage",
               "amount": 3.0,
-              "name": "Weapon modifier",
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -14721,8 +14769,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -2.799999952316284,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -14763,8 +14811,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 3.5,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -14776,8 +14824,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -14818,7 +14866,7 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
+              "amount": 5.0,
               "name": "Weapon modifier",
               "operation": "add_value",
               "slot": "mainhand",
@@ -19397,8 +19445,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 9.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -19410,8 +19458,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -19560,8 +19608,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 0.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -19573,8 +19621,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": 0.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -19667,8 +19715,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 5.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -19680,8 +19728,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -2.799999952316284,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -19746,8 +19794,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 5.5,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -19759,8 +19807,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -19801,7 +19849,7 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
+              "amount": 7.0,
               "name": "Weapon modifier",
               "operation": "add_value",
               "slot": "mainhand",
@@ -26133,6 +26181,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -26635,6 +26687,10 @@
         "value": {
           "modifiers": []
         }
+      },
+      {
+        "type": "minecraft:container",
+        "value": []
       },
       {
         "type": "minecraft:enchantments",
@@ -27480,8 +27536,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 8.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -27493,8 +27549,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.200000047683716,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -27655,8 +27711,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 0.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -27668,8 +27724,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -2.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -27710,8 +27766,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 2.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -27723,8 +27779,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -2.799999952316284,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -27789,8 +27845,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 2.5,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -27802,8 +27858,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -27892,7 +27948,7 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
+              "amount": 4.0,
               "name": "Weapon modifier",
               "operation": "add_value",
               "slot": "mainhand",
@@ -29136,6 +29192,10 @@
         }
       },
       {
+        "type": "minecraft:container",
+        "value": []
+      },
+      {
         "type": "minecraft:enchantments",
         "value": {
           "levels": {}
@@ -29207,8 +29267,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 8.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -29220,8 +29280,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -2.9000000953674316,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -32214,8 +32274,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 6.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -32227,8 +32287,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.200000047683716,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -32269,8 +32329,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 0.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -32282,8 +32342,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -32324,8 +32384,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 1.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -32337,8 +32397,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -2.799999952316284,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -32379,8 +32439,8 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 3.0,
-              "name": "Weapon modifier",
+              "amount": 1.5,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
@@ -32392,8 +32452,8 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
-              "name": "Weapon modifier",
+              "amount": -3.0,
+              "name": "Tool modifier",
               "operation": "add_value",
               "slot": "mainhand",
               "uuid": [
