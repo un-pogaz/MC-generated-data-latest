@@ -10,6 +10,10 @@ minecraft:ambient/cave/cave17
 minecraft:ambient/cave/cave18
 minecraft:ambient/cave/cave19
 minecraft:ambient/cave/cave2
+minecraft:ambient/cave/cave20
+minecraft:ambient/cave/cave21
+minecraft:ambient/cave/cave22
+minecraft:ambient/cave/cave23
 minecraft:ambient/cave/cave3
 minecraft:ambient/cave/cave4
 minecraft:ambient/cave/cave5
@@ -592,8 +596,7 @@ minecraft:block/copper_bulb/step3
 minecraft:block/copper_bulb/step4
 minecraft:block/copper_bulb/step5
 minecraft:block/copper_bulb/step6
-minecraft:block/copper_bulb/turn_off
-minecraft:block/copper_bulb/turn_on
+minecraft:block/copper_bulb/toggle
 minecraft:block/copper_door/toggle1
 minecraft:block/copper_door/toggle2
 minecraft:block/copper_door/toggle3

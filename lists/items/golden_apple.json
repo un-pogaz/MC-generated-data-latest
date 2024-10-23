@@ -1,57 +1,36 @@
 {
-  "components": [
-    {
-      "type": "minecraft:attribute_modifiers",
-      "value": {
-        "modifiers": []
-      }
+  "components": {
+    "minecraft:attribute_modifiers": {
+      "modifiers": []
     },
-    {
-      "type": "minecraft:enchantments",
-      "value": {
-        "levels": {}
-      }
+    "minecraft:enchantments": {
+      "levels": {}
     },
-    {
-      "type": "minecraft:food",
-      "value": {
-        "can_always_eat": true,
-        "effects": [
-          {
-            "effect": {
-              "amplifier": 1,
-              "duration": 100,
-              "id": "minecraft:regeneration",
-              "show_icon": true
-            }
-          },
-          {
-            "effect": {
-              "duration": 2400,
-              "id": "minecraft:absorption",
-              "show_icon": true
-            }
+    "minecraft:food": {
+      "can_always_eat": true,
+      "effects": [
+        {
+          "effect": {
+            "amplifier": 1,
+            "duration": 100,
+            "id": "minecraft:regeneration",
+            "show_icon": true
           }
-        ],
-        "nutrition": 4,
-        "saturation": 9.6
-      }
+        },
+        {
+          "effect": {
+            "duration": 2400,
+            "id": "minecraft:absorption",
+            "show_icon": true
+          }
+        }
+      ],
+      "nutrition": 4,
+      "saturation": 9.6
     },
-    {
-      "type": "minecraft:lore",
-      "value": []
-    },
-    {
-      "type": "minecraft:max_stack_size",
-      "value": 64
-    },
-    {
-      "type": "minecraft:rarity",
-      "value": "rare"
-    },
-    {
-      "type": "minecraft:repair_cost",
-      "value": 0
-    }
-  ]
+    "minecraft:lore": [],
+    "minecraft:max_stack_size": 64,
+    "minecraft:rarity": "rare",
+    "minecraft:repair_cost": 0
+  }
 }
