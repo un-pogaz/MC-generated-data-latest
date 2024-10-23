@@ -27,14 +27,11 @@ minecraft:andesite
 minecraft:andesite_slab
 minecraft:andesite_stairs
 minecraft:andesite_wall
-minecraft:angler_pottery_sherd
 minecraft:anvil
 minecraft:apple
-minecraft:archer_pottery_sherd
 minecraft:armadillo_scute
 minecraft:armadillo_spawn_egg
 minecraft:armor_stand
-minecraft:arms_up_pottery_sherd
 minecraft:arrow
 minecraft:axolotl_bucket
 minecraft:axolotl_spawn_egg
@@ -107,7 +104,6 @@ minecraft:blackstone
 minecraft:blackstone_slab
 minecraft:blackstone_stairs
 minecraft:blackstone_wall
-minecraft:blade_pottery_sherd
 minecraft:blast_furnace
 minecraft:blaze_powder
 minecraft:blaze_rod
@@ -128,12 +124,12 @@ minecraft:blue_stained_glass_pane
 minecraft:blue_terracotta
 minecraft:blue_wool
 minecraft:bogged_spawn_egg
-minecraft:bolt_armor_trim_smithing_template
 minecraft:bone
 minecraft:bone_block
 minecraft:bone_meal
 minecraft:book
 minecraft:bookshelf
+minecraft:bordure_indented_banner_pattern
 minecraft:bow
 minecraft:bowl
 minecraft:brain_coral
@@ -142,7 +138,6 @@ minecraft:brain_coral_fan
 minecraft:bread
 minecraft:breeze_rod
 minecraft:breeze_spawn_egg
-minecraft:brewer_pottery_sherd
 minecraft:brewing_stand
 minecraft:brick
 minecraft:brick_slab
@@ -171,7 +166,6 @@ minecraft:bubble_coral_fan
 minecraft:bucket
 minecraft:budding_amethyst
 minecraft:bundle
-minecraft:burn_pottery_sherd
 minecraft:cactus
 minecraft:cake
 minecraft:calcite
@@ -187,10 +181,6 @@ minecraft:cat_spawn_egg
 minecraft:cauldron
 minecraft:cave_spider_spawn_egg
 minecraft:chain
-minecraft:chainmail_boots
-minecraft:chainmail_chestplate
-minecraft:chainmail_helmet
-minecraft:chainmail_leggings
 minecraft:charcoal
 minecraft:cherry_boat
 minecraft:cherry_button
@@ -235,7 +225,6 @@ minecraft:coal
 minecraft:coal_block
 minecraft:coal_ore
 minecraft:coarse_dirt
-minecraft:coast_armor_trim_smithing_template
 minecraft:cobbled_deepslate
 minecraft:cobbled_deepslate_slab
 minecraft:cobbled_deepslate_stairs
@@ -317,7 +306,6 @@ minecraft:cyan_terracotta
 minecraft:cyan_wool
 minecraft:damaged_anvil
 minecraft:dandelion
-minecraft:danger_pottery_sherd
 minecraft:dark_oak_boat
 minecraft:dark_oak_button
 minecraft:dark_oak_chest_boat
@@ -393,7 +381,6 @@ minecraft:diorite_stairs
 minecraft:diorite_wall
 minecraft:dirt
 minecraft:dirt_path
-minecraft:disc_fragment_5
 minecraft:dispenser
 minecraft:dolphin_spawn_egg
 minecraft:donkey_spawn_egg
@@ -402,14 +389,13 @@ minecraft:dried_kelp_block
 minecraft:dripstone_block
 minecraft:dropper
 minecraft:drowned_spawn_egg
-minecraft:dune_armor_trim_smithing_template
-minecraft:echo_shard
 minecraft:egg
 minecraft:elder_guardian_spawn_egg
 minecraft:emerald
 minecraft:emerald_block
 minecraft:emerald_ore
 minecraft:enchanting_table
+minecraft:end_crystal
 minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:end_stone
@@ -424,7 +410,6 @@ minecraft:ender_pearl
 minecraft:enderman_spawn_egg
 minecraft:endermite_spawn_egg
 minecraft:evoker_spawn_egg
-minecraft:explorer_pottery_sherd
 minecraft:exposed_chiseled_copper
 minecraft:exposed_copper
 minecraft:exposed_copper_bulb
@@ -434,11 +419,11 @@ minecraft:exposed_copper_trapdoor
 minecraft:exposed_cut_copper
 minecraft:exposed_cut_copper_slab
 minecraft:exposed_cut_copper_stairs
-minecraft:eye_armor_trim_smithing_template
 minecraft:farmland
 minecraft:feather
 minecraft:fermented_spider_eye
 minecraft:fern
+minecraft:field_masoned_banner_pattern
 minecraft:filled_map
 minecraft:fire_charge
 minecraft:fire_coral
@@ -450,14 +435,11 @@ minecraft:fishing_rod
 minecraft:fletching_table
 minecraft:flint
 minecraft:flint_and_steel
-minecraft:flow_armor_trim_smithing_template
-minecraft:flow_pottery_sherd
 minecraft:flower_banner_pattern
 minecraft:flower_pot
 minecraft:flowering_azalea
 minecraft:flowering_azalea_leaves
 minecraft:fox_spawn_egg
-minecraft:friend_pottery_sherd
 minecraft:frog_spawn_egg
 minecraft:frogspawn
 minecraft:furnace
@@ -477,12 +459,12 @@ minecraft:glow_lichen
 minecraft:glow_squid_spawn_egg
 minecraft:glowstone
 minecraft:glowstone_dust
-minecraft:goat_horn
 minecraft:goat_spawn_egg
 minecraft:gold_block
 minecraft:gold_ingot
 minecraft:gold_nugget
 minecraft:gold_ore
+minecraft:golden_apple
 minecraft:golden_axe
 minecraft:golden_boots
 minecraft:golden_carrot
@@ -529,11 +511,8 @@ minecraft:green_wool
 minecraft:grindstone
 minecraft:guardian_spawn_egg
 minecraft:gunpowder
-minecraft:guster_pottery_sherd
 minecraft:hanging_roots
 minecraft:hay_block
-minecraft:heart_pottery_sherd
-minecraft:heartbreak_pottery_sherd
 minecraft:heavy_weighted_pressure_plate
 minecraft:hoglin_spawn_egg
 minecraft:honey_block
@@ -546,8 +525,6 @@ minecraft:horn_coral
 minecraft:horn_coral_block
 minecraft:horn_coral_fan
 minecraft:horse_spawn_egg
-minecraft:host_armor_trim_smithing_template
-minecraft:howl_pottery_sherd
 minecraft:husk_spawn_egg
 minecraft:ice
 minecraft:infested_chiseled_stone_bricks
@@ -703,7 +680,6 @@ minecraft:melon_seeds
 minecraft:melon_slice
 minecraft:milk_bucket
 minecraft:minecart
-minecraft:miner_pottery_sherd
 minecraft:mooshroom_spawn_egg
 minecraft:moss_block
 minecraft:moss_carpet
@@ -715,7 +691,6 @@ minecraft:mossy_stone_brick_slab
 minecraft:mossy_stone_brick_stairs
 minecraft:mossy_stone_brick_wall
 minecraft:mossy_stone_bricks
-minecraft:mourner_pottery_sherd
 minecraft:mud
 minecraft:mud_brick_slab
 minecraft:mud_brick_stairs
@@ -728,7 +703,6 @@ minecraft:mushroom_stew
 minecraft:mutton
 minecraft:mycelium
 minecraft:name_tag
-minecraft:nautilus_shell
 minecraft:nether_brick
 minecraft:nether_brick_fence
 minecraft:nether_brick_slab
@@ -752,7 +726,6 @@ minecraft:netherite_pickaxe
 minecraft:netherite_scrap
 minecraft:netherite_shovel
 minecraft:netherite_sword
-minecraft:netherite_upgrade_smithing_template
 minecraft:netherrack
 minecraft:note_block
 minecraft:oak_boat
@@ -776,7 +749,6 @@ minecraft:observer
 minecraft:obsidian
 minecraft:ocelot_spawn_egg
 minecraft:ochre_froglight
-minecraft:ominous_bottle
 minecraft:ominous_trial_key
 minecraft:orange_banner
 minecraft:orange_bed
@@ -835,7 +807,6 @@ minecraft:pink_wool
 minecraft:piston
 minecraft:pitcher_plant
 minecraft:pitcher_pod
-minecraft:plenty_pottery_sherd
 minecraft:podzol
 minecraft:pointed_dripstone
 minecraft:poisonous_potato
@@ -884,7 +855,6 @@ minecraft:prismarine_shard
 minecraft:prismarine_slab
 minecraft:prismarine_stairs
 minecraft:prismarine_wall
-minecraft:prize_pottery_sherd
 minecraft:pufferfish
 minecraft:pufferfish_bucket
 minecraft:pufferfish_spawn_egg
@@ -920,7 +890,6 @@ minecraft:rabbit_hide
 minecraft:rabbit_spawn_egg
 minecraft:rabbit_stew
 minecraft:rail
-minecraft:raiser_armor_trim_smithing_template
 minecraft:ravager_spawn_egg
 minecraft:raw_copper
 minecraft:raw_copper_block
@@ -928,7 +897,6 @@ minecraft:raw_gold
 minecraft:raw_gold_block
 minecraft:raw_iron
 minecraft:raw_iron_block
-minecraft:recovery_compass
 minecraft:red_banner
 minecraft:red_bed
 minecraft:red_candle
@@ -962,7 +930,6 @@ minecraft:redstone_torch
 minecraft:reinforced_deepslate
 minecraft:repeater
 minecraft:respawn_anchor
-minecraft:rib_armor_trim_smithing_template
 minecraft:rooted_dirt
 minecraft:rose_bush
 minecraft:rotten_flesh
@@ -976,7 +943,6 @@ minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sandstone_wall
 minecraft:scaffolding
-minecraft:scrape_pottery_sherd
 minecraft:sculk
 minecraft:sculk_catalyst
 minecraft:sculk_sensor
@@ -985,23 +951,17 @@ minecraft:sculk_vein
 minecraft:sea_lantern
 minecraft:sea_pickle
 minecraft:seagrass
-minecraft:sentry_armor_trim_smithing_template
-minecraft:shaper_armor_trim_smithing_template
-minecraft:sheaf_pottery_sherd
 minecraft:shears
 minecraft:sheep_spawn_egg
-minecraft:shelter_pottery_sherd
 minecraft:shield
 minecraft:short_grass
 minecraft:shroomlight
 minecraft:shulker_box
 minecraft:shulker_shell
 minecraft:shulker_spawn_egg
-minecraft:silence_armor_trim_smithing_template
 minecraft:silverfish_spawn_egg
 minecraft:skeleton_horse_spawn_egg
 minecraft:skeleton_spawn_egg
-minecraft:skull_pottery_sherd
 minecraft:slime_ball
 minecraft:slime_block
 minecraft:slime_spawn_egg
@@ -1021,10 +981,7 @@ minecraft:smooth_sandstone_slab
 minecraft:smooth_sandstone_stairs
 minecraft:smooth_stone
 minecraft:smooth_stone_slab
-minecraft:sniffer_egg
 minecraft:sniffer_spawn_egg
-minecraft:snort_pottery_sherd
-minecraft:snout_armor_trim_smithing_template
 minecraft:snow
 minecraft:snow_block
 minecraft:snow_golem_spawn_egg
@@ -1038,7 +995,6 @@ minecraft:spawner
 minecraft:spectral_arrow
 minecraft:spider_eye
 minecraft:spider_spawn_egg
-minecraft:spire_armor_trim_smithing_template
 minecraft:splash_potion
 minecraft:sponge
 minecraft:spore_blossom
@@ -1114,7 +1070,6 @@ minecraft:tadpole_spawn_egg
 minecraft:tall_grass
 minecraft:target
 minecraft:terracotta
-minecraft:tide_armor_trim_smithing_template
 minecraft:tinted_glass
 minecraft:tipped_arrow
 minecraft:tnt
@@ -1148,13 +1103,11 @@ minecraft:turtle_spawn_egg
 minecraft:twisting_vines
 minecraft:vault
 minecraft:verdant_froglight
-minecraft:vex_armor_trim_smithing_template
 minecraft:vex_spawn_egg
 minecraft:villager_spawn_egg
 minecraft:vindicator_spawn_egg
 minecraft:vine
 minecraft:wandering_trader_spawn_egg
-minecraft:ward_armor_trim_smithing_template
 minecraft:warden_spawn_egg
 minecraft:warped_button
 minecraft:warped_door
@@ -1211,7 +1164,6 @@ minecraft:waxed_weathered_copper_trapdoor
 minecraft:waxed_weathered_cut_copper
 minecraft:waxed_weathered_cut_copper_slab
 minecraft:waxed_weathered_cut_copper_stairs
-minecraft:wayfinder_armor_trim_smithing_template
 minecraft:weathered_chiseled_copper
 minecraft:weathered_copper
 minecraft:weathered_copper_bulb
@@ -1239,7 +1191,6 @@ minecraft:white_stained_glass_pane
 minecraft:white_terracotta
 minecraft:white_tulip
 minecraft:white_wool
-minecraft:wild_armor_trim_smithing_template
 minecraft:wind_charge
 minecraft:witch_spawn_egg
 minecraft:wither_rose

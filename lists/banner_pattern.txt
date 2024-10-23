@@ -42,7 +42,9 @@ minecraft:triangle_top
 minecraft:triangles_bottom
 minecraft:triangles_top
 #minecraft:no_item_required
+#minecraft:pattern_item/bordure_indented
 #minecraft:pattern_item/creeper
+#minecraft:pattern_item/field_masoned
 #minecraft:pattern_item/flow
 #minecraft:pattern_item/flower
 #minecraft:pattern_item/globe

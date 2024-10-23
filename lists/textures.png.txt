@@ -1680,9 +1680,7 @@ minecraft:gui/sprites/container/blast_furnace/lit_progress
 minecraft:gui/sprites/container/brewing_stand/brew_progress
 minecraft:gui/sprites/container/brewing_stand/bubbles
 minecraft:gui/sprites/container/brewing_stand/fuel_length
-minecraft:gui/sprites/container/bundle/background  [mcmeta]
-minecraft:gui/sprites/container/bundle/blocked_slot
-minecraft:gui/sprites/container/bundle/slot
+minecraft:gui/sprites/container/bundle/bundle_progressbar_border  [mcmeta]
 minecraft:gui/sprites/container/cartography_table/duplicated_map
 minecraft:gui/sprites/container/cartography_table/error
 minecraft:gui/sprites/container/cartography_table/locked
@@ -2067,6 +2065,7 @@ minecraft:item/bolt_armor_trim_smithing_template
 minecraft:item/bone
 minecraft:item/bone_meal
 minecraft:item/book
+minecraft:item/bordure_indented_banner_pattern
 minecraft:item/bow
 minecraft:item/bow_pulling_0
 minecraft:item/bow_pulling_1
@@ -2083,7 +2082,8 @@ minecraft:item/brown_dye
 minecraft:item/brush
 minecraft:item/bucket
 minecraft:item/bundle
-minecraft:item/bundle_filled
+minecraft:item/bundle_open_back
+minecraft:item/bundle_open_front
 minecraft:item/burn_pottery_sherd
 minecraft:item/cake
 minecraft:item/campfire
@@ -2285,6 +2285,7 @@ minecraft:item/exposed_copper_door
 minecraft:item/eye_armor_trim_smithing_template
 minecraft:item/feather
 minecraft:item/fermented_spider_eye
+minecraft:item/field_masoned_banner_pattern
 minecraft:item/filled_map
 minecraft:item/filled_map_markings
 minecraft:item/fire_charge
@@ -2667,10 +2668,10 @@ minecraft:map/decorations/yellow_banner
 minecraft:map/map_background
 minecraft:map/map_background_checkerboard
 minecraft:misc/credits_vignette  [mcmeta]
-minecraft:misc/enchanted_glint_entity
-minecraft:misc/enchanted_glint_item
+minecraft:misc/enchanted_glint_entity  [mcmeta]
+minecraft:misc/enchanted_glint_item  [mcmeta]
 minecraft:misc/forcefield
-minecraft:misc/nausea
+minecraft:misc/nausea  [mcmeta]
 minecraft:misc/powder_snow_outline
 minecraft:misc/pumpkinblur  [mcmeta]
 minecraft:misc/shadow  [mcmeta]
