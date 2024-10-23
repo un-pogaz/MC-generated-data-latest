@@ -1,0 +1,6 @@
+minecraft:block/copper_grate/step1
+minecraft:block/copper_grate/step2
+minecraft:block/copper_grate/step3
+minecraft:block/copper_grate/step4
+minecraft:block/copper_grate/step5
+minecraft:block/copper_grate/step6

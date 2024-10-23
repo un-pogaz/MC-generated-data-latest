@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    "block/copper_door/toggle1",
+    "block/copper_door/toggle2",
+    {
+      "name": "block/copper_door/toggle2",
+      "pitch": 1.1
+    },
+    "block/copper_door/toggle3",
+    {
+      "name": "block/copper_door/toggle3",
+      "pitch": 1.1
+    }
+  ],
+  "subtitle": "subtitles.block.door.toggle"
+}
