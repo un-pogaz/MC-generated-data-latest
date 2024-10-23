@@ -1,0 +1,3 @@
+minecraft:item/mace/smash_air1
+minecraft:item/mace/smash_air2
+minecraft:item/mace/smash_air3
