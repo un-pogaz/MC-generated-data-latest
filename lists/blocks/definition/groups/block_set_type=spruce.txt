@@ -1,0 +1,4 @@
+minecraft:spruce_button
+minecraft:spruce_door
+minecraft:spruce_pressure_plate
+minecraft:spruce_trapdoor

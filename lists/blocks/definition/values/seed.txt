@@ -1,0 +1,4 @@
+minecraft:attached_melon_stem  = minecraft:melon_seeds
+minecraft:attached_pumpkin_stem  = minecraft:pumpkin_seeds
+minecraft:melon_stem  = minecraft:melon_seeds
+minecraft:pumpkin_stem  = minecraft:pumpkin_seeds

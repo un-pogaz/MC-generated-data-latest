@@ -1,0 +1,4 @@
+minecraft:item/armor/crack_wolf1
+minecraft:item/armor/crack_wolf2
+minecraft:item/armor/crack_wolf3
+minecraft:item/armor/crack_wolf4

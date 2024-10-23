@@ -1,0 +1,9 @@
+{
+  "properties": {},
+  "suspicious_stew_effects": [
+    {
+      "id": "minecraft:blindness"
+    }
+  ],
+  "type": "minecraft:flower"
+}

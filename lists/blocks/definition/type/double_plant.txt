@@ -1,0 +1,3 @@
+minecraft:large_fern
+minecraft:pitcher_plant
+minecraft:tall_grass

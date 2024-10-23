@@ -1,0 +1,4 @@
+minecraft:warped_button
+minecraft:warped_door
+minecraft:warped_pressure_plate
+minecraft:warped_trapdoor

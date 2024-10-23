@@ -1845,6 +1845,15 @@ minecraft/sounds/fireworks/largeblast_far1.ogg
 minecraft/sounds/fireworks/launch1.ogg
 minecraft/sounds/fireworks/twinkle1.ogg
 minecraft/sounds/fireworks/twinkle_far1.ogg
+minecraft/sounds/item/armor/break_wolf.ogg
+minecraft/sounds/item/armor/crack_wolf1.ogg
+minecraft/sounds/item/armor/crack_wolf2.ogg
+minecraft/sounds/item/armor/crack_wolf3.ogg
+minecraft/sounds/item/armor/crack_wolf4.ogg
+minecraft/sounds/item/armor/damage_wolf1.ogg
+minecraft/sounds/item/armor/damage_wolf2.ogg
+minecraft/sounds/item/armor/damage_wolf3.ogg
+minecraft/sounds/item/armor/damage_wolf4.ogg
 minecraft/sounds/item/armor/equip_chain1.ogg
 minecraft/sounds/item/armor/equip_chain2.ogg
 minecraft/sounds/item/armor/equip_chain3.ogg
@@ -1887,6 +1896,10 @@ minecraft/sounds/item/armor/equip_netherite3.ogg
 minecraft/sounds/item/armor/equip_netherite4.ogg
 minecraft/sounds/item/armor/equip_wolf1.ogg
 minecraft/sounds/item/armor/equip_wolf2.ogg
+minecraft/sounds/item/armor/repair_wolf1.ogg
+minecraft/sounds/item/armor/repair_wolf2.ogg
+minecraft/sounds/item/armor/repair_wolf3.ogg
+minecraft/sounds/item/armor/repair_wolf4.ogg
 minecraft/sounds/item/armor/unequip_wolf1.ogg
 minecraft/sounds/item/armor/unequip_wolf2.ogg
 minecraft/sounds/item/axe/scrape1.ogg
