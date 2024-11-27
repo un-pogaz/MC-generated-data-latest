@@ -1244,7 +1244,7 @@ advMode.notEnabled=Command blocks are not enabled on this server
 advMode.notAllowed=Must be an opped player in creative mode
 
 mco.title=Minecraft Realms
-mco.selectServer.select=Join Server
+mco.selectServer.select=Join World
 mco.selectServer.configure=Configure
 mco.selectServer.create=Create World
 mco.selectServer.moreinfo=More Info
