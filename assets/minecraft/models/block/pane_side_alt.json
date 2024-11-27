@@ -6,7 +6,6 @@
     "elements": [
         {   "from": [ 7, 0, 9 ],
             "to": [ 9, 16, 16 ],
-            "shade": false,
             "faces": {
                 "down":  { "uv": [  7, 0,  9,  7 ], "texture": "#edge" },
                 "up":    { "uv": [  7, 0,  9,  7 ], "texture": "#edge" },
