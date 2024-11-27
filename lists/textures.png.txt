@@ -445,12 +445,14 @@ minecraft:textures/blocks/destroy_9
 minecraft:textures/blocks/detectorRail
 minecraft:textures/blocks/dirt
 minecraft:textures/blocks/dispenser_front
+minecraft:textures/blocks/dispenser_front_vertical
 minecraft:textures/blocks/doorIron_lower
 minecraft:textures/blocks/doorIron_upper
 minecraft:textures/blocks/doorWood_lower
 minecraft:textures/blocks/doorWood_upper
 minecraft:textures/blocks/dragonEgg
 minecraft:textures/blocks/dropper_front
+minecraft:textures/blocks/dropper_front_vertical
 minecraft:textures/blocks/enchantment_bottom
 minecraft:textures/blocks/enchantment_side
 minecraft:textures/blocks/enchantment_top
