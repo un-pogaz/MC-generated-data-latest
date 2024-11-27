@@ -443,6 +443,7 @@ minecraft:textures/blocks/destroy_7
 minecraft:textures/blocks/destroy_8
 minecraft:textures/blocks/destroy_9
 minecraft:textures/blocks/detectorRail
+minecraft:textures/blocks/detectorRail_on
 minecraft:textures/blocks/dirt
 minecraft:textures/blocks/dispenser_front
 minecraft:textures/blocks/dispenser_front_vertical
