@@ -1,0 +1,8 @@
+minecraft:block/netherite/break1
+minecraft:block/netherite/break2
+minecraft:block/netherite/break3
+minecraft:block/netherite/break4
+minecraft:block/netherite/break1
+minecraft:block/netherite/break2
+minecraft:block/netherite/break3
+minecraft:block/netherite/break4

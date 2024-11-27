@@ -6,5 +6,6 @@
     "entity/boat/paddle_land4",
     "entity/boat/paddle_land5",
     "entity/boat/paddle_land6"
-  ]
+  ],
+  "subtitle": "subtitles.entity.boat.paddle_land"
 }

@@ -8,6 +8,7 @@ minecraft:brown_mushroom_block
 minecraft:brown_stained_glass_pane
 minecraft:chorus_plant
 minecraft:cobblestone_wall
+minecraft:crimson_fence
 minecraft:cyan_stained_glass_pane
 minecraft:dark_oak_fence
 minecraft:diorite_wall
@@ -43,5 +44,6 @@ minecraft:spruce_fence
 minecraft:stone_brick_wall
 minecraft:tripwire
 minecraft:vine
+minecraft:warped_fence
 minecraft:white_stained_glass_pane
 minecraft:yellow_stained_glass_pane

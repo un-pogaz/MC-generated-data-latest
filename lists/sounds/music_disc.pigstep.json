@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "name": "records/pigstep",
+      "stream": true
+    }
+  ]
+}

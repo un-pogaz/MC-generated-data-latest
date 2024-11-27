@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/hoglin/death1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/death2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/death3",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.hoglin.death"
+}

@@ -1,0 +1,5 @@
+minecraft:mob/strider/retreat1
+minecraft:mob/strider/retreat2
+minecraft:mob/strider/retreat3
+minecraft:mob/strider/retreat4
+minecraft:mob/strider/retreat5

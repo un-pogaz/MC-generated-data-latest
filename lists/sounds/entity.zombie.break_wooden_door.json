@@ -2,5 +2,5 @@
   "sounds": [
     "mob/zombie/woodbreak"
   ],
-  "subtitle": "subtitles.block.generic.break"
+  "subtitle": "subtitles.entity.zombie.break_wooden_door"
 }

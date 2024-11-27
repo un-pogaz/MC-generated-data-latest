@@ -1,0 +1,2 @@
+minecraft:mob/hoglin/converted1
+minecraft:mob/hoglin/converted2

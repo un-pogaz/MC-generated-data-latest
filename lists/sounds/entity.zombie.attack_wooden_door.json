@@ -5,5 +5,5 @@
     "mob/zombie/wood3",
     "mob/zombie/wood4"
   ],
-  "subtitle": "subtitles.block.generic.break"
+  "subtitle": "subtitles.entity.zombie.attack_wooden_door"
 }

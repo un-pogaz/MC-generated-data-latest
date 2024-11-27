@@ -1,0 +1,5 @@
+minecraft:block/netherwart/step1
+minecraft:block/netherwart/step2
+minecraft:block/netherwart/step3
+minecraft:block/netherwart/step4
+minecraft:block/netherwart/step5
