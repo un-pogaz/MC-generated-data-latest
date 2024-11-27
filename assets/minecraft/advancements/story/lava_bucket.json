@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:lava_bucket"
         },
-        "title": "Hot Stuff",
-        "description": "Fill a bucket with lava"
+        "title": {
+            "translate": "advancements.story.lava_bucket.title"
+        },
+        "description": {
+            "translate": "advancements.story.lava_bucket.description"
+        }
     },
     "parent": "minecraft:story/smelt_iron",
     "criteria": {
