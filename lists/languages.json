@@ -19,13 +19,8 @@
     "name": "Asturianu",
     "bidirectional": false
   },
-  "az_az": {
-    "region": "Azərbaycan",
-    "name": "Azəri dili",
-    "bidirectional": false
-  },
   "bg_bg": {
-    "region": "СЩ",
+    "region": "България",
     "name": "Български",
     "bidirectional": false
   },
@@ -85,7 +80,7 @@
     "bidirectional": false
   },
   "es_ar": {
-    "region": "Argentina",
+    "region": "Argentino",
     "name": "Español",
     "bidirectional": false
   },
@@ -120,9 +115,9 @@
     "bidirectional": false
   },
   "fa_ir": {
-    "region": "ایالات متحده",
-    "name": "انگلیسی",
-    "bidirectional": true
+    "region": "ايران",
+    "name": "فارسی",
+    "bidirectional": false
   },
   "fi_fi": {
     "region": "Suomi",
@@ -135,8 +130,8 @@
     "bidirectional": false
   },
   "fr_ca": {
-    "region": "Canada",
-    "name": "Français canadien",
+    "region": "Canada (Québec)",
+    "name": "Français",
     "bidirectional": false
   },
   "fr_fr": {
@@ -150,7 +145,7 @@
     "bidirectional": false
   },
   "gl_es": {
-    "region": "Galiza",
+    "region": "Galicia",
     "name": "Galego",
     "bidirectional": false
   },
@@ -220,8 +215,8 @@
     "bidirectional": false
   },
   "la_la": {
-    "region": "Latium",
-    "name": "Latina",
+    "region": "Roma Antiquae",
+    "name": "Lingua latina",
     "bidirectional": false
   },
   "lb_lu": {
@@ -310,7 +305,7 @@
     "bidirectional": false
   },
   "sk_sk": {
-    "region": "SK",
+    "region": "Slovensko",
     "name": "Slovenčina",
     "bidirectional": false
   },
