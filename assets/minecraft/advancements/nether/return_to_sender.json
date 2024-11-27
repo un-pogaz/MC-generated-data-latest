@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:ghast_tear"
+            "item": "minecraft:fire_charge"
         },
         "title": {
             "translate": "advancements.nether.return_to_sender.title"
