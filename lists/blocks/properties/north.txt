@@ -20,6 +20,9 @@ minecraft:glow_lichen
 minecraft:granite_wall
 minecraft:gray_stained_glass_pane
 minecraft:green_stained_glass_pane
+minecraft:grimstone_brick_wall
+minecraft:grimstone_tile_wall
+minecraft:grimstone_wall
 minecraft:iron_bars
 minecraft:jungle_fence
 minecraft:light_blue_stained_glass_pane
@@ -36,6 +39,7 @@ minecraft:orange_stained_glass_pane
 minecraft:pink_stained_glass_pane
 minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_wall
+minecraft:polished_grimstone_wall
 minecraft:prismarine_wall
 minecraft:purple_stained_glass_pane
 minecraft:red_mushroom_block
