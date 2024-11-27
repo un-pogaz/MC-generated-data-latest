@@ -1375,6 +1375,7 @@ minecraft:items/ruby
 minecraft:items/saddle
 minecraft:items/salmon
 minecraft:items/scute
+minecraft:items/sea_grass
 minecraft:items/shears
 minecraft:items/shulker_shell
 minecraft:items/sign
