@@ -3,7 +3,7 @@
     "elements": [
         {   "type": "cube",
             "from": [ 0, 0, 0 ],
-            "to": [ 16, 16, 16 ],
+            "to": [ 16, 12, 16 ],
             "faceData": {
                 "down": {
                     "uv": [ 0, 0, 16, 16 ],
@@ -11,23 +11,24 @@
                 },
                 "up": {
                     "uv": [ 0, 0, 16, 16 ],
-                    "textureFacing": "up"
+                    "textureFacing": "up",
+                    "cull": false
                 },
                 "north": {
-                    "uv": [ 0, 0, 16, 16 ],
+                    "uv": [ 0, 4, 16, 16 ],
                     "textureFacing": "north"
                 },
                 "south": {
-                    "uv": [ 0, 0, 16, 16 ],
-                    "textureFacing": "south"
+                    "uv": [ 0, 4, 16, 16 ],
+                    "textureFacing": "north"
                 },
                 "west": {
-                    "uv": [ 0, 0, 16, 16 ],
-                    "textureFacing": "west"
+                    "uv": [ 0, 4, 16, 16 ],
+                    "textureFacing": "north"
                 },
                 "east": {
-                    "uv": [ 0, 0, 16, 16 ],
-                    "textureFacing": "east"
+                    "uv": [ 0, 4, 16, 16 ],
+                    "textureFacing": "north"
                 }
             }
         }
