@@ -3,7 +3,7 @@
   "rewards": {
     "recipes": [
       "minecraft:iron_block",
-      "minecraft:iron_ingot_from_block"
+      "minecraft:iron_ingot_from_iron_block"
     ]
   },
   "criteria": {
