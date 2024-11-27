@@ -4,4 +4,4 @@ minecraft:fish
 minecraft:prismarine_crystals
 empty
 
-loot_table[]minecraft:gameplay/fishing
+loot_table[]minecraft:gameplay/fishing/fish

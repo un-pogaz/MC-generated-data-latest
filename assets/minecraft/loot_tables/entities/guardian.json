@@ -78,7 +78,7 @@
             "entries": [
                 {
                     "type": "loot_table",
-                    "name": "minecraft:gameplay/fishing",
+                    "name": "minecraft:gameplay/fishing/fish",
                     "weight": 1
                 }
             ]
