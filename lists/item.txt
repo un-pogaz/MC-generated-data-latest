@@ -874,6 +874,7 @@ minecraft:zombie_spawn_egg
 minecraft:zombie_villager_spawn_egg
 #minecraft:acacia_logs
 #minecraft:anvil
+#minecraft:arrows
 #minecraft:banners
 #minecraft:beds
 #minecraft:birch_logs
