@@ -1218,6 +1218,7 @@ minecraft:font/unicode_page_fc
 minecraft:font/unicode_page_fd
 minecraft:font/unicode_page_fe
 minecraft:font/unicode_page_ff
+minecraft:gui/accessibility
 minecraft:gui/advancements/backgrounds/adventure
 minecraft:gui/advancements/backgrounds/end
 minecraft:gui/advancements/backgrounds/husbandry
@@ -1684,6 +1685,7 @@ minecraft:mob_effect/fire_resistance
 minecraft:mob_effect/glowing
 minecraft:mob_effect/haste
 minecraft:mob_effect/health_boost
+minecraft:mob_effect/hero_of_the_village
 minecraft:mob_effect/hunger
 minecraft:mob_effect/instant_damage
 minecraft:mob_effect/instant_health
