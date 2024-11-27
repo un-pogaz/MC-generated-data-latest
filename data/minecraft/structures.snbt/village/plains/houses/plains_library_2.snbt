@@ -488,7 +488,7 @@
     },
     {
       pos: [5, 0, 5],
-      state: 6
+      state: 0
     },
     {
       pos: [6, 0, 5],
@@ -1533,7 +1533,7 @@
     },
     {
       pos: [1, 3, 3],
-      state: 10
+      state: 25
     },
     {
       pos: [3, 3, 3],
@@ -1725,7 +1725,7 @@
     },
     {
       pos: [3, 2, 4],
-      state: 25
+      state: 26
     },
     {
       pos: [4, 2, 4],
@@ -1813,7 +1813,7 @@
     },
     {
       pos: [5, 6, 4],
-      state: 26
+      state: 25
     },
     {
       pos: [7, 6, 4],
@@ -1945,7 +1945,7 @@
     },
     {
       pos: [1, 3, 5],
-      state: 10
+      state: 25
     },
     {
       pos: [3, 3, 5],
@@ -2807,6 +2807,8 @@
     },
     {
       Properties: {
+        has_book: "false",
+        powered: "false",
         facing: "south"
       },
       Name: "minecraft:lectern"
@@ -2950,13 +2952,13 @@
     },
     {
       Properties: {
-        facing: "east"
+        facing: "west"
       },
       Name: "minecraft:wall_torch"
     },
     {
       Properties: {
-        facing: "west"
+        facing: "east"
       },
       Name: "minecraft:wall_torch"
     },
@@ -3000,5 +3002,5 @@
       Name: "minecraft:oak_fence"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1945
 }

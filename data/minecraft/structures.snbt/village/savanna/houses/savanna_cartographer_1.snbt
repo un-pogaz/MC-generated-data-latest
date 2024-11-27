@@ -579,7 +579,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/common/cats",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"
       },
