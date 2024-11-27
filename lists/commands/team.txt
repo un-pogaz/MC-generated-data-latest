@@ -16,7 +16,7 @@ team modify <team minecraft:team> deathMessageVisibility hideForOtherTeams
 team modify <team minecraft:team> deathMessageVisibility hideForOwnTeam
 team modify <team minecraft:team> deathMessageVisibility never
 team modify <team minecraft:team> displayName <displayName minecraft:component>
-team modify <team minecraft:team> friendlyfire <allowed brigadier:bool>
+team modify <team minecraft:team> friendlyFire <allowed brigadier:bool>
 team modify <team minecraft:team> nametagVisibility always
 team modify <team minecraft:team> nametagVisibility hideForOtherTeams
 team modify <team minecraft:team> nametagVisibility hideForOwnTeam
