@@ -1592,6 +1592,7 @@ minecraft:item/paper
 minecraft:item/parrot_spawn_egg
 minecraft:item/peony
 minecraft:item/petrified_oak_slab
+minecraft:item/phantom_membrane
 minecraft:item/phantom_spawn_egg
 minecraft:item/pig_spawn_egg
 minecraft:item/pink_banner
