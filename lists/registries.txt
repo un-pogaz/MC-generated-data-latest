@@ -1,4 +1,5 @@
 minecraft:activity
+minecraft:attributes
 minecraft:biome
 minecraft:biome_source_type
 minecraft:block
@@ -38,5 +39,6 @@ minecraft:structure_pool_element
 minecraft:structure_processor
 minecraft:surface_builder
 minecraft:tree_decorator_type
+minecraft:trunk_placer_type
 minecraft:villager_profession
 minecraft:villager_type
