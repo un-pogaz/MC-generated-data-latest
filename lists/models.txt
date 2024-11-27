@@ -869,6 +869,7 @@ minecraft:item/birch_sapling
 minecraft:item/birch_slab
 minecraft:item/birch_stairs
 minecraft:item/black_carpet
+minecraft:item/black_shulker_box
 minecraft:item/black_stained_glass
 minecraft:item/black_stained_glass_pane
 minecraft:item/black_stained_hardened_clay
@@ -877,6 +878,7 @@ minecraft:item/blaze_powder
 minecraft:item/blaze_rod
 minecraft:item/blue_carpet
 minecraft:item/blue_orchid
+minecraft:item/blue_shulker_box
 minecraft:item/blue_stained_glass
 minecraft:item/blue_stained_glass_pane
 minecraft:item/blue_stained_hardened_clay
@@ -903,6 +905,7 @@ minecraft:item/broken_elytra
 minecraft:item/brown_carpet
 minecraft:item/brown_mushroom
 minecraft:item/brown_mushroom_block
+minecraft:item/brown_shulker_box
 minecraft:item/brown_stained_glass
 minecraft:item/brown_stained_glass_pane
 minecraft:item/brown_stained_hardened_clay
@@ -1054,6 +1057,7 @@ minecraft:item/cracked_brick_monster_egg
 minecraft:item/cracked_stonebrick
 minecraft:item/crafting_table
 minecraft:item/cyan_carpet
+minecraft:item/cyan_shulker_box
 minecraft:item/cyan_stained_glass
 minecraft:item/cyan_stained_glass_pane
 minecraft:item/cyan_stained_hardened_clay
@@ -1173,11 +1177,13 @@ minecraft:item/grass
 minecraft:item/grass_path
 minecraft:item/gravel
 minecraft:item/gray_carpet
+minecraft:item/gray_shulker_box
 minecraft:item/gray_stained_glass
 minecraft:item/gray_stained_glass_pane
 minecraft:item/gray_stained_hardened_clay
 minecraft:item/gray_wool
 minecraft:item/green_carpet
+minecraft:item/green_shulker_box
 minecraft:item/green_stained_glass
 minecraft:item/green_stained_glass_pane
 minecraft:item/green_stained_hardened_clay
@@ -1232,18 +1238,21 @@ minecraft:item/leather_helmet
 minecraft:item/leather_leggings
 minecraft:item/lever
 minecraft:item/light_blue_carpet
+minecraft:item/light_blue_shulker_box
 minecraft:item/light_blue_stained_glass
 minecraft:item/light_blue_stained_glass_pane
 minecraft:item/light_blue_stained_hardened_clay
 minecraft:item/light_blue_wool
 minecraft:item/light_weighted_pressure_plate
 minecraft:item/lime_carpet
+minecraft:item/lime_shulker_box
 minecraft:item/lime_stained_glass
 minecraft:item/lime_stained_glass_pane
 minecraft:item/lime_stained_hardened_clay
 minecraft:item/lime_wool
 minecraft:item/lit_pumpkin
 minecraft:item/magenta_carpet
+minecraft:item/magenta_shulker_box
 minecraft:item/magenta_stained_glass
 minecraft:item/magenta_stained_glass_pane
 minecraft:item/magenta_stained_hardened_clay
@@ -1288,6 +1297,7 @@ minecraft:item/oak_stairs
 minecraft:item/observer
 minecraft:item/obsidian
 minecraft:item/orange_carpet
+minecraft:item/orange_shulker_box
 minecraft:item/orange_stained_glass
 minecraft:item/orange_stained_glass_pane
 minecraft:item/orange_stained_hardened_clay
@@ -1299,6 +1309,7 @@ minecraft:item/paeonia
 minecraft:item/painting
 minecraft:item/paper
 minecraft:item/pink_carpet
+minecraft:item/pink_shulker_box
 minecraft:item/pink_stained_glass
 minecraft:item/pink_stained_glass_pane
 minecraft:item/pink_stained_hardened_clay
@@ -1319,6 +1330,7 @@ minecraft:item/pumpkin
 minecraft:item/pumpkin_pie
 minecraft:item/pumpkin_seeds
 minecraft:item/purple_carpet
+minecraft:item/purple_shulker_box
 minecraft:item/purple_stained_glass
 minecraft:item/purple_stained_glass_pane
 minecraft:item/purple_stained_hardened_clay
@@ -1358,6 +1370,7 @@ minecraft:item/red_sand
 minecraft:item/red_sandstone
 minecraft:item/red_sandstone_slab
 minecraft:item/red_sandstone_stairs
+minecraft:item/red_shulker_box
 minecraft:item/red_stained_glass
 minecraft:item/red_stained_glass_pane
 minecraft:item/red_stained_hardened_clay
@@ -1386,6 +1399,7 @@ minecraft:item/shulker_box
 minecraft:item/shulker_shell
 minecraft:item/sign
 minecraft:item/silver_carpet
+minecraft:item/silver_shulker_box
 minecraft:item/silver_stained_glass
 minecraft:item/silver_stained_glass_pane
 minecraft:item/silver_stained_hardened_clay
@@ -1460,6 +1474,7 @@ minecraft:item/web
 minecraft:item/wheat
 minecraft:item/wheat_seeds
 minecraft:item/white_carpet
+minecraft:item/white_shulker_box
 minecraft:item/white_stained_glass
 minecraft:item/white_stained_glass_pane
 minecraft:item/white_stained_hardened_clay
@@ -1475,6 +1490,7 @@ minecraft:item/wooden_sword
 minecraft:item/writable_book
 minecraft:item/written_book
 minecraft:item/yellow_carpet
+minecraft:item/yellow_shulker_box
 minecraft:item/yellow_stained_glass
 minecraft:item/yellow_stained_glass_pane
 minecraft:item/yellow_stained_hardened_clay
