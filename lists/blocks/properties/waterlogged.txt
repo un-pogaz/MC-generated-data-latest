@@ -95,6 +95,7 @@ minecraft:jungle_stairs
 minecraft:jungle_trapdoor
 minecraft:jungle_wall_sign
 minecraft:ladder
+minecraft:lantern
 minecraft:light_blue_stained_glass_pane
 minecraft:light_gray_stained_glass_pane
 minecraft:lime_stained_glass_pane
@@ -160,6 +161,7 @@ minecraft:smooth_sandstone_slab
 minecraft:smooth_sandstone_stairs
 minecraft:smooth_stone_slab
 minecraft:soul_campfire
+minecraft:soul_lantern
 minecraft:spruce_fence
 minecraft:spruce_sign
 minecraft:spruce_slab
