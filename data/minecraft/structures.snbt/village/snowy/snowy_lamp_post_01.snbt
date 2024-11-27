@@ -48,6 +48,7 @@
     },
     {
       nbt: {
+        joint: "rollable",
         final_state: "minecraft:spruce_fence",
         name: "minecraft:bottom",
         pool: "minecraft:empty",
@@ -116,5 +117,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }
