@@ -1,0 +1,12 @@
+advancement grant <targets minecraft:entity[amount="multiple", type="players"]> everything
+advancement grant <targets minecraft:entity[amount="multiple", type="players"]> from <advancement minecraft:resource_location>
+advancement grant <targets minecraft:entity[amount="multiple", type="players"]> only <advancement minecraft:resource_location>
+advancement grant <targets minecraft:entity[amount="multiple", type="players"]> only <advancement minecraft:resource_location> <criterion brigadier:string[type="word"]>
+advancement grant <targets minecraft:entity[amount="multiple", type="players"]> through <advancement minecraft:resource_location>
+advancement grant <targets minecraft:entity[amount="multiple", type="players"]> until <advancement minecraft:resource_location>
+advancement revoke <targets minecraft:entity[amount="multiple", type="players"]> everything
+advancement revoke <targets minecraft:entity[amount="multiple", type="players"]> from <advancement minecraft:resource_location>
+advancement revoke <targets minecraft:entity[amount="multiple", type="players"]> only <advancement minecraft:resource_location>
+advancement revoke <targets minecraft:entity[amount="multiple", type="players"]> only <advancement minecraft:resource_location> <criterion brigadier:string[type="word"]>
+advancement revoke <targets minecraft:entity[amount="multiple", type="players"]> through <advancement minecraft:resource_location>
+advancement revoke <targets minecraft:entity[amount="multiple", type="players"]> until <advancement minecraft:resource_location>

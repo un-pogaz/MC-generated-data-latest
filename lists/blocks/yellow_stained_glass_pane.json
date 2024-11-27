@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "east": [
+      "true",
+      "false"
+    ],
+    "north": [
+      "true",
+      "false"
+    ],
+    "south": [
+      "true",
+      "false"
+    ],
+    "west": [
+      "true",
+      "false"
+    ]
+  }
+}

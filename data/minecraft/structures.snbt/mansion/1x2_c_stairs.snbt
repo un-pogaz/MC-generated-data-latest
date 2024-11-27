@@ -3833,7 +3833,7 @@
     },
     {
       pos: [5, 5, 5],
-      state: 17
+      state: 18
     },
     {
       pos: [6, 5, 5],
@@ -4417,7 +4417,7 @@
     },
     {
       pos: [5, 6, 6],
-      state: 18
+      state: 19
     },
     {
       pos: [6, 6, 6],
@@ -5001,7 +5001,7 @@
     },
     {
       pos: [5, 7, 7],
-      state: 18
+      state: 19
     },
     {
       pos: [6, 7, 7],
@@ -5585,7 +5585,7 @@
     },
     {
       pos: [5, 8, 8],
-      state: 18
+      state: 19
     },
     {
       pos: [6, 8, 8],
@@ -6101,7 +6101,7 @@
     },
     {
       pos: [5, 9, 9],
-      state: 18
+      state: 19
     },
     {
       pos: [2, 10, 9],
@@ -6589,7 +6589,7 @@
     },
     {
       pos: [4, 8, 10],
-      state: 18
+      state: 19
     },
     {
       pos: [5, 8, 10],
@@ -6613,7 +6613,7 @@
     },
     {
       pos: [1, 10, 10],
-      state: 19
+      state: 20
     },
     {
       pos: [2, 10, 10],
@@ -6629,7 +6629,7 @@
     },
     {
       pos: [5, 10, 10],
-      state: 20
+      state: 21
     },
     {
       pos: [6, 10, 10],
@@ -6637,7 +6637,7 @@
     },
     {
       pos: [0, 11, 10],
-      state: 19
+      state: 20
     },
     {
       pos: [1, 11, 10],
@@ -6661,7 +6661,7 @@
     },
     {
       pos: [6, 11, 10],
-      state: 20
+      state: 21
     },
     {
       pos: [0, 12, 10],
@@ -7181,7 +7181,7 @@
     },
     {
       pos: [1, 10, 11],
-      state: 19
+      state: 20
     },
     {
       pos: [2, 10, 11],
@@ -7197,7 +7197,7 @@
     },
     {
       pos: [5, 10, 11],
-      state: 20
+      state: 21
     },
     {
       pos: [6, 10, 11],
@@ -7205,7 +7205,7 @@
     },
     {
       pos: [0, 11, 11],
-      state: 19
+      state: 20
     },
     {
       pos: [1, 11, 11],
@@ -7229,7 +7229,7 @@
     },
     {
       pos: [6, 11, 11],
-      state: 20
+      state: 21
     },
     {
       pos: [0, 12, 11],
@@ -7749,7 +7749,7 @@
     },
     {
       pos: [1, 10, 12],
-      state: 19
+      state: 20
     },
     {
       pos: [2, 10, 12],
@@ -7765,7 +7765,7 @@
     },
     {
       pos: [5, 10, 12],
-      state: 20
+      state: 21
     },
     {
       pos: [6, 10, 12],
@@ -7773,7 +7773,7 @@
     },
     {
       pos: [0, 11, 12],
-      state: 19
+      state: 20
     },
     {
       pos: [1, 11, 12],
@@ -7797,7 +7797,7 @@
     },
     {
       pos: [6, 11, 12],
-      state: 20
+      state: 21
     },
     {
       pos: [0, 12, 12],
@@ -8325,23 +8325,23 @@
     },
     {
       pos: [1, 10, 13],
-      state: 21
+      state: 22
     },
     {
       pos: [2, 10, 13],
-      state: 21
+      state: 23
     },
     {
       pos: [3, 10, 13],
-      state: 21
+      state: 23
     },
     {
       pos: [4, 10, 13],
-      state: 21
+      state: 23
     },
     {
       pos: [5, 10, 13],
-      state: 20
+      state: 24
     },
     {
       pos: [6, 10, 13],
@@ -8349,7 +8349,7 @@
     },
     {
       pos: [0, 11, 13],
-      state: 19
+      state: 20
     },
     {
       pos: [1, 11, 13],
@@ -8373,7 +8373,7 @@
     },
     {
       pos: [6, 11, 13],
-      state: 20
+      state: 21
     },
     {
       pos: [0, 12, 13],
@@ -8937,31 +8937,31 @@
     },
     {
       pos: [0, 11, 14],
-      state: 21
+      state: 22
     },
     {
       pos: [1, 11, 14],
-      state: 21
+      state: 23
     },
     {
       pos: [2, 11, 14],
-      state: 21
+      state: 23
     },
     {
       pos: [3, 11, 14],
-      state: 21
+      state: 23
     },
     {
       pos: [4, 11, 14],
-      state: 21
+      state: 23
     },
     {
       pos: [5, 11, 14],
-      state: 21
+      state: 23
     },
     {
       pos: [6, 11, 14],
-      state: 20
+      state: 24
     },
     {
       pos: [0, 12, 14],
@@ -9246,49 +9246,28 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
       Name: "minecraft:cobblestone"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
-      Properties: {
-        color: "silver"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:light_gray_wool"
     },
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:white_wool"
     },
     {
-      Properties: {
-        color: "green"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:green_wool"
     },
     {
-      Properties: {
-        color: "gray"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:gray_wool"
     },
     {
-      Properties: {
-        color: "black"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:black_wool"
     },
     {
       Name: "minecraft:air"
@@ -9296,16 +9275,13 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "east"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
-      Properties: {
-        color: "red"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:red_carpet"
     },
     {
       Properties: {
@@ -9326,58 +9302,67 @@
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "north"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "south"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "east"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         east: "false",
         south: "false",
         north: "false",
-        variant: "cobblestone",
-        west: "false",
-        up: "false"
+        west: "true",
+        up: "true"
+      },
+      Name: "minecraft:cobblestone_wall"
+    },
+    {
+      Properties: {
+        east: "false",
+        south: "false",
+        north: "true",
+        west: "true",
+        up: "true"
       },
       Name: "minecraft:cobblestone_wall"
     },
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
       Name: "minecraft:birch_stairs"
@@ -9385,7 +9370,7 @@
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "east"
       },
       Name: "minecraft:birch_stairs"
@@ -9393,11 +9378,27 @@
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "inner_right",
         facing: "south"
+      },
+      Name: "minecraft:birch_stairs"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        shape: "straight",
+        facing: "south"
+      },
+      Name: "minecraft:birch_stairs"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        shape: "inner_right",
+        facing: "east"
       },
       Name: "minecraft:birch_stairs"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

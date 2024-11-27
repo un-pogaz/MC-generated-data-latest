@@ -829,18 +829,16 @@
     },
     {
       nbt: {
-        id: "Banner",
-        Patterns: [],
-        Base: 0
+        id: "minecraft:banner",
+        Patterns: []
       },
       pos: [2, 8, 1],
       state: 2
     },
     {
       nbt: {
-        id: "Banner",
-        Patterns: [],
-        Base: 0
+        id: "minecraft:banner",
+        Patterns: []
       },
       pos: [4, 8, 1],
       state: 2
@@ -851,17 +849,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player855",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [3, 3, 3],
@@ -873,17 +874,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player855",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [2, 2, 10],
@@ -895,17 +899,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player855",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [4, 2, 10],
@@ -4690,10 +4697,7 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
       Name: "minecraft:cobblestone"
@@ -4702,7 +4706,7 @@
       Properties: {
         facing: "south"
       },
-      Name: "minecraft:wall_banner"
+      Name: "minecraft:black_wall_banner"
     },
     {
       Properties: {
@@ -4716,78 +4720,71 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "east"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "south"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "north"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
-      Properties: {
-        color: "black"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:black_carpet"
     },
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:white_carpet"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "east"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "north"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
-        half: "bottom",
-        variant: "cobblestone"
+        type: "bottom"
       },
-      Name: "minecraft:stone_slab"
+      Name: "minecraft:cobblestone_slab"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

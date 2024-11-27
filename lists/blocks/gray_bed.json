@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "occupied": [
+      "true",
+      "false"
+    ],
+    "part": [
+      "head",
+      "foot"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+ban <targets minecraft:game_profile>
+ban <targets minecraft:game_profile> <reason minecraft:message>

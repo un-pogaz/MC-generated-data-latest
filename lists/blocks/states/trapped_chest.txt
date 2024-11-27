@@ -1,0 +1,12 @@
+facing=north,type=single  [default]
+facing=north,type=left
+facing=north,type=right
+facing=east,type=single
+facing=east,type=left
+facing=east,type=right
+facing=south,type=single
+facing=south,type=left
+facing=south,type=right
+facing=west,type=single
+facing=west,type=left
+facing=west,type=right
