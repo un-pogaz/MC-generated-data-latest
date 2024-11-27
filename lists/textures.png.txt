@@ -969,6 +969,7 @@ minecraft:font/unicode_page_fc
 minecraft:font/unicode_page_fd
 minecraft:font/unicode_page_fe
 minecraft:font/unicode_page_ff
+minecraft:gui/advancements/backgrounds/adventure
 minecraft:gui/advancements/backgrounds/nether
 minecraft:gui/advancements/backgrounds/stone
 minecraft:gui/advancements/tabs
@@ -1019,6 +1020,7 @@ minecraft:gui/title/background/panorama_4
 minecraft:gui/title/background/panorama_5
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojang
+minecraft:gui/toasts
 minecraft:gui/widgets
 minecraft:gui/world_selection
 minecraft:items/acacia_boat
