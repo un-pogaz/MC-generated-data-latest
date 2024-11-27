@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "mob/endermen/portal",
+    "mob/endermen/portal2"
+  ],
+  "subtitle": "subtitles.entity.shulker.teleport"
+}

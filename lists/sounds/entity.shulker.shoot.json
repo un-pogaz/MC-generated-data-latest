@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/shulker/shoot1",
+    "entity/shulker/shoot2",
+    "entity/shulker/shoot3",
+    "entity/shulker/shoot4"
+  ],
+  "subtitle": "subtitles.entity.shulker.shoot"
+}

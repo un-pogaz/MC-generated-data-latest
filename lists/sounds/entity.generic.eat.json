@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "random/eat1",
+    "random/eat2",
+    "random/eat3"
+  ],
+  "subtitle": "subtitles.entity.generic.eat"
+}

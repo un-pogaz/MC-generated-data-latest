@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/guardian/flop1",
+    "mob/guardian/flop2",
+    "mob/guardian/flop3",
+    "mob/guardian/flop4"
+  ],
+  "subtitle": "subtitles.entity.guardian.flop"
+}

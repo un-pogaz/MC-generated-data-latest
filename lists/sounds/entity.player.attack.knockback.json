@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "entity/player/attack/knockback1",
+      "volume": 0.7
+    },
+    {
+      "name": "entity/player/attack/knockback2",
+      "volume": 0.7
+    },
+    {
+      "name": "entity/player/attack/knockback3",
+      "volume": 0.7
+    },
+    {
+      "name": "entity/player/attack/knockback4",
+      "volume": 0.7
+    }
+  ]
+}

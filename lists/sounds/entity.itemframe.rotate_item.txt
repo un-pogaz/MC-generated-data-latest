@@ -1,0 +1,4 @@
+minecraft:entity/itemframe/rotate_item1
+minecraft:entity/itemframe/rotate_item2
+minecraft:entity/itemframe/rotate_item3
+minecraft:entity/itemframe/rotate_item4

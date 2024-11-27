@@ -1,0 +1,5 @@
+minecraft:mob/zombie/step1
+minecraft:mob/zombie/step2
+minecraft:mob/zombie/step3
+minecraft:mob/zombie/step4
+minecraft:mob/zombie/step5

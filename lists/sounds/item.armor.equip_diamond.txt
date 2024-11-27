@@ -1,0 +1,6 @@
+minecraft:item/armor/equip_diamond1
+minecraft:item/armor/equip_diamond2
+minecraft:item/armor/equip_diamond3
+minecraft:item/armor/equip_diamond4
+minecraft:item/armor/equip_diamond5
+minecraft:item/armor/equip_diamond6
