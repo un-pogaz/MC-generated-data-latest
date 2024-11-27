@@ -764,6 +764,7 @@ minecraft:textures/items/minecartTnt
 minecraft:textures/items/monsterPlacer
 minecraft:textures/items/monsterPlacer_overlay
 minecraft:textures/items/mushroomStew
+minecraft:textures/items/nameTag
 minecraft:textures/items/netherStalkSeeds
 minecraft:textures/items/netherStar
 minecraft:textures/items/netherbrick
