@@ -32,7 +32,7 @@ minecraft:entities/elder_guardian
 minecraft:entities/ender_dragon
 minecraft:entities/enderman
 minecraft:entities/endermite
-minecraft:entities/evocation_illager
+minecraft:entities/evoker
 minecraft:entities/ghast
 minecraft:entities/giant
 minecraft:entities/guardian
@@ -73,7 +73,7 @@ minecraft:entities/silverfish
 minecraft:entities/skeleton
 minecraft:entities/skeleton_horse
 minecraft:entities/slime
-minecraft:entities/snowman
+minecraft:entities/snow_golem
 minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
@@ -81,7 +81,7 @@ minecraft:entities/tropical_fish
 minecraft:entities/turtle
 minecraft:entities/vex
 minecraft:entities/villager
-minecraft:entities/vindication_illager
+minecraft:entities/vindicator
 minecraft:entities/witch
 minecraft:entities/wither_skeleton
 minecraft:entities/wolf
