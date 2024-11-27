@@ -3,12 +3,3 @@
 minecraft:dirt
 minecraft:gravel
 minecraft:sand
-minecraft:moss_block
-#minecraft:flowers
-minecraft:grass
-minecraft:tall_grass
-minecraft:moss_carpet
-minecraft:small_dripleaf
-minecraft:big_dripleaf
-minecraft:big_dripleaf_stem
-minecraft:vine
