@@ -264,7 +264,6 @@ minecraft:gui/gui
 minecraft:gui/hopper
 minecraft:gui/icons
 minecraft:gui/inventory
-minecraft:gui/items
 minecraft:gui/particles
 minecraft:gui/repair
 minecraft:gui/slot
@@ -360,7 +359,6 @@ minecraft:mob/zombie
 minecraft:mob/zombie_villager
 minecraft:pack
 minecraft:particles
-minecraft:terrain
 minecraft:textures/blocks/activatorRail
 minecraft:textures/blocks/activatorRail_powered
 minecraft:textures/blocks/anvil_base
