@@ -1,5 +1,5 @@
 adventure/root
-└>adventure/caves_and_cliffs
+└>adventure/fall_from_world_height
 └>adventure/honey_block_slide
 └>adventure/kill_a_mob
 │ └>adventure/kill_all_mobs
@@ -16,8 +16,8 @@ adventure/root
 │ └>adventure/whos_the_pillager_now
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
+│ └>adventure/play_jukebox_in_meadows
 │ └>adventure/walk_on_powder_snow_with_leather_boots
-│ └>husbandry/play_jukebox_in_meadows
 └>adventure/spyglass_at_parrot
 │ └>adventure/spyglass_at_ghast
 │   └>adventure/spyglass_at_dragon
@@ -78,8 +78,8 @@ nether/root
 └>nether/return_to_sender
 │ └>nether/uneasy_alliance
 └>nether/ride_strider
-  └>adventure/ride_strider_in_overworld_lava
   └>nether/explore_nether
+  └>nether/ride_strider_in_overworld_lava
 
 story/root
 └>story/mine_stone
