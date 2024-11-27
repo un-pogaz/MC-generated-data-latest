@@ -1,0 +1,6 @@
+title <targets minecraft:entity[amount="multiple", type="players"]> actionbar <title minecraft:component>
+title <targets minecraft:entity[amount="multiple", type="players"]> clear
+title <targets minecraft:entity[amount="multiple", type="players"]> reset
+title <targets minecraft:entity[amount="multiple", type="players"]> subtitle <title minecraft:component>
+title <targets minecraft:entity[amount="multiple", type="players"]> times <fadeIn brigadier:integer[min="0"]> <stay brigadier:integer[min="0"]> <fadeOut brigadier:integer[min="0"]>
+title <targets minecraft:entity[amount="multiple", type="players"]> title <title minecraft:component>
