@@ -1,2 +1,1 @@
-minecraft:tropical_fish
 minecraft:tropical_fish_bucket
