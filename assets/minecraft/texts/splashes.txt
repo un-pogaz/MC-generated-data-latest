@@ -353,3 +353,4 @@ Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
 /give @a hugs 64
+This is good for realms.
