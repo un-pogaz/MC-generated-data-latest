@@ -1,0 +1,13 @@
+{
+  "id": "1.7.6-pre2",
+  "type": "snapshot",
+  "time": "2014-03-08T11:00:01+00:00",
+  "releaseTime": "2014-03-08T11:00:01+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/977e8f92b306b2d798a7b69858f48fbe06dbb302/1.7.6-pre2.json",
+  "assets": "1.7.4",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/545510a60f526b9aa8a38f9c0bc7a74235d21675/1.7.4.json",
+  "client": "https://launcher.mojang.com/v1/objects/24e28d53aecff54ff9be2a1ba1ffe008b86f7ed6/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/5aa5deddbe750a384bdb5ed0652bbda33cf4e5c8/server.jar",
+  "server_mappings": null
+}
