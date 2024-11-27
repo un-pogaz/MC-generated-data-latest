@@ -450,6 +450,7 @@ minecraft:textures/blocks/doorIron_upper
 minecraft:textures/blocks/doorWood_lower
 minecraft:textures/blocks/doorWood_upper
 minecraft:textures/blocks/dragonEgg
+minecraft:textures/blocks/dropper_front
 minecraft:textures/blocks/enchantment_bottom
 minecraft:textures/blocks/enchantment_side
 minecraft:textures/blocks/enchantment_top
@@ -553,7 +554,6 @@ minecraft:textures/blocks/redtorch_lit
 minecraft:textures/blocks/reeds
 minecraft:textures/blocks/repeater
 minecraft:textures/blocks/repeater_lit
-minecraft:textures/blocks/results
 minecraft:textures/blocks/rose
 minecraft:textures/blocks/sand
 minecraft:textures/blocks/sandstone_bottom
@@ -730,6 +730,7 @@ minecraft:textures/items/milk
 minecraft:textures/items/minecart
 minecraft:textures/items/minecartChest
 minecraft:textures/items/minecartFurnace
+minecraft:textures/items/minecartHopper
 minecraft:textures/items/minecartTnt
 minecraft:textures/items/monsterPlacer
 minecraft:textures/items/monsterPlacer_overlay
