@@ -3,5 +3,5 @@
     "mob/turtle/egg/egg_break1",
     "mob/turtle/egg/egg_break2"
   ],
-  "subtitles": "subtitles.turtle.egg_break"
+  "subtitle": "subtitles.entity.turtle.egg_break"
 }

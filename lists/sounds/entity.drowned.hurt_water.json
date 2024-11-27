@@ -12,5 +12,6 @@
       "name": "mob/drowned/water/hurt3",
       "volume": 0.9
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.drowned.hurt"
 }
