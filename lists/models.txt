@@ -642,6 +642,8 @@ minecraft:block/redstone_nue
 minecraft:block/redstone_nuse
 minecraft:block/redstone_nusue
 minecraft:block/redstone_ore
+minecraft:block/redstone_ueuw
+minecraft:block/redstone_uew
 minecraft:block/redstone_une
 minecraft:block/redstone_uns
 minecraft:block/redstone_unse

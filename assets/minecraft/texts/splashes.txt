@@ -351,3 +351,5 @@ Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
 Take the elevator to the mezzanine!
+Stop being reasonable, this is the Internet!
+/give @a hugs 64
