@@ -1,2 +1,2 @@
-minecraft:mob/zombie/hurt1
-minecraft:mob/zombie/hurt2
+minecraft:mob/zombie_villager/hurt1
+minecraft:mob/zombie_villager/hurt2

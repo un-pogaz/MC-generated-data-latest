@@ -690,6 +690,18 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "block.shulker_box.close": {
+    "sounds": [
+      "block/shulker_box/close"
+    ],
+    "subtitle": "subtitles.block.shulker_box.close"
+  },
+  "block.shulker_box.open": {
+    "sounds": [
+      "block/shulker_box/open"
+    ],
+    "subtitle": "subtitles.block.shulker_box.open"
+  },
   "block.slime.break": {
     "sounds": [
       "mob/slime/big1",
@@ -925,7 +937,7 @@
       "step/wood5",
       "step/wood6"
     ],
-    "subtitle": "subtitles.block.generic.break"
+    "subtitle": "subtitles.block.generic.hit"
   },
   "block.wood.place": {
     "sounds": [
@@ -963,7 +975,7 @@
     "sounds": [
       "random/click"
     ],
-    "subtitle": "subtitles.block.button.click"
+    "subtitle": "subtitles.block.pressure_plate.click"
   },
   "block.wood_pressureplate.click_on": {
     "sounds": [
@@ -1349,7 +1361,7 @@
       "mob/guardian/elder_idle3",
       "mob/guardian/elder_idle4"
     ],
-    "subtitle": "subtitles.entity.guardian.ambient"
+    "subtitle": "subtitles.entity.elder_guardian.ambient"
   },
   "entity.elder_guardian.ambient_land": {
     "sounds": [
@@ -1358,25 +1370,34 @@
       "mob/guardian/land_idle3",
       "mob/guardian/land_idle4"
     ],
-    "subtitle": "subtitles.entity.guardian.ambient.land"
+    "subtitle": "subtitles.entity.elder_guardian.ambient.land"
   },
   "entity.elder_guardian.curse": {
     "sounds": [
       "mob/guardian/curse"
     ],
-    "subtitle": "subtitles.entity.guardian.curse"
+    "subtitle": "subtitles.entity.elder_guardian.curse"
   },
   "entity.elder_guardian.death": {
     "sounds": [
       "mob/guardian/elder_death"
     ],
-    "subtitle": "subtitles.entity.guardian.death"
+    "subtitle": "subtitles.entity.elder_guardian.death"
   },
   "entity.elder_guardian.death_land": {
     "sounds": [
       "mob/guardian/land_death"
     ],
-    "subtitle": "subtitles.entity.guardian.death"
+    "subtitle": "subtitles.entity.elder_guardian.death"
+  },
+  "entity.elder_guardian.flop": {
+    "sounds": [
+      "mob/guardian/flop1",
+      "mob/guardian/flop2",
+      "mob/guardian/flop3",
+      "mob/guardian/flop4"
+    ],
+    "subtitle": "subtitles.entity.elder_guardian.flop"
   },
   "entity.elder_guardian.hurt": {
     "sounds": [
@@ -1385,7 +1406,7 @@
       "mob/guardian/elder_hit3",
       "mob/guardian/elder_hit4"
     ],
-    "subtitle": "subtitles.entity.guardian.hurt"
+    "subtitle": "subtitles.entity.elder_guardian.hurt"
   },
   "entity.elder_guardian.hurt_land": {
     "sounds": [
@@ -1394,7 +1415,7 @@
       "mob/guardian/land_hit3",
       "mob/guardian/land_hit4"
     ],
-    "subtitle": "subtitles.entity.guardian.hurt"
+    "subtitle": "subtitles.entity.elder_guardian.hurt"
   },
   "entity.enderdragon.ambient": {
     "sounds": [
@@ -1546,19 +1567,62 @@
     ],
     "subtitle": "subtitles.entity.enderpearl.throw"
   },
-  "entity.experience_bottle.throw": {
+  "entity.evocation_fangs.attack": {
     "sounds": [
-      "random/bow"
+      "mob/evocation_illager/fangs"
     ],
-    "subtitle": "subtitles.entity.potion.throw"
+    "subtitle": "subtitles.entity.evocation_fangs.attack"
+  },
+  "entity.evocation_illager.ambient": {
+    "sounds": [
+      "mob/evocation_illager/idle1",
+      "mob/evocation_illager/idle2",
+      "mob/evocation_illager/idle3",
+      "mob/evocation_illager/idle4"
+    ],
+    "subtitle": "subtitles.entity.evocation_illager.ambient"
+  },
+  "entity.evocation_illager.cast_spell": {
+    "sounds": [
+      "mob/evocation_illager/cast1",
+      "mob/evocation_illager/cast2"
+    ],
+    "subtitle": "subtitles.entity.evocation_illager.cast_spell"
+  },
+  "entity.evocation_illager.death": {
+    "sounds": [
+      "mob/evocation_illager/death1",
+      "mob/evocation_illager/death2"
+    ],
+    "subtitle": "subtitles.entity.evocation_illager.death"
+  },
+  "entity.evocation_illager.hurt": {
+    "sounds": [
+      "mob/evocation_illager/hurt1",
+      "mob/evocation_illager/hurt2"
+    ],
+    "subtitle": "subtitles.entity.evocation_illager.hurt"
+  },
+  "entity.evocation_illager.prepare_attack": {
+    "sounds": [
+      "mob/evocation_illager/prepare_attack1",
+      "mob/evocation_illager/prepare_attack2"
+    ],
+    "subtitle": "subtitles.entity.evocation_illager.prepare_attack"
+  },
+  "entity.evocation_illager.prepare_summon": {
+    "sounds": [
+      "mob/evocation_illager/prepare_summon"
+    ],
+    "subtitle": "subtitles.entity.evocation_illager.prepare_summon"
+  },
+  "entity.evocation_illager.prepare_wololo": {
+    "sounds": [
+      "mob/evocation_illager/prepare_wololo"
+    ],
+    "subtitle": "subtitles.entity.evocation_illager.prepare_wololo"
   },
   "entity.experience_orb.pickup": {
-    "sounds": [
-      "random/orb"
-    ],
-    "subtitle": "subtitles.entity.experience_orb.pickup"
-  },
-  "entity.experience_orb.touch": {
     "sounds": [
       "random/orb"
     ],
@@ -1578,13 +1642,13 @@
   },
   "entity.firework.large_blast": {
     "sounds": [
-      "fireworks/largeBlast1"
+      "fireworks/largeblast1"
     ],
     "subtitle": "subtitles.entity.firework.blast"
   },
   "entity.firework.large_blast_far": {
     "sounds": [
-      "fireworks/largeBlast_far1"
+      "fireworks/largeblast_far1"
     ],
     "subtitle": "subtitles.entity.firework.blast"
   },
@@ -2112,6 +2176,74 @@
     ],
     "subtitle": "subtitles.entity.potion.throw"
   },
+  "entity.llama.ambient": {
+    "sounds": [
+      "mob/llama/idle1",
+      "mob/llama/idle2",
+      "mob/llama/idle3",
+      "mob/llama/idle4",
+      "mob/llama/idle5"
+    ],
+    "subtitle": "subtitles.entity.llama.ambient"
+  },
+  "entity.llama.angry": {
+    "sounds": [
+      "mob/llama/angry1"
+    ],
+    "subtitle": "subtitles.entity.llama.angry"
+  },
+  "entity.llama.chest": {
+    "sounds": [
+      "mob/chicken/plop"
+    ],
+    "subtitle": "subtitles.entity.llama.chest"
+  },
+  "entity.llama.death": {
+    "sounds": [
+      "mob/llama/death1",
+      "mob/llama/death2"
+    ],
+    "subtitle": "subtitles.entity.llama.death"
+  },
+  "entity.llama.eat": {
+    "sounds": [
+      "mob/llama/eat1",
+      "mob/llama/eat2",
+      "mob/llama/eat3"
+    ],
+    "subtitle": "subtitles.entity.llama.eat"
+  },
+  "entity.llama.hurt": {
+    "sounds": [
+      "mob/llama/hurt1",
+      "mob/llama/hurt2",
+      "mob/llama/hurt3"
+    ],
+    "subtitle": "subtitles.entity.llama.hurt"
+  },
+  "entity.llama.spit": {
+    "sounds": [
+      "mob/llama/spit1",
+      "mob/llama/spit2"
+    ],
+    "subtitle": "subtitles.entity.llama.spit"
+  },
+  "entity.llama.step": {
+    "sounds": [
+      "mob/llama/step1",
+      "mob/llama/step2",
+      "mob/llama/step3",
+      "mob/llama/step4",
+      "mob/llama/step5"
+    ],
+    "subtitle": "subtitles.entity.llama.step"
+  },
+  "entity.llama.swag": {
+    "sounds": [
+      "mob/llama/swag"
+    ],
+    "subtitle": "subtitles.entity.llama.swag"
+  },
   "entity.magmacube.death": {
     "sounds": [
       "mob/slime/big1",
@@ -2172,6 +2304,12 @@
       "mob/horse/donkey/idle3"
     ],
     "subtitle": "subtitles.entity.mule.ambient"
+  },
+  "entity.mule.chest": {
+    "sounds": [
+      "mob/chicken/plop"
+    ],
+    "subtitle": "subtitles.entity.mule.chest"
   },
   "entity.mule.death": {
     "sounds": [
@@ -3045,6 +3183,43 @@
     ],
     "subtitle": "subtitles.entity.tnt.primed"
   },
+  "entity.vex.ambient": {
+    "sounds": [
+      "mob/vex/idle1",
+      "mob/vex/idle2",
+      "mob/vex/idle3",
+      "mob/vex/idle4"
+    ],
+    "subtitle": "subtitles.entity.vex.ambient"
+  },
+  "entity.vex.charge": {
+    "sounds": [
+      "mob/vex/charge1",
+      "mob/vex/charge2",
+      "mob/vex/charge3"
+    ],
+    "subtitle": "subtitles.entity.vex.charge"
+  },
+  "entity.vex.death": {
+    "sounds": [
+      "mob/vex/death1",
+      "mob/vex/death2"
+    ],
+    "subtitle": "subtitles.entity.vex.death"
+  },
+  "entity.experience_bottle.throw": {
+    "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.entity.potion.throw"
+  },
+  "entity.vex.hurt": {
+    "sounds": [
+      "mob/vex/hurt1",
+      "mob/vex/hurt2"
+    ],
+    "subtitle": "subtitles.entity.vex.hurt"
+  },
   "entity.villager.ambient": {
     "sounds": [
       "mob/villager/idle1",
@@ -3091,6 +3266,30 @@
       "mob/villager/yes3"
     ],
     "subtitle": "subtitles.entity.villager.yes"
+  },
+  "entity.vindication_illager.ambient": {
+    "sounds": [
+      "mob/vindication_illager/idle1",
+      "mob/vindication_illager/idle2",
+      "mob/vindication_illager/idle3",
+      "mob/vindication_illager/idle4"
+    ],
+    "subtitle": "subtitles.entity.vindication_illager.ambient"
+  },
+  "entity.vindication_illager.death": {
+    "sounds": [
+      "mob/vindication_illager/death1",
+      "mob/vindication_illager/death2"
+    ],
+    "subtitle": "subtitles.entity.vindication_illager.death"
+  },
+  "entity.vindication_illager.hurt": {
+    "sounds": [
+      "mob/vindication_illager/hurt1",
+      "mob/vindication_illager/hurt2",
+      "mob/vindication_illager/hurt3"
+    ],
+    "subtitle": "subtitles.entity.vindication_illager.hurt"
   },
   "entity.witch.ambient": {
     "sounds": [
@@ -3183,33 +3382,34 @@
   },
   "entity.wither_skeleton.ambient": {
     "sounds": [
-      "mob/skeleton/say1",
-      "mob/skeleton/say2",
-      "mob/skeleton/say3"
+      "mob/wither_skeleton/idle1",
+      "mob/wither_skeleton/idle2",
+      "mob/wither_skeleton/idle3"
     ],
     "subtitle": "subtitles.entity.wither_skeleton.ambient"
   },
   "entity.wither_skeleton.death": {
     "sounds": [
-      "mob/skeleton/death"
+      "mob/wither_skeleton/death1",
+      "mob/wither_skeleton/death2"
     ],
     "subtitle": "subtitles.entity.wither_skeleton.death"
   },
   "entity.wither_skeleton.hurt": {
     "sounds": [
-      "mob/skeleton/hurt1",
-      "mob/skeleton/hurt2",
-      "mob/skeleton/hurt3",
-      "mob/skeleton/hurt4"
+      "mob/wither_skeleton/hurt1",
+      "mob/wither_skeleton/hurt2",
+      "mob/wither_skeleton/hurt3",
+      "mob/wither_skeleton/hurt4"
     ],
     "subtitle": "subtitles.entity.wither_skeleton.hurt"
   },
   "entity.wither_skeleton.step": {
     "sounds": [
-      "mob/skeleton/step1",
-      "mob/skeleton/step2",
-      "mob/skeleton/step3",
-      "mob/skeleton/step4"
+      "mob/wither_skeleton/step1",
+      "mob/wither_skeleton/step2",
+      "mob/wither_skeleton/step3",
+      "mob/wither_skeleton/step4"
     ]
   },
   "entity.wolf.ambient": {
@@ -3392,11 +3592,11 @@
   },
   "entity.zombie_villager.ambient": {
     "sounds": [
-      "mob/zombie/say1",
-      "mob/zombie/say2",
-      "mob/zombie/say3"
+      "mob/zombie_villager/say1",
+      "mob/zombie_villager/say2",
+      "mob/zombie_villager/say3"
     ],
-    "subtitle": "subtitles.entity.zombie.ambient"
+    "subtitle": "subtitles.entity.zombie_villager.ambient"
   },
   "entity.zombie_villager.converted": {
     "sounds": [
@@ -3412,16 +3612,16 @@
   },
   "entity.zombie_villager.death": {
     "sounds": [
-      "mob/zombie/death"
+      "mob/zombie_villager/death"
     ],
-    "subtitle": "subtitles.entity.zombie.death"
+    "subtitle": "subtitles.entity.zombie_villager.death"
   },
   "entity.zombie_villager.hurt": {
     "sounds": [
-      "mob/zombie/hurt1",
-      "mob/zombie/hurt2"
+      "mob/zombie_villager/hurt1",
+      "mob/zombie_villager/hurt2"
     ],
-    "subtitle": "subtitles.entity.zombie.hurt"
+    "subtitle": "subtitles.entity.zombie_villager.hurt"
   },
   "entity.zombie_villager.step": {
     "sounds": [
@@ -3454,6 +3654,17 @@
       "item/armor/equip_diamond6"
     ],
     "subtitle": "subtitles.item.armor.equip_diamond"
+  },
+  "item.armor.equip_elytra": {
+    "sounds": [
+      "item/armor/equip_leather1",
+      "item/armor/equip_leather2",
+      "item/armor/equip_leather3",
+      "item/armor/equip_leather4",
+      "item/armor/equip_leather5",
+      "item/armor/equip_leather6"
+    ],
+    "subtitle": "subtitles.item.armor.equip_elytra"
   },
   "item.armor.equip_generic": {
     "sounds": [
@@ -3498,6 +3709,12 @@
       "item/armor/equip_leather6"
     ],
     "subtitle": "subtitles.item.armor.equip_leather"
+  },
+  "item.bottle.empty": {
+    "sounds": [
+      "item/bottle/empty1",
+      "item/bottle/empty2"
+    ]
   },
   "item.bottle.fill": {
     "sounds": [
@@ -3611,6 +3828,12 @@
       "item/shovel/flatten4"
     ],
     "subtitle": "subtitles.item.shovel.flatten"
+  },
+  "item.totem.use": {
+    "sounds": [
+      "item/totem/use_totem"
+    ],
+    "subtitle": "subtitles.item.totem.use"
   },
   "music.creative": {
     "sounds": [
