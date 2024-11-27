@@ -1,5 +1,5 @@
 minecraft:activity
-minecraft:attributes
+minecraft:attribute
 minecraft:biome
 minecraft:biome_source
 minecraft:block
