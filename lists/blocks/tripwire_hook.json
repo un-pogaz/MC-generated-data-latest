@@ -6,9 +6,9 @@
     ],
     "facing": [
       "north",
-      "east",
       "south",
-      "west"
+      "west",
+      "east"
     ],
     "powered": [
       "true",
