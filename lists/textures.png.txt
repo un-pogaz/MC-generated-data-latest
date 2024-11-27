@@ -1852,6 +1852,7 @@ minecraft:item/music_disc_chirp
 minecraft:item/music_disc_far
 minecraft:item/music_disc_mall
 minecraft:item/music_disc_mellohi
+minecraft:item/music_disc_otherside
 minecraft:item/music_disc_pigstep
 minecraft:item/music_disc_stal
 minecraft:item/music_disc_strad
