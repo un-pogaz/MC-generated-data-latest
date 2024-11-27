@@ -20,6 +20,7 @@ minecraft:entities/cow
 minecraft:entities/creeper
 minecraft:entities/donkey
 minecraft:entities/elder_guardian
+minecraft:entities/ender_dragon
 minecraft:entities/enderman
 minecraft:entities/endermite
 minecraft:entities/evocation_illager
@@ -63,6 +64,7 @@ minecraft:entities/snowman
 minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
+minecraft:entities/vex
 minecraft:entities/villager
 minecraft:entities/vindication_illager
 minecraft:entities/witch
