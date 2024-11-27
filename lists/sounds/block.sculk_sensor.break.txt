@@ -1,5 +1,0 @@
-minecraft:block/sculk_sensor/break1
-minecraft:block/sculk_sensor/break2
-minecraft:block/sculk_sensor/break3
-minecraft:block/sculk_sensor/break4
-minecraft:block/sculk_sensor/break5

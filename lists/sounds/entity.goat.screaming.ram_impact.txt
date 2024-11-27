@@ -1,3 +1,0 @@
-minecraft:mob/goat/impact1
-minecraft:mob/goat/impact2
-minecraft:mob/goat/impact2

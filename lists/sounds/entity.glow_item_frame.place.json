@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "entity/itemframe/place1",
-    "entity/itemframe/place2",
-    "entity/itemframe/place3",
-    "entity/itemframe/place4"
-  ],
-  "subtitle": "subtitles.entity.glow_item_frame.place"
-}

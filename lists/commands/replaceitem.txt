@@ -1,0 +1,4 @@
+replaceitem block <pos minecraft:block_pos> <slot minecraft:item_slot> <item minecraft:item_stack>
+replaceitem block <pos minecraft:block_pos> <slot minecraft:item_slot> <item minecraft:item_stack> <count brigadier:integer[min="1", max="64"]>
+replaceitem entity <targets minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <item minecraft:item_stack>
+replaceitem entity <targets minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <item minecraft:item_stack> <count brigadier:integer[min="1", max="64"]>

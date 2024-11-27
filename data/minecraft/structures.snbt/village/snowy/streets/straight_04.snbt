@@ -403,7 +403,7 @@
     },
     {
       nbt: {
-        final_state: "minecraft:dirt_path",
+        final_state: "minecraft:grass_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/cats",
         id: "minecraft:jigsaw",
@@ -448,7 +448,7 @@
   ],
   palette: [
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Name: "minecraft:air"
@@ -478,5 +478,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

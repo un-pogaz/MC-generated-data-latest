@@ -2687,7 +2687,7 @@
       Name: "minecraft:white_wool"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Name: "minecraft:grass"
@@ -2785,5 +2785,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

@@ -1,5 +1,0 @@
-minecraft:mob/goat/death1
-minecraft:mob/goat/death2
-minecraft:mob/goat/death3
-minecraft:mob/goat/death4
-minecraft:mob/goat/death5

@@ -1,4 +1,0 @@
-minecraft:block/amethyst_cluster/break1
-minecraft:block/amethyst_cluster/break2
-minecraft:block/amethyst_cluster/break3
-minecraft:block/amethyst_cluster/break4
