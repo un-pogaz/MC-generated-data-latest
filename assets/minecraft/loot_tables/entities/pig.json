@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:porkchop",
+                    "type": "item",
+                    "name": "minecraft:porkchop",
                     "weight": 1,
                     "functions": [
                         {

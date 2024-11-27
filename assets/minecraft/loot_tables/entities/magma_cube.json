@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:magma_cream",
+                    "type": "item",
+                    "name": "minecraft:magma_cream",
                     "weight": 1,
                     "functions": [
                         {
