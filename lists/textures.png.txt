@@ -258,6 +258,7 @@ minecraft:gui/demo_bg
 minecraft:gui/enchant
 minecraft:gui/furnace
 minecraft:gui/gui
+minecraft:gui/hopper
 minecraft:gui/icons
 minecraft:gui/inventory
 minecraft:gui/items
@@ -272,6 +273,8 @@ minecraft:item/boat
 minecraft:item/book
 minecraft:item/cart
 minecraft:item/chest
+minecraft:item/chests/trap_large
+minecraft:item/chests/trap_small
 minecraft:item/door
 minecraft:item/enderchest
 minecraft:item/largechest
