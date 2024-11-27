@@ -1,0 +1,10 @@
+minecraft:coal
+minecraft:gold_nugget
+minecraft:emerald
+minecraft:wheat
+
+minecraft:golden_apple
+minecraft:enchanted_book
+minecraft:leather_chestplate
+minecraft:golden_helmet
+minecraft:fishing_rod
