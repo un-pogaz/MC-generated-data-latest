@@ -147,6 +147,10 @@
     "region": "KR",
     "name": "한국어"
   },
+  "kw_gb": {
+    "region": "US",
+    "name": "English"
+  },
   "ky_kg": {
     "region": "भारत",
     "name": "अंग्रेज़ी"
@@ -182,6 +186,10 @@
   "nn_no": {
     "region": "Noreg",
     "name": "Norsk nynorsk"
+  },
+  "no_no": {
+    "region": "NO",
+    "name": "Norsk"
   },
   "pl_pl": {
     "region": "Polska",

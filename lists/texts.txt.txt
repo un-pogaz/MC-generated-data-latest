@@ -2,6 +2,10 @@ minecraft:achievement/map
 minecraft:font
 minecraft:lang/languages
 minecraft:pack
+minecraft:textures/blocks/fire_0
+minecraft:textures/blocks/lava
+minecraft:textures/blocks/lava_flow
+minecraft:textures/blocks/water
 minecraft:title/credits
 minecraft:title/splashes
 minecraft:title/win
