@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 12,
+      "name": "block/beehive/work1",
+      "volume": 0.6
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "block/beehive/work2",
+      "volume": 0.6
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "block/beehive/work3",
+      "volume": 0.6
+    },
+    {
+      "attenuation_distance": 12,
+      "name": "block/beehive/work4",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.block.beehive.work"
+}
