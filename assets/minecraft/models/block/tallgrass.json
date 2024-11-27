@@ -1,99 +1,47 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change in the future!",
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "name": "tallgrass",
     "useAmbientOcclusion": false,
     "randomOffsetX": true,
     "randomOffsetY": true,
     "randomOffsetZ": true,
     "inventoryRender3D": false,
-    "faces": [
-        {
-            "cullFacing": "none",
+    "elements": [
+        {   "type": "plane",
+            "from": [ 0, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "south",
             "tint": true,
-            "vertices": [
-                {
-                    "position": [ 0.05, 1.0, 0.05 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.05, 0.0, 0.05 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.95, 0.0, 0.95 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.95, 1.0, 0.95 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+            "rotation": [ 0, 45, 0 ],
+            "cull": false
         },
-        {
-            "cullFacing": "none",
+        {   "type": "plane",
+            "from": [ 0, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "north",
             "tint": true,
-            "vertices": [
-                {
-                    "position": [ 0.95, 1.0, 0.95 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.95, 0.0, 0.95 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.05, 0.0, 0.05 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.05, 1.0, 0.05 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+            "rotation": [ 0, 45, 0 ],
+            "cull": false
         },
-        {
-            "cullFacing": "none",
+        {   "type": "plane",
+            "from": [ 8, 0, 0 ],
+            "to": [ 8, 16, 16 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "east",
             "tint": true,
-            "vertices": [
-                {
-                    "position": [ 0.05, 1.0, 0.95 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.05, 0.0, 0.95 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.95, 0.0, 0.05 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.95, 1.0, 0.05 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+            "rotation": [ 0, 45, 0 ],
+            "cull": false
         },
-        {
-            "cullFacing": "none",
+        {   "type": "plane",
+            "from": [ 8, 0, 0 ],
+            "to": [ 8, 16, 16 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "west",
             "tint": true,
-            "vertices": [
-                {
-                    "position": [ 0.95, 1.0, 0.05 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.95, 0.0, 0.05 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.05, 0.0, 0.95 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.05, 1.0, 0.95 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+            "rotation": [ 0, 45, 0 ],
+            "cull": false
         }
     ]
 }
