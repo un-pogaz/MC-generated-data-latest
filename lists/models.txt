@@ -67,6 +67,7 @@ minecraft:block/brown_mushroom
 minecraft:block/brown_mushroom_block_c
 minecraft:block/brown_mushroom_block_cap_all
 minecraft:block/brown_mushroom_block_e
+minecraft:block/brown_mushroom_block_inside_all
 minecraft:block/brown_mushroom_block_n
 minecraft:block/brown_mushroom_block_ne
 minecraft:block/brown_mushroom_block_nw
@@ -614,6 +615,7 @@ minecraft:block/red_mushroom
 minecraft:block/red_mushroom_block_c
 minecraft:block/red_mushroom_block_cap_all
 minecraft:block/red_mushroom_block_e
+minecraft:block/red_mushroom_block_inside_all
 minecraft:block/red_mushroom_block_n
 minecraft:block/red_mushroom_block_ne
 minecraft:block/red_mushroom_block_nw
@@ -953,7 +955,9 @@ minecraft:item/compass
 minecraft:item/cooked_beef
 minecraft:item/cooked_chicken
 minecraft:item/cooked_cod
+minecraft:item/cooked_mutton
 minecraft:item/cooked_porkchop
+minecraft:item/cooked_rabbit
 minecraft:item/cooked_salmon
 minecraft:item/cookie
 minecraft:item/cracked_monster_egg
@@ -1151,6 +1155,7 @@ minecraft:item/mossy_brick_monster_egg
 minecraft:item/mossy_cobblestone
 minecraft:item/mossy_stonebrick
 minecraft:item/mushroom_stew
+minecraft:item/mutton
 minecraft:item/mycelium
 minecraft:item/name_tag
 minecraft:item/nether_brick
@@ -1213,6 +1218,10 @@ minecraft:item/quartz_block_column
 minecraft:item/quartz_ore
 minecraft:item/quartz_slab
 minecraft:item/quartz_stairs
+minecraft:item/rabbit
+minecraft:item/rabbit_foot
+minecraft:item/rabbit_hide
+minecraft:item/rabbit_stew
 minecraft:item/rail
 minecraft:item/record_11
 minecraft:item/record_13
