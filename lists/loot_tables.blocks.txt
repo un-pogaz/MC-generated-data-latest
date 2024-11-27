@@ -126,7 +126,9 @@ minecraft:blocks/cracked_stone_bricks
 minecraft:blocks/crafting_table
 minecraft:blocks/creeper_head
 minecraft:blocks/cut_red_sandstone
+minecraft:blocks/cut_red_sandstone_slab
 minecraft:blocks/cut_sandstone
+minecraft:blocks/cut_sandstone_slab
 minecraft:blocks/cyan_banner
 minecraft:blocks/cyan_bed
 minecraft:blocks/cyan_carpet

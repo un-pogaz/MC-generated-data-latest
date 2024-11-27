@@ -268,7 +268,11 @@ minecraft:block/cube_mirrored
 minecraft:block/cube_mirrored_all
 minecraft:block/cube_top
 minecraft:block/cut_red_sandstone
+minecraft:block/cut_red_sandstone_slab
+minecraft:block/cut_red_sandstone_slab_top
 minecraft:block/cut_sandstone
+minecraft:block/cut_sandstone_slab
+minecraft:block/cut_sandstone_slab_top
 minecraft:block/cyan_carpet
 minecraft:block/cyan_concrete
 minecraft:block/cyan_concrete_powder
@@ -1486,7 +1490,9 @@ minecraft:item/crossbow_pulling_0
 minecraft:item/crossbow_pulling_1
 minecraft:item/crossbow_pulling_2
 minecraft:item/cut_red_sandstone
+minecraft:item/cut_red_sandstone_slab
 minecraft:item/cut_sandstone
+minecraft:item/cut_sandstone_slab
 minecraft:item/cyan_banner
 minecraft:item/cyan_bed
 minecraft:item/cyan_carpet
