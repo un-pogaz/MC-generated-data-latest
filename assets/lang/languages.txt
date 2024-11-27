@@ -1,4 +1,3 @@
-﻿
 af_ZA=Afrikaans (ZA)
 ar_SA=العربية (العالم العربي)
 bg_BG=Български (BG)
