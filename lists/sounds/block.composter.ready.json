@@ -1,21 +1,9 @@
 {
   "sounds": [
-    {
-      "name": "block/composter/ready1",
-      "volume": 1
-    },
-    {
-      "name": "block/composter/ready2",
-      "volume": 1
-    },
-    {
-      "name": "block/composter/ready3",
-      "volume": 1
-    },
-    {
-      "name": "block/composter/ready4",
-      "volume": 1
-    }
+    "block/composter/ready1",
+    "block/composter/ready2",
+    "block/composter/ready3",
+    "block/composter/ready4"
   ],
   "subtitle": "subtitles.block.composter.ready"
 }

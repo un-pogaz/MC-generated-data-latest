@@ -1,3 +1,4 @@
 minecraft:alt
 minecraft:default
+minecraft:illageralt
 minecraft:uniform

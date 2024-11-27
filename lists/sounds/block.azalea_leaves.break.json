@@ -5,63 +5,63 @@
       "volume": 0.85
     },
     {
-      "name": "block/azalea_leaves/break2",
-      "volume": 0.85
-    },
-    {
-      "name": "block/azalea_leaves/break3",
-      "volume": 0.85
-    },
-    {
-      "name": "block/azalea_leaves/break4",
-      "volume": 0.85
-    },
-    {
-      "name": "block/azalea_leaves/break5",
-      "volume": 0.85
-    },
-    {
-      "name": "block/azalea_leaves/break6",
-      "volume": 0.85
-    },
-    {
-      "name": "block/azalea_leaves/break7",
-      "volume": 0.85
-    },
-    {
       "name": "block/azalea_leaves/break1",
-      "volume": 0.85,
-      "pitch": 0.92
+      "pitch": 0.92,
+      "volume": 0.85
     },
     {
       "name": "block/azalea_leaves/break2",
-      "volume": 0.85,
-      "pitch": 0.92
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break2",
+      "pitch": 0.92,
+      "volume": 0.85
     },
     {
       "name": "block/azalea_leaves/break3",
-      "volume": 0.85,
-      "pitch": 0.92
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break3",
+      "pitch": 0.92,
+      "volume": 0.85
     },
     {
       "name": "block/azalea_leaves/break4",
-      "volume": 0.85,
-      "pitch": 0.92
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break4",
+      "pitch": 0.92,
+      "volume": 0.85
     },
     {
       "name": "block/azalea_leaves/break5",
-      "volume": 0.85,
-      "pitch": 0.92
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break5",
+      "pitch": 0.92,
+      "volume": 0.85
     },
     {
       "name": "block/azalea_leaves/break6",
-      "volume": 0.85,
-      "pitch": 0.92
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break6",
+      "pitch": 0.92,
+      "volume": 0.85
     },
     {
       "name": "block/azalea_leaves/break7",
-      "volume": 0.85,
-      "pitch": 0.92
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break7",
+      "pitch": 0.92,
+      "volume": 0.85
     }
   ],
   "subtitle": "subtitles.block.generic.break"

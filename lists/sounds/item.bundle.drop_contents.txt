@@ -1,0 +1,6 @@
+minecraft:item/bundle/drop_contents1
+minecraft:item/bundle/drop_contents1
+minecraft:item/bundle/drop_contents2
+minecraft:item/bundle/drop_contents2
+minecraft:item/bundle/drop_contents3
+minecraft:item/bundle/drop_contents3

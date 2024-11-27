@@ -1,26 +1,14 @@
 {
   "sounds": [
-    {
-      "name": "mob/axolotl/idle_air1",
-      "volume": 1
-    },
-    {
-      "name": "mob/axolotl/idle_air2",
-      "volume": 1
-    },
+    "mob/axolotl/idle_air1",
+    "mob/axolotl/idle_air2",
     {
       "name": "mob/axolotl/idle_air3",
-      "volume": 0.8,
-      "pitch": 1.2
+      "pitch": 1.2,
+      "volume": 0.8
     },
-    {
-      "name": "mob/axolotl/idle_air4",
-      "volume": 1
-    },
-    {
-      "name": "mob/axolotl/idle_air5",
-      "pitch": 1
-    }
+    "mob/axolotl/idle_air4",
+    "mob/axolotl/idle_air5"
   ],
   "subtitle": "subtitles.entity.axolotl.idle_air"
 }

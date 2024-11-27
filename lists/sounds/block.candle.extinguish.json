@@ -1,112 +1,97 @@
 {
   "sounds": [
     {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish1"
+    },
+    {
+      "attenuation_distance": 8,
       "name": "block/candle/extinguish1",
-      "attenuation_distance": 8,
-      "volume": 1,
-      "pitch": 1
+      "volume": 0.9
     },
     {
-      "name": "block/candle/extinguish2",
       "attenuation_distance": 8,
-      "volume": 1,
-      "pitch": 1
-    },
-    {
-      "name": "block/candle/extinguish3",
-      "attenuation_distance": 8,
-      "volume": 1,
-      "pitch": 1
-    },
-    {
       "name": "block/candle/extinguish1",
-      "attenuation_distance": 8,
-      "volume": 1,
       "pitch": 0.9
     },
     {
-      "name": "block/candle/extinguish2",
       "attenuation_distance": 8,
-      "volume": 1,
-      "pitch": 0.9
-    },
-    {
-      "name": "block/candle/extinguish3",
-      "attenuation_distance": 8,
-      "volume": 1,
-      "pitch": 0.9
-    },
-    {
       "name": "block/candle/extinguish1",
-      "attenuation_distance": 8,
-      "volume": 1,
-      "pitch": 1.1
+      "pitch": 0.9,
+      "volume": 0.9
     },
     {
-      "name": "block/candle/extinguish2",
       "attenuation_distance": 8,
-      "volume": 1,
-      "pitch": 1.1
-    },
-    {
-      "name": "block/candle/extinguish3",
-      "attenuation_distance": 8,
-      "volume": 1,
-      "pitch": 1.1
-    },
-    {
       "name": "block/candle/extinguish1",
+      "pitch": 1.1
+    },
+    {
       "attenuation_distance": 8,
-      "volume": 0.9,
+      "name": "block/candle/extinguish1",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish2"
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish2",
+      "volume": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish2",
       "pitch": 0.9
     },
     {
-      "name": "block/candle/extinguish2",
       "attenuation_distance": 8,
-      "volume": 0.9,
+      "name": "block/candle/extinguish2",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish2",
+      "pitch": 1.1
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish2",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish3"
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish3",
+      "volume": 0.9
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "block/candle/extinguish3",
       "pitch": 0.9
     },
     {
-      "name": "block/candle/extinguish3",
       "attenuation_distance": 8,
-      "volume": 0.9,
-      "pitch": 0.9
+      "name": "block/candle/extinguish3",
+      "pitch": 0.9,
+      "volume": 0.9
     },
     {
-      "name": "block/candle/extinguish1",
       "attenuation_distance": 8,
-      "volume": 0.9,
+      "name": "block/candle/extinguish3",
       "pitch": 1.1
     },
     {
-      "name": "block/candle/extinguish2",
       "attenuation_distance": 8,
-      "volume": 0.9,
-      "pitch": 1.1
-    },
-    {
       "name": "block/candle/extinguish3",
-      "attenuation_distance": 8,
-      "volume": 0.9,
-      "pitch": 1.1
-    },
-    {
-      "name": "block/candle/extinguish1",
-      "attenuation_distance": 8,
-      "volume": 0.9,
-      "pitch": 1
-    },
-    {
-      "name": "block/candle/extinguish2",
-      "attenuation_distance": 8,
-      "volume": 0.9,
-      "pitch": 1
-    },
-    {
-      "name": "block/candle/extinguish3",
-      "attenuation_distance": 8,
-      "volume": 0.9,
-      "pitch": 1
+      "pitch": 1.1,
+      "volume": 0.9
     }
   ],
   "subtitle": "subtitles.block.fire.extinguish"
