@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.evoker.cast_spell",
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.evoker"
+}

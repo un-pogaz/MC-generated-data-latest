@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "item/axe/strip1",
+      "volume": 0.9
+    },
+    {
+      "name": "item/axe/strip2",
+      "volume": 0.9
+    },
+    {
+      "name": "item/axe/strip3",
+      "volume": 0.9
+    },
+    {
+      "name": "item/axe/strip4",
+      "volume": 0.9
+    },
+    {
+      "name": "item/axe/strip1",
+      "pitch": 0.85,
+      "volume": 0.9
+    },
+    {
+      "name": "item/axe/strip2",
+      "pitch": 0.85,
+      "volume": 0.9
+    },
+    {
+      "name": "item/axe/strip3",
+      "pitch": 0.85,
+      "volume": 0.9
+    },
+    {
+      "name": "item/axe/strip4",
+      "pitch": 0.85,
+      "volume": 0.9
+    }
+  ],
+  "subtitles": "subtitles.item.axe.strip"
+}

@@ -1,0 +1,8 @@
+minecraft:mob/dolphin/idle1
+minecraft:mob/dolphin/idle2
+minecraft:mob/dolphin/idle3
+minecraft:mob/dolphin/idle4
+minecraft:mob/dolphin/idle5
+minecraft:mob/dolphin/idle6
+minecraft:mob/dolphin/blowhole1
+minecraft:mob/dolphin/blowhole2

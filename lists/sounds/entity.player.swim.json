@@ -1,9 +1,19 @@
 {
   "sounds": [
-    "liquid/swim1",
-    "liquid/swim2",
-    "liquid/swim3",
-    "liquid/swim4"
+    "liquid/swim5",
+    "liquid/swim6",
+    "liquid/swim7",
+    "liquid/swim8",
+    "liquid/swim9",
+    "liquid/swim10",
+    "liquid/swim11",
+    "liquid/swim12",
+    "liquid/swim13",
+    "liquid/swim14",
+    "liquid/swim15",
+    "liquid/swim16",
+    "liquid/swim17",
+    "liquid/swim18"
   ],
   "subtitle": "subtitles.entity.generic.swim"
 }

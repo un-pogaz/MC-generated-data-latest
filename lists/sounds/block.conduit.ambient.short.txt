@@ -1,0 +1,9 @@
+minecraft:block/conduit/short1
+minecraft:block/conduit/short2
+minecraft:block/conduit/short3
+minecraft:block/conduit/short4
+minecraft:block/conduit/short5
+minecraft:block/conduit/short6
+minecraft:block/conduit/short7
+minecraft:block/conduit/short8
+minecraft:block/conduit/short9

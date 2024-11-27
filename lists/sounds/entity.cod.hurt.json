@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/fish/hurt1",
+    "entity/fish/hurt2",
+    "entity/fish/hurt3",
+    "entity/fish/hurt4"
+  ],
+  "subtitle": "subtitles.entity.cod.hurt"
+}

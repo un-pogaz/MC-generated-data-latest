@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/horse/skeleton/water/gallop1",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/horse/skeleton/water/gallop2",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/horse/skeleton/water/gallop3",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/horse/skeleton/water/gallop4",
+      "volume": 0.45
+    }
+  ],
+  "subtitle": "subtitles.entity.horse.gallop"
+}

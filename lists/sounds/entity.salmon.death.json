@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "entity/fish/hurt1",
+      "pitch": 0.8
+    },
+    {
+      "name": "entity/fish/hurt2",
+      "pitch": 0.8
+    },
+    {
+      "name": "entity/fish/hurt3",
+      "pitch": 0.8
+    },
+    {
+      "name": "entity/fish/hurt4",
+      "pitch": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.salmon.death"
+}

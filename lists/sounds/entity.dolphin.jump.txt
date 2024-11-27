@@ -1,0 +1,3 @@
+minecraft:mob/dolphin/jump1
+minecraft:mob/dolphin/jump2
+minecraft:mob/dolphin/jump3

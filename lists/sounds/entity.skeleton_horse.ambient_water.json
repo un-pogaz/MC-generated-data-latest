@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/horse/skeleton/water/idle1",
+    "mob/horse/skeleton/water/idle2",
+    "mob/horse/skeleton/water/idle3",
+    "mob/horse/skeleton/water/idle4",
+    "mob/horse/skeleton/water/idle5"
+  ],
+  "subtitle": "subtitles.entity.skeleton_horse.ambient"
+}
