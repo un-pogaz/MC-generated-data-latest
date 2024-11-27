@@ -71,6 +71,15 @@
                     ]
                 }
             ]
+        },
+        {
+            "rolls": 1,
+            "items": [
+                {
+                    "item": "minecraft:golden_apple",
+                    "weight": 1
+                }
+            ]
         }
     ]
 }
