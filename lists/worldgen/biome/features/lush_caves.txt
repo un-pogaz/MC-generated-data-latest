@@ -43,10 +43,11 @@ minecraft:disk_gravel
 
 []
 
-minecraft:patch_tall_grass_2
-minecraft:glow_lichen
 minecraft:spring_water
 minecraft:spring_lava
+
+minecraft:glow_lichen
+minecraft:patch_tall_grass_2
 minecraft:lush_caves_ceiling_vegetation
 minecraft:cave_vines
 minecraft:lush_caves_clay
@@ -54,3 +55,5 @@ minecraft:lush_caves_vegetation
 minecraft:rooted_azalea_trees
 minecraft:spore_blossom
 minecraft:classic_vines_cave_feature
+
+minecraft:freeze_top_layer
