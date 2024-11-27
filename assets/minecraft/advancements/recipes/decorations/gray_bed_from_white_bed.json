@@ -25,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_bed"
-    ],
-    [
+      "has_bed",
       "has_the_recipe"
     ]
   ]

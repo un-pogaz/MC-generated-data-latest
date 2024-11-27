@@ -36,12 +36,8 @@
   },
   "requirements": [
     [
-      "has_bonemeal"
-    ],
-    [
-      "has_red_dye"
-    ],
-    [
+      "has_bonemeal",
+      "has_red_dye",
       "has_the_recipe"
     ]
   ]

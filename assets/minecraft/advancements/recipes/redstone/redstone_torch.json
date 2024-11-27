@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_redstone"
-    ],
-    [
+      "has_redstone",
       "has_the_recipe"
     ]
   ]

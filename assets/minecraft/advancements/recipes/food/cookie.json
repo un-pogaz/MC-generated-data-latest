@@ -25,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_cocoa"
-    ],
-    [
+      "has_cocoa",
       "has_the_recipe"
     ]
   ]

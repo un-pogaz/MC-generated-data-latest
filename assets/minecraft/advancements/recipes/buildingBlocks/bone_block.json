@@ -29,9 +29,7 @@
   },
   "requirements": [
     [
-      "has_the_recipe"
-    ],
-    [
+      "has_the_recipe",
       "has_at_least_9_bonemeal"
     ]
   ]

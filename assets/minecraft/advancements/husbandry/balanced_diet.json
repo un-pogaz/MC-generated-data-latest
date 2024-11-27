@@ -57,23 +57,71 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:golden_apple"
+                    "item": "minecraft:golden_apple",
+                    "data": 0
                 }
             }
         },
-        "fish": {
+        "enchanted_golden_apple": {
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:fish"
+                    "item": "minecraft:golden_apple",
+                    "data": 1
                 }
             }
         },
-        "cooked_fish": {
+        "raw_cod": {
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:cooked_fish"
+                    "item": "minecraft:fish",
+                    "data": 0
+                }
+            }
+        },
+        "raw_salmon": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:fish",
+                    "data": 1
+                }
+            }
+        },
+        "clownfish": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:fish",
+                    "data": 2
+                }
+            }
+        },
+        "pufferfish": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:fish",
+                    "data": 3
+                }
+            }
+        },
+        "cooked_cod": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:cooked_fish",
+                    "data": 0
+                }
+            }
+        },
+        "cooked_salmon": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:cooked_fish",
+                    "data": 1
                 }
             }
         },

@@ -25,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_red_flower"
-    ],
-    [
+      "has_red_flower",
       "has_the_recipe"
     ]
   ]
