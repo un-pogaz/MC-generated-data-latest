@@ -5,7 +5,7 @@
     ]
   },
   "criteria": {
-    "has_wool": {
+    "has_blue_wool": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_wool"
+      "has_blue_wool"
     ],
     [
       "has_the_recipe"
