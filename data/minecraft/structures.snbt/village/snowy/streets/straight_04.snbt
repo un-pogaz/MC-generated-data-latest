@@ -34,6 +34,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 6],
+      state: 1
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/snowy/streets",
         final_state: "minecraft:air",
         id: "minecraft:jigsaw",
@@ -87,46 +97,6 @@
       state: 5
     },
     {
-      pos: [0, 1, 0],
-      state: 5
-    },
-    {
-      pos: [2, 1, 0],
-      state: 5
-    },
-    {
-      pos: [3, 1, 0],
-      state: 5
-    },
-    {
-      pos: [4, 1, 0],
-      state: 5
-    },
-    {
-      pos: [5, 1, 0],
-      state: 5
-    },
-    {
-      pos: [6, 1, 0],
-      state: 5
-    },
-    {
-      pos: [7, 1, 0],
-      state: 5
-    },
-    {
-      pos: [8, 1, 0],
-      state: 5
-    },
-    {
-      pos: [9, 1, 0],
-      state: 5
-    },
-    {
-      pos: [10, 1, 0],
-      state: 5
-    },
-    {
       pos: [0, 0, 1],
       state: 4
     },
@@ -168,50 +138,6 @@
     },
     {
       pos: [10, 0, 1],
-      state: 5
-    },
-    {
-      pos: [0, 1, 1],
-      state: 5
-    },
-    {
-      pos: [1, 1, 1],
-      state: 5
-    },
-    {
-      pos: [2, 1, 1],
-      state: 5
-    },
-    {
-      pos: [3, 1, 1],
-      state: 5
-    },
-    {
-      pos: [4, 1, 1],
-      state: 5
-    },
-    {
-      pos: [5, 1, 1],
-      state: 5
-    },
-    {
-      pos: [6, 1, 1],
-      state: 5
-    },
-    {
-      pos: [7, 1, 1],
-      state: 5
-    },
-    {
-      pos: [8, 1, 1],
-      state: 5
-    },
-    {
-      pos: [9, 1, 1],
-      state: 5
-    },
-    {
-      pos: [10, 1, 1],
       state: 5
     },
     {
@@ -259,50 +185,6 @@
       state: 5
     },
     {
-      pos: [0, 1, 2],
-      state: 5
-    },
-    {
-      pos: [1, 1, 2],
-      state: 5
-    },
-    {
-      pos: [2, 1, 2],
-      state: 5
-    },
-    {
-      pos: [3, 1, 2],
-      state: 5
-    },
-    {
-      pos: [4, 1, 2],
-      state: 5
-    },
-    {
-      pos: [5, 1, 2],
-      state: 5
-    },
-    {
-      pos: [6, 1, 2],
-      state: 5
-    },
-    {
-      pos: [7, 1, 2],
-      state: 5
-    },
-    {
-      pos: [8, 1, 2],
-      state: 5
-    },
-    {
-      pos: [9, 1, 2],
-      state: 5
-    },
-    {
-      pos: [10, 1, 2],
-      state: 5
-    },
-    {
       pos: [1, 0, 3],
       state: 4
     },
@@ -340,50 +222,6 @@
     },
     {
       pos: [10, 0, 3],
-      state: 5
-    },
-    {
-      pos: [0, 1, 3],
-      state: 5
-    },
-    {
-      pos: [1, 1, 3],
-      state: 5
-    },
-    {
-      pos: [2, 1, 3],
-      state: 5
-    },
-    {
-      pos: [3, 1, 3],
-      state: 5
-    },
-    {
-      pos: [4, 1, 3],
-      state: 5
-    },
-    {
-      pos: [5, 1, 3],
-      state: 5
-    },
-    {
-      pos: [6, 1, 3],
-      state: 5
-    },
-    {
-      pos: [7, 1, 3],
-      state: 5
-    },
-    {
-      pos: [8, 1, 3],
-      state: 5
-    },
-    {
-      pos: [9, 1, 3],
-      state: 5
-    },
-    {
-      pos: [10, 1, 3],
       state: 5
     },
     {
@@ -431,46 +269,6 @@
       state: 5
     },
     {
-      pos: [0, 1, 4],
-      state: 5
-    },
-    {
-      pos: [1, 1, 4],
-      state: 5
-    },
-    {
-      pos: [3, 1, 4],
-      state: 5
-    },
-    {
-      pos: [4, 1, 4],
-      state: 5
-    },
-    {
-      pos: [5, 1, 4],
-      state: 5
-    },
-    {
-      pos: [6, 1, 4],
-      state: 5
-    },
-    {
-      pos: [7, 1, 4],
-      state: 5
-    },
-    {
-      pos: [8, 1, 4],
-      state: 5
-    },
-    {
-      pos: [9, 1, 4],
-      state: 5
-    },
-    {
-      pos: [10, 1, 4],
-      state: 5
-    },
-    {
       pos: [0, 0, 5],
       state: 4
     },
@@ -515,55 +313,7 @@
       state: 5
     },
     {
-      pos: [0, 1, 5],
-      state: 5
-    },
-    {
-      pos: [1, 1, 5],
-      state: 5
-    },
-    {
-      pos: [2, 1, 5],
-      state: 5
-    },
-    {
-      pos: [3, 1, 5],
-      state: 5
-    },
-    {
-      pos: [4, 1, 5],
-      state: 5
-    },
-    {
-      pos: [5, 1, 5],
-      state: 5
-    },
-    {
-      pos: [6, 1, 5],
-      state: 5
-    },
-    {
-      pos: [7, 1, 5],
-      state: 5
-    },
-    {
-      pos: [8, 1, 5],
-      state: 5
-    },
-    {
-      pos: [9, 1, 5],
-      state: 5
-    },
-    {
-      pos: [10, 1, 5],
-      state: 5
-    },
-    {
       pos: [0, 0, 6],
-      state: 4
-    },
-    {
-      pos: [1, 0, 6],
       state: 4
     },
     {
@@ -600,50 +350,6 @@
     },
     {
       pos: [10, 0, 6],
-      state: 5
-    },
-    {
-      pos: [0, 1, 6],
-      state: 5
-    },
-    {
-      pos: [1, 1, 6],
-      state: 5
-    },
-    {
-      pos: [2, 1, 6],
-      state: 5
-    },
-    {
-      pos: [3, 1, 6],
-      state: 5
-    },
-    {
-      pos: [4, 1, 6],
-      state: 5
-    },
-    {
-      pos: [5, 1, 6],
-      state: 5
-    },
-    {
-      pos: [6, 1, 6],
-      state: 5
-    },
-    {
-      pos: [7, 1, 6],
-      state: 5
-    },
-    {
-      pos: [8, 1, 6],
-      state: 5
-    },
-    {
-      pos: [9, 1, 6],
-      state: 5
-    },
-    {
-      pos: [10, 1, 6],
       state: 5
     },
     {
@@ -691,50 +397,6 @@
       state: 5
     },
     {
-      pos: [0, 1, 7],
-      state: 5
-    },
-    {
-      pos: [1, 1, 7],
-      state: 5
-    },
-    {
-      pos: [2, 1, 7],
-      state: 5
-    },
-    {
-      pos: [3, 1, 7],
-      state: 5
-    },
-    {
-      pos: [4, 1, 7],
-      state: 5
-    },
-    {
-      pos: [5, 1, 7],
-      state: 5
-    },
-    {
-      pos: [6, 1, 7],
-      state: 5
-    },
-    {
-      pos: [7, 1, 7],
-      state: 5
-    },
-    {
-      pos: [8, 1, 7],
-      state: 5
-    },
-    {
-      pos: [9, 1, 7],
-      state: 5
-    },
-    {
-      pos: [10, 1, 7],
-      state: 5
-    },
-    {
       pos: [0, 0, 8],
       state: 4
     },
@@ -777,46 +439,6 @@
     {
       pos: [10, 0, 8],
       state: 5
-    },
-    {
-      pos: [0, 1, 8],
-      state: 5
-    },
-    {
-      pos: [2, 1, 8],
-      state: 5
-    },
-    {
-      pos: [3, 1, 8],
-      state: 5
-    },
-    {
-      pos: [4, 1, 8],
-      state: 5
-    },
-    {
-      pos: [5, 1, 8],
-      state: 5
-    },
-    {
-      pos: [6, 1, 8],
-      state: 5
-    },
-    {
-      pos: [7, 1, 8],
-      state: 5
-    },
-    {
-      pos: [8, 1, 8],
-      state: 5
-    },
-    {
-      pos: [9, 1, 8],
-      state: 5
-    },
-    {
-      pos: [10, 1, 8],
-      state: 5
     }
   ],
   palette: [
@@ -851,5 +473,5 @@
       Name: "minecraft:air"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1916
 }

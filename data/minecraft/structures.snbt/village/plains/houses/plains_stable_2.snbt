@@ -772,12 +772,32 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_block",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [6, 0, 1],
+      state: 9
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/common/animals",
         final_state: "minecraft:dirt",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:bottom"
       },
       pos: [3, 0, 2],
+      state: 9
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_block",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [0, 0, 3],
       state: 9
     },
     {
@@ -799,6 +819,14 @@
       },
       pos: [0, 1, 9],
       state: 10
+    },
+    {
+      pos: [0, 0, 0],
+      state: 11
+    },
+    {
+      pos: [6, 0, 0],
+      state: 11
     },
     {
       pos: [0, 1, 0],
@@ -938,6 +966,10 @@
     },
     {
       pos: [6, 5, 0],
+      state: 11
+    },
+    {
+      pos: [0, 0, 1],
       state: 11
     },
     {
@@ -1081,6 +1113,14 @@
       state: 11
     },
     {
+      pos: [0, 0, 2],
+      state: 11
+    },
+    {
+      pos: [6, 0, 2],
+      state: 11
+    },
+    {
       pos: [0, 1, 2],
       state: 11
     },
@@ -1210,6 +1250,10 @@
     },
     {
       pos: [6, 5, 2],
+      state: 11
+    },
+    {
+      pos: [6, 0, 3],
       state: 11
     },
     {
@@ -1345,6 +1389,14 @@
       state: 11
     },
     {
+      pos: [0, 0, 4],
+      state: 11
+    },
+    {
+      pos: [6, 0, 4],
+      state: 11
+    },
+    {
       pos: [0, 1, 4],
       state: 11
     },
@@ -1473,6 +1525,14 @@
       state: 11
     },
     {
+      pos: [0, 0, 5],
+      state: 11
+    },
+    {
+      pos: [6, 0, 5],
+      state: 11
+    },
+    {
       pos: [0, 1, 5],
       state: 11
     },
@@ -1558,6 +1618,14 @@
     },
     {
       pos: [6, 5, 5],
+      state: 11
+    },
+    {
+      pos: [0, 0, 6],
+      state: 11
+    },
+    {
+      pos: [6, 0, 6],
       state: 11
     },
     {
@@ -1669,6 +1737,14 @@
       state: 11
     },
     {
+      pos: [0, 0, 7],
+      state: 11
+    },
+    {
+      pos: [6, 0, 7],
+      state: 11
+    },
+    {
       pos: [0, 1, 7],
       state: 11
     },
@@ -1777,6 +1853,14 @@
       state: 11
     },
     {
+      pos: [0, 0, 8],
+      state: 11
+    },
+    {
+      pos: [6, 0, 8],
+      state: 11
+    },
+    {
       pos: [0, 1, 8],
       state: 11
     },
@@ -1881,6 +1965,10 @@
       state: 11
     },
     {
+      pos: [6, 0, 9],
+      state: 11
+    },
+    {
       pos: [2, 1, 9],
       state: 11
     },
@@ -1979,6 +2067,10 @@
     {
       pos: [0, 0, 10],
       state: 26
+    },
+    {
+      pos: [6, 0, 10],
+      state: 11
     },
     {
       pos: [0, 1, 10],
@@ -2097,6 +2189,14 @@
       state: 11
     },
     {
+      pos: [0, 0, 11],
+      state: 11
+    },
+    {
+      pos: [6, 0, 11],
+      state: 11
+    },
+    {
       pos: [0, 1, 11],
       state: 11
     },
@@ -2198,6 +2298,14 @@
     },
     {
       pos: [6, 5, 11],
+      state: 11
+    },
+    {
+      pos: [0, 0, 12],
+      state: 11
+    },
+    {
+      pos: [6, 0, 12],
       state: 11
     },
     {
@@ -2313,6 +2421,14 @@
       state: 11
     },
     {
+      pos: [0, 0, 13],
+      state: 11
+    },
+    {
+      pos: [6, 0, 13],
+      state: 11
+    },
+    {
       pos: [0, 1, 13],
       state: 11
     },
@@ -2410,6 +2526,14 @@
     },
     {
       pos: [6, 5, 13],
+      state: 11
+    },
+    {
+      pos: [0, 0, 14],
+      state: 11
+    },
+    {
+      pos: [6, 0, 14],
       state: 11
     },
     {
@@ -2525,6 +2649,14 @@
       state: 11
     },
     {
+      pos: [0, 0, 15],
+      state: 11
+    },
+    {
+      pos: [6, 0, 15],
+      state: 11
+    },
+    {
       pos: [0, 1, 15],
       state: 11
     },
@@ -2590,6 +2722,34 @@
     },
     {
       pos: [6, 5, 15],
+      state: 11
+    },
+    {
+      pos: [0, 0, 16],
+      state: 11
+    },
+    {
+      pos: [1, 0, 16],
+      state: 11
+    },
+    {
+      pos: [2, 0, 16],
+      state: 11
+    },
+    {
+      pos: [3, 0, 16],
+      state: 11
+    },
+    {
+      pos: [4, 0, 16],
+      state: 11
+    },
+    {
+      pos: [5, 0, 16],
+      state: 11
+    },
+    {
+      pos: [6, 0, 16],
       state: 11
     },
     {
@@ -2977,5 +3137,5 @@
       Name: "minecraft:glass_pane"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1916
 }
