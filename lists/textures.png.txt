@@ -44,6 +44,7 @@ minecraft:blocks/comparator_on
 minecraft:blocks/crafting_table_front
 minecraft:blocks/crafting_table_side
 minecraft:blocks/crafting_table_top
+minecraft:blocks/daylight_detector_inverted_top
 minecraft:blocks/daylight_detector_side
 minecraft:blocks/daylight_detector_top
 minecraft:blocks/deadbush
@@ -368,10 +369,15 @@ minecraft:entity/banner/cross
 minecraft:entity/banner/curly_border
 minecraft:entity/banner/diagonal_left
 minecraft:entity/banner/diagonal_right
+minecraft:entity/banner/diagonal_up_left
+minecraft:entity/banner/diagonal_up_right
 minecraft:entity/banner/flower
 minecraft:entity/banner/gradient
+minecraft:entity/banner/gradient_up
 minecraft:entity/banner/half_horizontal
+minecraft:entity/banner/half_horizontal_bottom
 minecraft:entity/banner/half_vertical
+minecraft:entity/banner/half_vertical_right
 minecraft:entity/banner/mojang
 minecraft:entity/banner/rhombus
 minecraft:entity/banner/skull

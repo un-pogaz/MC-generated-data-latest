@@ -1,0 +1,4 @@
+minecraft:mob/rabbit/hop1
+minecraft:mob/rabbit/hop2
+minecraft:mob/rabbit/hop3
+minecraft:mob/rabbit/hop4
