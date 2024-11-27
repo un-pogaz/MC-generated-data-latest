@@ -1,9 +1,9 @@
 minecraft:prismarine_shard
 
-minecraft:fish
+minecraft:cod
 minecraft:prismarine_crystals
 empty
 
-minecraft:sponge
+minecraft:wet_sponge
 
 loot_table[]minecraft:gameplay/fishing/fish

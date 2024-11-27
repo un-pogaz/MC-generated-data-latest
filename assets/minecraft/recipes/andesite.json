@@ -2,16 +2,14 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:stone",
-      "data": 3
+      "item": "minecraft:diorite"
     },
     {
       "item": "minecraft:cobblestone"
     }
   ],
   "result": {
-    "item": "minecraft:stone",
-    "data": 5,
+    "item": "minecraft:granite",
     "count": 2
   }
 }

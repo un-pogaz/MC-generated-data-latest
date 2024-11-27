@@ -2,17 +2,14 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 2
+      "item": "minecraft:cactus_green"
     },
     {
-      "item": "minecraft:dye",
-      "data": 15
+      "item": "minecraft:bone_meal"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 10,
+    "item": "minecraft:lime_dye",
     "count": 2
   }
 }

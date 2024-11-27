@@ -2,17 +2,14 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 0
+      "item": "minecraft:ink_sac"
     },
     {
-      "item": "minecraft:dye",
-      "data": 15
+      "item": "minecraft:bone_meal"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 8,
+    "item": "minecraft:gray_dye",
     "count": 2
   }
 }
