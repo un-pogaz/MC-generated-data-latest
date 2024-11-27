@@ -1,0 +1,15 @@
+minecraft:item/bonemeal/bonemeal1
+minecraft:item/bonemeal/bonemeal2
+minecraft:item/bonemeal/bonemeal3
+minecraft:item/bonemeal/bonemeal4
+minecraft:item/bonemeal/bonemeal5
+minecraft:item/bonemeal/bonemeal1
+minecraft:item/bonemeal/bonemeal2
+minecraft:item/bonemeal/bonemeal3
+minecraft:item/bonemeal/bonemeal4
+minecraft:item/bonemeal/bonemeal5
+minecraft:item/bonemeal/bonemeal1
+minecraft:item/bonemeal/bonemeal2
+minecraft:item/bonemeal/bonemeal3
+minecraft:item/bonemeal/bonemeal4
+minecraft:item/bonemeal/bonemeal5

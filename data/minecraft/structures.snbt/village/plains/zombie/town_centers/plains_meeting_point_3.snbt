@@ -990,7 +990,7 @@
       Name: "minecraft:oak_leaves"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:grass"
@@ -1165,5 +1165,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

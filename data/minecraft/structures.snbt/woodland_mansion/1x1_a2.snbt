@@ -1664,24 +1664,28 @@
     },
     {
       Properties: {
+        waterlogged: "false",
         shape: "south_east"
       },
       Name: "minecraft:rail"
     },
     {
       Properties: {
+        waterlogged: "false",
         shape: "north_south"
       },
       Name: "minecraft:rail"
     },
     {
       Properties: {
+        waterlogged: "false",
         shape: "north_east"
       },
       Name: "minecraft:rail"
     },
     {
       Properties: {
+        waterlogged: "false",
         shape: "east_west"
       },
       Name: "minecraft:rail"
@@ -1732,5 +1736,5 @@
       Name: "minecraft:dark_oak_stairs"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

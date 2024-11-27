@@ -1,4 +1,5 @@
 minecraft:acacia
+minecraft:amethyst_geode
 minecraft:bamboo
 minecraft:bamboo_light
 minecraft:bamboo_vegetation
@@ -30,6 +31,7 @@ minecraft:desert_well
 minecraft:disk_clay
 minecraft:disk_gravel
 minecraft:disk_sand
+minecraft:dripstone_cluster
 minecraft:end_gateway
 minecraft:end_gateway_delayed
 minecraft:end_island
@@ -51,6 +53,7 @@ minecraft:forest_flower_vegetation_common
 minecraft:forest_rock
 minecraft:fossil
 minecraft:freeze_top_layer
+minecraft:glow_lichen
 minecraft:glowstone
 minecraft:glowstone_extra
 minecraft:huge_brown_mushroom
@@ -67,6 +70,7 @@ minecraft:kelp_warm
 minecraft:lake_lava
 minecraft:lake_water
 minecraft:large_basalt_columns
+minecraft:large_dripstone
 minecraft:mega_jungle_tree
 minecraft:mega_pine
 minecraft:mega_spruce
@@ -81,6 +85,7 @@ minecraft:oak_bees_005
 minecraft:ore_andesite
 minecraft:ore_blackstone
 minecraft:ore_coal
+minecraft:ore_copper
 minecraft:ore_debris_large
 minecraft:ore_debris_small
 minecraft:ore_diamond
@@ -159,6 +164,7 @@ minecraft:seagrass_simple
 minecraft:seagrass_swamp
 minecraft:seagrass_warm
 minecraft:small_basalt_columns
+minecraft:small_dripstone
 minecraft:spring_closed
 minecraft:spring_closed_double
 minecraft:spring_delta

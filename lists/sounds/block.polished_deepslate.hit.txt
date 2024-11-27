@@ -1,0 +1,6 @@
+minecraft:block/deepslate/step1
+minecraft:block/deepslate/step2
+minecraft:block/deepslate/step3
+minecraft:block/deepslate/step4
+minecraft:block/deepslate/step5
+minecraft:block/deepslate/step6

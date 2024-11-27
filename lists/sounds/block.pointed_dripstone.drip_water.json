@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    "block/pointed_dripstone/drip_water1",
+    "block/pointed_dripstone/drip_water2",
+    "block/pointed_dripstone/drip_water3",
+    "block/pointed_dripstone/drip_water4",
+    "block/pointed_dripstone/drip_water5",
+    "block/pointed_dripstone/drip_water6",
+    "block/pointed_dripstone/drip_water7",
+    "block/pointed_dripstone/drip_water8",
+    "block/pointed_dripstone/drip_water9",
+    "block/pointed_dripstone/drip_water10",
+    "block/pointed_dripstone/drip_water11",
+    "block/pointed_dripstone/drip_water12",
+    "block/pointed_dripstone/drip_water13",
+    "block/pointed_dripstone/drip_water14",
+    "block/pointed_dripstone/drip_water15"
+  ],
+  "subtitle": "subtitles.block.pointed_dripstone.drip_water"
+}
