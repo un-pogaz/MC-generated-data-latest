@@ -5,6 +5,7 @@ language.code=en_US
 
 gui.done=Done
 gui.cancel=Cancel
+gui.back=Back
 gui.toMenu=Back to title screen
 gui.up=Up
 gui.down=Down
@@ -13,7 +14,7 @@ gui.no=No
 
 menu.singleplayer=Singleplayer
 menu.multiplayer=Multiplayer
-menu.online=Minecraft Online
+menu.online=Minecraft Realms
 menu.options=Options...
 menu.quit=Quit Game
 menu.returnToMenu=Save and Quit to Title
@@ -1255,8 +1256,14 @@ mco.configure.world.buttons.open=Open World
 mco.configure.world.buttons.close=Close World
 mco.configure.world.buttons.invite=Invite
 mco.configure.world.buttons.uninvite=Uninvite
+mco.configure.world.buttons.subscription=Subscription
 mco.configure.world.invite.profile.name=Name
 mco.configure.world.uninvite.question=Are you sure that you want to uninvite
+
+mco.configure.world.subscription.title=Subscription Info
+mco.configure.world.subscription.daysleft=Days Left
+mco.configure.world.subscription.start=Start Date
+mco.configure.world.subscription.extend=Extend
 
 mco.create.world.location.title=Locations
 mco.create.world.location.warning=You may not get the exact location you select
