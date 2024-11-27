@@ -1,10 +1,31 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
-    "variants": {
-        "standing":  { "model": "torch" },
-        "wall_n":  { "model": "torch_wall" },
-        "wall_s":  { "model": "torch_wall", "y": 180 },
-        "wall_e":  { "model": "torch_wall", "y": 90 },
-        "wall_w":  { "model": "torch_wall", "y": 270 }
-    }
+    "ambientocclusion": false,
+    "inventoryRender3D": false,
+    "textures": {
+        "particle": "#torch"
+    },
+    "elements": [
+        {   "from": [ 7, 0, 7 ],
+            "to": [ 9, 10, 9 ],
+            "faces": {
+                "down": { "uv": [ 7, 13, 9, 15 ], "texture": "#torch" },
+                "up":   { "uv": [ 7,  6, 9,  8 ], "texture": "#torch" }
+            }
+        },
+        {   "from": [ 7, 0, 0 ],
+            "to": [ 9, 16, 16 ],
+            "faces": {
+                "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#torch" },
+                "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#torch" }
+            }
+        },
+        {   "from": [ 0, 0, 7 ],
+            "to": [ 16, 16, 9 ],
+            "faces": {
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#torch" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#torch" }
+            }
+        }
+    ]
 }
