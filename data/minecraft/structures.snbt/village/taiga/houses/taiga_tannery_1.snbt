@@ -2068,7 +2068,7 @@
       Properties: {
         level: "3"
       },
-      Name: "minecraft:cauldron"
+      Name: "minecraft:water_cauldron"
     },
     {
       Properties: {
@@ -2143,5 +2143,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2584
+  DataVersion: 2681
 }

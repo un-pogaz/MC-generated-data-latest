@@ -1,4 +1,5 @@
 minecraft:acacia
+minecraft:amethyst_geode
 minecraft:bamboo
 minecraft:bamboo_light
 minecraft:bamboo_vegetation
@@ -81,6 +82,7 @@ minecraft:oak_bees_005
 minecraft:ore_andesite
 minecraft:ore_blackstone
 minecraft:ore_coal
+minecraft:ore_copper
 minecraft:ore_debris_large
 minecraft:ore_debris_small
 minecraft:ore_diamond

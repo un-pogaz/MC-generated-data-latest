@@ -1291,7 +1291,7 @@
       Name: "minecraft:air"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Properties: {
@@ -1374,5 +1374,5 @@
       Name: "minecraft:blue_bed"
     }
   ],
-  DataVersion: 2584
+  DataVersion: 2681
 }

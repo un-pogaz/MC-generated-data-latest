@@ -1,0 +1,3 @@
+minecraft:block/cake/add_candle1
+minecraft:block/cake/add_candle2
+minecraft:block/cake/add_candle3
