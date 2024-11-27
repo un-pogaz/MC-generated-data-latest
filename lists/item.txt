@@ -626,6 +626,7 @@ minecraft:petrified_oak_slab
 minecraft:phantom_membrane
 minecraft:phantom_spawn_egg
 minecraft:pig_spawn_egg
+minecraft:piglin_spawn_egg
 minecraft:pillager_spawn_egg
 minecraft:pink_banner
 minecraft:pink_bed
@@ -938,6 +939,7 @@ minecraft:zombie_villager_spawn_egg
 #minecraft:anvil
 #minecraft:arrows
 #minecraft:banners
+#minecraft:beacon_payment_items
 #minecraft:beds
 #minecraft:birch_logs
 #minecraft:boats
