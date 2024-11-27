@@ -1,6 +1,6 @@
 {
     "variants": {
-        "lit=false": { "model": "redstone_lamp_off" },
-        "lit=true": { "model": "redstone_lamp" }
+        "lit=false": { "model": "redstone_lamp" },
+        "lit=true": { "model": "redstone_lamp_on" }
     }
 }
