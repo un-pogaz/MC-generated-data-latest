@@ -119,6 +119,7 @@ minecraft:blocks/cobblestone_wall
 minecraft:blocks/cobweb
 minecraft:blocks/cocoa
 minecraft:blocks/comparator
+minecraft:blocks/composter
 minecraft:blocks/conduit
 minecraft:blocks/cornflower
 minecraft:blocks/cracked_stone_bricks
