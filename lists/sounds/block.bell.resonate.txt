@@ -1,0 +1,3 @@
+minecraft:block/bell/resonate
+minecraft:block/bell/resonate
+minecraft:block/bell/resonate

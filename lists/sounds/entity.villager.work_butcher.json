@@ -1,0 +1,24 @@
+{
+  "sounds": [
+    {
+      "name": "block/smoker/smoker1",
+      "volume": 1
+    },
+    {
+      "name": "block/smoker/smoker2",
+      "volume": 1
+    },
+    {
+      "name": "block/smoker/smoker3",
+      "volume": 1
+    },
+    {
+      "name": "block/smoker/smoker4",
+      "volume": 1
+    },
+    {
+      "name": "block/smoker/smoker5",
+      "volume": 1
+    }
+  ]
+}

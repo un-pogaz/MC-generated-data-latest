@@ -1,0 +1,4 @@
+minecraft:mob/fox/screech1
+minecraft:mob/fox/screech2
+minecraft:mob/fox/screech3
+minecraft:mob/fox/screech4

@@ -1,0 +1,4 @@
+minecraft:block/composter/fill_success1
+minecraft:block/composter/fill_success2
+minecraft:block/composter/fill_success3
+minecraft:block/composter/fill_success4

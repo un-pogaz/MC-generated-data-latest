@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    {
+      "name": "block/bell/bell_use01",
+      "volume": 12,
+      "pitch": 0.95
+    },
+    {
+      "name": "block/bell/bell_use02",
+      "volume": 12,
+      "pitch": 0.95
+    },
+    {
+      "name": "block/bell/bell_use01",
+      "volume": 12,
+      "pitch": 0.93
+    },
+    {
+      "name": "block/bell/bell_use02",
+      "volume": 12,
+      "pitch": 0.93
+    },
+    {
+      "name": "block/bell/bell_use01",
+      "volume": 12,
+      "pitch": 0.97
+    },
+    {
+      "name": "block/bell/bell_use02",
+      "volume": 12,
+      "pitch": 0.97
+    }
+  ],
+  "subtitle": "subtitles.block.bell.use"
+}

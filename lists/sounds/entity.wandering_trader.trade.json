@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/wandering_trader/haggle1",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/haggle2",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/haggle3",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.trade"
+}

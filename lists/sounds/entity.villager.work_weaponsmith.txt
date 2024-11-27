@@ -1,0 +1,3 @@
+minecraft:block/grindstone/grindstone1
+minecraft:block/grindstone/grindstone2
+minecraft:block/grindstone/grindstone3

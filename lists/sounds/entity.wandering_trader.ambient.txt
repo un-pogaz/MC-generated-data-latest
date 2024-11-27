@@ -1,0 +1,5 @@
+minecraft:mob/wandering_trader/idle1
+minecraft:mob/wandering_trader/idle2
+minecraft:mob/wandering_trader/idle3
+minecraft:mob/wandering_trader/idle4
+minecraft:mob/wandering_trader/idle5

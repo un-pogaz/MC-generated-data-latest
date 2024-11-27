@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "item/crossbow/loading_end",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.item.crossbow.load"
+}

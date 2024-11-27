@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "step/scaffold1",
+    "step/scaffold2",
+    "step/scaffold3",
+    "step/scaffold4",
+    "step/scaffold5",
+    "step/scaffold6",
+    "step/scaffold7"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}
