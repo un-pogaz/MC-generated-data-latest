@@ -1,3 +1,0 @@
-minecraft:bat
-minecraft:glow_squid
-minecraft:mooshroom
