@@ -392,6 +392,7 @@ minecraft:textures/blocks/bed_head_end
 minecraft:textures/blocks/bed_head_side
 minecraft:textures/blocks/bed_head_top
 minecraft:textures/blocks/bedrock
+minecraft:textures/blocks/blockCoal
 minecraft:textures/blocks/blockDiamond
 minecraft:textures/blocks/blockEmerald
 minecraft:textures/blocks/blockGold
@@ -742,7 +743,6 @@ minecraft:textures/items/hopper
 minecraft:textures/items/horsearmordiamond
 minecraft:textures/items/horsearmorgold
 minecraft:textures/items/horsearmormetal
-minecraft:textures/items/horsesaddle
 minecraft:textures/items/ingotGold
 minecraft:textures/items/ingotIron
 minecraft:textures/items/leash
