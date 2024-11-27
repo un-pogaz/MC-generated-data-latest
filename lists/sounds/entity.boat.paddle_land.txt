@@ -1,0 +1,6 @@
+minecraft:entity/boat/paddle_land1
+minecraft:entity/boat/paddle_land2
+minecraft:entity/boat/paddle_land3
+minecraft:entity/boat/paddle_land4
+minecraft:entity/boat/paddle_land5
+minecraft:entity/boat/paddle_land6

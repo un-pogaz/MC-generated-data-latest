@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "name": "ui/toast/out",
+      "volume": 0.4
+    }
+  ]
+}

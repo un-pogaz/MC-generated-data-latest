@@ -1,1 +1,2 @@
-minecraft:random/bow
+minecraft:entity/endereye/endereye_launch1
+minecraft:entity/endereye/endereye_launch2

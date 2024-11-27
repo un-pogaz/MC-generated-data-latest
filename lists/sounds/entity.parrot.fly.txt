@@ -1,0 +1,8 @@
+minecraft:mob/parrot/fly1
+minecraft:mob/parrot/fly2
+minecraft:mob/parrot/fly3
+minecraft:mob/parrot/fly4
+minecraft:mob/parrot/fly5
+minecraft:mob/parrot/fly6
+minecraft:mob/parrot/fly7
+minecraft:mob/parrot/fly8

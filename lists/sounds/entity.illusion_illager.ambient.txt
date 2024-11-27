@@ -1,0 +1,4 @@
+minecraft:mob/illusion_illager/idle1
+minecraft:mob/illusion_illager/idle2
+minecraft:mob/illusion_illager/idle3
+minecraft:mob/illusion_illager/idle4
