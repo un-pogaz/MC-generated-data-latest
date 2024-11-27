@@ -187,14 +187,6 @@
                     "type": "zombie_villager"
                 }
             }
-        },
-        "illusion_illager": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "illusion_illager"
-                }
-            }
         }
     },
     "requirements": [
@@ -219,7 +211,6 @@
         ["witch"],
         ["wither_skeleton"],
         ["zombie"],
-        ["zombie_villager"],
-        ["illusion_illager"]
+        ["zombie_villager"]
     ]
 }
