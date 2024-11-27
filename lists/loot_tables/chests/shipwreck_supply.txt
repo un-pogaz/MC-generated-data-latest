@@ -1,5 +1,6 @@
 minecraft:paper
 minecraft:potato
+minecraft:moss_block
 minecraft:poisonous_potato
 minecraft:carrot
 minecraft:wheat

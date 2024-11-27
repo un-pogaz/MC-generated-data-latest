@@ -419,6 +419,7 @@ minecraft:lava
 minecraft:lava_cauldron
 minecraft:lectern
 minecraft:lever
+minecraft:light
 minecraft:light_blue_banner
 minecraft:light_blue_bed
 minecraft:light_blue_candle
@@ -916,6 +917,7 @@ minecraft:zombie_wall_head
 #minecraft:dark_oak_logs
 #minecraft:deepslate_ore_replaceables
 #minecraft:diamond_ores
+#minecraft:dirt
 #minecraft:doors
 #minecraft:dragon_immune
 #minecraft:dripstone_replaceable_blocks
@@ -961,6 +963,7 @@ minecraft:zombie_wall_head
 #minecraft:signs
 #minecraft:slabs
 #minecraft:small_flowers
+#minecraft:snow
 #minecraft:soul_fire_base_blocks
 #minecraft:soul_speed_blocks
 #minecraft:spruce_logs
