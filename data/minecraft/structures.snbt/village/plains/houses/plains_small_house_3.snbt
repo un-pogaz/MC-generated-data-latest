@@ -882,7 +882,7 @@
     },
     {
       pos: [0, 3, 3],
-      state: 9
+      state: 21
     },
     {
       pos: [2, 3, 3],
@@ -1098,7 +1098,7 @@
     },
     {
       pos: [0, 0, 5],
-      state: 25
+      state: 9
     },
     {
       pos: [6, 0, 5],
@@ -1162,7 +1162,7 @@
     },
     {
       pos: [5, 5, 5],
-      state: 26
+      state: 25
     },
     {
       pos: [6, 5, 5],
@@ -1198,15 +1198,15 @@
     },
     {
       pos: [0, 0, 6],
-      state: 25
+      state: 9
     },
     {
       pos: [1, 0, 6],
-      state: 27
+      state: 9
     },
     {
       pos: [2, 0, 6],
-      state: 28
+      state: 9
     },
     {
       pos: [3, 0, 6],
@@ -1230,7 +1230,7 @@
     },
     {
       pos: [1, 1, 6],
-      state: 29
+      state: 9
     },
     {
       pos: [2, 1, 6],
@@ -1334,7 +1334,7 @@
     },
     {
       pos: [6, 4, 6],
-      state: 26
+      state: 25
     },
     {
       pos: [0, 5, 6],
@@ -1586,9 +1586,6 @@
       Name: "minecraft:oak_stairs"
     },
     {
-      Name: "minecraft:grass"
-    },
-    {
       Properties: {
         half: "bottom",
         waterlogged: "false",
@@ -1596,22 +1593,7 @@
         facing: "north"
       },
       Name: "minecraft:oak_stairs"
-    },
-    {
-      Properties: {
-        half: "lower"
-      },
-      Name: "minecraft:tall_grass"
-    },
-    {
-      Name: "minecraft:dandelion"
-    },
-    {
-      Properties: {
-        half: "upper"
-      },
-      Name: "minecraft:tall_grass"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1930
 }
