@@ -1,5 +1,4 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "elements": [
         {   "__comment": "Anvil base",
             "from": [ 2, 0, 2 ],
