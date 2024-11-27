@@ -108,6 +108,7 @@ minecraft:blocks/carrots
 minecraft:blocks/cartography_table
 minecraft:blocks/carved_pumpkin
 minecraft:blocks/cauldron
+minecraft:blocks/chain
 minecraft:blocks/chest
 minecraft:blocks/chipped_anvil
 minecraft:blocks/chiseled_nether_bricks
