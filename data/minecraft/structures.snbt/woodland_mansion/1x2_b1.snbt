@@ -3467,7 +3467,7 @@
     {
       Properties: {
         east: "none",
-        south: "none",
+        south: "side",
         north: "side",
         west: "none",
         power: "0"
@@ -3567,5 +3567,5 @@
       Name: "minecraft:cobblestone_wall"
     }
   ],
-  DataVersion: 2529
+  DataVersion: 2532
 }
