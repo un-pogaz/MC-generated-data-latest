@@ -43,6 +43,7 @@ minecraft:carved_pumpkin
 minecraft:chain_command_block
 minecraft:chest
 minecraft:chipped_anvil
+minecraft:cobbled_deepslate_stairs
 minecraft:cobblestone_stairs
 minecraft:cocoa
 minecraft:command_block
@@ -72,6 +73,8 @@ minecraft:dead_bubble_coral_wall_fan
 minecraft:dead_fire_coral_wall_fan
 minecraft:dead_horn_coral_wall_fan
 minecraft:dead_tube_coral_wall_fan
+minecraft:deepslate_brick_stairs
+minecraft:deepslate_tile_stairs
 minecraft:diorite_stairs
 minecraft:dispenser
 minecraft:dragon_wall_head
@@ -92,9 +95,6 @@ minecraft:green_bed
 minecraft:green_glazed_terracotta
 minecraft:green_shulker_box
 minecraft:green_wall_banner
-minecraft:grimstone_brick_stairs
-minecraft:grimstone_stairs
-minecraft:grimstone_tile_stairs
 minecraft:grindstone
 minecraft:hopper
 minecraft:horn_coral_wall_fan
@@ -157,9 +157,9 @@ minecraft:polished_andesite_stairs
 minecraft:polished_blackstone_brick_stairs
 minecraft:polished_blackstone_button
 minecraft:polished_blackstone_stairs
+minecraft:polished_deepslate_stairs
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_stairs
-minecraft:polished_grimstone_stairs
 minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
 minecraft:purple_bed
