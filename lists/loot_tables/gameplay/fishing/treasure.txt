@@ -1,4 +1,3 @@
-minecraft:lily_pad
 minecraft:name_tag
 minecraft:saddle
 minecraft:bow
