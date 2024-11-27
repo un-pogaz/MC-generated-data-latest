@@ -1,0 +1,9 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "mob/magmacube/jump1",
+    "mob/magmacube/jump2",
+    "mob/magmacube/jump3",
+    "mob/magmacube/jump4"
+  ]
+}

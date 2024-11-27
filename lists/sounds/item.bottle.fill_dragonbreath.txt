@@ -1,2 +1,0 @@
-minecraft:item/bottle/fill_dragonbreath1
-minecraft:item/bottle/fill_dragonbreath2

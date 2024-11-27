@@ -1,0 +1,8 @@
+{
+  "category": "neutral",
+  "sounds": [
+    "mob/horse/zombie/idle1",
+    "mob/horse/zombie/idle2",
+    "mob/horse/zombie/idle3"
+  ]
+}

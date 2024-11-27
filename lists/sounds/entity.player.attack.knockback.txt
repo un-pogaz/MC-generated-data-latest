@@ -1,4 +1,0 @@
-minecraft:entity/player/attack/knockback1
-minecraft:entity/player/attack/knockback2
-minecraft:entity/player/attack/knockback3
-minecraft:entity/player/attack/knockback4
