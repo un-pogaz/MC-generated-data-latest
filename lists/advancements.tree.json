@@ -2,7 +2,7 @@
   "minecraft:adventure/root": {
     "icon": "minecraft:map",
     "title": "Adventure",
-    "description": "Adventure, exploration and combat.",
+    "description": "Adventure, exploration and combat",
     "background": "minecraft:gui/advancements/backgrounds/adventure",
     "frame": "task",
     "childs": {
@@ -53,6 +53,136 @@
         "title": "What a Deal!",
         "description": "Successfully trade with a Villager",
         "frame": "task"
+      }
+    }
+  },
+  "minecraft:end/root": {
+    "icon": "minecraft:end_stone",
+    "title": "The End",
+    "description": "Or the beginning?",
+    "background": "minecraft:gui/advancements/backgrounds/end",
+    "frame": "task",
+    "childs": {
+      "minecraft:end/kill_dragon": {
+        "icon": "minecraft:skull",
+        "title": "Free the End",
+        "description": "Good luck",
+        "frame": "task",
+        "childs": {
+          "minecraft:end/dragon_breath": {
+            "icon": "minecraft:dragon_breath",
+            "title": "You Need a Mint",
+            "description": "Collect dragon's breath in a glass bottle",
+            "frame": "goal"
+          },
+          "minecraft:end/dragon_egg": {
+            "icon": "minecraft:dragon_egg",
+            "title": "The Next Generation",
+            "description": "Hold the Dragon Egg",
+            "frame": "goal"
+          },
+          "minecraft:end/enter_end_gateway": {
+            "icon": "minecraft:ender_pearl",
+            "title": "Remote Getaway",
+            "description": "Escape the island",
+            "frame": "task",
+            "childs": {
+              "minecraft:end/find_end_city": {
+                "icon": "minecraft:purpur_block",
+                "title": "City at the End of the Game",
+                "description": "Go on in, what could happen?",
+                "frame": "task",
+                "childs": {
+                  "minecraft:end/elytra": {
+                    "icon": "minecraft:elytra",
+                    "title": "Sky's the Limit",
+                    "description": "Find an Elytra",
+                    "frame": "goal"
+                  },
+                  "minecraft:end/levitate": {
+                    "icon": "minecraft:shulker_shell",
+                    "title": "Great View From Up Here",
+                    "description": "Levitate for at least 30 seconds",
+                    "frame": "challenge"
+                  }
+                }
+              }
+            }
+          },
+          "minecraft:end/respawn_dragon": {
+            "icon": "minecraft:end_crystal",
+            "title": "The End... Again...",
+            "description": "Respawn the ender dragon",
+            "frame": "goal"
+          }
+        }
+      }
+    }
+  },
+  "minecraft:nether/root": {
+    "icon": "minecraft:nether_wart",
+    "title": "Nether",
+    "description": "Bring summer clothes",
+    "background": "minecraft:gui/advancements/backgrounds/nether",
+    "frame": "task",
+    "childs": {
+      "minecraft:nether/find_fortress": {
+        "icon": "minecraft:nether_brick",
+        "title": "A Terrible Fortress",
+        "description": "Break your way into a Nether Fortress",
+        "frame": "task",
+        "childs": {
+          "minecraft:nether/get_wither_skull": {
+            "icon": "minecraft:skull",
+            "title": "Spooky Scary Skeleton",
+            "description": "Obtain a wither skeleton's skull",
+            "frame": "task",
+            "childs": {
+              "minecraft:nether/summon_wither": {
+                "icon": "minecraft:nether_star",
+                "title": "Withering Heights",
+                "description": "Summon the Wither",
+                "frame": "task",
+                "childs": {
+                  "minecraft:nether/create_beacon": {
+                    "icon": "minecraft:beacon",
+                    "title": "Bring Home the Beacon",
+                    "description": "Construct and place a Beacon",
+                    "frame": "task",
+                    "childs": {
+                      "minecraft:nether/create_full_beacon": {
+                        "icon": "minecraft:beacon",
+                        "title": "Beaconator",
+                        "description": "Bring a beacon to full power",
+                        "frame": "goal"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "minecraft:nether/obtain_blaze_rod": {
+            "icon": "minecraft:blaze_rod",
+            "title": "Into Fire",
+            "description": "Relieve a Blaze of its rod",
+            "frame": "task",
+            "childs": {
+              "minecraft:nether/brew_potion": {
+                "icon": "minecraft:potion",
+                "title": "Local Brewery",
+                "description": "Brew a potion",
+                "frame": "task"
+              }
+            }
+          }
+        }
+      },
+      "minecraft:nether/return_to_sender": {
+        "icon": "minecraft:ghast_tear",
+        "title": "Return to Sender",
+        "description": "Destroy a Ghast with a fireball",
+        "frame": "challenge"
       }
     }
   },
@@ -127,77 +257,23 @@
                             "description": "Build, light and enter a Nether Portal",
                             "frame": "task",
                             "childs": {
-                              "minecraft:story/obtain_blaze_rod": {
-                                "icon": "minecraft:blaze_rod",
-                                "title": "Into Fire",
-                                "description": "Relieve a Blaze of its rod",
-                                "frame": "task",
-                                "childs": {
-                                  "minecraft:story/brew_weakness_potion": {
-                                    "icon": "minecraft:potion",
-                                    "title": "A Weak Brew",
-                                    "description": "Brew up a potion of Weakness",
-                                    "frame": "task",
-                                    "childs": {
-                                      "minecraft:story/cure_zombie_villager": {
-                                        "icon": "minecraft:golden_apple",
-                                        "title": "Zombie Doctor",
-                                        "description": "Cure a zombie villager.",
-                                        "frame": "goal"
-                                      }
-                                    }
-                                  },
-                                  "minecraft:story/follow_ender_eye": {
-                                    "icon": "minecraft:ender_eye",
-                                    "title": "Eye Spy",
-                                    "description": "Follow an Ender Eye",
-                                    "frame": "task",
-                                    "childs": {
-                                      "minecraft:story/enter_the_end": {
-                                        "icon": "minecraft:end_stone",
-                                        "title": "The End?",
-                                        "description": "Enter the End Portal",
-                                        "frame": "task",
-                                        "childs": {
-                                          "minecraft:story/enter_end_gateway": {
-                                            "icon": "minecraft:ender_pearl",
-                                            "title": "Remote Getaway",
-                                            "description": "Defeat the dragon and escape the island",
-                                            "frame": "task",
-                                            "childs": {
-                                              "minecraft:story/elytra": {
-                                                "icon": "minecraft:elytra",
-                                                "title": "Sky's the Limit",
-                                                "description": "Find an Elytra",
-                                                "frame": "task"
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
+                              "minecraft:story/cure_zombie_villager": {
+                                "icon": "minecraft:golden_apple",
+                                "title": "Zombie Doctor",
+                                "description": "Weaken and then cure a zombie villager",
+                                "frame": "goal"
                               },
-                              "minecraft:story/summon_wither": {
-                                "icon": "minecraft:nether_star",
-                                "title": "Withering Heights",
-                                "description": "Summon the Wither",
+                              "minecraft:story/follow_ender_eye": {
+                                "icon": "minecraft:ender_eye",
+                                "title": "Eye Spy",
+                                "description": "Follow an Ender Eye",
                                 "frame": "task",
                                 "childs": {
-                                  "minecraft:story/create_beacon": {
-                                    "icon": "minecraft:beacon",
-                                    "title": "Bring Home the Beacon",
-                                    "description": "Construct and place a Beacon",
-                                    "frame": "task",
-                                    "childs": {
-                                      "minecraft:story/create_full_beacon": {
-                                        "icon": "minecraft:beacon",
-                                        "title": "Beaconator",
-                                        "description": "Bring a beacon to full power",
-                                        "frame": "goal"
-                                      }
-                                    }
+                                  "minecraft:story/enter_the_end": {
+                                    "icon": "minecraft:end_stone",
+                                    "title": "The End?",
+                                    "description": "Enter the End Portal",
+                                    "frame": "task"
                                   }
                                 }
                               }

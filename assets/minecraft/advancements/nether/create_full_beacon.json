@@ -1,11 +1,13 @@
 {
     "display": {
-        "icon": "minecraft:beacon",
+        "icon": {
+            "item": "minecraft:beacon"
+        },
         "title": "Beaconator",
         "description": "Bring a beacon to full power",
         "frame": "goal"
     },
-    "parent": "minecraft:story/create_beacon",
+    "parent": "minecraft:nether/create_beacon",
     "criteria": {
         "beacon": {
             "trigger": "minecraft:construct_beacon",

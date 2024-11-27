@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:iron_ingot",
+        "icon": {
+            "item": "minecraft:iron_ingot"
+        },
         "title": "Acquire Hardware",
         "description": "Smelt an iron ingot"
     },

@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:shield",
+        "icon": {
+            "item": "minecraft:shield"
+        },
         "title": "Not Today, Thank You",
         "description": "Deflect an arrow with a shield"
     },
