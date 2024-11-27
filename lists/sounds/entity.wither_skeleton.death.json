@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/skeleton/death"
+  ],
+  "subtitle": "subtitles.entity.wither_skeleton.death"
+}

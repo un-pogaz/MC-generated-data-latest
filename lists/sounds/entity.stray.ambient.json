@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/stray/idle1",
+    "mob/stray/idle2",
+    "mob/stray/idle3",
+    "mob/stray/idle4"
+  ],
+  "subtitle": "subtitles.entity.stray.ambient"
+}
