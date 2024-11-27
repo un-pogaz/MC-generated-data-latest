@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/chorus_flower/death1",
+    "block/chorus_flower/death2",
+    "block/chorus_flower/death3"
+  ],
+  "subtitle": "subtitles.block.chorus_flower.death"
+}

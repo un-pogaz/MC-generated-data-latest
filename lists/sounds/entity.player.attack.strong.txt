@@ -1,0 +1,6 @@
+minecraft:entity/player/attack/strong1
+minecraft:entity/player/attack/strong2
+minecraft:entity/player/attack/strong3
+minecraft:entity/player/attack/strong4
+minecraft:entity/player/attack/strong5
+minecraft:entity/player/attack/strong6

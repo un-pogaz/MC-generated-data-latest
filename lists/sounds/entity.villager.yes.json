@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/villager/yes1",
+    "mob/villager/yes2",
+    "mob/villager/yes3"
+  ],
+  "subtitle": "subtitles.entity.villager.yes"
+}
