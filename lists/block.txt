@@ -384,6 +384,7 @@ minecraft:lime_stained_glass_pane
 minecraft:lime_terracotta
 minecraft:lime_wall_banner
 minecraft:lime_wool
+minecraft:lodestone
 minecraft:loom
 minecraft:magenta_banner
 minecraft:magenta_bed
@@ -770,6 +771,8 @@ minecraft:zombie_wall_head
 #minecraft:jungle_logs
 #minecraft:leaves
 #minecraft:logs
+#minecraft:logs_that_burn
+#minecraft:non_flammable_wood
 #minecraft:nylium
 #minecraft:oak_logs
 #minecraft:piglin_repellents
@@ -788,6 +791,7 @@ minecraft:zombie_wall_head
 #minecraft:stairs
 #minecraft:standing_signs
 #minecraft:stone_bricks
+#minecraft:strider_warm_blocks
 #minecraft:tall_flowers
 #minecraft:trapdoors
 #minecraft:underwater_bonemeals
