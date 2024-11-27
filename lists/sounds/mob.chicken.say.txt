@@ -1,0 +1,3 @@
+minecraft:mob/chicken/say1
+minecraft:mob/chicken/say2
+minecraft:mob/chicken/say3

@@ -1,0 +1,4 @@
+minecraft:mob/endermen/hit1
+minecraft:mob/endermen/hit2
+minecraft:mob/endermen/hit3
+minecraft:mob/endermen/hit4

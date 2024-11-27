@@ -1,0 +1,3 @@
+minecraft:mob/zombie/metal1
+minecraft:mob/zombie/metal2
+minecraft:mob/zombie/metal3

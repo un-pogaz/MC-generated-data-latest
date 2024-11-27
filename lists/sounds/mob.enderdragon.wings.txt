@@ -1,0 +1,6 @@
+minecraft:mob/enderdragon/wings1
+minecraft:mob/enderdragon/wings2
+minecraft:mob/enderdragon/wings3
+minecraft:mob/enderdragon/wings4
+minecraft:mob/enderdragon/wings5
+minecraft:mob/enderdragon/wings6

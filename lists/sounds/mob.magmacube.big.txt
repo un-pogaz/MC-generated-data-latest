@@ -1,0 +1,4 @@
+minecraft:mob/magmacube/big1
+minecraft:mob/magmacube/big2
+minecraft:mob/magmacube/big3
+minecraft:mob/magmacube/big4

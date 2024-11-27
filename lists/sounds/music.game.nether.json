@@ -1,0 +1,21 @@
+{
+  "category": "music",
+  "sounds": [
+    {
+      "name": "music/game/nether/nether1",
+      "stream": true
+    },
+    {
+      "name": "music/game/nether/nether2",
+      "stream": true
+    },
+    {
+      "name": "music/game/nether/nether3",
+      "stream": true
+    },
+    {
+      "name": "music/game/nether/nether4",
+      "stream": true
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+minecraft:mob/spider/step1
+minecraft:mob/spider/step2
+minecraft:mob/spider/step3
+minecraft:mob/spider/step4

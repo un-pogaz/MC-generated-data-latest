@@ -1,0 +1,7 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "mob/zombiepig/zpighurt1",
+    "mob/zombiepig/zpighurt2"
+  ]
+}
