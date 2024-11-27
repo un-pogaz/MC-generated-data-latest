@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "end_rod"
+        "recipe": "minecraft:end_rod"
       }
     }
   },

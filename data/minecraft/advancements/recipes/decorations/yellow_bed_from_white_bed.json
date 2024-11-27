@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "yellow_bed_from_white_bed"
+        "recipe": "minecraft:yellow_bed_from_white_bed"
       }
     }
   },

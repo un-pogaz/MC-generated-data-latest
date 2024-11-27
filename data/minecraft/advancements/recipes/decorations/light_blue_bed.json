@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "light_blue_bed"
-      }
-    },
     "has_light_blue_wool": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:light_blue_bed"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_light_blue_wool"
+      "has_light_blue_wool",
+      "has_the_recipe"
     ]
   ]
 }

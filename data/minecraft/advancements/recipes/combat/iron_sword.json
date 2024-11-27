@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "iron_sword"
-      }
-    },
     "has_iron_ingot": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:iron_sword"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_iron_ingot"
+      "has_iron_ingot",
+      "has_the_recipe"
     ]
   ]
 }

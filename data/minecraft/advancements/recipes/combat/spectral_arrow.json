@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "spectral_arrow"
-      }
-    },
     "has_glowstone_dust": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:spectral_arrow"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_glowstone_dust"
+      "has_glowstone_dust",
+      "has_the_recipe"
     ]
   ]
 }

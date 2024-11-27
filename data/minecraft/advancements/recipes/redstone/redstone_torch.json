@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "redstone_torch"
+        "recipe": "minecraft:redstone_torch"
       }
     }
   },

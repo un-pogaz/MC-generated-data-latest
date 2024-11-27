@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "diamond_sword"
-      }
-    },
     "has_diamond": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:diamond_sword"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_diamond"
+      "has_diamond",
+      "has_the_recipe"
     ]
   ]
 }
