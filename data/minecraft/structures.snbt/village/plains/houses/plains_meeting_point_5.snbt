@@ -387,6 +387,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/cats",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [2, 0, 6],
+      state: 5
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/plains/decor",
         final_state: "minecraft:dirt",
         id: "minecraft:jigsaw",
@@ -1133,7 +1143,7 @@
     },
     {
       pos: [3, 4, 3],
-      state: 9
+      state: 15
     },
     {
       pos: [4, 4, 3],
@@ -1245,11 +1255,11 @@
     },
     {
       pos: [6, 1, 4],
-      state: 15
+      state: 16
     },
     {
       pos: [8, 1, 4],
-      state: 16
+      state: 17
     },
     {
       pos: [9, 1, 4],
@@ -1465,7 +1475,7 @@
     },
     {
       pos: [8, 1, 5],
-      state: 17
+      state: 18
     },
     {
       pos: [9, 1, 5],
@@ -1505,7 +1515,7 @@
     },
     {
       pos: [8, 2, 5],
-      state: 18
+      state: 19
     },
     {
       pos: [9, 2, 5],
@@ -1569,7 +1579,7 @@
     },
     {
       pos: [5, 4, 5],
-      state: 9
+      state: 20
     },
     {
       pos: [9, 4, 5],
@@ -1620,10 +1630,6 @@
       state: 13
     },
     {
-      pos: [2, 0, 6],
-      state: 13
-    },
-    {
       pos: [3, 0, 6],
       state: 13
     },
@@ -1657,11 +1663,11 @@
     },
     {
       pos: [6, 1, 6],
-      state: 15
+      state: 16
     },
     {
       pos: [8, 1, 6],
-      state: 16
+      state: 17
     },
     {
       pos: [9, 1, 6],
@@ -1889,7 +1895,7 @@
     },
     {
       pos: [8, 1, 7],
-      state: 17
+      state: 18
     },
     {
       pos: [9, 1, 7],
@@ -1929,7 +1935,7 @@
     },
     {
       pos: [8, 2, 7],
-      state: 18
+      state: 19
     },
     {
       pos: [9, 2, 7],
@@ -1989,7 +1995,7 @@
     },
     {
       pos: [3, 4, 7],
-      state: 9
+      state: 21
     },
     {
       pos: [4, 4, 7],
@@ -2750,6 +2756,12 @@
     },
     {
       Properties: {
+        facing: "south"
+      },
+      Name: "minecraft:wall_torch"
+    },
+    {
+      Properties: {
         east: "true",
         waterlogged: "false",
         south: "false",
@@ -2779,7 +2791,19 @@
         half: "upper"
       },
       Name: "minecraft:tall_grass"
+    },
+    {
+      Properties: {
+        facing: "west"
+      },
+      Name: "minecraft:wall_torch"
+    },
+    {
+      Properties: {
+        facing: "north"
+      },
+      Name: "minecraft:wall_torch"
     }
   ],
-  DataVersion: 1930
+  DataVersion: 1931
 }

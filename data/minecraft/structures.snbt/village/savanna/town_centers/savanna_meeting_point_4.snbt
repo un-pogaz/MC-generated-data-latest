@@ -91,10 +91,6 @@
       state: 0
     },
     {
-      pos: [1, 0, 7],
-      state: 0
-    },
-    {
       nbt: {
         target_pool: "minecraft:village/common/cats",
         final_state: "minecraft:grass_block",
@@ -138,8 +134,18 @@
       nbt: {
         id: "minecraft:bell"
       },
-      pos: [1, 1, 7],
+      pos: [4, 3, 4],
       state: 7
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/common/iron_golem",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 7],
+      state: 3
     },
     {
       nbt: {
@@ -666,6 +672,18 @@
       state: 10
     },
     {
+      pos: [0, 1, 7],
+      state: 9
+    },
+    {
+      pos: [1, 1, 7],
+      state: 9
+    },
+    {
+      pos: [0, 2, 7],
+      state: 9
+    },
+    {
       pos: [3, 0, 8],
       state: 10
     },
@@ -724,7 +742,7 @@
     },
     {
       Properties: {
-        attachment: "floor",
+        attachment: "ceiling",
         facing: "east"
       },
       Name: "minecraft:bell"
@@ -833,5 +851,5 @@
       Name: "minecraft:acacia_stairs"
     }
   ],
-  DataVersion: 1930
+  DataVersion: 1931
 }
