@@ -1,0 +1,2 @@
+minecraft:enderman
+minecraft:strider
