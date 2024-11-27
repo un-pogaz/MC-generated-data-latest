@@ -24,6 +24,7 @@ minecraft:husbandry/breed_an_animal
 minecraft:husbandry/plant_seed
 minecraft:husbandry/root
 minecraft:husbandry/tame_an_animal
+minecraft:nether/all_effects
 minecraft:nether/all_potions
 minecraft:nether/brew_potion
 minecraft:nether/create_beacon

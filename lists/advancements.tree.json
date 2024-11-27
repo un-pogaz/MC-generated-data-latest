@@ -247,7 +247,16 @@
                     "icon": "minecraft:milk_bucket",
                     "title": "A Furious Cocktail",
                     "description": "Have every potion effect applied at the same time",
-                    "frame": "challenge"
+                    "frame": "challenge",
+                    "childs": {
+                      "minecraft:nether/all_effects": {
+                        "icon": "minecraft:bucket",
+                        "title": "How Did We Get Here?",
+                        "description": "Have every effect applied at the same time",
+                        "frame": "challenge",
+                        "hidden": true
+                      }
+                    }
                   }
                 }
               }
