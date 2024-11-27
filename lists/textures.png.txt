@@ -699,6 +699,7 @@ minecraft:gui/demo_background
 minecraft:gui/icons
 minecraft:gui/options_background
 minecraft:gui/resource_packs
+minecraft:gui/skin_customiser
 minecraft:gui/stream_indicator
 minecraft:gui/title/background/panorama_0
 minecraft:gui/title/background/panorama_1
