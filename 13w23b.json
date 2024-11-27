@@ -1,0 +1,13 @@
+{
+  "id": "13w23b",
+  "type": "snapshot",
+  "time": "2013-06-08T00:32:01+00:00",
+  "releaseTime": "2013-06-08T00:32:01+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/b19c87c7bfe0c0b202f79fc4b870b0ae97b00e53/13w23b.json",
+  "assets": "pre-1.6",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/4759bad2824e419da9db32861fcdc3a274336532/pre-1.6.json",
+  "client": "https://launcher.mojang.com/v1/objects/f374a05f667ed8509cea98ad8c905feb1bf5d9cf/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/b6b627c0a5fe9f53a22892f21c473e19617c1c0d/server.jar",
+  "server_mappings": null
+}
