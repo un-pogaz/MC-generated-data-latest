@@ -1,6 +1,7 @@
 {
     "targets": [
         "swap",
+        "swap2",
         "previous"
     ],
     "passes": [
@@ -12,11 +13,17 @@
         {
             "name": "ntsc_decode",
             "intarget": "swap",
-            "outtarget": "minecraft:main"
+            "outtarget": "swap2",
+            "auxtargets": [
+                {
+                    "name": "BaseSampler",
+                    "id": "minecraft:main"
+                }
+            ]
         },
         {
             "name": "color_convolve",
-            "intarget": "minecraft:main",
+            "intarget": "swap2",
             "outtarget": "swap"
         },
         {

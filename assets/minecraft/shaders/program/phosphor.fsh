@@ -12,8 +12,8 @@ uniform vec3 Phosphor = vec3(0.7, 0.7, 0.7);
 uniform float LerpFactor = 1.0;
 
 void main() {
-    vec3 CurrTexel = texture2D(DiffuseSampler, texCoord).rgb;
-    vec3 PrevTexel = texture2D(PrevSampler, texCoord).rgb;
+    vec4 CurrTexel = texture2D(DiffuseSampler, texCoord);
+    vec4 PrevTexel = texture2D(PrevSampler, texCoord);
     
-    gl_FragColor = vec4(max(PrevTexel * Phosphor, CurrTexel), 1.0);
+    gl_FragColor = vec4(max(PrevTexel.rgb * Phosphor, CurrTexel.rgb), CurrTexel.a);
 }

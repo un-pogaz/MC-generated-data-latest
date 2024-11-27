@@ -1,6 +1,7 @@
 #version 120
 
 uniform sampler2D DiffuseSampler;
+uniform sampler2D BaseSampler;
 
 varying vec2 texCoord;
 varying vec2 oneTexel;
@@ -62,6 +63,7 @@ void main() {
     float Fc_q_2 = Fc_q * 2.0;
     vec4 CoordY = vec4(texCoord.y);
     
+    vec4 BaseTexel = texture2D(DiffuseSampler, texCoord);
     // 83 composite samples wide, 4 composite pixels per texel
     for (float n = -41.0; n < 42.0; n += 4.0)
     {
@@ -126,5 +128,5 @@ void main() {
     vec3 YIQ = vec3(Y, I, Q);
     vec3 OutRGB = vec3(dot(YIQ, YIQ2R), dot(YIQ, YIQ2G), dot(YIQ, YIQ2B));
     
-    gl_FragColor = vec4(OutRGB, 1.0);
+    gl_FragColor = vec4(OutRGB, BaseTexel.a);
 }
