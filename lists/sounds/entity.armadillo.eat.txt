@@ -1,0 +1,3 @@
+minecraft:mob/armadillo/eat1
+minecraft:mob/armadillo/eat2
+minecraft:mob/armadillo/eat3
