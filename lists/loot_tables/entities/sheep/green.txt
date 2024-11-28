@@ -1,3 +1,1 @@
 minecraft:green_wool
-
-loot_table[]minecraft:entities/sheep
