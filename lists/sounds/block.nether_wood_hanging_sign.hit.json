@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/nether_wood_hanging_sign/step1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/nether_wood_hanging_sign/step2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/nether_wood_hanging_sign/step3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/nether_wood_hanging_sign/step4",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

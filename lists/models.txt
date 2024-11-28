@@ -69,6 +69,10 @@ minecraft:block/bamboo3_age0
 minecraft:block/bamboo3_age1
 minecraft:block/bamboo4_age0
 minecraft:block/bamboo4_age1
+minecraft:block/bamboo_block
+minecraft:block/bamboo_block_x
+minecraft:block/bamboo_block_y
+minecraft:block/bamboo_block_z
 minecraft:block/bamboo_button
 minecraft:block/bamboo_button_inventory
 minecraft:block/bamboo_button_pressed
@@ -451,6 +455,9 @@ minecraft:block/cube_bottom_top
 minecraft:block/cube_column
 minecraft:block/cube_column_horizontal
 minecraft:block/cube_column_mirrored
+minecraft:block/cube_column_uv_locked_x
+minecraft:block/cube_column_uv_locked_y
+minecraft:block/cube_column_uv_locked_z
 minecraft:block/cube_directional
 minecraft:block/cube_mirrored
 minecraft:block/cube_mirrored_all
@@ -1652,6 +1659,10 @@ minecraft:block/stonecutter
 minecraft:block/stripped_acacia_log
 minecraft:block/stripped_acacia_log_horizontal
 minecraft:block/stripped_acacia_wood
+minecraft:block/stripped_bamboo_block
+minecraft:block/stripped_bamboo_block_x
+minecraft:block/stripped_bamboo_block_y
+minecraft:block/stripped_bamboo_block_z
 minecraft:block/stripped_birch_log
 minecraft:block/stripped_birch_log_horizontal
 minecraft:block/stripped_birch_wood
@@ -1948,6 +1959,7 @@ minecraft:item/azalea_leaves
 minecraft:item/azure_bluet
 minecraft:item/baked_potato
 minecraft:item/bamboo
+minecraft:item/bamboo_block
 minecraft:item/bamboo_button
 minecraft:item/bamboo_chest_raft
 minecraft:item/bamboo_door
@@ -3103,6 +3115,7 @@ minecraft:item/strider_spawn_egg
 minecraft:item/string
 minecraft:item/stripped_acacia_log
 minecraft:item/stripped_acacia_wood
+minecraft:item/stripped_bamboo_block
 minecraft:item/stripped_birch_log
 minecraft:item/stripped_birch_wood
 minecraft:item/stripped_crimson_hyphae

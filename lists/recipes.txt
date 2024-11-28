@@ -28,6 +28,7 @@ minecraft:arrow
 minecraft:baked_potato
 minecraft:baked_potato_from_campfire_cooking
 minecraft:baked_potato_from_smoking
+minecraft:bamboo_block
 minecraft:bamboo_button
 minecraft:bamboo_chest_raft
 minecraft:bamboo_door

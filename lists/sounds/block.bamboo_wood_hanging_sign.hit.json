@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/bamboo_wood_hanging_sign/step1",
+      "pitch": 1.1,
+      "volume": 0.7
+    },
+    {
+      "name": "block/bamboo_wood_hanging_sign/step2",
+      "pitch": 1.1,
+      "volume": 0.7
+    },
+    {
+      "name": "block/bamboo_wood_hanging_sign/step3",
+      "pitch": 1.1,
+      "volume": 0.7
+    },
+    {
+      "name": "block/bamboo_wood_hanging_sign/step4",
+      "pitch": 1.1,
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}
