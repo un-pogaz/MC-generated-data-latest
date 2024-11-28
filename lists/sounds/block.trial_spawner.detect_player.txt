@@ -1,0 +1,6 @@
+minecraft:block/trial_spawner/detect_player1
+minecraft:block/trial_spawner/detect_player1
+minecraft:block/trial_spawner/detect_player2
+minecraft:block/trial_spawner/detect_player2
+minecraft:block/trial_spawner/detect_player3
+minecraft:block/trial_spawner/detect_player3

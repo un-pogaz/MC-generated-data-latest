@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    "mob/breeze/shoot",
+    {
+      "name": "mob/breeze/shoot",
+      "pitch": 1.1
+    },
+    {
+      "name": "mob/breeze/shoot",
+      "pitch": 1.2
+    }
+  ],
+  "subtitle": "subtitles.entity.breeze.shoot"
+}

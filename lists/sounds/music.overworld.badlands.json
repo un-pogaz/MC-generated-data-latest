@@ -12,27 +12,27 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/hal1",
+      "name": "music/game/subwoofer_lullaby",
       "stream": true
     },
     {
-      "name": "music/game/hal2",
+      "name": "music/game/living_mice",
       "stream": true
     },
     {
-      "name": "music/game/hal3",
+      "name": "music/game/haggstrom",
       "stream": true
     },
     {
-      "name": "music/game/hal4",
+      "name": "music/game/danny",
       "stream": true
     },
     {
-      "name": "music/game/nuance1",
+      "name": "music/game/key",
       "stream": true
     },
     {
-      "name": "music/game/nuance2",
+      "name": "music/game/oxygene",
       "stream": true
     },
     {
@@ -41,15 +41,15 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/piano1",
+      "name": "music/game/dry_hands",
       "stream": true
     },
     {
-      "name": "music/game/piano2",
+      "name": "music/game/wet_hands",
       "stream": true
     },
     {
-      "name": "music/game/piano3",
+      "name": "music/game/mice_on_venus",
       "stream": true
     }
   ]

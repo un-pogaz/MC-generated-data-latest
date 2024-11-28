@@ -1,0 +1,4 @@
+minecraft:mob/breeze/inhale1
+minecraft:mob/breeze/inhale1
+minecraft:mob/breeze/inhale2
+minecraft:mob/breeze/inhale2

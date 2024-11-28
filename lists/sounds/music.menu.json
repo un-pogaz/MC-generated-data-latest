@@ -21,19 +21,19 @@
       "volume": 0.4
     },
     {
-      "name": "music/menu/menu1",
+      "name": "music/menu/mutation",
       "stream": true
     },
     {
-      "name": "music/menu/menu2",
+      "name": "music/menu/moog_city_2",
       "stream": true
     },
     {
-      "name": "music/menu/menu3",
+      "name": "music/menu/beginning_2",
       "stream": true
     },
     {
-      "name": "music/menu/menu4",
+      "name": "music/menu/floating_trees",
       "stream": true
     }
   ]

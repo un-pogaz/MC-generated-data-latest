@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/breeze/idle_air1",
+    "mob/breeze/idle_air2",
+    "mob/breeze/idle_air3",
+    "mob/breeze/idle_air4"
+  ],
+  "subtitle": "subtitles.entity.breeze.idle_air"
+}

@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    "block/trial_spawner/detect_player1",
+    {
+      "name": "block/trial_spawner/detect_player1",
+      "pitch": 0.95
+    },
+    "block/trial_spawner/detect_player2",
+    {
+      "name": "block/trial_spawner/detect_player2",
+      "pitch": 0.95
+    },
+    "block/trial_spawner/detect_player3",
+    {
+      "name": "block/trial_spawner/detect_player3",
+      "pitch": 0.95
+    }
+  ],
+  "subtitle": "subtitles.block.trial_spawner.detect_player"
+}
