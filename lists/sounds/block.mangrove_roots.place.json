@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    {
+      "name": "block/mangrove_roots/break1",
+      "pitch": 1.2,
+      "volume": 0.5
+    },
+    {
+      "name": "block/mangrove_roots/break2",
+      "pitch": 1.2,
+      "volume": 0.5
+    },
+    {
+      "name": "block/mangrove_roots/break3",
+      "pitch": 1.2,
+      "volume": 0.5
+    },
+    {
+      "name": "block/mangrove_roots/break4",
+      "pitch": 1.2,
+      "volume": 0.5
+    },
+    {
+      "name": "block/mangrove_roots/break5",
+      "pitch": 1.2,
+      "volume": 0.5
+    },
+    {
+      "name": "block/mangrove_roots/break6",
+      "pitch": 1.2,
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

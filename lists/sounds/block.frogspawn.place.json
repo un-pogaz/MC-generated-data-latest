@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/frogspawn/break1",
+      "pitch": 1.5,
+      "volume": 0.2
+    },
+    {
+      "name": "block/frogspawn/break2",
+      "pitch": 1.5,
+      "volume": 0.2
+    },
+    {
+      "name": "block/frogspawn/break3",
+      "pitch": 1.5,
+      "volume": 0.2
+    },
+    {
+      "name": "block/frogspawn/break4",
+      "pitch": 1.5,
+      "volume": 0.2
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

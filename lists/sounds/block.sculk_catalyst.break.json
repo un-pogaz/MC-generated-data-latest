@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    "block/sculk_catalyst/break1",
+    "block/sculk_catalyst/break2",
+    "block/sculk_catalyst/break3",
+    "block/sculk_catalyst/break4",
+    "block/sculk_catalyst/break5",
+    "block/sculk_catalyst/break6",
+    "block/sculk_catalyst/break7",
+    "block/sculk_catalyst/break8",
+    "block/sculk_catalyst/break9",
+    "block/sculk_catalyst/break10"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}
