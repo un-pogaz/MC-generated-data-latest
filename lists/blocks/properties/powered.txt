@@ -67,6 +67,11 @@ minecraft:observer
 minecraft:oxidized_copper_bulb
 minecraft:oxidized_copper_door
 minecraft:oxidized_copper_trapdoor
+minecraft:pale_oak_button
+minecraft:pale_oak_door
+minecraft:pale_oak_fence_gate
+minecraft:pale_oak_pressure_plate
+minecraft:pale_oak_trapdoor
 minecraft:piglin_head
 minecraft:piglin_wall_head
 minecraft:player_head

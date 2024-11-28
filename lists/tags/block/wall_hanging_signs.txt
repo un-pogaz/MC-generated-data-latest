@@ -9,3 +9,4 @@ minecraft:crimson_wall_hanging_sign
 minecraft:warped_wall_hanging_sign
 minecraft:mangrove_wall_hanging_sign
 minecraft:bamboo_wall_hanging_sign
+minecraft:pale_oak_wall_hanging_sign

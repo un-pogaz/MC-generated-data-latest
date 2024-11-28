@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/creaking_heart/place/wood1",
+    "block/creaking_heart/place/wood2",
+    "block/creaking_heart/place/wood3",
+    "block/creaking_heart/place/wood4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

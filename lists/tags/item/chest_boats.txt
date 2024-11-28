@@ -7,3 +7,4 @@ minecraft:dark_oak_chest_boat
 minecraft:mangrove_chest_boat
 minecraft:bamboo_chest_raft
 minecraft:cherry_chest_boat
+minecraft:pale_oak_boat

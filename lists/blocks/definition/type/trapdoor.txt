@@ -8,6 +8,7 @@ minecraft:iron_trapdoor
 minecraft:jungle_trapdoor
 minecraft:mangrove_trapdoor
 minecraft:oak_trapdoor
+minecraft:pale_oak_trapdoor
 minecraft:spruce_trapdoor
 minecraft:warped_trapdoor
 minecraft:waxed_copper_trapdoor

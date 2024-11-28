@@ -13,6 +13,7 @@ minecraft:lilac
 minecraft:mangrove_door
 minecraft:oak_door
 minecraft:oxidized_copper_door
+minecraft:pale_oak_door
 minecraft:peony
 minecraft:pitcher_crop
 minecraft:pitcher_plant

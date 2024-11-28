@@ -54,6 +54,9 @@ minecraft:oak_trapdoor
 minecraft:oxidized_copper_door
 minecraft:oxidized_copper_trapdoor
 minecraft:oxidized_cut_copper_stairs
+minecraft:pale_oak_door
+minecraft:pale_oak_stairs
+minecraft:pale_oak_trapdoor
 minecraft:peony
 minecraft:pitcher_crop
 minecraft:pitcher_plant

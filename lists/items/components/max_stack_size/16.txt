@@ -32,6 +32,8 @@ minecraft:mangrove_sign
 minecraft:oak_hanging_sign
 minecraft:oak_sign
 minecraft:orange_banner
+minecraft:pale_oak_hanging_sign
+minecraft:pale_oak_sign
 minecraft:pink_banner
 minecraft:purple_banner
 minecraft:red_banner
