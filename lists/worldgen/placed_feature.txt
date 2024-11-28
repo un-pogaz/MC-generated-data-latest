@@ -35,6 +35,7 @@ minecraft:disk_sand
 minecraft:dripstone_cluster
 minecraft:end_gateway_return
 minecraft:end_island_decorated
+minecraft:end_platform
 minecraft:end_spike
 minecraft:fancy_oak_bees
 minecraft:fancy_oak_bees_0002
