@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/turtle/egg/egg_crack1",
+      "pitch": 0.8
+    },
+    {
+      "name": "mob/turtle/egg/egg_crack2",
+      "pitch": 0.8
+    },
+    {
+      "name": "mob/turtle/egg/egg_crack3",
+      "pitch": 0.8
+    },
+    {
+      "name": "mob/turtle/egg/egg_crack4",
+      "pitch": 0.8
+    },
+    {
+      "name": "mob/turtle/egg/egg_crack5",
+      "pitch": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.sniffer.egg_crack"
+}
