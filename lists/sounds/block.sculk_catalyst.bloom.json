@@ -65,5 +65,6 @@
       "name": "enchant/soulspeed/soulspeed13",
       "volume": 0.25
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.sculk_catalyst.bloom"
 }
