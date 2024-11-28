@@ -18,3 +18,4 @@ minecraft:brush
 minecraft:fishing_rod
 minecraft:carrot_on_a_stick
 minecraft:warped_fungus_on_a_stick
+minecraft:mace
