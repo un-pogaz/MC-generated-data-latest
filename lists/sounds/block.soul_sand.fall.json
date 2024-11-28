@@ -5,5 +5,6 @@
     "block/soul_sand/step3",
     "block/soul_sand/step4",
     "block/soul_sand/step5"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

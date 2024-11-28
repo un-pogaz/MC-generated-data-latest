@@ -6,5 +6,6 @@
     "block/roots/break4",
     "block/roots/break5",
     "block/roots/break6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

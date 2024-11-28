@@ -1,5 +1,6 @@
 {
   "sounds": [
     "block/creaking_heart/fall/creaking_heart_fall"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

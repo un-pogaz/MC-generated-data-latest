@@ -1,0 +1,5 @@
+minecraft:block/resin_bricks/resin_brick_place1
+minecraft:block/resin_bricks/resin_brick_place2
+minecraft:block/resin_bricks/resin_brick_place3
+minecraft:block/resin_bricks/resin_brick_place4
+minecraft:block/resin_bricks/resin_brick_place5

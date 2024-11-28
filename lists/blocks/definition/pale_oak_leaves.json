@@ -1,4 +1,8 @@
 {
+  "chance": 50,
+  "particle": {
+    "type": "minecraft:pale_oak_leaves"
+  },
   "properties": {},
-  "type": "minecraft:leaves"
+  "type": "minecraft:particle_leaves"
 }

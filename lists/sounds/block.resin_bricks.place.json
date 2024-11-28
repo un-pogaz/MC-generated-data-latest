@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/resin_bricks/resin_brick_place1",
+    "block/resin_bricks/resin_brick_place2",
+    "block/resin_bricks/resin_brick_place3",
+    "block/resin_bricks/resin_brick_place4",
+    "block/resin_bricks/resin_brick_place5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

@@ -6,5 +6,6 @@
     "block/azalea/step4",
     "block/azalea/step5",
     "block/azalea/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

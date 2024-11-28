@@ -6,5 +6,6 @@
     "block/sculk_catalyst/step4",
     "block/sculk_catalyst/step5",
     "block/sculk_catalyst/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

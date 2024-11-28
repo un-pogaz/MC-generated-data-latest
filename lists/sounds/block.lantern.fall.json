@@ -6,5 +6,6 @@
     "block/lantern/break4",
     "block/lantern/break5",
     "block/lantern/break6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

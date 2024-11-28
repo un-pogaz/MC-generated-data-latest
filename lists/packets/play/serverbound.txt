@@ -32,7 +32,8 @@ minecraft:move_player_rot
 minecraft:move_player_status_only
 minecraft:move_vehicle
 minecraft:paddle_boat
-minecraft:pick_item
+minecraft:pick_item_from_block
+minecraft:pick_item_from_entity
 minecraft:ping_request
 minecraft:place_recipe
 minecraft:player_abilities

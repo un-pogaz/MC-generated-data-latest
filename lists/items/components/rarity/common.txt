@@ -214,6 +214,7 @@ minecraft:chiseled_nether_bricks
 minecraft:chiseled_polished_blackstone
 minecraft:chiseled_quartz_block
 minecraft:chiseled_red_sandstone
+minecraft:chiseled_resin_bricks
 minecraft:chiseled_sandstone
 minecraft:chiseled_stone_bricks
 minecraft:chiseled_tuff
@@ -224,6 +225,7 @@ minecraft:chorus_plant
 minecraft:clay
 minecraft:clay_ball
 minecraft:clock
+minecraft:closed_eyeblossom
 minecraft:coal
 minecraft:coal_block
 minecraft:coal_ore
@@ -762,6 +764,7 @@ minecraft:obsidian
 minecraft:ocelot_spawn_egg
 minecraft:ochre_froglight
 minecraft:ominous_trial_key
+minecraft:open_eyeblossom
 minecraft:orange_banner
 minecraft:orange_bed
 minecraft:orange_bundle
@@ -965,6 +968,13 @@ minecraft:redstone_ore
 minecraft:redstone_torch
 minecraft:reinforced_deepslate
 minecraft:repeater
+minecraft:resin_block
+minecraft:resin_brick
+minecraft:resin_brick_slab
+minecraft:resin_brick_stairs
+minecraft:resin_brick_wall
+minecraft:resin_bricks
+minecraft:resin_clump
 minecraft:respawn_anchor
 minecraft:rooted_dirt
 minecraft:rose_bush

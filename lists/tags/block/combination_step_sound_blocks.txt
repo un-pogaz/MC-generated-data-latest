@@ -1,7 +1,8 @@
 #minecraft:wool_carpets
 minecraft:moss_carpet
+minecraft:pale_moss_carpet
 minecraft:snow
 minecraft:nether_sprouts
 minecraft:warped_roots
 minecraft:crimson_roots
-minecraft:pale_moss_carpet
+minecraft:resin_clump

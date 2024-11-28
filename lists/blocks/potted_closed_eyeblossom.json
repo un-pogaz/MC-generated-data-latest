@@ -1,0 +1,7 @@
+{
+  "definition": {
+    "type": "minecraft:flower_pot",
+    "potted": "minecraft:closed_eyeblossom",
+    "properties": {}
+  }
+}

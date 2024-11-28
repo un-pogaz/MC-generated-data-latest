@@ -49,6 +49,7 @@ minecraft:flower_cherry
 minecraft:flower_default
 minecraft:flower_flower_forest
 minecraft:flower_meadow
+minecraft:flower_pale_garden
 minecraft:flower_plain
 minecraft:flower_swamp
 minecraft:forest_flowers
@@ -122,10 +123,13 @@ minecraft:ore_quartz
 minecraft:ore_redstone
 minecraft:ore_soul_sand
 minecraft:ore_tuff
+minecraft:pale_forest_flowers
 minecraft:pale_garden_vegetation
+minecraft:pale_moss_patch
 minecraft:pale_moss_patch_bonemeal
 minecraft:pale_moss_vegetation
 minecraft:pale_oak
+minecraft:pale_oak_bonemeal
 minecraft:pale_oak_creaking
 minecraft:patch_berry_bush
 minecraft:patch_brown_mushroom

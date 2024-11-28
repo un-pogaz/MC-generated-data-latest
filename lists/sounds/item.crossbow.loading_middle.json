@@ -46,5 +46,6 @@
       "name": "item/crossbow/loading_middle4",
       "volume": 0.65
     }
-  ]
+  ],
+  "subtitle": "subtitles.item.crossbow.charge"
 }

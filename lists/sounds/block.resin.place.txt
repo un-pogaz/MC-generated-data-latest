@@ -1,0 +1,4 @@
+minecraft:block/resin/resin_place1
+minecraft:block/resin/resin_place2
+minecraft:block/resin/resin_place3
+minecraft:block/resin/resin_place4

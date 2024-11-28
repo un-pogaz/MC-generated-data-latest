@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/resin/resin_place1",
+    "block/resin/resin_place2",
+    "block/resin/resin_place3",
+    "block/resin/resin_place4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

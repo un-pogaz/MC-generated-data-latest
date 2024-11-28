@@ -6,5 +6,6 @@
     "block/netherite/step4",
     "block/netherite/step5",
     "block/netherite/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

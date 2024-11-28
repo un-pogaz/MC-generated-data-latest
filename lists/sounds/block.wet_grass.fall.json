@@ -6,5 +6,6 @@
     "step/wet_grass4",
     "step/wet_grass5",
     "step/wet_grass6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }
