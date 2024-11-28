@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "block/vault/insert_fail"
+  ],
+  "subtitle": "subtitles.block.vault.insert_item_fail"
+}

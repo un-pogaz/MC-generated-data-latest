@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/vault/ambient1",
+    "block/vault/ambient2",
+    "block/vault/ambient3"
+  ],
+  "subtitle": "subtitles.block.vault.ambient"
+}
