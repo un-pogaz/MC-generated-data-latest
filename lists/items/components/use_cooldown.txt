@@ -1,0 +1,1 @@
+minecraft:chorus_fruit  = {seconds: 1.0}
