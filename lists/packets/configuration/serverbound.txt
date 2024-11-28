@@ -1,0 +1,8 @@
+minecraft:client_information
+minecraft:cookie_response
+minecraft:custom_payload
+minecraft:finish_configuration
+minecraft:keep_alive
+minecraft:pong
+minecraft:resource_pack
+minecraft:select_known_packs
