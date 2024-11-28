@@ -1,0 +1,9 @@
+{
+  "properties": {},
+  "suspicious_stew_effects": [
+    {
+      "id": "minecraft:wither"
+    }
+  ],
+  "type": "minecraft:wither_rose"
+}

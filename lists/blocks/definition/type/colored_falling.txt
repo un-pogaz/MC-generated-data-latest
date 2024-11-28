@@ -1,0 +1,3 @@
+minecraft:gravel
+minecraft:red_sand
+minecraft:sand

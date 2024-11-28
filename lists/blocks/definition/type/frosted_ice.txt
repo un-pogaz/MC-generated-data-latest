@@ -1,0 +1,1 @@
+minecraft:frosted_ice

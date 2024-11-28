@@ -1,0 +1,4 @@
+minecraft:acacia_button
+minecraft:acacia_door
+minecraft:acacia_pressure_plate
+minecraft:acacia_trapdoor

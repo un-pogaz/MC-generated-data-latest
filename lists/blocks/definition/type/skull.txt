@@ -1,0 +1,5 @@
+minecraft:creeper_head
+minecraft:dragon_head
+minecraft:piglin_head
+minecraft:skeleton_skull
+minecraft:zombie_head

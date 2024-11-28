@@ -1,0 +1,6 @@
+{
+  "block_set_type": "stone",
+  "properties": {},
+  "ticks_to_stay_pressed": 20,
+  "type": "minecraft:button"
+}

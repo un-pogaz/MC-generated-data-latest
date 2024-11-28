@@ -1,1 +1,7 @@
-{}
+{
+  "definition": {
+    "type": "minecraft:infested",
+    "host": "minecraft:stone_bricks",
+    "properties": {}
+  }
+}
