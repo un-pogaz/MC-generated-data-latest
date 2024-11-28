@@ -1,9 +1,11 @@
 icons/icon_16x16.png
 icons/icon_32x32.png
+icons/icon_48x48.png
 icons/minecraft.icns
-minecraft/icons/icon_16x16.png
-minecraft/icons/icon_32x32.png
-minecraft/icons/minecraft.icns
+icons/snapshot/icon_16x16.png
+icons/snapshot/icon_32x32.png
+icons/snapshot/icon_48x48.png
+icons/snapshot/minecraft.icns
 minecraft/lang/af_za.json
 minecraft/lang/ar_sa.json
 minecraft/lang/ast_es.json

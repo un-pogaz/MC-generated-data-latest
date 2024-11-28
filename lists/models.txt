@@ -2044,12 +2044,12 @@ minecraft:item/andesite
 minecraft:item/andesite_slab
 minecraft:item/andesite_stairs
 minecraft:item/andesite_wall
-minecraft:item/angler_pottery_shard
+minecraft:item/angler_pottery_sherd
 minecraft:item/anvil
 minecraft:item/apple
-minecraft:item/archer_pottery_shard
+minecraft:item/archer_pottery_sherd
 minecraft:item/armor_stand
-minecraft:item/arms_up_pottery_shard
+minecraft:item/arms_up_pottery_sherd
 minecraft:item/arrow
 minecraft:item/axolotl_bucket
 minecraft:item/axolotl_spawn_egg
@@ -2124,7 +2124,7 @@ minecraft:item/blackstone
 minecraft:item/blackstone_slab
 minecraft:item/blackstone_stairs
 minecraft:item/blackstone_wall
-minecraft:item/blade_pottery_shard
+minecraft:item/blade_pottery_sherd
 minecraft:item/blast_furnace
 minecraft:item/blaze_powder
 minecraft:item/blaze_rod
@@ -2158,7 +2158,7 @@ minecraft:item/brain_coral
 minecraft:item/brain_coral_block
 minecraft:item/brain_coral_fan
 minecraft:item/bread
-minecraft:item/brewer_pottery_shard
+minecraft:item/brewer_pottery_sherd
 minecraft:item/brewing_stand
 minecraft:item/brick
 minecraft:item/brick_slab
@@ -2192,7 +2192,7 @@ minecraft:item/bucket
 minecraft:item/budding_amethyst
 minecraft:item/bundle
 minecraft:item/bundle_filled
-minecraft:item/burn_pottery_shard
+minecraft:item/burn_pottery_sherd
 minecraft:item/cactus
 minecraft:item/cake
 minecraft:item/calcite
@@ -2475,7 +2475,7 @@ minecraft:item/cyan_terracotta
 minecraft:item/cyan_wool
 minecraft:item/damaged_anvil
 minecraft:item/dandelion
-minecraft:item/danger_pottery_shard
+minecraft:item/danger_pottery_sherd
 minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_button
 minecraft:item/dark_oak_chest_boat
@@ -2631,7 +2631,7 @@ minecraft:item/enderman_spawn_egg
 minecraft:item/endermite_spawn_egg
 minecraft:item/evoker_spawn_egg
 minecraft:item/experience_bottle
-minecraft:item/explorer_pottery_shard
+minecraft:item/explorer_pottery_sherd
 minecraft:item/exposed_copper
 minecraft:item/exposed_cut_copper
 minecraft:item/exposed_cut_copper_slab
@@ -2658,7 +2658,7 @@ minecraft:item/flower_pot
 minecraft:item/flowering_azalea
 minecraft:item/flowering_azalea_leaves
 minecraft:item/fox_spawn_egg
-minecraft:item/friend_pottery_shard
+minecraft:item/friend_pottery_sherd
 minecraft:item/frog_spawn_egg
 minecraft:item/frogspawn
 minecraft:item/furnace
@@ -2778,8 +2778,8 @@ minecraft:item/handheld_rod
 minecraft:item/hanging_roots
 minecraft:item/hay_block
 minecraft:item/heart_of_the_sea
-minecraft:item/heart_pottery_shard
-minecraft:item/heartbreak_pottery_shard
+minecraft:item/heart_pottery_sherd
+minecraft:item/heartbreak_pottery_sherd
 minecraft:item/heavy_weighted_pressure_plate
 minecraft:item/hoglin_spawn_egg
 minecraft:item/honey_block
@@ -2793,7 +2793,7 @@ minecraft:item/horn_coral_block
 minecraft:item/horn_coral_fan
 minecraft:item/horse_spawn_egg
 minecraft:item/host_armor_trim_smithing_template
-minecraft:item/howl_pottery_shard
+minecraft:item/howl_pottery_sherd
 minecraft:item/husk_spawn_egg
 minecraft:item/ice
 minecraft:item/infested_chiseled_stone_bricks
@@ -3048,7 +3048,7 @@ minecraft:item/melon_seeds
 minecraft:item/melon_slice
 minecraft:item/milk_bucket
 minecraft:item/minecart
-minecraft:item/miner_pottery_shard
+minecraft:item/miner_pottery_sherd
 minecraft:item/mojang_banner_pattern
 minecraft:item/mooshroom_spawn_egg
 minecraft:item/moss_block
@@ -3061,7 +3061,7 @@ minecraft:item/mossy_stone_brick_slab
 minecraft:item/mossy_stone_brick_stairs
 minecraft:item/mossy_stone_brick_wall
 minecraft:item/mossy_stone_bricks
-minecraft:item/mourner_pottery_shard
+minecraft:item/mourner_pottery_sherd
 minecraft:item/mud
 minecraft:item/mud_brick_slab
 minecraft:item/mud_brick_stairs
@@ -3233,7 +3233,7 @@ minecraft:item/piston
 minecraft:item/pitcher_plant
 minecraft:item/pitcher_pod
 minecraft:item/player_head
-minecraft:item/plenty_pottery_shard
+minecraft:item/plenty_pottery_sherd
 minecraft:item/podzol
 minecraft:item/pointed_dripstone
 minecraft:item/poisonous_potato
@@ -3278,7 +3278,7 @@ minecraft:item/prismarine_shard
 minecraft:item/prismarine_slab
 minecraft:item/prismarine_stairs
 minecraft:item/prismarine_wall
-minecraft:item/prize_pottery_shard
+minecraft:item/prize_pottery_sherd
 minecraft:item/pufferfish
 minecraft:item/pufferfish_bucket
 minecraft:item/pufferfish_spawn_egg
@@ -3413,10 +3413,10 @@ minecraft:item/sea_pickle
 minecraft:item/seagrass
 minecraft:item/sentry_armor_trim_smithing_template
 minecraft:item/shaper_armor_trim_smithing_template
-minecraft:item/sheaf_pottery_shard
+minecraft:item/sheaf_pottery_sherd
 minecraft:item/shears
 minecraft:item/sheep_spawn_egg
-minecraft:item/shelter_pottery_shard
+minecraft:item/shelter_pottery_sherd
 minecraft:item/shield
 minecraft:item/shield_blocking
 minecraft:item/shroomlight
@@ -3429,7 +3429,7 @@ minecraft:item/skeleton_horse_spawn_egg
 minecraft:item/skeleton_skull
 minecraft:item/skeleton_spawn_egg
 minecraft:item/skull_banner_pattern
-minecraft:item/skull_pottery_shard
+minecraft:item/skull_pottery_sherd
 minecraft:item/slime_ball
 minecraft:item/slime_block
 minecraft:item/slime_spawn_egg
@@ -3451,7 +3451,7 @@ minecraft:item/smooth_stone
 minecraft:item/smooth_stone_slab
 minecraft:item/sniffer_egg
 minecraft:item/sniffer_spawn_egg
-minecraft:item/snort_pottery_shard
+minecraft:item/snort_pottery_sherd
 minecraft:item/snout_armor_trim_smithing_template
 minecraft:item/snow
 minecraft:item/snow_block

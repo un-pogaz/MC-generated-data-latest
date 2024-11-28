@@ -76,6 +76,7 @@ minecraft:trail_ruins/decor
 minecraft:trail_ruins/roads
 minecraft:trail_ruins/tower
 minecraft:trail_ruins/tower/additions
+minecraft:trail_ruins/tower/tower_top
 minecraft:village/common/animals
 minecraft:village/common/butcher_animals
 minecraft:village/common/cats
