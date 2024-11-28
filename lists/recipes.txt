@@ -4,6 +4,7 @@ minecraft:acacia_chest_boat
 minecraft:acacia_door
 minecraft:acacia_fence
 minecraft:acacia_fence_gate
+minecraft:acacia_hanging_sign
 minecraft:acacia_planks
 minecraft:acacia_pressure_plate
 minecraft:acacia_sign
@@ -27,6 +28,22 @@ minecraft:arrow
 minecraft:baked_potato
 minecraft:baked_potato_from_campfire_cooking
 minecraft:baked_potato_from_smoking
+minecraft:bamboo_button
+minecraft:bamboo_chest_raft
+minecraft:bamboo_door
+minecraft:bamboo_fence
+minecraft:bamboo_fence_gate
+minecraft:bamboo_hanging_sign
+minecraft:bamboo_mosaic
+minecraft:bamboo_mosaic_slab
+minecraft:bamboo_mosaic_stairs
+minecraft:bamboo_planks
+minecraft:bamboo_pressure_plate
+minecraft:bamboo_raft
+minecraft:bamboo_sign
+minecraft:bamboo_slab
+minecraft:bamboo_stairs
+minecraft:bamboo_trapdoor
 minecraft:banner_duplicate
 minecraft:barrel
 minecraft:beacon
@@ -117,6 +134,7 @@ minecraft:brown_stained_glass_pane_from_glass_pane
 minecraft:brown_terracotta
 minecraft:brown_wool
 minecraft:bucket
+minecraft:bundle
 minecraft:cake
 minecraft:campfire
 minecraft:candle
@@ -127,6 +145,7 @@ minecraft:chain
 minecraft:charcoal
 minecraft:chest
 minecraft:chest_minecart
+minecraft:chiseled_bookshelf
 minecraft:chiseled_deepslate
 minecraft:chiseled_deepslate_from_cobbled_deepslate_stonecutting
 minecraft:chiseled_nether_bricks
@@ -210,6 +229,7 @@ minecraft:crimson_button
 minecraft:crimson_door
 minecraft:crimson_fence
 minecraft:crimson_fence_gate
+minecraft:crimson_hanging_sign
 minecraft:crimson_hyphae
 minecraft:crimson_planks
 minecraft:crimson_pressure_plate
@@ -256,6 +276,7 @@ minecraft:dark_oak_chest_boat
 minecraft:dark_oak_door
 minecraft:dark_oak_fence
 minecraft:dark_oak_fence_gate
+minecraft:dark_oak_hanging_sign
 minecraft:dark_oak_planks
 minecraft:dark_oak_pressure_plate
 minecraft:dark_oak_sign
@@ -485,6 +506,7 @@ minecraft:jungle_chest_boat
 minecraft:jungle_door
 minecraft:jungle_fence
 minecraft:jungle_fence_gate
+minecraft:jungle_hanging_sign
 minecraft:jungle_planks
 minecraft:jungle_pressure_plate
 minecraft:jungle_sign
@@ -587,6 +609,7 @@ minecraft:mangrove_chest_boat
 minecraft:mangrove_door
 minecraft:mangrove_fence
 minecraft:mangrove_fence_gate
+minecraft:mangrove_hanging_sign
 minecraft:mangrove_planks
 minecraft:mangrove_pressure_plate
 minecraft:mangrove_sign
@@ -659,6 +682,7 @@ minecraft:oak_chest_boat
 minecraft:oak_door
 minecraft:oak_fence
 minecraft:oak_fence_gate
+minecraft:oak_hanging_sign
 minecraft:oak_planks
 minecraft:oak_pressure_plate
 minecraft:oak_sign
@@ -927,6 +951,7 @@ minecraft:spruce_chest_boat
 minecraft:spruce_door
 minecraft:spruce_fence
 minecraft:spruce_fence_gate
+minecraft:spruce_hanging_sign
 minecraft:spruce_planks
 minecraft:spruce_pressure_plate
 minecraft:spruce_sign
@@ -989,6 +1014,7 @@ minecraft:warped_door
 minecraft:warped_fence
 minecraft:warped_fence_gate
 minecraft:warped_fungus_on_a_stick
+minecraft:warped_hanging_sign
 minecraft:warped_hyphae
 minecraft:warped_planks
 minecraft:warped_pressure_plate

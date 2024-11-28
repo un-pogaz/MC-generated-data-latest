@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/bamboo_wood_fence/toggle1",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood_fence/toggle2",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood_fence/toggle3",
+      "pitch": 1.1,
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood_fence/toggle4",
+      "pitch": 1.1,
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.fence_gate.toggle"
+}
