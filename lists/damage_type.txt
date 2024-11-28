@@ -64,5 +64,6 @@ minecraft:wither_skull
 #minecraft:is_projectile
 #minecraft:no_anger
 #minecraft:no_impact
+#minecraft:no_knockback
 #minecraft:witch_resistant_to
 #minecraft:wither_immune_to

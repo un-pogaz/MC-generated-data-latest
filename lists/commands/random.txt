@@ -1,0 +1,12 @@
+random reset *
+random reset * <seed brigadier:integer>
+random reset * <seed brigadier:integer> <includeWorldSeed brigadier:bool>
+random reset * <seed brigadier:integer> <includeWorldSeed brigadier:bool> <includeSequenceId brigadier:bool>
+random reset <sequence minecraft:resource_location>
+random reset <sequence minecraft:resource_location> <seed brigadier:integer>
+random reset <sequence minecraft:resource_location> <seed brigadier:integer> <includeWorldSeed brigadier:bool>
+random reset <sequence minecraft:resource_location> <seed brigadier:integer> <includeWorldSeed brigadier:bool> <includeSequenceId brigadier:bool>
+random roll <range minecraft:int_range>
+random roll <range minecraft:int_range> <sequence minecraft:resource_location>
+random value <range minecraft:int_range>
+random value <range minecraft:int_range> <sequence minecraft:resource_location>
