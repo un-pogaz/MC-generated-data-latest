@@ -107,6 +107,7 @@ minecraft/lang/no_no.json
 minecraft/lang/oc_fr.json
 minecraft/lang/ovd.json
 minecraft/lang/pl_pl.json
+minecraft/lang/pls.json
 minecraft/lang/pt_br.json
 minecraft/lang/pt_pt.json
 minecraft/lang/qya_aa.json
