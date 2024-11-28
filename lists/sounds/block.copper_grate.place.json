@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "block/copper_grate/break1",
+    {
+      "name": "block/copper_grate/break1",
+      "pitch": 0.95
+    },
+    "block/copper_grate/break2",
+    "block/copper_grate/break3",
+    "block/copper_grate/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

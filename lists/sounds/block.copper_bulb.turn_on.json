@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 6,
+      "name": "block/copper_bulb/turn_on"
+    }
+  ],
+  "subtitle": "subtitles.block.copper_bulb.turn_on"
+}
