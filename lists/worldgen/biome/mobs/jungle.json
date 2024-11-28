@@ -27,12 +27,6 @@
       "weight": 8
     },
     {
-      "maxCount": 3,
-      "minCount": 1,
-      "type": "minecraft:ocelot",
-      "weight": 2
-    },
-    {
       "maxCount": 2,
       "minCount": 1,
       "type": "minecraft:panda",
@@ -69,6 +63,12 @@
       "minCount": 1,
       "type": "minecraft:enderman",
       "weight": 10
+    },
+    {
+      "maxCount": 3,
+      "minCount": 1,
+      "type": "minecraft:ocelot",
+      "weight": 2
     },
     {
       "maxCount": 4,
