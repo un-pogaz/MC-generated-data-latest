@@ -1,5 +1,6 @@
 adventure/root
 └>adventure/avoid_vibration
+└>adventure/crafters_crafting_crafters
 └>adventure/fall_from_world_height
 └>adventure/honey_block_slide
 └>adventure/kill_a_mob
@@ -12,6 +13,12 @@ adventure/root
 │ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying
 └>adventure/lightning_rod_with_villager_no_fire
+└>adventure/minecraft_trials_edition
+│ └>adventure/blowback
+│ └>adventure/lighten_up
+│ └>adventure/overoverkill
+│ └>adventure/under_lock_and_key
+│ └>adventure/who_needs_rockets
 └>adventure/ol_betsy
 │ └>adventure/arbalistic
 │ └>adventure/two_birds_one_arrow
