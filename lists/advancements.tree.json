@@ -6,6 +6,12 @@
     "background": "minecraft:gui/advancements/backgrounds/adventure",
     "frame": "task",
     "childs": {
+      "minecraft:adventure/avoid_vibration": {
+        "icon": "minecraft:sculk_sensor",
+        "title": "Sneak 100",
+        "description": "Sneak near a Sculk Sensor, Sculk Shrieker or Warden to prevent it from hearing you",
+        "frame": "task"
+      },
       "minecraft:adventure/fall_from_world_height": {
         "icon": "minecraft:water_bucket",
         "title": "Caves & Cliffs",
@@ -34,7 +40,7 @@
           "minecraft:adventure/shoot_arrow": {
             "icon": "minecraft:bow",
             "title": "Take Aim",
-            "description": "Shoot something with an arrow",
+            "description": "Shoot something with an Arrow",
             "frame": "task",
             "childs": {
               "minecraft:adventure/bullseye": {
@@ -56,7 +62,7 @@
           "minecraft:adventure/throw_trident": {
             "icon": "minecraft:trident",
             "title": "A Throwaway Joke",
-            "description": "Throw a trident at something.\nNote: Throwing away your only weapon is not a good idea.",
+            "description": "Throw a Trident at something.\nNote: Throwing away your only weapon is not a good idea.",
             "frame": "task",
             "childs": {
               "minecraft:adventure/very_very_frightening": {
@@ -77,20 +83,20 @@
       },
       "minecraft:adventure/kill_mob_near_sculk_catalyst": {
         "icon": "minecraft:sculk_catalyst",
-        "title": "It spreads",
-        "description": "Kill a mob near a sculk catalyst",
+        "title": "It Spreads",
+        "description": "Kill a mob near a Sculk Catalyst",
         "frame": "challenge"
       },
       "minecraft:adventure/lightning_rod_with_villager_no_fire": {
         "icon": "minecraft:lightning_rod",
         "title": "Surge Protector",
-        "description": "Protect a villager from an undesired shock without starting a fire",
+        "description": "Protect a Villager from an undesired shock without starting a fire",
         "frame": "task"
       },
       "minecraft:adventure/ol_betsy": {
         "icon": "minecraft:crossbow",
         "title": "Ol' Betsy",
-        "description": "Shoot a crossbow",
+        "description": "Shoot a Crossbow",
         "frame": "task",
         "childs": {
           "minecraft:adventure/arbalistic": {
@@ -104,7 +110,7 @@
           "minecraft:adventure/two_birds_one_arrow": {
             "icon": "minecraft:crossbow",
             "title": "Two Birds, One Arrow",
-            "description": "Kill two Phantoms with a piercing arrow",
+            "description": "Kill two Phantoms with a piercing Arrow",
             "frame": "challenge",
             "rewards": "65 xp"
           },
@@ -119,7 +125,7 @@
       "minecraft:adventure/sleep_in_bed": {
         "icon": "minecraft:red_bed",
         "title": "Sweet Dreams",
-        "description": "Sleep in a bed to change your respawn point",
+        "description": "Sleep in a Bed to change your respawn point",
         "frame": "task",
         "childs": {
           "minecraft:adventure/adventuring_time": {
@@ -132,13 +138,13 @@
           "minecraft:adventure/play_jukebox_in_meadows": {
             "icon": "minecraft:jukebox",
             "title": "Sound of Music",
-            "description": "Make the Meadows come alive with the sound of music from a jukebox",
+            "description": "Make the Meadows come alive with the sound of music from a Jukebox",
             "frame": "task"
           },
           "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
             "icon": "minecraft:leather_boots",
             "title": "Light as a Rabbit",
-            "description": "Walk on powder snow...without sinking in it",
+            "description": "Walk on Powder Snow...without sinking in it",
             "frame": "task"
           }
         }
@@ -146,19 +152,19 @@
       "minecraft:adventure/spyglass_at_parrot": {
         "icon": "minecraft:spyglass",
         "title": "Is It a Bird?",
-        "description": "Look at a parrot through a spyglass",
+        "description": "Look at a Parrot through a Spyglass",
         "frame": "task",
         "childs": {
           "minecraft:adventure/spyglass_at_ghast": {
             "icon": "minecraft:spyglass",
             "title": "Is It a Balloon?",
-            "description": "Look at a ghast through a spyglass",
+            "description": "Look at a Ghast through a Spyglass",
             "frame": "task",
             "childs": {
               "minecraft:adventure/spyglass_at_dragon": {
                 "icon": "minecraft:spyglass",
                 "title": "Is It a Plane?",
-                "description": "Look at the Ender Dragon through a spyglass",
+                "description": "Look at the Ender Dragon through a Spyglass",
                 "frame": "task"
               }
             }
@@ -180,7 +186,7 @@
           "minecraft:adventure/trade_at_world_height": {
             "icon": "minecraft:emerald",
             "title": "Star Trader",
-            "description": "Trade with a villager at the build height limit",
+            "description": "Trade with a Villager at the build height limit",
             "frame": "task"
           }
         }
@@ -220,7 +226,7 @@
           "minecraft:end/dragon_breath": {
             "icon": "minecraft:dragon_breath",
             "title": "You Need a Mint",
-            "description": "Collect dragon's breath in a glass bottle",
+            "description": "Collect Dragon's Breath in a Glass Bottle",
             "frame": "goal"
           },
           "minecraft:end/dragon_egg": {
@@ -244,7 +250,7 @@
                   "minecraft:end/elytra": {
                     "icon": "minecraft:elytra",
                     "title": "Sky's the Limit",
-                    "description": "Find elytra",
+                    "description": "Find Elytra",
                     "frame": "goal"
                   },
                   "minecraft:end/levitate": {
@@ -277,15 +283,15 @@
     "childs": {
       "minecraft:husbandry/allay_deliver_item_to_player": {
         "icon": "minecraft:cookie",
-        "title": "You Got a Friend in Me",
+        "title": "You've Got a Friend in Me",
         "description": "Have an Allay deliver items to you",
         "frame": "task",
         "hidden": true,
         "childs": {
-          "minecraft:husbandry/allay_deliver_cake_to_noteblock": {
+          "minecraft:husbandry/allay_deliver_cake_to_note_block": {
             "icon": "minecraft:note_block",
             "title": "Birthday Song",
-            "description": "Have an Allay drop a cake at a note block",
+            "description": "Have an Allay drop a cake at a Note Block",
             "frame": "challenge",
             "hidden": true
           }
@@ -315,19 +321,19 @@
           "minecraft:husbandry/tactical_fishing": {
             "icon": "minecraft:pufferfish_bucket",
             "title": "Tactical Fishing",
-            "description": "Catch a fish... without a fishing rod!",
+            "description": "Catch a Fish... without a Fishing Rod!",
             "frame": "task",
             "childs": {
               "minecraft:husbandry/axolotl_in_a_bucket": {
                 "icon": "minecraft:axolotl_bucket",
                 "title": "The Cutest Predator",
-                "description": "Catch an axolotl in a bucket",
+                "description": "Catch an Axolotl in a Bucket",
                 "frame": "task",
                 "childs": {
                   "minecraft:husbandry/kill_axolotl_target": {
                     "icon": "minecraft:tropical_fish_bucket",
                     "title": "The Healing Power of Friendship!",
-                    "description": "Team up with an axolotl and win a fight",
+                    "description": "Team up with an Axolotl and win a fight",
                     "frame": "task"
                   }
                 }
@@ -339,7 +345,7 @@
       "minecraft:husbandry/make_a_sign_glow": {
         "icon": "minecraft:glow_ink_sac",
         "title": "Glow and Behold!",
-        "description": "Make the text of a sign glow",
+        "description": "Make the text of a Sign glow",
         "frame": "task"
       },
       "minecraft:husbandry/plant_seed": {
@@ -358,7 +364,7 @@
           "minecraft:husbandry/obtain_netherite_hoe": {
             "icon": "minecraft:netherite_hoe",
             "title": "Serious Dedication",
-            "description": "Use a Netherite ingot to upgrade a hoe, and then reevaluate your life choices",
+            "description": "Use a Netherite Ingot to upgrade a Hoe, and then reevaluate your life choices",
             "frame": "challenge",
             "rewards": "100 xp"
           }
@@ -373,7 +379,7 @@
       "minecraft:husbandry/safely_harvest_honey": {
         "icon": "minecraft:honey_bottle",
         "title": "Bee Our Guest",
-        "description": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees",
+        "description": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the Bees",
         "frame": "task",
         "childs": {
           "minecraft:husbandry/wax_on": {
@@ -395,20 +401,28 @@
       "minecraft:husbandry/silk_touch_nest": {
         "icon": "minecraft:bee_nest",
         "title": "Total Beelocation",
-        "description": "Move a Bee Nest, with 3 bees inside, using Silk Touch",
+        "description": "Move a Bee Nest, with 3 Bees inside, using Silk Touch",
         "frame": "task"
       },
       "minecraft:husbandry/tadpole_in_a_bucket": {
         "icon": "minecraft:tadpole_bucket",
-        "title": "Bukkit bukkit",
-        "description": "Catch a tadpole in a bucket",
+        "title": "Bukkit Bukkit",
+        "description": "Catch a Tadpole in a Bucket",
         "frame": "task",
         "childs": {
-          "minecraft:husbandry/froglights": {
-            "icon": "minecraft:verdant_froglight",
-            "title": "With our powers combined!",
-            "description": "Have all froglights in your inventory",
-            "frame": "challenge"
+          "minecraft:husbandry/leash_all_frog_variants": {
+            "icon": "minecraft:lead",
+            "title": "When the Squad Hops into Town",
+            "description": "Get each Frog variant on a Lead",
+            "frame": "task",
+            "childs": {
+              "minecraft:husbandry/froglights": {
+                "icon": "minecraft:verdant_froglight",
+                "title": "With Our Powers Combined!",
+                "description": "Have all Froglights in your inventory",
+                "frame": "challenge"
+              }
+            }
           }
         }
       },
@@ -421,7 +435,7 @@
           "minecraft:husbandry/complete_catalogue": {
             "icon": "minecraft:cod",
             "title": "A Complete Catalogue",
-            "description": "Tame all cat variants!",
+            "description": "Tame all Cat variants!",
             "frame": "challenge",
             "rewards": "50 xp"
           }
@@ -458,7 +472,7 @@
           "minecraft:nether/loot_bastion": {
             "icon": "minecraft:chest",
             "title": "War Pigs",
-            "description": "Loot a chest in a Bastion Remnant",
+            "description": "Loot a Chest in a Bastion Remnant",
             "frame": "task"
           }
         }
@@ -484,13 +498,13 @@
                   "minecraft:nether/create_beacon": {
                     "icon": "minecraft:beacon",
                     "title": "Bring Home the Beacon",
-                    "description": "Construct and place a beacon",
+                    "description": "Construct and place a Beacon",
                     "frame": "task",
                     "childs": {
                       "minecraft:nether/create_full_beacon": {
                         "icon": "minecraft:beacon",
                         "title": "Beaconator",
-                        "description": "Bring a beacon to full power",
+                        "description": "Bring a Beacon to full power",
                         "frame": "goal"
                       }
                     }
@@ -508,7 +522,7 @@
               "minecraft:nether/brew_potion": {
                 "icon": "minecraft:potion",
                 "title": "Local Brewery",
-                "description": "Brew a potion",
+                "description": "Brew a Potion",
                 "frame": "task",
                 "childs": {
                   "minecraft:nether/all_potions": {
@@ -550,7 +564,7 @@
           "minecraft:nether/use_lodestone": {
             "icon": "minecraft:lodestone",
             "title": "Country Lode, Take Me Home",
-            "description": "Use a compass on a Lodestone",
+            "description": "Use a Compass on a Lodestone",
             "frame": "task"
           }
         }
@@ -600,7 +614,7 @@
           },
           "minecraft:nether/ride_strider_in_overworld_lava": {
             "icon": "minecraft:warped_fungus_on_a_stick",
-            "title": "Feels like home",
+            "title": "Feels Like Home",
             "description": "Take a Strider for a loooong ride on a lava lake in the Overworld",
             "frame": "task"
           }
@@ -618,25 +632,25 @@
       "minecraft:story/mine_stone": {
         "icon": "minecraft:wooden_pickaxe",
         "title": "Stone Age",
-        "description": "Mine stone with your new pickaxe",
+        "description": "Mine Stone with your new Pickaxe",
         "frame": "task",
         "childs": {
           "minecraft:story/upgrade_tools": {
             "icon": "minecraft:stone_pickaxe",
             "title": "Getting an Upgrade",
-            "description": "Construct a better pickaxe",
+            "description": "Construct a better Pickaxe",
             "frame": "task",
             "childs": {
               "minecraft:story/smelt_iron": {
                 "icon": "minecraft:iron_ingot",
                 "title": "Acquire Hardware",
-                "description": "Smelt an iron ingot",
+                "description": "Smelt an Iron Ingot",
                 "frame": "task",
                 "childs": {
                   "minecraft:story/iron_tools": {
                     "icon": "minecraft:iron_pickaxe",
                     "title": "Isn't It Iron Pick",
-                    "description": "Upgrade your pickaxe",
+                    "description": "Upgrade your Pickaxe",
                     "frame": "task",
                     "childs": {
                       "minecraft:story/mine_diamond": {
@@ -664,13 +678,13 @@
                   "minecraft:story/lava_bucket": {
                     "icon": "minecraft:lava_bucket",
                     "title": "Hot Stuff",
-                    "description": "Fill a bucket with lava",
+                    "description": "Fill a Bucket with lava",
                     "frame": "task",
                     "childs": {
                       "minecraft:story/form_obsidian": {
                         "icon": "minecraft:obsidian",
                         "title": "Ice Bucket Challenge",
-                        "description": "Obtain a block of obsidian",
+                        "description": "Obtain a block of Obsidian",
                         "frame": "task",
                         "childs": {
                           "minecraft:story/enter_the_nether": {
@@ -714,7 +728,7 @@
                       "minecraft:story/deflect_arrow": {
                         "icon": "minecraft:shield",
                         "title": "Not Today, Thank You",
-                        "description": "Deflect a projectile with a shield",
+                        "description": "Deflect a projectile with a Shield",
                         "frame": "task"
                       }
                     }
