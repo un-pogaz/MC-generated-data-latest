@@ -1,0 +1,5 @@
+{
+  "equip_sound": "minecraft:item.armor.equip_leather",
+  "model": "minecraft:leather",
+  "slot": "legs"
+}

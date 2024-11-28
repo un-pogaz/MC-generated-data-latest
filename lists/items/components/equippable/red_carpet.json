@@ -1,0 +1,9 @@
+{
+  "allowed_entities": [
+    "minecraft:llama",
+    "minecraft:trader_llama"
+  ],
+  "equip_sound": "minecraft:entity.llama.swag",
+  "model": "minecraft:red_carpet",
+  "slot": "body"
+}

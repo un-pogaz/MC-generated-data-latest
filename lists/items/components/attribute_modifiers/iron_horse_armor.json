@@ -1,0 +1,18 @@
+{
+  "modifiers": [
+    {
+      "type": "minecraft:armor",
+      "amount": 5.0,
+      "id": "minecraft:armor.body",
+      "operation": "add_value",
+      "slot": "body"
+    },
+    {
+      "type": "minecraft:armor_toughness",
+      "amount": 0.0,
+      "id": "minecraft:armor.body",
+      "operation": "add_value",
+      "slot": "body"
+    }
+  ]
+}
