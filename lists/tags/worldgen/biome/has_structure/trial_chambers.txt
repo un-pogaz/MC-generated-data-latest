@@ -50,3 +50,4 @@ minecraft:cherry_grove
 minecraft:frozen_peaks
 minecraft:dripstone_caves
 minecraft:lush_caves
+minecraft:pale_garden
