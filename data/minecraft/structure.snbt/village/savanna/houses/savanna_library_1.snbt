@@ -2556,10 +2556,10 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:acacia_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
+        joint: "aligned",
         id: "minecraft:jigsaw",
         target: "minecraft:building_entrance"
       },
@@ -2790,5 +2790,5 @@
       Name: "minecraft:lectern"
     }
   ],
-  DataVersion: 4174
+  DataVersion: 4177
 }
