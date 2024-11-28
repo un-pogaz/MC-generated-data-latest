@@ -97,6 +97,8 @@ minecraft:blue_stained_glass
 minecraft:blue_stained_glass_pane
 minecraft:blue_stained_glass_pane_from_glass_pane
 minecraft:blue_terracotta
+minecraft:bolt_armor_trim_smithing_template
+minecraft:bolt_armor_trim_smithing_template_smithing_trim
 minecraft:bone_block
 minecraft:bone_meal
 minecraft:bone_meal_from_bone_block
@@ -481,6 +483,8 @@ minecraft:firework_star_fade
 minecraft:fishing_rod
 minecraft:fletching_table
 minecraft:flint_and_steel
+minecraft:flow_armor_trim_smithing_template
+minecraft:flow_armor_trim_smithing_template_smithing_trim
 minecraft:flower_banner_pattern
 minecraft:flower_pot
 minecraft:furnace
@@ -656,6 +660,7 @@ minecraft:lime_stained_glass_pane_from_glass_pane
 minecraft:lime_terracotta
 minecraft:lodestone
 minecraft:loom
+minecraft:mace
 minecraft:magenta_banner
 minecraft:magenta_bed
 minecraft:magenta_candle
@@ -1278,6 +1283,7 @@ minecraft:white_terracotta
 minecraft:white_wool_from_string
 minecraft:wild_armor_trim_smithing_template
 minecraft:wild_armor_trim_smithing_template_smithing_trim
+minecraft:wind_charge
 minecraft:wolf_armor
 minecraft:wooden_axe
 minecraft:wooden_hoe

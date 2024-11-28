@@ -1,1 +1,1 @@
-minecraft:wind_charge
+minecraft:breeze_rod

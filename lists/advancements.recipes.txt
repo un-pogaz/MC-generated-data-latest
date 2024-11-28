@@ -635,6 +635,7 @@ minecraft:recipes/combat/leather_boots
 minecraft:recipes/combat/leather_chestplate
 minecraft:recipes/combat/leather_helmet
 minecraft:recipes/combat/leather_leggings
+minecraft:recipes/combat/mace
 minecraft:recipes/combat/netherite_boots_smithing
 minecraft:recipes/combat/netherite_chestplate_smithing
 minecraft:recipes/combat/netherite_helmet_smithing
@@ -944,6 +945,8 @@ minecraft:recipes/misc/black_dye
 minecraft:recipes/misc/black_dye_from_wither_rose
 minecraft:recipes/misc/blue_dye
 minecraft:recipes/misc/blue_dye_from_cornflower
+minecraft:recipes/misc/bolt_armor_trim_smithing_template
+minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/bone_meal
 minecraft:recipes/misc/bone_meal_from_bone_block
 minecraft:recipes/misc/book
@@ -988,6 +991,8 @@ minecraft:recipes/misc/eye_armor_trim_smithing_template
 minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/fire_charge
 minecraft:recipes/misc/firework_rocket_simple
+minecraft:recipes/misc/flow_armor_trim_smithing_template
+minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/flower_banner_pattern
 minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore
 minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore
@@ -1101,6 +1106,7 @@ minecraft:recipes/misc/white_dye
 minecraft:recipes/misc/white_dye_from_lily_of_the_valley
 minecraft:recipes/misc/wild_armor_trim_smithing_template
 minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim
+minecraft:recipes/misc/wind_charge
 minecraft:recipes/misc/writable_book
 minecraft:recipes/misc/yellow_dye_from_dandelion
 minecraft:recipes/misc/yellow_dye_from_sunflower
