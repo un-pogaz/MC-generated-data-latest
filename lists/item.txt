@@ -1445,6 +1445,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:logs
 #minecraft:logs_that_burn
 #minecraft:mangrove_logs
+#minecraft:map_invisibility_equipment
 #minecraft:meat
 #minecraft:netherite_tool_materials
 #minecraft:non_flammable_wood
