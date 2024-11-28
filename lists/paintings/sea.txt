@@ -1,0 +1,4 @@
+texture: minecraft:sea
+name: Seaside
+author: Kristoffer Zetterstrand
+size: 2x1

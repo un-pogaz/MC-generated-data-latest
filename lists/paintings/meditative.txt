@@ -1,0 +1,4 @@
+texture: minecraft:meditative
+name: Meditative
+author: Sarah Boeving
+size: 1x1
