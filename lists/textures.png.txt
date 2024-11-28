@@ -758,9 +758,24 @@ minecraft:block/smoker_top
 minecraft:block/smooth_basalt
 minecraft:block/smooth_stone
 minecraft:block/smooth_stone_slab_side
-minecraft:block/sniffer_egg_not_cracked
-minecraft:block/sniffer_egg_slightly_cracked
-minecraft:block/sniffer_egg_very_cracked
+minecraft:block/sniffer_egg_not_cracked_bottom
+minecraft:block/sniffer_egg_not_cracked_east
+minecraft:block/sniffer_egg_not_cracked_north
+minecraft:block/sniffer_egg_not_cracked_south
+minecraft:block/sniffer_egg_not_cracked_top
+minecraft:block/sniffer_egg_not_cracked_west
+minecraft:block/sniffer_egg_slightly_cracked_bottom
+minecraft:block/sniffer_egg_slightly_cracked_east
+minecraft:block/sniffer_egg_slightly_cracked_north
+minecraft:block/sniffer_egg_slightly_cracked_south
+minecraft:block/sniffer_egg_slightly_cracked_top
+minecraft:block/sniffer_egg_slightly_cracked_west
+minecraft:block/sniffer_egg_very_cracked_bottom
+minecraft:block/sniffer_egg_very_cracked_east
+minecraft:block/sniffer_egg_very_cracked_north
+minecraft:block/sniffer_egg_very_cracked_south
+minecraft:block/sniffer_egg_very_cracked_top
+minecraft:block/sniffer_egg_very_cracked_west
 minecraft:block/snow
 minecraft:block/soul_campfire_fire  [mcmeta]
 minecraft:block/soul_campfire_log_lit  [mcmeta]
@@ -847,7 +862,6 @@ minecraft:block/torch
 minecraft:block/torchflower
 minecraft:block/torchflower_crop_stage0
 minecraft:block/torchflower_crop_stage1
-minecraft:block/torchflower_crop_stage2
 minecraft:block/tripwire
 minecraft:block/tripwire_hook
 minecraft:block/tube_coral
