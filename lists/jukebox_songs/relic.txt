@@ -1,0 +1,4 @@
+sound_event: minecraft:music_disc.relic
+title: Relic
+author: Aaron Cherof
+length: 3m 38s

@@ -1,0 +1,4 @@
+sound_event: minecraft:music_disc.wait
+title: wait
+author: C418
+length: 3m 58s
