@@ -175,6 +175,7 @@ minecraft:ambient/weather/rain8
 minecraft:ambient/weather/thunder1
 minecraft:ambient/weather/thunder2
 minecraft:ambient/weather/thunder3
+minecraft:block.sign.waxed_interact_fail
 minecraft:block.sweet_berry_bush.pick_berries
 minecraft:block/amethyst/break1
 minecraft:block/amethyst/break2
@@ -569,6 +570,15 @@ minecraft:block/decorated_pot/break1
 minecraft:block/decorated_pot/break2
 minecraft:block/decorated_pot/break3
 minecraft:block/decorated_pot/break4
+minecraft:block/decorated_pot/insert1
+minecraft:block/decorated_pot/insert2
+minecraft:block/decorated_pot/insert3
+minecraft:block/decorated_pot/insert4
+minecraft:block/decorated_pot/insert_fail1
+minecraft:block/decorated_pot/insert_fail2
+minecraft:block/decorated_pot/insert_fail3
+minecraft:block/decorated_pot/insert_fail4
+minecraft:block/decorated_pot/insert_fail5
 minecraft:block/decorated_pot/shatter1
 minecraft:block/decorated_pot/shatter2
 minecraft:block/decorated_pot/shatter3

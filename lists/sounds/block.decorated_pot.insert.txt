@@ -1,0 +1,4 @@
+minecraft:block/decorated_pot/insert1
+minecraft:block/decorated_pot/insert2
+minecraft:block/decorated_pot/insert3
+minecraft:block/decorated_pot/insert4
