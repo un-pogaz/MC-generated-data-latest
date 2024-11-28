@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/sponge/step1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sponge/step2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sponge/step3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sponge/step4",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sponge/step5",
+      "volume": 0.8
+    },
+    {
+      "name": "block/sponge/step6",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}
