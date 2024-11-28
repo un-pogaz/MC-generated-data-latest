@@ -2,7 +2,7 @@ minecraft:music/game/a_familiar_room
 minecraft:music/game/bromeliad
 minecraft:music/game/crescent_dunes
 minecraft:music/game/echo_in_the_wind
-minecraft:music/menu/mutation
-minecraft:music/menu/moog_city_2
 minecraft:music/menu/beginning_2
 minecraft:music/menu/floating_trees
+minecraft:music/menu/moog_city_2
+minecraft:music/menu/mutation

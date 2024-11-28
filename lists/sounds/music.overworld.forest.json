@@ -6,15 +6,7 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/minecraft",
-      "stream": true
-    },
-    {
       "name": "music/game/clark",
-      "stream": true
-    },
-    {
-      "name": "music/game/sweden",
       "stream": true
     },
     {
@@ -23,24 +15,24 @@
       "volume": 0.4
     },
     {
+      "name": "music/game/danny",
+      "stream": true
+    },
+    {
+      "name": "music/game/dry_hands",
+      "stream": true
+    },
+    {
       "name": "music/game/floating_dream",
       "stream": true,
       "volume": 0.4
-    },
-    {
-      "name": "music/game/subwoofer_lullaby",
-      "stream": true
-    },
-    {
-      "name": "music/game/living_mice",
-      "stream": true
     },
     {
       "name": "music/game/haggstrom",
       "stream": true
     },
     {
-      "name": "music/game/danny",
+      "name": "music/game/key",
       "stream": true
     },
     {
@@ -49,11 +41,15 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/key",
+      "name": "music/game/living_mice",
       "stream": true
     },
     {
-      "name": "music/game/oxygene",
+      "name": "music/game/mice_on_venus",
+      "stream": true
+    },
+    {
+      "name": "music/game/minecraft",
       "stream": true
     },
     {
@@ -62,15 +58,11 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/dry_hands",
+      "name": "music/game/oxygene",
       "stream": true
     },
     {
-      "name": "music/game/wet_hands",
-      "stream": true
-    },
-    {
-      "name": "music/game/mice_on_venus",
+      "name": "music/game/subwoofer_lullaby",
       "stream": true
     },
     {
@@ -87,6 +79,14 @@
       "name": "music/game/swamp/labyrinthine",
       "stream": true,
       "volume": 0.4
+    },
+    {
+      "name": "music/game/sweden",
+      "stream": true
+    },
+    {
+      "name": "music/game/wet_hands",
+      "stream": true
     }
   ]
 }
