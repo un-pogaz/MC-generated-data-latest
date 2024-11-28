@@ -123,6 +123,7 @@ minecraft:entities/vex
 minecraft:entities/villager
 minecraft:entities/vindicator
 minecraft:entities/wandering_trader
+minecraft:entities/warden
 minecraft:entities/witch
 minecraft:entities/wither
 minecraft:entities/wither_skeleton
