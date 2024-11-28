@@ -3565,6 +3565,9 @@
       "minecraft:gamemode": {
         "protocol_id": 39
       },
+      "minecraft:heightmap": {
+        "protocol_id": 47
+      },
       "minecraft:int_range": {
         "protocol_id": 36
       },
@@ -3641,7 +3644,7 @@
         "protocol_id": 40
       },
       "minecraft:uuid": {
-        "protocol_id": 47
+        "protocol_id": 48
       },
       "minecraft:vec2": {
         "protocol_id": 11
