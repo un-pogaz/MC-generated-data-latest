@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/bogged/ambient1",
+    "mob/bogged/ambient2",
+    "mob/bogged/ambient3",
+    "mob/bogged/ambient4"
+  ],
+  "subtitle": "subtitles.entity.bogged.ambient"
+}
