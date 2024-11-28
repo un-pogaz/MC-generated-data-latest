@@ -1,3 +1,4 @@
+minecraft:ancient_city
 minecraft:bastion_remnant
 minecraft:buried_treasure
 minecraft:desert_pyramid

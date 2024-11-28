@@ -681,6 +681,7 @@ minecraft:blocks/redstone_lamp
 minecraft:blocks/redstone_ore
 minecraft:blocks/redstone_torch
 minecraft:blocks/redstone_wire
+minecraft:blocks/reinforced_deepslate
 minecraft:blocks/repeater
 minecraft:blocks/respawn_anchor
 minecraft:blocks/rooted_dirt

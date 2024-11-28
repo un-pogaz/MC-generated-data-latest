@@ -1,0 +1,8 @@
+| Name                      | Count | Chance | Weight | Comment |
+| ------------------------- | ----- | ------ | ------ | ------- |
+| 4 to 10 time              |    -- |     -- |     -- |         |
+| minecraft:suspicious_stew |  2..6 |  11.1% |    1/9 |         |
+| minecraft:golden_carrot   | 1..10 |  11.1% |    1/9 |         |
+| minecraft:baked_potato    | 1..10 |  11.1% |    1/9 |         |
+| minecraft:packed_ice      |  2..6 |  22.2% |    2/9 |         |
+| minecraft:snowball        |  2..6 |  44.4% |    4/9 |         |
