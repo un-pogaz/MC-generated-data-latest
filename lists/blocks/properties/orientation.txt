@@ -1,1 +1,2 @@
+minecraft:crafter
 minecraft:jigsaw
