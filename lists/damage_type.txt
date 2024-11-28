@@ -15,6 +15,7 @@ minecraft:fireworks
 minecraft:fly_into_wall
 minecraft:freeze
 minecraft:generic
+minecraft:generic_kill
 minecraft:hot_floor
 minecraft:in_fire
 minecraft:in_wall
@@ -27,6 +28,7 @@ minecraft:mob_attack_no_aggro
 minecraft:mob_projectile
 minecraft:on_fire
 minecraft:out_of_world
+minecraft:outside_border
 minecraft:player_attack
 minecraft:player_explosion
 minecraft:sonic_boom
