@@ -50,6 +50,10 @@ minecraft:recipes/building_blocks/brown_concrete_powder
 minecraft:recipes/building_blocks/brown_stained_glass
 minecraft:recipes/building_blocks/brown_terracotta
 minecraft:recipes/building_blocks/brown_wool
+minecraft:recipes/building_blocks/cherry_planks
+minecraft:recipes/building_blocks/cherry_slab
+minecraft:recipes/building_blocks/cherry_stairs
+minecraft:recipes/building_blocks/cherry_wood
 minecraft:recipes/building_blocks/chiseled_bookshelf
 minecraft:recipes/building_blocks/chiseled_deepslate
 minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting
@@ -409,6 +413,7 @@ minecraft:recipes/building_blocks/stone_stairs
 minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting
 minecraft:recipes/building_blocks/stripped_acacia_wood
 minecraft:recipes/building_blocks/stripped_birch_wood
+minecraft:recipes/building_blocks/stripped_cherry_wood
 minecraft:recipes/building_blocks/stripped_crimson_hyphae
 minecraft:recipes/building_blocks/stripped_dark_oak_wood
 minecraft:recipes/building_blocks/stripped_jungle_wood
@@ -570,6 +575,9 @@ minecraft:recipes/decorations/campfire
 minecraft:recipes/decorations/candle
 minecraft:recipes/decorations/cartography_table
 minecraft:recipes/decorations/chain
+minecraft:recipes/decorations/cherry_fence
+minecraft:recipes/decorations/cherry_hanging_sign
+minecraft:recipes/decorations/cherry_sign
 minecraft:recipes/decorations/chest
 minecraft:recipes/decorations/cobbled_deepslate_wall
 minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting
@@ -936,8 +944,10 @@ minecraft:recipes/misc/netherite_scrap_from_blasting
 minecraft:recipes/misc/netherite_upgrade_smithing_template
 minecraft:recipes/misc/orange_dye_from_orange_tulip
 minecraft:recipes/misc/orange_dye_from_red_yellow
+minecraft:recipes/misc/orange_dye_from_torchflower
 minecraft:recipes/misc/paper
 minecraft:recipes/misc/pink_dye_from_peony
+minecraft:recipes/misc/pink_dye_from_pink_petals
 minecraft:recipes/misc/pink_dye_from_pink_tulip
 minecraft:recipes/misc/pink_dye_from_red_white_dye
 minecraft:recipes/misc/popped_chorus_fruit
@@ -995,6 +1005,11 @@ minecraft:recipes/redstone/birch_door
 minecraft:recipes/redstone/birch_fence_gate
 minecraft:recipes/redstone/birch_pressure_plate
 minecraft:recipes/redstone/birch_trapdoor
+minecraft:recipes/redstone/cherry_button
+minecraft:recipes/redstone/cherry_door
+minecraft:recipes/redstone/cherry_fence_gate
+minecraft:recipes/redstone/cherry_pressure_plate
+minecraft:recipes/redstone/cherry_trapdoor
 minecraft:recipes/redstone/comparator
 minecraft:recipes/redstone/crimson_button
 minecraft:recipes/redstone/crimson_door
@@ -1066,6 +1081,7 @@ minecraft:recipes/redstone/warped_fence_gate
 minecraft:recipes/redstone/warped_pressure_plate
 minecraft:recipes/redstone/warped_trapdoor
 minecraft:recipes/root
+minecraft:recipes/tools/brush
 minecraft:recipes/tools/bundle
 minecraft:recipes/tools/clock
 minecraft:recipes/tools/compass
@@ -1107,6 +1123,8 @@ minecraft:recipes/transportation/bamboo_raft
 minecraft:recipes/transportation/birch_boat
 minecraft:recipes/transportation/birch_chest_boat
 minecraft:recipes/transportation/carrot_on_a_stick
+minecraft:recipes/transportation/cherry_boat
+minecraft:recipes/transportation/cherry_chest_boat
 minecraft:recipes/transportation/chest_minecart
 minecraft:recipes/transportation/dark_oak_boat
 minecraft:recipes/transportation/dark_oak_chest_boat

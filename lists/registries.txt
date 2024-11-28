@@ -8,6 +8,7 @@ minecraft:cat_variant
 minecraft:chunk_status
 minecraft:command_argument_type
 minecraft:custom_stat
+minecraft:decorated_pot_patterns
 minecraft:enchantment
 minecraft:entity_type
 minecraft:float_provider_type
