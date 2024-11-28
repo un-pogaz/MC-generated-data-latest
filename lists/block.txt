@@ -612,6 +612,8 @@ minecraft:packed_mud
 minecraft:pearlescent_froglight
 minecraft:peony
 minecraft:petrified_oak_slab
+minecraft:piglin_head
+minecraft:piglin_wall_head
 minecraft:pink_banner
 minecraft:pink_bed
 minecraft:pink_candle
@@ -970,6 +972,7 @@ minecraft:zombie_head
 minecraft:zombie_wall_head
 #minecraft:acacia_logs
 #minecraft:all_hanging_signs
+#minecraft:all_signs
 #minecraft:ancient_city_replaceable
 #minecraft:animals_spawnable_on
 #minecraft:anvil
@@ -1099,7 +1102,6 @@ minecraft:zombie_wall_head
 #minecraft:stone_ore_replaceables
 #minecraft:stone_pressure_plates
 #minecraft:strider_warm_blocks
-#minecraft:stripped_logs
 #minecraft:tall_flowers
 #minecraft:terracotta
 #minecraft:trapdoors
