@@ -184,7 +184,6 @@ minecraft:seagrass_deep_cold
 minecraft:seagrass_deep_warm
 minecraft:seagrass_normal
 minecraft:seagrass_river
-minecraft:seagrass_simple
 minecraft:seagrass_swamp
 minecraft:seagrass_warm
 minecraft:small_basalt_columns

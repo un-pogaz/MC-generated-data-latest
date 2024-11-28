@@ -1919,6 +1919,7 @@ minecraft:item/bundle/drop_contents3
 minecraft:item/bundle/insert1
 minecraft:item/bundle/insert2
 minecraft:item/bundle/insert3
+minecraft:item/bundle/insert_fail
 minecraft:item/bundle/remove_one1
 minecraft:item/bundle/remove_one2
 minecraft:item/bundle/remove_one3
