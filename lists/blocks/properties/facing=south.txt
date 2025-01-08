@@ -136,6 +136,7 @@ minecraft:jungle_wall_hanging_sign
 minecraft:jungle_wall_sign
 minecraft:ladder
 minecraft:large_amethyst_bud
+minecraft:leaf_litter
 minecraft:lectern
 minecraft:lever
 minecraft:light_blue_bed
@@ -282,6 +283,7 @@ minecraft:white_bed
 minecraft:white_glazed_terracotta
 minecraft:white_shulker_box
 minecraft:white_wall_banner
+minecraft:wildflowers
 minecraft:wither_skeleton_wall_skull
 minecraft:yellow_bed
 minecraft:yellow_glazed_terracotta

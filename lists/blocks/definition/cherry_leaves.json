@@ -1,8 +1,8 @@
 {
-  "chance": 10,
-  "particle": {
+  "leaf_particle": {
     "type": "minecraft:cherry_leaves"
   },
+  "leaf_particle_chance": 10,
   "properties": {},
-  "type": "minecraft:particle_leaves"
+  "type": "minecraft:leaves"
 }

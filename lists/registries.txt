@@ -55,6 +55,7 @@ minecraft:sensor_type
 minecraft:slot_display
 minecraft:sound_event
 minecraft:stat_type
+minecraft:ticket_type
 minecraft:trigger_type
 minecraft:villager_profession
 minecraft:villager_type

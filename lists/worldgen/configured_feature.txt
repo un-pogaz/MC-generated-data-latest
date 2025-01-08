@@ -8,8 +8,10 @@ minecraft:basalt_blobs
 minecraft:basalt_pillar
 minecraft:birch
 minecraft:birch_bees_0002
+minecraft:birch_bees_0002_leaf_litter
 minecraft:birch_bees_002
 minecraft:birch_bees_005
+minecraft:birch_leaf_litter
 minecraft:birch_tall
 minecraft:blackstone_blobs
 minecraft:blue_ice
@@ -27,6 +29,7 @@ minecraft:crimson_fungus
 minecraft:crimson_fungus_planted
 minecraft:dark_forest_vegetation
 minecraft:dark_oak
+minecraft:dark_oak_leaf_litter
 minecraft:delta
 minecraft:desert_well
 minecraft:disk_clay
@@ -42,9 +45,10 @@ minecraft:end_platform
 minecraft:end_spike
 minecraft:fancy_oak
 minecraft:fancy_oak_bees
-minecraft:fancy_oak_bees_0002
+minecraft:fancy_oak_bees_0002_leaf_litter
 minecraft:fancy_oak_bees_002
 minecraft:fancy_oak_bees_005
+minecraft:fancy_oak_leaf_litter
 minecraft:flower_cherry
 minecraft:flower_default
 minecraft:flower_flower_forest
@@ -88,9 +92,10 @@ minecraft:mushroom_island_vegetation
 minecraft:nether_sprouts
 minecraft:nether_sprouts_bonemeal
 minecraft:oak
-minecraft:oak_bees_0002
+minecraft:oak_bees_0002_leaf_litter
 minecraft:oak_bees_002
 minecraft:oak_bees_005
+minecraft:oak_leaf_litter
 minecraft:ore_ancient_debris_large
 minecraft:ore_ancient_debris_small
 minecraft:ore_andesite
@@ -139,7 +144,9 @@ minecraft:patch_dead_bush
 minecraft:patch_fire
 minecraft:patch_grass
 minecraft:patch_grass_jungle
+minecraft:patch_grass_meadow
 minecraft:patch_large_fern
+minecraft:patch_leaf_litter
 minecraft:patch_melon
 minecraft:patch_pumpkin
 minecraft:patch_red_mushroom
@@ -179,7 +186,7 @@ minecraft:super_birch_bees
 minecraft:super_birch_bees_0002
 minecraft:swamp_oak
 minecraft:tall_mangrove
-minecraft:trees_birch_and_oak
+minecraft:trees_birch_and_oak_leaf_litter
 minecraft:trees_flower_forest
 minecraft:trees_grove
 minecraft:trees_jungle
@@ -202,3 +209,5 @@ minecraft:warped_forest_vegetation_bonemeal
 minecraft:warped_fungus
 minecraft:warped_fungus_planted
 minecraft:weeping_vines
+minecraft:wildflowers_birch_forest
+minecraft:wildflowers_meadow

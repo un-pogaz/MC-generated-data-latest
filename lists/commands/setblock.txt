@@ -2,3 +2,4 @@ setblock <pos minecraft:block_pos> <block minecraft:block_state>
 setblock <pos minecraft:block_pos> <block minecraft:block_state> destroy
 setblock <pos minecraft:block_pos> <block minecraft:block_state> keep
 setblock <pos minecraft:block_pos> <block minecraft:block_state> replace
+setblock <pos minecraft:block_pos> <block minecraft:block_state> strict

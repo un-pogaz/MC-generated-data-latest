@@ -1911,14 +1911,40 @@
     {
       nbt: {
         front_text: {
-          has_glowing_text: 0b,
           color: "black",
-          messages: ["{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}"]
+          messages: [
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            }
+          ],
+          has_glowing_text: 0b
         },
         back_text: {
-          has_glowing_text: 0b,
           color: "black",
-          messages: ["{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}"]
+          messages: [
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            }
+          ],
+          has_glowing_text: 0b
         },
         id: "minecraft:sign"
       },
@@ -1928,14 +1954,40 @@
     {
       nbt: {
         front_text: {
-          has_glowing_text: 0b,
           color: "black",
-          messages: ["{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}"]
+          messages: [
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            }
+          ],
+          has_glowing_text: 0b
         },
         back_text: {
-          has_glowing_text: 0b,
           color: "black",
-          messages: ["{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}", "{\"text\":\"\"}"]
+          messages: [
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            },
+            {
+              text: ""
+            }
+          ],
+          has_glowing_text: 0b
         },
         id: "minecraft:sign"
       },
@@ -2145,5 +2197,5 @@
       Name: "minecraft:spruce_wall_sign"
     }
   ],
-  DataVersion: 4189
+  DataVersion: 4298
 }

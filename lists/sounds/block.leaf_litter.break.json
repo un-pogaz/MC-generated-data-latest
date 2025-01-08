@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/leaf_litter/leaf_litter_break1",
+    "block/leaf_litter/leaf_litter_break2",
+    "block/leaf_litter/leaf_litter_break3",
+    "block/leaf_litter/leaf_litter_break4",
+    "block/leaf_litter/leaf_litter_break5"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

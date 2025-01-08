@@ -1,6 +1,6 @@
 {
-  "aabb_offset": 4.0,
   "height": 3.0,
   "properties": {},
-  "type": "minecraft:amethyst_cluster"
+  "type": "minecraft:amethyst_cluster",
+  "width": 8.0
 }
