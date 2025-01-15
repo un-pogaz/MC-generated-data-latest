@@ -46,6 +46,7 @@ minecraft:pink_carpet  = {{value}}
 minecraft:player_head  = {{value}}
 minecraft:purple_carpet  = {{value}}
 minecraft:red_carpet  = {{value}}
+minecraft:saddle  = {{value}}
 minecraft:shield  = {{value}}
 minecraft:skeleton_skull  = {{value}}
 minecraft:turtle_helmet  = {{value}}
