@@ -364,6 +364,11 @@
     "region": "Kernow",
     "bidirectional": false
   },
+  "ky_kg": {
+    "name": "Кыргызча",
+    "region": "Кыргызстан",
+    "bidirectional": false
+  },
   "la_la": {
     "name": "Latina",
     "region": "Latium",

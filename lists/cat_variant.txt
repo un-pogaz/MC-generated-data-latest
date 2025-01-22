@@ -9,5 +9,3 @@ minecraft:red
 minecraft:siamese
 minecraft:tabby
 minecraft:white
-#minecraft:default_spawns
-#minecraft:full_moon_spawns

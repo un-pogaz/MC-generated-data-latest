@@ -1,5 +1,5 @@
 {
-  "allowed_entities": "minecraft:horse",
+  "allowed_entities": "#minecraft:can_wear_horse_armor",
   "asset_id": "minecraft:gold",
   "damage_on_hurt": false,
   "equip_sound": "minecraft:entity.horse.armor",
