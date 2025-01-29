@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    "block/sand/wind1",
+    "block/sand/wind2",
+    "block/sand/wind3",
+    "block/sand/wind4",
+    "block/sand/wind5",
+    "block/sand/wind6",
+    "block/sand/wind7",
+    "block/sand/wind8",
+    "block/sand/wind9",
+    "block/sand/wind10",
+    "block/sand/wind11",
+    "block/sand/wind12"
+  ],
+  "subtitle": "subtitles.block.sand.wind"
+}

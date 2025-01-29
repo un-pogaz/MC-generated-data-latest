@@ -1,0 +1,103 @@
+{
+  "sounds": [
+    {
+      "name": "block/sand/sand1",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/sand/sand2",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/sand/sand3",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/sand/sand4",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand5",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/sand/sand6",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/sand/sand7",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand8",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand9",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand10",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand10",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/sand/sand11",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand12",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand12",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand13",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand14",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand15",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand16",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand17",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand18",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand19",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand20",
+      "volume": 4.0
+    },
+    {
+      "name": "block/sand/sand21",
+      "volume": 4.0
+    }
+  ],
+  "subtitle": "subtitles.block.sand.idle"
+}

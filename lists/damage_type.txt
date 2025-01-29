@@ -55,11 +55,11 @@ minecraft:wither_skull
 #minecraft:burn_from_stepping
 #minecraft:burns_armor_stands
 #minecraft:bypasses_armor
-#minecraft:bypasses_blocking
 #minecraft:bypasses_effects
 #minecraft:bypasses_enchantments
 #minecraft:bypasses_invulnerability
 #minecraft:bypasses_resistance
+#minecraft:bypasses_shield
 #minecraft:bypasses_wolf_armor
 #minecraft:can_break_armor_stand
 #minecraft:damages_helmet
