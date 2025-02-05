@@ -26,3 +26,4 @@ minecraft:pink_petals
 minecraft:wildflowers
 minecraft:chorus_flower
 minecraft:spore_blossom
+minecraft:cactus_flower
