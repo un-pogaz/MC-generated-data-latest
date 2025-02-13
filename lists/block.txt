@@ -1130,6 +1130,7 @@ minecraft:zombie_wall_head
 #minecraft:blocks_wind_charge_explosions
 #minecraft:buttons
 #minecraft:camel_sand_step_sound_blocks
+#minecraft:camels_spawnable_on
 #minecraft:campfires
 #minecraft:candle_cakes
 #minecraft:candles

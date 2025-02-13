@@ -9,3 +9,7 @@
 | minecraft:leather_leggings   |     1 |  12.5% |   2/16 |         |
 | minecraft:saddle             |     1 |   6.2% |   1/16 |         |
 | minecraft:emerald            |  1..4 |   6.2% |   1/16 |         |
+| – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – |
+| 1 time                       |    -- |     -- |     -- |         |
+| minecraft:bundle             |     1 |  33.3% |    1/3 |         |
+| empty                        |       |  66.7% |    2/3 |         |

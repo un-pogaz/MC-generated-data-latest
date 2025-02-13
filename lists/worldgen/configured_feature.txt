@@ -145,8 +145,6 @@ minecraft:patch_dead_bush
 minecraft:patch_dry_grass
 minecraft:patch_fire
 minecraft:patch_firefly_bush
-minecraft:patch_firefly_bush_near_water
-minecraft:patch_firefly_bush_sparse
 minecraft:patch_grass
 minecraft:patch_grass_jungle
 minecraft:patch_grass_meadow

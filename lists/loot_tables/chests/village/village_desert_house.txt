@@ -6,3 +6,6 @@ minecraft:bread
 minecraft:book
 minecraft:dead_bush
 minecraft:emerald
+
+minecraft:bundle
+empty
