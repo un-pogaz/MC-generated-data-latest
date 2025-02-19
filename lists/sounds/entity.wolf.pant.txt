@@ -1,1 +1,1 @@
-minecraft:mob/wolf/panting
+minecraft:mob/wolf/classic/panting

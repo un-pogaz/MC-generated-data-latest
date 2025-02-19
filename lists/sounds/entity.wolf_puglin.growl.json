@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/wolf/puglin/growl1",
+    "mob/wolf/puglin/growl2",
+    "mob/wolf/puglin/growl3"
+  ],
+  "subtitle": "subtitles.entity.wolf.growl"
+}

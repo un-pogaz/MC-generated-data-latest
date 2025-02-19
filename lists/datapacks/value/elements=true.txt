@@ -25,6 +25,7 @@ minecraft:test_instance
 minecraft:trial_spawner
 minecraft:trim_material
 minecraft:trim_pattern
+minecraft:wolf_sound_variant
 minecraft:wolf_variant
 minecraft:worldgen/biome
 minecraft:worldgen/configured_carver
