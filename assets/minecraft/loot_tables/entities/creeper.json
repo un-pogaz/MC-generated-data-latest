@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:gunpowder",
+                    "type": "item",
+                    "name": "minecraft:gunpowder",
                     "weight": 1,
                     "functions": [
                         {

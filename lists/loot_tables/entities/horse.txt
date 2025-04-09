@@ -1,1 +1,1 @@
-empty
+minecraft:leather

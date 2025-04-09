@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:arrow",
+                    "type": "item",
+                    "name": "minecraft:arrow",
                     "weight": 1,
                     "functions": [
                         {
@@ -27,9 +28,10 @@
         },
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:bone",
+                    "type": "item",
+                    "name": "minecraft:bone",
                     "weight": 1,
                     "functions": [
                         {

@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:ghast_tear",
+                    "type": "item",
+                    "name": "minecraft:ghast_tear",
                     "weight": 1,
                     "functions": [
                         {
@@ -27,9 +28,10 @@
         },
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:gunpowder",
+                    "type": "item",
+                    "name": "minecraft:gunpowder",
                     "weight": 1,
                     "functions": [
                         {

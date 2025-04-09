@@ -1,0 +1,7 @@
+| Name           | Count | Chance | Weight | Comment |
+| -------------- | ----- | ------ | ------ | ------- |
+| 1 time         |    -- |     -- |     -- |         |
+| minecraft:fish |     1 |    60% | 60/100 |         |
+| minecraft:fish |     1 |    25% | 25/100 |         |
+| minecraft:fish |     1 |     2% |  2/100 |         |
+| minecraft:fish |     1 |    13% | 13/100 |         |

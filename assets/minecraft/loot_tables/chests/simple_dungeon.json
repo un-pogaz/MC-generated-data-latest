@@ -2,13 +2,15 @@
     "pools": [
         {
             "rolls": 8,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:saddle",
+                    "type": "item",
+                    "name": "minecraft:saddle",
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:iron_ingot",
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
                     "weight": 10,
                     "functions": [
                         {
@@ -21,11 +23,13 @@
                     ]
                 },
                 {
-                    "item": "minecraft:bread",
+                    "type": "item",
+                    "name": "minecraft:bread",
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:wheat",
+                    "type": "item",
+                    "name": "minecraft:wheat",
                     "weight": 10,
                     "functions": [
                         {
@@ -38,7 +42,8 @@
                     ]
                 },
                 {
-                    "item": "minecraft:gunpowder",
+                    "type": "item",
+                    "name": "minecraft:gunpowder",
                     "weight": 10,
                     "functions": [
                         {
@@ -51,7 +56,8 @@
                     ]
                 },
                 {
-                    "item": "minecraft:string",
+                    "type": "item",
+                    "name": "minecraft:string",
                     "weight": 10,
                     "functions": [
                         {
@@ -64,15 +70,18 @@
                     ]
                 },
                 {
-                    "item": "minecraft:bucket",
+                    "type": "item",
+                    "name": "minecraft:bucket",
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:golden_apple",
+                    "type": "item",
+                    "name": "minecraft:golden_apple",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:redstone",
+                    "type": "item",
+                    "name": "minecraft:redstone",
                     "weight": 10,
                     "functions": [
                         {
@@ -85,31 +94,38 @@
                     ]
                 },
                 {
-                    "item": "minecraft:record_13",
+                    "type": "item",
+                    "name": "minecraft:record_13",
                     "weight": 4
                 },
                 {
-                    "item": "minecraft:record_cat",
+                    "type": "item",
+                    "name": "minecraft:record_cat",
                     "weight": 4
                 },
                 {
-                    "item": "minecraft:name_tag",
+                    "type": "item",
+                    "name": "minecraft:name_tag",
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:golden_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:golden_horse_armor",
                     "weight": 2
                 },
                 {
-                    "item": "minecraft:iron_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:iron_horse_armor",
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:diamond_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:diamond_horse_armor",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:book",
+                    "type": "item",
+                    "name": "minecraft:book",
                     "weight": 1,
                     "functions": [
                         {

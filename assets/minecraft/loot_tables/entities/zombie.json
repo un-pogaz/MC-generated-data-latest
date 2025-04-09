@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:rotten_flesh",
+                    "type": "item",
+                    "name": "minecraft:rotten_flesh",
                     "weight": 1,
                     "functions": [
                         {
@@ -37,17 +38,20 @@
                 }
             ],
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:iron_ingot",
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:carrot",
+                    "type": "item",
+                    "name": "minecraft:carrot",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:potato",
+                    "type": "item",
+                    "name": "minecraft:potato",
                     "weight": 1
                 }
             ]

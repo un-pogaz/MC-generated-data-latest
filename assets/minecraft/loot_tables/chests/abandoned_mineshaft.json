@@ -5,9 +5,10 @@
                 "min": 3,
                 "max": 6
             },
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:iron_ingot",
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
                     "functions": [
                         {
                             "function": "set_count",
@@ -20,7 +21,8 @@
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:gold_ingot",
+                    "type": "item",
+                    "name": "minecraft:gold_ingot",
                     "functions": [
                         {
                             "function": "set_count",
@@ -33,7 +35,8 @@
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:redstone",
+                    "type": "item",
+                    "name": "minecraft:redstone",
                     "functions": [
                         {
                             "function": "set_count",
@@ -46,7 +49,8 @@
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:dye",
+                    "type": "item",
+                    "name": "minecraft:dye",
                     "functions": [
                         {
                             "function": "set_data",
@@ -63,7 +67,8 @@
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:diamond",
+                    "type": "item",
+                    "name": "minecraft:diamond",
                     "functions": [
                         {
                             "function": "set_count",
@@ -76,7 +81,8 @@
                     "weight": 3
                 },
                 {
-                    "item": "minecraft:coal",
+                    "type": "item",
+                    "name": "minecraft:coal",
                     "functions": [
                         {
                             "function": "set_count",
@@ -89,7 +95,8 @@
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:bread",
+                    "type": "item",
+                    "name": "minecraft:bread",
                     "functions": [
                         {
                             "function": "set_count",
@@ -102,11 +109,13 @@
                     "weight": 15
                 },
                 {
-                    "item": "minecraft:iron_pickaxe",
+                    "type": "item",
+                    "name": "minecraft:iron_pickaxe",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:rail",
+                    "type": "item",
+                    "name": "minecraft:rail",
                     "functions": [
                         {
                             "function": "set_count",
@@ -119,7 +128,8 @@
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:melon_seeds",
+                    "type": "item",
+                    "name": "minecraft:melon_seeds",
                     "functions": [
                         {
                             "function": "set_count",
@@ -132,7 +142,8 @@
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:pumpkin_seeds",
+                    "type": "item",
+                    "name": "minecraft:pumpkin_seeds",
                     "functions": [
                         {
                             "function": "set_count",
@@ -145,15 +156,18 @@
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:saddle",
+                    "type": "item",
+                    "name": "minecraft:saddle",
                     "weight": 3
                 },
                 {
-                    "item": "minecraft:iron_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:iron_horse_armor",
                     "weight": 1
                 },
                 {
-                    "item": "minecraft:book",
+                    "type": "item",
+                    "name": "minecraft:book",
                     "weight": 1,
                     "functions": [
                         {

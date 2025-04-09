@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:feather",
+                    "type": "item",
+                    "name": "minecraft:feather",
                     "weight": 1,
                     "functions": [
                         {
@@ -27,9 +28,10 @@
         },
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:chicken",
+                    "type": "item",
+                    "name": "minecraft:chicken",
                     "weight": 1,
                     "functions": [
                         {

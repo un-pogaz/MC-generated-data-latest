@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:slime_ball",
+                    "type": "item",
+                    "name": "minecraft:slime_ball",
                     "weight": 1,
                     "functions": [
                         {

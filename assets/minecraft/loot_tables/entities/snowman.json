@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:snowball",
+                    "type": "item",
+                    "name": "minecraft:snowball",
                     "weight": 1,
                     "functions": [
                         {

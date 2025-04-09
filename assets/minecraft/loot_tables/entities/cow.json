@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:leather",
+                    "type": "item",
+                    "name": "minecraft:leather",
                     "weight": 1,
                     "functions": [
                         {
@@ -27,9 +28,10 @@
         },
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:beef",
+                    "type": "item",
+                    "name": "minecraft:beef",
                     "weight": 1,
                     "functions": [
                         {

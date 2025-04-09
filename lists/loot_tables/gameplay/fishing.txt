@@ -1,0 +1,3 @@
+loot_table[]minecraft:gameplay/fishing/junk
+loot_table[]minecraft:gameplay/fishing/treasure
+loot_table[]minecraft:gameplay/fishing/fish

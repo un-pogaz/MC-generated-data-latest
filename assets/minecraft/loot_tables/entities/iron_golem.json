@@ -2,9 +2,10 @@
     "pools": [
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:red_flower",
+                    "type": "item",
+                    "name": "minecraft:red_flower",
                     "weight": 1,
                     "functions": [
                         {
@@ -20,9 +21,10 @@
         },
         {
             "rolls": 1,
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:iron_ingot",
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
                     "weight": 1,
                     "functions": [
                         {

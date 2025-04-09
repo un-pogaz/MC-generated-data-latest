@@ -5,9 +5,10 @@
                 "min": 2,
                 "max": 4
             },
-            "items": [
+            "entries": [
                 {
-                    "item": "minecraft:diamond",
+                    "type": "item",
+                    "name": "minecraft:diamond",
                     "functions": [
                         {
                             "function": "set_count",
@@ -20,7 +21,8 @@
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:iron_ingot",
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
                     "functions": [
                         {
                             "function": "set_count",
@@ -33,7 +35,8 @@
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:gold_ingot",
+                    "type": "item",
+                    "name": "minecraft:gold_ingot",
                     "functions": [
                         {
                             "function": "set_count",
@@ -46,19 +49,23 @@
                     "weight": 15
                 },
                 {
-                    "item": "minecraft:golden_sword",
+                    "type": "item",
+                    "name": "minecraft:golden_sword",
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:golden_chestplate",
+                    "type": "item",
+                    "name": "minecraft:golden_chestplate",
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:flint_and_steel",
+                    "type": "item",
+                    "name": "minecraft:flint_and_steel",
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:nether_wart",
+                    "type": "item",
+                    "name": "minecraft:nether_wart",
                     "functions": [
                         {
                             "function": "set_count",
@@ -71,23 +78,28 @@
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:saddle",
+                    "type": "item",
+                    "name": "minecraft:saddle",
                     "weight": 10
                 },
                 {
-                    "item": "minecraft:golden_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:golden_horse_armor",
                     "weight": 8
                 },
                 {
-                    "item": "minecraft:iron_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:iron_horse_armor",
                     "weight": 5
                 },
                 {
-                    "item": "minecraft:diamond_horse_armor",
+                    "type": "item",
+                    "name": "minecraft:diamond_horse_armor",
                     "weight": 3
                 },
                 {
-                    "item": "minecraft:obsidian",
+                    "type": "item",
+                    "name": "minecraft:obsidian",
                     "functions": [
                         {
                             "function": "set_count",
