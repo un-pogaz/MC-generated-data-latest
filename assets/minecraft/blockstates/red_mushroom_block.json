@@ -10,8 +10,8 @@
         "variant=south": { "model": "red_mushroom_block_s" },
         "variant=south_east": { "model": "red_mushroom_block_se" },
         "variant=stem": { "model": "red_mushroom_block_stem" },
-        "variant=all_stem": { "model": "red_mushroom_block_cap_all" },
-        "variant=all_outside": { "model": "red_mushroom_block_stem_all" },
+        "variant=all_stem": { "model": "red_mushroom_block_stem_all" },
+        "variant=all_outside": { "model": "red_mushroom_block_cap_all" },
         "variant=all_inside": { "model": "red_mushroom_block_inside_all" }
     }
 }
