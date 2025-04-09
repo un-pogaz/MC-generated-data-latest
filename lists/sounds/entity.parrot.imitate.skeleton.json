@@ -1,10 +1,9 @@
 {
   "sounds": [
     {
-      "type": "event",
       "name": "entity.skeleton.ambient",
-      "volume": 1,
-      "pitch": 1.7
+      "pitch": 1.7,
+      "type": "event"
     }
   ],
   "subtitle": "subtitles.entity.parrot.imitate.skeleton"

@@ -17,7 +17,7 @@
               "type": "argument",
               "parser": "brigadier:integer",
               "properties": {
-                "min": 0
+                "min": 1
               },
               "executable": true
             }

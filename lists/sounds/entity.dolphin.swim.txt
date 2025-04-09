@@ -1,0 +1,7 @@
+minecraft:mob/dolphin/swim1
+minecraft:mob/dolphin/swim2
+minecraft:mob/dolphin/swim3
+minecraft:mob/dolphin/swim4
+minecraft:entity/fish/swim5
+minecraft:entity/fish/swim6
+minecraft:entity/fish/swim7

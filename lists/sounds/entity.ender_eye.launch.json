@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "entity/endereye/endereye_launch1",
+    "entity/endereye/endereye_launch2"
+  ],
+  "subtitle": "subtitles.entity.ender_eye.launch"
+}

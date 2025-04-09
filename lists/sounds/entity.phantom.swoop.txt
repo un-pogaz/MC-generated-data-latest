@@ -1,0 +1,4 @@
+minecraft:mob/phantom/swoop1
+minecraft:mob/phantom/swoop2
+minecraft:mob/phantom/swoop3
+minecraft:mob/phantom/swoop4

@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/drowned/idle1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/drowned/idle2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/drowned/idle3",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/drowned/idle4",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/drowned/idle5",
+      "volume": 0.9
+    }
+  ],
+  "subtitles": "subtitles.entity.drowned.ambient"
+}

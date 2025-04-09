@@ -1,9 +1,8 @@
 {
   "sounds": [
-    "block/wooden_door/close",
     "block/wooden_door/close2",
-    "block/wooden_door/close3",
-    "block/wooden_door/close4"
+    "block/wooden_door/close5",
+    "block/wooden_door/close6"
   ],
   "subtitle": "subtitles.block.door.toggle"
 }
