@@ -139,6 +139,7 @@ minecraft:block/meshes/pane_ns
 minecraft:block/meshes/pane_nse
 minecraft:block/meshes/pane_nsew
 minecraft:block/meshes/pressure_plate_down
+minecraft:block/meshes/pressure_plate_inventory
 minecraft:block/meshes/pressure_plate_up
 minecraft:block/meshes/quartz
 minecraft:block/meshes/quartz_side
@@ -202,6 +203,7 @@ minecraft:block/meshes/wall_inventory
 minecraft:block/meshes/wall_n
 minecraft:block/meshes/wall_ne
 minecraft:block/meshes/wall_ns
+minecraft:block/meshes/wall_ns_above
 minecraft:block/meshes/wall_nse
 minecraft:block/meshes/wall_nsew
 minecraft:block/meshes/wall_post

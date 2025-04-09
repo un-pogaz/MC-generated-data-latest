@@ -6,33 +6,33 @@
         {   "type": "cube",
             "from": [ 0, 0, 0 ],
             "to": [ 16, 2, 16 ],
-            "faceData": [
-                {
+            "faceData": {
+                "down": {
                     "uv": [ 0, 0, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "up": {
                     "uv": [ 0, 0, 16, 16 ],
                     "textureFacing": "up",
                     "cull": false
                 },
-                {
+                "north": {
                     "uv": [ 0, 14, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "south": {
                     "uv": [ 0, 14, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "west": {
                     "uv": [ 0, 14, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "east": {
                     "uv": [ 0, 14, 16, 16 ],
                     "textureFacing": "south"
                 }
-            ]
+            }
         },
         {   "type": "plane",
             "from": [ 7, 7, 6 ],

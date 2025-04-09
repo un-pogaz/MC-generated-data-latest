@@ -4,35 +4,35 @@
         {   "type": "cube",
             "from": [ 0, 0, 0 ],
             "to": [ 16, 16, 16 ],
-            "faceData": [
-                {
+            "faceData": {
+                "down": {
                     "uv": [ 0, 0, 16, 16 ],
                     "rotation": 180,
                     "textureFacing": "north"
                 },
-                {
+                "up": {
                     "uv": [ 0, 0, 16, 16 ],
                     "textureFacing": "south"
                 },
-                {
+                "north": {
                     "uv": [ 0, 0, 16, 16 ],
                     "textureFacing": "down"
                 },
-                {
+                "south": {
                     "uv": [ 0, 0, 16, 16 ],
                     "textureFacing": "up"
                 },
-                {
+                "west": {
                     "uv": [ 0, 0, 16, 16 ],
                     "rotation": 270,
                     "textureFacing": "west"
                 },
-                {
+                "east": {
                     "uv": [ 0, 0, 16, 16 ],
                     "rotation": 90,
                     "textureFacing": "east"
                 }
-            ]
+            }
         }
     ]
 }

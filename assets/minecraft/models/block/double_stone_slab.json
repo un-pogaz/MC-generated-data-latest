@@ -9,6 +9,13 @@
         "stone_brick":  { "model": "cube" },
         "nether_brick": { "model": "cube" },
         "quartz":       { "model": "cube" },
-        "allstone":     { "model": "cube" }
+        "top_stone":        { "model": "cube" },
+        "top_sandstone":    { "model": "cube" },
+        "top_wood_old":     { "model": "cube" },
+        "top_cobble":       { "model": "cube" },
+        "top_brick":        { "model": "cube" },
+        "top_stone_brick":  { "model": "cube" },
+        "top_nether_brick": { "model": "cube" },
+        "top_quartz":       { "model": "cube" }
     }
 }
