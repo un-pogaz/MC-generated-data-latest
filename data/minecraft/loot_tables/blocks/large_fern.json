@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:large_fern"
+          "name": "minecraft:fern"
         }
       ],
       "conditions": [

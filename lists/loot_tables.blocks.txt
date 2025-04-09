@@ -24,8 +24,10 @@ minecraft:blocks/attached_pumpkin_stem
 minecraft:blocks/azure_bluet
 minecraft:blocks/bamboo
 minecraft:blocks/bamboo_sapling
+minecraft:blocks/barrel
 minecraft:blocks/beacon
 minecraft:blocks/beetroots
+minecraft:blocks/bell
 minecraft:blocks/birch_button
 minecraft:blocks/birch_door
 minecraft:blocks/birch_fence
@@ -51,6 +53,7 @@ minecraft:blocks/black_stained_glass
 minecraft:blocks/black_stained_glass_pane
 minecraft:blocks/black_terracotta
 minecraft:blocks/black_wool
+minecraft:blocks/blast_furnace
 minecraft:blocks/blue_banner
 minecraft:blocks/blue_bed
 minecraft:blocks/blue_carpet
@@ -93,6 +96,7 @@ minecraft:blocks/bubble_coral_fan
 minecraft:blocks/cactus
 minecraft:blocks/cake
 minecraft:blocks/carrots
+minecraft:blocks/cartography_table
 minecraft:blocks/carved_pumpkin
 minecraft:blocks/cauldron
 minecraft:blocks/chest
@@ -196,6 +200,7 @@ minecraft:blocks/fern
 minecraft:blocks/fire_coral
 minecraft:blocks/fire_coral_block
 minecraft:blocks/fire_coral_fan
+minecraft:blocks/fletching_table
 minecraft:blocks/flower_pot
 minecraft:blocks/frosted_ice
 minecraft:blocks/furnace
@@ -234,6 +239,7 @@ minecraft:blocks/green_stained_glass
 minecraft:blocks/green_stained_glass_pane
 minecraft:blocks/green_terracotta
 minecraft:blocks/green_wool
+minecraft:blocks/grindstone
 minecraft:blocks/hay_block
 minecraft:blocks/heavy_weighted_pressure_plate
 minecraft:blocks/hopper
@@ -274,6 +280,7 @@ minecraft:blocks/ladder
 minecraft:blocks/lapis_block
 minecraft:blocks/lapis_ore
 minecraft:blocks/large_fern
+minecraft:blocks/lectern
 minecraft:blocks/lever
 minecraft:blocks/light_blue_banner
 minecraft:blocks/light_blue_bed
@@ -501,6 +508,8 @@ minecraft:blocks/seagrass
 minecraft:blocks/shulker_box
 minecraft:blocks/skeleton_skull
 minecraft:blocks/slime_block
+minecraft:blocks/smithing_table
+minecraft:blocks/smoker
 minecraft:blocks/smooth_quartz
 minecraft:blocks/smooth_quartz_slab
 minecraft:blocks/smooth_quartz_stairs
@@ -541,6 +550,7 @@ minecraft:blocks/stone_button
 minecraft:blocks/stone_pressure_plate
 minecraft:blocks/stone_slab
 minecraft:blocks/stone_stairs
+minecraft:blocks/stonecutter
 minecraft:blocks/stripped_acacia_log
 minecraft:blocks/stripped_acacia_wood
 minecraft:blocks/stripped_birch_log

@@ -18,8 +18,11 @@ minecraft:chests/underwater_ruin_big
 minecraft:chests/underwater_ruin_small
 minecraft:chests/village_blacksmith
 minecraft:chests/woodland_mansion
+minecraft:entities/armor_stand
 minecraft:entities/bat
 minecraft:entities/blaze
+minecraft:entities/cat
+minecraft:entities/cat_morning_gift
 minecraft:entities/cave_spider
 minecraft:entities/chicken
 minecraft:entities/cod
@@ -49,6 +52,7 @@ minecraft:entities/panda
 minecraft:entities/parrot
 minecraft:entities/phantom
 minecraft:entities/pig
+minecraft:entities/player
 minecraft:entities/polar_bear
 minecraft:entities/pufferfish
 minecraft:entities/rabbit
@@ -85,6 +89,7 @@ minecraft:entities/vex
 minecraft:entities/villager
 minecraft:entities/vindicator
 minecraft:entities/witch
+minecraft:entities/wither
 minecraft:entities/wither_skeleton
 minecraft:entities/wolf
 minecraft:entities/zombie

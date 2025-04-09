@@ -61,6 +61,7 @@ minecraft:block/bamboo_large_leaves
 minecraft:block/bamboo_sapling
 minecraft:block/bamboo_small_leaves
 minecraft:block/banner
+minecraft:block/barrel
 minecraft:block/barrier
 minecraft:block/beacon
 minecraft:block/bed
@@ -70,6 +71,8 @@ minecraft:block/beetroots_stage0
 minecraft:block/beetroots_stage1
 minecraft:block/beetroots_stage2
 minecraft:block/beetroots_stage3
+minecraft:block/bell_ceiling
+minecraft:block/bell_floor
 minecraft:block/birch_button
 minecraft:block/birch_button_inventory
 minecraft:block/birch_button_pressed
@@ -113,6 +116,8 @@ minecraft:block/black_stained_glass_pane_side
 minecraft:block/black_stained_glass_pane_side_alt
 minecraft:block/black_terracotta
 minecraft:block/black_wool
+minecraft:block/blast_furnace
+minecraft:block/blast_furnace_on
 minecraft:block/block
 minecraft:block/blue_carpet
 minecraft:block/blue_concrete
@@ -187,6 +192,7 @@ minecraft:block/carrots_stage0
 minecraft:block/carrots_stage1
 minecraft:block/carrots_stage2
 minecraft:block/carrots_stage3
+minecraft:block/cartography_table
 minecraft:block/carved_pumpkin
 minecraft:block/cauldron
 minecraft:block/cauldron_level1
@@ -395,6 +401,7 @@ minecraft:block/fire_up1
 minecraft:block/fire_up_alt
 minecraft:block/fire_up_alt0
 minecraft:block/fire_up_alt1
+minecraft:block/fletching_table
 minecraft:block/flower_pot
 minecraft:block/flower_pot_cross
 minecraft:block/four_dead_sea_pickles
@@ -457,6 +464,8 @@ minecraft:block/green_stained_glass_pane_side
 minecraft:block/green_stained_glass_pane_side_alt
 minecraft:block/green_terracotta
 minecraft:block/green_wool
+minecraft:block/grindstone
+minecraft:block/grindstone_inventory
 minecraft:block/hay_block
 minecraft:block/heavy_weighted_pressure_plate
 minecraft:block/heavy_weighted_pressure_plate_down
@@ -526,6 +535,7 @@ minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
 minecraft:block/lava
 minecraft:block/leaves
+minecraft:block/lectern
 minecraft:block/lever
 minecraft:block/lever_on
 minecraft:block/light_blue_carpet
@@ -925,6 +935,9 @@ minecraft:block/slab
 minecraft:block/slab_top
 minecraft:block/slightly_cracked_turtle_egg
 minecraft:block/slime_block
+minecraft:block/smithing_table
+minecraft:block/smoker
+minecraft:block/smoker_on
 minecraft:block/smooth_quartz
 minecraft:block/smooth_quartz_slab
 minecraft:block/smooth_quartz_slab_top
@@ -1021,6 +1034,7 @@ minecraft:block/stone_slab_top
 minecraft:block/stone_stairs
 minecraft:block/stone_stairs_inner
 minecraft:block/stone_stairs_outer
+minecraft:block/stonecutter
 minecraft:block/stripped_acacia_log
 minecraft:block/stripped_acacia_wood
 minecraft:block/stripped_birch_log
@@ -1187,6 +1201,7 @@ minecraft:item/arrow
 minecraft:item/azure_bluet
 minecraft:item/baked_potato
 minecraft:item/bamboo
+minecraft:item/barrel
 minecraft:item/barrier
 minecraft:item/bat_spawn_egg
 minecraft:item/beacon
@@ -1195,6 +1210,7 @@ minecraft:item/beef
 minecraft:item/beetroot
 minecraft:item/beetroot_seeds
 minecraft:item/beetroot_soup
+minecraft:item/bell
 minecraft:item/birch_boat
 minecraft:item/birch_button
 minecraft:item/birch_door
@@ -1222,6 +1238,7 @@ minecraft:item/black_stained_glass
 minecraft:item/black_stained_glass_pane
 minecraft:item/black_terracotta
 minecraft:item/black_wool
+minecraft:item/blast_furnace
 minecraft:item/blaze_powder
 minecraft:item/blaze_rod
 minecraft:item/blaze_spawn_egg
@@ -1284,7 +1301,9 @@ minecraft:item/cactus
 minecraft:item/cake
 minecraft:item/carrot
 minecraft:item/carrot_on_a_stick
+minecraft:item/cartography_table
 minecraft:item/carved_pumpkin
+minecraft:item/cat_spawn_egg
 minecraft:item/cauldron
 minecraft:item/cave_spider_spawn_egg
 minecraft:item/chain_command_block
@@ -1565,6 +1584,7 @@ minecraft:item/firework_rocket
 minecraft:item/firework_star
 minecraft:item/fishing_rod
 minecraft:item/fishing_rod_cast
+minecraft:item/fletching_table
 minecraft:item/flint
 minecraft:item/flint_and_steel
 minecraft:item/flower_banner_pattern
@@ -1628,6 +1648,7 @@ minecraft:item/green_stained_glass
 minecraft:item/green_stained_glass_pane
 minecraft:item/green_terracotta
 minecraft:item/green_wool
+minecraft:item/grindstone
 minecraft:item/guardian_spawn_egg
 minecraft:item/gunpowder
 minecraft:item/handheld
@@ -1701,6 +1722,7 @@ minecraft:item/leather_boots
 minecraft:item/leather_chestplate
 minecraft:item/leather_helmet
 minecraft:item/leather_leggings
+minecraft:item/lectern
 minecraft:item/lever
 minecraft:item/light_blue_banner
 minecraft:item/light_blue_bed
@@ -1986,6 +2008,8 @@ minecraft:item/skull_banner_pattern
 minecraft:item/slime_ball
 minecraft:item/slime_block
 minecraft:item/slime_spawn_egg
+minecraft:item/smithing_table
+minecraft:item/smoker
 minecraft:item/smooth_quartz
 minecraft:item/smooth_quartz_slab
 minecraft:item/smooth_quartz_stairs
@@ -2039,6 +2063,7 @@ minecraft:item/stone_shovel
 minecraft:item/stone_slab
 minecraft:item/stone_stairs
 minecraft:item/stone_sword
+minecraft:item/stonecutter
 minecraft:item/stray_spawn_egg
 minecraft:item/string
 minecraft:item/stripped_acacia_log
