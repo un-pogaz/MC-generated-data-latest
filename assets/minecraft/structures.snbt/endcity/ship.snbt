@@ -8982,10 +8982,6 @@
       pos: [4, 5, 7]
     },
     {
-      state: 0,
-      pos: [6, 5, 7]
-    },
-    {
       state: 201,
       pos: [8, 5, 7]
     },
@@ -14998,15 +14994,15 @@
       pos: [4, 2, 12]
     },
     {
-      state: 42,
+      state: 49,
       pos: [5, 2, 12]
     },
     {
-      state: 42,
+      state: 32970,
       pos: [6, 2, 12]
     },
     {
-      state: 42,
+      state: 49,
       pos: [7, 2, 12]
     },
     {
@@ -16202,11 +16198,15 @@
       pos: [4, 2, 13]
     },
     {
-      state: 42,
+      state: 49,
       pos: [5, 2, 13]
     },
     {
-      state: 42,
+      state: 32970,
+      pos: [6, 2, 13]
+    },
+    {
+      state: 49,
       pos: [7, 2, 13]
     },
     {
@@ -17406,15 +17406,15 @@
       pos: [4, 2, 14]
     },
     {
-      state: 42,
+      state: 49,
       pos: [5, 2, 14]
     },
     {
-      state: 42,
+      state: 202,
       pos: [6, 2, 14]
     },
     {
-      state: 42,
+      state: 49,
       pos: [7, 2, 14]
     },
     {
@@ -35365,6 +35365,26 @@
       pos: [5, 5, 7]
     },
     {
+      state: 12543,
+      nbt: {
+        sizeZ: 0,
+        posY: 1,
+        posX: 1,
+        sizeY: 0,
+        posZ: 1,
+        sizeX: 0,
+        mode: "DATA",
+        mirror: "NONE",
+        id: "Structure",
+        author: "jeb_",
+        rotation: "NONE",
+        name: "",
+        ignoreEntities: 0b,
+        metadata: "Elytra"
+      },
+      pos: [6, 5, 7]
+    },
+    {
       state: 255,
       nbt: {
         sizeZ: 0,
@@ -35403,28 +35423,6 @@
         metadata: "Sentry"
       },
       pos: [6, 4, 8]
-    },
-    {
-      state: 12442,
-      nbt: {
-        Items: [
-          {
-            id: "minecraft:written_book",
-            Damage: 0s,
-            Count: 1b,
-            tag: {
-              author: "Searge",
-              title: "Work in Progress",
-              pages: ["{\"text\":\"We will have something else here soon...\"}"]
-            },
-            Slot: 2b
-          }
-        ],
-        id: "Hopper",
-        TransferCooldown: 0,
-        Lock: ""
-      },
-      pos: [6, 2, 13]
     },
     {
       state: 20597,
