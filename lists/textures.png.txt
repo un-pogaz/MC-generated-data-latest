@@ -981,6 +981,7 @@ minecraft:font/unicode_page_fd
 minecraft:font/unicode_page_fe
 minecraft:font/unicode_page_ff
 minecraft:gui/advancements/backgrounds/adventure
+minecraft:gui/advancements/backgrounds/end
 minecraft:gui/advancements/backgrounds/nether
 minecraft:gui/advancements/backgrounds/stone
 minecraft:gui/advancements/tabs

@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:iron_chestplate",
+        "icon": {
+            "item": "minecraft:iron_chestplate"
+        },
         "title": "Suit Up",
         "description": "Protect yourself with a piece of iron armor"
     },

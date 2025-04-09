@@ -7,6 +7,26 @@ adventure/root
 │ └>adventure/adventuring_time
 └>adventure/trade
 
+end/root
+└>end/kill_dragon
+  └>end/dragon_breath
+  └>end/dragon_egg
+  └>end/enter_end_gateway
+  │ └>end/find_end_city
+  │   └>end/elytra
+  │   └>end/levitate
+  └>end/respawn_dragon
+
+nether/root
+└>nether/find_fortress
+│ └>nether/get_wither_skull
+│ │ └>nether/summon_wither
+│ │   └>nether/create_beacon
+│ │     └>nether/create_full_beacon
+│ └>nether/obtain_blaze_rod
+│   └>nether/brew_potion
+└>nether/return_to_sender
+
 story/root
 └>story/mine_stone
   └>story/upgrade_tools
@@ -18,15 +38,8 @@ story/root
       └>story/lava_bucket
       │ └>story/form_obsidian
       │   └>story/enter_the_nether
-      │     └>story/obtain_blaze_rod
-      │     │ └>story/brew_weakness_potion
-      │     │ │ └>story/cure_zombie_villager
-      │     │ └>story/follow_ender_eye
-      │     │   └>story/enter_the_end
-      │     │     └>story/enter_end_gateway
-      │     │       └>story/elytra
-      │     └>story/summon_wither
-      │       └>story/create_beacon
-      │         └>story/create_full_beacon
+      │     └>story/cure_zombie_villager
+      │     └>story/follow_ender_eye
+      │       └>story/enter_the_end
       └>story/obtain_armor
         └>story/deflect_arrow

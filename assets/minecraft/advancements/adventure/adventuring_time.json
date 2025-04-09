@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:diamond_boots",
+        "icon": {
+            "item": "minecraft:diamond_boots"
+        },
         "title": "Adventuring Time",
         "description": "Discover every biome",
         "frame": "challenge"

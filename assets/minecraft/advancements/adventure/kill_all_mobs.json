@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:diamond_sword",
+        "icon": {
+            "item": "minecraft:diamond_sword"
+        },
         "title": "Monsters Hunted",
         "description": "Kill one of every hostile monster",
         "frame": "challenge"
@@ -180,6 +182,14 @@
             "conditions": {
                 "entity": {
                     "type": "zombie_villager"
+                }
+            }
+        },
+        "illusion_illager": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "illusion_illager"
                 }
             }
         }

@@ -1,12 +1,15 @@
 {
     "display": {
-        "icon": "minecraft:blaze_rod",
-        "title": "Into Fire",
-        "description": "Relieve a Blaze of its rod"
+        "icon": {
+            "item": "minecraft:skull",
+            "data": 1
+        },
+        "title": "Spooky Scary Skeleton",
+        "description": "Obtain a wither skeleton's skull"
     },
-    "parent": "minecraft:story/enter_the_nether",
+    "parent": "minecraft:nether/find_fortress",
     "criteria": {
-        "blaze_rod": {
+        "wither_skull": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [

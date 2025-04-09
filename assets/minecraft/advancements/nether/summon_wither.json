@@ -1,10 +1,12 @@
 {
     "display": {
-        "icon": "minecraft:nether_star",
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
         "title": "Withering Heights",
         "description": "Summon the Wither"
     },
-    "parent": "minecraft:story/enter_the_nether",
+    "parent": "minecraft:nether/get_wither_skull",
     "criteria": {
         "summoned": {
             "trigger": "minecraft:summoned_entity",

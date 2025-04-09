@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:stone_pickaxe",
+        "icon": {
+            "item": "minecraft:stone_pickaxe"
+        },
         "title": "Getting an Upgrade",
         "description": "Construct a better pickaxe"
     },

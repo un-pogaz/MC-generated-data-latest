@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:bed",
+        "icon": {
+            "item": "minecraft:bed"
+        },
         "title": "Sweet dreams",
         "description": "Change your respawn point"
     },

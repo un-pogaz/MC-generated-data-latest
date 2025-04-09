@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:wooden_pickaxe",
+        "icon": {
+            "item": "minecraft:wooden_pickaxe"
+        },
         "title": "Stone Age",
         "description": "Mine stone with your new pickaxe"
     },

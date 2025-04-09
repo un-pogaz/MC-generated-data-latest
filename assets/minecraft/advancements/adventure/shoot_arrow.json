@@ -1,6 +1,8 @@
 {
     "display": {
-        "icon": "minecraft:bow",
+        "icon": {
+            "item": "minecraft:bow"
+        },
         "title": "Take Aim",
         "description": "Shoot something with a bow and arrow"
     },
@@ -11,7 +13,10 @@
             "conditions": {
                 "damage": {
                     "type": {
-                        "is_projectile": true
+                        "is_projectile": true,
+                        "direct_entity": {
+                            "type": "minecraft:arrow"
+                        }
                     }
                 }
             }

@@ -1,19 +1,19 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:diamond"
+            "item": "minecraft:blaze_rod"
         },
-        "title": "Diamonds!",
-        "description": "Acquire diamonds"
+        "title": "Into Fire",
+        "description": "Relieve a Blaze of its rod"
     },
-    "parent": "minecraft:story/iron_tools",
+    "parent": "minecraft:nether/find_fortress",
     "criteria": {
-        "diamond": {
+        "blaze_rod": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:diamond"
+                        "item": "minecraft:blaze_rod"
                     }
                 ]
             }

@@ -3,10 +3,10 @@
         "icon": {
             "item": "minecraft:end_stone"
         },
-        "title": "The End?",
-        "description": "Enter the End Portal"
+        "title": "The End",
+        "description": "Or the beginning?",
+        "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
     },
-    "parent": "minecraft:story/follow_ender_eye",
     "criteria": {
         "entered_end_portal": {
             "trigger": "minecraft:enter_block",
