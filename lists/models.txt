@@ -171,6 +171,7 @@ minecraft:block/dark_oak_planks
 minecraft:block/dark_oak_sapling
 minecraft:block/dark_oak_stairs
 minecraft:block/daylight_detector
+minecraft:block/daylight_detector_inverted
 minecraft:block/dead_bush
 minecraft:block/detector_rail_flat
 minecraft:block/detector_rail_powered_flat

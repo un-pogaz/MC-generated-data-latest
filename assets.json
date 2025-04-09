@@ -1,16 +1,11 @@
 {
-  "assets": "14w25a",
-  "asset_index": "https://launchermeta.mojang.com/v1/packages/32ff354a3be1c4dd83027111e6d79ee4d701d2c0/14w25a.json",
+  "assets": "14w31a",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/10a2a0e75b03cfb5a7196abbdf43b54f7fa61deb/14w31a.json",
   "objects": {
     "icons/icon_16x16.png": {
       "hash": "bdf48ef6b5d0d23bbb02e17d04865216179f510a",
       "size": 3665,
       "url": "https://resources.download.minecraft.net/bd/bdf48ef6b5d0d23bbb02e17d04865216179f510a"
-    },
-    "icons/icon_32x32.png": {
-      "hash": "92750c5f93c312ba9ab413d546f32190c56d6f1f",
-      "size": 5362,
-      "url": "https://resources.download.minecraft.net/92/92750c5f93c312ba9ab413d546f32190c56d6f1f"
     },
     "icons/minecraft.icns": {
       "hash": "991b421dfd401f115241601b2b373140a8d78572",
@@ -393,9 +388,9 @@
       "url": "https://resources.download.minecraft.net/0d/0dfe38259a242dd404d2cff46bfd5a123f5e36df"
     },
     "minecraft/sounds.json": {
-      "hash": "9445787674af3dbb4a76f17f9e2026961b779dad",
-      "size": 36286,
-      "url": "https://resources.download.minecraft.net/94/9445787674af3dbb4a76f17f9e2026961b779dad"
+      "hash": "9340e060a0f80d93bbcc3cca2f4aa0f83aa5f00f",
+      "size": 37730,
+      "url": "https://resources.download.minecraft.net/93/9340e060a0f80d93bbcc3cca2f4aa0f83aa5f00f"
     },
     "minecraft/sounds/ambient/cave/cave1.ogg": {
       "hash": "29d4dccf3353334c7aa2a49cb6fed3780a51a1ba",
@@ -1906,6 +1901,71 @@
       "hash": "56d6fd65958fb25bf9b4033a87655b591e222005",
       "size": 5493,
       "url": "https://resources.download.minecraft.net/56/56d6fd65958fb25bf9b4033a87655b591e222005"
+    },
+    "minecraft/sounds/mob/rabbit/bunnymurder.ogg": {
+      "hash": "d456eb344ee6dd6e89e9bd58ed35d6cb216f449d",
+      "size": 7018,
+      "url": "https://resources.download.minecraft.net/d4/d456eb344ee6dd6e89e9bd58ed35d6cb216f449d"
+    },
+    "minecraft/sounds/mob/rabbit/hop1.ogg": {
+      "hash": "18dc3ef276a8769bd88202520943bb174c0aad8c",
+      "size": 5938,
+      "url": "https://resources.download.minecraft.net/18/18dc3ef276a8769bd88202520943bb174c0aad8c"
+    },
+    "minecraft/sounds/mob/rabbit/hop2.ogg": {
+      "hash": "e62d75641464ead6ff27101010b54573eb1c1d4c",
+      "size": 6993,
+      "url": "https://resources.download.minecraft.net/e6/e62d75641464ead6ff27101010b54573eb1c1d4c"
+    },
+    "minecraft/sounds/mob/rabbit/hop3.ogg": {
+      "hash": "461436665544dc44e12f79cad893de2ad02ddffc",
+      "size": 6597,
+      "url": "https://resources.download.minecraft.net/46/461436665544dc44e12f79cad893de2ad02ddffc"
+    },
+    "minecraft/sounds/mob/rabbit/hop4.ogg": {
+      "hash": "c4456c473ff44786c6f9d7e6c91f652ca0a7f7d4",
+      "size": 5811,
+      "url": "https://resources.download.minecraft.net/c4/c4456c473ff44786c6f9d7e6c91f652ca0a7f7d4"
+    },
+    "minecraft/sounds/mob/rabbit/hurt1.ogg": {
+      "hash": "9b6a19ab1865d88b1adb2acafa9080ba9fa1b8e0",
+      "size": 6750,
+      "url": "https://resources.download.minecraft.net/9b/9b6a19ab1865d88b1adb2acafa9080ba9fa1b8e0"
+    },
+    "minecraft/sounds/mob/rabbit/hurt2.ogg": {
+      "hash": "4da9f12f979eba012c6f62e0820ca58cc49d8834",
+      "size": 5988,
+      "url": "https://resources.download.minecraft.net/4d/4da9f12f979eba012c6f62e0820ca58cc49d8834"
+    },
+    "minecraft/sounds/mob/rabbit/hurt3.ogg": {
+      "hash": "acbf6f286ce5b0250573656c7570669db42f86c5",
+      "size": 6389,
+      "url": "https://resources.download.minecraft.net/ac/acbf6f286ce5b0250573656c7570669db42f86c5"
+    },
+    "minecraft/sounds/mob/rabbit/hurt4.ogg": {
+      "hash": "b8e867c43f0a7f3f3f96c238d99c619aa237bc15",
+      "size": 6650,
+      "url": "https://resources.download.minecraft.net/b8/b8e867c43f0a7f3f3f96c238d99c619aa237bc15"
+    },
+    "minecraft/sounds/mob/rabbit/idle1.ogg": {
+      "hash": "9f61bdb718755ad41f71202c8fef5e993769c028",
+      "size": 5806,
+      "url": "https://resources.download.minecraft.net/9f/9f61bdb718755ad41f71202c8fef5e993769c028"
+    },
+    "minecraft/sounds/mob/rabbit/idle2.ogg": {
+      "hash": "bde8c9c94b1a27db0c4b49cbe88251e220b5ee29",
+      "size": 6988,
+      "url": "https://resources.download.minecraft.net/bd/bde8c9c94b1a27db0c4b49cbe88251e220b5ee29"
+    },
+    "minecraft/sounds/mob/rabbit/idle3.ogg": {
+      "hash": "8906199918a85564590c7a01e854c3820853533e",
+      "size": 5840,
+      "url": "https://resources.download.minecraft.net/89/8906199918a85564590c7a01e854c3820853533e"
+    },
+    "minecraft/sounds/mob/rabbit/idle4.ogg": {
+      "hash": "f226beeaf9c566c377e7dac03c8e748ac34b5f99",
+      "size": 8691,
+      "url": "https://resources.download.minecraft.net/f2/f226beeaf9c566c377e7dac03c8e748ac34b5f99"
     },
     "minecraft/sounds/mob/sheep/say1.ogg": {
       "hash": "a3ffeaa0a75b8d2bdc949c181a6f8db78f8976ca",

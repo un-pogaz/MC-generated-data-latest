@@ -1,0 +1,21 @@
+{
+  "category": "neutral",
+  "sounds": [
+    {
+      "name": "mob/rabbit/hop1",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/rabbit/hop2",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/rabbit/hop3",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/rabbit/hop4",
+      "volume": 0.1
+    }
+  ]
+}
