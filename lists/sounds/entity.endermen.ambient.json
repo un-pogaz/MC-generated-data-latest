@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/endermen/idle1",
+    "mob/endermen/idle2",
+    "mob/endermen/idle3",
+    "mob/endermen/idle4",
+    "mob/endermen/idle5"
+  ],
+  "subtitle": "subtitles.entity.enderman.ambient"
+}

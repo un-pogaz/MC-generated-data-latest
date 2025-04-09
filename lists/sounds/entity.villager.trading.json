@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/villager/haggle1",
+    "mob/villager/haggle2",
+    "mob/villager/haggle3"
+  ],
+  "subtitle": "subtitles.entity.villager.trading"
+}

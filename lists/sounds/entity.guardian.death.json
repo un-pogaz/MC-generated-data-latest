@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/guardian/guardian_death"
+  ],
+  "subtitle": "subtitles.entity.guardian.death"
+}

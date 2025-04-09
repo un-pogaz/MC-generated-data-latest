@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/wooden_trapdoor/open1",
+    "block/wooden_trapdoor/open2",
+    "block/wooden_trapdoor/open3",
+    "block/wooden_trapdoor/open4",
+    "block/wooden_trapdoor/open5"
+  ],
+  "subtitle": "subtitles.block.trapdoor.toggle"
+}

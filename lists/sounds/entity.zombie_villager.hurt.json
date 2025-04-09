@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "mob/zombie/hurt1",
+    "mob/zombie/hurt2"
+  ],
+  "subtitle": "subtitles.entity.zombie.hurt"
+}

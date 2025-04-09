@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "block/brewing_stand/brew1",
+    "block/brewing_stand/brew2"
+  ],
+  "subtitle": "subtitles.block.brewing_stand.brew"
+}

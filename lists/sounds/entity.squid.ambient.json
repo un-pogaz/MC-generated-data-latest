@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "entity/squid/ambient1",
+    "entity/squid/ambient2",
+    "entity/squid/ambient3",
+    "entity/squid/ambient4",
+    "entity/squid/ambient5"
+  ],
+  "subtitle": "subtitles.entity.squid.ambient"
+}

@@ -1,0 +1,2 @@
+minecraft:block/brewing_stand/brew1
+minecraft:block/brewing_stand/brew2

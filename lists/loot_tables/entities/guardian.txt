@@ -1,0 +1,5 @@
+minecraft:prismarine_shard
+
+minecraft:fish
+minecraft:prismarine_crystals
+empty

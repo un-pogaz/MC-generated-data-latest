@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "random/bowhit1",
+    "random/bowhit2",
+    "random/bowhit3",
+    "random/bowhit4"
+  ],
+  "subtitle": "subtitles.block.tripwire.detach"
+}

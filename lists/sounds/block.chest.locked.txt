@@ -1,0 +1,2 @@
+minecraft:block/wooden_door/close
+minecraft:block/wooden_door/open

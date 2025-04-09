@@ -1,0 +1,10 @@
+minecraft:stick
+minecraft:planks
+minecraft:log
+minecraft:log2
+minecraft:stone_axe
+minecraft:wooden_axe
+minecraft:stone_pickaxe
+minecraft:wooden_pickaxe
+minecraft:apple
+minecraft:bread

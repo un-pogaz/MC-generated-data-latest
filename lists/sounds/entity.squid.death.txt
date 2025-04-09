@@ -1,0 +1,3 @@
+minecraft:entity/squid/death1
+minecraft:entity/squid/death2
+minecraft:entity/squid/death3

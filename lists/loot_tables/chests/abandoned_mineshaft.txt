@@ -1,0 +1,14 @@
+minecraft:iron_ingot
+minecraft:gold_ingot
+minecraft:redstone
+minecraft:dye
+minecraft:diamond
+minecraft:coal
+minecraft:bread
+minecraft:iron_pickaxe
+minecraft:rail
+minecraft:melon_seeds
+minecraft:pumpkin_seeds
+minecraft:saddle
+minecraft:iron_horse_armor
+minecraft:enchanted_book

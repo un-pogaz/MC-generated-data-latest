@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "mob/ghast/moan1",
+    "mob/ghast/moan2",
+    "mob/ghast/moan3",
+    "mob/ghast/moan4",
+    "mob/ghast/moan5",
+    "mob/ghast/moan6",
+    "mob/ghast/moan7"
+  ],
+  "subtitle": "subtitles.entity.ghast.ambient"
+}

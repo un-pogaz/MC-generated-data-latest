@@ -1,9 +1,0 @@
-{
-  "category": "hostile",
-  "sounds": [
-    "mob/silverfish/say1",
-    "mob/silverfish/say2",
-    "mob/silverfish/say3",
-    "mob/silverfish/say4"
-  ]
-}

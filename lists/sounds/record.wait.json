@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "name": "records/wait",
+      "stream": true
+    }
+  ]
+}

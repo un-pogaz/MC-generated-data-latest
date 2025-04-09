@@ -1,0 +1,16 @@
+minecraft:saddle
+minecraft:iron_ingot
+minecraft:bread
+minecraft:wheat
+minecraft:gunpowder
+minecraft:string
+minecraft:bucket
+minecraft:golden_apple
+minecraft:redstone
+minecraft:record_13
+minecraft:record_cat
+minecraft:name_tag
+minecraft:golden_horse_armor
+minecraft:iron_horse_armor
+minecraft:diamond_horse_armor
+minecraft:enchanted_book

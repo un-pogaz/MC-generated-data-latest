@@ -1,0 +1,4 @@
+minecraft:step/gravel1
+minecraft:step/gravel2
+minecraft:step/gravel3
+minecraft:step/gravel4

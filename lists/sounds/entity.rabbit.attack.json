@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/rabbit/attack1",
+    "entity/rabbit/attack2",
+    "entity/rabbit/attack3",
+    "entity/rabbit/attack4"
+  ],
+  "subtitle": "subtitles.entity.rabbit.attack"
+}

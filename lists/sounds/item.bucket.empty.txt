@@ -1,0 +1,4 @@
+minecraft:item/bucket/empty1
+minecraft:item/bucket/empty1
+minecraft:item/bucket/empty2
+minecraft:item/bucket/empty3

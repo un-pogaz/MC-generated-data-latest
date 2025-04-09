@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "entity/player/attack/weak1",
+      "volume": 0.7
+    },
+    {
+      "name": "entity/player/attack/weak2",
+      "volume": 0.7
+    },
+    {
+      "name": "entity/player/attack/weak3",
+      "volume": 0.7
+    },
+    {
+      "name": "entity/player/attack/weak4",
+      "volume": 0.7
+    }
+  ]
+}

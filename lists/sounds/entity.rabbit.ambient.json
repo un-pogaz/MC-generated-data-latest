@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/rabbit/idle1",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/rabbit/idle2",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/rabbit/idle3",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/rabbit/idle4",
+      "volume": 0.25
+    }
+  ],
+  "subtitle": "subtitles.entity.rabbit.ambient"
+}

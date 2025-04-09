@@ -1,0 +1,6 @@
+minecraft:step/stone1
+minecraft:step/stone2
+minecraft:step/stone3
+minecraft:step/stone4
+minecraft:step/stone5
+minecraft:step/stone6

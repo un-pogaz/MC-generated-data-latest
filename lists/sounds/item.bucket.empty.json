@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    {
+      "name": "item/bucket/empty1",
+      "pitch": 0.9
+    },
+    "item/bucket/empty1",
+    "item/bucket/empty2",
+    "item/bucket/empty3"
+  ],
+  "subtitle": "subtitles.item.bucket.empty"
+}

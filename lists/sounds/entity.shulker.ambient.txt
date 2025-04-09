@@ -1,0 +1,7 @@
+minecraft:entity/shulker/ambient1
+minecraft:entity/shulker/ambient2
+minecraft:entity/shulker/ambient3
+minecraft:entity/shulker/ambient4
+minecraft:entity/shulker/ambient5
+minecraft:entity/shulker/ambient6
+minecraft:entity/shulker/ambient7
