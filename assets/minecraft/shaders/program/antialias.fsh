@@ -25,5 +25,5 @@ void main(){
     vec4 v6 = mix (v3, v4, 0.5);
 
     vec4 color = mix (v5, v6, 0.5);
-    gl_FragColor = color;
+    gl_FragColor = vec4(color.rgb, c.a);
 }

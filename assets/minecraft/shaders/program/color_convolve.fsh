@@ -16,12 +16,12 @@ uniform vec3 ColorScale = vec3(1.0, 1.0, 1.0);
 uniform float Saturation = 1.8;
 
 void main() {
-    vec3 InPixel = texture2D(DiffuseSampler, texCoord).rgb;
+    vec4 InTexel = texture2D(DiffuseSampler, texCoord);
     
     // Color Matrix
-    float RedValue = dot(InPixel, RedMatrix);
-    float GreenValue = dot(InPixel, GreenMatrix);
-    float BlueValue = dot(InPixel, BlueMatrix);
+    float RedValue = dot(InTexel.rgb, RedMatrix);
+    float GreenValue = dot(InTexel.rgb, GreenMatrix);
+    float BlueValue = dot(InTexel.rgb, BlueMatrix);
     vec3 OutColor = vec3(RedValue, GreenValue, BlueValue);
     
     // Offset & Scale
@@ -32,5 +32,5 @@ void main() {
     vec3 Chroma = OutColor - Luma;
     OutColor = (Chroma * Saturation) + Luma;
     
-    gl_FragColor = vec4(OutColor, 1.0);
+    gl_FragColor = vec4(OutColor, InTexel.a);
 }

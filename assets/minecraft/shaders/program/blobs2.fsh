@@ -26,5 +26,5 @@ void main(){
         }
     }
 
-    gl_FragColor = maxVal;
+    gl_FragColor = vec4(maxVal.rgb, c.a);
 }

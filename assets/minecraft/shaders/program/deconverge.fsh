@@ -22,6 +22,7 @@ void main() {
     float RedValue   = texture2D(DiffuseSampler, vec2(CoordX.x, CoordY.x)).r;
     float GreenValue = texture2D(DiffuseSampler, vec2(CoordX.y, CoordY.y)).g;
     float BlueValue  = texture2D(DiffuseSampler, vec2(CoordX.z, CoordY.z)).b;
+    float AlphaValue  = texture2D(DiffuseSampler, texCoord).a;
     
-    gl_FragColor = vec4(RedValue, GreenValue, BlueValue, 1.0);
+    gl_FragColor = vec4(RedValue, GreenValue, BlueValue, AlphaValue);
 }

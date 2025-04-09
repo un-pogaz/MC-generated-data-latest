@@ -22,5 +22,5 @@ void main(){
     float blue = dot(baseTexel.rgb, BlueMatrix);
     
     vec4 overlayTexel = texture2D(OverlaySampler, vec2(texCoord.x, 1.0 - texCoord.y));
-    gl_FragColor = mix(vec4(red, green, blue, 1.0), overlayTexel, overlayTexel.a);
+    gl_FragColor = mix(vec4(red, green, blue, baseTexel.a), overlayTexel, overlayTexel.a);
 }

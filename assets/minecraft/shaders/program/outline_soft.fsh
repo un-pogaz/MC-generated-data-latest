@@ -42,5 +42,5 @@ void main(){
     // Blend with outline
     centerLuma = centerLuma * sumLuma;
     
-    gl_FragColor = vec4(centerLuma, centerLuma, centerLuma, 1.0);
+    gl_FragColor = vec4(centerLuma, centerLuma, centerLuma, center.a);
 }

@@ -39,5 +39,5 @@ void main(){
     
     vec4 c  = texture2D(DiffuseSampler, texCoord);
     vec4 color = min(c, v11);
-    gl_FragColor = color;
+    gl_FragColor = vec4(color.rgb, c.a);
 }

@@ -19,5 +19,5 @@ void main() {
         totalStrength = totalStrength + strength;
         blurred = blurred + texture2D(DiffuseSampler, texCoord + oneTexel * r * BlurDir) * strength;
     }
-    gl_FragColor = blurred / totalStrength;
+    gl_FragColor = vec4(blurred.rgb / totalStrength, texture2D(DiffuseSampler, texCoord).a);
 }

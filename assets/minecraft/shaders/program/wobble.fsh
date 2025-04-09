@@ -51,8 +51,8 @@ void main() {
     float xOffset = sin(texCoord.y * Frequency.x + Time * 3.1415926535 * 2.0) * WobbleAmount.x;
     float yOffset = cos(texCoord.x * Frequency.y + Time * 3.1415926535 * 2.0) * WobbleAmount.y;
     vec2 offset = vec2(xOffset, yOffset);
-    vec3 rgb = texture2D(DiffuseSampler, texCoord + offset).rgb;
-    vec3 hsv = RGBtoHSV(rgb);
+    vec4 rgb = texture2D(DiffuseSampler, texCoord + offset).rgb;
+    vec3 hsv = RGBtoHSV(rgb.rgb);
     hsv.x = fract(hsv.x + Time);
-    gl_FragColor = vec4(HSVtoRGB(hsv), 1.0);
+    gl_FragColor = vec4(HSVtoRGB(hsv), rgb.a);
 }

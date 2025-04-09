@@ -60,5 +60,5 @@ void main() {
     
     ScanlineTexel.rgb = pow(ScanlineTexel.rgb, Power);
 
-    gl_FragColor = vec4(ScanlineTexel.rgb, 1.0);
+    gl_FragColor = vec4(ScanlineTexel.rgb, InTexel.a);
 }

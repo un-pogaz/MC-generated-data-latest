@@ -79,5 +79,6 @@ vec3 FxaaPixelShader(
 }
 
 void main() {
-    gl_FragColor = vec4(FxaaPixelShader(posPos, DiffuseSampler, 1.0 / OutSize), 1.0);
+    vec4 baseTexel = texture2D(DiffuseSampler, posPos.xy);
+    gl_FragColor = vec4(FxaaPixelShader(posPos, DiffuseSampler, 1.0 / OutSize), baseTexel.a);
 }
