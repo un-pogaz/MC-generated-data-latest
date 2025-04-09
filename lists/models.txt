@@ -192,7 +192,6 @@ minecraft:block/double_grass_bottom
 minecraft:block/double_grass_top
 minecraft:block/double_paeonia_bottom
 minecraft:block/double_paeonia_top
-minecraft:block/double_plant_tinted
 minecraft:block/double_rose_bottom
 minecraft:block/double_rose_top
 minecraft:block/double_stone
@@ -316,7 +315,6 @@ minecraft:block/fire_u1
 minecraft:block/fire_u1_main
 minecraft:block/fire_u2
 minecraft:block/fire_u2_main
-minecraft:block/flower
 minecraft:block/flower_pot
 minecraft:block/flower_pot_acacia
 minecraft:block/flower_pot_allium
@@ -894,6 +892,7 @@ minecraft:item/black_wool
 minecraft:item/blaze_powder
 minecraft:item/blaze_rod
 minecraft:item/blue_carpet
+minecraft:item/blue_orchid
 minecraft:item/blue_stained_glass
 minecraft:item/blue_stained_glass_pane
 minecraft:item/blue_stained_hardened_clay
@@ -935,7 +934,8 @@ minecraft:item/chainmail_leggings
 minecraft:item/charcoal
 minecraft:item/chest_minecart
 minecraft:item/chicken
-minecraft:item/chiseled_monster_egg
+minecraft:item/chiseled_brick_monster_egg
+minecraft:item/chiseled_quartz_block
 minecraft:item/chiseled_sandstone
 minecraft:item/chiseled_stonebrick
 minecraft:item/clay
@@ -946,11 +946,10 @@ minecraft:item/coal
 minecraft:item/coal_block
 minecraft:item/coal_ore
 minecraft:item/coarse_dirt
-minecraft:item/cobble_slab
 minecraft:item/cobblestone
 minecraft:item/cobblestone_monster_egg
+minecraft:item/cobblestone_slab
 minecraft:item/cobblestone_wall
-minecraft:item/cobblestone_wall_mossy
 minecraft:item/cod
 minecraft:item/command_block
 minecraft:item/command_block_minecart
@@ -964,7 +963,7 @@ minecraft:item/cooked_porkchop
 minecraft:item/cooked_rabbit
 minecraft:item/cooked_salmon
 minecraft:item/cookie
-minecraft:item/cracked_monster_egg
+minecraft:item/cracked_brick_monster_egg
 minecraft:item/cracked_stonebrick
 minecraft:item/crafting_table
 minecraft:item/cyan_carpet
@@ -972,7 +971,6 @@ minecraft:item/cyan_stained_glass
 minecraft:item/cyan_stained_glass_pane
 minecraft:item/cyan_stained_hardened_clay
 minecraft:item/cyan_wool
-minecraft:item/daisy
 minecraft:item/dandelion
 minecraft:item/dark_oak_leaves
 minecraft:item/dark_oak_log
@@ -980,6 +978,7 @@ minecraft:item/dark_oak_planks
 minecraft:item/dark_oak_sapling
 minecraft:item/dark_oak_slab
 minecraft:item/dark_oak_stairs
+minecraft:item/dark_prismarine
 minecraft:item/daylight_detector
 minecraft:item/dead_bush
 minecraft:item/detector_rail
@@ -1157,6 +1156,7 @@ minecraft:item/minecart
 minecraft:item/mob_spawner
 minecraft:item/mossy_brick_monster_egg
 minecraft:item/mossy_cobblestone
+minecraft:item/mossy_cobblestone_wall
 minecraft:item/mossy_stonebrick
 minecraft:item/mushroom_stew
 minecraft:item/mutton
@@ -1184,7 +1184,7 @@ minecraft:item/orange_stained_glass_pane
 minecraft:item/orange_stained_hardened_clay
 minecraft:item/orange_tulip
 minecraft:item/orange_wool
-minecraft:item/orchid
+minecraft:item/oxeye_daisy
 minecraft:item/packed_ice
 minecraft:item/paeonia
 minecraft:item/painting
@@ -1201,10 +1201,9 @@ minecraft:item/poisonous_potato
 minecraft:item/poppy
 minecraft:item/porkchop
 minecraft:item/potato
+minecraft:item/prismarine
 minecraft:item/prismarine_bricks
 minecraft:item/prismarine_crystals
-minecraft:item/prismarine_dark
-minecraft:item/prismarine_rough
 minecraft:item/prismarine_shard
 minecraft:item/pufferfish
 minecraft:item/pumpkin
@@ -1217,8 +1216,7 @@ minecraft:item/purple_stained_hardened_clay
 minecraft:item/purple_wool
 minecraft:item/quartz
 minecraft:item/quartz_block
-minecraft:item/quartz_block_chiseled
-minecraft:item/quartz_block_column
+minecraft:item/quartz_column
 minecraft:item/quartz_ore
 minecraft:item/quartz_slab
 minecraft:item/quartz_stairs

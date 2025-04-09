@@ -1,5 +1,4 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
         "alt=false,east=false,flip=false,north=false,south=false,upper=0,west=false": { "model": "fire_floor_main" },
         "alt=false,east=false,flip=false,north=false,south=true,upper=0,west=false": { "model": "fire_n_main", "y": 180 },

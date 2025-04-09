@@ -1,5 +1,4 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
         "age=0,facing=up": { "model": "melon_stem_growth0" },
         "age=1,facing=up": { "model": "melon_stem_growth1" },

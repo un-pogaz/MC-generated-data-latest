@@ -1,5 +1,4 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
         "facing=south,in_wall=false,open=false": { "model": "gate_closed" },
         "facing=west,in_wall=false,open=false":  { "model": "gate_closed", "y": 90, "uvlock": true },

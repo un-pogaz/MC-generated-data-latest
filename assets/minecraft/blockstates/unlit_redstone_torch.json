@@ -1,5 +1,4 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
         "facing=up":  { "model": "unlit_redstone_torch" },
         "facing=east":  { "model": "unlit_redstone_torch_wall" },

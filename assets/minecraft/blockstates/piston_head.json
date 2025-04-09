@@ -1,5 +1,4 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
         "facing=down,type=normal": { "model": "piston_head_normal", "x": 90 },
         "facing=up,type=normal": { "model": "piston_head_normal", "x": 270 },
