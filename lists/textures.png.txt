@@ -300,10 +300,17 @@ minecraft:blocks/sapling_jungle
 minecraft:blocks/sapling_oak
 minecraft:blocks/sapling_roofed_oak
 minecraft:blocks/sapling_spruce
+minecraft:blocks/slime
 minecraft:blocks/snow
 minecraft:blocks/soul_sand
 minecraft:blocks/sponge
 minecraft:blocks/stone
+minecraft:blocks/stone_andesite
+minecraft:blocks/stone_andesite_smooth
+minecraft:blocks/stone_diorite
+minecraft:blocks/stone_diorite_smooth
+minecraft:blocks/stone_granite
+minecraft:blocks/stone_granite_smooth
 minecraft:blocks/stone_slab_side
 minecraft:blocks/stone_slab_top
 minecraft:blocks/stonebrick
