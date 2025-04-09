@@ -6,4 +6,4 @@ empty
 
 minecraft:sponge
 
-loot_table[]minecraft:gameplay/fishing
+loot_table[]minecraft:gameplay/fishing/fish

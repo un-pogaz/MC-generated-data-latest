@@ -11,7 +11,6 @@ minecraft:block/acacia_fence_side
 minecraft:block/acacia_inner_stairs
 minecraft:block/acacia_leaves
 minecraft:block/acacia_log
-minecraft:block/acacia_log_side
 minecraft:block/acacia_outer_stairs
 minecraft:block/acacia_planks
 minecraft:block/acacia_sapling
@@ -53,7 +52,6 @@ minecraft:block/birch_fence_side
 minecraft:block/birch_inner_stairs
 minecraft:block/birch_leaves
 minecraft:block/birch_log
-minecraft:block/birch_log_side
 minecraft:block/birch_outer_stairs
 minecraft:block/birch_planks
 minecraft:block/birch_sapling
@@ -207,7 +205,6 @@ minecraft:block/dark_oak_fence_side
 minecraft:block/dark_oak_inner_stairs
 minecraft:block/dark_oak_leaves
 minecraft:block/dark_oak_log
-minecraft:block/dark_oak_log_side
 minecraft:block/dark_oak_outer_stairs
 minecraft:block/dark_oak_planks
 minecraft:block/dark_oak_sapling
@@ -395,7 +392,6 @@ minecraft:block/hardened_clay_silver
 minecraft:block/hardened_clay_white
 minecraft:block/hardened_clay_yellow
 minecraft:block/hay
-minecraft:block/hay_side
 minecraft:block/heavy_pressure_plate_down
 minecraft:block/heavy_pressure_plate_up
 minecraft:block/hopper_down
@@ -434,7 +430,6 @@ minecraft:block/jungle_fence_side
 minecraft:block/jungle_inner_stairs
 minecraft:block/jungle_leaves
 minecraft:block/jungle_log
-minecraft:block/jungle_log_side
 minecraft:block/jungle_outer_stairs
 minecraft:block/jungle_planks
 minecraft:block/jungle_sapling
@@ -515,7 +510,6 @@ minecraft:block/oak_fence_side
 minecraft:block/oak_inner_stairs
 minecraft:block/oak_leaves
 minecraft:block/oak_log
-minecraft:block/oak_log_side
 minecraft:block/oak_outer_stairs
 minecraft:block/oak_planks
 minecraft:block/oak_sapling
@@ -591,7 +585,6 @@ minecraft:block/purple_wool
 minecraft:block/purpur_block
 minecraft:block/purpur_inner_stairs
 minecraft:block/purpur_outer_stairs
-minecraft:block/purpur_pillar_side
 minecraft:block/purpur_pillar_top
 minecraft:block/purpur_stairs
 minecraft:block/quartz_chiseled
@@ -704,7 +697,6 @@ minecraft:block/spruce_fence_side
 minecraft:block/spruce_inner_stairs
 minecraft:block/spruce_leaves
 minecraft:block/spruce_log
-minecraft:block/spruce_log_side
 minecraft:block/spruce_outer_stairs
 minecraft:block/spruce_planks
 minecraft:block/spruce_sapling
