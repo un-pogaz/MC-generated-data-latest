@@ -79,7 +79,7 @@
     },
     {
       nbt: {
-        Items: [],
+        Items: [L; ],
         CookingTimes: [I; 0, 0, 0, 0],
         CookingTotalTimes: [I; 0, 0, 0, 0],
         id: "minecraft:campfire"
@@ -148,5 +148,5 @@
       Name: "minecraft:campfire"
     }
   ],
-  DataVersion: 2537
+  DataVersion: 2554
 }
