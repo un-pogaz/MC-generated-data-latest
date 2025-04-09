@@ -1,0 +1,5 @@
+minecraft:mob/parrot/step1
+minecraft:mob/parrot/step2
+minecraft:mob/parrot/step3
+minecraft:mob/parrot/step4
+minecraft:mob/parrot/step5

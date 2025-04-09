@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/parrot/idle1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/parrot/idle2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/parrot/idle3",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/parrot/idle4",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/parrot/idle5",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/parrot/idle6",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.ambient"
+}

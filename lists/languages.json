@@ -39,6 +39,11 @@
     "name": "Brezhoneg",
     "bidirectional": false
   },
+  "bs_ba": {
+    "region": "Bosna i Hercegovina",
+    "name": "Bosanski",
+    "bidirectional": false
+  },
   "ca_es": {
     "region": "Catalunya",
     "name": "Català",
@@ -59,9 +64,19 @@
     "name": "Dansk",
     "bidirectional": false
   },
+  "de_alg": {
+    "region": "Allgai",
+    "name": "Oschtallgaierisch",
+    "bidirectional": false
+  },
   "de_at": {
     "region": "Österreich",
     "name": "Deitsch",
+    "bidirectional": false
+  },
+  "de_ch": {
+    "region": "Schwiz",
+    "name": "Schwizerdütsch",
     "bidirectional": false
   },
   "de_de": {
@@ -104,6 +119,11 @@
     "name": "ɥsᴉꞁᵷuƎ",
     "bidirectional": false
   },
+  "en_ws": {
+    "region": "Kingdom of England",
+    "name": "Shakespearean English",
+    "bidirectional": false
+  },
   "eo_uy": {
     "region": "Esperantujo",
     "name": "Esperanto",
@@ -111,6 +131,11 @@
   },
   "es_ar": {
     "region": "Argentina",
+    "name": "Español",
+    "bidirectional": false
+  },
+  "es_cl": {
+    "region": "Chile",
     "name": "Español",
     "bidirectional": false
   },
@@ -166,7 +191,7 @@
   },
   "fr_ca": {
     "region": "Canada",
-    "name": "Français québécois",
+    "name": "Français",
     "bidirectional": false
   },
   "fr_fr": {
@@ -234,7 +259,12 @@
     "name": "Bahasa Indonesia",
     "bidirectional": false
   },
-  "io_ido": {
+  "ig_ng": {
+    "region": "Naigeria",
+    "name": "Igbo",
+    "bidirectional": false
+  },
+  "io_en": {
     "region": "Idia",
     "name": "Ido",
     "bidirectional": false
@@ -255,7 +285,7 @@
     "bidirectional": false
   },
   "jbo_en": {
-    "region": "lojbo",
+    "region": "la jbogu'e",
     "name": "la .lojban.",
     "bidirectional": false
   },
@@ -264,8 +294,18 @@
     "name": "ქართული",
     "bidirectional": false
   },
+  "kab_kab": {
+    "region": "Dzayer",
+    "name": "Taqbaylit",
+    "bidirectional": false
+  },
+  "kn_in": {
+    "region": "ಭಾರತ",
+    "name": "ಕನ್ನಡ",
+    "bidirectional": false
+  },
   "ko_kr": {
-    "region": "한국",
+    "region": "대한민국",
     "name": "한국어",
     "bidirectional": false
   },
@@ -339,6 +379,11 @@
     "name": "Platdüütsk",
     "bidirectional": false
   },
+  "nl_be": {
+    "region": "België",
+    "name": "Vlaams",
+    "bidirectional": false
+  },
   "nl_nl": {
     "region": "Nederland",
     "name": "Nederlands",
@@ -351,12 +396,17 @@
   },
   "no_no": {
     "region": "Norge",
-    "name": "Norsk",
+    "name": "Norsk bokmål",
     "bidirectional": false
   },
   "oc_fr": {
     "region": "Occitània",
     "name": "Occitan",
+    "bidirectional": false
+  },
+  "oj_ca": {
+    "region": "Anishinaabewaki",
+    "name": "Ojibwemowin",
     "bidirectional": false
   },
   "pl_pl": {
@@ -424,9 +474,9 @@
     "name": "Svenska",
     "bidirectional": false
   },
-  "swg_de": {
-    "region": "Allgai",
-    "name": "Oschdallgaierisch",
+  "ta_in": {
+    "region": "இந்தியா",
+    "name": "தமிழ்",
     "bidirectional": false
   },
   "th_th": {
@@ -435,7 +485,7 @@
     "bidirectional": false
   },
   "tlh_aa": {
-    "region": "Qo’noS",
+    "region": "tlhIngan wo'",
     "name": "tlhIngan Hol",
     "bidirectional": false
   },
@@ -459,9 +509,19 @@
     "name": "Català (Valencià)",
     "bidirectional": false
   },
+  "vec_it": {
+    "region": "Veneto",
+    "name": "Vèneto",
+    "bidirectional": false
+  },
   "vi_vn": {
     "region": "Việt Nam",
     "name": "Tiếng Việt",
+    "bidirectional": false
+  },
+  "yo_ng": {
+    "region": "Nàìjíríà",
+    "name": "Yorùbá",
     "bidirectional": false
   },
   "zh_cn": {

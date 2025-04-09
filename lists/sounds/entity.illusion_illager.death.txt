@@ -1,0 +1,2 @@
+minecraft:mob/illusion_illager/death1
+minecraft:mob/illusion_illager/death2

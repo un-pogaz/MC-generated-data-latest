@@ -16,7 +16,10 @@
       "ambient/cave/cave13",
       "ambient/cave/cave14",
       "ambient/cave/cave15",
-      "ambient/cave/cave16"
+      "ambient/cave/cave16",
+      "ambient/cave/cave17",
+      "ambient/cave/cave18"
+
     ],
     "subtitle": "subtitles.ambient.cave"
   },
@@ -213,6 +216,18 @@
       "random/explode4"
     ],
     "subtitle": "subtitles.entity.generic.explode"
+  },
+  "block.end_portal.spawn": {
+    "sounds": [
+      "block/end_portal/endportal"
+    ]
+  },
+  "block.end_portal_frame.fill": {
+    "sounds": [
+      "block/end_portal/eyeplace1",
+      "block/end_portal/eyeplace2",
+      "block/end_portal/eyeplace3"
+    ]
   },
   "block.enderchest.close": {
     "sounds": [
@@ -586,9 +601,33 @@
     ],
     "subtitle": "subtitles.block.note.note"
   },
+  "block.note.bell": {
+    "sounds": [
+      "note/bell"
+    ],
+    "subtitle": "subtitles.block.note.note"
+  },
+  "block.note.chime": {
+    "sounds": [
+      "note/icechime"
+    ],
+    "subtitle": "subtitles.block.note.note"
+  },
+  "block.note.flute": {
+    "sounds": [
+      "note/flute"
+    ],
+    "subtitle": "subtitles.block.note.note"
+  },
+  "block.note.guitar": {
+    "sounds": [
+      "note/guitar"
+    ],
+    "subtitle": "subtitles.block.note.note"
+  },
   "block.note.harp": {
     "sounds": [
-      "note/harp"
+      "note/harp2"
     ],
     "subtitle": "subtitles.block.note.note"
   },
@@ -606,6 +645,12 @@
   "block.note.snare": {
     "sounds": [
       "note/snare"
+    ],
+    "subtitle": "subtitles.block.note.note"
+  },
+  "block.note.xylophone": {
+    "sounds": [
+      "note/xylobone"
     ],
     "subtitle": "subtitles.block.note.note"
   },
@@ -1156,6 +1201,72 @@
     ],
     "subtitle": "subtitles.entity.blaze.shoot"
   },
+  "entity.boat.paddle_land": {
+    "sounds": [
+      "entity/boat/paddle_land1",
+      "entity/boat/paddle_land2",
+      "entity/boat/paddle_land3",
+      "entity/boat/paddle_land4",
+      "entity/boat/paddle_land5",
+      "entity/boat/paddle_land6"
+    ]
+  },
+  "entity.boat.paddle_water": {
+    "sounds": [
+      {
+        "name": "entity/boat/paddle_water1",
+        "pitch": 1.0,
+        "volume": 0.8
+      },
+      {
+        "name": "entity/boat/paddle_water2",
+        "pitch": 1.0,
+        "volume": 0.8
+      },
+      {
+        "name": "entity/boat/paddle_water3",
+        "pitch": 1.0,
+        "volume": 0.8
+      },
+      {
+        "name": "entity/boat/paddle_water4",
+        "pitch": 1.0,
+        "volume": 0.8
+      },
+      {
+        "name": "entity/boat/paddle_water5",
+        "pitch": 1.0,
+        "volume": 0.8
+      },
+      {
+        "name": "entity/boat/paddle_water6",
+        "pitch": 1.0,
+        "volume": 0.8
+      },
+      {
+        "name": "entity/boat/paddle_water7",
+        "pitch": 1.0,
+        "volume": 0.8
+      },
+      {
+        "name": "entity/boat/paddle_water8",
+        "pitch": 1.0,
+        "volume": 0.8
+      }
+    ]
+  },
+  "entity.bobber.retrieve": {
+    "sounds": [
+      {
+        "name": "entity/bobber/retrieve1",
+        "pitch": 2.4
+      },
+      {
+        "name": "entity/bobber/retrieve2",
+        "pitch": 2.4
+      }
+    ]
+  },
   "entity.bobber.splash": {
     "sounds": [
       "random/splash"
@@ -1164,7 +1275,7 @@
   },
   "entity.bobber.throw": {
     "sounds": [
-      "random/bow"
+      "entity/bobber/castfast"
     ],
     "subtitle": "subtitles.entity.bobber.throw"
   },
@@ -1476,9 +1587,24 @@
     ],
     "subtitle": "subtitles.entity.generic.explode"
   },
+  "entity.endereye.death": {
+    "sounds": [
+      {
+        "name": "entity/endereye/dead1",
+        "pitch": 1.0,
+        "volume": 1.3
+      },
+      {
+        "name": "entity/endereye/dead2",
+        "pitch": 1.0,
+        "volume": 1.3
+      }
+    ]
+  },
   "entity.endereye.launch": {
     "sounds": [
-      "random/bow"
+      "entity/endereye/endereye_launch1",
+      "entity/endereye/endereye_launch2"
     ],
     "subtitle": "subtitles.entity.endereye.launch"
   },
@@ -1621,6 +1747,12 @@
       "mob/evocation_illager/prepare_wololo"
     ],
     "subtitle": "subtitles.entity.evocation_illager.prepare_wololo"
+  },
+  "entity.experience_bottle.throw": {
+    "sounds": [
+      "random/bow"
+    ],
+    "subtitle": "subtitles.entity.potion.throw"
   },
   "entity.experience_orb.pickup": {
     "sounds": [
@@ -2051,6 +2183,49 @@
       "mob/husk/step5"
     ]
   },
+  "entity.illusion_illager.ambient": {
+    "sounds": [
+      "mob/illusion_illager/idle1",
+      "mob/illusion_illager/idle2",
+      "mob/illusion_illager/idle3",
+      "mob/illusion_illager/idle4"
+    ]
+  },
+  "entity.illusion_illager.cast_spell": {
+    "sounds": [
+      "mob/evocation_illager/cast1",
+      "mob/evocation_illager/cast2"
+    ]
+  },
+  "entity.illusion_illager.death": {
+    "sounds": [
+      "mob/illusion_illager/death1",
+      "mob/illusion_illager/death2"
+    ]
+  },
+  "entity.illusion_illager.hurt": {
+    "sounds": [
+      "mob/illusion_illager/hurt1",
+      "mob/illusion_illager/hurt2",
+      "mob/illusion_illager/hurt3"
+    ]
+  },
+  "entity.illusion_illager.mirror_move": {
+    "sounds": [
+      "mob/illusion_illager/mirror_move1",
+      "mob/illusion_illager/mirror_move2"
+    ]
+  },
+  "entity.illusion_illager.prepare_blindness": {
+    "sounds": [
+      "mob/illusion_illager/prepare_blind"
+    ]
+  },
+  "entity.illusion_illager.prepare_mirror": {
+    "sounds": [
+      "mob/illusion_illager/prepare_mirror"
+    ]
+  },
   "entity.irongolem.attack": {
     "sounds": [
       "mob/irongolem/throw"
@@ -2342,6 +2517,399 @@
     ],
     "subtitle": "subtitles.entity.painting.place"
   },
+  "entity.parrot.ambient": {
+    "sounds": [
+      {
+        "name": "mob/parrot/idle1",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/parrot/idle2",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/parrot/idle3",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/parrot/idle4",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/parrot/idle5",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/parrot/idle6",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.ambient"
+  },
+  "entity.parrot.death": {
+    "sounds": [
+      {
+        "name": "mob/parrot/death1",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/parrot/death2",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/parrot/death3",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/parrot/death4",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.death"
+  },
+  "entity.parrot.eat": {
+    "sounds": [
+      "mob/parrot/eat1",
+      "mob/parrot/eat2",
+      "mob/parrot/eat3"
+    ],
+    "subtitle": "subtitles.entity.parrot.eats"
+  },
+  "entity.parrot.fly": {
+    "sounds": [
+      "mob/parrot/fly1",
+      "mob/parrot/fly2",
+      "mob/parrot/fly3",
+      "mob/parrot/fly4",
+      "mob/parrot/fly5",
+      "mob/parrot/fly6",
+      "mob/parrot/fly7",
+      "mob/parrot/fly8"
+    ]
+  },
+  "entity.parrot.hurt": {
+    "sounds": [
+      {
+        "name": "mob/parrot/hurt1",
+        "pitch": 0.8
+      },
+      {
+        "name": "mob/parrot/hurt2",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/parrot/hurt1",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.hurts"
+  },
+  "entity.parrot.imitate.blaze": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.blaze.ambient",
+        "volume": 0.4,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.blaze"
+  },
+  "entity.parrot.imitate.creeper": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.creeper.primed",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.creeper"
+  },
+  "entity.parrot.imitate.elder_guardian": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.elder_guardian.ambient_land",
+        "volume": 0.7,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.elder_guardian"
+  },
+  "entity.parrot.imitate.enderdragon": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.enderdragon.ambient",
+        "volume": 0.2,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.enderdragon"
+  },
+  "entity.parrot.imitate.enderman": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.endermen.ambient",
+        "volume": 0.5,
+        "pitch": 1.7
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.enderman"
+  },
+  "entity.parrot.imitate.endermite": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.endermite.ambient",
+        "volume": 0.7,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.endermite"
+  },
+  "entity.parrot.imitate.evocation_illager": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.evocation_illager.ambient",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.evocation_illager"
+  },
+  "entity.parrot.imitate.ghast": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.ghast.ambient",
+        "volume": 0.7,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.ghast"
+  },
+  "entity.parrot.imitate.husk": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.husk.ambient",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.husk"
+  },
+  "entity.parrot.imitate.illusion_illager": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.illusion_illager.ambient",
+        "volume": 0.7,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.illusion_illager"
+  },
+  "entity.parrot.imitate.magmacube": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.magmacube.squish",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.magmacube"
+  },
+  "entity.parrot.imitate.polar_bear": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.polar_bear.ambient",
+        "volume": 0.7,
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.polar_bear"
+  },
+  "entity.parrot.imitate.shulker": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.shulker.ambient",
+        "volume": 0.4,
+        "pitch": 1.7
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.shulker"
+  },
+  "entity.parrot.imitate.silverfish": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.ambient",
+        "volume": 0.7,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.silverfish"
+  },
+  "entity.parrot.imitate.skeleton": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.skeleton.ambient",
+        "volume": 1,
+        "pitch": 1.7
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.skeleton"
+  },
+  "entity.parrot.imitate.slime": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.squish",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.slime"
+  },
+  "entity.parrot.imitate.spider": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.ambient",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.spider"
+  },
+  "entity.parrot.imitate.stray": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.stray.ambient",
+        "volume": 0.6,
+        "pitch": 1.6
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.stray"
+  },
+  "entity.parrot.imitate.vex": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.vex.ambient",
+        "volume": 0.8,
+        "pitch": 1.6
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.vex"
+  },
+  "entity.parrot.imitate.vindication_illager": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.vindication_illager.ambient",
+        "volume": 0.6,
+        "pitch": 1.7
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.vindication_illager"
+  },
+  "entity.parrot.imitate.witch": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.witch.ambient",
+        "volume": 0.5,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.witch"
+  },
+  "entity.parrot.imitate.wither": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wither.ambient",
+        "volume": 0.2,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.wither"
+  },
+  "entity.parrot.imitate.wither_skeleton": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wither_skeleton.ambient",
+        "volume": 0.7,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.wither_skeleton"
+  },
+  "entity.parrot.imitate.wolf": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wolf.ambient",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.wolf"
+  },
+  "entity.parrot.imitate.zombie": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie.ambient",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.zombie"
+  },
+  "entity.parrot.imitate.zombie_pigman": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie_pig.ambient",
+        "volume": 0.4,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.zombie_pigman"
+  },
+  "entity.parrot.imitate.zombie_villager": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie_villager.ambient",
+        "volume": 0.6,
+        "pitch": 1.8
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.zombie_villager"
+  },
+  "entity.parrot.step": {
+    "sounds": [
+      "mob/parrot/step1",
+      "mob/parrot/step2",
+      "mob/parrot/step3",
+      "mob/parrot/step4",
+      "mob/parrot/step5"
+    ]
+  },
   "entity.pig.ambient": {
     "sounds": [
       "mob/pig/say1",
@@ -2548,6 +3116,42 @@
       "damage/hit3"
     ],
     "subtitle": "subtitles.entity.player.hurt"
+  },
+  "entity.player.hurt_drown": {
+    "sounds": [
+      {
+        "name": "entity/player/hurt/drown1",
+        "volume": 1.0
+      },
+      {
+        "name": "entity/player/hurt/drown2",
+        "volume": 1.0
+      },
+      {
+        "name": "entity/player/hurt/drown3",
+        "volume": 1.0
+      },
+      {
+        "name": "entity/player/hurt/drown4",
+        "volume": 1.0
+      }
+    ]
+  },
+  "entity.player.hurt_on_fire": {
+    "sounds": [
+      {
+        "name": "entity/player/hurt/fire_hurt1",
+        "volume": 1.0
+      },
+      {
+        "name": "entity/player/hurt/fire_hurt2",
+        "volume": 1.0
+      },
+      {
+        "name": "entity/player/hurt/fire_hurt3",
+        "volume": 1.0
+      }
+    ]
   },
   "entity.player.levelup": {
     "sounds": [
@@ -3206,12 +3810,6 @@
       "mob/vex/death2"
     ],
     "subtitle": "subtitles.entity.vex.death"
-  },
-  "entity.experience_bottle.throw": {
-    "sounds": [
-      "random/bow"
-    ],
-    "subtitle": "subtitles.entity.potion.throw"
   },
   "entity.vex.hurt": {
     "sounds": [
@@ -4082,6 +4680,30 @@
   "ui.button.click": {
     "sounds": [
       "random/click"
+    ]
+  },
+  "ui.toast.in": {
+    "sounds": [
+      {
+        "name": "ui/toast/in",
+        "volume": 0.4
+      }
+    ]
+  },
+  "ui.toast.out": {
+    "sounds": [
+      {
+        "name": "ui/toast/out",
+        "volume": 0.4
+      }
+    ]
+  },
+  "ui.toast.challenge_complete": {
+    "sounds": [
+      {
+        "name": "ui/toast/challenge_complete",
+        "volume": 0.6
+      }
     ]
   },
   "weather.rain": {

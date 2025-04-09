@@ -622,6 +622,10 @@ minecraft:entity/llama/llama_gray
 minecraft:entity/llama/llama_white
 minecraft:entity/llama/spit
 minecraft:entity/minecart
+minecraft:entity/parrot/parrot_blue
+minecraft:entity/parrot/parrot_green
+minecraft:entity/parrot/parrot_red_blue
+minecraft:entity/parrot/parrot_yellow_blue
 minecraft:entity/pig/pig
 minecraft:entity/pig/pig_saddle
 minecraft:entity/projectiles/arrow
@@ -964,8 +968,11 @@ minecraft:font/unicode_page_fc
 minecraft:font/unicode_page_fd
 minecraft:font/unicode_page_fe
 minecraft:font/unicode_page_ff
-minecraft:gui/achievement/achievement_background
-minecraft:gui/achievement/achievement_icons
+minecraft:gui/advancements/backgrounds/nether
+minecraft:gui/advancements/backgrounds/stone
+minecraft:gui/advancements/tabs
+minecraft:gui/advancements/widgets
+minecraft:gui/advancements/window
 minecraft:gui/bars
 minecraft:gui/book
 minecraft:gui/container/anvil
@@ -983,6 +990,7 @@ minecraft:gui/container/generic_54
 minecraft:gui/container/hopper
 minecraft:gui/container/horse
 minecraft:gui/container/inventory
+minecraft:gui/container/recipe_background
 minecraft:gui/container/shulker_box
 minecraft:gui/container/stats_icons
 minecraft:gui/container/villager
@@ -996,6 +1004,8 @@ minecraft:gui/presets/isles
 minecraft:gui/presets/luck
 minecraft:gui/presets/madness
 minecraft:gui/presets/water
+minecraft:gui/progress_book
+minecraft:gui/recipe_book
 minecraft:gui/resource_packs
 minecraft:gui/server_selection
 minecraft:gui/spectator_widgets
@@ -1251,6 +1261,7 @@ minecraft:items/iron_shovel
 minecraft:items/iron_sword
 minecraft:items/item_frame
 minecraft:items/jungle_boat
+minecraft:items/knowledge_book
 minecraft:items/lead
 minecraft:items/leather
 minecraft:items/leather_boots

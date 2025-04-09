@@ -1,0 +1,44 @@
+{
+  "sounds": [
+    {
+      "name": "entity/boat/paddle_water1",
+      "pitch": 1.0,
+      "volume": 0.8
+    },
+    {
+      "name": "entity/boat/paddle_water2",
+      "pitch": 1.0,
+      "volume": 0.8
+    },
+    {
+      "name": "entity/boat/paddle_water3",
+      "pitch": 1.0,
+      "volume": 0.8
+    },
+    {
+      "name": "entity/boat/paddle_water4",
+      "pitch": 1.0,
+      "volume": 0.8
+    },
+    {
+      "name": "entity/boat/paddle_water5",
+      "pitch": 1.0,
+      "volume": 0.8
+    },
+    {
+      "name": "entity/boat/paddle_water6",
+      "pitch": 1.0,
+      "volume": 0.8
+    },
+    {
+      "name": "entity/boat/paddle_water7",
+      "pitch": 1.0,
+      "volume": 0.8
+    },
+    {
+      "name": "entity/boat/paddle_water8",
+      "pitch": 1.0,
+      "volume": 0.8
+    }
+  ]
+}

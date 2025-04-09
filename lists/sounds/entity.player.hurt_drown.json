@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "entity/player/hurt/drown1",
+      "volume": 1.0
+    },
+    {
+      "name": "entity/player/hurt/drown2",
+      "volume": 1.0
+    },
+    {
+      "name": "entity/player/hurt/drown3",
+      "volume": 1.0
+    },
+    {
+      "name": "entity/player/hurt/drown4",
+      "volume": 1.0
+    }
+  ]
+}

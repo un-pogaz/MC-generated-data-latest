@@ -1,0 +1,8 @@
+minecraft:entity/boat/paddle_water1
+minecraft:entity/boat/paddle_water2
+minecraft:entity/boat/paddle_water3
+minecraft:entity/boat/paddle_water4
+minecraft:entity/boat/paddle_water5
+minecraft:entity/boat/paddle_water6
+minecraft:entity/boat/paddle_water7
+minecraft:entity/boat/paddle_water8

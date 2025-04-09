@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "type": "event",
+      "name": "entity.creeper.primed",
+      "volume": 0.6,
+      "pitch": 1.8
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.creeper"
+}

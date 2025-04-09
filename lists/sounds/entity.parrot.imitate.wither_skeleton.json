@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "type": "event",
+      "name": "entity.wither_skeleton.ambient",
+      "volume": 0.7,
+      "pitch": 1.8
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.wither_skeleton"
+}

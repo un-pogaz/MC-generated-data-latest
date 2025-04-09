@@ -1,0 +1,3 @@
+minecraft:entity/player/hurt/fire_hurt1
+minecraft:entity/player/hurt/fire_hurt2
+minecraft:entity/player/hurt/fire_hurt3

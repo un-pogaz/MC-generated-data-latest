@@ -1295,6 +1295,7 @@ minecraft:item/jungle_planks
 minecraft:item/jungle_sapling
 minecraft:item/jungle_slab
 minecraft:item/jungle_stairs
+minecraft:item/knowledge_book
 minecraft:item/ladder
 minecraft:item/lapis_block
 minecraft:item/lapis_ore

@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "entity/boat/paddle_land1",
+    "entity/boat/paddle_land2",
+    "entity/boat/paddle_land3",
+    "entity/boat/paddle_land4",
+    "entity/boat/paddle_land5",
+    "entity/boat/paddle_land6"
+  ]
+}

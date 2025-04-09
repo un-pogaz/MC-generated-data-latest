@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/parrot/death1",
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/parrot/death2",
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/parrot/death3",
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/parrot/death4",
+      "pitch": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.death"
+}
