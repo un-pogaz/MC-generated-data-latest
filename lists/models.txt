@@ -143,6 +143,7 @@ minecraft:block/cauldron_level1
 minecraft:block/cauldron_level2
 minecraft:block/cauldron_level3
 minecraft:block/chain_command_block
+minecraft:block/chain_command_block_conditional
 minecraft:block/chorus_flower
 minecraft:block/chorus_flower_dead
 minecraft:block/chorus_plant
@@ -170,6 +171,7 @@ minecraft:block/cocoa_age1_s
 minecraft:block/cocoa_age2_s
 minecraft:block/column_side
 minecraft:block/command_block
+minecraft:block/command_block_conditional
 minecraft:block/comparator_lit
 minecraft:block/comparator_lit_subtract
 minecraft:block/comparator_unlit
@@ -670,6 +672,7 @@ minecraft:block/repeater_on_locked_2tick
 minecraft:block/repeater_on_locked_3tick
 minecraft:block/repeater_on_locked_4tick
 minecraft:block/repeating_command_block
+minecraft:block/repeating_command_block_conditional
 minecraft:block/sand
 minecraft:block/sandstone_all
 minecraft:block/sandstone_chiseled

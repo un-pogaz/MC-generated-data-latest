@@ -34,6 +34,7 @@ minecraft:blocks/cauldron_inner
 minecraft:blocks/cauldron_side
 minecraft:blocks/cauldron_top
 minecraft:blocks/chain_command_block_back  [mcmeta]
+minecraft:blocks/chain_command_block_conditional  [mcmeta]
 minecraft:blocks/chain_command_block_front  [mcmeta]
 minecraft:blocks/chain_command_block_side  [mcmeta]
 minecraft:blocks/chorus_flower
@@ -49,6 +50,7 @@ minecraft:blocks/cocoa_stage_0
 minecraft:blocks/cocoa_stage_1
 minecraft:blocks/cocoa_stage_2
 minecraft:blocks/command_block_back  [mcmeta]
+minecraft:blocks/command_block_conditional  [mcmeta]
 minecraft:blocks/command_block_front  [mcmeta]
 minecraft:blocks/command_block_side  [mcmeta]
 minecraft:blocks/comparator_off
@@ -324,6 +326,7 @@ minecraft:blocks/reeds
 minecraft:blocks/repeater_off
 minecraft:blocks/repeater_on
 minecraft:blocks/repeating_command_block_back  [mcmeta]
+minecraft:blocks/repeating_command_block_conditional  [mcmeta]
 minecraft:blocks/repeating_command_block_front  [mcmeta]
 minecraft:blocks/repeating_command_block_side  [mcmeta]
 minecraft:blocks/sand
@@ -592,6 +595,12 @@ minecraft:entity/wolf/wolf_tame
 minecraft:entity/zombie/zombie
 minecraft:entity/zombie/zombie_villager
 minecraft:entity/zombie_pigman
+minecraft:entity/zombie_villager/zombie_butcher
+minecraft:entity/zombie_villager/zombie_farmer
+minecraft:entity/zombie_villager/zombie_librarian
+minecraft:entity/zombie_villager/zombie_priest
+minecraft:entity/zombie_villager/zombie_smith
+minecraft:entity/zombie_villager/zombie_villager
 minecraft:environment/clouds
 minecraft:environment/end_sky
 minecraft:environment/moon_phases
