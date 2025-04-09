@@ -48,7 +48,7 @@ minecraft:entities/parrot
 minecraft:entities/phantom
 minecraft:entities/pig
 minecraft:entities/polar_bear
-minecraft:entities/puffer_fish
+minecraft:entities/pufferfish
 minecraft:entities/rabbit
 minecraft:entities/salmon_mob
 minecraft:entities/sheep
