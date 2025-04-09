@@ -97,7 +97,6 @@ Whoa, dude!
 All inclusive!
 Tell your friends!
 NP is not in P!
-Notch <3 ez!
 Music by C418!
 Livestreamed!
 Haunted!
@@ -106,7 +105,7 @@ Terrestrial!
 All is full of love!
 Full of stars!
 Scientific!
-Cooler than Spock!
+Not as cool as Spock!
 Collaborate and listen!
 Never dig down!
 Take frequent breaks!
@@ -357,3 +356,4 @@ This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
+GNU Terry Pratchett
