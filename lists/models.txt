@@ -1392,6 +1392,8 @@ minecraft:item/sandstone_slab
 minecraft:item/sandstone_stairs
 minecraft:item/sea_lantern
 minecraft:item/shears
+minecraft:item/shield
+minecraft:item/shield_blocking
 minecraft:item/sign
 minecraft:item/silver_carpet
 minecraft:item/silver_stained_glass

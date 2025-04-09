@@ -16207,10 +16207,6 @@
     },
     {
       state: 42,
-      pos: [6, 2, 13]
-    },
-    {
-      state: 42,
       pos: [7, 2, 13]
     },
     {
@@ -16250,7 +16246,7 @@
       pos: [5, 3, 13]
     },
     {
-      state: 8278,
+      state: 0,
       pos: [6, 3, 13]
     },
     {
@@ -35407,6 +35403,28 @@
         metadata: "Sentry"
       },
       pos: [6, 4, 8]
+    },
+    {
+      state: 12442,
+      nbt: {
+        Items: [
+          {
+            id: "minecraft:written_book",
+            Damage: 0s,
+            Count: 1b,
+            tag: {
+              author: "Searge",
+              title: "Work in Progress",
+              pages: ["{\"text\":\"We will have something else here soon...\"}"]
+            },
+            Slot: 2b
+          }
+        ],
+        id: "Hopper",
+        TransferCooldown: 0,
+        Lock: ""
+      },
+      pos: [6, 2, 13]
     },
     {
       state: 20597,
