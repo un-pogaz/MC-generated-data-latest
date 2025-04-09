@@ -3,6 +3,7 @@ minecraft:chests/desert_pyramid
 minecraft:chests/end_city_treasure
 minecraft:chests/igloo_chest
 minecraft:chests/jungle_temple
+minecraft:chests/jungle_temple_dispenser
 minecraft:chests/nether_bridge
 minecraft:chests/simple_dungeon
 minecraft:chests/spawn_bonus_chest
