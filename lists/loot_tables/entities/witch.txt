@@ -1,0 +1,7 @@
+minecraft:glowstone_dust
+minecraft:sugar
+minecraft:redstone
+minecraft:spider_eye
+minecraft:glass_bottle
+minecraft:gunpowder
+minecraft:stick

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/armorstand/hit1",
+    "entity/armorstand/hit2",
+    "entity/armorstand/hit3",
+    "entity/armorstand/hit4"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

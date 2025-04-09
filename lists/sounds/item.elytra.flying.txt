@@ -1,0 +1,1 @@
+minecraft:item/elytra/elytra_loop

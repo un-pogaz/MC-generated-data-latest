@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/zombie/step1",
+    "mob/zombie/step2",
+    "mob/zombie/step3",
+    "mob/zombie/step4",
+    "mob/zombie/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

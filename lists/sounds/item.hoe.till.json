@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "item/hoe/till1",
+    "item/hoe/till2",
+    "item/hoe/till3",
+    "item/hoe/till4"
+  ],
+  "subtitle": "subtitles.item.hoe.till"
+}

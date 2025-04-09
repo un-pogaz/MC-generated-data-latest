@@ -1,0 +1,4 @@
+minecraft:entity/shulker_bullet/hit1
+minecraft:entity/shulker_bullet/hit2
+minecraft:entity/shulker_bullet/hit3
+minecraft:entity/shulker_bullet/hit4

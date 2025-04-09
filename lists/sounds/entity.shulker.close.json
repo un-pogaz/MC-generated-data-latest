@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "entity/shulker/close1",
+    "entity/shulker/close2",
+    "entity/shulker/close3",
+    "entity/shulker/close4",
+    "entity/shulker/close5"
+  ],
+  "subtitle": "subtitles.entity.shulker.close"
+}

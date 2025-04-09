@@ -1,9 +1,0 @@
-{
-  "category": "hostile",
-  "sounds": [
-    "mob/zombiepig/zpig1",
-    "mob/zombiepig/zpig2",
-    "mob/zombiepig/zpig3",
-    "mob/zombiepig/zpig4"
-  ]
-}

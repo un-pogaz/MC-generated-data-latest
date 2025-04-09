@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "dig/sand1",
+    "dig/sand2",
+    "dig/sand3",
+    "dig/sand4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

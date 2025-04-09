@@ -1,0 +1,3 @@
+minecraft:item/bucket/empty_lava1
+minecraft:item/bucket/empty_lava2
+minecraft:item/bucket/empty_lava3

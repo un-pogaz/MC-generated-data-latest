@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    {
+      "name": "entity/witch/ambient5",
+      "pitch": 0.9
+    },
+    "entity/witch/ambient1",
+    "entity/witch/ambient2",
+    "entity/witch/ambient3",
+    "entity/witch/ambient4",
+    "entity/witch/ambient5"
+  ],
+  "subtitle": "subtitles.entity.witch.ambient"
+}

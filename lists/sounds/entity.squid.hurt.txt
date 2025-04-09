@@ -1,0 +1,4 @@
+minecraft:entity/squid/hurt1
+minecraft:entity/squid/hurt2
+minecraft:entity/squid/hurt3
+minecraft:entity/squid/hurt4

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/waterlily/place1",
+    "block/waterlily/place2",
+    "block/waterlily/place3",
+    "block/waterlily/place4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

@@ -1,0 +1,4 @@
+minecraft:dig/sand1
+minecraft:dig/sand2
+minecraft:dig/sand3
+minecraft:dig/sand4

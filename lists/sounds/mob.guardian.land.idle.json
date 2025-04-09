@@ -1,9 +1,0 @@
-{
-  "category": "hostile",
-  "sounds": [
-    "mob/guardian/land_idle1",
-    "mob/guardian/land_idle2",
-    "mob/guardian/land_idle3",
-    "mob/guardian/land_idle4"
-  ]
-}

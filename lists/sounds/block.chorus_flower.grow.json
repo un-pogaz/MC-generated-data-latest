@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/chorus_flower/grow1",
+    "block/chorus_flower/grow2",
+    "block/chorus_flower/grow3",
+    "block/chorus_flower/grow4"
+  ],
+  "subtitle": "subtitles.block.chorus_flower.grow"
+}

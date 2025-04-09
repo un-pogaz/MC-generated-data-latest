@@ -1,0 +1,4 @@
+minecraft:entity/guardian/ambient1
+minecraft:entity/guardian/ambient2
+minecraft:entity/guardian/ambient3
+minecraft:entity/guardian/ambient4

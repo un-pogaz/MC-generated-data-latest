@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "item/bottle/fill1",
+    "item/bottle/fill2",
+    "item/bottle/fill3",
+    "item/bottle/fill4"
+  ],
+  "subtitle": "subtitles.item.bottle.fill"
+}

@@ -1,0 +1,4 @@
+minecraft:block/chorus_flower/grow1
+minecraft:block/chorus_flower/grow2
+minecraft:block/chorus_flower/grow3
+minecraft:block/chorus_flower/grow4

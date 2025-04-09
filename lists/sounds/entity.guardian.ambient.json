@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "entity/guardian/ambient1",
+      "volume": 0.1
+    },
+    {
+      "name": "entity/guardian/ambient2",
+      "volume": 0.1
+    },
+    {
+      "name": "entity/guardian/ambient3",
+      "volume": 0.1
+    },
+    {
+      "name": "entity/guardian/ambient4",
+      "volume": 0.1
+    }
+  ],
+  "subtitle": "subtitles.entity.guardian.ambient"
+}

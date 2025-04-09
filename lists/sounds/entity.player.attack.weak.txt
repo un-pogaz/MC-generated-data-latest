@@ -1,0 +1,4 @@
+minecraft:entity/player/attack/weak1
+minecraft:entity/player/attack/weak2
+minecraft:entity/player/attack/weak3
+minecraft:entity/player/attack/weak4

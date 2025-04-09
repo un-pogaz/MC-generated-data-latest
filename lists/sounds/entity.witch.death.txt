@@ -1,0 +1,3 @@
+minecraft:entity/witch/death1
+minecraft:entity/witch/death2
+minecraft:entity/witch/death3

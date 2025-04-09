@@ -1,0 +1,4 @@
+minecraft:entity/armorstand/hit1
+minecraft:entity/armorstand/hit2
+minecraft:entity/armorstand/hit3
+minecraft:entity/armorstand/hit4

@@ -1,0 +1,3 @@
+minecraft:ghast_tear
+
+minecraft:gunpowder

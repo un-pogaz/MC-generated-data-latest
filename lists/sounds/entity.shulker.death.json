@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "entity/shulker/death1",
+    "entity/shulker/death2",
+    "entity/shulker/death3",
+    "entity/shulker/death4"
+  ],
+  "subtitle": "subtitles.entity.shulker.death"
+}

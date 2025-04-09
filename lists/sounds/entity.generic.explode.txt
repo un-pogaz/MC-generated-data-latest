@@ -1,0 +1,4 @@
+minecraft:random/explode1
+minecraft:random/explode2
+minecraft:random/explode3
+minecraft:random/explode4

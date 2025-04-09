@@ -1,4 +1,0 @@
-minecraft:mob/guardian/guardian_idle1
-minecraft:mob/guardian/guardian_idle2
-minecraft:mob/guardian/guardian_idle3
-minecraft:mob/guardian/guardian_idle4

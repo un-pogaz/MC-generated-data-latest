@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "step/gravel1",
+    "step/gravel2",
+    "step/gravel3",
+    "step/gravel4"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

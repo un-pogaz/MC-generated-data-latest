@@ -1,9 +1,0 @@
-{
-  "category": "hostile",
-  "sounds": [
-    "mob/creeper/say1",
-    "mob/creeper/say2",
-    "mob/creeper/say3",
-    "mob/creeper/say4"
-  ]
-}
