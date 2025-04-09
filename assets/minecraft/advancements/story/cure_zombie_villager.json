@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:golden_apple",
-        "title": "Cure a zombie villager",
+        "title": "Zombie Doctor",
+        "description": "Cure a zombie villager.",
         "frame": "goal"
     },
     "parent": "minecraft:story/brew_weakness_potion",

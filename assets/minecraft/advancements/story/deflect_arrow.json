@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:shield",
-        "title": "Deflect an arrow"
+        "title": "Not Today, Thank You",
+        "description": "Deflect an arrow with a shield"
     },
     "parent": "minecraft:story/obtain_armor",
     "criteria": {

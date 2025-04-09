@@ -4,6 +4,7 @@ adventure/root
 │ └>adventure/shoot_arrow
 │   └>adventure/sniper_duel
 └>adventure/sleep_in_bed
+│ └>adventure/adventuring_time
 └>adventure/trade
 
 story/root

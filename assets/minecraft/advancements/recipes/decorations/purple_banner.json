@@ -5,7 +5,13 @@
     ]
   },
   "criteria": {
-    "has_wool": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "purple_banner"
+      }
+    },
+    "has_purple_wool": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -15,20 +21,14 @@
           }
         ]
       }
-    },
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "purple_banner"
-      }
     }
   },
   "requirements": [
     [
-      "has_wool"
+      "has_the_recipe"
     ],
     [
-      "has_the_recipe"
+      "has_purple_wool"
     ]
   ]
 }

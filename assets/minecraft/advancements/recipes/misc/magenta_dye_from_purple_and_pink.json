@@ -5,13 +5,24 @@
     ]
   },
   "criteria": {
-    "has_dye": {
+    "has_pink_dye": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "item": "minecraft:dye",
             "data": 9
+          }
+        ]
+      }
+    },
+    "has_purple_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dye",
+            "data": 5
           }
         ]
       }
@@ -25,7 +36,10 @@
   },
   "requirements": [
     [
-      "has_dye"
+      "has_pink_dye"
+    ],
+    [
+      "has_purple_dye"
     ],
     [
       "has_the_recipe"

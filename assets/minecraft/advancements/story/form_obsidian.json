@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:obsidian",
-        "title": "Form obsidian"
+        "title": "Ice Bucket Challenge",
+        "description": "Form and mine a block of Obsidian"
     },
     "parent": "minecraft:story/lava_bucket",
     "criteria": {

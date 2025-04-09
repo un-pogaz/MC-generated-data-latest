@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:iron_ingot",
-        "title": "Smelt iron"
+        "title": "Acquire Hardware",
+        "description": "Smelt an iron ingot"
     },
     "parent": "minecraft:story/upgrade_tools",
     "criteria": {

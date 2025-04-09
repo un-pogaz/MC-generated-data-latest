@@ -5,13 +5,24 @@
     ]
   },
   "criteria": {
-    "has_dye": {
+    "has_bonemeal": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "item": "minecraft:dye",
             "data": 15
+          }
+        ]
+      }
+    },
+    "has_red_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dye",
+            "data": 1
           }
         ]
       }
@@ -25,7 +36,10 @@
   },
   "requirements": [
     [
-      "has_dye"
+      "has_bonemeal"
+    ],
+    [
+      "has_red_dye"
     ],
     [
       "has_the_recipe"

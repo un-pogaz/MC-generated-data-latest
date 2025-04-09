@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:bow",
-        "title": "Shoot something"
+        "title": "Take Aim",
+        "description": "Shoot something with a bow and arrow"
     },
     "parent": "adventure/kill_a_mob",
     "criteria": {

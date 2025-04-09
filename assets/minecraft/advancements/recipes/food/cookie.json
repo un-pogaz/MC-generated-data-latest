@@ -5,7 +5,7 @@
     ]
   },
   "criteria": {
-    "has_dye": {
+    "has_cocoa": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_dye"
+      "has_cocoa"
     ],
     [
       "has_the_recipe"

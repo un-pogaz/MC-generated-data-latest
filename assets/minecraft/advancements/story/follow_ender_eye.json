@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:ender_eye",
-        "title": "Follow an Ender Eye"
+        "title": "Eye Spy",
+        "description": "Follow an Ender Eye"
     },
     "parent": "minecraft:story/obtain_blaze_rod",
     "criteria": {

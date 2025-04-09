@@ -13,7 +13,6 @@ minecraft:allium
 minecraft:andesite
 minecraft:anvil
 minecraft:beacon
-minecraft:bed
 minecraft:bedrock
 minecraft:beetroots
 minecraft:birch_door

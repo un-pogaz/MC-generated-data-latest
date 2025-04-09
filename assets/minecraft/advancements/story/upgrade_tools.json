@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:stone_pickaxe",
-        "title": "Upgrade tools"
+        "title": "Getting an Upgrade",
+        "description": "Construct a better pickaxe"
     },
     "parent": "minecraft:story/mine_stone",
     "criteria": {

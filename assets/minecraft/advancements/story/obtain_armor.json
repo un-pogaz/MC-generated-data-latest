@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:iron_chestplate",
-        "title": "Obtain armor"
+        "title": "Suit Up",
+        "description": "Protect yourself with a piece of iron armor"
     },
     "parent": "minecraft:story/smelt_iron",
     "criteria": {

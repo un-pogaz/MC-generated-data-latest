@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:bed",
-        "title": "Change your spawn point"
+        "title": "Sweet dreams",
+        "description": "Change your respawn point"
     },
     "parent": "adventure/root",
     "criteria": {

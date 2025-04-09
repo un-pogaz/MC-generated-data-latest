@@ -12,7 +12,7 @@
         "recipe": "bone_block"
       }
     },
-    "has_at_least_9_dye": {
+    "has_at_least_9_bonemeal": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -32,7 +32,7 @@
       "has_the_recipe"
     ],
     [
-      "has_at_least_9_dye"
+      "has_at_least_9_bonemeal"
     ]
   ]
 }

@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:lava_bucket",
-        "title": "Bucket of lava"
+        "title": "Hot Stuff",
+        "description": "Fill a bucket with lava"
     },
     "parent": "minecraft:story/smelt_iron",
     "criteria": {

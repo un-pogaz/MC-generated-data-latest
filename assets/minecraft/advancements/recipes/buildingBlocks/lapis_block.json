@@ -6,13 +6,7 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "lapis_block"
-      }
-    },
-    "has_at_least_9_dye": {
+    "has_at_least_9_lapis": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,14 +19,20 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "lapis_block"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe"
+      "has_at_least_9_lapis"
     ],
     [
-      "has_at_least_9_dye"
+      "has_the_recipe"
     ]
   ]
 }

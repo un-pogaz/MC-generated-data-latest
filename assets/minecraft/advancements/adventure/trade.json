@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": "minecraft:emerald",
-        "title": "Complete a trade"
+        "title": "What a Deal!",
+        "description": "Successfully trade with a Villager"
     },
     "parent": "adventure/root",
     "criteria": {
