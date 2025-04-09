@@ -1197,6 +1197,7 @@ minecraft:items/iron_hoe
 minecraft:items/iron_horse_armor
 minecraft:items/iron_ingot
 minecraft:items/iron_leggings
+minecraft:items/iron_nugget
 minecraft:items/iron_pickaxe
 minecraft:items/iron_shovel
 minecraft:items/iron_sword

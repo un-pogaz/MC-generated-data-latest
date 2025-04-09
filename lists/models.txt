@@ -1210,6 +1210,7 @@ minecraft:item/iron_hoe
 minecraft:item/iron_horse_armor
 minecraft:item/iron_ingot
 minecraft:item/iron_leggings
+minecraft:item/iron_nugget
 minecraft:item/iron_ore
 minecraft:item/iron_pickaxe
 minecraft:item/iron_shovel
