@@ -57,8 +57,8 @@ east=false,north=false,south=true,up=false,waterlogged=false,west=false
 east=false,north=false,south=false,up=true,waterlogged=true,west=true
 east=false,north=false,south=false,up=true,waterlogged=true,west=false
 east=false,north=false,south=false,up=true,waterlogged=false,west=true
-east=false,north=false,south=false,up=true,waterlogged=false,west=false
+east=false,north=false,south=false,up=true,waterlogged=false,west=false  [default]
 east=false,north=false,south=false,up=false,waterlogged=true,west=true
 east=false,north=false,south=false,up=false,waterlogged=true,west=false
 east=false,north=false,south=false,up=false,waterlogged=false,west=true
-east=false,north=false,south=false,up=false,waterlogged=false,west=false  [default]
+east=false,north=false,south=false,up=false,waterlogged=false,west=false
