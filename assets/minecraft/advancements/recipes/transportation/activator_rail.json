@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_rail"
-    ],
-    [
+      "has_rail",
       "has_the_recipe"
     ]
   ]

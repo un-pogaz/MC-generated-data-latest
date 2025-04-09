@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_end_stone"
-    ],
-    [
+      "has_end_stone",
       "has_the_recipe"
     ]
   ]

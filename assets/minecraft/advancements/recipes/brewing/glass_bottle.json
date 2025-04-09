@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_glass"
-    ],
-    [
+      "has_glass",
       "has_the_recipe"
     ]
   ]

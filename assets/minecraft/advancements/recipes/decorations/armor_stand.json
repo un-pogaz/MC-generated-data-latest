@@ -10,7 +10,8 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:stone_slab"
+            "item": "minecraft:stone_slab",
+            "data": 0
           }
         ]
       }
@@ -24,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_stone_slab"
-    ],
-    [
+      "has_stone_slab",
       "has_the_recipe"
     ]
   ]

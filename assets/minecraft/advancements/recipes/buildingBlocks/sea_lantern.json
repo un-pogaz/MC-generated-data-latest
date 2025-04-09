@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_prismarine_crystals"
-    ],
-    [
+      "has_prismarine_crystals",
       "has_the_recipe"
     ]
   ]

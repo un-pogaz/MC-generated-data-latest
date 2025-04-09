@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_spider_eye"
-    ],
-    [
+      "has_spider_eye",
       "has_the_recipe"
     ]
   ]

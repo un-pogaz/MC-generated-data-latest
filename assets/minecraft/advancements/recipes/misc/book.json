@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_paper"
-    ],
-    [
+      "has_paper",
       "has_the_recipe"
     ]
   ]

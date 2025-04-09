@@ -254,6 +254,7 @@
                         "title": "How Did We Get Here?",
                         "description": "Have every effect applied at the same time",
                         "frame": "challenge",
+                        "rewards": "1000 xp",
                         "hidden": true
                       }
                     }

@@ -20,9 +20,7 @@
   },
   "requirements": [
     [
-      "entered_water"
-    ],
-    [
+      "entered_water",
       "has_the_recipe"
     ]
   ]

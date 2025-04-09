@@ -55,15 +55,9 @@
     },
     "requirements": [
         [
-            "diamond_helmet"
-        ],
-        [
-            "diamond_chestplate"
-        ],
-        [
-            "diamond_leggings"
-        ],
-        [
+            "diamond_helmet",
+            "diamond_chestplate",
+            "diamond_leggings",
             "diamond_boots"
         ]
     ]

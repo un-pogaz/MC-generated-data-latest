@@ -28,9 +28,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_emerald"
-    ],
-    [
+      "has_at_least_9_emerald",
       "has_the_recipe"
     ]
   ]

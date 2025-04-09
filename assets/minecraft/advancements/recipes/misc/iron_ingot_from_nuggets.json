@@ -28,9 +28,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_iron_nugget"
-    ],
-    [
+      "has_at_least_9_iron_nugget",
       "has_the_recipe"
     ]
   ]

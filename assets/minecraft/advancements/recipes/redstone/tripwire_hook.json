@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_string"
-    ],
-    [
+      "has_string",
       "has_the_recipe"
     ]
   ]

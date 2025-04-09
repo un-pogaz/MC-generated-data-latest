@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_clay_ball"
-    ],
-    [
+      "has_clay_ball",
       "has_the_recipe"
     ]
   ]

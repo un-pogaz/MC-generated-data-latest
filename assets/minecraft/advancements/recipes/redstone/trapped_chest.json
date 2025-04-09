@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_tripwire_hook"
-    ],
-    [
+      "has_tripwire_hook",
       "has_the_recipe"
     ]
   ]

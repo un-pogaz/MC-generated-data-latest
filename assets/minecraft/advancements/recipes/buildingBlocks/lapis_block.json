@@ -29,9 +29,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_lapis"
-    ],
-    [
+      "has_at_least_9_lapis",
       "has_the_recipe"
     ]
   ]

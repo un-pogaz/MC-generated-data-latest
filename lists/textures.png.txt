@@ -1019,7 +1019,6 @@ minecraft:gui/presets/isles
 minecraft:gui/presets/luck
 minecraft:gui/presets/madness
 minecraft:gui/presets/water
-minecraft:gui/progress_book
 minecraft:gui/recipe_book
 minecraft:gui/resource_packs
 minecraft:gui/server_selection

@@ -36,12 +36,8 @@
   },
   "requirements": [
     [
-      "has_green_dye"
-    ],
-    [
-      "has_lapis"
-    ],
-    [
+      "has_green_dye",
+      "has_lapis",
       "has_the_recipe"
     ]
   ]

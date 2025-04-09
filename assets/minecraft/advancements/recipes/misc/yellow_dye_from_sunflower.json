@@ -5,7 +5,7 @@
     ]
   },
   "criteria": {
-    "has_yellow_flower": {
+    "has_double_plant": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,9 +25,7 @@
   },
   "requirements": [
     [
-      "has_yellow_flower"
-    ],
-    [
+      "has_double_plant",
       "has_the_recipe"
     ]
   ]

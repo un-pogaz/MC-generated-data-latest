@@ -28,9 +28,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_slime_ball"
-    ],
-    [
+      "has_at_least_9_slime_ball",
       "has_the_recipe"
     ]
   ]

@@ -47,15 +47,9 @@
   },
   "requirements": [
     [
-      "has_lapis"
-    ],
-    [
-      "has_bonemeal"
-    ],
-    [
-      "has_the_recipe"
-    ],
-    [
+      "has_lapis",
+      "has_bonemeal",
+      "has_the_recipe",
       "has_black_dye"
     ]
   ]

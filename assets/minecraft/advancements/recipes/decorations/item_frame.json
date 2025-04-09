@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_leather"
-    ],
-    [
+      "has_leather",
       "has_the_recipe"
     ]
   ]

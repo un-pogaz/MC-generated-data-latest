@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_ender_eye"
-    ],
-    [
+      "has_ender_eye",
       "has_the_recipe"
     ]
   ]

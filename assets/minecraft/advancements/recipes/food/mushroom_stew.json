@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_bowl"
-    ],
-    [
+      "has_bowl",
       "has_the_recipe"
     ]
   ]

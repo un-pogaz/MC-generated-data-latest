@@ -10,12 +10,12 @@
             "translate": "advancements.nether.all_effects.description"
         },
         "frame": "challenge",
-        "rewards": {
-            "experience": 100
-        },
         "hidden": true
     },
     "parent": "minecraft:nether/all_potions",
+    "rewards": {
+        "experience": 1000
+    },
     "criteria": {
         "all_effects": {
             "trigger": "minecraft:effects_changed",
@@ -39,7 +39,8 @@
                     "minecraft:glowing": {},
                     "minecraft:absorption": {},
                     "minecraft:hunger": {},
-                    "minecraft:nausea": {}
+                    "minecraft:nausea": {},
+                    "minecraft:resistance": {}
                 }
             }
         }

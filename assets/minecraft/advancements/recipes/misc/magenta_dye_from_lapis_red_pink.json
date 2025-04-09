@@ -47,15 +47,9 @@
   },
   "requirements": [
     [
-      "has_pink_dye"
-    ],
-    [
-      "has_lapis"
-    ],
-    [
-      "has_red_dye"
-    ],
-    [
+      "has_pink_dye",
+      "has_lapis",
+      "has_red_dye",
       "has_the_recipe"
     ]
   ]

@@ -24,9 +24,7 @@
   },
   "requirements": [
     [
-      "has_melon"
-    ],
-    [
+      "has_melon",
       "has_the_recipe"
     ]
   ]

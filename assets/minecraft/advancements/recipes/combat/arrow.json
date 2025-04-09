@@ -34,12 +34,8 @@
   },
   "requirements": [
     [
-      "has_feather"
-    ],
-    [
-      "has_flint"
-    ],
-    [
+      "has_feather",
+      "has_flint",
       "has_the_recipe"
     ]
   ]
