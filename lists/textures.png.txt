@@ -183,6 +183,7 @@ minecraft:blocks/ice_packed
 minecraft:blocks/iron_bars
 minecraft:blocks/iron_block
 minecraft:blocks/iron_ore
+minecraft:blocks/iron_trapdoor
 minecraft:blocks/itemframe_background
 minecraft:blocks/jukebox_side
 minecraft:blocks/jukebox_top

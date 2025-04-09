@@ -1,184 +1,64 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change in the future!",
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "name": "crop",
     "useAmbientOcclusion": false,
     "inventoryRender3D": false,
-    "faces": [
-        {
-            "cullFacing": "none",
-            "tint": false,
-            "vertices": [
-                {
-                    "position": [ 0.0, 1.0, 0.25 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.0, 0.0, 0.25 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 1.0, 0.0, 0.25 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 1.0, 1.0, 0.25 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+    "elements": [
+        {   "type": "plane",
+            "from": [ 4, 0, 0 ],
+            "to": [ 4, 16, 16 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "west",
+            "cull": false
         },
-        {
-            "cullFacing": "none",
-            "tint": false,
-            "vertices": [
-                {
-                    "position": [ 1.0, 1.0, 0.25 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 1.0, 0.0, 0.25 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.0, 0.0, 0.25 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.0, 1.0, 0.25 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+        {   "type": "plane",
+            "from": [ 4, 0, 0 ],
+            "to": [ 4, 16, 16 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "east",
+            "cull": false
         },
-        {
-            "cullFacing": "none",
-            "tint": false,
-            "vertices": [
-                {
-                    "position": [ 1.0, 1.0, 0.75 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 1.0, 0.0, 0.75 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.0, 0.0, 0.75 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.0, 1.0, 0.75 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+        {   "type": "plane",
+            "from": [ 12, 0, 0 ],
+            "to": [ 12, 16, 16 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "east",
+            "cull": false
         },
-        {
-            "cullFacing": "none",
-            "tint": false,
-            "vertices": [
-                {
-                    "position": [ 0.0, 1.0, 0.75 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.0, 0.0, 0.75 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 1.0, 0.0, 0.75 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 1.0, 1.0, 0.75 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+        {   "type": "plane",
+            "from": [ 12, 0, 0 ],
+            "to": [ 12, 16, 16 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "west",
+            "cull": false
         },
-        {
-            "cullFacing": "none",
-            "tint": false,
-            "vertices": [
-                {
-                    "position": [ 0.25, 1.0, 0.0 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.25, 0.0, 0.0 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.25, 0.0, 1.0 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.25, 1.0, 1.0 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+        {   "type": "plane",
+            "from": [ 0, 0, 4 ],
+            "to": [ 16, 16, 4 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "north",
+            "cull": false
         },
-        {
-            "cullFacing": "none",
-            "tint": false,
-            "vertices": [
-                {
-                    "position": [ 0.25, 1.0, 1.0 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.25, 0.0, 1.0 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.25, 0.0, 0.0 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.25, 1.0, 0.0 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+        {   "type": "plane",
+            "from": [ 0, 0, 4 ],
+            "to": [ 16, 16, 4 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "south",
+            "cull": false
         },
-        {
-            "cullFacing": "none",
-            "tint": false,
-            "vertices": [
-                {
-                    "position": [ 0.75, 1.0, 1.0 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.75, 0.0, 1.0 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.75, 0.0, 0.0 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.75, 1.0, 0.0 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+        {   "type": "plane",
+            "from": [ 0, 0, 12 ],
+            "to": [ 16, 16, 12 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "south",
+            "cull": false
         },
-        {
-            "cullFacing": "none",
-            "tint": false,
-            "vertices": [
-                {
-                    "position": [ 0.75, 1.0, 0.0 ],
-                    "texcoord": [ 0, 0 ]
-                },
-                {
-                    "position": [ 0.75, 0.0, 0.0 ],
-                    "texcoord": [ 0, 16 ]
-                },
-                {
-                    "position": [ 0.75, 0.0, 1.0 ],
-                    "texcoord": [ 16, 16 ]
-                },
-                {
-                    "position": [ 0.75, 1.0, 1.0 ],
-                    "texcoord": [ 16, 0 ]
-                }
-            ]
+        {   "type": "plane",
+            "from": [ 0, 0, 12 ],
+            "to": [ 16, 16, 12 ],
+            "uv": [ 0, 0, 16, 16, "down" ],
+            "facing": "north",
+            "cull": false
         }
     ]
 }
