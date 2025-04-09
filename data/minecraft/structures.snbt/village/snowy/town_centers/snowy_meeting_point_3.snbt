@@ -71,7 +71,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -90,8 +90,18 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/snowy/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 1],
+      state: 3
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -101,7 +111,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -117,6 +127,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/snowy/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 5],
+      state: 3
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/common/cats",
         final_state: "minecraft:grass_block",
         id: "minecraft:jigsaw",
@@ -128,7 +148,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -145,10 +165,6 @@
     },
     {
       pos: [4, 0, 0],
-      state: 9
-    },
-    {
-      pos: [1, 0, 1],
       state: 9
     },
     {
@@ -308,10 +324,6 @@
       state: 12
     },
     {
-      pos: [1, 0, 5],
-      state: 9
-    },
-    {
       pos: [2, 0, 5],
       state: 9
     },
@@ -464,5 +476,5 @@
       Name: "minecraft:spruce_fence"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

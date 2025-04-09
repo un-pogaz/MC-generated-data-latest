@@ -21,7 +21,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -31,7 +31,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -41,7 +41,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -51,7 +51,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/houses",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -61,7 +61,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -71,7 +71,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },

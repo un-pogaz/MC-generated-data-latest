@@ -89,7 +89,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -99,7 +99,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -109,7 +109,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -119,7 +119,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
