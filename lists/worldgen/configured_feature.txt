@@ -73,7 +73,6 @@ minecraft:mega_spruce
 minecraft:monster_room
 minecraft:mushroom_field_vegetation
 minecraft:nether_sprouts
-minecraft:nope
 minecraft:oak
 minecraft:oak_badlands
 minecraft:oak_bees_0002

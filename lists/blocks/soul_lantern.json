@@ -3,6 +3,10 @@
     "hanging": [
       "true",
       "false"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
     ]
   }
 }
