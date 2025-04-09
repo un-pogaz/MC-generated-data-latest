@@ -11,12 +11,12 @@
 §f			Nathan Adams
 §f			Ryan Holtz
 §f			Michael Stoyke
-
-§7Programming:
 §f			Erik Broes
+§f			Thomas Guimbretière
 
 §7Music and sound:
 §f			Daniel Rosenfeld
+§f			Samuel Åberg
 
 §7Ingame artwork and paintings:
 §f			Kristoffer Zetterstrand
