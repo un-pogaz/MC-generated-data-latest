@@ -28,7 +28,8 @@
             "facing": "west",
             "faceData": {
                 "uv": [ 0, 7, 16, 16 ],
-                "textureFacing": "west"
+                "textureFacing": "west",
+                "cull": false
             }
         },
         {   "type": "plane",
@@ -37,7 +38,8 @@
             "facing": "east",
             "faceData": {
                 "uv": [ 16, 7, 0, 16 ],
-                "textureFacing": "east"
+                "textureFacing": "east",
+                "cull": false
             }
         },
         {   "type": "plane",
@@ -46,7 +48,8 @@
             "facing": "north",
             "faceData": {
                 "uv": [ 0, 7, 16, 16 ],
-                "textureFacing": "north"
+                "textureFacing": "north",
+                "cull": false
             }
         }
     ]
