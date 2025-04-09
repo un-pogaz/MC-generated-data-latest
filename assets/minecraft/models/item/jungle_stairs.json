@@ -1,3 +1,8 @@
 {
-    "parent": "block/jungle_stairs"
+    "parent": "block/jungle_stairs",
+    "display": {
+        "gui": {
+            "rotation": [ 0, 180, 0 ]
+        }
+    }
 }

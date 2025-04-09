@@ -1,3 +1,8 @@
 {
-    "parent": "block/birch_stairs"
+    "parent": "block/birch_stairs",
+    "display": {
+        "gui": {
+            "rotation": [ 0, 180, 0 ]
+        }
+    }
 }
