@@ -1,1 +1,1 @@
-minecraft:mob/zombie/death
+minecraft:mob/zombie_villager/death

@@ -1,4 +1,4 @@
-minecraft:mob/skeleton/step1
-minecraft:mob/skeleton/step2
-minecraft:mob/skeleton/step3
-minecraft:mob/skeleton/step4
+minecraft:mob/wither_skeleton/step1
+minecraft:mob/wither_skeleton/step2
+minecraft:mob/wither_skeleton/step3
+minecraft:mob/wither_skeleton/step4

@@ -1,1 +1,1 @@
-minecraft:fireworks/largeBlast1
+minecraft:fireworks/largeblast1

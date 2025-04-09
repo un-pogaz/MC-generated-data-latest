@@ -1,4 +1,4 @@
-minecraft:mob/skeleton/hurt1
-minecraft:mob/skeleton/hurt2
-minecraft:mob/skeleton/hurt3
-minecraft:mob/skeleton/hurt4
+minecraft:mob/wither_skeleton/hurt1
+minecraft:mob/wither_skeleton/hurt2
+minecraft:mob/wither_skeleton/hurt3
+minecraft:mob/wither_skeleton/hurt4

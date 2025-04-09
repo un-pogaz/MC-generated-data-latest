@@ -1,3 +1,3 @@
-minecraft:mob/skeleton/say1
-minecraft:mob/skeleton/say2
-minecraft:mob/skeleton/say3
+minecraft:mob/wither_skeleton/idle1
+minecraft:mob/wither_skeleton/idle2
+minecraft:mob/wither_skeleton/idle3

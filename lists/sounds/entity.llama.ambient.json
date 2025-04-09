@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/llama/idle1",
+    "mob/llama/idle2",
+    "mob/llama/idle3",
+    "mob/llama/idle4",
+    "mob/llama/idle5"
+  ],
+  "subtitle": "subtitles.entity.llama.ambient"
+}

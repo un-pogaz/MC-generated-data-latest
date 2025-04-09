@@ -1,0 +1,2 @@
+minecraft:mob/evocation_illager/death1
+minecraft:mob/evocation_illager/death2

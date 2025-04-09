@@ -1,6 +1,6 @@
 {
   "sounds": [
-    "mob/zombie/death"
+    "mob/zombie_villager/death"
   ],
-  "subtitle": "subtitles.entity.zombie.death"
+  "subtitle": "subtitles.entity.zombie_villager.death"
 }

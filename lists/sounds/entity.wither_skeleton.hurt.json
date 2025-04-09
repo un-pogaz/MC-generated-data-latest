@@ -1,9 +1,9 @@
 {
   "sounds": [
-    "mob/skeleton/hurt1",
-    "mob/skeleton/hurt2",
-    "mob/skeleton/hurt3",
-    "mob/skeleton/hurt4"
+    "mob/wither_skeleton/hurt1",
+    "mob/wither_skeleton/hurt2",
+    "mob/wither_skeleton/hurt3",
+    "mob/wither_skeleton/hurt4"
   ],
   "subtitle": "subtitles.entity.wither_skeleton.hurt"
 }

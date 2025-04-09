@@ -1,1 +1,2 @@
-minecraft:mob/skeleton/death
+minecraft:mob/wither_skeleton/death1
+minecraft:mob/wither_skeleton/death2

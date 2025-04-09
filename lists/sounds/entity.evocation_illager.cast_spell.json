@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "mob/evocation_illager/cast1",
+    "mob/evocation_illager/cast2"
+  ],
+  "subtitle": "subtitles.entity.evocation_illager.cast_spell"
+}

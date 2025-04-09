@@ -60,7 +60,7 @@
     "bidirectional": false
   },
   "de_at": {
-    "region": "Östareich",
+    "region": "Österreich",
     "name": "Deitsch",
     "bidirectional": false
   },
@@ -95,7 +95,7 @@
     "bidirectional": false
   },
   "en_pt": {
-    "region": "PIRATE",
+    "region": "The Seven Seas",
     "name": "Pirate Speak",
     "bidirectional": false
   },
@@ -105,7 +105,7 @@
     "bidirectional": false
   },
   "eo_uy": {
-    "region": "Mondo",
+    "region": "Esperantujo",
     "name": "Esperanto",
     "bidirectional": false
   },
@@ -232,6 +232,11 @@
   "id_id": {
     "region": "Indonesia",
     "name": "Bahasa Indonesia",
+    "bidirectional": false
+  },
+  "io_ido": {
+    "region": "Idia",
+    "name": "Ido",
     "bidirectional": false
   },
   "is_is": {
@@ -421,7 +426,7 @@
   },
   "swg_de": {
     "region": "Allgai",
-    "name": "Ostallgaierisch",
+    "name": "Oschdallgaierisch",
     "bidirectional": false
   },
   "th_th": {
@@ -450,7 +455,7 @@
     "bidirectional": false
   },
   "val_es": {
-    "region": "Comunitat Valenciana",
+    "region": "País Valencià",
     "name": "Català (Valencià)",
     "bidirectional": false
   },

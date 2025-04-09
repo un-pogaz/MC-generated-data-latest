@@ -1,0 +1,2 @@
+minecraft:mob/evocation_illager/cast1
+minecraft:mob/evocation_illager/cast2

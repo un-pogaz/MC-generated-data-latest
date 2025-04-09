@@ -1,0 +1,4 @@
+minecraft:mob/evocation_illager/idle1
+minecraft:mob/evocation_illager/idle2
+minecraft:mob/evocation_illager/idle3
+minecraft:mob/evocation_illager/idle4

@@ -1,0 +1,2 @@
+minecraft:item/bottle/empty1
+minecraft:item/bottle/empty2

@@ -5,5 +5,5 @@
     "mob/guardian/land_hit3",
     "mob/guardian/land_hit4"
   ],
-  "subtitle": "subtitles.entity.guardian.hurt"
+  "subtitle": "subtitles.entity.elder_guardian.hurt"
 }

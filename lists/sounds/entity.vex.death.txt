@@ -1,0 +1,2 @@
+minecraft:mob/vex/death1
+minecraft:mob/vex/death2
