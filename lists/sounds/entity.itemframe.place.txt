@@ -1,4 +1,0 @@
-minecraft:entity/itemframe/place1
-minecraft:entity/itemframe/place2
-minecraft:entity/itemframe/place3
-minecraft:entity/itemframe/place4

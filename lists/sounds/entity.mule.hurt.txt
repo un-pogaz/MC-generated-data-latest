@@ -1,3 +1,0 @@
-minecraft:mob/horse/donkey/hit1
-minecraft:mob/horse/donkey/hit2
-minecraft:mob/horse/donkey/hit3

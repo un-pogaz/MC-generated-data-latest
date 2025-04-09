@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/silverfish/step1",
-    "mob/silverfish/step2",
-    "mob/silverfish/step3",
-    "mob/silverfish/step4"
-  ],
-  "subtitle": "subtitles.block.generic.footsteps"
-}

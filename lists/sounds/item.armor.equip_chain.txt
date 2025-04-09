@@ -1,6 +1,0 @@
-minecraft:item/armor/equip_chain1
-minecraft:item/armor/equip_chain2
-minecraft:item/armor/equip_chain3
-minecraft:item/armor/equip_chain4
-minecraft:item/armor/equip_chain5
-minecraft:item/armor/equip_chain6

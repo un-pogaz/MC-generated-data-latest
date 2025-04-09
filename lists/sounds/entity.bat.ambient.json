@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/bat/idle1",
-    "mob/bat/idle2",
-    "mob/bat/idle3",
-    "mob/bat/idle4"
-  ],
-  "subtitle": "subtitles.entity.bat.ambient"
-}

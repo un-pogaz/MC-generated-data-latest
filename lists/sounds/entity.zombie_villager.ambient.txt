@@ -1,3 +1,0 @@
-minecraft:mob/zombie/say1
-minecraft:mob/zombie/say2
-minecraft:mob/zombie/say3

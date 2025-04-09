@@ -1,0 +1,10 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "mob/ghast/scream1",
+    "mob/ghast/scream2",
+    "mob/ghast/scream3",
+    "mob/ghast/scream4",
+    "mob/ghast/scream5"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "mob/guardian/elder_death"
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "sounds": [
-    "mob/slime/attack1",
-    "mob/slime/attack2"
-  ],
-  "subtitle": "subtitles.entity.slime.attack"
-}

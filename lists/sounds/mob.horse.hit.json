@@ -1,0 +1,9 @@
+{
+  "category": "neutral",
+  "sounds": [
+    "mob/horse/hit1",
+    "mob/horse/hit2",
+    "mob/horse/hit3",
+    "mob/horse/hit4"
+  ]
+}

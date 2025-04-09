@@ -1,0 +1,9 @@
+{
+  "category": "record",
+  "sounds": [
+    {
+      "name": "records/mellohi",
+      "stream": true
+    }
+  ]
+}

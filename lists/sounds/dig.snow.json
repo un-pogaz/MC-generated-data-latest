@@ -1,0 +1,9 @@
+{
+  "category": "block",
+  "sounds": [
+    "dig/snow1",
+    "dig/snow2",
+    "dig/snow3",
+    "dig/snow4"
+  ]
+}

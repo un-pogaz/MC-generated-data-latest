@@ -1,0 +1,11 @@
+{
+  "category": "neutral",
+  "sounds": [
+    "mob/horse/wood1",
+    "mob/horse/wood2",
+    "mob/horse/wood3",
+    "mob/horse/wood4",
+    "mob/horse/wood5",
+    "mob/horse/wood6"
+  ]
+}

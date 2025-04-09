@@ -1,2 +1,0 @@
-minecraft:block/fence_gate/close1
-minecraft:block/fence_gate/close2

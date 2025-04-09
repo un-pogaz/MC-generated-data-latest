@@ -10,10 +10,6 @@ minecraft:blocks/bed_head_end
 minecraft:blocks/bed_head_side
 minecraft:blocks/bed_head_top
 minecraft:blocks/bedrock
-minecraft:blocks/beetroots_stage_0
-minecraft:blocks/beetroots_stage_1
-minecraft:blocks/beetroots_stage_2
-minecraft:blocks/beetroots_stage_3
 minecraft:blocks/bookshelf
 minecraft:blocks/brewing_stand
 minecraft:blocks/brewing_stand_base
@@ -33,13 +29,6 @@ minecraft:blocks/cauldron_bottom
 minecraft:blocks/cauldron_inner
 minecraft:blocks/cauldron_side
 minecraft:blocks/cauldron_top
-minecraft:blocks/chain_command_block_back  [mcmeta]
-minecraft:blocks/chain_command_block_conditional  [mcmeta]
-minecraft:blocks/chain_command_block_front  [mcmeta]
-minecraft:blocks/chain_command_block_side  [mcmeta]
-minecraft:blocks/chorus_flower
-minecraft:blocks/chorus_flower_dead
-minecraft:blocks/chorus_plant
 minecraft:blocks/clay
 minecraft:blocks/coal_block
 minecraft:blocks/coal_ore
@@ -49,10 +38,7 @@ minecraft:blocks/cobblestone_mossy
 minecraft:blocks/cocoa_stage_0
 minecraft:blocks/cocoa_stage_1
 minecraft:blocks/cocoa_stage_2
-minecraft:blocks/command_block_back  [mcmeta]
-minecraft:blocks/command_block_conditional  [mcmeta]
-minecraft:blocks/command_block_front  [mcmeta]
-minecraft:blocks/command_block_side  [mcmeta]
+minecraft:blocks/command_block
 minecraft:blocks/comparator_off
 minecraft:blocks/comparator_on
 minecraft:blocks/crafting_table_front
@@ -62,8 +48,6 @@ minecraft:blocks/daylight_detector_inverted_top
 minecraft:blocks/daylight_detector_side
 minecraft:blocks/daylight_detector_top
 minecraft:blocks/deadbush
-minecraft:blocks/debug
-minecraft:blocks/debug2
 minecraft:blocks/destroy_stage_0
 minecraft:blocks/destroy_stage_1
 minecraft:blocks/destroy_stage_2
@@ -117,8 +101,6 @@ minecraft:blocks/emerald_ore
 minecraft:blocks/enchanting_table_bottom
 minecraft:blocks/enchanting_table_side
 minecraft:blocks/enchanting_table_top
-minecraft:blocks/end_bricks
-minecraft:blocks/end_rod
 minecraft:blocks/end_stone
 minecraft:blocks/endframe_eye
 minecraft:blocks/endframe_side
@@ -140,10 +122,6 @@ minecraft:blocks/flower_tulip_orange
 minecraft:blocks/flower_tulip_pink
 minecraft:blocks/flower_tulip_red
 minecraft:blocks/flower_tulip_white
-minecraft:blocks/frosted_ice_0
-minecraft:blocks/frosted_ice_1
-minecraft:blocks/frosted_ice_2
-minecraft:blocks/frosted_ice_3
 minecraft:blocks/furnace_front_off
 minecraft:blocks/furnace_front_on
 minecraft:blocks/furnace_side
@@ -185,8 +163,6 @@ minecraft:blocks/glass_yellow
 minecraft:blocks/glowstone
 minecraft:blocks/gold_block
 minecraft:blocks/gold_ore
-minecraft:blocks/grass_path_side
-minecraft:blocks/grass_path_top
 minecraft:blocks/grass_side
 minecraft:blocks/grass_side_overlay
 minecraft:blocks/grass_side_snowed
@@ -292,9 +268,6 @@ minecraft:blocks/pumpkin_side
 minecraft:blocks/pumpkin_stem_connected
 minecraft:blocks/pumpkin_stem_disconnected
 minecraft:blocks/pumpkin_top
-minecraft:blocks/purpur_block
-minecraft:blocks/purpur_pillar
-minecraft:blocks/purpur_pillar_top
 minecraft:blocks/quartz_block_bottom
 minecraft:blocks/quartz_block_chiseled
 minecraft:blocks/quartz_block_chiseled_top
@@ -318,10 +291,10 @@ minecraft:blocks/red_sandstone_normal
 minecraft:blocks/red_sandstone_smooth
 minecraft:blocks/red_sandstone_top
 minecraft:blocks/redstone_block
-minecraft:blocks/redstone_dust_dot
-minecraft:blocks/redstone_dust_line0
-minecraft:blocks/redstone_dust_line1
-minecraft:blocks/redstone_dust_overlay
+minecraft:blocks/redstone_dust_cross
+minecraft:blocks/redstone_dust_cross_overlay
+minecraft:blocks/redstone_dust_line
+minecraft:blocks/redstone_dust_line_overlay
 minecraft:blocks/redstone_lamp_off
 minecraft:blocks/redstone_lamp_on
 minecraft:blocks/redstone_ore
@@ -330,10 +303,6 @@ minecraft:blocks/redstone_torch_on
 minecraft:blocks/reeds
 minecraft:blocks/repeater_off
 minecraft:blocks/repeater_on
-minecraft:blocks/repeating_command_block_back  [mcmeta]
-minecraft:blocks/repeating_command_block_conditional  [mcmeta]
-minecraft:blocks/repeating_command_block_front  [mcmeta]
-minecraft:blocks/repeating_command_block_side  [mcmeta]
 minecraft:blocks/sand
 minecraft:blocks/sandstone_bottom
 minecraft:blocks/sandstone_carved
@@ -365,11 +334,6 @@ minecraft:blocks/stonebrick
 minecraft:blocks/stonebrick_carved
 minecraft:blocks/stonebrick_cracked
 minecraft:blocks/stonebrick_mossy
-minecraft:blocks/structure_block
-minecraft:blocks/structure_block_corner
-minecraft:blocks/structure_block_data
-minecraft:blocks/structure_block_load
-minecraft:blocks/structure_block_save
 minecraft:blocks/tallgrass
 minecraft:blocks/tnt_bottom
 minecraft:blocks/tnt_side
@@ -380,7 +344,6 @@ minecraft:blocks/trip_wire
 minecraft:blocks/trip_wire_source
 minecraft:blocks/vine
 minecraft:blocks/water_flow  [mcmeta]
-minecraft:blocks/water_overlay
 minecraft:blocks/water_still  [mcmeta]
 minecraft:blocks/waterlily
 minecraft:blocks/web
@@ -458,12 +421,6 @@ minecraft:entity/bat
 minecraft:entity/beacon_beam
 minecraft:entity/blaze
 minecraft:entity/boat
-minecraft:entity/boat/boat_acacia
-minecraft:entity/boat/boat_birch
-minecraft:entity/boat/boat_darkoak
-minecraft:entity/boat/boat_jungle
-minecraft:entity/boat/boat_oak
-minecraft:entity/boat/boat_spruce
 minecraft:entity/cat/black
 minecraft:entity/cat/ocelot
 minecraft:entity/cat/red
@@ -480,16 +437,13 @@ minecraft:entity/cow/cow
 minecraft:entity/cow/mooshroom
 minecraft:entity/creeper/creeper
 minecraft:entity/creeper/creeper_armor
-minecraft:entity/elytra
 minecraft:entity/enchanting_table_book
-minecraft:entity/end_gateway_beam
 minecraft:entity/end_portal
 minecraft:entity/endercrystal/endercrystal
 minecraft:entity/endercrystal/endercrystal_beam
 minecraft:entity/enderdragon/dragon
 minecraft:entity/enderdragon/dragon_exploding
 minecraft:entity/enderdragon/dragon_eyes
-minecraft:entity/enderdragon/dragon_fireball
 minecraft:entity/enderman/enderman
 minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
@@ -523,9 +477,6 @@ minecraft:entity/lead_knot
 minecraft:entity/minecart
 minecraft:entity/pig/pig
 minecraft:entity/pig/pig_saddle
-minecraft:entity/projectiles/arrow
-minecraft:entity/projectiles/spectral_arrow
-minecraft:entity/projectiles/tipped_arrow
 minecraft:entity/rabbit/black
 minecraft:entity/rabbit/brown
 minecraft:entity/rabbit/caerbannog
@@ -536,49 +487,6 @@ minecraft:entity/rabbit/white
 minecraft:entity/rabbit/white_splotched
 minecraft:entity/sheep/sheep
 minecraft:entity/sheep/sheep_fur
-minecraft:entity/shield/base
-minecraft:entity/shield/border
-minecraft:entity/shield/bricks
-minecraft:entity/shield/circle
-minecraft:entity/shield/creeper
-minecraft:entity/shield/cross
-minecraft:entity/shield/curly_border
-minecraft:entity/shield/diagonal_left
-minecraft:entity/shield/diagonal_right
-minecraft:entity/shield/diagonal_up_left
-minecraft:entity/shield/diagonal_up_right
-minecraft:entity/shield/flower
-minecraft:entity/shield/gradient
-minecraft:entity/shield/gradient_up
-minecraft:entity/shield/half_horizontal
-minecraft:entity/shield/half_horizontal_bottom
-minecraft:entity/shield/half_vertical
-minecraft:entity/shield/half_vertical_right
-minecraft:entity/shield/mojang
-minecraft:entity/shield/rhombus
-minecraft:entity/shield/skull
-minecraft:entity/shield/small_stripes
-minecraft:entity/shield/square_bottom_left
-minecraft:entity/shield/square_bottom_right
-minecraft:entity/shield/square_top_left
-minecraft:entity/shield/square_top_right
-minecraft:entity/shield/straight_cross
-minecraft:entity/shield/stripe_bottom
-minecraft:entity/shield/stripe_center
-minecraft:entity/shield/stripe_downleft
-minecraft:entity/shield/stripe_downright
-minecraft:entity/shield/stripe_left
-minecraft:entity/shield/stripe_middle
-minecraft:entity/shield/stripe_right
-minecraft:entity/shield/stripe_top
-minecraft:entity/shield/triangle_bottom
-minecraft:entity/shield/triangle_top
-minecraft:entity/shield/triangles_bottom
-minecraft:entity/shield/triangles_top
-minecraft:entity/shield_base
-minecraft:entity/shield_base_nopattern
-minecraft:entity/shulker/endergolem
-minecraft:entity/shulker/spark
 minecraft:entity/sign
 minecraft:entity/silverfish
 minecraft:entity/skeleton/skeleton
@@ -591,7 +499,6 @@ minecraft:entity/spider/spider
 minecraft:entity/spider_eyes
 minecraft:entity/squid
 minecraft:entity/steve
-minecraft:entity/sweep
 minecraft:entity/villager/butcher
 minecraft:entity/villager/farmer
 minecraft:entity/villager/librarian
@@ -609,12 +516,6 @@ minecraft:entity/wolf/wolf_tame
 minecraft:entity/zombie/zombie
 minecraft:entity/zombie/zombie_villager
 minecraft:entity/zombie_pigman
-minecraft:entity/zombie_villager/zombie_butcher
-minecraft:entity/zombie_villager/zombie_farmer
-minecraft:entity/zombie_villager/zombie_librarian
-minecraft:entity/zombie_villager/zombie_priest
-minecraft:entity/zombie_villager/zombie_smith
-minecraft:entity/zombie_villager/zombie_villager
 minecraft:environment/clouds
 minecraft:environment/end_sky
 minecraft:environment/moon_phases
@@ -847,7 +748,6 @@ minecraft:font/unicode_page_fe
 minecraft:font/unicode_page_ff
 minecraft:gui/achievement/achievement_background
 minecraft:gui/achievement/achievement_icons
-minecraft:gui/bars
 minecraft:gui/book
 minecraft:gui/container/anvil
 minecraft:gui/container/beacon
@@ -889,8 +789,6 @@ minecraft:gui/title/background/panorama_5
 minecraft:gui/title/minecraft
 minecraft:gui/title/mojang
 minecraft:gui/widgets
-minecraft:gui/world_selection
-minecraft:items/acacia_boat
 minecraft:items/apple
 minecraft:items/apple_golden
 minecraft:items/arrow
@@ -900,12 +798,9 @@ minecraft:items/barrier
 minecraft:items/bed
 minecraft:items/beef_cooked
 minecraft:items/beef_raw
-minecraft:items/beetroot
-minecraft:items/beetroot_seeds
-minecraft:items/beetroot_soup
-minecraft:items/birch_boat
 minecraft:items/blaze_powder
 minecraft:items/blaze_rod
+minecraft:items/boat
 minecraft:items/bone
 minecraft:items/book_enchanted
 minecraft:items/book_normal
@@ -919,7 +814,6 @@ minecraft:items/bowl
 minecraft:items/bread
 minecraft:items/brewing_stand
 minecraft:items/brick
-minecraft:items/broken_elytra
 minecraft:items/bucket_empty
 minecraft:items/bucket_lava
 minecraft:items/bucket_milk
@@ -936,109 +830,12 @@ minecraft:items/chainmail_leggings
 minecraft:items/charcoal
 minecraft:items/chicken_cooked
 minecraft:items/chicken_raw
-minecraft:items/chorus_fruit
-minecraft:items/chorus_fruit_popped
 minecraft:items/clay_ball
-minecraft:items/clock_00
-minecraft:items/clock_01
-minecraft:items/clock_02
-minecraft:items/clock_03
-minecraft:items/clock_04
-minecraft:items/clock_05
-minecraft:items/clock_06
-minecraft:items/clock_07
-minecraft:items/clock_08
-minecraft:items/clock_09
-minecraft:items/clock_10
-minecraft:items/clock_11
-minecraft:items/clock_12
-minecraft:items/clock_13
-minecraft:items/clock_14
-minecraft:items/clock_15
-minecraft:items/clock_16
-minecraft:items/clock_17
-minecraft:items/clock_18
-minecraft:items/clock_19
-minecraft:items/clock_20
-minecraft:items/clock_21
-minecraft:items/clock_22
-minecraft:items/clock_23
-minecraft:items/clock_24
-minecraft:items/clock_25
-minecraft:items/clock_26
-minecraft:items/clock_27
-minecraft:items/clock_28
-minecraft:items/clock_29
-minecraft:items/clock_30
-minecraft:items/clock_31
-minecraft:items/clock_32
-minecraft:items/clock_33
-minecraft:items/clock_34
-minecraft:items/clock_35
-minecraft:items/clock_36
-minecraft:items/clock_37
-minecraft:items/clock_38
-minecraft:items/clock_39
-minecraft:items/clock_40
-minecraft:items/clock_41
-minecraft:items/clock_42
-minecraft:items/clock_43
-minecraft:items/clock_44
-minecraft:items/clock_45
-minecraft:items/clock_46
-minecraft:items/clock_47
-minecraft:items/clock_48
-minecraft:items/clock_49
-minecraft:items/clock_50
-minecraft:items/clock_51
-minecraft:items/clock_52
-minecraft:items/clock_53
-minecraft:items/clock_54
-minecraft:items/clock_55
-minecraft:items/clock_56
-minecraft:items/clock_57
-minecraft:items/clock_58
-minecraft:items/clock_59
-minecraft:items/clock_60
-minecraft:items/clock_61
-minecraft:items/clock_62
-minecraft:items/clock_63
+minecraft:items/clock  [mcmeta]
 minecraft:items/coal
 minecraft:items/comparator
-minecraft:items/compass_00
-minecraft:items/compass_01
-minecraft:items/compass_02
-minecraft:items/compass_03
-minecraft:items/compass_04
-minecraft:items/compass_05
-minecraft:items/compass_06
-minecraft:items/compass_07
-minecraft:items/compass_08
-minecraft:items/compass_09
-minecraft:items/compass_10
-minecraft:items/compass_11
-minecraft:items/compass_12
-minecraft:items/compass_13
-minecraft:items/compass_14
-minecraft:items/compass_15
-minecraft:items/compass_16
-minecraft:items/compass_17
-minecraft:items/compass_18
-minecraft:items/compass_19
-minecraft:items/compass_20
-minecraft:items/compass_21
-minecraft:items/compass_22
-minecraft:items/compass_23
-minecraft:items/compass_24
-minecraft:items/compass_25
-minecraft:items/compass_26
-minecraft:items/compass_27
-minecraft:items/compass_28
-minecraft:items/compass_29
-minecraft:items/compass_30
-minecraft:items/compass_31
+minecraft:items/compass  [mcmeta]
 minecraft:items/cookie
-minecraft:items/dark_oak_boat
 minecraft:items/diamond
 minecraft:items/diamond_axe
 minecraft:items/diamond_boots
@@ -1057,7 +854,6 @@ minecraft:items/door_iron
 minecraft:items/door_jungle
 minecraft:items/door_spruce
 minecraft:items/door_wood
-minecraft:items/dragon_breath
 minecraft:items/dye_powder_black
 minecraft:items/dye_powder_blue
 minecraft:items/dye_powder_brown
@@ -1075,14 +871,11 @@ minecraft:items/dye_powder_silver
 minecraft:items/dye_powder_white
 minecraft:items/dye_powder_yellow
 minecraft:items/egg
-minecraft:items/elytra
 minecraft:items/emerald
 minecraft:items/empty_armor_slot_boots
 minecraft:items/empty_armor_slot_chestplate
 minecraft:items/empty_armor_slot_helmet
 minecraft:items/empty_armor_slot_leggings
-minecraft:items/empty_armor_slot_shield
-minecraft:items/end_crystal
 minecraft:items/ender_eye
 minecraft:items/ender_pearl
 minecraft:items/experience_bottle
@@ -1130,7 +923,6 @@ minecraft:items/iron_pickaxe
 minecraft:items/iron_shovel
 minecraft:items/iron_sword
 minecraft:items/item_frame
-minecraft:items/jungle_boat
 minecraft:items/lead
 minecraft:items/leather
 minecraft:items/leather_boots
@@ -1159,7 +951,6 @@ minecraft:items/name_tag
 minecraft:items/nether_star
 minecraft:items/nether_wart
 minecraft:items/netherbrick
-minecraft:items/oak_boat
 minecraft:items/painting
 minecraft:items/paper
 minecraft:items/porkchop_cooked
@@ -1169,13 +960,13 @@ minecraft:items/potato_baked
 minecraft:items/potato_poisonous
 minecraft:items/potion_bottle_drinkable
 minecraft:items/potion_bottle_empty
-minecraft:items/potion_bottle_lingering
 minecraft:items/potion_bottle_splash
 minecraft:items/potion_overlay
 minecraft:items/prismarine_crystals
 minecraft:items/prismarine_shard
 minecraft:items/pumpkin_pie
 minecraft:items/quartz
+minecraft:items/quiver
 minecraft:items/rabbit_cooked
 minecraft:items/rabbit_foot
 minecraft:items/rabbit_hide
@@ -1208,10 +999,8 @@ minecraft:items/slimeball
 minecraft:items/snowball
 minecraft:items/spawn_egg
 minecraft:items/spawn_egg_overlay
-minecraft:items/spectral_arrow
 minecraft:items/spider_eye
 minecraft:items/spider_eye_fermented
-minecraft:items/spruce_boat
 minecraft:items/stick
 minecraft:items/stone_axe
 minecraft:items/stone_hoe
@@ -1220,8 +1009,6 @@ minecraft:items/stone_shovel
 minecraft:items/stone_sword
 minecraft:items/string
 minecraft:items/sugar
-minecraft:items/tipped_arrow_base
-minecraft:items/tipped_arrow_head
 minecraft:items/wheat
 minecraft:items/wood_axe
 minecraft:items/wood_hoe

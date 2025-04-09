@@ -1,5 +1,0 @@
-minecraft:book
-minecraft:paper
-minecraft:map
-minecraft:compass
-minecraft:enchanted_book

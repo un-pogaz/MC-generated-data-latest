@@ -1,0 +1,7 @@
+{
+  "category": "block",
+  "sounds": [
+    "random/door_close",
+    "random/door_open"
+  ]
+}

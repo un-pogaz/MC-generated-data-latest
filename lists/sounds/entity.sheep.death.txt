@@ -1,3 +1,0 @@
-minecraft:mob/sheep/say1
-minecraft:mob/sheep/say2
-minecraft:mob/sheep/say3

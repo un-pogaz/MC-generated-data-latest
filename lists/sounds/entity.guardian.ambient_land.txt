@@ -1,4 +1,0 @@
-minecraft:mob/guardian/land_idle1
-minecraft:mob/guardian/land_idle2
-minecraft:mob/guardian/land_idle3
-minecraft:mob/guardian/land_idle4

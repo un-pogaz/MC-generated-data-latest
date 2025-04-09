@@ -1,3 +1,0 @@
-minecraft:block/wooden_trapdoor/close1
-minecraft:block/wooden_trapdoor/close2
-minecraft:block/wooden_trapdoor/close3

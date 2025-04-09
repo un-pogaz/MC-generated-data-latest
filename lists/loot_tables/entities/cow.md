@@ -1,7 +1,0 @@
-| Name              | Count | Chance | Weight | Comment                                                      |
-| ----------------- | ----- | ------ | ------ | ------------------------------------------------------------ |
-| 1 time            |    -- |     -- |     -- |                                                              |
-| minecraft:leather |  0..2 |   100% |      1 | add drop: 0..1 * level {enchantment: looting}                |
-| – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –  |
-| 1 time            |    -- |     -- |     -- |                                                              |
-| minecraft:beef    |  1..3 |   100% |      1 | furnace smelt, add drop: 0..1 * level {enchantment: looting} |

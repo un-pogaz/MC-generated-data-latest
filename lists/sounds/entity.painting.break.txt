@@ -1,3 +1,0 @@
-minecraft:entity/painting/break1
-minecraft:entity/painting/break2
-minecraft:entity/painting/break3

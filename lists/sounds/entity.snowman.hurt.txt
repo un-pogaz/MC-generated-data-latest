@@ -1,3 +1,0 @@
-minecraft:entity/snowman/hurt1
-minecraft:entity/snowman/hurt2
-minecraft:entity/snowman/hurt3

@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/skeleton/step1",
-    "mob/skeleton/step2",
-    "mob/skeleton/step3",
-    "mob/skeleton/step4"
-  ],
-  "subtitle": "subtitles.block.generic.footsteps"
-}

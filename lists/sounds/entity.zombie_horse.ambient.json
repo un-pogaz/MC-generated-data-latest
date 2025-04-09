@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "mob/horse/zombie/idle1",
-    "mob/horse/zombie/idle2",
-    "mob/horse/zombie/idle3"
-  ],
-  "subtitle": "subtitles.entity.zombie_horse.ambient"
-}

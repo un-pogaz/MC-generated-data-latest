@@ -1,4 +1,0 @@
-minecraft:item/hoe/till1
-minecraft:item/hoe/till2
-minecraft:item/hoe/till3
-minecraft:item/hoe/till4

@@ -1,3 +1,0 @@
-minecraft:entity/leashknot/break1
-minecraft:entity/leashknot/break2
-minecraft:entity/leashknot/break3

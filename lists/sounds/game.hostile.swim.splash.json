@@ -1,0 +1,7 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "liquid/splash",
+    "liquid/splash2"
+  ]
+}

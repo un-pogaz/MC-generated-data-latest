@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "entity/armorstand/break1",
-    "entity/armorstand/break2",
-    "entity/armorstand/break3",
-    "entity/armorstand/break4"
-  ],
-  "subtitle": "subtitles.block.generic.break"
-}

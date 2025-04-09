@@ -1,5 +1,0 @@
-minecraft:entity/shulker/close1
-minecraft:entity/shulker/close2
-minecraft:entity/shulker/close3
-minecraft:entity/shulker/close4
-minecraft:entity/shulker/close5

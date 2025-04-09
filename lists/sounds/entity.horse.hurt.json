@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "mob/horse/hit1",
-    "mob/horse/hit2",
-    "mob/horse/hit3",
-    "mob/horse/hit4"
-  ],
-  "subtitle": "subtitles.entity.horse.hurt"
-}
