@@ -1,0 +1,5 @@
+minecraft:mob/pig/step1
+minecraft:mob/pig/step2
+minecraft:mob/pig/step3
+minecraft:mob/pig/step4
+minecraft:mob/pig/step5

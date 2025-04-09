@@ -1,0 +1,4 @@
+minecraft:mob/enderdragon/hit1
+minecraft:mob/enderdragon/hit2
+minecraft:mob/enderdragon/hit3
+minecraft:mob/enderdragon/hit4

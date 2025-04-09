@@ -1,0 +1,6 @@
+minecraft:mob/horse/wood1
+minecraft:mob/horse/wood2
+minecraft:mob/horse/wood3
+minecraft:mob/horse/wood4
+minecraft:mob/horse/wood5
+minecraft:mob/horse/wood6

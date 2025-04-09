@@ -1,0 +1,9 @@
+{
+  "category": "record",
+  "sounds": [
+    {
+      "name": "records/chirp",
+      "stream": true
+    }
+  ]
+}

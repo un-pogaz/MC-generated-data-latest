@@ -1,0 +1,4 @@
+minecraft:mob/skeleton/hurt1
+minecraft:mob/skeleton/hurt2
+minecraft:mob/skeleton/hurt3
+minecraft:mob/skeleton/hurt4

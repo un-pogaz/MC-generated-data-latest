@@ -1,0 +1,2 @@
+minecraft:mob/cat/purreow1
+minecraft:mob/cat/purreow2

@@ -1,0 +1,6 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "mob/silverfish/kill"
+  ]
+}

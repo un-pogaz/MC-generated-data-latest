@@ -1,0 +1,6 @@
+minecraft:mob/horse/soft1
+minecraft:mob/horse/soft2
+minecraft:mob/horse/soft3
+minecraft:mob/horse/soft4
+minecraft:mob/horse/soft5
+minecraft:mob/horse/soft6

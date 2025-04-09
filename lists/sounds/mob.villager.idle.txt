@@ -1,0 +1,3 @@
+minecraft:mob/villager/idle1
+minecraft:mob/villager/idle2
+minecraft:mob/villager/idle3

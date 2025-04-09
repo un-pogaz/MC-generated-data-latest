@@ -1,0 +1,10 @@
+{
+  "category": "neutral",
+  "sounds": [
+    "mob/sheep/step1",
+    "mob/sheep/step2",
+    "mob/sheep/step3",
+    "mob/sheep/step4",
+    "mob/sheep/step5"
+  ]
+}

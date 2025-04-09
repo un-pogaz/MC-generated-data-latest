@@ -1,0 +1,4 @@
+minecraft:mob/cow/say1
+minecraft:mob/cow/say2
+minecraft:mob/cow/say3
+minecraft:mob/cow/say4

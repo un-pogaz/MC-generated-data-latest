@@ -1,0 +1,9 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "mob/spider/say1",
+    "mob/spider/say2",
+    "mob/spider/say3",
+    "mob/spider/say4"
+  ]
+}

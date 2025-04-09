@@ -1,0 +1,7 @@
+minecraft:mob/ghast/moan1
+minecraft:mob/ghast/moan2
+minecraft:mob/ghast/moan3
+minecraft:mob/ghast/moan4
+minecraft:mob/ghast/moan5
+minecraft:mob/ghast/moan6
+minecraft:mob/ghast/moan7

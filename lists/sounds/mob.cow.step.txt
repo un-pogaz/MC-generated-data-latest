@@ -1,0 +1,4 @@
+minecraft:mob/cow/step1
+minecraft:mob/cow/step2
+minecraft:mob/cow/step3
+minecraft:mob/cow/step4

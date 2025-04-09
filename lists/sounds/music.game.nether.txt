@@ -1,0 +1,4 @@
+minecraft:music/game/nether/nether1
+minecraft:music/game/nether/nether2
+minecraft:music/game/nether/nether3
+minecraft:music/game/nether/nether4

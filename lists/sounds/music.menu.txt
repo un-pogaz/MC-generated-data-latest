@@ -1,0 +1,4 @@
+minecraft:music/menu/menu1
+minecraft:music/menu/menu2
+minecraft:music/menu/menu3
+minecraft:music/menu/menu4

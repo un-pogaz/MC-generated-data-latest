@@ -1,0 +1,6 @@
+minecraft:step/wood1
+minecraft:step/wood2
+minecraft:step/wood3
+minecraft:step/wood4
+minecraft:step/wood5
+minecraft:step/wood6

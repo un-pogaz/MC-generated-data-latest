@@ -1,0 +1,3 @@
+minecraft:mob/wolf/growl1
+minecraft:mob/wolf/growl2
+minecraft:mob/wolf/growl3

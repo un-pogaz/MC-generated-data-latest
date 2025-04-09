@@ -1,0 +1,4 @@
+minecraft:dig/gravel1
+minecraft:dig/gravel2
+minecraft:dig/gravel3
+minecraft:dig/gravel4

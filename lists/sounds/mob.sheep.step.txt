@@ -1,0 +1,5 @@
+minecraft:mob/sheep/step1
+minecraft:mob/sheep/step2
+minecraft:mob/sheep/step3
+minecraft:mob/sheep/step4
+minecraft:mob/sheep/step5

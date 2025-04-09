@@ -1,0 +1,2 @@
+minecraft:mob/wolf/howl1
+minecraft:mob/wolf/howl2

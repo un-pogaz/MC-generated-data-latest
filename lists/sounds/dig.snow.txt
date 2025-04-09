@@ -1,0 +1,4 @@
+minecraft:dig/snow1
+minecraft:dig/snow2
+minecraft:dig/snow3
+minecraft:dig/snow4
