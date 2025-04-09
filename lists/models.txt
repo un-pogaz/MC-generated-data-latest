@@ -513,6 +513,7 @@ minecraft:block/oak_sapling
 minecraft:block/oak_stairs
 minecraft:block/oak_wall_gate_closed
 minecraft:block/oak_wall_gate_open
+minecraft:block/observer
 minecraft:block/obsidian
 minecraft:block/orange_stained_glass_pane_noside
 minecraft:block/orange_stained_glass_pane_noside_alt
@@ -1284,6 +1285,7 @@ minecraft:item/oak_planks
 minecraft:item/oak_sapling
 minecraft:item/oak_slab
 minecraft:item/oak_stairs
+minecraft:item/observer
 minecraft:item/obsidian
 minecraft:item/orange_carpet
 minecraft:item/orange_stained_glass
@@ -1380,6 +1382,8 @@ minecraft:item/sea_lantern
 minecraft:item/shears
 minecraft:item/shield
 minecraft:item/shield_blocking
+minecraft:item/shulker_box
+minecraft:item/shulker_shell
 minecraft:item/sign
 minecraft:item/silver_carpet
 minecraft:item/silver_stained_glass
@@ -1445,6 +1449,7 @@ minecraft:item/tipped_arrow
 minecraft:item/tnt
 minecraft:item/tnt_minecart
 minecraft:item/torch
+minecraft:item/totem
 minecraft:item/trapdoor
 minecraft:item/trapped_chest
 minecraft:item/tripwire_hook

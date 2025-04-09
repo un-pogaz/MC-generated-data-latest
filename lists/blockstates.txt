@@ -215,6 +215,7 @@ minecraft:oak_planks
 minecraft:oak_sapling
 minecraft:oak_slab
 minecraft:oak_stairs
+minecraft:observer
 minecraft:obsidian
 minecraft:orange_carpet
 minecraft:orange_stained_glass

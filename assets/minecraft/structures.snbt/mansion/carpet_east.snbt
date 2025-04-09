@@ -1,0 +1,54 @@
+{
+  size: [2, 1, 5],
+  entities: [],
+  blocks: [
+    {
+      pos: [1, 0, 0],
+      state: 0
+    },
+    {
+      pos: [0, 0, 1],
+      state: 1
+    },
+    {
+      pos: [1, 0, 1],
+      state: 1
+    },
+    {
+      pos: [0, 0, 2],
+      state: 1
+    },
+    {
+      pos: [1, 0, 2],
+      state: 1
+    },
+    {
+      pos: [0, 0, 3],
+      state: 1
+    },
+    {
+      pos: [1, 0, 3],
+      state: 1
+    },
+    {
+      pos: [1, 0, 4],
+      state: 0
+    }
+  ],
+  author: "Player640",
+  palette: [
+    {
+      Properties: {
+        color: "white"
+      },
+      Name: "minecraft:carpet"
+    },
+    {
+      Properties: {
+        color: "red"
+      },
+      Name: "minecraft:carpet"
+    }
+  ],
+  version: 1
+}
