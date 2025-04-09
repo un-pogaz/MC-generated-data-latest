@@ -706,6 +706,7 @@ minecraft:zombie_wall_head
 #minecraft:logs
 #minecraft:oak_logs
 #minecraft:planks
+#minecraft:portals
 #minecraft:rails
 #minecraft:sand
 #minecraft:saplings
