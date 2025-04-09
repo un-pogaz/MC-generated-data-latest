@@ -5,6 +5,7 @@ minecraft:block/cube
 minecraft:block/flower
 minecraft:block/grass
 minecraft:block/leaves
+minecraft:block/missingno
 minecraft:block/tallgrass
 minecraft:block/torch1
 minecraft:block/torch2
