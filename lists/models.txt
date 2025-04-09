@@ -404,6 +404,7 @@ minecraft:block/half_slab_jungle
 minecraft:block/half_slab_nether_brick
 minecraft:block/half_slab_oak
 minecraft:block/half_slab_quartz
+minecraft:block/half_slab_red_sandstone
 minecraft:block/half_slab_sandstone
 minecraft:block/half_slab_spruce
 minecraft:block/half_slab_stone
@@ -639,6 +640,13 @@ minecraft:block/red_pane_ns
 minecraft:block/red_pane_nse
 minecraft:block/red_pane_nsew
 minecraft:block/red_sand
+minecraft:block/red_sandstone_all
+minecraft:block/red_sandstone_chiseled
+minecraft:block/red_sandstone_inner_stairs
+minecraft:block/red_sandstone_normal
+minecraft:block/red_sandstone_outer_stairs
+minecraft:block/red_sandstone_smooth
+minecraft:block/red_sandstone_stairs
 minecraft:block/red_tulip
 minecraft:block/red_wool
 minecraft:block/redstone_block
@@ -796,6 +804,7 @@ minecraft:block/upper_slab_jungle
 minecraft:block/upper_slab_nether_brick
 minecraft:block/upper_slab_oak
 minecraft:block/upper_slab_quartz
+minecraft:block/upper_slab_red_sandstone
 minecraft:block/upper_slab_sandstone
 minecraft:block/upper_slab_spruce
 minecraft:block/upper_slab_stone
@@ -878,6 +887,7 @@ minecraft:item/anvil_intact
 minecraft:item/anvil_slightly_damaged
 minecraft:item/anvil_very_damaged
 minecraft:item/apple
+minecraft:item/armor_stand
 minecraft:item/arrow
 minecraft:item/baked_potato
 minecraft:item/banner
@@ -945,6 +955,7 @@ minecraft:item/chest_minecart
 minecraft:item/chicken
 minecraft:item/chiseled_brick_monster_egg
 minecraft:item/chiseled_quartz_block
+minecraft:item/chiseled_red_sandstone
 minecraft:item/chiseled_sandstone
 minecraft:item/chiseled_stonebrick
 minecraft:item/clay
@@ -1251,6 +1262,9 @@ minecraft:item/red_carpet
 minecraft:item/red_mushroom
 minecraft:item/red_mushroom_block
 minecraft:item/red_sand
+minecraft:item/red_sandstone
+minecraft:item/red_sandstone_slab
+minecraft:item/red_sandstone_stairs
 minecraft:item/red_stained_glass
 minecraft:item/red_stained_glass_pane
 minecraft:item/red_stained_hardened_clay
@@ -1285,6 +1299,7 @@ minecraft:item/skull_wither
 minecraft:item/skull_zombie
 minecraft:item/slime
 minecraft:item/slime_ball
+minecraft:item/smooth_red_sandstone
 minecraft:item/smooth_sandstone
 minecraft:item/snow
 minecraft:item/snow_layer

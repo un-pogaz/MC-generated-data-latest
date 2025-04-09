@@ -275,6 +275,11 @@ minecraft:blocks/rail_golden_powered
 minecraft:blocks/rail_normal
 minecraft:blocks/rail_normal_turned
 minecraft:blocks/red_sand
+minecraft:blocks/red_sandstone_bottom
+minecraft:blocks/red_sandstone_carved
+minecraft:blocks/red_sandstone_normal
+minecraft:blocks/red_sandstone_smooth
+minecraft:blocks/red_sandstone_top
 minecraft:blocks/redstone_block
 minecraft:blocks/redstone_dust_cross
 minecraft:blocks/redstone_dust_cross_overlay
@@ -359,6 +364,7 @@ minecraft:blocks/wool_colored_yellow
 minecraft:colormap/foliage
 minecraft:colormap/grass
 minecraft:effect/dither
+minecraft:entity/armorstand/wood
 minecraft:entity/arrow
 minecraft:entity/banner/base
 minecraft:entity/banner/border
@@ -993,6 +999,7 @@ minecraft:items/wood_hoe
 minecraft:items/wood_pickaxe
 minecraft:items/wood_shovel
 minecraft:items/wood_sword
+minecraft:items/wooden_armorstand
 minecraft:map/map_background
 minecraft:map/map_icons
 minecraft:misc/enchanted_item_glint  [mcmeta]
