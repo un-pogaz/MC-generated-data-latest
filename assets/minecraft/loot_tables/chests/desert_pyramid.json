@@ -3,7 +3,7 @@
         {
             "rolls": {
                 "min": 2,
-                "max": 6
+                "max": 4
             },
             "entries": [
                 {
@@ -18,7 +18,7 @@
                             }
                         }
                     ],
-                    "weight": 3
+                    "weight": 5
                 },
                 {
                     "type": "item",
@@ -32,7 +32,7 @@
                             }
                         }
                     ],
-                    "weight": 10
+                    "weight": 15
                 },
                 {
                     "type": "item",
@@ -60,7 +60,7 @@
                             }
                         }
                     ],
-                    "weight": 2
+                    "weight": 15
                 },
                 {
                     "type": "item",
@@ -74,7 +74,21 @@
                             }
                         }
                     ],
-                    "weight": 20
+                    "weight": 25
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:spider_eye",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 3
+                            }
+                        }
+                    ],
+                    "weight": 25
                 },
                 {
                     "type": "item",
@@ -88,37 +102,130 @@
                             }
                         }
                     ],
-                    "weight": 16
+                    "weight": 25
                 },
                 {
                     "type": "item",
                     "name": "minecraft:saddle",
-                    "weight": 3
+                    "weight": 20
                 },
                 {
                     "type": "item",
                     "name": "minecraft:iron_horse_armor",
-                    "weight": 1
+                    "weight": 15
                 },
                 {
                     "type": "item",
                     "name": "minecraft:golden_horse_armor",
-                    "weight": 1
+                    "weight": 10
                 },
                 {
                     "type": "item",
                     "name": "minecraft:diamond_horse_armor",
-                    "weight": 1
+                    "weight": 5
                 },
                 {
                     "type": "item",
                     "name": "minecraft:book",
-                    "weight": 1,
+                    "weight": 20,
                     "functions": [
                         {
-                            "function": "enchant_with_levels",
-                            "levels": 30,
-                            "treasure": true
+                            "function": "enchant_randomly"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:golden_apple",
+                    "weight": 20
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:golden_apple",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "set_data",
+                            "data": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "empty",
+                    "weight": 15
+                }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:bone",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:gunpowder",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:rotten_flesh",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:string",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:sand",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 8
+                            }
                         }
                     ]
                 }

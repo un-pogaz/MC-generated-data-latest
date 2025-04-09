@@ -1081,6 +1081,7 @@ minecraft:items/empty_armor_slot_chestplate
 minecraft:items/empty_armor_slot_helmet
 minecraft:items/empty_armor_slot_leggings
 minecraft:items/empty_armor_slot_shield
+minecraft:items/end_crystal
 minecraft:items/ender_eye
 minecraft:items/ender_pearl
 minecraft:items/experience_bottle
