@@ -1,6 +1,6 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
-    "useAmbientOcclusion": false,
+    "rotateVariantTextures": false,
     "elements": [
         {   "__comment": "Left-hand post",
             "type": "cube",
