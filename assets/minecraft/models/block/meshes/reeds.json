@@ -8,6 +8,7 @@
             "to": [ 16, 16, 8 ],
             "facing": "south",
             "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "down",
@@ -20,6 +21,7 @@
             "to": [ 16, 16, 8 ],
             "facing": "north",
             "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "down",
@@ -32,6 +34,7 @@
             "to": [ 8, 16, 16 ],
             "facing": "east",
             "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "down",
@@ -44,6 +47,7 @@
             "to": [ 8, 16, 16 ],
             "facing": "west",
             "rotation": [ 0, 45, 0 ],
+            "rescaleRotation": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "down",

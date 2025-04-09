@@ -21,7 +21,6 @@
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "south",
-		"tint": true,
                 "cull": false
             }
         },
@@ -43,7 +42,6 @@
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
                 "textureFacing": "south",
-		"tint": true,
                 "cull": false
             }
         }

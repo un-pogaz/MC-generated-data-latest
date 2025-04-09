@@ -7,9 +7,18 @@
             "from": [ 0, 1, 0 ],
             "to": [ 16, 1, 16 ],
             "facing": "up",
-            "twoSided": true,
             "faceData": {
                 "uv": [ 0, 0, 16, 16 ],
+                "textureFacing": "down",
+                "cull": false
+            }
+        },
+        {   "type": "plane",
+            "from": [ 0, 1, 0 ],
+            "to": [ 16, 1, 16 ],
+            "facing": "down",
+            "faceData": {
+                "uv": [ 0, 16, 16, 0 ],
                 "textureFacing": "down",
                 "cull": false
             }
