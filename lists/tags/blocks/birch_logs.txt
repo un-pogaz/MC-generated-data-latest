@@ -1,0 +1,3 @@
+minecraft:birch_log
+minecraft:birch_bark
+minecraft:stripped_birch_log
