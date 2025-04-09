@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:bed"
         },
-        "title": "Sweet dreams",
-        "description": "Change your respawn point"
+        "title": {
+            "translate": "advancements.adventure.sleep_in_bed.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.sleep_in_bed.description"
+        }
     },
     "parent": "adventure/root",
     "criteria": {

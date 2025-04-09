@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:nether_brick"
         },
-        "title": "A Terrible Fortress",
-        "description": "Break your way into a Nether Fortress"
+        "title": {
+            "translate": "advancements.nether.find_fortress.title"
+        },
+        "description": {
+            "translate": "advancements.nether.find_fortress.description"
+        }
     },
     "parent": "minecraft:nether/root",
     "criteria": {

@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:enchanted_book"
         },
-        "title": "Enchanter",
-        "description": "Enchant an item at an Enchanting Table"
+        "title": {
+            "translate": "advancements.story.enchant_item.title"
+        },
+        "description": {
+            "translate": "advancements.story.enchant_item.description"
+        }
     },
     "parent": "minecraft:story/mine_diamond",
     "criteria": {

@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:potion"
         },
-        "title": "Local Brewery",
-        "description": "Brew a potion"
+        "title": {
+            "translate": "advancements.nether.brew_potion.title"
+        },
+        "description": {
+            "translate": "advancements.nether.brew_potion.description"
+        }
     },
     "parent": "minecraft:nether/obtain_blaze_rod",
     "criteria": {

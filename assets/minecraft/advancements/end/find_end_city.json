@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:purpur_block"
         },
-        "title": "City at the End of the Game",
-        "description": "Go on in, what could happen?"
+        "title": {
+            "translate": "advancements.end.find_end_city.title"
+        },
+        "description": {
+            "translate": "advancements.end.find_end_city.description"
+        }
     },
     "parent": "minecraft:end/enter_end_gateway",
     "criteria": {

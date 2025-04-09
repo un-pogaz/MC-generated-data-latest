@@ -4,8 +4,12 @@
             "item": "minecraft:skull",
             "data": 5
         },
-        "title": "Free the End",
-        "description": "Good luck"
+        "title": {
+            "translate": "advancements.end.kill_dragon.title"
+        },
+        "description": {
+            "translate": "advancements.end.kill_dragon.description"
+        }
     },
     "parent": "end/root",
     "criteria": {

@@ -89,7 +89,7 @@
             "childs": {
               "minecraft:end/find_end_city": {
                 "icon": "minecraft:purpur_block",
-                "title": "City at the End of the Game",
+                "title": "The City at the End of the Game",
                 "description": "Go on in, what could happen?",
                 "frame": "task",
                 "childs": {

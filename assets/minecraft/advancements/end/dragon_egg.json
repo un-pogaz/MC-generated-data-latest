@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:dragon_egg"
         },
-        "title": "The Next Generation",
-        "description": "Hold the Dragon Egg",
+        "title": {
+            "translate": "advancements.end.dragon_egg.title"
+        },
+        "description": {
+            "translate": "advancements.end.dragon_egg.description"
+        },
         "frame": "goal"
     },
     "parent": "end/kill_dragon",

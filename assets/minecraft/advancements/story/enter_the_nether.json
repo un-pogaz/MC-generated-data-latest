@@ -3,15 +3,19 @@
         "icon": {
             "item": "minecraft:flint_and_steel"
         },
-        "title": "We Need to Go Deeper",
-        "description": "Build, light and enter a Nether Portal"
+        "title": {
+            "translate": "advancements.story.enter_the_nether.title"
+        },
+        "description": {
+            "translate": "advancements.story.enter_the_nether.description"
+        }
     },
     "parent": "minecraft:story/form_obsidian",
     "criteria": {
-        "entered_nether_portal": {
-            "trigger": "minecraft:enter_block",
+        "entered_nether": {
+            "trigger": "minecraft:changed_dimension",
             "conditions": {
-                "block": "minecraft:portal"
+                "to": "the_nether"
             }
         }
     }

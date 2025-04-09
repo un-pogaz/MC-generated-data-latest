@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:iron_chestplate"
         },
-        "title": "Suit Up",
-        "description": "Protect yourself with a piece of iron armor"
+        "title": {
+            "translate": "advancements.story.obtain_armor.title"
+        },
+        "description": {
+            "translate": "advancements.story.obtain_armor.description"
+        }
     },
     "parent": "minecraft:story/smelt_iron",
     "criteria": {

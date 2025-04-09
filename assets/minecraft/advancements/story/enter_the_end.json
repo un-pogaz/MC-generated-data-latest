@@ -3,15 +3,19 @@
         "icon": {
             "item": "minecraft:end_stone"
         },
-        "title": "The End?",
-        "description": "Enter the End Portal"
+        "title": {
+            "translate": "advancements.story.enter_the_end.title"
+        },
+        "description": {
+            "translate": "advancements.story.enter_the_end.description"
+        }
     },
     "parent": "minecraft:story/follow_ender_eye",
     "criteria": {
-        "entered_end_portal": {
-            "trigger": "minecraft:enter_block",
+        "entered_end": {
+            "trigger": "minecraft:changed_dimension",
             "conditions": {
-                "block": "minecraft:end_portal"
+                "to": "the_end"
             }
         }
     }

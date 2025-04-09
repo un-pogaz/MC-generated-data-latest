@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:emerald"
         },
-        "title": "What a Deal!",
-        "description": "Successfully trade with a Villager"
+        "title": {
+            "translate": "advancements.adventure.trade.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.trade.description"
+        }
     },
     "parent": "adventure/root",
     "criteria": {

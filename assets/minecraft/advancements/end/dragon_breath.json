@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:dragon_breath"
         },
-        "title": "You Need a Mint",
-        "description": "Collect dragon's breath in a glass bottle",
+        "title": {
+            "translate": "advancements.end.dragon_breath.title"
+        },
+        "description": {
+            "translate": "advancements.end.dragon_breath.description"
+        },
         "frame": "goal"
     },
     "parent": "end/kill_dragon",

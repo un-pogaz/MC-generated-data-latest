@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:elytra"
         },
-        "title": "Sky's the Limit",
-        "description": "Find an Elytra",
+        "title": {
+            "translate": "advancements.end.elytra.title"
+        },
+        "description": {
+            "translate": "advancements.end.elytra.description"
+        },
         "frame": "goal"
     },
     "parent": "minecraft:end/find_end_city",

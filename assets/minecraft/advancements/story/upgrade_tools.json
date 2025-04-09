@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:stone_pickaxe"
         },
-        "title": "Getting an Upgrade",
-        "description": "Construct a better pickaxe"
+        "title": {
+            "translate": "advancements.story.upgrade_tools.title"
+        },
+        "description": {
+            "translate": "advancements.story.upgrade_tools.description"
+        }
     },
     "parent": "minecraft:story/mine_stone",
     "criteria": {

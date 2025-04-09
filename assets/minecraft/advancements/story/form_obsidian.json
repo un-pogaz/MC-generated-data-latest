@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:obsidian"
         },
-        "title": "Ice Bucket Challenge",
-        "description": "Form and mine a block of Obsidian"
+        "title": {
+            "translate": "advancements.story.form_obsidian.title"
+        },
+        "description": {
+            "translate": "advancements.story.form_obsidian.description"
+        }
     },
     "parent": "minecraft:story/lava_bucket",
     "criteria": {

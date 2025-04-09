@@ -3,8 +3,12 @@
         "icon": {
             "item": "minecraft:nether_star"
         },
-        "title": "Withering Heights",
-        "description": "Summon the Wither"
+        "title": {
+            "translate": "advancements.nether.summon_wither.title"
+        },
+        "description": {
+            "translate": "advancements.nether.summon_wither.description"
+        }
     },
     "parent": "minecraft:nether/get_wither_skull",
     "criteria": {
