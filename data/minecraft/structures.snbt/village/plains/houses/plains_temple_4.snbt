@@ -867,6 +867,10 @@
       state: 0
     },
     {
+      pos: [3, 6, 5],
+      state: 0
+    },
+    {
       pos: [4, 6, 5],
       state: 0
     },
@@ -880,10 +884,6 @@
     },
     {
       pos: [2, 8, 5],
-      state: 0
-    },
-    {
-      pos: [3, 8, 5],
       state: 0
     },
     {
@@ -975,15 +975,14 @@
         Fuel: 0b,
         Items: [],
         id: "minecraft:brewing_stand",
-        BrewTime: 0s,
-        Lock: ""
+        BrewTime: 0s
       },
       pos: [4, 1, 2],
       state: 1
     },
     {
       nbt: {
-        target_pool: "minecraft:village/plains/streets",
+        target_pool: "minecraft:empty",
         final_state: "minecraft:air",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
@@ -2772,10 +2771,6 @@
       state: 3
     },
     {
-      pos: [3, 6, 5],
-      state: 4
-    },
-    {
       pos: [5, 6, 5],
       state: 3
     },
@@ -2805,7 +2800,7 @@
     },
     {
       pos: [3, 7, 5],
-      state: 5
+      state: 4
     },
     {
       pos: [5, 7, 5],
@@ -2834,6 +2829,10 @@
     {
       pos: [1, 8, 5],
       state: 23
+    },
+    {
+      pos: [3, 8, 5],
+      state: 5
     },
     {
       pos: [5, 8, 5],
@@ -3567,5 +3566,5 @@
       Name: "minecraft:grass"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1931
 }

@@ -137,6 +137,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/iron_golem",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 7],
+      state: 4
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/common/cats",
         final_state: "minecraft:grass_block",
         id: "minecraft:jigsaw",
@@ -412,10 +422,6 @@
       state: 12
     },
     {
-      pos: [1, 0, 7],
-      state: 9
-    },
-    {
       pos: [2, 0, 7],
       state: 9
     },
@@ -434,6 +440,10 @@
     {
       pos: [7, 0, 7],
       state: 9
+    },
+    {
+      pos: [1, 1, 7],
+      state: 14
     },
     {
       pos: [4, 1, 7],
@@ -577,7 +587,10 @@
     },
     {
       Name: "minecraft:torch"
+    },
+    {
+      Name: "minecraft:air"
     }
   ],
-  DataVersion: 1930
+  DataVersion: 1931
 }
