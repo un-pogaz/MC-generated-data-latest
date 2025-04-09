@@ -6,5 +6,5 @@
     "liquid/swim4",
     "liquid/swim5"
   ],
-  "subtitles": "subtitles.entity.drowned.swim"
+  "subtitle": "subtitles.entity.drowned.swim"
 }
