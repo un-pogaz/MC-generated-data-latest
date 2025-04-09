@@ -934,11 +934,11 @@
     },
     {
       pos: [0, 1, 8],
-      state: 5
+      state: 13
     },
     {
       pos: [4, 1, 8],
-      state: 13
+      state: 14
     },
     {
       pos: [8, 1, 8],
@@ -1007,7 +1007,10 @@
       Name: "minecraft:jigsaw"
     },
     {
-      Name: "minecraft:grass"
+      Properties: {
+        level: "0"
+      },
+      Name: "minecraft:composter"
     },
     {
       Properties: {
@@ -1058,6 +1061,9 @@
       Name: "minecraft:acacia_stairs"
     },
     {
+      Name: "minecraft:grass"
+    },
+    {
       Properties: {
         half: "bottom",
         waterlogged: "false",
@@ -1067,5 +1073,5 @@
       Name: "minecraft:acacia_stairs"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1919
 }
