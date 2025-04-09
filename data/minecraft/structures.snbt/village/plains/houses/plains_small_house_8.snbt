@@ -726,7 +726,7 @@
     },
     {
       nbt: {
-        target_pool: "minecraft:streets",
+        target_pool: "minecraft:empty",
         final_state: "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
@@ -1578,7 +1578,7 @@
     },
     {
       pos: [0, 5, 4],
-      state: 11
+      state: 24
     },
     {
       pos: [2, 5, 4],
