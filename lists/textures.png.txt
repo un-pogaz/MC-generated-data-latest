@@ -73,7 +73,6 @@ minecraft:blocks/door_dark_oak_lower
 minecraft:blocks/door_dark_oak_upper
 minecraft:blocks/door_iron_lower
 minecraft:blocks/door_iron_upper
-minecraft:blocks/door_jungle_inner
 minecraft:blocks/door_jungle_lower
 minecraft:blocks/door_jungle_upper
 minecraft:blocks/door_spruce_lower

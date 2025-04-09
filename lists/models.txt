@@ -231,16 +231,8 @@ minecraft:block/diorite_smooth
 minecraft:block/dirt
 minecraft:block/dispenser
 minecraft:block/dispenser_vertical
-minecraft:block/door_acacia_bottom
-minecraft:block/door_acacia_bottom_rh
-minecraft:block/door_acacia_top
-minecraft:block/door_acacia_top_rh
 minecraft:block/door_bottom
 minecraft:block/door_bottom_rh
-minecraft:block/door_jungle_bottom
-minecraft:block/door_jungle_bottom_rh
-minecraft:block/door_jungle_top
-minecraft:block/door_jungle_top_rh
 minecraft:block/door_top
 minecraft:block/door_top_rh
 minecraft:block/double_fern_bottom
@@ -1289,6 +1281,7 @@ minecraft:item/nether_wart
 minecraft:item/netherbrick
 minecraft:item/netherrack
 minecraft:item/noteblock
+minecraft:item/oak_door
 minecraft:item/oak_fence
 minecraft:item/oak_fence_gate
 minecraft:item/oak_leaves
@@ -1462,7 +1455,6 @@ minecraft:item/white_wool
 minecraft:item/wood_old_slab
 minecraft:item/wooden_axe
 minecraft:item/wooden_button
-minecraft:item/wooden_door
 minecraft:item/wooden_hoe
 minecraft:item/wooden_pickaxe
 minecraft:item/wooden_pressure_plate
