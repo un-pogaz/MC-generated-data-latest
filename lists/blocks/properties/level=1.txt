@@ -1,3 +1,0 @@
-minecraft:cauldron
-minecraft:lava
-minecraft:water

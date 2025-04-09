@@ -1,6 +1,0 @@
-type=top,waterlogged=true
-type=top,waterlogged=false
-type=bottom,waterlogged=true
-type=bottom,waterlogged=false  [default]
-type=double,waterlogged=true
-type=double,waterlogged=false

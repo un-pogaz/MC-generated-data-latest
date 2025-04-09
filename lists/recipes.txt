@@ -1,4 +1,3 @@
-minecraft:acacia_bark
 minecraft:acacia_boat
 minecraft:acacia_button
 minecraft:acacia_door
@@ -9,6 +8,7 @@ minecraft:acacia_pressure_plate
 minecraft:acacia_slab
 minecraft:acacia_stairs
 minecraft:acacia_trapdoor
+minecraft:acacia_wood
 minecraft:activator_rail
 minecraft:andesite
 minecraft:anvil
@@ -20,7 +20,6 @@ minecraft:banner_add_pattern
 minecraft:banner_duplicate
 minecraft:beacon
 minecraft:beetroot_soup
-minecraft:birch_bark
 minecraft:birch_boat
 minecraft:birch_button
 minecraft:birch_door
@@ -31,6 +30,7 @@ minecraft:birch_pressure_plate
 minecraft:birch_slab
 minecraft:birch_stairs
 minecraft:birch_trapdoor
+minecraft:birch_wood
 minecraft:black_banner
 minecraft:black_bed
 minecraft:black_bed_from_white_bed
@@ -89,7 +89,6 @@ minecraft:chiseled_quartz_block
 minecraft:chiseled_red_sandstone
 minecraft:chiseled_sandstone
 minecraft:chiseled_stone_bricks
-minecraft:chorus_fruit_popped
 minecraft:clay
 minecraft:clock
 minecraft:coal
@@ -125,7 +124,6 @@ minecraft:cyan_stained_glass
 minecraft:cyan_stained_glass_pane
 minecraft:cyan_terracotta
 minecraft:cyan_wool
-minecraft:dark_oak_bark
 minecraft:dark_oak_boat
 minecraft:dark_oak_button
 minecraft:dark_oak_door
@@ -136,6 +134,7 @@ minecraft:dark_oak_pressure_plate
 minecraft:dark_oak_slab
 minecraft:dark_oak_stairs
 minecraft:dark_oak_trapdoor
+minecraft:dark_oak_wood
 minecraft:dark_prismarine
 minecraft:dark_prismarine_slab
 minecraft:dark_prismarine_stairs
@@ -247,7 +246,6 @@ minecraft:iron_trapdoor
 minecraft:item_frame
 minecraft:jack_o_lantern
 minecraft:jukebox
-minecraft:jungle_bark
 minecraft:jungle_boat
 minecraft:jungle_button
 minecraft:jungle_door
@@ -258,6 +256,7 @@ minecraft:jungle_pressure_plate
 minecraft:jungle_slab
 minecraft:jungle_stairs
 minecraft:jungle_trapdoor
+minecraft:jungle_wood
 minecraft:ladder
 minecraft:lapis_block
 minecraft:lapis_from_smelting
@@ -343,7 +342,6 @@ minecraft:nether_brick_stairs
 minecraft:nether_bricks
 minecraft:nether_wart_block
 minecraft:note_block
-minecraft:oak_bark
 minecraft:oak_boat
 minecraft:oak_button
 minecraft:oak_door
@@ -354,6 +352,7 @@ minecraft:oak_pressure_plate
 minecraft:oak_slab
 minecraft:oak_stairs
 minecraft:oak_trapdoor
+minecraft:oak_wood
 minecraft:observer
 minecraft:orange_banner
 minecraft:orange_bed
@@ -387,6 +386,7 @@ minecraft:piston
 minecraft:polished_andesite
 minecraft:polished_diorite
 minecraft:polished_granite
+minecraft:popped_chorus_fruit
 minecraft:powered_rail
 minecraft:prismarine
 minecraft:prismarine_brick_slab
@@ -460,7 +460,6 @@ minecraft:snow
 minecraft:snow_block
 minecraft:spectral_arrow
 minecraft:sponge
-minecraft:spruce_bark
 minecraft:spruce_boat
 minecraft:spruce_button
 minecraft:spruce_door
@@ -471,6 +470,7 @@ minecraft:spruce_pressure_plate
 minecraft:spruce_slab
 minecraft:spruce_stairs
 minecraft:spruce_trapdoor
+minecraft:spruce_wood
 minecraft:stick
 minecraft:sticky_piston
 minecraft:stone
