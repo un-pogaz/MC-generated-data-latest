@@ -142,6 +142,7 @@ minecraft:block/cauldron_empty
 minecraft:block/cauldron_level1
 minecraft:block/cauldron_level2
 minecraft:block/cauldron_level3
+minecraft:block/chain_command_block
 minecraft:block/chorus_flower
 minecraft:block/chorus_flower_dead
 minecraft:block/chorus_plant
@@ -180,6 +181,7 @@ minecraft:block/cube
 minecraft:block/cube_all
 minecraft:block/cube_bottom_top
 minecraft:block/cube_column
+minecraft:block/cube_directional
 minecraft:block/cube_mirrored
 minecraft:block/cube_mirrored_all
 minecraft:block/cube_top
@@ -667,6 +669,7 @@ minecraft:block/repeater_on_locked_1tick
 minecraft:block/repeater_on_locked_2tick
 minecraft:block/repeater_on_locked_3tick
 minecraft:block/repeater_on_locked_4tick
+minecraft:block/repeating_command_block
 minecraft:block/sand
 minecraft:block/sandstone_all
 minecraft:block/sandstone_chiseled
@@ -934,6 +937,7 @@ minecraft:item/cake
 minecraft:item/carrot
 minecraft:item/carrot_on_a_stick
 minecraft:item/cauldron
+minecraft:item/chain_command_block
 minecraft:item/chainmail_boots
 minecraft:item/chainmail_chestplate
 minecraft:item/chainmail_helmet
@@ -1383,6 +1387,7 @@ minecraft:item/redstone_ore
 minecraft:item/redstone_torch
 minecraft:item/reeds
 minecraft:item/repeater
+minecraft:item/repeating_command_block
 minecraft:item/rotten_flesh
 minecraft:item/saddle
 minecraft:item/salmon

@@ -33,6 +33,9 @@ minecraft:blocks/cauldron_bottom
 minecraft:blocks/cauldron_inner
 minecraft:blocks/cauldron_side
 minecraft:blocks/cauldron_top
+minecraft:blocks/chain_command_block_back  [mcmeta]
+minecraft:blocks/chain_command_block_front  [mcmeta]
+minecraft:blocks/chain_command_block_side  [mcmeta]
 minecraft:blocks/chorus_flower
 minecraft:blocks/chorus_flower_dead
 minecraft:blocks/chorus_plant
@@ -45,7 +48,9 @@ minecraft:blocks/cobblestone_mossy
 minecraft:blocks/cocoa_stage_0
 minecraft:blocks/cocoa_stage_1
 minecraft:blocks/cocoa_stage_2
-minecraft:blocks/command_block
+minecraft:blocks/command_block_back  [mcmeta]
+minecraft:blocks/command_block_front  [mcmeta]
+minecraft:blocks/command_block_side  [mcmeta]
 minecraft:blocks/comparator_off
 minecraft:blocks/comparator_on
 minecraft:blocks/crafting_table_front
@@ -318,6 +323,9 @@ minecraft:blocks/redstone_torch_on
 minecraft:blocks/reeds
 minecraft:blocks/repeater_off
 minecraft:blocks/repeater_on
+minecraft:blocks/repeating_command_block_back  [mcmeta]
+minecraft:blocks/repeating_command_block_front  [mcmeta]
+minecraft:blocks/repeating_command_block_side  [mcmeta]
 minecraft:blocks/sand
 minecraft:blocks/sandstone_bottom
 minecraft:blocks/sandstone_carved

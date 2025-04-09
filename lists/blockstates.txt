@@ -54,6 +54,7 @@ minecraft:cactus
 minecraft:cake
 minecraft:carrots
 minecraft:cauldron
+minecraft:chain_command_block
 minecraft:chiseled_brick_monster_egg
 minecraft:chiseled_quartz_block
 minecraft:chiseled_red_sandstone
@@ -274,6 +275,7 @@ minecraft:redstone_ore
 minecraft:redstone_torch
 minecraft:redstone_wire
 minecraft:reeds
+minecraft:repeating_command_block
 minecraft:sand
 minecraft:sandstone
 minecraft:sandstone_double_slab
