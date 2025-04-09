@@ -1,3 +1,4 @@
+minecraft:acacia_door
 minecraft:acacia_double_slab
 minecraft:acacia_fence
 minecraft:acacia_fence_gate
@@ -14,6 +15,7 @@ minecraft:anvil
 minecraft:beacon
 minecraft:bed
 minecraft:bedrock
+minecraft:birch_door
 minecraft:birch_double_slab
 minecraft:birch_fence
 minecraft:birch_fence_gate
@@ -76,6 +78,7 @@ minecraft:cyan_stained_glass_pane
 minecraft:cyan_stained_hardened_clay
 minecraft:cyan_wool
 minecraft:dandelion
+minecraft:dark_oak_door
 minecraft:dark_oak_double_slab
 minecraft:dark_oak_fence
 minecraft:dark_oak_fence_gate
@@ -144,6 +147,7 @@ minecraft:iron_ore
 minecraft:iron_trapdoor
 minecraft:item_frame
 minecraft:jukebox
+minecraft:jungle_door
 minecraft:jungle_double_slab
 minecraft:jungle_fence
 minecraft:jungle_fence_gate
@@ -280,6 +284,7 @@ minecraft:snow
 minecraft:snow_layer
 minecraft:soul_sand
 minecraft:sponge
+minecraft:spruce_door
 minecraft:spruce_double_slab
 minecraft:spruce_fence
 minecraft:spruce_fence_gate

@@ -1,4 +1,8 @@
 minecraft:block/acacia_bark
+minecraft:block/acacia_door_bottom
+minecraft:block/acacia_door_bottom_rh
+minecraft:block/acacia_door_top
+minecraft:block/acacia_door_top_rh
 minecraft:block/acacia_fence_gate_closed
 minecraft:block/acacia_fence_gate_open
 minecraft:block/acacia_fence_inventory
@@ -42,6 +46,10 @@ minecraft:block/bed_head
 minecraft:block/bedrock
 minecraft:block/bedrock_mirrored
 minecraft:block/birch_bark
+minecraft:block/birch_door_bottom
+minecraft:block/birch_door_bottom_rh
+minecraft:block/birch_door_top
+minecraft:block/birch_door_top_rh
 minecraft:block/birch_fence_gate_closed
 minecraft:block/birch_fence_gate_open
 minecraft:block/birch_fence_inventory
@@ -184,6 +192,10 @@ minecraft:block/cyan_wool
 minecraft:block/daisy
 minecraft:block/dandelion
 minecraft:block/dark_oak_bark
+minecraft:block/dark_oak_door_bottom
+minecraft:block/dark_oak_door_bottom_rh
+minecraft:block/dark_oak_door_top
+minecraft:block/dark_oak_door_top_rh
 minecraft:block/dark_oak_fence_gate_closed
 minecraft:block/dark_oak_fence_gate_open
 minecraft:block/dark_oak_fence_inventory
@@ -219,8 +231,16 @@ minecraft:block/diorite_smooth
 minecraft:block/dirt
 minecraft:block/dispenser
 minecraft:block/dispenser_vertical
+minecraft:block/door_acacia_bottom
+minecraft:block/door_acacia_bottom_rh
+minecraft:block/door_acacia_top
+minecraft:block/door_acacia_top_rh
 minecraft:block/door_bottom
 minecraft:block/door_bottom_rh
+minecraft:block/door_jungle_bottom
+minecraft:block/door_jungle_bottom_rh
+minecraft:block/door_jungle_top
+minecraft:block/door_jungle_top_rh
 minecraft:block/door_top
 minecraft:block/door_top_rh
 minecraft:block/double_fern_bottom
@@ -482,6 +502,10 @@ minecraft:block/item_frame
 minecraft:block/item_frame_map
 minecraft:block/jukebox
 minecraft:block/jungle_bark
+minecraft:block/jungle_door_bottom
+minecraft:block/jungle_door_bottom_rh
+minecraft:block/jungle_door_top
+minecraft:block/jungle_door_top_rh
 minecraft:block/jungle_fence_gate_closed
 minecraft:block/jungle_fence_gate_open
 minecraft:block/jungle_fence_inventory
@@ -775,6 +799,10 @@ minecraft:block/soul_sand
 minecraft:block/sponge
 minecraft:block/sponge_wet
 minecraft:block/spruce_bark
+minecraft:block/spruce_door_bottom
+minecraft:block/spruce_door_bottom_rh
+minecraft:block/spruce_door_top
+minecraft:block/spruce_door_top_rh
 minecraft:block/spruce_fence_gate_closed
 minecraft:block/spruce_fence_gate_open
 minecraft:block/spruce_fence_inventory
@@ -932,6 +960,7 @@ minecraft:block/yellow_pane_ns
 minecraft:block/yellow_pane_nse
 minecraft:block/yellow_pane_nsew
 minecraft:block/yellow_wool
+minecraft:item/acacia_door
 minecraft:item/acacia_fence
 minecraft:item/acacia_fence_gate
 minecraft:item/acacia_leaves
@@ -957,6 +986,7 @@ minecraft:item/beacon
 minecraft:item/bed
 minecraft:item/bedrock
 minecraft:item/beef
+minecraft:item/birch_door
 minecraft:item/birch_fence
 minecraft:item/birch_fence_gate
 minecraft:item/birch_leaves
@@ -1055,6 +1085,7 @@ minecraft:item/cyan_stained_glass_pane
 minecraft:item/cyan_stained_hardened_clay
 minecraft:item/cyan_wool
 minecraft:item/dandelion
+minecraft:item/dark_oak_door
 minecraft:item/dark_oak_fence
 minecraft:item/dark_oak_fence_gate
 minecraft:item/dark_oak_leaves
@@ -1195,6 +1226,7 @@ minecraft:item/iron_sword
 minecraft:item/iron_trapdoor
 minecraft:item/item_frame
 minecraft:item/jukebox
+minecraft:item/jungle_door
 minecraft:item/jungle_fence
 minecraft:item/jungle_fence_gate
 minecraft:item/jungle_leaves
@@ -1266,6 +1298,7 @@ minecraft:item/oak_sapling
 minecraft:item/oak_slab
 minecraft:item/oak_stairs
 minecraft:item/obsidian
+minecraft:item/old_wood_slab
 minecraft:item/orange_carpet
 minecraft:item/orange_stained_glass
 minecraft:item/orange_stained_glass_pane
@@ -1377,6 +1410,7 @@ minecraft:item/speckled_melon
 minecraft:item/spider_eye
 minecraft:item/sponge
 minecraft:item/sponge_wet
+minecraft:item/spruce_door
 minecraft:item/spruce_fence
 minecraft:item/spruce_fence_gate
 minecraft:item/spruce_leaves
@@ -1425,6 +1459,7 @@ minecraft:item/white_stained_glass_pane
 minecraft:item/white_stained_hardened_clay
 minecraft:item/white_tulip
 minecraft:item/white_wool
+minecraft:item/wood_old_slab
 minecraft:item/wooden_axe
 minecraft:item/wooden_button
 minecraft:item/wooden_door
