@@ -502,6 +502,7 @@ minecraft:blocks/sandstone
 minecraft:blocks/sandstone_slab
 minecraft:blocks/sandstone_stairs
 minecraft:blocks/sandstone_wall
+minecraft:blocks/scaffolding
 minecraft:blocks/sea_lantern
 minecraft:blocks/sea_pickle
 minecraft:blocks/seagrass
