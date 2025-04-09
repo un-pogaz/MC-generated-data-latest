@@ -1,7 +1,6 @@
 {
   size: [8, 1, 8],
   entities: [],
-  author: "Player783",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -265,5 +264,5 @@
       Name: "minecraft:dark_oak_planks"
     }
   ],
-  DataVersion: 1457
+  DataVersion: 1970
 }
