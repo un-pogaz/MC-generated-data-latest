@@ -14,6 +14,9 @@ minecraft:birch_stairs
 minecraft:birch_trapdoor
 minecraft:birch_wall_sign
 minecraft:black_stained_glass_pane
+minecraft:blackstone_slab
+minecraft:blackstone_stairs
+minecraft:blackstone_wall
 minecraft:blue_stained_glass_pane
 minecraft:brain_coral
 minecraft:brain_coral_fan
@@ -116,6 +119,12 @@ minecraft:petrified_oak_slab
 minecraft:pink_stained_glass_pane
 minecraft:polished_andesite_slab
 minecraft:polished_andesite_stairs
+minecraft:polished_blackstone_brick_slab
+minecraft:polished_blackstone_brick_stairs
+minecraft:polished_blackstone_brick_wall
+minecraft:polished_blackstone_slab
+minecraft:polished_blackstone_stairs
+minecraft:polished_blackstone_wall
 minecraft:polished_diorite_slab
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_slab
@@ -149,6 +158,7 @@ minecraft:smooth_red_sandstone_stairs
 minecraft:smooth_sandstone_slab
 minecraft:smooth_sandstone_stairs
 minecraft:smooth_stone_slab
+minecraft:soul_campfire
 minecraft:spruce_fence
 minecraft:spruce_sign
 minecraft:spruce_slab

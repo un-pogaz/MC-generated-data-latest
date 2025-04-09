@@ -5,6 +5,7 @@ minecraft:andesite_stairs
 minecraft:birch_door
 minecraft:birch_stairs
 minecraft:birch_trapdoor
+minecraft:blackstone_stairs
 minecraft:brick_stairs
 minecraft:cobblestone_stairs
 minecraft:crimson_door
@@ -32,6 +33,8 @@ minecraft:oak_stairs
 minecraft:oak_trapdoor
 minecraft:peony
 minecraft:polished_andesite_stairs
+minecraft:polished_blackstone_brick_stairs
+minecraft:polished_blackstone_stairs
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_stairs
 minecraft:prismarine_brick_stairs
