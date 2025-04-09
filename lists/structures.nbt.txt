@@ -106,7 +106,6 @@ minecraft:mansion/roof
 minecraft:mansion/roof_corner
 minecraft:mansion/roof_front
 minecraft:mansion/roof_inner_corner
-minecraft:mansion/room_template
 minecraft:mansion/small_wall
 minecraft:mansion/small_wall_corner
 minecraft:mansion/wall_corner
