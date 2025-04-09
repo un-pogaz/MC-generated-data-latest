@@ -1,9 +1,17 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
-    "variants": {
-        "rot0": { "model": "waterlily", "y": 180 },
-        "rot1": { "model": "waterlily", "y": 90 },
-        "rot2": { "model": "waterlily" },
-        "rot3": { "model": "waterlily", "y": 270 }
-    }
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/waterlily",
+        "texture": "blocks/waterlily"
+    },
+    "elements": [
+        {   "from": [ 0, 0.25, 0 ],
+            "to": [ 16, 0.25, 16 ],
+            "faces": {
+                "down":  { "uv": [ 16, 16, 0,  0 ], "texture": "#texture", "tintindex": 0 },
+                "up":    { "uv": [ 16,  0, 0, 16 ], "texture": "#texture", "tintindex": 0 }
+            }
+        }
+    ]
 }

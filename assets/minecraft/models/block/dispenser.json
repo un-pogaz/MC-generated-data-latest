@@ -1,11 +1,9 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
-    "variants": {
-        "down":  { "model": "cube" },
-        "up":    { "model": "cube" },
-        "north": { "model": "cube" },
-        "south": { "model": "cube" },
-        "west":  { "model": "cube" },
-        "east":  { "model": "cube" }
+    "parent": "block/orientable",
+    "textures": {
+        "top": "blocks/furnace_top",
+        "front": "blocks/dispenser_front_horizontal",
+        "side": "blocks/furnace_side"
     }
 }

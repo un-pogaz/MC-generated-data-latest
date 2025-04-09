@@ -32,6 +32,7 @@ minecraft:blocks/cauldron_top
 minecraft:blocks/clay
 minecraft:blocks/coal_block
 minecraft:blocks/coal_ore
+minecraft:blocks/coarse_dirt
 minecraft:blocks/cobblestone
 minecraft:blocks/cobblestone_mossy
 minecraft:blocks/cocoa_stage_0
@@ -193,17 +194,11 @@ minecraft:blocks/lapis_ore
 minecraft:blocks/lava_flow  [mcmeta]
 minecraft:blocks/lava_still  [mcmeta]
 minecraft:blocks/leaves_acacia
-minecraft:blocks/leaves_acacia_opaque
 minecraft:blocks/leaves_big_oak
-minecraft:blocks/leaves_big_oak_opaque
 minecraft:blocks/leaves_birch
-minecraft:blocks/leaves_birch_opaque
 minecraft:blocks/leaves_jungle
-minecraft:blocks/leaves_jungle_opaque
 minecraft:blocks/leaves_oak
-minecraft:blocks/leaves_oak_opaque
 minecraft:blocks/leaves_spruce
-minecraft:blocks/leaves_spruce_opaque
 minecraft:blocks/lever
 minecraft:blocks/log_acacia
 minecraft:blocks/log_acacia_top
@@ -253,6 +248,9 @@ minecraft:blocks/potatoes_stage_0
 minecraft:blocks/potatoes_stage_1
 minecraft:blocks/potatoes_stage_2
 minecraft:blocks/potatoes_stage_3
+minecraft:blocks/prismarine_bricks
+minecraft:blocks/prismarine_dark
+minecraft:blocks/prismarine_rough  [mcmeta]
 minecraft:blocks/pumpkin_face_off
 minecraft:blocks/pumpkin_face_on
 minecraft:blocks/pumpkin_side
@@ -301,10 +299,12 @@ minecraft:blocks/sapling_jungle
 minecraft:blocks/sapling_oak
 minecraft:blocks/sapling_roofed_oak
 minecraft:blocks/sapling_spruce
+minecraft:blocks/sea_lantern  [mcmeta]
 minecraft:blocks/slime
 minecraft:blocks/snow
 minecraft:blocks/soul_sand
 minecraft:blocks/sponge
+minecraft:blocks/sponge_wet
 minecraft:blocks/stone
 minecraft:blocks/stone_andesite
 minecraft:blocks/stone_andesite_smooth
@@ -393,6 +393,9 @@ minecraft:entity/experience_orb
 minecraft:entity/explosion
 minecraft:entity/ghast/ghast
 minecraft:entity/ghast/ghast_shooting
+minecraft:entity/guardian
+minecraft:entity/guardian_beam
+minecraft:entity/guardian_elder
 minecraft:entity/horse/armor/horse_armor_diamond
 minecraft:entity/horse/armor/horse_armor_gold
 minecraft:entity/horse/armor/horse_armor_iron
@@ -884,6 +887,8 @@ minecraft:items/potion_bottle_drinkable
 minecraft:items/potion_bottle_empty
 minecraft:items/potion_bottle_splash
 minecraft:items/potion_overlay
+minecraft:items/prismarine_crystals
+minecraft:items/prismarine_shard
 minecraft:items/pumpkin_pie
 minecraft:items/quartz
 minecraft:items/quiver

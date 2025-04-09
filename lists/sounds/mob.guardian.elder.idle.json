@@ -1,0 +1,9 @@
+{
+  "category": "hostile",
+  "sounds": [
+    "mob/guardian/elder_idle1",
+    "mob/guardian/elder_idle2",
+    "mob/guardian/elder_idle3",
+    "mob/guardian/elder_idle4"
+  ]
+}
