@@ -16,6 +16,10 @@
       "inner_right",
       "outer_left",
       "outer_right"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
     ]
   }
 }
