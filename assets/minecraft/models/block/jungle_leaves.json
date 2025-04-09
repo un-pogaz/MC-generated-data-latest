@@ -2,6 +2,6 @@
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "parent": "block/leaves",
     "textures": {
-        "all": "blocks/leaves_oak"
+        "all": "blocks/leaves_jungle"
     }
 }

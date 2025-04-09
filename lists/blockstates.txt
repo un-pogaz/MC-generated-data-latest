@@ -45,7 +45,6 @@ minecraft:brown_stained_hardened_clay
 minecraft:brown_wool
 minecraft:cactus
 minecraft:cake
-minecraft:carpet
 minecraft:carrots
 minecraft:cauldron
 minecraft:chiseled_monster_egg
@@ -90,10 +89,7 @@ minecraft:dirt
 minecraft:dispenser
 minecraft:double_fern
 minecraft:double_grass
-minecraft:double_plant
 minecraft:double_rose
-minecraft:double_stone_slab
-minecraft:double_wooden_slab
 minecraft:dragon_egg
 minecraft:dropper
 minecraft:emerald_block
@@ -174,7 +170,6 @@ minecraft:magenta_stained_hardened_clay
 minecraft:magenta_wool
 minecraft:melon_block
 minecraft:melon_stem
-minecraft:missingno
 minecraft:mob_spawner
 minecraft:mossy_brick_monster_egg
 minecraft:mossy_cobblestone
@@ -236,7 +231,6 @@ minecraft:quartz_slab
 minecraft:quartz_stairs
 minecraft:rail
 minecraft:red_carpet
-minecraft:red_flower
 minecraft:red_mushroom
 minecraft:red_mushroom_block
 minecraft:red_sand
@@ -314,8 +308,6 @@ minecraft:wood_old_slab
 minecraft:wooden_button
 minecraft:wooden_door
 minecraft:wooden_pressure_plate
-minecraft:wooden_slab
-minecraft:wool
 minecraft:yellow_carpet
 minecraft:yellow_stained_glass
 minecraft:yellow_stained_glass_pane
