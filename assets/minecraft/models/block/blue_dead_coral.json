@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/dead_coral"
+        "all": "blocks/blue_dead_coral"
     }
 }
