@@ -15,6 +15,7 @@ minecraft:anvil
 minecraft:beacon
 minecraft:bed
 minecraft:bedrock
+minecraft:beetroots
 minecraft:birch_door
 minecraft:birch_double_slab
 minecraft:birch_fence
@@ -58,6 +59,8 @@ minecraft:chiseled_quartz_block
 minecraft:chiseled_red_sandstone
 minecraft:chiseled_sandstone
 minecraft:chiseled_stonebrick
+minecraft:chorus_flower
+minecraft:chorus_plant
 minecraft:clay
 minecraft:coal_block
 minecraft:coal_ore
@@ -106,7 +109,9 @@ minecraft:dropper
 minecraft:emerald_block
 minecraft:emerald_ore
 minecraft:enchanting_table
+minecraft:end_bricks
 minecraft:end_portal_frame
+minecraft:end_rod
 minecraft:end_stone
 minecraft:farmland
 minecraft:fence
@@ -123,6 +128,7 @@ minecraft:gold_ore
 minecraft:golden_rail
 minecraft:granite
 minecraft:grass
+minecraft:grass_path
 minecraft:gravel
 minecraft:gray_carpet
 minecraft:gray_stained_glass
@@ -237,6 +243,11 @@ minecraft:purple_stained_glass
 minecraft:purple_stained_glass_pane
 minecraft:purple_stained_hardened_clay
 minecraft:purple_wool
+minecraft:purpur_block
+minecraft:purpur_double_slab
+minecraft:purpur_pillar
+minecraft:purpur_slab
+minecraft:purpur_stairs
 minecraft:quartz_block
 minecraft:quartz_column
 minecraft:quartz_double_slab
@@ -307,6 +318,7 @@ minecraft:stone_pressure_plate
 minecraft:stone_slab
 minecraft:stone_stairs
 minecraft:stonebrick
+minecraft:structure_block
 minecraft:sunflower
 minecraft:syringa
 minecraft:tall_grass
