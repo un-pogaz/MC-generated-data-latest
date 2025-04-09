@@ -1,0 +1,99 @@
+drop block <targetPos minecraft:block_pos> distribute award <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> distribute fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> distribute fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> distribute fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> distribute fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> distribute kill <target minecraft:entity[amount="single", type="entities"]>
+drop block <targetPos minecraft:block_pos> distribute loot <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> distribute mine <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> distribute mine <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> distribute mine <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> distribute mine <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> award <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> kill <target minecraft:entity[amount="single", type="entities"]>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> loot <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> mine <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> mine <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> mine <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> mine <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace award <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace kill <target minecraft:entity[amount="single", type="entities"]>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace loot <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace mine <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace mine <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace mine <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> replace mine <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> award <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> kill <target minecraft:entity[amount="single", type="entities"]>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> loot <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> mine <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> mine <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> mine <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> mine <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace award <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace kill <target minecraft:entity[amount="single", type="entities"]>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace loot <loot_table minecraft:resource_location>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace mine <pos minecraft:block_pos>
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace mine <pos minecraft:block_pos> mainhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace mine <pos minecraft:block_pos> offhand
+drop block <targetPos minecraft:block_pos> insert <slot minecraft:item_slot> <count brigadier:integer[min="0"]> replace mine <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> award <loot_table minecraft:resource_location>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> kill <target minecraft:entity[amount="single", type="entities"]>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> loot <loot_table minecraft:resource_location>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> mine <pos minecraft:block_pos>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> mine <pos minecraft:block_pos> mainhand
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> mine <pos minecraft:block_pos> offhand
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> mine <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> award <loot_table minecraft:resource_location>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> kill <target minecraft:entity[amount="single", type="entities"]>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> loot <loot_table minecraft:resource_location>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> mine <pos minecraft:block_pos>
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> mine <pos minecraft:block_pos> mainhand
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> mine <pos minecraft:block_pos> offhand
+drop entity <entities minecraft:entity[amount="multiple", type="entities"]> <slot minecraft:item_slot> <count brigadier:integer[min="0"]> mine <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop player <players minecraft:entity[amount="multiple", type="players"]> award <loot_table minecraft:resource_location>
+drop player <players minecraft:entity[amount="multiple", type="players"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop player <players minecraft:entity[amount="multiple", type="players"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop player <players minecraft:entity[amount="multiple", type="players"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop player <players minecraft:entity[amount="multiple", type="players"]> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop player <players minecraft:entity[amount="multiple", type="players"]> kill <target minecraft:entity[amount="single", type="entities"]>
+drop player <players minecraft:entity[amount="multiple", type="players"]> loot <loot_table minecraft:resource_location>
+drop player <players minecraft:entity[amount="multiple", type="players"]> mine <pos minecraft:block_pos>
+drop player <players minecraft:entity[amount="multiple", type="players"]> mine <pos minecraft:block_pos> mainhand
+drop player <players minecraft:entity[amount="multiple", type="players"]> mine <pos minecraft:block_pos> offhand
+drop player <players minecraft:entity[amount="multiple", type="players"]> mine <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop world <targetPos minecraft:vec3> award <loot_table minecraft:resource_location>
+drop world <targetPos minecraft:vec3> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos>
+drop world <targetPos minecraft:vec3> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> mainhand
+drop world <targetPos minecraft:vec3> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> offhand
+drop world <targetPos minecraft:vec3> fish <loot_table minecraft:resource_location> <pos minecraft:block_pos> <tool minecraft:item_stack>
+drop world <targetPos minecraft:vec3> kill <target minecraft:entity[amount="single", type="entities"]>
+drop world <targetPos minecraft:vec3> loot <loot_table minecraft:resource_location>
+drop world <targetPos minecraft:vec3> mine <pos minecraft:block_pos>
+drop world <targetPos minecraft:vec3> mine <pos minecraft:block_pos> mainhand
+drop world <targetPos minecraft:vec3> mine <pos minecraft:block_pos> offhand
+drop world <targetPos minecraft:vec3> mine <pos minecraft:block_pos> <tool minecraft:item_stack>

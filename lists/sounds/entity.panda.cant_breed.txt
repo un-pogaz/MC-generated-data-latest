@@ -1,0 +1,5 @@
+minecraft:mob/panda/cant_breed1
+minecraft:mob/panda/cant_breed2
+minecraft:mob/panda/cant_breed3
+minecraft:mob/panda/cant_breed4
+minecraft:mob/panda/cant_breed5

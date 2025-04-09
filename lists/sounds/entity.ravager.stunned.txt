@@ -1,0 +1,3 @@
+minecraft:mob/ravager/stun1
+minecraft:mob/ravager/stun2
+minecraft:mob/ravager/stun3

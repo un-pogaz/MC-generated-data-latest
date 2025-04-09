@@ -1,0 +1,4 @@
+minecraft:mob/panda/death1
+minecraft:mob/panda/death2
+minecraft:mob/panda/death3
+minecraft:mob/panda/death4

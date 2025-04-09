@@ -1,0 +1,12 @@
+minecraft:mob/panda/eat1
+minecraft:mob/panda/eat2
+minecraft:mob/panda/eat3
+minecraft:mob/panda/eat4
+minecraft:mob/panda/eat5
+minecraft:mob/panda/eat6
+minecraft:mob/panda/eat7
+minecraft:mob/panda/eat8
+minecraft:mob/panda/eat9
+minecraft:mob/panda/eat10
+minecraft:mob/panda/eat11
+minecraft:mob/panda/eat12

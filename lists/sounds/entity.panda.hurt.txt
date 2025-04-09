@@ -1,0 +1,6 @@
+minecraft:mob/panda/hurt1
+minecraft:mob/panda/hurt2
+minecraft:mob/panda/hurt3
+minecraft:mob/panda/hurt4
+minecraft:mob/panda/hurt5
+minecraft:mob/panda/hurt6

@@ -1,0 +1,3 @@
+minecraft:mob/fox/bite1
+minecraft:mob/fox/bite2
+minecraft:mob/fox/bite3

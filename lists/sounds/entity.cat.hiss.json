@@ -1,7 +1,16 @@
 {
   "sounds": [
-    "mob/cat/hiss1",
-    "mob/cat/hiss2",
-    "mob/cat/hiss3"
+    {
+      "name": "mob/cat/hiss1",
+      "volume": 0.4
+    },
+    {
+      "name": "mob/cat/hiss2",
+      "volume": 0.4
+    },
+    {
+      "name": "mob/cat/hiss3",
+      "volume": 0.4
+    }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "sounds": [
+    {
+      "name": "item/plant/crop1",
+      "volume": 0.45
+    },
+    {
+      "name": "item/plant/crop2",
+      "volume": 0.45
+    },
+    {
+      "name": "item/plant/crop3",
+      "volume": 0.45
+    },
+    {
+      "name": "item/plant/crop4",
+      "volume": 0.45
+    },
+    {
+      "name": "item/plant/crop5",
+      "volume": 0.45
+    },
+    {
+      "name": "item/plant/crop6",
+      "volume": 0.45
+    },
+    {
+      "name": "item/plant/crop1",
+      "volume": 0.45,
+      "pitch": 1.2
+    },
+    {
+      "name": "item/plant/crop2",
+      "volume": 0.45,
+      "pitch": 1.2
+    },
+    {
+      "name": "item/plant/crop3",
+      "volume": 0.45,
+      "pitch": 1.2
+    },
+    {
+      "name": "item/plant/crop4",
+      "volume": 0.45,
+      "pitch": 1.2
+    },
+    {
+      "name": "item/plant/crop5",
+      "volume": 0.45,
+      "pitch": 1.2
+    },
+    {
+      "name": "item/plant/crop6",
+      "volume": 0.45,
+      "pitch": 1.2
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

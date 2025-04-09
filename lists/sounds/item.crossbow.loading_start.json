@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "item/crossbow/loading_start",
+      "volume": 0.3,
+      "pitch": 1
+    }
+  ],
+  "subtitle": "subtitles.item.crossbow.charge"
+}

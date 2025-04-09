@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/mooshroom/convert1",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/mooshroom/convert2",
+      "volume": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.mooshroom.convert"
+}

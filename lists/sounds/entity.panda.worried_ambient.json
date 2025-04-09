@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/panda/worried/worried2",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/worried/worried3",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/worried/worried4",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/worried/worried5",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/worried/worried6",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/pant2",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.panda.worried_ambient"
+}

@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/panda/bite1",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/bite2",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/bite3",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.panda.bite"
+}

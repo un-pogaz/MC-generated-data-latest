@@ -1,0 +1,4 @@
+minecraft:ui/stonecutter/cut1
+minecraft:ui/stonecutter/cut1
+minecraft:ui/stonecutter/cut2
+minecraft:ui/stonecutter/cut2

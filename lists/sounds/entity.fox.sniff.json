@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/fox/sniff1",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/fox/sniff2",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/fox/sniff3",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/fox/sniff4",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.entity.fox.sniff"
+}

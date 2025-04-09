@@ -1,0 +1,2 @@
+minecraft:block/fletching_table/fletching_table1
+minecraft:block/fletching_table/fletching_table2
