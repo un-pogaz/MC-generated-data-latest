@@ -712,6 +712,7 @@ minecraft:gui/widgets
 minecraft:items/apple
 minecraft:items/apple_golden
 minecraft:items/arrow
+minecraft:items/barrier
 minecraft:items/bed
 minecraft:items/beef_cooked
 minecraft:items/beef_raw
