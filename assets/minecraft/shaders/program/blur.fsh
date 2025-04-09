@@ -14,10 +14,10 @@ void main() {
     vec4 blurred = vec4(0.0);
     float totalStrength = 0.0;
     for(float r = -Radius; r <= Radius; r += 1.0) {
-        float strength = abs(1.0 - r / Radius);
-        strength = strength * strength;
+        vec4 sample = texture2D(DiffuseSampler, texCoord + oneTexel * r * BlurDir);
+        float strength = (1.0 - abs(r / Radius)) * sample.a;
         totalStrength = totalStrength + strength;
-        blurred = blurred + texture2D(DiffuseSampler, texCoord + oneTexel * r * BlurDir) * strength;
+        blurred = blurred + sample * strength;
     }
-    gl_FragColor = vec4(blurred.rgb / totalStrength, texture2D(DiffuseSampler, texCoord).a);
+    gl_FragColor = vec4(blurred.rgb / totalStrength, (blurred.a * Radius) / totalStrength);
 }
