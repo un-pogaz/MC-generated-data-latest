@@ -1,0 +1,2 @@
+minecraft:bee_hive
+minecraft:bee_nest

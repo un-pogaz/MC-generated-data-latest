@@ -3,7 +3,8 @@
     "mob/vindication_illager/idle1",
     "mob/vindication_illager/idle2",
     "mob/vindication_illager/idle3",
-    "mob/vindication_illager/idle4"
+    "mob/vindication_illager/idle4",
+    "mob/vindication_illager/idle5"
   ],
   "subtitle": "subtitles.entity.vindicator.ambient"
 }
