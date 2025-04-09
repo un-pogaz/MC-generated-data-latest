@@ -9,14 +9,14 @@
         "w": { "model": "redstone_n", "y": 90 },
 
         "un": { "model": "redstone_uns" },
-        "us": { "model": "redstone_uns", "y": 180 },
-        "ue": { "model": "redstone_uns", "y": 90 },
-        "uw": { "model": "redstone_uns", "y": 270 },
+        "us": { "model": "redstone_uns", "y": 180, "uvlock": true },
+        "ue": { "model": "redstone_uew" },
+        "uw": { "model": "redstone_uew", "y": 180, "uvlock": true },
 
-        "ne":   { "model": "redstone_ne" },
-        "une":  { "model": "redstone_une" },
-        "nue":  { "model": "redstone_nue" },
-        "unue": { "model": "redstone_unue" },
+        "ne":   { "model": "redstone_ne", "uvlock": true },
+        "une":  { "model": "redstone_une", "uvlock": true },
+        "nue":  { "model": "redstone_nue", "uvlock": true },
+        "unue": { "model": "redstone_unue", "uvlock": true },
 
         "se":   { "model": "redstone_ne", "y": 90, "uvlock": true },
         "sue":  { "model": "redstone_une", "y": 90, "uvlock": true },
@@ -41,16 +41,16 @@
         "ew":  { "model": "redstone_n", "y": 90 },
         "uew": { "model": "redstone_uns", "y": 90 },
         "euw": { "model": "redstone_uns", "y": 270 },
-        "ueuw": { "model": "redstone_unus", "y": 90 },
+        "ueuw": { "model": "redstone_ueuw" },
 
-        "nse":    { "model": "redstone_nse" },
-        "unse":   { "model": "redstone_unse" },
-        "nuse":   { "model": "redstone_nuse" },
-        "nsue":   { "model": "redstone_nsue" },
-        "nusue":  { "model": "redstone_nusue" },
-        "unuse":  { "model": "redstone_unuse" },
-        "unsue":  { "model": "redstone_unsue" },
-        "unusue": { "model": "redstone_unusue" },
+        "nse":    { "model": "redstone_nse", "uvlock": true },
+        "unse":   { "model": "redstone_unse", "uvlock": true },
+        "nuse":   { "model": "redstone_nuse", "uvlock": true },
+        "nsue":   { "model": "redstone_nsue", "uvlock": true },
+        "nusue":  { "model": "redstone_nusue", "uvlock": true },
+        "unuse":  { "model": "redstone_unuse", "uvlock": true },
+        "unsue":  { "model": "redstone_unsue", "uvlock": true },
+        "unusue": { "model": "redstone_unusue", "uvlock": true },
 
         "sew":    { "model": "redstone_nse", "y": 90, "uvlock": true },
         "suew":   { "model": "redstone_unse", "y": 90, "uvlock": true },
@@ -81,24 +81,24 @@
 
         "nsew": { "model": "redstone_nsew", "uvlock": true },
 
-        "unsew": { "model": "redstone_unsew" },
+        "unsew": { "model": "redstone_unsew", "uvlock": true },
         "nusew": { "model": "redstone_unsew", "y": 180, "uvlock": true },
         "nsuew": { "model": "redstone_unsew", "y": 90, "uvlock": true },
         "nseuw": { "model": "redstone_unsew", "y": 270, "uvlock": true },
 
-        "unusew": { "model": "redstone_unusew" },
+        "unusew": { "model": "redstone_unusew", "uvlock": true },
         "nsueuw": { "model": "redstone_unusew", "y": 90, "uvlock": true },
 
-        "unsuew": { "model": "redstone_unsuew" },
+        "unsuew": { "model": "redstone_unsuew", "uvlock": true },
         "nusuew": { "model": "redstone_unsuew", "y": 90, "uvlock": true },
         "nuseuw": { "model": "redstone_unsuew", "y": 180, "uvlock": true },
         "unseuw": { "model": "redstone_unsuew", "y": 270, "uvlock": true },
 
-        "unusuew": { "model": "redstone_unusuew" },
+        "unusuew": { "model": "redstone_unusuew", "uvlock": true },
         "nusueuw": { "model": "redstone_unusuew", "y": 90, "uvlock": true },
         "unuseuw": { "model": "redstone_unusuew", "y": 180, "uvlock": true },
         "unsueuw": { "model": "redstone_unusuew", "y": 270, "uvlock": true },
 
-        "unusueuw": { "model": "redstone_unusueuw" }
+        "unusueuw": { "model": "redstone_unusueuw", "uvlock": true }
     }
 }

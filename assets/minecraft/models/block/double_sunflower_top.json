@@ -1,9 +1,6 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "ambientocclusion": false,
-    "randomOffsetX": true,
-    "randomOffsetZ": true,
-    "inventoryRender3D": false,
     "textures": {
         "particle": "blocks/double_plant_sunflower_front",
         "cross": "blocks/double_plant_sunflower_top",
