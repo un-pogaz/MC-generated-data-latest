@@ -1,5 +1,0 @@
-minecraft:dirt
-minecraft:grass_block
-minecraft:podzol
-minecraft:coarse_dirt
-minecraft:mycelium
