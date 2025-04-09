@@ -14,6 +14,8 @@ minecraft:blocks/beetroots_stage_0
 minecraft:blocks/beetroots_stage_1
 minecraft:blocks/beetroots_stage_2
 minecraft:blocks/beetroots_stage_3
+minecraft:blocks/bone_block_side
+minecraft:blocks/bone_block_top
 minecraft:blocks/bookshelf
 minecraft:blocks/brewing_stand
 minecraft:blocks/brewing_stand_base
@@ -247,6 +249,7 @@ minecraft:blocks/log_oak
 minecraft:blocks/log_oak_top
 minecraft:blocks/log_spruce
 minecraft:blocks/log_spruce_top
+minecraft:blocks/magma  [mcmeta]
 minecraft:blocks/melon_side
 minecraft:blocks/melon_stem_connected
 minecraft:blocks/melon_stem_disconnected
@@ -261,6 +264,7 @@ minecraft:blocks/mushroom_red
 minecraft:blocks/mycelium_side
 minecraft:blocks/mycelium_top
 minecraft:blocks/nether_brick
+minecraft:blocks/nether_wart_block
 minecraft:blocks/nether_wart_stage_0
 minecraft:blocks/nether_wart_stage_1
 minecraft:blocks/nether_wart_stage_2
@@ -311,6 +315,7 @@ minecraft:blocks/rail_golden
 minecraft:blocks/rail_golden_powered
 minecraft:blocks/rail_normal
 minecraft:blocks/rail_normal_turned
+minecraft:blocks/red_nether_brick
 minecraft:blocks/red_sand
 minecraft:blocks/red_sandstone_bottom
 minecraft:blocks/red_sandstone_carved
@@ -456,6 +461,7 @@ minecraft:entity/banner/triangles_top
 minecraft:entity/banner_base
 minecraft:entity/bat
 minecraft:entity/beacon_beam
+minecraft:entity/bear/polarbear
 minecraft:entity/blaze
 minecraft:entity/boat/boat_acacia
 minecraft:entity/boat/boat_birch
@@ -581,6 +587,8 @@ minecraft:entity/shulker/spark
 minecraft:entity/sign
 minecraft:entity/silverfish
 minecraft:entity/skeleton/skeleton
+minecraft:entity/skeleton/stray
+minecraft:entity/skeleton/stray_overlay
 minecraft:entity/skeleton/wither_skeleton
 minecraft:entity/slime/magmacube
 minecraft:entity/slime/slime
@@ -605,6 +613,7 @@ minecraft:entity/wolf/wolf
 minecraft:entity/wolf/wolf_angry
 minecraft:entity/wolf/wolf_collar
 minecraft:entity/wolf/wolf_tame
+minecraft:entity/zombie/husk
 minecraft:entity/zombie/zombie
 minecraft:entity/zombie/zombie_villager
 minecraft:entity/zombie_pigman
@@ -1218,6 +1227,7 @@ minecraft:items/stone_pickaxe
 minecraft:items/stone_shovel
 minecraft:items/stone_sword
 minecraft:items/string
+minecraft:items/structure_void
 minecraft:items/sugar
 minecraft:items/tipped_arrow_base
 minecraft:items/tipped_arrow_head
