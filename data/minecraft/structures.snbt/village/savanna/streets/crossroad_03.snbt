@@ -14,7 +14,7 @@
     },
     {
       nbt: {
-        target_pool: "minecraft:village/savannna/streets",
+        target_pool: "minecraft:village/savanna/streets",
         final_state: "minecraft:air",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
@@ -44,7 +44,7 @@
     },
     {
       nbt: {
-        target_pool: "minecraft:village/savannna/houses",
+        target_pool: "minecraft:village/savanna/houses",
         final_state: "minecraft:air",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
