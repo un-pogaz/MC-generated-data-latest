@@ -1,5 +1,6 @@
 {
   "type": "crafting_shapeless",
+  "group": "yellow_dye",
   "ingredients": [
     {
       "item": "minecraft:double_plant",

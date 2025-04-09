@@ -604,6 +604,7 @@ minecraft:entity/horse/horse_zombie
 minecraft:entity/horse/mule
 minecraft:entity/illager/evoker
 minecraft:entity/illager/fangs
+minecraft:entity/illager/illusionist
 minecraft:entity/illager/vex
 minecraft:entity/illager/vex_charging
 minecraft:entity/illager/vindicator
