@@ -908,6 +908,7 @@ minecraft:item/bone
 minecraft:item/book
 minecraft:item/bookshelf
 minecraft:item/bottle_drinkable
+minecraft:item/bottle_lingering
 minecraft:item/bottle_splash
 minecraft:item/bow
 minecraft:item/bow_pulling_0
@@ -1111,6 +1112,7 @@ minecraft:item/dispenser
 minecraft:item/double_fern
 minecraft:item/double_grass
 minecraft:item/double_rose
+minecraft:item/dragon_breath
 minecraft:item/dragon_egg
 minecraft:item/dropper
 minecraft:item/dye_black
