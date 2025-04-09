@@ -356,6 +356,22 @@ minecraft:blocks/sapling_oak
 minecraft:blocks/sapling_roofed_oak
 minecraft:blocks/sapling_spruce
 minecraft:blocks/sea_lantern  [mcmeta]
+minecraft:blocks/shulker_top_black
+minecraft:blocks/shulker_top_blue
+minecraft:blocks/shulker_top_brown
+minecraft:blocks/shulker_top_cyan
+minecraft:blocks/shulker_top_gray
+minecraft:blocks/shulker_top_green
+minecraft:blocks/shulker_top_light_blue
+minecraft:blocks/shulker_top_lime
+minecraft:blocks/shulker_top_magenta
+minecraft:blocks/shulker_top_orange
+minecraft:blocks/shulker_top_pink
+minecraft:blocks/shulker_top_purple
+minecraft:blocks/shulker_top_red
+minecraft:blocks/shulker_top_silver
+minecraft:blocks/shulker_top_white
+minecraft:blocks/shulker_top_yellow
 minecraft:blocks/slime
 minecraft:blocks/snow
 minecraft:blocks/soul_sand
@@ -613,7 +629,6 @@ minecraft:entity/shield/triangles_bottom
 minecraft:entity/shield/triangles_top
 minecraft:entity/shield_base
 minecraft:entity/shield_base_nopattern
-minecraft:entity/shulker/particle
 minecraft:entity/shulker/shulker_black
 minecraft:entity/shulker/shulker_blue
 minecraft:entity/shulker/shulker_brown
