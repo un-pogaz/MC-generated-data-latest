@@ -1,5 +1,6 @@
 minecraft:adventure/adventuring_time
 minecraft:adventure/arbalistic
+minecraft:adventure/bullseye
 minecraft:adventure/hero_of_the_village
 minecraft:adventure/honey_block_slide
 minecraft:adventure/kill_a_mob
