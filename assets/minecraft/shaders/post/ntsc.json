@@ -67,7 +67,7 @@
                 {
                     "name": "PrevSampler",
                     "id": "previous"
-            	}
+                }
             ],
             "uniforms": [
                 {
