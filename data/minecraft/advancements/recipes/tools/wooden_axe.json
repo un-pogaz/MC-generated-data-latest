@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "wooden_axe"
+        "recipe": "minecraft:wooden_axe"
       }
     }
   },

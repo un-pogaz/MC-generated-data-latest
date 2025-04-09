@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "red_dye_from_rose_bush"
+        "recipe": "minecraft:red_dye_from_rose_bush"
       }
     }
   },

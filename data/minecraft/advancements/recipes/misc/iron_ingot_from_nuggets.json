@@ -2,7 +2,6 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:iron_nugget",
       "minecraft:iron_ingot_from_nuggets"
     ]
   },
@@ -14,7 +13,7 @@
           {
             "item": "minecraft:iron_nugget",
             "count": {
-              "min": 9
+              "min": 9.0
             }
           }
         ]
@@ -23,7 +22,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "iron_ingot_from_nuggets"
+        "recipe": "minecraft:iron_ingot_from_nuggets"
       }
     }
   },

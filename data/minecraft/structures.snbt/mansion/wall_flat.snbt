@@ -1,6 +1,7 @@
 {
   size: [2, 8, 8],
   entities: [],
+  author: "Player2",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -511,7 +512,6 @@
       state: 5
     }
   ],
-  author: "Player2",
   palette: [
     {
       Name: "minecraft:cobblestone"
