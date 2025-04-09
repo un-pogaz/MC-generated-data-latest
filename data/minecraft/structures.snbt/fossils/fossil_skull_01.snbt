@@ -368,5 +368,5 @@
       Name: "minecraft:bone_block"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

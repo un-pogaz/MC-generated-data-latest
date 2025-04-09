@@ -1,0 +1,9 @@
+time add <time brigadier:integer[min="0"]>
+time query day
+time query daytime
+time query gametime
+time set day
+time set midnight
+time set night
+time set noon
+time set <time brigadier:integer[min="0"]>

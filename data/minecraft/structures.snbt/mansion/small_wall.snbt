@@ -257,25 +257,21 @@
       Name: "minecraft:cobblestone"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
       Properties: {
-        variant: "dark_oak",
         axis: "x"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Name: "minecraft:air"
@@ -283,26 +279,26 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "outer_left",
         facing: "north"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "outer_left",
         facing: "north"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
@@ -310,7 +306,7 @@
         shape: "outer_right",
         facing: "south"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
@@ -318,8 +314,8 @@
         shape: "outer_right",
         facing: "south"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

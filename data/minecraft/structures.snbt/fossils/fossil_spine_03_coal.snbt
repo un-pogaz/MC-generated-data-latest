@@ -425,5 +425,5 @@
       Name: "minecraft:coal_ore"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }
