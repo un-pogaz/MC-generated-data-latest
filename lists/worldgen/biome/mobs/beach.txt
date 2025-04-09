@@ -1,0 +1,10 @@
+minecraft:bat
+minecraft:creeper
+minecraft:enderman
+minecraft:skeleton
+minecraft:slime
+minecraft:spider
+minecraft:turtle
+minecraft:witch
+minecraft:zombie
+minecraft:zombie_villager
