@@ -12,6 +12,9 @@
         "frame": "challenge"
     },
     "parent": "adventure/sleep_in_bed",
+    "rewards": {
+        "experience": 500
+    },
     "criteria": {
         "birch_forest_hills": {
             "trigger": "minecraft:location",
