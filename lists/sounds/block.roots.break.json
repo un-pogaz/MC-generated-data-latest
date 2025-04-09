@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/roots/break1",
+    "block/roots/break2",
+    "block/roots/break3",
+    "block/roots/break4",
+    "block/roots/break5",
+    "block/roots/break6"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

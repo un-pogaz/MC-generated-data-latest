@@ -3,6 +3,7 @@ minecraft:andesite_stairs
 minecraft:birch_stairs
 minecraft:brick_stairs
 minecraft:cobblestone_stairs
+minecraft:crimson_stairs
 minecraft:dark_oak_stairs
 minecraft:dark_prismarine_stairs
 minecraft:diorite_stairs
@@ -29,3 +30,4 @@ minecraft:smooth_sandstone_stairs
 minecraft:spruce_stairs
 minecraft:stone_brick_stairs
 minecraft:stone_stairs
+minecraft:warped_stairs

@@ -1,0 +1,6 @@
+minecraft:mob/hoglin/step1
+minecraft:mob/hoglin/step2
+minecraft:mob/hoglin/step3
+minecraft:mob/hoglin/step4
+minecraft:mob/hoglin/step5
+minecraft:mob/hoglin/step6

@@ -1,0 +1,6 @@
+minecraft:block/stem/break1
+minecraft:block/stem/break2
+minecraft:block/stem/break3
+minecraft:block/stem/break4
+minecraft:block/stem/break5
+minecraft:block/stem/break6

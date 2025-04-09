@@ -1,0 +1,4 @@
+minecraft:ambient/nether/crimson_forest/mood1
+minecraft:ambient/nether/crimson_forest/mood2
+minecraft:ambient/nether/crimson_forest/mood3
+minecraft:ambient/nether/crimson_forest/mood4

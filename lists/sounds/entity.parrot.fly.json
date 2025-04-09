@@ -8,5 +8,6 @@
     "mob/parrot/fly6",
     "mob/parrot/fly7",
     "mob/parrot/fly8"
-  ]
+  ],
+  "subtitle": "subtitles.entity.parrot.fly"
 }

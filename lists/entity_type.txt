@@ -38,6 +38,7 @@ minecraft:furnace_minecart
 minecraft:ghast
 minecraft:giant
 minecraft:guardian
+minecraft:hoglin
 minecraft:hopper_minecart
 minecraft:horse
 minecraft:husk

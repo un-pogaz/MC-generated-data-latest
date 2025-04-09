@@ -24,5 +24,6 @@
       "name": "entity/player/attack/strong6",
       "volume": 0.7
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.player.attack.strong"
 }

@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 7,
+      "name": "block/respawn_anchor/ambient1"
+    },
+    {
+      "attenuation_distance": 7,
+      "name": "block/respawn_anchor/ambient2"
+    },
+    {
+      "attenuation_distance": 7,
+      "name": "block/respawn_anchor/ambient3"
+    }
+  ],
+  "subtitle": "subtitles.block.respawn_anchor.ambient"
+}

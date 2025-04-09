@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/hoglin/retreat1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/hoglin/retreat2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/hoglin/retreat3",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/hoglin/idle11",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.hoglin.retreat"
+}

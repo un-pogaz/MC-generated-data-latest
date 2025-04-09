@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "block/netherite/break1",
+      "volume": 0.95
+    },
+    {
+      "name": "block/netherite/break2",
+      "volume": 0.95
+    },
+    {
+      "name": "block/netherite/break3",
+      "volume": 0.95
+    },
+    {
+      "name": "block/netherite/break4",
+      "volume": 0.95
+    },
+    {
+      "name": "block/netherite/break1",
+      "volume": 0.95,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/netherite/break2",
+      "volume": 0.95,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/netherite/break3",
+      "volume": 0.95,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/netherite/break4",
+      "volume": 0.95,
+      "pitch": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

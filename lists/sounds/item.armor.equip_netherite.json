@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "item/armor/equip_netherite1",
+      "volume": 0.8
+    },
+    {
+      "name": "item/armor/equip_netherite2",
+      "volume": 0.8
+    },
+    {
+      "name": "item/armor/equip_netherite3",
+      "volume": 0.8
+    },
+    {
+      "name": "item/armor/equip_netherite4",
+      "volume": 0.8
+    },
+    {
+      "name": "item/armor/equip_netherite1",
+      "volume": 0.8,
+      "pitch": 0.9
+    },
+    {
+      "name": "item/armor/equip_netherite2",
+      "volume": 0.8,
+      "pitch": 0.9
+    },
+    {
+      "name": "item/armor/equip_netherite3",
+      "volume": 0.8,
+      "pitch": 0.9
+    },
+    {
+      "name": "item/armor/equip_netherite4",
+      "volume": 0.8,
+      "pitch": 0.9
+    }
+  ],
+  "subtitle": "subtitles.item.armor.equip_netherite"
+}

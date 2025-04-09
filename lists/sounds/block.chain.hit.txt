@@ -1,0 +1,6 @@
+minecraft:block/chain/step1
+minecraft:block/chain/step2
+minecraft:block/chain/step3
+minecraft:block/chain/step4
+minecraft:block/chain/step5
+minecraft:block/chain/step6

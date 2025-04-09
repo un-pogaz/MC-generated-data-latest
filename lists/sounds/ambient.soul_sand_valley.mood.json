@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/soulsand_valley/mood1",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/mood2",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/mood3",
+      "volume": 1
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/mood4",
+      "volume": 1
+    }
+  ]
+}

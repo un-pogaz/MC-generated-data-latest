@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/strider/hurt1",
+      "volume": 1
+    },
+    {
+      "name": "mob/strider/hurt2",
+      "volume": 1
+    },
+    {
+      "name": "mob/strider/hurt3",
+      "volume": 1
+    },
+    {
+      "name": "mob/strider/hurt4",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.strider.hurt"
+}
