@@ -1665,6 +1665,7 @@ minecraft:item/sand
 minecraft:item/sandstone
 minecraft:item/sandstone_slab
 minecraft:item/sandstone_stairs
+minecraft:item/scute
 minecraft:item/sea_grass
 minecraft:item/sea_lantern
 minecraft:item/shears
@@ -1755,7 +1756,6 @@ minecraft:item/trident_throwing
 minecraft:item/tripwire_hook
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
-minecraft:item/turtle_shell_piece
 minecraft:item/turtle_spawn_egg
 minecraft:item/vex_spawn_egg
 minecraft:item/villager_spawn_egg
