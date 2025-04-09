@@ -8,3 +8,6 @@
 | minecraft:rotten_flesh |     1 |  15.9% |  10/63 |         |
 | minecraft:emerald      |     1 |   1.6% |   1/63 |         |
 | minecraft:wheat        |  2..3 |  15.9% |  10/63 |         |
+| – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – |
+| 1 time                 |    -- |     -- |     -- |         |
+| minecraft:golden_apple |     1 |   100% |      1 |         |

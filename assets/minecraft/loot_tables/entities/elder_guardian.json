@@ -30,7 +30,7 @@
             "items": [
                 {
                     "item": "minecraft:fish",
-                    "weight": 2,
+                    "weight": 3,
                     "functions": [
                         {
                             "function": "looting_enchant",
