@@ -307,6 +307,10 @@ minecraft:block/flower_pot_tulip_orange
 minecraft:block/flower_pot_tulip_pink
 minecraft:block/flower_pot_tulip_red
 minecraft:block/flower_pot_tulip_white
+minecraft:block/frosted_ice_0
+minecraft:block/frosted_ice_1
+minecraft:block/frosted_ice_2
+minecraft:block/frosted_ice_3
 minecraft:block/furnace
 minecraft:block/glass
 minecraft:block/glass_black

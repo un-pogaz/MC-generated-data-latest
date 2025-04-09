@@ -139,6 +139,10 @@ minecraft:blocks/flower_tulip_orange
 minecraft:blocks/flower_tulip_pink
 minecraft:blocks/flower_tulip_red
 minecraft:blocks/flower_tulip_white
+minecraft:blocks/frosted_ice_0
+minecraft:blocks/frosted_ice_1
+minecraft:blocks/frosted_ice_2
+minecraft:blocks/frosted_ice_3
 minecraft:blocks/furnace_front_off
 minecraft:blocks/furnace_front_on
 minecraft:blocks/furnace_side
