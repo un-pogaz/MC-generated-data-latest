@@ -17,6 +17,7 @@ minecraft:entities/cave_spider
 minecraft:entities/chicken
 minecraft:entities/cow
 minecraft:entities/creeper
+minecraft:entities/donkey
 minecraft:entities/elder_guardian
 minecraft:entities/enderman
 minecraft:entities/endermite
@@ -24,8 +25,10 @@ minecraft:entities/ghast
 minecraft:entities/giant
 minecraft:entities/guardian
 minecraft:entities/horse
+minecraft:entities/husk
 minecraft:entities/iron_golem
 minecraft:entities/magma_cube
+minecraft:entities/mule
 minecraft:entities/mushroom_cow
 minecraft:entities/ocelot
 minecraft:entities/pig
@@ -63,6 +66,7 @@ minecraft:entities/wolf
 minecraft:entities/zombie
 minecraft:entities/zombie_horse
 minecraft:entities/zombie_pigman
+minecraft:entities/zombie_villager
 minecraft:gameplay/fishing
 minecraft:gameplay/fishing/fish
 minecraft:gameplay/fishing/junk

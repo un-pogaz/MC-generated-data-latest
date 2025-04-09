@@ -740,7 +740,6 @@ minecraft:block/structure_block_corner
 minecraft:block/structure_block_data
 minecraft:block/structure_block_load
 minecraft:block/structure_block_save
-minecraft:block/structure_void
 minecraft:block/tall_grass
 minecraft:block/thin_block
 minecraft:block/tinted_cross

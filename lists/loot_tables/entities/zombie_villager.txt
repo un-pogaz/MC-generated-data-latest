@@ -1,0 +1,5 @@
+minecraft:rotten_flesh
+
+minecraft:iron_ingot
+minecraft:carrot
+minecraft:potato
