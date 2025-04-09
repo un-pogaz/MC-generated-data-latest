@@ -104,6 +104,7 @@ minecraft:entities/snow_golem
 minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
+minecraft:entities/strider
 minecraft:entities/trader_llama
 minecraft:entities/tropical_fish
 minecraft:entities/turtle
