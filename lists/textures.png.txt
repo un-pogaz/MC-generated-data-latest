@@ -574,6 +574,7 @@ minecraft:entity/spider/spider
 minecraft:entity/spider_eyes
 minecraft:entity/squid
 minecraft:entity/steve
+minecraft:entity/sweep
 minecraft:entity/villager/butcher
 minecraft:entity/villager/farmer
 minecraft:entity/villager/librarian
