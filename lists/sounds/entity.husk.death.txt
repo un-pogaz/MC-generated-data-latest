@@ -1,0 +1,2 @@
+minecraft:mob/husk/death1
+minecraft:mob/husk/death2

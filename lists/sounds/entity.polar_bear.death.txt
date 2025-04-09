@@ -1,0 +1,3 @@
+minecraft:mob/polarbear/death1
+minecraft:mob/polarbear/death2
+minecraft:mob/polarbear/death3

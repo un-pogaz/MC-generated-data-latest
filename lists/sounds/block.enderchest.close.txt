@@ -1,1 +1,1 @@
-minecraft:random/chestclosed
+minecraft:block/enderchest/close

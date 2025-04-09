@@ -1,0 +1,4 @@
+minecraft:mob/polarbear/hurt1
+minecraft:mob/polarbear/hurt2
+minecraft:mob/polarbear/hurt3
+minecraft:mob/polarbear/hurt4

@@ -14,7 +14,9 @@
       "ambient/cave/cave11",
       "ambient/cave/cave12",
       "ambient/cave/cave13",
-      "ambient/cave/cave14"
+      "ambient/cave/cave14",
+      "ambient/cave/cave15",
+      "ambient/cave/cave16"
     ],
     "subtitle": "subtitles.ambient.cave"
   },
@@ -196,6 +198,13 @@
     ],
     "subtitle": "subtitles.block.dispenser.dispense"
   },
+  "block.enchantment_table.use": {
+    "sounds": [
+      "block/enchantment_table/enchant1",
+      "block/enchantment_table/enchant2",
+      "block/enchantment_table/enchant3"
+    ]
+  },
   "block.end_gateway.spawn": {
     "sounds": [
       "random/explode1",
@@ -207,13 +216,13 @@
   },
   "block.enderchest.close": {
     "sounds": [
-      "random/chestclosed"
+      "block/enderchest/close"
     ],
     "subtitle": "subtitles.block.chest.close"
   },
   "block.enderchest.open": {
     "sounds": [
-      "random/chestopen"
+      "block/enderchest/open"
     ],
     "subtitle": "subtitles.block.chest.open"
   },
@@ -1947,6 +1956,37 @@
     ],
     "subtitle": "subtitles.entity.generic.swim"
   },
+  "entity.husk.ambient": {
+    "sounds": [
+      "mob/husk/idle1",
+      "mob/husk/idle2",
+      "mob/husk/idle3"
+    ],
+    "subtitle": "subtitles.entity.husk.ambient"
+  },
+  "entity.husk.death": {
+    "sounds": [
+      "mob/husk/death1",
+      "mob/husk/death2"
+    ],
+    "subtitle": "subtitles.entity.husk.death"
+  },
+  "entity.husk.hurt": {
+    "sounds": [
+      "mob/husk/hurt1",
+      "mob/husk/hurt2"
+    ],
+    "subtitle": "subtitles.entity.husk.hurt"
+  },
+  "entity.husk.step": {
+    "sounds": [
+      "mob/husk/step1",
+      "mob/husk/step2",
+      "mob/husk/step3",
+      "mob/husk/step4",
+      "mob/husk/step5"
+    ]
+  },
   "entity.irongolem.attack": {
     "sounds": [
       "mob/irongolem/throw"
@@ -2398,6 +2438,61 @@
       "liquid/swim4"
     ],
     "subtitle": "subtitles.entity.generic.swim"
+  },
+  "entity.polar_bear.ambient": {
+    "sounds": [
+      "mob/polarbear/idle1",
+      "mob/polarbear/idle2",
+      "mob/polarbear/idle3",
+      "mob/polarbear/idle4"
+    ],
+    "subtitle": "subtitles.entity.polar_bear.ambient"
+  },
+  "entity.polar_bear.baby_ambient": {
+    "sounds": [
+      "mob/polarbear_baby/idle1",
+      "mob/polarbear_baby/idle2",
+      "mob/polarbear_baby/idle3",
+      "mob/polarbear_baby/idle4"
+    ],
+    "subtitle": "subtitles.entity.polar_bear.baby_ambient"
+  },
+  "entity.polar_bear.death": {
+    "sounds": [
+      "mob/polarbear/death1",
+      "mob/polarbear/death2",
+      "mob/polarbear/death3"
+    ],
+    "subtitle": "subtitles.entity.polar_bear.death"
+  },
+  "entity.polar_bear.hurt": {
+    "sounds": [
+      "mob/polarbear/hurt1",
+      "mob/polarbear/hurt2",
+      "mob/polarbear/hurt3",
+      "mob/polarbear/hurt4"
+    ],
+    "subtitle": "subtitles.entity.polar_bear.hurt"
+  },
+  "entity.polar_bear.step": {
+    "sounds": [
+      "mob/polarbear/step1",
+      "mob/polarbear/step2",
+      "mob/polarbear/step3",
+      "mob/polarbear/step4"
+    ]
+  },
+  "entity.polar_bear.warning": {
+    "sounds": [
+      {
+        "name": "mob/polarbear/warning3",
+        "pitch": 0.9
+      },
+      "mob/polarbear/warning1",
+      "mob/polarbear/warning2",
+      "mob/polarbear/warning3"
+    ],
+    "subtitle": "subtitles.entity.polar_bear.warning"
   },
   "entity.rabbit.ambient": {
     "sounds": [
@@ -2911,6 +3006,39 @@
     ],
     "subtitle": "subtitles.entity.squid.hurt"
   },
+  "entity.stray.ambient": {
+    "sounds": [
+      "mob/stray/idle1",
+      "mob/stray/idle2",
+      "mob/stray/idle3",
+      "mob/stray/idle4"
+    ],
+    "subtitle": "subtitles.entity.stray.ambient"
+  },
+  "entity.stray.death": {
+    "sounds": [
+      "mob/stray/death1",
+      "mob/stray/death2"
+    ],
+    "subtitle": "subtitles.entity.stray.death"
+  },
+  "entity.stray.hurt": {
+    "sounds": [
+      "mob/stray/hurt1",
+      "mob/stray/hurt2",
+      "mob/stray/hurt3",
+      "mob/stray/hurt4"
+    ],
+    "subtitle": "subtitles.entity.stray.hurt"
+  },
+  "entity.stray.step": {
+    "sounds": [
+      "mob/stray/step1",
+      "mob/stray/step2",
+      "mob/stray/step3",
+      "mob/stray/step4"
+    ]
+  },
   "entity.tnt.primed": {
     "sounds": [
       "random/fuse"
@@ -3052,6 +3180,37 @@
       "mob/wither/spawn"
     ],
     "subtitle": "subtitles.entity.wither.spawn"
+  },
+  "entity.wither_skeleton.ambient": {
+    "sounds": [
+      "mob/skeleton/say1",
+      "mob/skeleton/say2",
+      "mob/skeleton/say3"
+    ],
+    "subtitle": "subtitles.entity.wither_skeleton.ambient"
+  },
+  "entity.wither_skeleton.death": {
+    "sounds": [
+      "mob/skeleton/death"
+    ],
+    "subtitle": "subtitles.entity.wither_skeleton.death"
+  },
+  "entity.wither_skeleton.hurt": {
+    "sounds": [
+      "mob/skeleton/hurt1",
+      "mob/skeleton/hurt2",
+      "mob/skeleton/hurt3",
+      "mob/skeleton/hurt4"
+    ],
+    "subtitle": "subtitles.entity.wither_skeleton.hurt"
+  },
+  "entity.wither_skeleton.step": {
+    "sounds": [
+      "mob/skeleton/step1",
+      "mob/skeleton/step2",
+      "mob/skeleton/step3",
+      "mob/skeleton/step4"
+    ]
   },
   "entity.wolf.ambient": {
     "sounds": [

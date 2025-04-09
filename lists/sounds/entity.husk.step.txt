@@ -1,0 +1,5 @@
+minecraft:mob/husk/step1
+minecraft:mob/husk/step2
+minecraft:mob/husk/step3
+minecraft:mob/husk/step4
+minecraft:mob/husk/step5

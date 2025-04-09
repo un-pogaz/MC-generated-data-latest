@@ -1,0 +1,4 @@
+minecraft:mob/polarbear_baby/idle1
+minecraft:mob/polarbear_baby/idle2
+minecraft:mob/polarbear_baby/idle3
+minecraft:mob/polarbear_baby/idle4
