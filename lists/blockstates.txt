@@ -46,6 +46,7 @@ minecraft:blue_carpet
 minecraft:blue_concrete
 minecraft:blue_concrete_powder
 minecraft:blue_coral
+minecraft:blue_coral_plant
 minecraft:blue_glazed_terracotta
 minecraft:blue_orchid
 minecraft:blue_stained_glass
@@ -298,6 +299,7 @@ minecraft:pink_carpet
 minecraft:pink_concrete
 minecraft:pink_concrete_powder
 minecraft:pink_coral
+minecraft:pink_coral_plant
 minecraft:pink_glazed_terracotta
 minecraft:pink_stained_glass
 minecraft:pink_stained_glass_pane
@@ -347,6 +349,7 @@ minecraft:purple_carpet
 minecraft:purple_concrete
 minecraft:purple_concrete_powder
 minecraft:purple_coral
+minecraft:purple_coral_plant
 minecraft:purple_glazed_terracotta
 minecraft:purple_stained_glass
 minecraft:purple_stained_glass_pane
@@ -365,6 +368,7 @@ minecraft:red_carpet
 minecraft:red_concrete
 minecraft:red_concrete_powder
 minecraft:red_coral
+minecraft:red_coral_plant
 minecraft:red_glazed_terracotta
 minecraft:red_mushroom
 minecraft:red_mushroom_block
@@ -457,6 +461,7 @@ minecraft:yellow_carpet
 minecraft:yellow_concrete
 minecraft:yellow_concrete_powder
 minecraft:yellow_coral
+minecraft:yellow_coral_plant
 minecraft:yellow_glazed_terracotta
 minecraft:yellow_stained_glass
 minecraft:yellow_stained_glass_pane
