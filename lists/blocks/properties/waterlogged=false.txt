@@ -29,6 +29,7 @@ minecraft:bubble_coral
 minecraft:bubble_coral_fan
 minecraft:bubble_coral_wall_fan
 minecraft:campfire
+minecraft:chain
 minecraft:chest
 minecraft:cobblestone_slab
 minecraft:cobblestone_stairs

@@ -7357,6 +7357,9 @@
       Name: "minecraft:lantern"
     },
     {
+      Properties: {
+        waterlogged: "false"
+      },
       Name: "minecraft:chain"
     },
     {
@@ -7402,5 +7405,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2529
+  DataVersion: 2532
 }
