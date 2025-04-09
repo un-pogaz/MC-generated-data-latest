@@ -9,7 +9,9 @@
         "description": {
             "translate": "advancements.end.root.description"
         },
-        "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+        "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+        "show_toast": false,
+        "announce_to_chat": false
     },
     "criteria": {
         "entered_end": {

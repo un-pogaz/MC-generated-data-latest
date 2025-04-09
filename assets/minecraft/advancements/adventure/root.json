@@ -9,7 +9,9 @@
         "description": {
             "translate": "advancements.adventure.root.description"
         },
-        "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+        "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+        "show_toast": false,
+        "announce_to_chat": false
     },
     "criteria": {
         "killed_something": {

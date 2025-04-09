@@ -9,7 +9,9 @@
         "description": {
             "translate": "advancements.nether.root.description"
         },
-        "background": "minecraft:textures/gui/advancements/backgrounds/nether.png"
+        "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+        "show_toast": false,
+        "announce_to_chat": false
     },
     "criteria": {
         "entered_nether": {

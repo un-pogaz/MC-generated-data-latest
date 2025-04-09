@@ -5,6 +5,9 @@ adventure/root
 │   └>adventure/sniper_duel
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
+│ └>adventure/breed_an_animal
+│ │ └>adventure/bred_all_animals
+│ └>adventure/tame_an_animal
 └>adventure/trade
 
 end/root
