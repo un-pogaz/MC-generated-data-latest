@@ -1,5 +1,5 @@
 {
-    "parent": "block/gate_closed",
+    "parent": "block/birch_fence_gate_closed",
     "display": {
         "thirdperson": {
             "rotation": [ 0, -90, 170 ],

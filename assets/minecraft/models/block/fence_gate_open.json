@@ -1,7 +1,6 @@
 {
     "textures": {
-        "particle": "blocks/planks_oak",
-        "texture": "blocks/planks_oak"
+        "particle" : "#texture"
     },
     "elements": [
         {   "__comment": "Left-hand post",

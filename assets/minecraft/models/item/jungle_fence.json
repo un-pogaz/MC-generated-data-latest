@@ -1,5 +1,5 @@
 {
-    "parent": "block/wooden_fence_inventory",
+    "parent": "block/jungle_fence_inventory",
     "display": {
         "thirdperson": {
             "rotation": [ 0, 0, 180 ],
