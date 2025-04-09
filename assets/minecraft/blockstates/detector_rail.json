@@ -1,17 +1,17 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
-        "flat_ns":  { "model": "detector_rail_flat" },
-        "flat_ew":  { "model": "detector_rail_flat", "y": 90 },
-        "raised_e": { "model": "detector_rail_raised_ne", "y": 90 },
-        "raised_w": { "model": "detector_rail_raised_sw", "y": 90 },
-        "raised_n": { "model": "detector_rail_raised_ne" },
-        "raised_s": { "model": "detector_rail_raised_sw" },
-        "active_flat_ns":  { "model": "detector_rail_flat" },
-        "active_flat_ew":  { "model": "detector_rail_flat", "y": 90 },
-        "active_raised_e": { "model": "detector_rail_raised_ne", "y": 90 },
-        "active_raised_w": { "model": "detector_rail_raised_sw", "y": 90 },
-        "active_raised_n": { "model": "detector_rail_raised_ne" },
-        "active_raised_s": { "model": "detector_rail_raised_sw" }
+        "powered=false,shape=north_south":  { "model": "detector_rail_flat" },
+        "powered=false,shape=east_west":  { "model": "detector_rail_flat", "y": 90 },
+        "powered=false,shape=ascending_east": { "model": "detector_rail_raised_ne", "y": 90 },
+        "powered=false,shape=ascending_west": { "model": "detector_rail_raised_sw", "y": 90 },
+        "powered=false,shape=ascending_north": { "model": "detector_rail_raised_ne" },
+        "powered=false,shape=ascending_south": { "model": "detector_rail_raised_sw" },
+        "powered=true,shape=north_south":  { "model": "detector_rail_flat" },
+        "powered=true,shape=east_west":  { "model": "detector_rail_flat", "y": 90 },
+        "powered=true,shape=ascending_west": { "model": "detector_rail_raised_ne", "y": 90 },
+        "powered=true,shape=ascending_east": { "model": "detector_rail_raised_sw", "y": 90 },
+        "powered=true,shape=ascending_north": { "model": "detector_rail_raised_ne" },
+        "powered=true,shape=ascending_south": { "model": "detector_rail_raised_sw" }
     }
 }

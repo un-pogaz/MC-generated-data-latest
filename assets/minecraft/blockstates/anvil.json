@@ -1,17 +1,17 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
-        "undamaged_s":  { "model": "anvil_undamaged" },
-        "undamaged_w":  { "model": "anvil_undamaged", "y": 90 },
-        "undamaged_n":  { "model": "anvil_undamaged", "y": 180 },
-        "undamaged_e":  { "model": "anvil_undamaged", "y": 270 },
-        "slightly_damaged_s":  { "model": "anvil_slightly_damaged" },
-        "slightly_damaged_w":  { "model": "anvil_slightly_damaged", "y": 90 },
-        "slightly_damaged_n":  { "model": "anvil_slightly_damaged", "y": 180 },
-        "slightly_damaged_e":  { "model": "anvil_slightly_damaged", "y": 270 },
-        "very_damaged_s":  { "model": "anvil_very_damaged" },
-        "very_damaged_w":  { "model": "anvil_very_damaged", "y": 90 },
-        "very_damaged_n":  { "model": "anvil_very_damaged", "y": 180 },
-        "very_damaged_e":  { "model": "anvil_very_damaged", "y": 270 }
+        "damage=0,facing=south": { "model": "anvil_undamaged" },
+        "damage=0,facing=west": { "model": "anvil_undamaged", "y": 90 },
+        "damage=0,facing=north": { "model": "anvil_undamaged", "y": 180 },
+        "damage=0,facing=east": { "model": "anvil_undamaged", "y": 270 },
+        "damage=1,facing=south": { "model": "anvil_slightly_damaged" },
+        "damage=1,facing=west": { "model": "anvil_slightly_damaged", "y": 90 },
+        "damage=1,facing=north": { "model": "anvil_slightly_damaged", "y": 180 },
+        "damage=1,facing=east": { "model": "anvil_slightly_damaged", "y": 270 },
+        "damage=2,facing=south": { "model": "anvil_very_damaged" },
+        "damage=2,facing=west": { "model": "anvil_very_damaged", "y": 90 },
+        "damage=2,facing=north": { "model": "anvil_very_damaged", "y": 180 },
+        "damage=2,facing=east": { "model": "anvil_very_damaged", "y": 270 }
     }
 }

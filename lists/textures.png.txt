@@ -419,6 +419,14 @@ minecraft:entity/lead_knot
 minecraft:entity/minecart
 minecraft:entity/pig/pig
 minecraft:entity/pig/pig_saddle
+minecraft:entity/rabbit/black
+minecraft:entity/rabbit/brown
+minecraft:entity/rabbit/caerbannog
+minecraft:entity/rabbit/gold
+minecraft:entity/rabbit/salt
+minecraft:entity/rabbit/toast
+minecraft:entity/rabbit/white
+minecraft:entity/rabbit/white_splotched
 minecraft:entity/sheep/sheep
 minecraft:entity/sheep/sheep_fur
 minecraft:entity/sign
@@ -872,6 +880,8 @@ minecraft:items/minecart_hopper
 minecraft:items/minecart_normal
 minecraft:items/minecart_tnt
 minecraft:items/mushroom_stew
+minecraft:items/mutton_cooked
+minecraft:items/mutton_raw
 minecraft:items/name_tag
 minecraft:items/nether_star
 minecraft:items/nether_wart
@@ -892,6 +902,11 @@ minecraft:items/prismarine_shard
 minecraft:items/pumpkin_pie
 minecraft:items/quartz
 minecraft:items/quiver
+minecraft:items/rabbit_cooked
+minecraft:items/rabbit_foot
+minecraft:items/rabbit_hide
+minecraft:items/rabbit_raw
+minecraft:items/rabbit_stew
 minecraft:items/record_11
 minecraft:items/record_13
 minecraft:items/record_blocks

@@ -1,17 +1,17 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    ",facing=_comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
-        "age0_s": { "model": "cocoa_age0_s" },
-        "age0_w": { "model": "cocoa_age0_s", "y": 90 },
-        "age0_n": { "model": "cocoa_age0_s", "y": 180 },
-        "age0_e": { "model": "cocoa_age0_s", "y": 270 },
-        "age1_s": { "model": "cocoa_age1_s" },
-        "age1_w": { "model": "cocoa_age1_s", "y": 90 },
-        "age1_n": { "model": "cocoa_age1_s", "y": 180 },
-        "age1_e": { "model": "cocoa_age1_s", "y": 270 },
-        "age2_s": { "model": "cocoa_age2_s" },
-        "age2_w": { "model": "cocoa_age2_s", "y": 90 },
-        "age2_n": { "model": "cocoa_age2_s", "y": 180 },
-        "age2_e": { "model": "cocoa_age2_s", "y": 270 }
+        "age=0,facing=south": { "model": "cocoa_age0_s" },
+        "age=0,facing=west": { "model": "cocoa_age0_s", "y": 90 },
+        "age=0,facing=north": { "model": "cocoa_age0_s", "y": 180 },
+        "age=0,facing=east": { "model": "cocoa_age0_s", "y": 270 },
+        "age=1,facing=south": { "model": "cocoa_age1_s" },
+        "age=1,facing=west": { "model": "cocoa_age1_s", "y": 90 },
+        "age=1,facing=north": { "model": "cocoa_age1_s", "y": 180 },
+        "age=1,facing=east": { "model": "cocoa_age1_s", "y": 270 },
+        "age=2,facing=south": { "model": "cocoa_age2_s" },
+        "age=2,facing=west": { "model": "cocoa_age2_s", "y": 90 },
+        "age=2,facing=north": { "model": "cocoa_age2_s", "y": 180 },
+        "age=2,facing=east": { "model": "cocoa_age2_s", "y": 270 }
     }
 }
