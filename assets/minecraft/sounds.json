@@ -196,7 +196,7 @@
   "item.fireCharge.use": {
     "category": "block",
     "sounds": [
-      "mob/ghast/fireball"
+      "mob/ghast/fireball4"
     ]
   },
   "fireworks.blast": {
