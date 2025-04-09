@@ -457,7 +457,6 @@ minecraft:entity/banner_base
 minecraft:entity/bat
 minecraft:entity/beacon_beam
 minecraft:entity/blaze
-minecraft:entity/boat
 minecraft:entity/boat/boat_acacia
 minecraft:entity/boat/boat_birch
 minecraft:entity/boat/boat_darkoak
