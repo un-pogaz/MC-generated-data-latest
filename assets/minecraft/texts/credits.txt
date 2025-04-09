@@ -25,6 +25,7 @@
 §f          Mikael Hedberg
 §f          Måns Olson
 §f          Nathan Adams
+§f          Nathan Gilbert
 §f          Ryan Holtz
 §f          Sebastian Hindefelt
 §f          Shoghi Cervantes
@@ -51,6 +52,7 @@
 §7Assistant Producers
 §f          Adrian Östergård
 §f          Aleksandra Zajac
+§f          Warren Loo
  
 §7Realms Content Lead
 §f          Marc Watson
@@ -62,7 +64,7 @@
 §f          Markus Toivonen
  
 §7Graphics Artists
-§f          Johan Aronsson
+§f          Johan Aronson
 §f          Kristoffer Zetterstrand
  
 §7Additional Graphics
@@ -143,7 +145,7 @@
 §f          Patrick Geuder
  
 §7Business Intelligence
-§f          Brynjolfur Erlingsson
+§f          Brynjólfur Erlingsson
  
 §7Production Director
 §f          Olof Carlsson
@@ -215,7 +217,7 @@
 §f          Carl Manneh
  
 §7Project Directors
-§f          Jakob Porser
+§f          Jakob Porsér
  
 §7Game Developers
 §f          Tobias Möllstam
