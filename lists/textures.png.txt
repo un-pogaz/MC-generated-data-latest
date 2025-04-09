@@ -592,7 +592,6 @@ minecraft:block/vine
 minecraft:block/water_flow  [mcmeta]
 minecraft:block/water_overlay
 minecraft:block/water_still  [mcmeta]
-minecraft:block/wax_block
 minecraft:block/wet_sponge
 minecraft:block/wheat_stage0
 minecraft:block/wheat_stage1
@@ -713,12 +712,15 @@ minecraft:entity/cat/siamese
 minecraft:entity/cat/tabby
 minecraft:entity/cat/white
 minecraft:entity/chest/christmas
-minecraft:entity/chest/christmas_double
+minecraft:entity/chest/christmas_left
+minecraft:entity/chest/christmas_right
 minecraft:entity/chest/ender
 minecraft:entity/chest/normal
-minecraft:entity/chest/normal_double
+minecraft:entity/chest/normal_left
+minecraft:entity/chest/normal_right
 minecraft:entity/chest/trapped
-minecraft:entity/chest/trapped_double
+minecraft:entity/chest/trapped_left
+minecraft:entity/chest/trapped_right
 minecraft:entity/chicken
 minecraft:entity/conduit/base
 minecraft:entity/conduit/break_particle
@@ -1472,7 +1474,6 @@ minecraft:item/crossbow_pulling_0
 minecraft:item/crossbow_pulling_1
 minecraft:item/crossbow_pulling_2
 minecraft:item/crossbow_standby
-minecraft:item/crystallized_honey
 minecraft:item/cyan_dye
 minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_door
