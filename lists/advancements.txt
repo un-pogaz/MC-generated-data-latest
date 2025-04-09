@@ -6,6 +6,7 @@ minecraft:adventure/shoot_arrow
 minecraft:adventure/sleep_in_bed
 minecraft:adventure/sniper_duel
 minecraft:adventure/summon_iron_golem
+minecraft:adventure/totem_of_undying
 minecraft:adventure/trade
 minecraft:end/dragon_breath
 minecraft:end/dragon_egg
@@ -23,15 +24,18 @@ minecraft:husbandry/breed_an_animal
 minecraft:husbandry/plant_seed
 minecraft:husbandry/root
 minecraft:husbandry/tame_an_animal
+minecraft:nether/all_potions
 minecraft:nether/brew_potion
 minecraft:nether/create_beacon
 minecraft:nether/create_full_beacon
+minecraft:nether/fast_travel
 minecraft:nether/find_fortress
 minecraft:nether/get_wither_skull
 minecraft:nether/obtain_blaze_rod
 minecraft:nether/return_to_sender
 minecraft:nether/root
 minecraft:nether/summon_wither
+minecraft:nether/uneasy_alliance
 minecraft:story/cure_zombie_villager
 minecraft:story/deflect_arrow
 minecraft:story/enchant_item

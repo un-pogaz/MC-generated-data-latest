@@ -8,9 +8,9 @@
     "has_double_plant": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "items": [
+	  "items": [
           {
-            "item": "minecraft:double_plant",
+            "item": "minecraft:yellow_flower",
             "data": 0
           }
         ]
