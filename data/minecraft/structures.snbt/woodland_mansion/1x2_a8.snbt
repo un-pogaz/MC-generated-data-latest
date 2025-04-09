@@ -2422,7 +2422,7 @@
     },
     {
       pos: [1, 2, 7],
-      state: 14
+      state: 18
     },
     {
       pos: [2, 2, 7],
@@ -2490,7 +2490,7 @@
     },
     {
       pos: [1, 6, 7],
-      state: 15
+      state: 19
     },
     {
       pos: [2, 6, 7],
@@ -2550,7 +2550,7 @@
     },
     {
       pos: [1, 2, 8],
-      state: 14
+      state: 18
     },
     {
       pos: [2, 2, 8],
@@ -2618,7 +2618,7 @@
     },
     {
       pos: [1, 6, 8],
-      state: 15
+      state: 19
     },
     {
       pos: [2, 6, 8],
@@ -2678,7 +2678,7 @@
     },
     {
       pos: [1, 2, 9],
-      state: 14
+      state: 18
     },
     {
       pos: [2, 2, 9],
@@ -2742,7 +2742,7 @@
     },
     {
       pos: [1, 6, 9],
-      state: 15
+      state: 19
     },
     {
       pos: [2, 6, 9],
@@ -2802,7 +2802,7 @@
     },
     {
       pos: [1, 2, 10],
-      state: 14
+      state: 18
     },
     {
       pos: [2, 2, 10],
@@ -2866,7 +2866,7 @@
     },
     {
       pos: [1, 6, 10],
-      state: 15
+      state: 19
     },
     {
       pos: [2, 6, 10],
@@ -2926,7 +2926,7 @@
     },
     {
       pos: [1, 2, 11],
-      state: 14
+      state: 18
     },
     {
       pos: [2, 2, 11],
@@ -2986,7 +2986,7 @@
     },
     {
       pos: [1, 6, 11],
-      state: 15
+      state: 19
     },
     {
       pos: [2, 6, 11],
@@ -3046,7 +3046,7 @@
     },
     {
       pos: [1, 2, 12],
-      state: 14
+      state: 18
     },
     {
       pos: [2, 2, 12],
@@ -3106,7 +3106,7 @@
     },
     {
       pos: [1, 6, 12],
-      state: 15
+      state: 19
     },
     {
       pos: [2, 6, 12],
@@ -3166,7 +3166,7 @@
     },
     {
       pos: [1, 2, 13],
-      state: 14
+      state: 18
     },
     {
       pos: [2, 2, 13],
@@ -3222,7 +3222,7 @@
     },
     {
       pos: [1, 6, 13],
-      state: 15
+      state: 19
     },
     {
       pos: [2, 6, 13],
@@ -3282,7 +3282,7 @@
     },
     {
       pos: [1, 2, 14],
-      state: 14
+      state: 18
     },
     {
       pos: [2, 2, 14],
@@ -3338,7 +3338,7 @@
     },
     {
       pos: [1, 6, 14],
-      state: 15
+      state: 19
     },
     {
       pos: [2, 6, 14],
@@ -3451,15 +3451,15 @@
     },
     {
       Properties: {
-        age: "7"
+        facing: "east"
       },
-      Name: "minecraft:pumpkin_stem"
+      Name: "minecraft:attached_pumpkin_stem"
     },
     {
       Properties: {
-        age: "7"
+        facing: "east"
       },
-      Name: "minecraft:melon_stem"
+      Name: "minecraft:attached_melon_stem"
     },
     {
       Properties: {
@@ -3472,6 +3472,18 @@
     },
     {
       Name: "minecraft:torch"
+    },
+    {
+      Properties: {
+        facing: "west"
+      },
+      Name: "minecraft:attached_pumpkin_stem"
+    },
+    {
+      Properties: {
+        facing: "west"
+      },
+      Name: "minecraft:attached_melon_stem"
     }
   ],
   DataVersion: 1457
