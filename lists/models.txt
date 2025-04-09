@@ -157,17 +157,11 @@ minecraft:block/coarse_dirt
 minecraft:block/cobblestone
 minecraft:block/cobblestone_wall_inventory
 minecraft:block/cobblestone_wall_mossy_inventory
-minecraft:block/cobblestone_wall_ne
-minecraft:block/cobblestone_wall_ns
-minecraft:block/cobblestone_wall_ns_above
-minecraft:block/cobblestone_wall_nse
-minecraft:block/cobblestone_wall_nsew
 minecraft:block/cobblestone_wall_post
 minecraft:block/cobblestone_wall_side
 minecraft:block/cocoa_age0_s
 minecraft:block/cocoa_age1_s
 minecraft:block/cocoa_age2_s
-minecraft:block/column_side
 minecraft:block/command_block
 minecraft:block/command_block_conditional
 minecraft:block/comparator_lit
@@ -1247,7 +1241,6 @@ minecraft:item/lime_stained_glass
 minecraft:item/lime_stained_glass_pane
 minecraft:item/lime_stained_hardened_clay
 minecraft:item/lime_wool
-minecraft:item/lit_furnace
 minecraft:item/lit_pumpkin
 minecraft:item/magenta_carpet
 minecraft:item/magenta_stained_glass
@@ -1292,7 +1285,6 @@ minecraft:item/oak_sapling
 minecraft:item/oak_slab
 minecraft:item/oak_stairs
 minecraft:item/obsidian
-minecraft:item/old_wood_slab
 minecraft:item/orange_carpet
 minecraft:item/orange_stained_glass
 minecraft:item/orange_stained_glass_pane
@@ -1468,7 +1460,6 @@ minecraft:item/white_stained_glass_pane
 minecraft:item/white_stained_hardened_clay
 minecraft:item/white_tulip
 minecraft:item/white_wool
-minecraft:item/wood_old_slab
 minecraft:item/wooden_axe
 minecraft:item/wooden_button
 minecraft:item/wooden_hoe
