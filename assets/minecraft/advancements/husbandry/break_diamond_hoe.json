@@ -13,7 +13,7 @@
     },
     "parent": "minecraft:husbandry/plant_seed",
     "criteria": {
-        "levitated": {
+        "broke_hoe": {
             "trigger": "minecraft:item_durability_changed",
             "conditions": {
                 "item": {

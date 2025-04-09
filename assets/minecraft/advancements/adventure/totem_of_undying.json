@@ -13,7 +13,7 @@
     },
     "parent": "adventure/kill_a_mob",
     "criteria": {
-        "shot_arrow": {
+        "used_totem": {
             "trigger": "minecraft:used_totem",
             "conditions": {
                 "item": {
