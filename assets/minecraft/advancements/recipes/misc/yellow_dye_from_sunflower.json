@@ -1,4 +1,5 @@
 {
+  "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
       "minecraft:yellow_dye_from_sunflower"
