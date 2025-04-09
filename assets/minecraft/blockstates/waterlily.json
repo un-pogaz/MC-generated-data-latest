@@ -1,9 +1,11 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
-        "facing=south": { "model": "waterlily", "y": 180 },
-        "facing=west": { "model": "waterlily", "y": 90 },
-        "facing=north": { "model": "waterlily" },
-        "facing=east": { "model": "waterlily", "y": 270 }
+        "normal": [
+            { "model": "waterlily" },
+            { "model": "waterlily", "y": 90 },
+            { "model": "waterlily", "y": 180 },
+            { "model": "waterlily", "y": 270 }
+        ]
     }
 }
