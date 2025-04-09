@@ -271,6 +271,7 @@ minecraft:blocks/nether_wart_stage_2
 minecraft:blocks/netherrack
 minecraft:blocks/noteblock
 minecraft:blocks/observer_back
+minecraft:blocks/observer_back_lit
 minecraft:blocks/observer_front
 minecraft:blocks/observer_side
 minecraft:blocks/observer_top
