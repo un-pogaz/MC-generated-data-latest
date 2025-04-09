@@ -3,13 +3,11 @@
   "group": "magenta_dye",
   "ingredients": [
     {
-      "item": "minecraft:double_plant",
-      "data": 1
+      "item": "minecraft:lilac"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 13,
+    "item": "minecraft:magenta_dye",
     "count": 2
   }
 }

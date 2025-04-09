@@ -47,13 +47,13 @@ minecraft:entities/sheep/cyan
 minecraft:entities/sheep/gray
 minecraft:entities/sheep/green
 minecraft:entities/sheep/light_blue
+minecraft:entities/sheep/light_gray
 minecraft:entities/sheep/lime
 minecraft:entities/sheep/magenta
 minecraft:entities/sheep/orange
 minecraft:entities/sheep/pink
 minecraft:entities/sheep/purple
 minecraft:entities/sheep/red
-minecraft:entities/sheep/silver
 minecraft:entities/sheep/white
 minecraft:entities/sheep/yellow
 minecraft:entities/shulker

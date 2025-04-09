@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:red_flower",
-            "data": 8
+            "item": "minecraft:oxeye_daisy"
           }
         ]
       }

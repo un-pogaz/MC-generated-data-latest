@@ -10,8 +10,7 @@
       "item": "minecraft:stick"
     },
     "W": {
-      "item": "minecraft:planks",
-      "data": 4
+      "item": "minecraft:acacia_planks"
     }
   },
   "result": {

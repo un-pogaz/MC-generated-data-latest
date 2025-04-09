@@ -2,17 +2,14 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 4
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "item": "minecraft:dye",
-      "data": 2
+      "item": "minecraft:cactus_green"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 6,
+    "item": "minecraft:cyan_dye",
     "count": 2
   }
 }

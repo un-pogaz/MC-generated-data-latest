@@ -6,10 +6,10 @@
   ],
   "key": {
     "N": {
-      "item": "minecraft:netherbrick"
+      "item": "minecraft:nether_brick"
     }
   },
   "result": {
-    "item": "minecraft:nether_brick"
+    "item": "minecraft:nether_bricks"
   }
 }
