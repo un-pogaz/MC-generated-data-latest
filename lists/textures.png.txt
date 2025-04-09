@@ -39,6 +39,7 @@ minecraft:blocks/black_wool
 minecraft:blocks/blue_concrete
 minecraft:blocks/blue_concrete_powder
 minecraft:blocks/blue_coral
+minecraft:blocks/blue_coral_fan
 minecraft:blocks/blue_coral_plant
 minecraft:blocks/blue_dead_coral
 minecraft:blocks/blue_glazed_terracotta
@@ -323,6 +324,7 @@ minecraft:blocks/peony_top
 minecraft:blocks/pink_concrete
 minecraft:blocks/pink_concrete_powder
 minecraft:blocks/pink_coral
+minecraft:blocks/pink_coral_fan
 minecraft:blocks/pink_coral_plant
 minecraft:blocks/pink_dead_coral
 minecraft:blocks/pink_glazed_terracotta
@@ -359,6 +361,7 @@ minecraft:blocks/pumpkin_top
 minecraft:blocks/purple_concrete
 minecraft:blocks/purple_concrete_powder
 minecraft:blocks/purple_coral
+minecraft:blocks/purple_coral_fan
 minecraft:blocks/purple_coral_plant
 minecraft:blocks/purple_dead_coral
 minecraft:blocks/purple_glazed_terracotta
@@ -380,6 +383,7 @@ minecraft:blocks/rail_corner
 minecraft:blocks/red_concrete
 minecraft:blocks/red_concrete_powder
 minecraft:blocks/red_coral
+minecraft:blocks/red_coral_fan
 minecraft:blocks/red_coral_plant
 minecraft:blocks/red_dead_coral
 minecraft:blocks/red_glazed_terracotta
@@ -513,6 +517,7 @@ minecraft:blocks/white_wool
 minecraft:blocks/yellow_concrete
 minecraft:blocks/yellow_concrete_powder
 minecraft:blocks/yellow_coral
+minecraft:blocks/yellow_coral_fan
 minecraft:blocks/yellow_coral_plant
 minecraft:blocks/yellow_dead_coral
 minecraft:blocks/yellow_glazed_terracotta
@@ -806,6 +811,8 @@ minecraft:entity/wolf/wolf
 minecraft:entity/wolf/wolf_angry
 minecraft:entity/wolf/wolf_collar
 minecraft:entity/wolf/wolf_tame
+minecraft:entity/zombie/drowned
+minecraft:entity/zombie/drowned_outer_layer
 minecraft:entity/zombie/husk
 minecraft:entity/zombie/zombie
 minecraft:entity/zombie/zombie_villager
