@@ -5,10 +5,8 @@ adventure/root
 │   └>adventure/sniper_duel
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
-│ └>adventure/breed_an_animal
-│ │ └>adventure/bred_all_animals
-│ └>adventure/tame_an_animal
 └>adventure/trade
+  └>adventure/summon_iron_golem
 
 end/root
 └>end/kill_dragon
@@ -19,6 +17,14 @@ end/root
   │   └>end/elytra
   │   └>end/levitate
   └>end/respawn_dragon
+
+husbandry/root
+└>husbandry/breed_an_animal
+│ └>husbandry/bred_all_animals
+└>husbandry/plant_seed
+│ └>husbandry/balanced_diet
+│ └>husbandry/break_diamond_hoe
+└>husbandry/tame_an_animal
 
 nether/root
 └>nether/find_fortress

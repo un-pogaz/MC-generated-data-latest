@@ -45,26 +45,6 @@
             "title": "Adventuring Time",
             "description": "Discover every biome",
             "frame": "challenge"
-          },
-          "minecraft:adventure/breed_an_animal": {
-            "icon": "minecraft:wheat",
-            "title": "The Parrots and the Bats",
-            "description": "Breed two animals together",
-            "frame": "task",
-            "childs": {
-              "minecraft:adventure/bred_all_animals": {
-                "icon": "minecraft:golden_carrot",
-                "title": "Two by Two",
-                "description": "Breed all the animals!",
-                "frame": "challenge"
-              }
-            }
-          },
-          "minecraft:adventure/tame_an_animal": {
-            "icon": "minecraft:lead",
-            "title": "Best Friends Forever",
-            "description": "Tame an animal",
-            "frame": "task"
           }
         }
       },
@@ -72,7 +52,15 @@
         "icon": "minecraft:emerald",
         "title": "What a Deal!",
         "description": "Successfully trade with a Villager",
-        "frame": "task"
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/summon_iron_golem": {
+            "icon": "minecraft:pumpkin",
+            "title": "Hired Help",
+            "description": "Summon an Iron Golem to help defend a village",
+            "frame": "goal"
+          }
+        }
       }
     }
   },
@@ -139,8 +127,57 @@
       }
     }
   },
+  "minecraft:husbandry/root": {
+    "icon": "minecraft:hay_block",
+    "title": "Husbandry",
+    "description": "The world is full of friends and food",
+    "background": "minecraft:gui/advancements/backgrounds/husbandry",
+    "frame": "task",
+    "childs": {
+      "minecraft:husbandry/breed_an_animal": {
+        "icon": "minecraft:wheat",
+        "title": "The Parrots and the Bats",
+        "description": "Breed two animals together",
+        "frame": "task",
+        "childs": {
+          "minecraft:husbandry/bred_all_animals": {
+            "icon": "minecraft:golden_carrot",
+            "title": "Two by Two",
+            "description": "Breed all the animals!",
+            "frame": "challenge"
+          }
+        }
+      },
+      "minecraft:husbandry/plant_seed": {
+        "icon": "minecraft:wheat",
+        "title": "A Seedy Place",
+        "description": "Plant a seed and watch it grow",
+        "frame": "task",
+        "childs": {
+          "minecraft:husbandry/balanced_diet": {
+            "icon": "minecraft:apple",
+            "title": "A Balanced Diet",
+            "description": "Eat everything that is edible, even if it's not good for you",
+            "frame": "challenge"
+          },
+          "minecraft:husbandry/break_diamond_hoe": {
+            "icon": "minecraft:diamond_hoe",
+            "title": "Serious Dedication",
+            "description": "Completely use up a diamond hoe, and then reevaluate your life choices",
+            "frame": "challenge"
+          }
+        }
+      },
+      "minecraft:husbandry/tame_an_animal": {
+        "icon": "minecraft:lead",
+        "title": "Best Friends Forever",
+        "description": "Tame an animal",
+        "frame": "task"
+      }
+    }
+  },
   "minecraft:nether/root": {
-    "icon": "minecraft:nether_wart",
+    "icon": "minecraft:red_nether_brick",
     "title": "Nether",
     "description": "Bring summer clothes",
     "background": "minecraft:gui/advancements/backgrounds/nether",

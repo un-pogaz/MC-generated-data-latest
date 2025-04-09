@@ -1,17 +1,16 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:golden_carrot"
+            "item": "minecraft:wheat"
         },
         "title": {
-            "translate": "advancements.adventure.breed_all_animals.title"
+            "translate": "advancements.husbandry.breed_an_animal.title"
         },
         "description": {
-            "translate": "advancements.adventure.breed_all_animals.description"
-        },
-        "frame": "challenge"
+            "translate": "advancements.husbandry.breed_an_animal.description"
+        }
     },
-    "parent": "adventure/breed_an_animal",
+    "parent": "husbandry/root",
     "criteria": {
         "bred_horse": {
             "trigger": "bred_animals",
@@ -93,5 +92,17 @@
                 }
             }
         }
-    }
+    },
+    "requirements": [
+        ["bred_horse"],
+        ["bred_sheep"],
+        ["bred_cow"],
+        ["bred_mooshroom"],
+        ["bred_pig"],
+        ["bred_chicken"],
+        ["bred_wolf"],
+        ["bred_ocelot"],
+        ["bred_rabbit"],
+        ["bred_llama"]
+    ]
 }

@@ -4,13 +4,13 @@
             "item": "minecraft:lead"
         },
         "title": {
-            "translate": "advancements.adventure.tame_an_animal.title"
+            "translate": "advancements.husbandry.tame_an_animal.title"
         },
         "description": {
-            "translate": "advancements.adventure.tame_an_animal.description"
+            "translate": "advancements.husbandry.tame_an_animal.description"
         }
     },
-    "parent": "adventure/sleep_in_bed",
+    "parent": "husbandry/root",
     "criteria": {
         "tamed_animal": {
             "trigger": "minecraft:tame_animal"
