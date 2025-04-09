@@ -1,4 +1,46 @@
 {
+  "minecraft:adventure/root": {
+    "icon": "minecraft:map",
+    "title": "Adventure",
+    "background": "minecraft:gui/advancements/backgrounds/adventure",
+    "frame": "task",
+    "childs": {
+      "minecraft:adventure/kill_a_mob": {
+        "icon": "minecraft:iron_sword",
+        "title": "Kill a mob",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/kill_all_mobs": {
+            "icon": "minecraft:diamond_sword",
+            "title": "Kill all the mobs",
+            "frame": "challenge"
+          },
+          "minecraft:adventure/shoot_arrow": {
+            "icon": "minecraft:bow",
+            "title": "Shoot something",
+            "frame": "task",
+            "childs": {
+              "minecraft:adventure/sniper_duel": {
+                "icon": "minecraft:arrow",
+                "title": "Sniper duel",
+                "frame": "challenge"
+              }
+            }
+          }
+        }
+      },
+      "minecraft:adventure/sleep_in_bed": {
+        "icon": "minecraft:bed",
+        "title": "Change your spawn point",
+        "frame": "task"
+      },
+      "minecraft:adventure/trade": {
+        "icon": "minecraft:emerald",
+        "title": "Complete a trade",
+        "frame": "task"
+      }
+    }
+  },
   "minecraft:story/root": {
     "icon": "minecraft:grass",
     "title": "Minecraft",
@@ -64,10 +106,17 @@
                                 "title": "Obtain a Blaze Rod",
                                 "frame": "task",
                                 "childs": {
-                                  "minecraft:story/brew_potion": {
-                                    "icon": "minecraft:glass_bottle",
-                                    "title": "Brew a Potion",
-                                    "frame": "task"
+                                  "minecraft:story/brew_weakness_potion": {
+                                    "icon": "minecraft:potion",
+                                    "title": "Brew a Weakness Potion",
+                                    "frame": "task",
+                                    "childs": {
+                                      "minecraft:story/cure_zombie_villager": {
+                                        "icon": "minecraft:golden_apple",
+                                        "title": "Cure a zombie villager",
+                                        "frame": "goal"
+                                      }
+                                    }
                                   },
                                   "minecraft:story/follow_ender_eye": {
                                     "icon": "minecraft:ender_eye",
@@ -110,7 +159,7 @@
                                       "minecraft:story/create_full_beacon": {
                                         "icon": "minecraft:beacon",
                                         "title": "Create a full beacon",
-                                        "frame": "challenge"
+                                        "frame": "goal"
                                       }
                                     }
                                   }
