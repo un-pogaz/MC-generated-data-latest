@@ -879,6 +879,7 @@ minecraft:item/anvil_very_damaged
 minecraft:item/apple
 minecraft:item/arrow
 minecraft:item/baked_potato
+minecraft:item/banner
 minecraft:item/barrier
 minecraft:item/beacon
 minecraft:item/bed
@@ -938,6 +939,7 @@ minecraft:item/chainmail_chestplate
 minecraft:item/chainmail_helmet
 minecraft:item/chainmail_leggings
 minecraft:item/charcoal
+minecraft:item/chest
 minecraft:item/chest_minecart
 minecraft:item/chicken
 minecraft:item/chiseled_brick_monster_egg
@@ -1034,6 +1036,7 @@ minecraft:item/enchanted_book
 minecraft:item/enchanting_table
 minecraft:item/end_portal_frame
 minecraft:item/end_stone
+minecraft:item/ender_chest
 minecraft:item/ender_eye
 minecraft:item/ender_pearl
 minecraft:item/experience_bottle
@@ -1323,6 +1326,7 @@ minecraft:item/tnt
 minecraft:item/tnt_minecart
 minecraft:item/torch
 minecraft:item/trapdoor
+minecraft:item/trapped_chest
 minecraft:item/tripwire_hook
 minecraft:item/vine
 minecraft:item/water_bucket
