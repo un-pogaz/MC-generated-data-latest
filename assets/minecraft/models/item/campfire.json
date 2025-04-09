@@ -1,3 +1,6 @@
 {
-    "parent": "block/campfire_on"
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/campfire"
+    }
 }

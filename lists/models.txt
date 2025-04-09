@@ -190,7 +190,7 @@ minecraft:block/cake_slice4
 minecraft:block/cake_slice5
 minecraft:block/cake_slice6
 minecraft:block/campfire
-minecraft:block/campfire_on
+minecraft:block/campfire_off
 minecraft:block/carpet
 minecraft:block/carrots_stage0
 minecraft:block/carrots_stage1
@@ -241,6 +241,15 @@ minecraft:block/comparator
 minecraft:block/comparator_on
 minecraft:block/comparator_on_subtract
 minecraft:block/comparator_subtract
+minecraft:block/composter
+minecraft:block/composter_contents1
+minecraft:block/composter_contents2
+minecraft:block/composter_contents3
+minecraft:block/composter_contents4
+minecraft:block/composter_contents5
+minecraft:block/composter_contents6
+minecraft:block/composter_contents7
+minecraft:block/composter_contents_ready
 minecraft:block/conduit
 minecraft:block/coral_fan
 minecraft:block/coral_wall_fan
@@ -1452,6 +1461,7 @@ minecraft:item/compass_28
 minecraft:item/compass_29
 minecraft:item/compass_30
 minecraft:item/compass_31
+minecraft:item/composter
 minecraft:item/conduit
 minecraft:item/cooked_beef
 minecraft:item/cooked_chicken
