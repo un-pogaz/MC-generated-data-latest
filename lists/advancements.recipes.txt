@@ -16,6 +16,10 @@ minecraft:recipes/building_blocks/andesite_slab
 minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting
 minecraft:recipes/building_blocks/andesite_stairs
 minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting
+minecraft:recipes/building_blocks/bamboo_mosaic_slab
+minecraft:recipes/building_blocks/bamboo_mosaic_stairs
+minecraft:recipes/building_blocks/bamboo_slab
+minecraft:recipes/building_blocks/bamboo_stairs
 minecraft:recipes/building_blocks/birch_planks
 minecraft:recipes/building_blocks/birch_slab
 minecraft:recipes/building_blocks/birch_stairs
@@ -44,6 +48,7 @@ minecraft:recipes/building_blocks/brown_concrete_powder
 minecraft:recipes/building_blocks/brown_stained_glass
 minecraft:recipes/building_blocks/brown_terracotta
 minecraft:recipes/building_blocks/brown_wool
+minecraft:recipes/building_blocks/chiseled_bookshelf
 minecraft:recipes/building_blocks/chiseled_deepslate
 minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting
 minecraft:recipes/building_blocks/chiseled_nether_bricks
@@ -512,11 +517,17 @@ minecraft:recipes/combat/stone_sword
 minecraft:recipes/combat/turtle_helmet
 minecraft:recipes/combat/wooden_sword
 minecraft:recipes/decorations/acacia_fence
+minecraft:recipes/decorations/acacia_hanging_sign
 minecraft:recipes/decorations/acacia_sign
 minecraft:recipes/decorations/andesite_wall
 minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting
 minecraft:recipes/decorations/anvil
 minecraft:recipes/decorations/armor_stand
+minecraft:recipes/decorations/bamboo_fence
+minecraft:recipes/decorations/bamboo_hanging_sign
+minecraft:recipes/decorations/bamboo_mosaic
+minecraft:recipes/decorations/bamboo_planks
+minecraft:recipes/decorations/bamboo_sign
 minecraft:recipes/decorations/barrel
 minecraft:recipes/decorations/beehive
 minecraft:recipes/decorations/birch_fence
@@ -565,6 +576,7 @@ minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting
 minecraft:recipes/decorations/composter
 minecraft:recipes/decorations/crafting_table
 minecraft:recipes/decorations/crimson_fence
+minecraft:recipes/decorations/crimson_hanging_sign
 minecraft:recipes/decorations/crimson_sign
 minecraft:recipes/decorations/cyan_banner
 minecraft:recipes/decorations/cyan_bed
@@ -576,6 +588,7 @@ minecraft:recipes/decorations/cyan_glazed_terracotta
 minecraft:recipes/decorations/cyan_stained_glass_pane
 minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane
 minecraft:recipes/decorations/dark_oak_fence
+minecraft:recipes/decorations/dark_oak_hanging_sign
 minecraft:recipes/decorations/dark_oak_sign
 minecraft:recipes/decorations/deepslate_brick_wall
 minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting
@@ -626,6 +639,7 @@ minecraft:recipes/decorations/iron_bars
 minecraft:recipes/decorations/item_frame
 minecraft:recipes/decorations/jukebox
 minecraft:recipes/decorations/jungle_fence
+minecraft:recipes/decorations/jungle_hanging_sign
 minecraft:recipes/decorations/jungle_sign
 minecraft:recipes/decorations/ladder
 minecraft:recipes/decorations/lantern
@@ -668,6 +682,7 @@ minecraft:recipes/decorations/magenta_glazed_terracotta
 minecraft:recipes/decorations/magenta_stained_glass_pane
 minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane
 minecraft:recipes/decorations/mangrove_fence
+minecraft:recipes/decorations/mangrove_hanging_sign
 minecraft:recipes/decorations/mangrove_sign
 minecraft:recipes/decorations/moss_carpet
 minecraft:recipes/decorations/mossy_cobblestone_wall
@@ -680,6 +695,7 @@ minecraft:recipes/decorations/nether_brick_fence
 minecraft:recipes/decorations/nether_brick_wall
 minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting
 minecraft:recipes/decorations/oak_fence
+minecraft:recipes/decorations/oak_hanging_sign
 minecraft:recipes/decorations/oak_sign
 minecraft:recipes/decorations/orange_banner
 minecraft:recipes/decorations/orange_bed
@@ -746,6 +762,7 @@ minecraft:recipes/decorations/soul_campfire
 minecraft:recipes/decorations/soul_lantern
 minecraft:recipes/decorations/soul_torch
 minecraft:recipes/decorations/spruce_fence
+minecraft:recipes/decorations/spruce_hanging_sign
 minecraft:recipes/decorations/spruce_sign
 minecraft:recipes/decorations/stone_brick_wall
 minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting
@@ -753,6 +770,7 @@ minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting
 minecraft:recipes/decorations/stonecutter
 minecraft:recipes/decorations/torch
 minecraft:recipes/decorations/warped_fence
+minecraft:recipes/decorations/warped_hanging_sign
 minecraft:recipes/decorations/warped_sign
 minecraft:recipes/decorations/white_banner
 minecraft:recipes/decorations/white_bed
@@ -942,6 +960,11 @@ minecraft:recipes/redstone/acacia_door
 minecraft:recipes/redstone/acacia_fence_gate
 minecraft:recipes/redstone/acacia_pressure_plate
 minecraft:recipes/redstone/acacia_trapdoor
+minecraft:recipes/redstone/bamboo_button
+minecraft:recipes/redstone/bamboo_door
+minecraft:recipes/redstone/bamboo_fence_gate
+minecraft:recipes/redstone/bamboo_pressure_plate
+minecraft:recipes/redstone/bamboo_trapdoor
 minecraft:recipes/redstone/birch_button
 minecraft:recipes/redstone/birch_door
 minecraft:recipes/redstone/birch_fence_gate
@@ -1018,6 +1041,7 @@ minecraft:recipes/redstone/warped_fence_gate
 minecraft:recipes/redstone/warped_pressure_plate
 minecraft:recipes/redstone/warped_trapdoor
 minecraft:recipes/root
+minecraft:recipes/tools/bundle
 minecraft:recipes/tools/clock
 minecraft:recipes/tools/compass
 minecraft:recipes/tools/diamond_axe
@@ -1053,6 +1077,8 @@ minecraft:recipes/tools/wooden_shovel
 minecraft:recipes/transportation/acacia_boat
 minecraft:recipes/transportation/acacia_chest_boat
 minecraft:recipes/transportation/activator_rail
+minecraft:recipes/transportation/bamboo_chest_raft
+minecraft:recipes/transportation/bamboo_raft
 minecraft:recipes/transportation/birch_boat
 minecraft:recipes/transportation/birch_chest_boat
 minecraft:recipes/transportation/carrot_on_a_stick

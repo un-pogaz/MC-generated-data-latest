@@ -292,7 +292,7 @@
             "icon": "minecraft:note_block",
             "title": "Birthday Song",
             "description": "Have an Allay drop a Cake at a Note Block",
-            "frame": "challenge",
+            "frame": "task",
             "hidden": true
           }
         }
