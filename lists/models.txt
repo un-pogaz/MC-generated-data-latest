@@ -457,6 +457,10 @@ minecraft:block/cracked_deepslate_tiles
 minecraft:block/cracked_nether_bricks
 minecraft:block/cracked_polished_blackstone_bricks
 minecraft:block/cracked_stone_bricks
+minecraft:block/crafter
+minecraft:block/crafter_crafting
+minecraft:block/crafter_crafting_triggered
+minecraft:block/crafter_triggered
 minecraft:block/crafting_table
 minecraft:block/crimson_button
 minecraft:block/crimson_button_inventory
@@ -2426,6 +2430,7 @@ minecraft:item/cracked_deepslate_tiles
 minecraft:item/cracked_nether_bricks
 minecraft:item/cracked_polished_blackstone_bricks
 minecraft:item/cracked_stone_bricks
+minecraft:item/crafter
 minecraft:item/crafting_table
 minecraft:item/creeper_banner_pattern
 minecraft:item/creeper_head

@@ -1,0 +1,19 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 5,
+      "name": "block/crafter/craft"
+    },
+    {
+      "attenuation_distance": 5,
+      "name": "block/crafter/craft",
+      "pitch": 0.96
+    },
+    {
+      "attenuation_distance": 5,
+      "name": "block/crafter/craft",
+      "pitch": 1.04
+    }
+  ],
+  "subtitle": "subtitles.block.crafter.craft"
+}
