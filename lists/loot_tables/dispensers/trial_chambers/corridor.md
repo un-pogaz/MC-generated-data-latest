@@ -1,0 +1,4 @@
+| Name            | Count | Chance | Weight | Comment |
+| --------------- | ----- | ------ | ------ | ------- |
+| 1 time          |    -- |     -- |     -- |         |
+| minecraft:arrow |  4..8 |   100% |      1 |         |

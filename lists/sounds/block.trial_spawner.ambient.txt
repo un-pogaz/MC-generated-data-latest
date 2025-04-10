@@ -1,0 +1,5 @@
+minecraft:block/trial_spawner/ambient1
+minecraft:block/trial_spawner/ambient2
+minecraft:block/trial_spawner/ambient3
+minecraft:block/trial_spawner/ambient4
+minecraft:block/trial_spawner/ambient5

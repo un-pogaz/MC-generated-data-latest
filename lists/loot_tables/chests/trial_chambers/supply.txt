@@ -1,0 +1,14 @@
+minecraft:arrow
+minecraft:tipped_arrow
+minecraft:tipped_arrow
+minecraft:baked_potato
+minecraft:glow_berries
+minecraft:acacia_planks
+minecraft:moss_block
+minecraft:bone_meal
+minecraft:tuff
+minecraft:torch
+minecraft:potion
+minecraft:potion
+minecraft:stone_pickaxe
+minecraft:milk_bucket
