@@ -63,6 +63,20 @@
       "weight": 5
     }
   ],
+  "underground_water_creature": [
+    {
+      "maxCount": 6,
+      "minCount": 4,
+      "type": "minecraft:axolotl",
+      "weight": 10
+    },
+    {
+      "maxCount": 6,
+      "minCount": 4,
+      "type": "minecraft:glow_squid",
+      "weight": 10
+    }
+  ],
   "water_ambient": [
     {
       "maxCount": 8,
