@@ -1,0 +1,4 @@
+texture: minecraft:wasteland
+name: Wasteland
+author: Kristoffer Zetterstrand
+size: 1x1

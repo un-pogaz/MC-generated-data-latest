@@ -10,6 +10,16 @@
       "volume": 0.4
     },
     {
+      "name": "music/game/eld_unknown",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/endless",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
       "name": "music/game/infinite_amethyst",
       "stream": true,
       "volume": 0.4
@@ -29,6 +39,11 @@
     {
       "name": "music/game/oxygene",
       "stream": true
+    },
+    {
+      "name": "music/game/pokopoko",
+      "stream": true,
+      "volume": 0.8
     },
     {
       "name": "music/game/sweden",

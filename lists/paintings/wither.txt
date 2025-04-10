@@ -1,0 +1,4 @@
+texture: minecraft:wither
+name: Wither
+author: Mojang
+size: 2x2
