@@ -2259,6 +2259,7 @@ minecraft:item/blue_stained_glass
 minecraft:item/blue_stained_glass_pane
 minecraft:item/blue_terracotta
 minecraft:item/blue_wool
+minecraft:item/bogged_spawn_egg
 minecraft:item/bone
 minecraft:item/bone_block
 minecraft:item/bone_meal

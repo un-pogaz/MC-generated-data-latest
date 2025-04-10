@@ -1108,6 +1108,7 @@ minecraft:zombie_wall_head
 #minecraft:deepslate_ore_replaceables
 #minecraft:diamond_ores
 #minecraft:dirt
+#minecraft:does_not_block_hoppers
 #minecraft:doors
 #minecraft:dragon_immune
 #minecraft:dragon_transparent

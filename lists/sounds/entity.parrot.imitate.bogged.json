@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "entity.bogged.ambient",
+      "pitch": 1.7,
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.bogged"
+}
