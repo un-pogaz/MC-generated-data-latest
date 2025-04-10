@@ -1,0 +1,3 @@
+level=1  [default]
+level=2
+level=3

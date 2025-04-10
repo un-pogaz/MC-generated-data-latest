@@ -1,0 +1,10 @@
+minecraft:block/powder_snow/step1
+minecraft:block/powder_snow/step2
+minecraft:block/powder_snow/step3
+minecraft:block/powder_snow/step4
+minecraft:block/powder_snow/step5
+minecraft:block/powder_snow/step6
+minecraft:block/powder_snow/step7
+minecraft:block/powder_snow/step8
+minecraft:block/powder_snow/step9
+minecraft:block/powder_snow/step10
