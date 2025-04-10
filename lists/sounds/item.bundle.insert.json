@@ -1,0 +1,32 @@
+{
+  "sounds": [
+    "item/bundle/insert1",
+    {
+      "name": "item/bundle/insert1",
+      "pitch": 0.95
+    },
+    {
+      "name": "item/bundle/insert1",
+      "pitch": 1.05
+    },
+    "item/bundle/insert2",
+    {
+      "name": "item/bundle/insert2",
+      "pitch": 0.95
+    },
+    {
+      "name": "item/bundle/insert2",
+      "pitch": 1.05
+    },
+    "item/bundle/insert3",
+    {
+      "name": "item/bundle/insert3",
+      "pitch": 0.95
+    },
+    {
+      "name": "item/bundle/insert3",
+      "pitch": 1.05
+    }
+  ],
+  "subtitle": "subtitles.item.bundle.insert"
+}

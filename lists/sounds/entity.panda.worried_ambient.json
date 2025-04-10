@@ -1,29 +1,11 @@
 {
   "sounds": [
-    {
-      "name": "mob/panda/worried/worried2",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/worried/worried3",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/worried/worried4",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/worried/worried5",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/worried/worried6",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/pant2",
-      "volume": 1
-    }
+    "mob/panda/pant2",
+    "mob/panda/worried/worried2",
+    "mob/panda/worried/worried3",
+    "mob/panda/worried/worried4",
+    "mob/panda/worried/worried5",
+    "mob/panda/worried/worried6"
   ],
   "subtitle": "subtitles.entity.panda.worried_ambient"
 }

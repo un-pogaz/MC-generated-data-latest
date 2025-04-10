@@ -1,11 +1,7 @@
 {
   "sounds": [
-    {
-      "name": "item/bottle/drink_honey1"
-    },
-    {
-      "name": "item/bottle/drink_honey2"
-    },
+    "item/bottle/drink_honey1",
+    "item/bottle/drink_honey2",
     {
       "name": "item/bottle/drink_honey3",
       "volume": 0.35

@@ -1,29 +1,11 @@
 {
   "sounds": [
-    {
-      "name": "mob/strider/idle1",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/idle2",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/idle3",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/idle4",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/idle5",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/idle6",
-      "volume": 1
-    }
+    "mob/strider/idle1",
+    "mob/strider/idle2",
+    "mob/strider/idle3",
+    "mob/strider/idle4",
+    "mob/strider/idle5",
+    "mob/strider/idle6"
   ],
   "subtitle": "subtitles.entity.strider.idle"
 }

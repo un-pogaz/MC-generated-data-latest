@@ -1,13 +1,7 @@
 {
   "sounds": [
-    {
-      "name": "mob/pillager/death1",
-      "volume": 1
-    },
-    {
-      "name": "mob/pillager/death2",
-      "volume": 1
-    }
+    "mob/pillager/death1",
+    "mob/pillager/death2"
   ],
   "subtitle": "subtitles.entity.pillager.death"
 }

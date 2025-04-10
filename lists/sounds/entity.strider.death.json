@@ -1,21 +1,9 @@
 {
   "sounds": [
-    {
-      "name": "mob/strider/death1",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/death2",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/death3",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/death4",
-      "volume": 1
-    }
+    "mob/strider/death1",
+    "mob/strider/death2",
+    "mob/strider/death3",
+    "mob/strider/death4"
   ],
   "subtitle": "subtitles.entity.strider.death"
 }

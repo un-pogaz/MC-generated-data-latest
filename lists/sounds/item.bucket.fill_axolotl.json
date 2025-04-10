@@ -1,17 +1,8 @@
 {
   "sounds": [
-    {
-      "name": "item/bucket/fill_axolotl1",
-      "pitch": 1
-    },
-    {
-      "name": "item/bucket/fill_axolotl2",
-      "pitch": 1
-    },
-    {
-      "name": "item/bucket/fill_axolotl3",
-      "pitch": 1
-    }
+    "item/bucket/fill_axolotl1",
+    "item/bucket/fill_axolotl2",
+    "item/bucket/fill_axolotl3"
   ],
   "subtitle": "subtitles.item.bucket.fill_axolotl"
 }

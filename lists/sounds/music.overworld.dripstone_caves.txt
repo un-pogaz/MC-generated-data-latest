@@ -1,0 +1,7 @@
+minecraft:music/game/an_ordinary_day
+minecraft:music/game/hal1
+minecraft:music/game/hal4
+minecraft:music/game/infinite_amethyst
+minecraft:music/game/nuance1
+minecraft:music/game/nuance2
+minecraft:music/game/wending
