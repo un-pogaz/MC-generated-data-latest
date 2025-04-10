@@ -9,3 +9,4 @@ minecraft:wayfinder_armor_trim_smithing_template
 minecraft:raiser_armor_trim_smithing_template
 minecraft:shaper_armor_trim_smithing_template
 minecraft:host_armor_trim_smithing_template
+minecraft:music_disc_relic
