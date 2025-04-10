@@ -46,6 +46,7 @@ minecraft:sparse_jungle
 minecraft:bamboo_jungle
 minecraft:eroded_badlands
 minecraft:windswept_savanna
+minecraft:cherry_grove
 minecraft:frozen_peaks
 minecraft:dripstone_caves
 minecraft:lush_caves

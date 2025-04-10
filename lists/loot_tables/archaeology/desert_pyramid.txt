@@ -1,7 +1,8 @@
-minecraft:pottery_shard_archer
-minecraft:pottery_shard_prize
-minecraft:pottery_shard_skull
-minecraft:gunpowder
-minecraft:tnt
+minecraft:archer_pottery_shard
+minecraft:miner_pottery_shard
+minecraft:prize_pottery_shard
+minecraft:skull_pottery_shard
 minecraft:diamond
+minecraft:tnt
+minecraft:gunpowder
 minecraft:emerald
