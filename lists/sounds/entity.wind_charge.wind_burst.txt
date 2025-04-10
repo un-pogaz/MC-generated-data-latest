@@ -1,0 +1,3 @@
+minecraft:entity/wind_charge/wind_burst1
+minecraft:entity/wind_charge/wind_burst2
+minecraft:entity/wind_charge/wind_burst3

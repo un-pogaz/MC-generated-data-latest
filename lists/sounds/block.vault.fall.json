@@ -1,5 +1,12 @@
 {
   "sounds": [
-    "step/stone1"
+    "block/vault/step1",
+    "block/vault/step2",
+    "block/vault/step3",
+    "block/vault/step4",
+    "block/vault/step5",
+    "block/vault/step6",
+    "block/vault/step7",
+    "block/vault/step8"
   ]
 }
