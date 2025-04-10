@@ -1,14 +1,18 @@
 {
   "sounds": [
     {
-      "name": "music/game/nether/crimson_forest/chrysopoeia",
-      "stream": true,
-      "volume": 0.5,
-      "weight": 7
+      "name": "music/game/nether/ballad_of_the_cats",
+      "stream": true
     },
     {
       "name": "music/game/nether/concrete_halls",
       "stream": true
+    },
+    {
+      "name": "music/game/nether/crimson_forest/chrysopoeia",
+      "stream": true,
+      "volume": 0.5,
+      "weight": 7
     },
     {
       "name": "music/game/nether/dead_voxel",
@@ -16,10 +20,6 @@
     },
     {
       "name": "music/game/nether/warmth",
-      "stream": true
-    },
-    {
-      "name": "music/game/nether/ballad_of_the_cats",
       "stream": true
     }
   ]

@@ -1,0 +1,4 @@
+minecraft:mob/armadillo/hurt_reduced1
+minecraft:mob/armadillo/hurt_reduced2
+minecraft:mob/armadillo/hurt_reduced3
+minecraft:mob/armadillo/hurt_reduced4

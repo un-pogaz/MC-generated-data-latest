@@ -1,15 +1,7 @@
 {
   "sounds": [
     {
-      "name": "music/game/minecraft",
-      "stream": true
-    },
-    {
       "name": "music/game/clark",
-      "stream": true
-    },
-    {
-      "name": "music/game/sweden",
       "stream": true
     },
     {
@@ -27,11 +19,19 @@
       "stream": true
     },
     {
+      "name": "music/game/mice_on_venus",
+      "stream": true
+    },
+    {
+      "name": "music/game/minecraft",
+      "stream": true
+    },
+    {
       "name": "music/game/oxygene",
       "stream": true
     },
     {
-      "name": "music/game/mice_on_venus",
+      "name": "music/game/sweden",
       "stream": true
     },
     {
