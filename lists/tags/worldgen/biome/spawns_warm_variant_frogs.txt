@@ -1,4 +1,5 @@
 minecraft:desert
+minecraft:warm_ocean
 #minecraft:is_jungle
 #minecraft:is_savanna
 #minecraft:is_nether

@@ -654,6 +654,9 @@ minecraft:block/redstone_lamp_on
 minecraft:block/redstone_ore
 minecraft:block/redstone_torch
 minecraft:block/redstone_torch_off
+minecraft:block/reinforced_deepslate_bottom
+minecraft:block/reinforced_deepslate_side
+minecraft:block/reinforced_deepslate_top
 minecraft:block/repeater
 minecraft:block/repeater_on
 minecraft:block/repeating_command_block_back  [mcmeta]
@@ -690,6 +693,7 @@ minecraft:block/sculk_sensor_tendril_active  [mcmeta]
 minecraft:block/sculk_sensor_tendril_inactive  [mcmeta]
 minecraft:block/sculk_sensor_top
 minecraft:block/sculk_shrieker_bottom
+minecraft:block/sculk_shrieker_can_summon_inner_top  [mcmeta]
 minecraft:block/sculk_shrieker_inner_top  [mcmeta]
 minecraft:block/sculk_shrieker_side
 minecraft:block/sculk_shrieker_top
@@ -856,6 +860,7 @@ minecraft:colormap/foliage
 minecraft:colormap/grass
 minecraft:effect/dither
 minecraft:entity/alex
+minecraft:entity/allay/allay
 minecraft:entity/armorstand/wood
 minecraft:entity/axolotl/axolotl_blue
 minecraft:entity/axolotl/axolotl_cyan
@@ -1236,7 +1241,6 @@ minecraft:entity/villager/villager
 minecraft:entity/wandering_trader
 minecraft:entity/warden/warden
 minecraft:entity/warden/warden_bioluminescent_layer
-minecraft:entity/warden/warden_ears
 minecraft:entity/warden/warden_heart
 minecraft:entity/warden/warden_pulsating_spots_1
 minecraft:entity/warden/warden_pulsating_spots_2
