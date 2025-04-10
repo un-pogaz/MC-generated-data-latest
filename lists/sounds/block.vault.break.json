@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/vault/break1",
+    "block/vault/break2",
+    "block/vault/break3",
+    "block/vault/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}
