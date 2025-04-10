@@ -20,6 +20,9 @@ minecraft:diorite_stairs
 minecraft:end_stone_brick_stairs
 minecraft:exposed_cut_copper_stairs
 minecraft:granite_stairs
+minecraft:grimstone_brick_stairs
+minecraft:grimstone_stairs
+minecraft:grimstone_tile_stairs
 minecraft:iron_door
 minecraft:iron_trapdoor
 minecraft:jungle_door
@@ -40,6 +43,7 @@ minecraft:polished_blackstone_brick_stairs
 minecraft:polished_blackstone_stairs
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_stairs
+minecraft:polished_grimstone_stairs
 minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
 minecraft:purpur_stairs
