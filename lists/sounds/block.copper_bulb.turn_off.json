@@ -2,7 +2,7 @@
   "sounds": [
     {
       "attenuation_distance": 6,
-      "name": "block/copper_bulb/turn_off",
+      "name": "block/copper_bulb/toggle",
       "pitch": 0.75
     }
   ],
