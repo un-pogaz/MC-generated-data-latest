@@ -2352,7 +2352,7 @@
       Name: "minecraft:air"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Properties: {
@@ -2659,5 +2659,5 @@
       Name: "minecraft:campfire"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

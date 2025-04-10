@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/copper/break1",
+    "block/copper/break2",
+    "block/copper/break3",
+    "block/copper/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

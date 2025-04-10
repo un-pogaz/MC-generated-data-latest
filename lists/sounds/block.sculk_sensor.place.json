@@ -1,0 +1,30 @@
+{
+  "sounds": [
+    {
+      "name": "block/sculk_sensor/place1",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/sculk_sensor/place2",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/sculk_sensor/place3",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/sculk_sensor/place4",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/sculk_sensor/place5",
+      "pitch": 1.2,
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

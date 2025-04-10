@@ -1,0 +1,56 @@
+{
+  "sounds": [
+    {
+      "name": "block/amethyst/step1",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step2",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step3",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step4",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step5",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step6",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step7",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step8",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step9",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step10",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step11",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step12",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/step14",
+      "volume": 1
+    }
+  ]
+}
