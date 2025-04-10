@@ -719,6 +719,11 @@ minecraft:block/door_top_left_open
 minecraft:block/door_top_right
 minecraft:block/door_top_right_open
 minecraft:block/dragon_egg
+minecraft:block/dried_ghast
+minecraft:block/dried_ghast_hydration_0
+minecraft:block/dried_ghast_hydration_1
+minecraft:block/dried_ghast_hydration_2
+minecraft:block/dried_ghast_hydration_3
 minecraft:block/dried_kelp_block
 minecraft:block/dripstone_block
 minecraft:block/dropper
@@ -2287,6 +2292,7 @@ minecraft:item/black_bundle_open_back
 minecraft:item/black_bundle_open_front
 minecraft:item/black_candle
 minecraft:item/black_dye
+minecraft:item/black_harness
 minecraft:item/black_shulker_box
 minecraft:item/black_stained_glass_pane
 minecraft:item/blade_pottery_sherd
@@ -2300,6 +2306,7 @@ minecraft:item/blue_bundle_open_front
 minecraft:item/blue_candle
 minecraft:item/blue_dye
 minecraft:item/blue_egg
+minecraft:item/blue_harness
 minecraft:item/blue_orchid
 minecraft:item/blue_shulker_box
 minecraft:item/blue_stained_glass_pane
@@ -2329,6 +2336,7 @@ minecraft:item/brown_bundle_open_front
 minecraft:item/brown_candle
 minecraft:item/brown_dye
 minecraft:item/brown_egg
+minecraft:item/brown_harness
 minecraft:item/brown_mushroom
 minecraft:item/brown_shulker_box
 minecraft:item/brown_stained_glass_pane
@@ -2555,6 +2563,7 @@ minecraft:item/cyan_bundle_open_back
 minecraft:item/cyan_bundle_open_front
 minecraft:item/cyan_candle
 minecraft:item/cyan_dye
+minecraft:item/cyan_harness
 minecraft:item/cyan_shulker_box
 minecraft:item/cyan_stained_glass_pane
 minecraft:item/dandelion
@@ -2766,6 +2775,7 @@ minecraft:item/gray_bundle_open_back
 minecraft:item/gray_bundle_open_front
 minecraft:item/gray_candle
 minecraft:item/gray_dye
+minecraft:item/gray_harness
 minecraft:item/gray_shulker_box
 minecraft:item/gray_stained_glass_pane
 minecraft:item/green_bed
@@ -2774,6 +2784,7 @@ minecraft:item/green_bundle_open_back
 minecraft:item/green_bundle_open_front
 minecraft:item/green_candle
 minecraft:item/green_dye
+minecraft:item/green_harness
 minecraft:item/green_shulker_box
 minecraft:item/green_stained_glass_pane
 minecraft:item/guardian_spawn_egg
@@ -2784,6 +2795,7 @@ minecraft:item/handheld
 minecraft:item/handheld_mace
 minecraft:item/handheld_rod
 minecraft:item/hanging_roots
+minecraft:item/happy_ghast_spawn_egg
 minecraft:item/heart_of_the_sea
 minecraft:item/heart_pottery_sherd
 minecraft:item/heartbreak_pottery_sherd
@@ -2949,6 +2961,7 @@ minecraft:item/light_blue_bundle_open_back
 minecraft:item/light_blue_bundle_open_front
 minecraft:item/light_blue_candle
 minecraft:item/light_blue_dye
+minecraft:item/light_blue_harness
 minecraft:item/light_blue_shulker_box
 minecraft:item/light_blue_stained_glass_pane
 minecraft:item/light_gray_bed
@@ -2957,6 +2970,7 @@ minecraft:item/light_gray_bundle_open_back
 minecraft:item/light_gray_bundle_open_front
 minecraft:item/light_gray_candle
 minecraft:item/light_gray_dye
+minecraft:item/light_gray_harness
 minecraft:item/light_gray_shulker_box
 minecraft:item/light_gray_stained_glass_pane
 minecraft:item/lilac
@@ -2968,6 +2982,7 @@ minecraft:item/lime_bundle_open_back
 minecraft:item/lime_bundle_open_front
 minecraft:item/lime_candle
 minecraft:item/lime_dye
+minecraft:item/lime_harness
 minecraft:item/lime_shulker_box
 minecraft:item/lime_stained_glass_pane
 minecraft:item/lingering_potion
@@ -2979,6 +2994,7 @@ minecraft:item/magenta_bundle_open_back
 minecraft:item/magenta_bundle_open_front
 minecraft:item/magenta_candle
 minecraft:item/magenta_dye
+minecraft:item/magenta_harness
 minecraft:item/magenta_shulker_box
 minecraft:item/magenta_stained_glass_pane
 minecraft:item/magma_cream
@@ -3099,6 +3115,7 @@ minecraft:item/orange_bundle_open_back
 minecraft:item/orange_bundle_open_front
 minecraft:item/orange_candle
 minecraft:item/orange_dye
+minecraft:item/orange_harness
 minecraft:item/orange_shulker_box
 minecraft:item/orange_stained_glass_pane
 minecraft:item/orange_tulip
@@ -3129,6 +3146,7 @@ minecraft:item/pink_bundle_open_back
 minecraft:item/pink_bundle_open_front
 minecraft:item/pink_candle
 minecraft:item/pink_dye
+minecraft:item/pink_harness
 minecraft:item/pink_petals
 minecraft:item/pink_shulker_box
 minecraft:item/pink_stained_glass_pane
@@ -3160,6 +3178,7 @@ minecraft:item/purple_bundle_open_back
 minecraft:item/purple_bundle_open_front
 minecraft:item/purple_candle
 minecraft:item/purple_dye
+minecraft:item/purple_harness
 minecraft:item/purple_shulker_box
 minecraft:item/purple_stained_glass_pane
 minecraft:item/quartz
@@ -3212,6 +3231,7 @@ minecraft:item/red_bundle_open_back
 minecraft:item/red_bundle_open_front
 minecraft:item/red_candle
 minecraft:item/red_dye
+minecraft:item/red_harness
 minecraft:item/red_mushroom
 minecraft:item/red_shulker_box
 minecraft:item/red_stained_glass_pane
@@ -3367,6 +3387,7 @@ minecraft:item/white_bundle_open_back
 minecraft:item/white_bundle_open_front
 minecraft:item/white_candle
 minecraft:item/white_dye
+minecraft:item/white_harness
 minecraft:item/white_shulker_box
 minecraft:item/white_stained_glass_pane
 minecraft:item/white_tulip
@@ -3393,6 +3414,7 @@ minecraft:item/yellow_bundle_open_back
 minecraft:item/yellow_bundle_open_front
 minecraft:item/yellow_candle
 minecraft:item/yellow_dye
+minecraft:item/yellow_harness
 minecraft:item/yellow_shulker_box
 minecraft:item/yellow_stained_glass_pane
 minecraft:item/zoglin_spawn_egg

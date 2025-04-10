@@ -5,5 +5,5 @@
     "block/copper_trapdoor/toggle3",
     "block/copper_trapdoor/toggle4"
   ],
-  "subtitle": "subtitles.block.copper_trapdoor.close"
+  "subtitle": "subtitles.block.trapdoor.close"
 }

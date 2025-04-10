@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/dried_ghast/wood1",
+    "block/dried_ghast/wood2",
+    "block/dried_ghast/wood3",
+    "block/dried_ghast/wood4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

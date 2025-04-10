@@ -1,0 +1,6 @@
+minecraft:block/dried_ghast/step/wood1
+minecraft:block/dried_ghast/step/wood2
+minecraft:block/dried_ghast/step/wood3
+minecraft:block/dried_ghast/step/wood4
+minecraft:block/dried_ghast/step/wood5
+minecraft:block/dried_ghast/step/wood6

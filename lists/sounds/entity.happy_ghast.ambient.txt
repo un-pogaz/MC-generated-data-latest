@@ -1,0 +1,14 @@
+minecraft:mob/happy_ghast/ambient1
+minecraft:mob/happy_ghast/ambient2
+minecraft:mob/happy_ghast/ambient3
+minecraft:mob/happy_ghast/ambient4
+minecraft:mob/happy_ghast/ambient5
+minecraft:mob/happy_ghast/ambient6
+minecraft:mob/happy_ghast/ambient7
+minecraft:mob/happy_ghast/ambient8
+minecraft:mob/happy_ghast/ambient9
+minecraft:mob/happy_ghast/ambient10
+minecraft:mob/happy_ghast/ambient11
+minecraft:mob/happy_ghast/ambient12
+minecraft:mob/happy_ghast/ambient13
+minecraft:mob/happy_ghast/ambient14

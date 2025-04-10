@@ -1,0 +1,1 @@
+minecraft:mob/happy_ghast/harness_unequip

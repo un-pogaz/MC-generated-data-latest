@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    "block/dry_grass/wind1",
+    "block/dry_grass/wind2",
+    "block/dry_grass/wind3",
+    "block/dry_grass/wind4",
+    "block/dry_grass/wind5",
+    "block/dry_grass/wind6",
+    "block/dry_grass/wind7",
+    "block/dry_grass/wind8",
+    "block/dry_grass/wind9",
+    "block/dry_grass/wind10",
+    "block/dry_grass/wind11",
+    "block/dry_grass/wind12"
+  ],
+  "subtitle": "subtitles.block.dry_grass.ambient"
+}

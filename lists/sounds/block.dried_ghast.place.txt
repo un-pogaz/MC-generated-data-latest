@@ -1,0 +1,4 @@
+minecraft:block/dried_ghast/wood1
+minecraft:block/dried_ghast/wood2
+minecraft:block/dried_ghast/wood3
+minecraft:block/dried_ghast/wood4

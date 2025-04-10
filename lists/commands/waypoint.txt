@@ -1,0 +1,6 @@
+waypoint list
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> color <color minecraft:color>
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> color hex <color minecraft:hex_color>
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> color reset
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> fade <fade_start brigadier:integer[max="60000000", min="0"]> <alpha_start brigadier:float[max="1.0", min="0.0"]> <fade_end brigadier:integer[max="60000000", min="0"]> <alpha_end brigadier:float[max="1.0", min="0.0"]>
+waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> fade reset

@@ -1,2 +1,2 @@
-minecraft:entity/pufferfish/sting1
-minecraft:entity/pufferfish/sting2
+minecraft:mob/pufferfish/sting1
+minecraft:mob/pufferfish/sting2

@@ -1,3 +1,4 @@
+datapack create <id brigadier:string[type="phrase"]> <description minecraft:component>
 datapack disable <name brigadier:string[type="phrase"]>
 datapack enable <name brigadier:string[type="phrase"]>
 datapack enable <name brigadier:string[type="phrase"]> after <existing brigadier:string[type="phrase"]>

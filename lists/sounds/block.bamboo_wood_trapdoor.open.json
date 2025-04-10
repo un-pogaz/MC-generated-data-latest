@@ -5,5 +5,5 @@
     "block/bamboo_wood_trapdoor/toggle3",
     "block/bamboo_wood_trapdoor/toggle4"
   ],
-  "subtitle": "subtitles.block.trapdoor.toggle"
+  "subtitle": "subtitles.block.trapdoor.open"
 }

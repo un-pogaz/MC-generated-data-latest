@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "mob/ghastling/ghastling1",
+    "mob/ghastling/ghastling2",
+    "mob/ghastling/ghastling3",
+    "mob/ghastling/ghastling4",
+    "mob/ghastling/ghastling5",
+    "mob/ghastling/ghastling6",
+    "mob/ghastling/ghastling7"
+  ],
+  "subtitle": "subtitles.entity.ghastling.ambient"
+}

@@ -1,3 +1,3 @@
-minecraft:entity/squid/death1
-minecraft:entity/squid/death2
-minecraft:entity/squid/death3
+minecraft:mob/squid/death1
+minecraft:mob/squid/death2
+minecraft:mob/squid/death3

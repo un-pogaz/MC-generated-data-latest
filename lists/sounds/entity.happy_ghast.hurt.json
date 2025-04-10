@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/happy_ghast/hurt1",
+    "mob/happy_ghast/hurt2",
+    "mob/happy_ghast/hurt3",
+    "mob/happy_ghast/hurt4",
+    "mob/happy_ghast/hurt5",
+    "mob/happy_ghast/hurt6"
+  ],
+  "subtitle": "subtitles.entity.happy_ghast.hurt"
+}

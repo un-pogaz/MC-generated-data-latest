@@ -1,0 +1,2 @@
+minecraft:block/dried_ghast/ambient_water1
+minecraft:block/dried_ghast/ambient_water2
