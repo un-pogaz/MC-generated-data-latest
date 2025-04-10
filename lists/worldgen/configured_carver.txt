@@ -1,4 +1,5 @@
 minecraft:canyon
 minecraft:cave
+minecraft:crack
 minecraft:nether_cave
 minecraft:ocean_cave
