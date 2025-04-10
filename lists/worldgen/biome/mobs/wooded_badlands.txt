@@ -1,3 +1,4 @@
+minecraft:armadillo
 minecraft:bat
 minecraft:creeper
 minecraft:enderman
