@@ -1232,6 +1232,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:mangrove_logs
 #minecraft:music_discs
 #minecraft:non_flammable_wood
+#minecraft:noteblock_top_instruments
 #minecraft:oak_logs
 #minecraft:piglin_food
 #minecraft:piglin_loved
