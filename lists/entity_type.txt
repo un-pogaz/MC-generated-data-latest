@@ -129,6 +129,7 @@ minecraft:zombified_piglin
 #minecraft:axolotl_hunt_targets
 #minecraft:beehive_inhabitors
 #minecraft:can_breathe_under_water
+#minecraft:can_turn_in_boats
 #minecraft:deflects_arrows
 #minecraft:deflects_tridents
 #minecraft:dismounts_underwater

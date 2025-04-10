@@ -3157,7 +3157,7 @@
       Name: "minecraft:acacia_fence"
     },
     {
-      Name: "minecraft:grass"
+      Name: "minecraft:short_grass"
     },
     {
       Properties: {
@@ -3400,5 +3400,5 @@
       Name: "minecraft:barrel"
     }
   ],
-  DataVersion: 3691
+  DataVersion: 3693
 }
