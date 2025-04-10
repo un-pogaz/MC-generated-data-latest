@@ -1,0 +1,20 @@
+{
+  "on_consume_effects": [
+    {
+      "type": "minecraft:apply_effects",
+      "effects": [
+        {
+          "amplifier": 1,
+          "duration": 100,
+          "id": "minecraft:regeneration",
+          "show_icon": true
+        },
+        {
+          "duration": 2400,
+          "id": "minecraft:absorption",
+          "show_icon": true
+        }
+      ]
+    }
+  ]
+}

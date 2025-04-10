@@ -1,0 +1,7 @@
+minecraft:beetroot_soup  = {{value}}
+minecraft:honey_bottle  = {{value}}
+minecraft:milk_bucket  = {{value}}
+minecraft:mushroom_stew  = {{value}}
+minecraft:potion  = {{value}}
+minecraft:rabbit_stew  = {{value}}
+minecraft:suspicious_stew  = {{value}}
