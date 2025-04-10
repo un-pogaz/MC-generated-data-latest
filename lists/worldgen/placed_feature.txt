@@ -40,6 +40,11 @@ minecraft:end_gateway_return
 minecraft:end_island_decorated
 minecraft:end_platform
 minecraft:end_spike
+minecraft:fallen_birch_tree
+minecraft:fallen_jungle_tree
+minecraft:fallen_oak_tree
+minecraft:fallen_spruce_tree
+minecraft:fallen_super_birch_tree
 minecraft:fancy_oak_bees
 minecraft:fancy_oak_bees_0002_leaf_litter
 minecraft:fancy_oak_bees_002

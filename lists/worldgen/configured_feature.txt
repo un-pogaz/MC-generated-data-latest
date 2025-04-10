@@ -43,6 +43,11 @@ minecraft:end_gateway_return
 minecraft:end_island
 minecraft:end_platform
 minecraft:end_spike
+minecraft:fallen_birch_tree
+minecraft:fallen_jungle_tree
+minecraft:fallen_oak_tree
+minecraft:fallen_spruce_tree
+minecraft:fallen_super_birch_tree
 minecraft:fancy_oak
 minecraft:fancy_oak_bees
 minecraft:fancy_oak_bees_0002_leaf_litter
@@ -189,6 +194,8 @@ minecraft:super_birch_bees
 minecraft:super_birch_bees_0002
 minecraft:swamp_oak
 minecraft:tall_mangrove
+minecraft:trees_badlands
+minecraft:trees_birch
 minecraft:trees_birch_and_oak_leaf_litter
 minecraft:trees_flower_forest
 minecraft:trees_grove
@@ -197,6 +204,7 @@ minecraft:trees_old_growth_pine_taiga
 minecraft:trees_old_growth_spruce_taiga
 minecraft:trees_plains
 minecraft:trees_savanna
+minecraft:trees_snowy
 minecraft:trees_sparse_jungle
 minecraft:trees_taiga
 minecraft:trees_water
