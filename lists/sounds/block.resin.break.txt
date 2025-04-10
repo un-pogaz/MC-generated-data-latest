@@ -1,1 +1,5 @@
-minecraft:block/resin/resin_break
+minecraft:block/resin/resin_break1
+minecraft:block/resin/resin_break2
+minecraft:block/resin/resin_break3
+minecraft:block/resin/resin_break4
+minecraft:block/resin/resin_break5

@@ -272,6 +272,7 @@ minecraft:red_stained_glass_pane
 minecraft:resin_brick_slab
 minecraft:resin_brick_stairs
 minecraft:resin_brick_wall
+minecraft:resin_clump
 minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sandstone_wall
