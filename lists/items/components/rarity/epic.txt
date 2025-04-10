@@ -15,3 +15,5 @@ minecraft:repeating_command_block
 minecraft:silence_armor_trim_smithing_template
 minecraft:structure_block
 minecraft:structure_void
+minecraft:test_block
+minecraft:test_instance_block

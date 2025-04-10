@@ -55,8 +55,10 @@ minecraft:set_command_minecart
 minecraft:set_creative_mode_slot
 minecraft:set_jigsaw_block
 minecraft:set_structure_block
+minecraft:set_test_block
 minecraft:sign_update
 minecraft:swing
 minecraft:teleport_to_entity
+minecraft:test_instance_block_action
 minecraft:use_item
 minecraft:use_item_on

@@ -931,6 +931,11 @@ minecraft:block/tall_seagrass_top  [mcmeta]
 minecraft:block/target_side
 minecraft:block/target_top
 minecraft:block/terracotta
+minecraft:block/test_block_accept
+minecraft:block/test_block_fail
+minecraft:block/test_block_log
+minecraft:block/test_block_start
+minecraft:block/test_instance_block
 minecraft:block/tinted_glass
 minecraft:block/tnt_bottom
 minecraft:block/tnt_side
@@ -1223,10 +1228,13 @@ minecraft:entity/enderdragon/dragon_fireball
 minecraft:entity/enderman/enderman
 minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
+minecraft:entity/equipment/camel_saddle/saddle
+minecraft:entity/equipment/donkey_saddle/saddle
 minecraft:entity/equipment/horse_body/diamond
 minecraft:entity/equipment/horse_body/gold
 minecraft:entity/equipment/horse_body/iron
 minecraft:entity/equipment/horse_body/leather
+minecraft:entity/equipment/horse_saddle/saddle
 minecraft:entity/equipment/humanoid/chainmail
 minecraft:entity/equipment/humanoid/diamond
 minecraft:entity/equipment/humanoid/gold
@@ -1259,9 +1267,14 @@ minecraft:entity/equipment/llama_body/red
 minecraft:entity/equipment/llama_body/trader_llama
 minecraft:entity/equipment/llama_body/white
 minecraft:entity/equipment/llama_body/yellow
+minecraft:entity/equipment/mule_saddle/saddle
+minecraft:entity/equipment/pig_saddle/saddle
+minecraft:entity/equipment/skeleton_horse_saddle/saddle
+minecraft:entity/equipment/strider_saddle/saddle
 minecraft:entity/equipment/wings/elytra
 minecraft:entity/equipment/wolf_body/armadillo_scute
 minecraft:entity/equipment/wolf_body/armadillo_scute_overlay
+minecraft:entity/equipment/zombie_horse_saddle/saddle
 minecraft:entity/experience_orb
 minecraft:entity/fish/cod
 minecraft:entity/fish/pufferfish
@@ -1346,7 +1359,6 @@ minecraft:entity/phantom
 minecraft:entity/phantom_eyes
 minecraft:entity/pig/cold_pig
 minecraft:entity/pig/pig
-minecraft:entity/pig/pig_saddle
 minecraft:entity/pig/warm_pig
 minecraft:entity/piglin/piglin
 minecraft:entity/piglin/piglin_brute
@@ -1488,7 +1500,6 @@ minecraft:entity/squid/glow_squid
 minecraft:entity/squid/squid
 minecraft:entity/strider/strider
 minecraft:entity/strider/strider_cold
-minecraft:entity/strider/strider_saddle
 minecraft:entity/tadpole/tadpole
 minecraft:entity/trident
 minecraft:entity/trident_riptide
