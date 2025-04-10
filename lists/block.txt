@@ -1085,6 +1085,7 @@ minecraft:zombie_wall_head
 #minecraft:logs
 #minecraft:logs_that_burn
 #minecraft:lush_ground_replaceable
+#minecraft:maintains_farmland
 #minecraft:mangrove_logs
 #minecraft:mangrove_logs_can_grow_through
 #minecraft:mangrove_roots_can_grow_through
@@ -1138,6 +1139,7 @@ minecraft:zombie_wall_head
 #minecraft:stairs
 #minecraft:standing_signs
 #minecraft:stone_bricks
+#minecraft:stone_buttons
 #minecraft:stone_ore_replaceables
 #minecraft:stone_pressure_plates
 #minecraft:strider_warm_blocks

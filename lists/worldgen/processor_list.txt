@@ -28,7 +28,9 @@ minecraft:stable_degradation
 minecraft:street_plains
 minecraft:street_savanna
 minecraft:street_snowy_or_taiga
-minecraft:trail_ruins_suspicious_sand
+minecraft:trail_ruins_houses_archaeology
+minecraft:trail_ruins_roads_archaeology
+minecraft:trail_ruins_tower_top_archaeology
 minecraft:treasure_rooms
 minecraft:zombie_desert
 minecraft:zombie_plains
