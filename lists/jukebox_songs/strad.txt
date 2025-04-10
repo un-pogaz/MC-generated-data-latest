@@ -1,0 +1,4 @@
+sound_event: minecraft:music_disc.strad
+title: strad
+author: C418
+length: 3m 8s

@@ -1,0 +1,34 @@
+{
+  size: [1, 2, 1],
+  entities: [],
+  blocks: [
+    {
+      pos: [0, 1, 0],
+      state: 0
+    },
+    {
+      nbt: {
+        final_state: "minecraft:acacia_fence[east=false,north=false,south=false,waterlogged=false,west=false]]",
+        name: "minecraft:bottom",
+        pool: "minecraft:empty",
+        joint: "rollable",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [0, 0, 0],
+      state: 1
+    }
+  ],
+  palette: [
+    {
+      Name: "minecraft:torch"
+    },
+    {
+      Properties: {
+        orientation: "down_south"
+      },
+      Name: "minecraft:jigsaw"
+    }
+  ],
+  DataVersion: 3946
+}
