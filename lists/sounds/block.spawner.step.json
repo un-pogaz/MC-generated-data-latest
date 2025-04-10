@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/spawner/step1",
+    "block/spawner/step2",
+    "block/spawner/step3",
+    "block/spawner/step4",
+    "block/spawner/step5"
+  ],
+  "subtitle": "subtitles.block.generic.step"
+}

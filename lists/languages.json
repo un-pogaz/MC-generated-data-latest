@@ -39,6 +39,11 @@
     "region": "Беларусь",
     "bidirectional": false
   },
+  "be_latn": {
+    "name": "Biełaruskaja",
+    "region": "Biełaruś",
+    "bidirectional": false
+  },
   "bg_bg": {
     "name": "Български",
     "region": "България",
@@ -440,7 +445,7 @@
     "bidirectional": false
   },
   "nn_no": {
-    "name": "Norsk",
+    "name": "Nynorsk",
     "region": "Noreg",
     "bidirectional": false
   },
@@ -589,6 +594,11 @@
     "region": "Татарстан, Рәсәй",
     "bidirectional": false
   },
+  "tzo_mx": {
+    "name": "Bats'i k'op",
+    "region": "Jobel",
+    "bidirectional": false
+  },
   "uk_ua": {
     "name": "Українська",
     "region": "Україна",
@@ -616,7 +626,7 @@
   },
   "yi_de": {
     "name": "ייִדיש",
-    "region": "אשכנזישע יידן",
+    "region": "אשכנזיש יידן",
     "bidirectional": true
   },
   "yo_ng": {
