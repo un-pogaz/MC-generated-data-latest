@@ -1,6 +1,7 @@
 {
   "block_delay_seconds": 0.25,
   "block_sound": "minecraft:item.shield.block",
+  "bypassed_by": "#minecraft:bypasses_shield",
   "disabled_sound": "minecraft:item.shield.break",
   "item_damage": {
     "base": 1.0,

@@ -292,6 +292,7 @@ minecraft:block/bubble_coral_block
 minecraft:block/bubble_coral_fan
 minecraft:block/bubble_coral_wall_fan
 minecraft:block/budding_amethyst
+minecraft:block/bush
 minecraft:block/button
 minecraft:block/button_inventory
 minecraft:block/button_pressed
@@ -785,6 +786,7 @@ minecraft:block/fire_up0
 minecraft:block/fire_up1
 minecraft:block/fire_up_alt0
 minecraft:block/fire_up_alt1
+minecraft:block/firefly_bush
 minecraft:block/fletching_table
 minecraft:block/flower_pot
 minecraft:block/flower_pot_cross
@@ -2328,6 +2330,7 @@ minecraft:item/bundle
 minecraft:item/bundle_open_back
 minecraft:item/bundle_open_front
 minecraft:item/burn_pottery_sherd
+minecraft:item/bush
 minecraft:item/cake
 minecraft:item/campfire
 minecraft:item/candle
@@ -2637,6 +2640,7 @@ minecraft:item/filled_map
 minecraft:item/fire_charge
 minecraft:item/fire_coral
 minecraft:item/fire_coral_fan
+minecraft:item/firefly_bush
 minecraft:item/firework_rocket
 minecraft:item/firework_star
 minecraft:item/fishing_rod

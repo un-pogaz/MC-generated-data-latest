@@ -11,6 +11,7 @@ minecraft:chat_type
 minecraft:chunk_status
 minecraft:command_argument_type
 minecraft:consume_effect_type
+minecraft:cow_variant
 minecraft:creative_mode_tab
 minecraft:custom_stat
 minecraft:damage_type
