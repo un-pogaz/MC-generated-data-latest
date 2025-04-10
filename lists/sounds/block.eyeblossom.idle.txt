@@ -1,0 +1,6 @@
+minecraft:block/eyeblossom/eyeblossom_idle1
+minecraft:block/eyeblossom/eyeblossom_idle2
+minecraft:block/eyeblossom/eyeblossom_idle3
+minecraft:block/eyeblossom/eyeblossom_idle4
+minecraft:block/eyeblossom/eyeblossom_idle5
+minecraft:block/eyeblossom/eyeblossom_idle6

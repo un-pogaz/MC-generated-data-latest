@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/eyeblossom/eyeblossom_idle1",
+    "block/eyeblossom/eyeblossom_idle2",
+    "block/eyeblossom/eyeblossom_idle3",
+    "block/eyeblossom/eyeblossom_idle4",
+    "block/eyeblossom/eyeblossom_idle5",
+    "block/eyeblossom/eyeblossom_idle6"
+  ],
+  "subtitle": "subtitles.ambient.sound"
+}

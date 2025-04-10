@@ -24,5 +24,6 @@
       "name": "block/mud_bricks/step6",
       "volume": 0.5
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

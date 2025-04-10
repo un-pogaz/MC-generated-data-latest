@@ -1,0 +1,1 @@
+minecraft:block/resin_bricks/resin_brick_break

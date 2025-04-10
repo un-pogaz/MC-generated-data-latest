@@ -8,5 +8,6 @@
     "block/vault/step6",
     "block/vault/step7",
     "block/vault/step8"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

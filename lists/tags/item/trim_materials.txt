@@ -8,3 +8,4 @@ minecraft:netherite_ingot
 minecraft:redstone
 minecraft:quartz
 minecraft:amethyst_shard
+minecraft:resin_clump

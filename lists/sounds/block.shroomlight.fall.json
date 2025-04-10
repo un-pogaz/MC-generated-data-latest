@@ -6,5 +6,6 @@
     "block/shroomlight/step4",
     "block/shroomlight/step5",
     "block/shroomlight/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

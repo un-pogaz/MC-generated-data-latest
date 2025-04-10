@@ -4,5 +4,6 @@
     "block/heavy_core/step2",
     "block/heavy_core/step3",
     "block/heavy_core/step4"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

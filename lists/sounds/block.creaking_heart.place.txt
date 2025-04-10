@@ -1,4 +1,4 @@
-minecraft:block/creaking_heart/place/wood1
-minecraft:block/creaking_heart/place/wood2
-minecraft:block/creaking_heart/place/wood3
-minecraft:block/creaking_heart/place/wood4
+minecraft:block/creaking_heart/place/creaking_heart_place1
+minecraft:block/creaking_heart/place/creaking_heart_place2
+minecraft:block/creaking_heart/place/creaking_heart_place3
+minecraft:block/creaking_heart/place/creaking_heart_place4

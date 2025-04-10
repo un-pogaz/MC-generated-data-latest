@@ -6,5 +6,6 @@
     "block/froglight/step4",
     "block/froglight/step5",
     "block/froglight/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

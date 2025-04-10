@@ -6,5 +6,6 @@
     "step/wood4",
     "step/wood5",
     "step/wood6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

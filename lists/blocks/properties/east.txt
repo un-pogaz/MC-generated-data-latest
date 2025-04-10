@@ -54,6 +54,8 @@ minecraft:red_nether_brick_wall
 minecraft:red_sandstone_wall
 minecraft:red_stained_glass_pane
 minecraft:redstone_wire
+minecraft:resin_brick_wall
+minecraft:resin_clump
 minecraft:sandstone_wall
 minecraft:sculk_vein
 minecraft:spruce_fence

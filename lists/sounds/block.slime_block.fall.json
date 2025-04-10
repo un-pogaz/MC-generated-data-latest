@@ -5,5 +5,6 @@
     "mob/slime/small3",
     "mob/slime/small4",
     "mob/slime/small5"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }
