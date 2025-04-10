@@ -3370,7 +3370,7 @@
         integrity: 1.0f,
         posZ: 1,
         showair: 0b,
-        name: "1x2B1",
+        name: "",
         id: "minecraft:structure_block",
         sizeY: 8,
         showboundingbox: 0b,
@@ -3431,5 +3431,5 @@
       Name: "minecraft:structure_block"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }

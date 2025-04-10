@@ -2752,6 +2752,7 @@
     },
     {
       nbt: {
+        joint: "aligned",
         final_state: "minecraft:oak_fence",
         name: "minecraft:building_entrance",
         pool: "minecraft:village/plains/streets",
@@ -3015,5 +3016,5 @@
       Name: "minecraft:lectern"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }
