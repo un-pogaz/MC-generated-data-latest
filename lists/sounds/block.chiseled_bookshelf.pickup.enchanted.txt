@@ -1,0 +1,9 @@
+minecraft:block/chiseled_bookshelf/pickup_enchanted1
+minecraft:block/chiseled_bookshelf/pickup_enchanted1
+minecraft:block/chiseled_bookshelf/pickup_enchanted1
+minecraft:block/chiseled_bookshelf/pickup_enchanted2
+minecraft:block/chiseled_bookshelf/pickup_enchanted2
+minecraft:block/chiseled_bookshelf/pickup_enchanted2
+minecraft:block/chiseled_bookshelf/pickup_enchanted3
+minecraft:block/chiseled_bookshelf/pickup_enchanted3
+minecraft:block/chiseled_bookshelf/pickup_enchanted3
