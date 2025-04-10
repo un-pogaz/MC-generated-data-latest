@@ -1,4 +1,5 @@
 minecraft:acacia_fence
+minecraft:acacia_leaves
 minecraft:acacia_sign
 minecraft:acacia_slab
 minecraft:acacia_stairs
@@ -9,9 +10,11 @@ minecraft:amethyst_cluster
 minecraft:andesite_slab
 minecraft:andesite_stairs
 minecraft:andesite_wall
+minecraft:azalea_leaves
 minecraft:big_dripleaf
 minecraft:big_dripleaf_stem
 minecraft:birch_fence
+minecraft:birch_leaves
 minecraft:birch_sign
 minecraft:birch_slab
 minecraft:birch_stairs
@@ -59,6 +62,7 @@ minecraft:cut_sandstone_slab
 minecraft:cyan_candle
 minecraft:cyan_stained_glass_pane
 minecraft:dark_oak_fence
+minecraft:dark_oak_leaves
 minecraft:dark_oak_sign
 minecraft:dark_oak_slab
 minecraft:dark_oak_stairs
@@ -100,6 +104,7 @@ minecraft:exposed_cut_copper_stairs
 minecraft:fire_coral
 minecraft:fire_coral_fan
 minecraft:fire_coral_wall_fan
+minecraft:flowering_azalea_leaves
 minecraft:glass_pane
 minecraft:glow_lichen
 minecraft:granite_slab
@@ -116,6 +121,7 @@ minecraft:horn_coral_wall_fan
 minecraft:iron_bars
 minecraft:iron_trapdoor
 minecraft:jungle_fence
+minecraft:jungle_leaves
 minecraft:jungle_sign
 minecraft:jungle_slab
 minecraft:jungle_stairs
@@ -135,6 +141,7 @@ minecraft:lime_stained_glass_pane
 minecraft:magenta_candle
 minecraft:magenta_stained_glass_pane
 minecraft:mangrove_fence
+minecraft:mangrove_leaves
 minecraft:mangrove_propagule
 minecraft:mangrove_roots
 minecraft:mangrove_sign
@@ -157,6 +164,7 @@ minecraft:nether_brick_slab
 minecraft:nether_brick_stairs
 minecraft:nether_brick_wall
 minecraft:oak_fence
+minecraft:oak_leaves
 minecraft:oak_sign
 minecraft:oak_slab
 minecraft:oak_stairs
@@ -226,6 +234,7 @@ minecraft:smooth_stone_slab
 minecraft:soul_campfire
 minecraft:soul_lantern
 minecraft:spruce_fence
+minecraft:spruce_leaves
 minecraft:spruce_sign
 minecraft:spruce_slab
 minecraft:spruce_stairs

@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/warden/agitated_1",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/agitated_2",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/agitated_3",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/agitated_4",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/agitated_5",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/agitated_6",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.warden.agitated"
+}

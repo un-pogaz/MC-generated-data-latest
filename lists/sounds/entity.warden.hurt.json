@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/warden/hurt_1",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/hurt_2",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/hurt_3",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/hurt_4",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.warden.hurt"
+}
