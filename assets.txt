@@ -3935,6 +3935,7 @@ minecraft/sounds/tile/piston/out.ogg
 minecraft/sounds/ui/cartography_table/drawmap1.ogg
 minecraft/sounds/ui/cartography_table/drawmap2.ogg
 minecraft/sounds/ui/cartography_table/drawmap3.ogg
+minecraft/sounds/ui/hud/hud_bubble.ogg
 minecraft/sounds/ui/loom/select_pattern1.ogg
 minecraft/sounds/ui/loom/select_pattern2.ogg
 minecraft/sounds/ui/loom/select_pattern3.ogg
