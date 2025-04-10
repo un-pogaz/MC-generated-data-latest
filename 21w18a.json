@@ -1,0 +1,13 @@
+{
+  "id": "21w18a",
+  "type": "snapshot",
+  "time": "2021-05-05T15:24:35+00:00",
+  "releaseTime": "2021-05-05T15:24:35+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/4837daf3de53e331d976a4c4e7ac3f33413fde76/21w18a.json",
+  "assets": "1.17",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/778121f761dc8276a01d91120d54f33137b4c61b/1.17.json",
+  "client": "https://launcher.mojang.com/v1/objects/f52cf94abf99911ca88c12f776bcf30c9b6f1617/client.jar",
+  "client_mappings": "https://launcher.mojang.com/v1/objects/95bea66557e205298d65d8c48924013d6afa5e57/client.txt",
+  "server": "https://launcher.mojang.com/v1/objects/0b18d883bd1132f761aa715d6a97e29e54a9b8b6/server.jar",
+  "server_mappings": "https://launcher.mojang.com/v1/objects/fb0c905d83afce0ef48001acd490f1932ed3c0cc/server.txt"
+}
