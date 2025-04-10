@@ -127,6 +127,7 @@ minecraft:light_blue_candle
 minecraft:light_blue_stained_glass_pane
 minecraft:light_gray_candle
 minecraft:light_gray_stained_glass_pane
+minecraft:lightning_rod
 minecraft:lime_candle
 minecraft:lime_stained_glass_pane
 minecraft:magenta_candle
