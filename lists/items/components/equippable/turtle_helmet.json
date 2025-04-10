@@ -1,0 +1,5 @@
+{
+  "equip_sound": "minecraft:item.armor.equip_turtle",
+  "model": "minecraft:turtle_scute",
+  "slot": "head"
+}

@@ -1,0 +1,6 @@
+{
+  "allowed_entities": "minecraft:wolf",
+  "equip_sound": "minecraft:item.armor.equip_wolf",
+  "model": "minecraft:armadillo_scute",
+  "slot": "body"
+}

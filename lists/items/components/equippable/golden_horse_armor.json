@@ -1,0 +1,6 @@
+{
+  "allowed_entities": "minecraft:horse",
+  "equip_sound": "minecraft:item.armor.equip_gold",
+  "model": "minecraft:gold",
+  "slot": "body"
+}
