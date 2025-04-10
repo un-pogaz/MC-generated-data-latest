@@ -1,0 +1,6 @@
+minecraft:block/leaf_litter/leaf_litter_step1
+minecraft:block/leaf_litter/leaf_litter_step2
+minecraft:block/leaf_litter/leaf_litter_step3
+minecraft:block/leaf_litter/leaf_litter_step4
+minecraft:block/leaf_litter/leaf_litter_step5
+minecraft:block/leaf_litter/leaf_litter_step6

@@ -253,9 +253,11 @@ minecraft:block/crafting_table_front
 minecraft:block/crafting_table_side
 minecraft:block/crafting_table_top
 minecraft:block/creaking_heart
-minecraft:block/creaking_heart_active
+minecraft:block/creaking_heart_awake
+minecraft:block/creaking_heart_dormant
 minecraft:block/creaking_heart_top
-minecraft:block/creaking_heart_top_active
+minecraft:block/creaking_heart_top_awake
+minecraft:block/creaking_heart_top_dormant
 minecraft:block/crimson_door_bottom
 minecraft:block/crimson_door_top
 minecraft:block/crimson_fungus
@@ -483,6 +485,7 @@ minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
 minecraft:block/lava_flow  [mcmeta]
 minecraft:block/lava_still  [mcmeta]
+minecraft:block/leaf_litter
 minecraft:block/lectern_base
 minecraft:block/lectern_front
 minecraft:block/lectern_sides
@@ -1026,6 +1029,8 @@ minecraft:block/white_stained_glass_pane_top
 minecraft:block/white_terracotta
 minecraft:block/white_tulip
 minecraft:block/white_wool
+minecraft:block/wildflowers
+minecraft:block/wildflowers_stem
 minecraft:block/wither_rose
 minecraft:block/yellow_candle
 minecraft:block/yellow_candle_lit
@@ -1339,8 +1344,10 @@ minecraft:entity/parrot/parrot_red_blue
 minecraft:entity/parrot/parrot_yellow_blue
 minecraft:entity/phantom
 minecraft:entity/phantom_eyes
+minecraft:entity/pig/cold_pig
 minecraft:entity/pig/pig
 minecraft:entity/pig/pig_saddle
+minecraft:entity/pig/warm_pig
 minecraft:entity/piglin/piglin
 minecraft:entity/piglin/piglin_brute
 minecraft:entity/piglin/zombified_piglin
@@ -2731,6 +2738,7 @@ minecraft:item/white_bundle_open_front
 minecraft:item/white_candle
 minecraft:item/white_dye
 minecraft:item/wild_armor_trim_smithing_template
+minecraft:item/wildflowers
 minecraft:item/wind_charge
 minecraft:item/wolf_armor
 minecraft:item/wolf_armor_overlay
@@ -2986,6 +2994,18 @@ minecraft:particle/gust_9
 minecraft:particle/heart
 minecraft:particle/infested
 minecraft:particle/lava
+minecraft:particle/leaf_0
+minecraft:particle/leaf_1
+minecraft:particle/leaf_10
+minecraft:particle/leaf_11
+minecraft:particle/leaf_2
+minecraft:particle/leaf_3
+minecraft:particle/leaf_4
+minecraft:particle/leaf_5
+minecraft:particle/leaf_6
+minecraft:particle/leaf_7
+minecraft:particle/leaf_8
+minecraft:particle/leaf_9
 minecraft:particle/nautilus
 minecraft:particle/note
 minecraft:particle/ominous_spawning

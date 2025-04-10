@@ -49,6 +49,7 @@ minecraft:spring_lava
 
 minecraft:glow_lichen
 minecraft:forest_flowers
+minecraft:wildflowers_birch_forest
 minecraft:birch_tall
 minecraft:flower_default
 minecraft:patch_grass_forest

@@ -481,6 +481,7 @@ minecraft:large_amethyst_bud
 minecraft:large_fern
 minecraft:lava
 minecraft:lava_cauldron
+minecraft:leaf_litter
 minecraft:lectern
 minecraft:lever
 minecraft:light
@@ -1074,6 +1075,7 @@ minecraft:white_terracotta
 minecraft:white_tulip
 minecraft:white_wall_banner
 minecraft:white_wool
+minecraft:wildflowers
 minecraft:wither_rose
 minecraft:wither_skeleton_skull
 minecraft:wither_skeleton_wall_skull
@@ -1225,6 +1227,7 @@ minecraft:zombie_wall_head
 #minecraft:rails
 #minecraft:redstone_ores
 #minecraft:replaceable
+#minecraft:replaceable_by_mushrooms
 #minecraft:replaceable_by_trees
 #minecraft:sand
 #minecraft:saplings
@@ -1253,6 +1256,7 @@ minecraft:zombie_wall_head
 #minecraft:stone_pressure_plates
 #minecraft:strider_warm_blocks
 #minecraft:sword_efficient
+#minecraft:sword_instantly_mines
 #minecraft:terracotta
 #minecraft:trail_ruins_replaceable
 #minecraft:trapdoors

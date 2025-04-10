@@ -7,8 +7,10 @@ minecraft:bamboo_vegetation
 minecraft:basalt_blobs
 minecraft:basalt_pillar
 minecraft:birch_bees_0002
+minecraft:birch_bees_0002_leaf_litter
 minecraft:birch_bees_002
 minecraft:birch_checked
+minecraft:birch_leaf_litter
 minecraft:birch_tall
 minecraft:blackstone_blobs
 minecraft:blue_ice
@@ -26,6 +28,7 @@ minecraft:crimson_forest_vegetation
 minecraft:crimson_fungi
 minecraft:dark_forest_vegetation
 minecraft:dark_oak_checked
+minecraft:dark_oak_leaf_litter
 minecraft:delta
 minecraft:desert_well
 minecraft:disk_clay
@@ -38,9 +41,10 @@ minecraft:end_island_decorated
 minecraft:end_platform
 minecraft:end_spike
 minecraft:fancy_oak_bees
-minecraft:fancy_oak_bees_0002
+minecraft:fancy_oak_bees_0002_leaf_litter
 minecraft:fancy_oak_bees_002
 minecraft:fancy_oak_checked
+minecraft:fancy_oak_leaf_litter
 minecraft:flower_cherry
 minecraft:flower_default
 minecraft:flower_flower_forest
@@ -84,9 +88,10 @@ minecraft:monster_room_deep
 minecraft:mushroom_island_vegetation
 minecraft:nether_sprouts
 minecraft:oak
-minecraft:oak_bees_0002
+minecraft:oak_bees_0002_leaf_litter
 minecraft:oak_bees_002
 minecraft:oak_checked
+minecraft:oak_leaf_litter
 minecraft:ore_ancient_debris_large
 minecraft:ore_andesite_lower
 minecraft:ore_andesite_upper
@@ -146,12 +151,14 @@ minecraft:patch_fire
 minecraft:patch_grass_badlands
 minecraft:patch_grass_forest
 minecraft:patch_grass_jungle
+minecraft:patch_grass_meadow
 minecraft:patch_grass_normal
 minecraft:patch_grass_plain
 minecraft:patch_grass_savanna
 minecraft:patch_grass_taiga
 minecraft:patch_grass_taiga_2
 minecraft:patch_large_fern
+minecraft:patch_leaf_litter
 minecraft:patch_melon
 minecraft:patch_melon_sparse
 minecraft:patch_pumpkin
@@ -209,7 +216,7 @@ minecraft:super_birch_bees_0002
 minecraft:tall_mangrove_checked
 minecraft:trees_badlands
 minecraft:trees_birch
-minecraft:trees_birch_and_oak
+minecraft:trees_birch_and_oak_leaf_litter
 minecraft:trees_cherry
 minecraft:trees_flower_forest
 minecraft:trees_grove
@@ -236,3 +243,5 @@ minecraft:warm_ocean_vegetation
 minecraft:warped_forest_vegetation
 minecraft:warped_fungi
 minecraft:weeping_vines
+minecraft:wildflowers_birch_forest
+minecraft:wildflowers_meadow

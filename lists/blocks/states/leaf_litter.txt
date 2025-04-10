@@ -1,0 +1,16 @@
+facing=north,segment_amount=1  [default]
+facing=north,segment_amount=2
+facing=north,segment_amount=3
+facing=north,segment_amount=4
+facing=south,segment_amount=1
+facing=south,segment_amount=2
+facing=south,segment_amount=3
+facing=south,segment_amount=4
+facing=west,segment_amount=1
+facing=west,segment_amount=2
+facing=west,segment_amount=3
+facing=west,segment_amount=4
+facing=east,segment_amount=1
+facing=east,segment_amount=2
+facing=east,segment_amount=3
+facing=east,segment_amount=4
