@@ -10,6 +10,7 @@ minecraft:black_bed
 minecraft:black_shulker_box
 minecraft:blue_bed
 minecraft:blue_shulker_box
+minecraft:bordure_indented_banner_pattern
 minecraft:bow
 minecraft:brown_bed
 minecraft:brown_shulker_box
@@ -45,6 +46,7 @@ minecraft:diamond_shovel
 minecraft:diamond_sword
 minecraft:elytra
 minecraft:enchanted_book
+minecraft:field_masoned_banner_pattern
 minecraft:fishing_rod
 minecraft:flint_and_steel
 minecraft:flow_banner_pattern
