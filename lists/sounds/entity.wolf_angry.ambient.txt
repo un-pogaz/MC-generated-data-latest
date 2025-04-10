@@ -1,0 +1,3 @@
+minecraft:mob/wolf/angry/bark1
+minecraft:mob/wolf/angry/bark2
+minecraft:mob/wolf/angry/bark3
