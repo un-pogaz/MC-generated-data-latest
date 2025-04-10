@@ -1,3 +1,4 @@
 {
-  "slot": "head"
+  "slot": "head",
+  "swappable": false
 }
