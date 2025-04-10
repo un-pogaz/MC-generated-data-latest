@@ -3,3 +3,4 @@
 minecraft:bamboo
 minecraft:bamboo_sapling
 minecraft:gravel
+minecraft:suspicious_gravel
