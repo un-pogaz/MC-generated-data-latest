@@ -2162,7 +2162,6 @@ minecraft:item/breeze_rod
 minecraft:item/brewer_pottery_sherd
 minecraft:item/brewing_stand
 minecraft:item/brick
-minecraft:item/broken_elytra
 minecraft:item/brown_bundle
 minecraft:item/brown_bundle_open_back
 minecraft:item/brown_bundle_open_front
@@ -2347,6 +2346,7 @@ minecraft:item/dune_armor_trim_smithing_template
 minecraft:item/echo_shard
 minecraft:item/egg
 minecraft:item/elytra
+minecraft:item/elytra_broken
 minecraft:item/emerald
 minecraft:item/enchanted_book
 minecraft:item/end_crystal

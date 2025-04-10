@@ -11,6 +11,7 @@ minecraft:soul_fire
 minecraft:snow
 minecraft:vine
 minecraft:glow_lichen
+minecraft:resin_clump
 minecraft:light
 minecraft:tall_grass
 minecraft:large_fern
