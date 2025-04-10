@@ -21,3 +21,6 @@ minecraft:iron_leggings
 minecraft:iron_helmet
 minecraft:iron_pickaxe
 minecraft:iron_shovel
+
+empty
+minecraft:spire_armor_trim_smithing_template
