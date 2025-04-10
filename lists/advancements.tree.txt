@@ -39,6 +39,8 @@ end/root
   └>end/respawn_dragon
 
 husbandry/root
+└>husbandry/allay_deliver_item_to_player
+│ └>husbandry/allay_deliver_cake_to_noteblock
 └>husbandry/breed_an_animal
 │ └>husbandry/bred_all_animals
 └>husbandry/fishy_business

@@ -275,6 +275,22 @@
     "background": "minecraft:gui/advancements/backgrounds/husbandry",
     "frame": "task",
     "childs": {
+      "minecraft:husbandry/allay_deliver_item_to_player": {
+        "icon": "minecraft:cookie",
+        "title": "You Got a Friend in Me",
+        "description": "Have an Allay deliver items to you",
+        "frame": "task",
+        "hidden": true,
+        "childs": {
+          "minecraft:husbandry/allay_deliver_cake_to_noteblock": {
+            "icon": "minecraft:note_block",
+            "title": "Birthday Song",
+            "description": "Have an Allay drop a cake at a note block",
+            "frame": "challenge",
+            "hidden": true
+          }
+        }
+      },
       "minecraft:husbandry/breed_an_animal": {
         "icon": "minecraft:wheat",
         "title": "The Parrots and the Bats",

@@ -1,14 +1,9 @@
-minecraft:ancient_city/city/entrance/bottom_piece
-minecraft:ancient_city/city/entrance/bottom_piece_1
-minecraft:ancient_city/city/entrance/bottom_piece_2
-minecraft:ancient_city/city/entrance/bottom_piece_3
 minecraft:ancient_city/city/entrance/entrance_connector
 minecraft:ancient_city/city/entrance/entrance_path_1
 minecraft:ancient_city/city/entrance/entrance_path_2
 minecraft:ancient_city/city/entrance/entrance_path_3
 minecraft:ancient_city/city/entrance/entrance_path_4
 minecraft:ancient_city/city/entrance/entrance_path_5
-minecraft:ancient_city/city/entrance/top_piece
 minecraft:ancient_city/city_center/city_center_1
 minecraft:ancient_city/city_center/city_center_2
 minecraft:ancient_city/city_center/city_center_3
@@ -37,7 +32,6 @@ minecraft:ancient_city/structures/medium_pillar_1
 minecraft:ancient_city/structures/medium_ruin_1
 minecraft:ancient_city/structures/medium_ruin_2
 minecraft:ancient_city/structures/sauna_1
-minecraft:ancient_city/structures/small_portal_statue
 minecraft:ancient_city/structures/small_ruin_1
 minecraft:ancient_city/structures/small_ruin_2
 minecraft:ancient_city/structures/small_statue
@@ -54,7 +48,6 @@ minecraft:ancient_city/walls/intact_horizontal_wall_stairs_1
 minecraft:ancient_city/walls/intact_horizontal_wall_stairs_2
 minecraft:ancient_city/walls/intact_horizontal_wall_stairs_3
 minecraft:ancient_city/walls/intact_horizontal_wall_stairs_4
-minecraft:ancient_city/walls/intact_horizontal_wall_stairs_upward
 minecraft:ancient_city/walls/intact_intersection_wall_1
 minecraft:ancient_city/walls/intact_lshape_wall_1
 minecraft:ancient_city/walls/ruined_corner_wall_1
