@@ -5,4 +5,5 @@ minecraft:dark_oak_sapling  = dark_oak
 minecraft:jungle_sapling  = jungle
 minecraft:mangrove_propagule  = mangrove
 minecraft:oak_sapling  = oak
+minecraft:pale_oak_sapling  = pale_oak
 minecraft:spruce_sapling  = spruce

@@ -1,4 +1,6 @@
 minecraft:brown_mushroom  = minecraft:huge_brown_mushroom
 minecraft:crimson_fungus  = minecraft:crimson_fungus_planted
+minecraft:moss_block  = minecraft:moss_patch_bonemeal
+minecraft:pale_moss_block  = minecraft:pale_moss_patch_bonemeal
 minecraft:red_mushroom  = minecraft:huge_red_mushroom
 minecraft:warped_fungus  = minecraft:warped_fungus_planted

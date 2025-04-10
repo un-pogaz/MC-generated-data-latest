@@ -126,6 +126,9 @@ minecraft:ore_redstone
 minecraft:ore_redstone_lower
 minecraft:ore_soul_sand
 minecraft:ore_tuff
+minecraft:pale_garden_vegetation
+minecraft:pale_oak_checked
+minecraft:pale_oak_creaking_checked
 minecraft:patch_berry_bush
 minecraft:patch_berry_common
 minecraft:patch_berry_rare

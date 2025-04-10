@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "block/creaking_heart/hurt/trail1",
+    "block/creaking_heart/hurt/trail2",
+    "block/creaking_heart/hurt/trail3",
+    "block/creaking_heart/hurt/trail4",
+    "block/creaking_heart/hurt/trail5",
+    "block/creaking_heart/hurt/trail6",
+    "block/creaking_heart/hurt/trail7"
+  ],
+  "subtitle": "subtitles.block.creaking_heart.hurt"
+}

@@ -40,6 +40,8 @@ minecraft:nether_brick_fence
 minecraft:nether_brick_wall
 minecraft:oak_fence
 minecraft:orange_stained_glass_pane
+minecraft:pale_moss_carpet
+minecraft:pale_oak_fence
 minecraft:pink_stained_glass_pane
 minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_wall

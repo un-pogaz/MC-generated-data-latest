@@ -1,0 +1,12 @@
+{
+  "definition": {
+    "type": "minecraft:hanging_moss",
+    "properties": {}
+  },
+  "properties": {
+    "tip": [
+      "true",
+      "false"
+    ]
+  }
+}
