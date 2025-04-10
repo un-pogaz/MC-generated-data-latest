@@ -8,16 +8,21 @@ adventure/root
 │ └>adventure/throw_trident
 │ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying
+└>adventure/lightning_rod_with_villager_no_fire
 └>adventure/ol_betsy
 │ └>adventure/arbalistic
 │ └>adventure/two_birds_one_arrow
 │ └>adventure/whos_the_pillager_now
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
+└>adventure/spyglass_at_parrot
+│ └>adventure/spyglass_at_ghast
+│   └>adventure/spyglass_at_dragon
 └>adventure/trade
 │ └>adventure/summon_iron_golem
 └>adventure/voluntary_exile
-  └>adventure/hero_of_the_village
+│ └>adventure/hero_of_the_village
+└>adventure/walk_on_powder_snow_with_leather_boots
 
 end/root
 └>end/kill_dragon
@@ -34,10 +39,16 @@ husbandry/root
 │ └>husbandry/bred_all_animals
 └>husbandry/fishy_business
 │ └>husbandry/tactical_fishing
+│   └>husbandry/axolotl_in_a_bucket
+│     └>husbandry/kill_axolotl_target
+└>husbandry/make_a_sign_glow
 └>husbandry/plant_seed
 │ └>husbandry/balanced_diet
 │ └>husbandry/obtain_netherite_hoe
+└>husbandry/ride_a_boat_with_a_goat
 └>husbandry/safely_harvest_honey
+│ └>husbandry/wax_on
+│   └>husbandry/wax_off
 └>husbandry/silk_touch_nest
 └>husbandry/tame_an_animal
   └>husbandry/complete_catalogue
