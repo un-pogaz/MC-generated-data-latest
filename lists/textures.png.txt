@@ -286,7 +286,7 @@ minecraft:block/end_portal_frame_top
 minecraft:block/end_rod
 minecraft:block/end_stone
 minecraft:block/end_stone_bricks
-minecraft:block/exposed_copper_block
+minecraft:block/exposed_copper
 minecraft:block/exposed_cut_copper
 minecraft:block/farmland
 minecraft:block/farmland_moist
@@ -494,7 +494,7 @@ minecraft:block/orange_terracotta
 minecraft:block/orange_tulip
 minecraft:block/orange_wool
 minecraft:block/oxeye_daisy
-minecraft:block/oxidized_copper_block
+minecraft:block/oxidized_copper
 minecraft:block/oxidized_cut_copper
 minecraft:block/packed_ice
 minecraft:block/peony_bottom
@@ -739,7 +739,7 @@ minecraft:block/warped_wart_block
 minecraft:block/water_flow  [mcmeta]
 minecraft:block/water_overlay
 minecraft:block/water_still  [mcmeta]
-minecraft:block/weathered_copper_block
+minecraft:block/weathered_copper
 minecraft:block/weathered_cut_copper
 minecraft:block/weeping_vines
 minecraft:block/weeping_vines_plant
