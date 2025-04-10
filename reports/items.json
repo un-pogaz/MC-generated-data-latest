@@ -1013,7 +1013,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 4,
-          "saturation_modifier": 0.3
+          "saturation": 2.4
         }
       },
       {
@@ -1408,7 +1408,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 5,
-          "saturation_modifier": 0.6
+          "saturation": 6.0
         }
       },
       {
@@ -2287,7 +2287,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 3,
-          "saturation_modifier": 0.3
+          "saturation": 1.8000001
         }
       },
       {
@@ -2362,7 +2362,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 1,
-          "saturation_modifier": 0.6
+          "saturation": 1.2
         }
       },
       {
@@ -2433,7 +2433,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 6,
-          "saturation_modifier": 0.6
+          "saturation": 7.2000003
         }
       },
       {
@@ -4676,7 +4676,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 5,
-          "saturation_modifier": 0.6
+          "saturation": 6.0
         }
       },
       {
@@ -5991,7 +5991,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 3,
-          "saturation_modifier": 0.6
+          "saturation": 3.6000001
         }
       },
       {
@@ -7108,7 +7108,7 @@
             }
           ],
           "nutrition": 2,
-          "saturation_modifier": 0.3
+          "saturation": 1.2
         }
       },
       {
@@ -7600,7 +7600,7 @@
         "value": {
           "can_always_eat": true,
           "nutrition": 4,
-          "saturation_modifier": 0.3
+          "saturation": 2.4
         }
       },
       {
@@ -8247,7 +8247,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 2,
-          "saturation_modifier": 0.1
+          "saturation": 0.4
         }
       },
       {
@@ -8546,7 +8546,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 8,
-          "saturation_modifier": 0.8
+          "saturation": 12.8
         }
       },
       {
@@ -8585,7 +8585,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 6,
-          "saturation_modifier": 0.6
+          "saturation": 7.2000003
         }
       },
       {
@@ -8624,7 +8624,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 5,
-          "saturation_modifier": 0.6
+          "saturation": 6.0
         }
       },
       {
@@ -8663,7 +8663,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 6,
-          "saturation_modifier": 0.8
+          "saturation": 9.6
         }
       },
       {
@@ -8702,7 +8702,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 8,
-          "saturation_modifier": 0.8
+          "saturation": 12.8
         }
       },
       {
@@ -8741,7 +8741,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 5,
-          "saturation_modifier": 0.6
+          "saturation": 6.0
         }
       },
       {
@@ -8780,7 +8780,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 6,
-          "saturation_modifier": 0.8
+          "saturation": 9.6
         }
       },
       {
@@ -8819,7 +8819,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 2,
-          "saturation_modifier": 0.1
+          "saturation": 0.4
         }
       },
       {
@@ -13768,7 +13768,7 @@
         "value": {
           "eat_seconds": 0.8,
           "nutrition": 1,
-          "saturation_modifier": 0.3
+          "saturation": 0.6
         }
       },
       {
@@ -14282,7 +14282,7 @@
             }
           ],
           "nutrition": 4,
-          "saturation_modifier": 1.2
+          "saturation": 9.6
         }
       },
       {
@@ -16415,7 +16415,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 2,
-          "saturation_modifier": 0.1
+          "saturation": 0.4
         }
       },
       {
@@ -16856,7 +16856,7 @@
             }
           ],
           "nutrition": 4,
-          "saturation_modifier": 1.2
+          "saturation": 9.6
         }
       },
       {
@@ -17018,7 +17018,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 6,
-          "saturation_modifier": 1.2
+          "saturation": 14.400001
         }
       },
       {
@@ -19030,7 +19030,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 6,
-          "saturation_modifier": 0.1
+          "saturation": 1.2
         }
       },
       {
@@ -24787,7 +24787,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 2,
-          "saturation_modifier": 0.3
+          "saturation": 1.2
         }
       },
       {
@@ -25594,7 +25594,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 6,
-          "saturation_modifier": 0.6
+          "saturation": 7.2000003
         }
       },
       {
@@ -26145,7 +26145,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 2,
-          "saturation_modifier": 0.3
+          "saturation": 1.2
         }
       },
       {
@@ -28156,7 +28156,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 1,
-          "saturation_modifier": 0.1
+          "saturation": 0.2
         }
       },
       {
@@ -30273,7 +30273,7 @@
             }
           ],
           "nutrition": 2,
-          "saturation_modifier": 0.3
+          "saturation": 1.2
         }
       },
       {
@@ -31304,7 +31304,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 3,
-          "saturation_modifier": 0.3
+          "saturation": 1.8000001
         }
       },
       {
@@ -31343,7 +31343,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 1,
-          "saturation_modifier": 0.3
+          "saturation": 0.6
         }
       },
       {
@@ -31827,7 +31827,7 @@
             }
           ],
           "nutrition": 1,
-          "saturation_modifier": 0.1
+          "saturation": 0.2
         }
       },
       {
@@ -31966,7 +31966,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 8,
-          "saturation_modifier": 0.3
+          "saturation": 4.8
         }
       },
       {
@@ -32781,7 +32781,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 3,
-          "saturation_modifier": 0.3
+          "saturation": 1.8000001
         }
       },
       {
@@ -32916,7 +32916,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 10,
-          "saturation_modifier": 0.6
+          "saturation": 12.0
         }
       },
       {
@@ -34477,7 +34477,7 @@
             }
           ],
           "nutrition": 4,
-          "saturation_modifier": 0.1
+          "saturation": 0.8
         }
       },
       {
@@ -34548,7 +34548,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 2,
-          "saturation_modifier": 0.1
+          "saturation": 0.4
         }
       },
       {
@@ -36899,7 +36899,7 @@
             }
           ],
           "nutrition": 2,
-          "saturation_modifier": 0.8
+          "saturation": 3.2
         }
       },
       {
@@ -39503,7 +39503,7 @@
         "value": {
           "can_always_eat": true,
           "nutrition": 6,
-          "saturation_modifier": 0.6
+          "saturation": 7.2000003
         }
       },
       {
@@ -39546,7 +39546,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 2,
-          "saturation_modifier": 0.1
+          "saturation": 0.4
         }
       },
       {
@@ -40279,7 +40279,7 @@
         "type": "minecraft:food",
         "value": {
           "nutrition": 1,
-          "saturation_modifier": 0.1
+          "saturation": 0.2
         }
       },
       {

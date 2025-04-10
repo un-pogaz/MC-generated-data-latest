@@ -134,6 +134,7 @@ minecraft/lang/uk_ua.json
 minecraft/lang/val_es.json
 minecraft/lang/vec_it.json
 minecraft/lang/vi_vn.json
+minecraft/lang/vp_vl.json
 minecraft/lang/yi_de.json
 minecraft/lang/yo_ng.json
 minecraft/lang/zh_cn.json
