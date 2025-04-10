@@ -1730,6 +1730,15 @@ minecraft:fireworks/largeblast_far1
 minecraft:fireworks/launch1
 minecraft:fireworks/twinkle1
 minecraft:fireworks/twinkle_far1
+minecraft:item/armor/break_wolf
+minecraft:item/armor/crack_wolf1
+minecraft:item/armor/crack_wolf2
+minecraft:item/armor/crack_wolf3
+minecraft:item/armor/crack_wolf4
+minecraft:item/armor/damage_wolf1
+minecraft:item/armor/damage_wolf2
+minecraft:item/armor/damage_wolf3
+minecraft:item/armor/damage_wolf4
 minecraft:item/armor/equip_chain1
 minecraft:item/armor/equip_chain2
 minecraft:item/armor/equip_chain3
@@ -1772,6 +1781,10 @@ minecraft:item/armor/equip_netherite3
 minecraft:item/armor/equip_netherite4
 minecraft:item/armor/equip_wolf1
 minecraft:item/armor/equip_wolf2
+minecraft:item/armor/repair_wolf1
+minecraft:item/armor/repair_wolf2
+minecraft:item/armor/repair_wolf3
+minecraft:item/armor/repair_wolf4
 minecraft:item/armor/unequip_wolf1
 minecraft:item/armor/unequip_wolf2
 minecraft:item/axe/scrape1

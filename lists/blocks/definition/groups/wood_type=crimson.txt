@@ -1,0 +1,5 @@
+minecraft:crimson_fence_gate
+minecraft:crimson_hanging_sign
+minecraft:crimson_sign
+minecraft:crimson_wall_hanging_sign
+minecraft:crimson_wall_sign

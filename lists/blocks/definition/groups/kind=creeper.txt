@@ -1,0 +1,2 @@
+minecraft:creeper_head
+minecraft:creeper_wall_head

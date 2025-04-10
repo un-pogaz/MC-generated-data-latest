@@ -1,0 +1,7 @@
+minecraft:orange_banner
+minecraft:orange_bed
+minecraft:orange_carpet
+minecraft:orange_shulker_box
+minecraft:orange_stained_glass
+minecraft:orange_stained_glass_pane
+minecraft:orange_wall_banner

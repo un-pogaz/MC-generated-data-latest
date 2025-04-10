@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "type": "minecraft:attribute_modifiers",
+      "value": {
+        "modifiers": []
+      }
+    },
+    {
+      "type": "minecraft:enchantments",
+      "value": {
+        "levels": {}
+      }
+    },
+    {
+      "type": "minecraft:lore",
+      "value": []
+    },
+    {
+      "type": "minecraft:potion_contents",
+      "value": {}
+    },
+    {
+      "type": "minecraft:repair_cost",
+      "value": 0
+    }
+  ]
+}
