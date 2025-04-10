@@ -1,0 +1,13 @@
+{
+  "id": "1.19.1-pre4",
+  "type": "snapshot",
+  "time": "2022-07-08T11:41:59+00:00",
+  "releaseTime": "2022-07-08T11:41:59+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/8dbf3306b43177f9a39a97364215f80801f77db3/1.19.1-pre4.json",
+  "assets": "1.19",
+  "asset_index": "https://piston-meta.mojang.com/v1/packages/4f4d42f50fe8ba9b5d0d4ae63993c71b46df7622/1.19.json",
+  "client": "https://piston-data.mojang.com/v1/objects/bb3e72a47ea72c2de1ed0b926166ea9b36fd666e/client.jar",
+  "client_mappings": "https://piston-data.mojang.com/v1/objects/7f968bcafddf9df3a8d5eb0f93a48a64b1ab1a84/client.txt",
+  "server": "https://piston-data.mojang.com/v1/objects/0f7f0c876024d0a84cb50547f72fe81dbfbfdb19/server.jar",
+  "server_mappings": "https://piston-data.mojang.com/v1/objects/000d3e6fa2d830cd3a1612ab42f56bea224fb2b6/server.txt"
+}
