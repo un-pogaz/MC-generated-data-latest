@@ -1,3 +1,0 @@
-minecraft:entity/glow_squid/death1
-minecraft:entity/glow_squid/death2
-minecraft:entity/glow_squid/death3

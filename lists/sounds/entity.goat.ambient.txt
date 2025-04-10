@@ -1,8 +1,0 @@
-minecraft:mob/goat/idle1
-minecraft:mob/goat/idle2
-minecraft:mob/goat/idle3
-minecraft:mob/goat/idle4
-minecraft:mob/goat/idle5
-minecraft:mob/goat/idle6
-minecraft:mob/goat/idle7
-minecraft:mob/goat/idle8

@@ -1,9 +1,0 @@
-minecraft:item/ink_sac/ink_sac1
-minecraft:item/ink_sac/ink_sac1
-minecraft:item/ink_sac/ink_sac1
-minecraft:item/ink_sac/ink_sac2
-minecraft:item/ink_sac/ink_sac2
-minecraft:item/ink_sac/ink_sac2
-minecraft:item/ink_sac/ink_sac3
-minecraft:item/ink_sac/ink_sac3
-minecraft:item/ink_sac/ink_sac3
