@@ -148,6 +148,8 @@ minecraft:patch_crimson_roots
 minecraft:patch_dead_bush
 minecraft:patch_dead_bush_2
 minecraft:patch_dead_bush_badlands
+minecraft:patch_dry_grass_badlands
+minecraft:patch_dry_grass_desert
 minecraft:patch_fire
 minecraft:patch_firefly_bush_near_water
 minecraft:patch_firefly_bush_near_water_swamp

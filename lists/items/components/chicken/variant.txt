@@ -1,0 +1,3 @@
+minecraft:blue_egg  = minecraft:cold
+minecraft:brown_egg  = minecraft:warm
+minecraft:egg  = minecraft:temperate

@@ -148,6 +148,7 @@ minecraft:budding_amethyst
 minecraft:burn_pottery_sherd
 minecraft:bush
 minecraft:cactus
+minecraft:cactus_flower
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
 minecraft:camel_spawn_egg
@@ -885,6 +886,7 @@ minecraft:shaper_armor_trim_smithing_template
 minecraft:sheaf_pottery_sherd
 minecraft:sheep_spawn_egg
 minecraft:shelter_pottery_sherd
+minecraft:short_dry_grass
 minecraft:short_grass
 minecraft:shroomlight
 minecraft:shulker_shell
@@ -994,6 +996,7 @@ minecraft:suspicious_gravel
 minecraft:suspicious_sand
 minecraft:sweet_berries
 minecraft:tadpole_spawn_egg
+minecraft:tall_dry_grass
 minecraft:tall_grass
 minecraft:target
 minecraft:terracotta

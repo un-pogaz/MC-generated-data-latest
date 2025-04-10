@@ -7,6 +7,7 @@ minecraft:block_predicate_type
 minecraft:block_type
 minecraft:cat_variant
 minecraft:chat_type
+minecraft:chicken_variant
 minecraft:chunk_status
 minecraft:command_argument_type
 minecraft:consume_effect_type

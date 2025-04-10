@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/cactus_flower/break1",
+    "block/cactus_flower/break2",
+    "block/cactus_flower/break3",
+    "block/cactus_flower/break4",
+    "block/cactus_flower/break5"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

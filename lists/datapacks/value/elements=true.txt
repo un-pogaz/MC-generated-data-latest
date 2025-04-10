@@ -2,6 +2,7 @@ minecraft:advancement
 minecraft:banner_pattern
 minecraft:cat_variant
 minecraft:chat_type
+minecraft:chicken_variant
 minecraft:cow_variant
 minecraft:damage_type
 minecraft:dimension

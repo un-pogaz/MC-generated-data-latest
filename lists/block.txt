@@ -148,6 +148,7 @@ minecraft:bubble_coral_wall_fan
 minecraft:budding_amethyst
 minecraft:bush
 minecraft:cactus
+minecraft:cactus_flower
 minecraft:cake
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
@@ -866,6 +867,7 @@ minecraft:sculk_vein
 minecraft:sea_lantern
 minecraft:sea_pickle
 minecraft:seagrass
+minecraft:short_dry_grass
 minecraft:short_grass
 minecraft:shroomlight
 minecraft:shulker_box
@@ -959,6 +961,7 @@ minecraft:sunflower
 minecraft:suspicious_gravel
 minecraft:suspicious_sand
 minecraft:sweet_berry_bush
+minecraft:tall_dry_grass
 minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:target
@@ -1149,7 +1152,6 @@ minecraft:zombie_wall_head
 #minecraft:crystal_sound_blocks
 #minecraft:dampens_vibrations
 #minecraft:dark_oak_logs
-#minecraft:dead_bush_may_place_on
 #minecraft:deepslate_ore_replaceables
 #minecraft:diamond_ores
 #minecraft:dirt
@@ -1158,6 +1160,8 @@ minecraft:zombie_wall_head
 #minecraft:dragon_immune
 #minecraft:dragon_transparent
 #minecraft:dripstone_replaceable_blocks
+#minecraft:dry_vegetation_may_place_on
+#minecraft:edible_for_sheep
 #minecraft:emerald_ores
 #minecraft:enchantment_power_provider
 #minecraft:enchantment_power_transmitter

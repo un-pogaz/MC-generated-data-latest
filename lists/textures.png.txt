@@ -130,6 +130,7 @@ minecraft:block/bubble_coral_fan
 minecraft:block/budding_amethyst
 minecraft:block/bush
 minecraft:block/cactus_bottom
+minecraft:block/cactus_flower
 minecraft:block/cactus_side
 minecraft:block/cactus_top
 minecraft:block/cake_bottom
@@ -815,6 +816,7 @@ minecraft:block/sculk_vein  [mcmeta]
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
+minecraft:block/short_dry_grass
 minecraft:block/short_grass
 minecraft:block/shroomlight
 minecraft:block/shulker_box
@@ -927,6 +929,7 @@ minecraft:block/sweet_berry_bush_stage0
 minecraft:block/sweet_berry_bush_stage1
 minecraft:block/sweet_berry_bush_stage2
 minecraft:block/sweet_berry_bush_stage3
+minecraft:block/tall_dry_grass
 minecraft:block/tall_grass_bottom
 minecraft:block/tall_grass_top
 minecraft:block/tall_seagrass_bottom  [mcmeta]
@@ -1178,7 +1181,9 @@ minecraft:entity/chest_boat/mangrove
 minecraft:entity/chest_boat/oak
 minecraft:entity/chest_boat/pale_oak
 minecraft:entity/chest_boat/spruce
-minecraft:entity/chicken
+minecraft:entity/chicken/cold_chicken
+minecraft:entity/chicken/temperate_chicken
+minecraft:entity/chicken/warm_chicken
 minecraft:entity/conduit/base
 minecraft:entity/conduit/break_particle
 minecraft:entity/conduit/cage
@@ -2170,6 +2175,7 @@ minecraft:item/blue_bundle_open_back
 minecraft:item/blue_bundle_open_front
 minecraft:item/blue_candle
 minecraft:item/blue_dye
+minecraft:item/blue_egg
 minecraft:item/bolt_armor_trim_smithing_template
 minecraft:item/bone
 minecraft:item/bone_meal
@@ -2190,6 +2196,7 @@ minecraft:item/brown_bundle_open_back
 minecraft:item/brown_bundle_open_front
 minecraft:item/brown_candle
 minecraft:item/brown_dye
+minecraft:item/brown_egg
 minecraft:item/brush
 minecraft:item/bucket
 minecraft:item/bundle

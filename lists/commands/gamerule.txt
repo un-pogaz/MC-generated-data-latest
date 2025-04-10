@@ -1,3 +1,5 @@
+gamerule allowFireTicksAwayFromPlayer
+gamerule allowFireTicksAwayFromPlayer <value brigadier:bool>
 gamerule announceAdvancements
 gamerule announceAdvancements <value brigadier:bool>
 gamerule blockExplosionDropDecay

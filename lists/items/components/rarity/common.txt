@@ -117,6 +117,7 @@ minecraft:blue_carpet
 minecraft:blue_concrete
 minecraft:blue_concrete_powder
 minecraft:blue_dye
+minecraft:blue_egg
 minecraft:blue_glazed_terracotta
 minecraft:blue_ice
 minecraft:blue_orchid
@@ -154,6 +155,7 @@ minecraft:brown_carpet
 minecraft:brown_concrete
 minecraft:brown_concrete_powder
 minecraft:brown_dye
+minecraft:brown_egg
 minecraft:brown_glazed_terracotta
 minecraft:brown_mushroom
 minecraft:brown_mushroom_block
@@ -171,6 +173,7 @@ minecraft:budding_amethyst
 minecraft:bundle
 minecraft:bush
 minecraft:cactus
+minecraft:cactus_flower
 minecraft:cake
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
@@ -1003,6 +1006,7 @@ minecraft:seagrass
 minecraft:shears
 minecraft:sheep_spawn_egg
 minecraft:shield
+minecraft:short_dry_grass
 minecraft:short_grass
 minecraft:shroomlight
 minecraft:shulker_box
@@ -1118,6 +1122,7 @@ minecraft:suspicious_stew
 minecraft:sweet_berries
 minecraft:tadpole_bucket
 minecraft:tadpole_spawn_egg
+minecraft:tall_dry_grass
 minecraft:tall_grass
 minecraft:target
 minecraft:terracotta

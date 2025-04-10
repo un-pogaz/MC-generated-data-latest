@@ -7,7 +7,9 @@ minecraft:birch_hanging_sign
 minecraft:birch_sign
 minecraft:black_banner
 minecraft:blue_banner
+minecraft:blue_egg
 minecraft:brown_banner
+minecraft:brown_egg
 minecraft:bucket
 minecraft:cherry_hanging_sign
 minecraft:cherry_sign
