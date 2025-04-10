@@ -32,8 +32,7 @@ minecraft:clay_with_dripleaves
 minecraft:crimson_forest_vegetation
 minecraft:crimson_fungi
 minecraft:crimson_fungi_planted
-minecraft:dark_forest_vegetation_brown
-minecraft:dark_forest_vegetation_red
+minecraft:dark_forest_vegetation
 minecraft:dark_oak
 minecraft:dark_oak_checked
 minecraft:delta
