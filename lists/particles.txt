@@ -14,6 +14,7 @@ minecraft:current_down
 minecraft:damage_indicator
 minecraft:dolphin
 minecraft:dragon_breath
+minecraft:dripping_cherry_leaves
 minecraft:dripping_dripstone_lava
 minecraft:dripping_dripstone_water
 minecraft:dripping_honey
@@ -29,6 +30,7 @@ minecraft:enchanted_hit
 minecraft:end_rod
 minecraft:entity_effect
 minecraft:explosion
+minecraft:falling_cherry_leaves
 minecraft:falling_dripstone_lava
 minecraft:falling_dripstone_water
 minecraft:falling_dust
@@ -47,6 +49,7 @@ minecraft:glow_squid_ink
 minecraft:happy_villager
 minecraft:heart
 minecraft:instant_effect
+minecraft:landing_cherry_leaves
 minecraft:landing_honey
 minecraft:landing_lava
 minecraft:landing_obsidian_tear

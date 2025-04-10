@@ -1,0 +1,6 @@
+minecraft:block/suspicious_sand/break1
+minecraft:block/suspicious_sand/break2
+minecraft:block/suspicious_sand/break3
+minecraft:block/suspicious_sand/break4
+minecraft:block/suspicious_sand/break5
+minecraft:block/suspicious_sand/break6

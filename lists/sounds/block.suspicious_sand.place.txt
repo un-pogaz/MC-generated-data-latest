@@ -1,0 +1,5 @@
+minecraft:block/suspicious_sand/place1
+minecraft:block/suspicious_sand/place2
+minecraft:block/suspicious_sand/place3
+minecraft:block/suspicious_sand/place4
+minecraft:block/suspicious_sand/place5

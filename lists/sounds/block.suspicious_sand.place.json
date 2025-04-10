@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/suspicious_sand/place1",
+    "block/suspicious_sand/place2",
+    "block/suspicious_sand/place3",
+    "block/suspicious_sand/place4",
+    "block/suspicious_sand/place5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

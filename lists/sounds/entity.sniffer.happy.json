@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/sniffer/happy1",
+    "mob/sniffer/happy2",
+    "mob/sniffer/happy3",
+    "mob/sniffer/happy4",
+    "mob/sniffer/happy5"
+  ],
+  "subtitle": "subtitles.entity.sniffer.happy"
+}

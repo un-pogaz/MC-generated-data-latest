@@ -1,0 +1,5 @@
+minecraft:block/decorated_pot/step1
+minecraft:block/decorated_pot/step2
+minecraft:block/decorated_pot/step3
+minecraft:block/decorated_pot/step4
+minecraft:block/decorated_pot/step5

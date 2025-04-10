@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/cherry_wood/step1",
+    "block/cherry_wood/step2",
+    "block/cherry_wood/step3",
+    "block/cherry_wood/step4",
+    "block/cherry_wood/step5",
+    "block/cherry_wood/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

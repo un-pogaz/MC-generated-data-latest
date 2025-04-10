@@ -1,0 +1,6 @@
+minecraft:block/decorated_pot/shatter1
+minecraft:block/decorated_pot/shatter2
+minecraft:block/decorated_pot/shatter3
+minecraft:block/decorated_pot/shatter4
+minecraft:block/decorated_pot/shatter5
+minecraft:block/decorated_pot/shatter6
