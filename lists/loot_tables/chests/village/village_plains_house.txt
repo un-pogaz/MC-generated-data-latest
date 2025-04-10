@@ -8,3 +8,6 @@ minecraft:book
 minecraft:feather
 minecraft:emerald
 minecraft:oak_sapling
+
+minecraft:bundle
+empty

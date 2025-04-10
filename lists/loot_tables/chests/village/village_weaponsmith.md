@@ -18,3 +18,7 @@
 | minecraft:iron_horse_armor    |     1 |   1.1% |   1/94 |         |
 | minecraft:golden_horse_armor  |     1 |   1.1% |   1/94 |         |
 | minecraft:diamond_horse_armor |     1 |   1.1% |   1/94 |         |
+| – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – |
+| 1 time                        |    -- |     -- |     -- |         |
+| minecraft:bundle              |     1 |  33.3% |    1/3 |         |
+| empty                         |       |  66.7% |    2/3 |         |

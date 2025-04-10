@@ -1,4 +1,5 @@
 minecraft:bat
+minecraft:camel
 minecraft:creeper
 minecraft:enderman
 minecraft:glow_squid

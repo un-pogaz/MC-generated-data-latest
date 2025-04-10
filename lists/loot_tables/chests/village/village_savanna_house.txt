@@ -8,3 +8,6 @@ minecraft:acacia_sapling
 minecraft:saddle
 minecraft:torch
 minecraft:bucket
+
+minecraft:bundle
+empty
