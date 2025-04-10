@@ -1,0 +1,44 @@
+{
+  "sounds": [
+    {
+      "name": "mob/frog/idle1",
+      "pitch": 0.95,
+      "volume": 0.8
+    },
+    {
+      "name": "mob/frog/idle2",
+      "pitch": 0.9
+    },
+    {
+      "name": "mob/frog/idle3",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "name": "mob/frog/idle4",
+      "pitch": 0.95,
+      "volume": 0.8
+    },
+    {
+      "name": "mob/frog/idle5",
+      "pitch": 0.9,
+      "volume": 0.85
+    },
+    {
+      "name": "mob/frog/idle6",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "name": "mob/frog/idle7",
+      "pitch": 0.9,
+      "volume": 0.7
+    },
+    {
+      "name": "mob/frog/idle8",
+      "pitch": 0.9,
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.entity.frog.ambient"
+}

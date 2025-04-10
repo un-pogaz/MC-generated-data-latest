@@ -19,6 +19,7 @@ minecraft:light_blue_stained_glass_pane
 minecraft:light_gray_stained_glass_pane
 minecraft:lime_stained_glass_pane
 minecraft:magenta_stained_glass_pane
+minecraft:mangrove_fence
 minecraft:mushroom_stem
 minecraft:nether_brick_fence
 minecraft:oak_fence
@@ -27,6 +28,7 @@ minecraft:pink_stained_glass_pane
 minecraft:purple_stained_glass_pane
 minecraft:red_mushroom_block
 minecraft:red_stained_glass_pane
+minecraft:sculk_vein
 minecraft:spruce_fence
 minecraft:tripwire
 minecraft:vine

@@ -1,0 +1,4 @@
+shrieking=true,waterlogged=true
+shrieking=true,waterlogged=false
+shrieking=false,waterlogged=true
+shrieking=false,waterlogged=false  [default]

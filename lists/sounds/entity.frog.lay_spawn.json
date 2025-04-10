@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/frog/lay_spawn1",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/frog/lay_spawn2",
+      "volume": 0.25
+    }
+  ],
+  "subtitle": "subtitles.entity.frog.lay_spawn"
+}

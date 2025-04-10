@@ -59,6 +59,7 @@ minecraft:entities/enderman
 minecraft:entities/endermite
 minecraft:entities/evoker
 minecraft:entities/fox
+minecraft:entities/frog
 minecraft:entities/ghast
 minecraft:entities/giant
 minecraft:entities/glow_squid
@@ -114,6 +115,7 @@ minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
 minecraft:entities/strider
+minecraft:entities/tadpole
 minecraft:entities/trader_llama
 minecraft:entities/tropical_fish
 minecraft:entities/turtle
