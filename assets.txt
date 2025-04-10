@@ -125,6 +125,7 @@ minecraft/lang/yo_ng.json
 minecraft/lang/zh_cn.json
 minecraft/lang/zh_hk.json
 minecraft/lang/zh_tw.json
+minecraft/lang/zlm_arab.json
 minecraft/resourcepacks/programmer_art.zip
 minecraft/sounds.json
 minecraft/sounds/ambient/cave/cave1.ogg
@@ -3369,6 +3370,7 @@ realms/lang/yo_ng.json
 realms/lang/zh_cn.json
 realms/lang/zh_hk.json
 realms/lang/zh_tw.json
+realms/lang/zlm_arab.json
 realms/textures/gui/images/1.png
 realms/textures/gui/images/10.png
 realms/textures/gui/images/11.png
