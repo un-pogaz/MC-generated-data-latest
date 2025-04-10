@@ -1,5 +1,5 @@
 {
-  "elements": false,
-  "stable": true,
+  "elements": true,
+  "stable": false,
   "tags": true
 }

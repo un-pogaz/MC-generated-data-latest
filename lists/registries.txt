@@ -4,12 +4,12 @@ minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
 minecraft:block_type
-minecraft:cat_variant
 minecraft:chunk_status
 minecraft:command_argument_type
 minecraft:consume_effect_type
 minecraft:creative_mode_tab
 minecraft:custom_stat
+minecraft:data_component_predicate_type
 minecraft:data_component_type
 minecraft:decorated_pot_pattern
 minecraft:enchantment_effect_component_type
@@ -22,12 +22,10 @@ minecraft:entity_sub_predicate_type
 minecraft:entity_type
 minecraft:float_provider_type
 minecraft:fluid
-minecraft:frog_variant
 minecraft:game_event
 minecraft:height_provider_type
 minecraft:int_provider_type
 minecraft:item
-minecraft:item_sub_predicate_type
 minecraft:loot_condition_type
 minecraft:loot_function_type
 minecraft:loot_nbt_provider_type
@@ -54,6 +52,7 @@ minecraft:schedule
 minecraft:sensor_type
 minecraft:slot_display
 minecraft:sound_event
+minecraft:spawn_condition_type
 minecraft:stat_type
 minecraft:test_environment_definition_type
 minecraft:test_function
