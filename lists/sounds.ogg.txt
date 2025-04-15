@@ -1773,11 +1773,6 @@ minecraft:entity/fish/swim4
 minecraft:entity/fish/swim5
 minecraft:entity/fish/swim6
 minecraft:entity/fish/swim7
-minecraft:entity/horse/eat1
-minecraft:entity/horse/eat2
-minecraft:entity/horse/eat3
-minecraft:entity/horse/eat4
-minecraft:entity/horse/eat5
 minecraft:entity/itemframe/add_item1
 minecraft:entity/itemframe/add_item2
 minecraft:entity/itemframe/add_item3
