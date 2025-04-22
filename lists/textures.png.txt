@@ -1999,7 +1999,11 @@ minecraft:gui/sprites/hud/jump_bar_progress
 minecraft:gui/sprites/hud/locator_bar_arrow_down  [mcmeta]
 minecraft:gui/sprites/hud/locator_bar_arrow_up  [mcmeta]
 minecraft:gui/sprites/hud/locator_bar_background  [mcmeta]
-minecraft:gui/sprites/hud/locator_bar_player
+minecraft:gui/sprites/hud/locator_bar_dot/bowtie
+minecraft:gui/sprites/hud/locator_bar_dot/default_0
+minecraft:gui/sprites/hud/locator_bar_dot/default_1
+minecraft:gui/sprites/hud/locator_bar_dot/default_2
+minecraft:gui/sprites/hud/locator_bar_dot/default_3
 minecraft:gui/sprites/icon/accessibility
 minecraft:gui/sprites/icon/chat_modified
 minecraft:gui/sprites/icon/checkmark

@@ -2,9 +2,6 @@
   {
     "type": "minecraft:armor",
     "amount": 6.0,
-    "display": {
-      "type": "default"
-    },
     "id": "minecraft:armor.leggings",
     "operation": "add_value",
     "slot": "legs"
@@ -12,9 +9,6 @@
   {
     "type": "minecraft:armor_toughness",
     "amount": 2.0,
-    "display": {
-      "type": "default"
-    },
     "id": "minecraft:armor.leggings",
     "operation": "add_value",
     "slot": "legs"

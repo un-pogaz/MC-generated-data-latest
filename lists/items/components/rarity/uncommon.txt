@@ -16,7 +16,6 @@ minecraft:creeper_head
 minecraft:danger_pottery_sherd
 minecraft:disc_fragment_5
 minecraft:dragon_breath
-minecraft:dried_ghast
 minecraft:dune_armor_trim_smithing_template
 minecraft:echo_shard
 minecraft:enchanted_book

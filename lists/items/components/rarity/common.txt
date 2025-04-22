@@ -400,6 +400,7 @@ minecraft:dirt_path
 minecraft:dispenser
 minecraft:dolphin_spawn_egg
 minecraft:donkey_spawn_egg
+minecraft:dried_ghast
 minecraft:dried_kelp
 minecraft:dried_kelp_block
 minecraft:dripstone_block
