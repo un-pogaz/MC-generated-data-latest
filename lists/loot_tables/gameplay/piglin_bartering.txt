@@ -5,6 +5,7 @@ minecraft:splash_potion
 minecraft:potion
 minecraft:iron_nugget
 minecraft:ender_pearl
+minecraft:dried_ghast
 minecraft:string
 minecraft:quartz
 minecraft:obsidian

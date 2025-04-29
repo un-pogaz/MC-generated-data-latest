@@ -1,1 +1,2 @@
+minecraft:bowtie
 minecraft:default
