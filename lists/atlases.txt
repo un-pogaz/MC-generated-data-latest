@@ -6,7 +6,6 @@ minecraft:chests
 minecraft:decorated_pot
 minecraft:gui
 minecraft:map_decorations
-minecraft:mob_effects
 minecraft:paintings
 minecraft:particles
 minecraft:shield_patterns

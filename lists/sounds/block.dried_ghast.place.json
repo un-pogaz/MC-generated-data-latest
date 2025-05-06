@@ -1,9 +1,11 @@
 {
   "sounds": [
-    "block/dried_ghast/wood1",
-    "block/dried_ghast/wood2",
-    "block/dried_ghast/wood3",
-    "block/dried_ghast/wood4"
+    "block/dried_ghast/place1",
+    "block/dried_ghast/place2",
+    "block/dried_ghast/place3",
+    "block/dried_ghast/place4",
+    "block/dried_ghast/place5",
+    "block/dried_ghast/place6"
   ],
   "subtitle": "subtitles.block.generic.place"
 }

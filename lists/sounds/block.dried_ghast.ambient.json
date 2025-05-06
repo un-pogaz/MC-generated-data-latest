@@ -1,7 +1,9 @@
 {
   "sounds": [
     "block/dried_ghast/ambient1",
-    "block/dried_ghast/ambient2"
+    "block/dried_ghast/ambient2",
+    "block/dried_ghast/ambient3",
+    "block/dried_ghast/ambient4"
   ],
   "subtitle": "subtitles.block.dried_ghast.ambient"
 }
