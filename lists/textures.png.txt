@@ -1,5 +1,5 @@
-minecraft:blocks/acacia_door_lower
-minecraft:blocks/acacia_door_upper
+minecraft:blocks/acacia_door_bottom
+minecraft:blocks/acacia_door_top
 minecraft:blocks/acacia_leaves
 minecraft:blocks/acacia_log
 minecraft:blocks/acacia_log_top
@@ -21,8 +21,8 @@ minecraft:blocks/beetroots_stage0
 minecraft:blocks/beetroots_stage1
 minecraft:blocks/beetroots_stage2
 minecraft:blocks/beetroots_stage3
-minecraft:blocks/birch_door_lower
-minecraft:blocks/birch_door_upper
+minecraft:blocks/birch_door_bottom
+minecraft:blocks/birch_door_top
 minecraft:blocks/birch_leaves
 minecraft:blocks/birch_log
 minecraft:blocks/birch_log_top
@@ -32,6 +32,7 @@ minecraft:blocks/birch_trapdoor
 minecraft:blocks/black_concrete
 minecraft:blocks/black_concrete_powder
 minecraft:blocks/black_glazed_terracotta
+minecraft:blocks/black_shulker_box_top
 minecraft:blocks/black_stained_glass
 minecraft:blocks/black_stained_glass_pane_top
 minecraft:blocks/black_terracotta
@@ -41,6 +42,7 @@ minecraft:blocks/blue_concrete_powder
 minecraft:blocks/blue_glazed_terracotta
 minecraft:blocks/blue_ice
 minecraft:blocks/blue_orchid
+minecraft:blocks/blue_shulker_box_top
 minecraft:blocks/blue_stained_glass
 minecraft:blocks/blue_stained_glass_pane_top
 minecraft:blocks/blue_terracotta
@@ -53,12 +55,13 @@ minecraft:blocks/brain_coral_block
 minecraft:blocks/brain_coral_fan
 minecraft:blocks/brewing_stand
 minecraft:blocks/brewing_stand_base
-minecraft:blocks/brick
+minecraft:blocks/bricks
 minecraft:blocks/brown_concrete
 minecraft:blocks/brown_concrete_powder
 minecraft:blocks/brown_glazed_terracotta
 minecraft:blocks/brown_mushroom
 minecraft:blocks/brown_mushroom_block
+minecraft:blocks/brown_shulker_box_top
 minecraft:blocks/brown_stained_glass
 minecraft:blocks/brown_stained_glass_pane_top
 minecraft:blocks/brown_terracotta
@@ -77,6 +80,7 @@ minecraft:blocks/carrots_stage0
 minecraft:blocks/carrots_stage1
 minecraft:blocks/carrots_stage2
 minecraft:blocks/carrots_stage3
+minecraft:blocks/carved_pumpkin
 minecraft:blocks/cauldron_bottom
 minecraft:blocks/cauldron_inner
 minecraft:blocks/cauldron_side
@@ -118,14 +122,15 @@ minecraft:blocks/cut_sandstone
 minecraft:blocks/cyan_concrete
 minecraft:blocks/cyan_concrete_powder
 minecraft:blocks/cyan_glazed_terracotta
+minecraft:blocks/cyan_shulker_box_top
 minecraft:blocks/cyan_stained_glass
 minecraft:blocks/cyan_stained_glass_pane_top
 minecraft:blocks/cyan_terracotta
 minecraft:blocks/cyan_wool
 minecraft:blocks/damaged_anvil_top
 minecraft:blocks/dandelion
-minecraft:blocks/dark_oak_door_lower
-minecraft:blocks/dark_oak_door_upper
+minecraft:blocks/dark_oak_door_bottom
+minecraft:blocks/dark_oak_door_top
 minecraft:blocks/dark_oak_leaves
 minecraft:blocks/dark_oak_log
 minecraft:blocks/dark_oak_log_top
@@ -165,7 +170,6 @@ minecraft:blocks/dispenser_front_vertical
 minecraft:blocks/dragon_egg
 minecraft:blocks/dried_kelp_bottom
 minecraft:blocks/dried_kelp_side
-minecraft:blocks/dried_kelp_side_mirror
 minecraft:blocks/dried_kelp_top
 minecraft:blocks/dropper_front
 minecraft:blocks/dropper_front_vertical
@@ -181,13 +185,13 @@ minecraft:blocks/end_rod
 minecraft:blocks/end_stone
 minecraft:blocks/end_stone_bricks
 minecraft:blocks/farmland
-minecraft:blocks/farmland_wet
+minecraft:blocks/farmland_moist
 minecraft:blocks/fern
+minecraft:blocks/fire_0  [mcmeta]
+minecraft:blocks/fire_1  [mcmeta]
 minecraft:blocks/fire_coral
 minecraft:blocks/fire_coral_block
 minecraft:blocks/fire_coral_fan
-minecraft:blocks/fire_layer_0  [mcmeta]
-minecraft:blocks/fire_layer_1  [mcmeta]
 minecraft:blocks/flower_pot
 minecraft:blocks/frosted_ice_0
 minecraft:blocks/frosted_ice_1
@@ -202,6 +206,7 @@ minecraft:blocks/glass_pane_top
 minecraft:blocks/glowstone
 minecraft:blocks/gold_block
 minecraft:blocks/gold_ore
+minecraft:blocks/granite
 minecraft:blocks/grass
 minecraft:blocks/grass_block_side
 minecraft:blocks/grass_block_side_overlay
@@ -213,6 +218,7 @@ minecraft:blocks/gravel
 minecraft:blocks/gray_concrete
 minecraft:blocks/gray_concrete_powder
 minecraft:blocks/gray_glazed_terracotta
+minecraft:blocks/gray_shulker_box_top
 minecraft:blocks/gray_stained_glass
 minecraft:blocks/gray_stained_glass_pane_top
 minecraft:blocks/gray_terracotta
@@ -220,6 +226,7 @@ minecraft:blocks/gray_wool
 minecraft:blocks/green_concrete
 minecraft:blocks/green_concrete_powder
 minecraft:blocks/green_glazed_terracotta
+minecraft:blocks/green_shulker_box_top
 minecraft:blocks/green_stained_glass
 minecraft:blocks/green_stained_glass_pane_top
 minecraft:blocks/green_terracotta
@@ -235,23 +242,24 @@ minecraft:blocks/horn_coral_fan
 minecraft:blocks/ice
 minecraft:blocks/iron_bars
 minecraft:blocks/iron_block
-minecraft:blocks/iron_door_lower
-minecraft:blocks/iron_door_upper
+minecraft:blocks/iron_door_bottom
+minecraft:blocks/iron_door_top
 minecraft:blocks/iron_ore
 minecraft:blocks/iron_trapdoor
-minecraft:blocks/itemframe_background
+minecraft:blocks/item_frame
+minecraft:blocks/jack_o_lantern
 minecraft:blocks/jukebox_side
 minecraft:blocks/jukebox_top
-minecraft:blocks/jungle_door_lower
-minecraft:blocks/jungle_door_upper
+minecraft:blocks/jungle_door_bottom
+minecraft:blocks/jungle_door_top
 minecraft:blocks/jungle_leaves
 minecraft:blocks/jungle_log
 minecraft:blocks/jungle_log_top
 minecraft:blocks/jungle_planks
 minecraft:blocks/jungle_sapling
 minecraft:blocks/jungle_trapdoor
+minecraft:blocks/kelp  [mcmeta]
 minecraft:blocks/kelp_plant  [mcmeta]
-minecraft:blocks/kelp_top  [mcmeta]
 minecraft:blocks/ladder
 minecraft:blocks/lapis_block
 minecraft:blocks/lapis_ore
@@ -263,6 +271,7 @@ minecraft:blocks/lever
 minecraft:blocks/light_blue_concrete
 minecraft:blocks/light_blue_concrete_powder
 minecraft:blocks/light_blue_glazed_terracotta
+minecraft:blocks/light_blue_shulker_box_top
 minecraft:blocks/light_blue_stained_glass
 minecraft:blocks/light_blue_stained_glass_pane_top
 minecraft:blocks/light_blue_terracotta
@@ -270,6 +279,7 @@ minecraft:blocks/light_blue_wool
 minecraft:blocks/light_gray_concrete
 minecraft:blocks/light_gray_concrete_powder
 minecraft:blocks/light_gray_glazed_terracotta
+minecraft:blocks/light_gray_shulker_box_top
 minecraft:blocks/light_gray_stained_glass
 minecraft:blocks/light_gray_stained_glass_pane_top
 minecraft:blocks/light_gray_terracotta
@@ -280,6 +290,7 @@ minecraft:blocks/lily_pad
 minecraft:blocks/lime_concrete
 minecraft:blocks/lime_concrete_powder
 minecraft:blocks/lime_glazed_terracotta
+minecraft:blocks/lime_shulker_box_top
 minecraft:blocks/lime_stained_glass
 minecraft:blocks/lime_stained_glass_pane_top
 minecraft:blocks/lime_terracotta
@@ -287,6 +298,7 @@ minecraft:blocks/lime_wool
 minecraft:blocks/magenta_concrete
 minecraft:blocks/magenta_concrete_powder
 minecraft:blocks/magenta_glazed_terracotta
+minecraft:blocks/magenta_shulker_box_top
 minecraft:blocks/magenta_stained_glass
 minecraft:blocks/magenta_stained_glass_pane_top
 minecraft:blocks/magenta_terracotta
@@ -302,15 +314,16 @@ minecraft:blocks/mushroom_block_inside
 minecraft:blocks/mushroom_stem
 minecraft:blocks/mycelium_side
 minecraft:blocks/mycelium_top
-minecraft:blocks/nether_brick
+minecraft:blocks/nether_bricks
+minecraft:blocks/nether_quartz_ore
 minecraft:blocks/nether_wart_block
 minecraft:blocks/nether_wart_stage0
 minecraft:blocks/nether_wart_stage1
 minecraft:blocks/nether_wart_stage2
 minecraft:blocks/netherrack
 minecraft:blocks/note_block
-minecraft:blocks/oak_door_lower
-minecraft:blocks/oak_door_upper
+minecraft:blocks/oak_door_bottom
+minecraft:blocks/oak_door_top
 minecraft:blocks/oak_leaves
 minecraft:blocks/oak_log
 minecraft:blocks/oak_log_top
@@ -326,6 +339,7 @@ minecraft:blocks/obsidian
 minecraft:blocks/orange_concrete
 minecraft:blocks/orange_concrete_powder
 minecraft:blocks/orange_glazed_terracotta
+minecraft:blocks/orange_shulker_box_top
 minecraft:blocks/orange_stained_glass
 minecraft:blocks/orange_stained_glass_pane_top
 minecraft:blocks/orange_terracotta
@@ -338,6 +352,7 @@ minecraft:blocks/peony_top
 minecraft:blocks/pink_concrete
 minecraft:blocks/pink_concrete_powder
 minecraft:blocks/pink_glazed_terracotta
+minecraft:blocks/pink_shulker_box_top
 minecraft:blocks/pink_stained_glass
 minecraft:blocks/pink_stained_glass_pane_top
 minecraft:blocks/pink_terracotta
@@ -363,14 +378,13 @@ minecraft:blocks/powered_rail
 minecraft:blocks/powered_rail_on
 minecraft:blocks/prismarine  [mcmeta]
 minecraft:blocks/prismarine_bricks
-minecraft:blocks/pumpkin_face
-minecraft:blocks/pumpkin_face_on
 minecraft:blocks/pumpkin_side
 minecraft:blocks/pumpkin_stem
 minecraft:blocks/pumpkin_top
 minecraft:blocks/purple_concrete
 minecraft:blocks/purple_concrete_powder
 minecraft:blocks/purple_glazed_terracotta
+minecraft:blocks/purple_shulker_box_top
 minecraft:blocks/purple_stained_glass
 minecraft:blocks/purple_stained_glass_pane_top
 minecraft:blocks/purple_terracotta
@@ -381,7 +395,6 @@ minecraft:blocks/purpur_pillar_top
 minecraft:blocks/quartz_block_bottom
 minecraft:blocks/quartz_block_side
 minecraft:blocks/quartz_block_top
-minecraft:blocks/quartz_ore
 minecraft:blocks/quartz_pillar
 minecraft:blocks/quartz_pillar_top
 minecraft:blocks/rail
@@ -391,11 +404,12 @@ minecraft:blocks/red_concrete_powder
 minecraft:blocks/red_glazed_terracotta
 minecraft:blocks/red_mushroom
 minecraft:blocks/red_mushroom_block
-minecraft:blocks/red_nether_brick
+minecraft:blocks/red_nether_bricks
 minecraft:blocks/red_sand
 minecraft:blocks/red_sandstone
 minecraft:blocks/red_sandstone_bottom
 minecraft:blocks/red_sandstone_top
+minecraft:blocks/red_shulker_box_top
 minecraft:blocks/red_stained_glass
 minecraft:blocks/red_stained_glass_pane_top
 minecraft:blocks/red_terracotta
@@ -406,7 +420,7 @@ minecraft:blocks/redstone_dust_dot
 minecraft:blocks/redstone_dust_line0
 minecraft:blocks/redstone_dust_line1
 minecraft:blocks/redstone_dust_overlay
-minecraft:blocks/redstone_lamp_off
+minecraft:blocks/redstone_lamp
 minecraft:blocks/redstone_lamp_on
 minecraft:blocks/redstone_ore
 minecraft:blocks/redstone_torch
@@ -426,29 +440,13 @@ minecraft:blocks/sandstone_top
 minecraft:blocks/sea_lantern  [mcmeta]
 minecraft:blocks/sea_pickle
 minecraft:blocks/seagrass  [mcmeta]
-minecraft:blocks/shulker_top
-minecraft:blocks/shulker_top_black
-minecraft:blocks/shulker_top_blue
-minecraft:blocks/shulker_top_brown
-minecraft:blocks/shulker_top_cyan
-minecraft:blocks/shulker_top_gray
-minecraft:blocks/shulker_top_green
-minecraft:blocks/shulker_top_light_blue
-minecraft:blocks/shulker_top_light_gray
-minecraft:blocks/shulker_top_lime
-minecraft:blocks/shulker_top_magenta
-minecraft:blocks/shulker_top_orange
-minecraft:blocks/shulker_top_pink
-minecraft:blocks/shulker_top_purple
-minecraft:blocks/shulker_top_red
-minecraft:blocks/shulker_top_white
-minecraft:blocks/shulker_top_yellow
+minecraft:blocks/shulker_box_top
 minecraft:blocks/slime_block
 minecraft:blocks/snow
 minecraft:blocks/soul_sand
 minecraft:blocks/sponge
-minecraft:blocks/spruce_door_lower
-minecraft:blocks/spruce_door_upper
+minecraft:blocks/spruce_door_bottom
+minecraft:blocks/spruce_door_top
 minecraft:blocks/spruce_leaves
 minecraft:blocks/spruce_log
 minecraft:blocks/spruce_log_top
@@ -457,7 +455,6 @@ minecraft:blocks/spruce_sapling
 minecraft:blocks/spruce_trapdoor
 minecraft:blocks/stone
 minecraft:blocks/stone_bricks
-minecraft:blocks/stone_granite
 minecraft:blocks/stone_slab_side
 minecraft:blocks/stone_slab_top
 minecraft:blocks/stripped_acacia_log
@@ -491,12 +488,12 @@ minecraft:blocks/tnt_bottom
 minecraft:blocks/tnt_side
 minecraft:blocks/tnt_top
 minecraft:blocks/torch
-minecraft:blocks/trip_wire
-minecraft:blocks/trip_wire_hook
+minecraft:blocks/tripwire
+minecraft:blocks/tripwire_hook
 minecraft:blocks/tube_coral
 minecraft:blocks/tube_coral_block
 minecraft:blocks/tube_coral_fan
-minecraft:blocks/turtle_egg_not_cracked
+minecraft:blocks/turtle_egg
 minecraft:blocks/turtle_egg_slightly_cracked
 minecraft:blocks/turtle_egg_very_cracked
 minecraft:blocks/vine
@@ -515,6 +512,7 @@ minecraft:blocks/wheat_stage7
 minecraft:blocks/white_concrete
 minecraft:blocks/white_concrete_powder
 minecraft:blocks/white_glazed_terracotta
+minecraft:blocks/white_shulker_box_top
 minecraft:blocks/white_stained_glass
 minecraft:blocks/white_stained_glass_pane_top
 minecraft:blocks/white_terracotta
@@ -523,6 +521,7 @@ minecraft:blocks/white_wool
 minecraft:blocks/yellow_concrete
 minecraft:blocks/yellow_concrete_powder
 minecraft:blocks/yellow_glazed_terracotta
+minecraft:blocks/yellow_shulker_box_top
 minecraft:blocks/yellow_stained_glass
 minecraft:blocks/yellow_stained_glass_pane_top
 minecraft:blocks/yellow_terracotta
@@ -593,12 +592,12 @@ minecraft:entity/bed/red
 minecraft:entity/bed/white
 minecraft:entity/bed/yellow
 minecraft:entity/blaze
-minecraft:entity/boat/boat_acacia
-minecraft:entity/boat/boat_birch
-minecraft:entity/boat/boat_darkoak
-minecraft:entity/boat/boat_jungle
-minecraft:entity/boat/boat_oak
-minecraft:entity/boat/boat_spruce
+minecraft:entity/boat/acacia
+minecraft:entity/boat/birch
+minecraft:entity/boat/dark_oak
+minecraft:entity/boat/jungle
+minecraft:entity/boat/oak
+minecraft:entity/boat/spruce
 minecraft:entity/cat/black
 minecraft:entity/cat/ocelot
 minecraft:entity/cat/red
@@ -636,9 +635,9 @@ minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
 minecraft:entity/experience_orb
 minecraft:entity/explosion
-minecraft:entity/fish/cod_mob
+minecraft:entity/fish/cod
 minecraft:entity/fish/pufferfish
-minecraft:entity/fish/salmon_mob
+minecraft:entity/fish/salmon
 minecraft:entity/fish/tropical_a
 minecraft:entity/fish/tropical_a_pattern_1
 minecraft:entity/fish/tropical_a_pattern_2
@@ -684,28 +683,27 @@ minecraft:entity/illager/vex_charging
 minecraft:entity/illager/vindicator
 minecraft:entity/iron_golem
 minecraft:entity/lead_knot
-minecraft:entity/llama/decor/decor_black
-minecraft:entity/llama/decor/decor_blue
-minecraft:entity/llama/decor/decor_brown
-minecraft:entity/llama/decor/decor_cyan
-minecraft:entity/llama/decor/decor_gray
-minecraft:entity/llama/decor/decor_green
-minecraft:entity/llama/decor/decor_light_blue
-minecraft:entity/llama/decor/decor_light_gray
-minecraft:entity/llama/decor/decor_lime
-minecraft:entity/llama/decor/decor_magenta
-minecraft:entity/llama/decor/decor_orange
-minecraft:entity/llama/decor/decor_pink
-minecraft:entity/llama/decor/decor_purple
-minecraft:entity/llama/decor/decor_red
-minecraft:entity/llama/decor/decor_white
-minecraft:entity/llama/decor/decor_yellow
-minecraft:entity/llama/llama
-minecraft:entity/llama/llama_brown
-minecraft:entity/llama/llama_creamy
-minecraft:entity/llama/llama_gray
-minecraft:entity/llama/llama_white
+minecraft:entity/llama/brown
+minecraft:entity/llama/creamy
+minecraft:entity/llama/decor/black
+minecraft:entity/llama/decor/blue
+minecraft:entity/llama/decor/brown
+minecraft:entity/llama/decor/cyan
+minecraft:entity/llama/decor/gray
+minecraft:entity/llama/decor/green
+minecraft:entity/llama/decor/light_blue
+minecraft:entity/llama/decor/light_gray
+minecraft:entity/llama/decor/lime
+minecraft:entity/llama/decor/magenta
+minecraft:entity/llama/decor/orange
+minecraft:entity/llama/decor/pink
+minecraft:entity/llama/decor/purple
+minecraft:entity/llama/decor/red
+minecraft:entity/llama/decor/white
+minecraft:entity/llama/decor/yellow
+minecraft:entity/llama/gray
 minecraft:entity/llama/spit
+minecraft:entity/llama/white
 minecraft:entity/minecart
 minecraft:entity/parrot/parrot_blue
 minecraft:entity/parrot/parrot_green
@@ -1305,11 +1303,12 @@ minecraft:items/ender_pearl
 minecraft:items/experience_bottle
 minecraft:items/feather
 minecraft:items/fermented_spider_eye
+minecraft:items/filled_map
+minecraft:items/filled_map_markings
 minecraft:items/fire_charge
 minecraft:items/firework_rocket
 minecraft:items/firework_star
 minecraft:items/firework_star_overlay
-minecraft:items/fish_pufferfish_raw
 minecraft:items/fishing_rod
 minecraft:items/fishing_rod_cast
 minecraft:items/flint
@@ -1376,8 +1375,6 @@ minecraft:items/lingering_potion
 minecraft:items/magenta_dye
 minecraft:items/magma_cream
 minecraft:items/map
-minecraft:items/map_filled
-minecraft:items/map_filled_markings
 minecraft:items/melon
 minecraft:items/melon_seeds
 minecraft:items/milk_bucket

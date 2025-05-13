@@ -12,6 +12,6 @@ minecraft:brick_stairs
 minecraft:purpur_stairs
 minecraft:quartz_stairs
 minecraft:red_sandstone_stairs
-minecraft:prismarine_bricks_stairs
+minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
 minecraft:dark_prismarine_stairs

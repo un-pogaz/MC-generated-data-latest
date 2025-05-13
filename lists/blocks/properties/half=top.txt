@@ -13,7 +13,7 @@ minecraft:jungle_trapdoor
 minecraft:nether_brick_stairs
 minecraft:oak_stairs
 minecraft:oak_trapdoor
-minecraft:prismarine_bricks_stairs
+minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
 minecraft:purpur_stairs
 minecraft:quartz_stairs

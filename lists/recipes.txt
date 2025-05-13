@@ -387,9 +387,9 @@ minecraft:polished_diorite
 minecraft:polished_granite
 minecraft:powered_rail
 minecraft:prismarine
+minecraft:prismarine_brick_slab
+minecraft:prismarine_brick_stairs
 minecraft:prismarine_bricks
-minecraft:prismarine_bricks_slab
-minecraft:prismarine_bricks_stairs
 minecraft:prismarine_slab
 minecraft:prismarine_stairs
 minecraft:pumpkin_pie

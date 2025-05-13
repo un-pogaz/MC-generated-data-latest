@@ -1,1 +1,1 @@
-minecraft:kelp_top
+minecraft:kelp

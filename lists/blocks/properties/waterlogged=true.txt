@@ -48,8 +48,8 @@ minecraft:oak_trapdoor
 minecraft:orange_stained_glass_pane
 minecraft:petrified_oak_slab
 minecraft:pink_stained_glass_pane
-minecraft:prismarine_bricks_slab
-minecraft:prismarine_bricks_stairs
+minecraft:prismarine_brick_slab
+minecraft:prismarine_brick_stairs
 minecraft:prismarine_slab
 minecraft:prismarine_stairs
 minecraft:purple_stained_glass_pane

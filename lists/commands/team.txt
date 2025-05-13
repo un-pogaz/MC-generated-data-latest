@@ -20,5 +20,7 @@ team option <team minecraft:team> nametagVisibility always
 team option <team minecraft:team> nametagVisibility hideForOtherTeams
 team option <team minecraft:team> nametagVisibility hideForOwnTeam
 team option <team minecraft:team> nametagVisibility never
+team option <team minecraft:team> prefix <prefix minecraft:component>
 team option <team minecraft:team> seeFriendlyInvisibles <allowed brigadier:bool>
+team option <team minecraft:team> suffix <suffix minecraft:component>
 team remove <team minecraft:team>

@@ -7,7 +7,7 @@ minecraft:dark_prismarine_stairs
 minecraft:jungle_stairs
 minecraft:nether_brick_stairs
 minecraft:oak_stairs
-minecraft:prismarine_bricks_stairs
+minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
 minecraft:purpur_stairs
 minecraft:quartz_stairs

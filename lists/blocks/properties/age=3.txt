@@ -4,7 +4,7 @@ minecraft:carrots
 minecraft:chorus_flower
 minecraft:fire
 minecraft:frosted_ice
-minecraft:kelp_top
+minecraft:kelp
 minecraft:melon_stem
 minecraft:nether_wart
 minecraft:potatoes

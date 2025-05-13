@@ -15,5 +15,5 @@ minecraft:cobblestone_slab
 minecraft:nether_brick_slab
 minecraft:petrified_oak_slab
 minecraft:prismarine_slab
-minecraft:prismarine_bricks_slab
+minecraft:prismarine_brick_slab
 minecraft:dark_prismarine_slab

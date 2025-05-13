@@ -22,7 +22,7 @@ minecraft:entities/bat
 minecraft:entities/blaze
 minecraft:entities/cave_spider
 minecraft:entities/chicken
-minecraft:entities/cod_mob
+minecraft:entities/cod
 minecraft:entities/cow
 minecraft:entities/creeper
 minecraft:entities/dolphin
@@ -50,7 +50,7 @@ minecraft:entities/pig
 minecraft:entities/polar_bear
 minecraft:entities/pufferfish
 minecraft:entities/rabbit
-minecraft:entities/salmon_mob
+minecraft:entities/salmon
 minecraft:entities/sheep
 minecraft:entities/sheep/black
 minecraft:entities/sheep/blue

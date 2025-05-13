@@ -1,8 +1,8 @@
 {
     "parent": "block/block",
     "textures": {
-        "particle": "blocks/turtle_egg_not_cracked",
-        "all": "blocks/turtle_egg_not_cracked"
+        "particle": "blocks/turtle_egg",
+        "all": "blocks/turtle_egg"
     },
     "elements": [
         {   "from": [ 5, 0, 4 ],
