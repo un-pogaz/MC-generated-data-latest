@@ -423,9 +423,9 @@ minecraft:blocks/sand
 minecraft:blocks/sandstone
 minecraft:blocks/sandstone_bottom
 minecraft:blocks/sandstone_top
-minecraft:blocks/sea_grass  [mcmeta]
 minecraft:blocks/sea_lantern  [mcmeta]
 minecraft:blocks/sea_pickle
+minecraft:blocks/seagrass  [mcmeta]
 minecraft:blocks/shulker_top
 minecraft:blocks/shulker_top_black
 minecraft:blocks/shulker_top_blue
@@ -484,8 +484,8 @@ minecraft:blocks/sunflower_front
 minecraft:blocks/sunflower_top
 minecraft:blocks/tall_grass_bottom
 minecraft:blocks/tall_grass_top
-minecraft:blocks/tall_sea_grass_bottom  [mcmeta]
-minecraft:blocks/tall_sea_grass_top  [mcmeta]
+minecraft:blocks/tall_seagrass_bottom  [mcmeta]
+minecraft:blocks/tall_seagrass_top  [mcmeta]
 minecraft:blocks/terracotta
 minecraft:blocks/tnt_bottom
 minecraft:blocks/tnt_side
@@ -1434,8 +1434,8 @@ minecraft:items/saddle
 minecraft:items/salmon
 minecraft:items/salmon_bucket
 minecraft:items/scute
-minecraft:items/sea_grass
 minecraft:items/sea_pickle
+minecraft:items/seagrass
 minecraft:items/shears
 minecraft:items/shulker_shell
 minecraft:items/sign
@@ -1464,6 +1464,7 @@ minecraft:items/tipped_arrow_head
 minecraft:items/tnt_minecart
 minecraft:items/totem_of_undying
 minecraft:items/trident
+minecraft:items/turtle_egg
 minecraft:items/turtle_helmet
 minecraft:items/water_bucket
 minecraft:items/wheat

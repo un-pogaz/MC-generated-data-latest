@@ -788,9 +788,9 @@ minecraft:block/sandstone_slab_top
 minecraft:block/sandstone_stairs
 minecraft:block/sandstone_stairs_inner
 minecraft:block/sandstone_stairs_outer
-minecraft:block/sea_grass
 minecraft:block/sea_lantern
 minecraft:block/sea_pickle
+minecraft:block/seagrass
 minecraft:block/slab
 minecraft:block/slab_top
 minecraft:block/slightly_cracked_turtle_egg
@@ -881,8 +881,8 @@ minecraft:block/sunflower_bottom
 minecraft:block/sunflower_top
 minecraft:block/tall_grass_bottom
 minecraft:block/tall_grass_top
-minecraft:block/tall_sea_grass_bottom
-minecraft:block/tall_sea_grass_top
+minecraft:block/tall_seagrass_bottom
+minecraft:block/tall_seagrass_top
 minecraft:block/template_farmland
 minecraft:block/template_fence_gate
 minecraft:block/template_fence_gate_open
@@ -1657,9 +1657,9 @@ minecraft:item/prismarine_crystals
 minecraft:item/prismarine_shard
 minecraft:item/prismarine_slab
 minecraft:item/prismarine_stairs
-minecraft:item/puffer_fish_spawn_egg
 minecraft:item/pufferfish
 minecraft:item/pufferfish_bucket
+minecraft:item/pufferfish_spawn_egg
 minecraft:item/pumpkin
 minecraft:item/pumpkin_pie
 minecraft:item/pumpkin_seeds
@@ -1728,9 +1728,9 @@ minecraft:item/sandstone
 minecraft:item/sandstone_slab
 minecraft:item/sandstone_stairs
 minecraft:item/scute
-minecraft:item/sea_grass
 minecraft:item/sea_lantern
 minecraft:item/sea_pickle
+minecraft:item/seagrass
 minecraft:item/shears
 minecraft:item/sheep_spawn_egg
 minecraft:item/shield

@@ -1,6 +1,15 @@
 {
   "pools": [
     {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:heart_of_the_sea"
+        }
+      ]
+    },
+    {
       "rolls": {
         "min": 5,
         "max": 8

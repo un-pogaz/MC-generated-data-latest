@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=lower": { "model": "tall_sea_grass_bottom" },
-        "half=upper":    { "model": "tall_sea_grass_top" }
-    }
-}

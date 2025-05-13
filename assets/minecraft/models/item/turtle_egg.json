@@ -1,3 +1,6 @@
 {
-    "parent": "block/turtle_egg"
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "items/turtle_egg"
+    }
 }

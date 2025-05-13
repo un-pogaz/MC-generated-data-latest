@@ -1,5 +1,8 @@
 | Name                          | Count | Chance | Weight | Comment |
 | ----------------------------- | ----- | ------ | ------ | ------- |
+| 1 time                        |    -- |     -- |     -- |         |
+| minecraft:heart_of_the_sea    |     1 |   100% |      1 |         |
+| – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – |
 | 5 to 8 time                   |    -- |     -- |     -- |         |
 | minecraft:iron_ingot          |  1..4 |  57.1% |  20/35 |         |
 | minecraft:gold_ingot          |  1..4 |  28.6% |  10/35 |         |

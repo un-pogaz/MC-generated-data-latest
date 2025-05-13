@@ -11,4 +11,4 @@ minecraft:rose_bush
 minecraft:spruce_door
 minecraft:sunflower
 minecraft:tall_grass
-minecraft:tall_sea_grass
+minecraft:tall_seagrass
