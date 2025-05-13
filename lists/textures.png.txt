@@ -796,6 +796,7 @@ minecraft:entity/squid
 minecraft:entity/steve
 minecraft:entity/sweep
 minecraft:entity/trident
+minecraft:entity/trident_riptide
 minecraft:entity/turtle/big_sea_turtle
 minecraft:entity/villager/butcher
 minecraft:entity/villager/farmer
@@ -1395,6 +1396,7 @@ minecraft:items/oak_door
 minecraft:items/orange_dye
 minecraft:items/painting
 minecraft:items/paper
+minecraft:items/phantom_membrane
 minecraft:items/pink_dye
 minecraft:items/poisonous_potato
 minecraft:items/porkchop

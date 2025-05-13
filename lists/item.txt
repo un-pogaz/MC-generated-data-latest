@@ -509,6 +509,7 @@ minecraft:paper
 minecraft:parrot_spawn_egg
 minecraft:peony
 minecraft:petrified_oak_slab
+minecraft:phantom_membrane
 minecraft:phantom_spawn_egg
 minecraft:pig_spawn_egg
 minecraft:pink_banner
