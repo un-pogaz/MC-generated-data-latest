@@ -315,20 +315,8 @@
     "in": {
       "type": "literal",
       "children": {
-        "overworld": {
-          "type": "literal",
-          "redirect": [
-            "execute"
-          ]
-        },
-        "the_end": {
-          "type": "literal",
-          "redirect": [
-            "execute"
-          ]
-        },
-        "the_nether": {
-          "type": "literal",
+        "dimension": {
+          "type": "unknown",
           "redirect": [
             "execute"
           ]

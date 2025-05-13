@@ -1,0 +1,111 @@
+{
+  "type": "literal",
+  "children": {
+    "force": {
+      "type": "literal",
+      "children": {
+        "x": {
+          "type": "argument",
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": -1875000,
+            "max": 1875000
+          },
+          "children": {
+            "z": {
+              "type": "argument",
+              "parser": "brigadier:integer",
+              "properties": {
+                "min": -1875000,
+                "max": 1875000
+              },
+              "executable": true
+            }
+          }
+        }
+      }
+    },
+    "in": {
+      "type": "literal",
+      "children": {
+        "dimension": {
+          "type": "unknown",
+          "children": {
+            "force": {
+              "type": "literal",
+              "children": {
+                "x": {
+                  "type": "argument",
+                  "parser": "brigadier:integer",
+                  "properties": {
+                    "min": -1875000,
+                    "max": 1875000
+                  },
+                  "children": {
+                    "z": {
+                      "type": "argument",
+                      "parser": "brigadier:integer",
+                      "properties": {
+                        "min": -1875000,
+                        "max": 1875000
+                      },
+                      "executable": true
+                    }
+                  }
+                }
+              }
+            },
+            "unforce": {
+              "type": "literal",
+              "children": {
+                "x": {
+                  "type": "argument",
+                  "parser": "brigadier:integer",
+                  "properties": {
+                    "min": -1875000,
+                    "max": 1875000
+                  },
+                  "children": {
+                    "z": {
+                      "type": "argument",
+                      "parser": "brigadier:integer",
+                      "properties": {
+                        "min": -1875000,
+                        "max": 1875000
+                      },
+                      "executable": true
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "unforce": {
+      "type": "literal",
+      "children": {
+        "x": {
+          "type": "argument",
+          "parser": "brigadier:integer",
+          "properties": {
+            "min": -1875000,
+            "max": 1875000
+          },
+          "children": {
+            "z": {
+              "type": "argument",
+              "parser": "brigadier:integer",
+              "properties": {
+                "min": -1875000,
+                "max": 1875000
+              },
+              "executable": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

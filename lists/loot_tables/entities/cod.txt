@@ -1,1 +1,3 @@
 minecraft:cod
+
+minecraft:bone_meal

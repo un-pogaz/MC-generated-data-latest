@@ -24,9 +24,7 @@ execute if score <target minecraft:score_holder[amount="single"]> <targetObjecti
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:int_range>
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:int_range> >>redirect{execute}
-execute in overworld >>redirect{execute}
-execute in the_end >>redirect{execute}
-execute in the_nether >>redirect{execute}
+execute in <dimension> >>redirect{execute}
 execute positioned as <targets minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
 execute positioned <pos minecraft:vec3> >>redirect{execute}
 execute rotated as <targets minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}

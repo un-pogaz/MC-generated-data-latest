@@ -19,6 +19,7 @@ minecraft:chest
 minecraft:cobblestone_slab
 minecraft:cobblestone_stairs
 minecraft:cobblestone_wall
+minecraft:conduit
 minecraft:cyan_stained_glass_pane
 minecraft:dark_oak_fence
 minecraft:dark_oak_slab
