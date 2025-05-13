@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 15
+            "item": "minecraft:bone_meal"
           }
         ]
       }
@@ -22,8 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 1
+            "item": "minecraft:rose_red"
           }
         ]
       }

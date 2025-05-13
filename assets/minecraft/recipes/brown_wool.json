@@ -3,16 +3,13 @@
   "group": "wool",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 3
+      "item": "minecraft:cocoa_beans"
     },
     {
-      "item": "minecraft:wool",
-      "data": 0
+      "item": "minecraft:white_wool"
     }
   ],
   "result": {
-    "item": "minecraft:wool",
-    "data": 12
+    "item": "minecraft:brown_wool"
   }
 }

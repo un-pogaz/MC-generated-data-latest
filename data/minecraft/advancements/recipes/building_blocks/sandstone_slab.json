@@ -16,6 +16,26 @@
         ]
       }
     },
+    "has_chiseled_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:chiseled_sandstone"
+          }
+        ]
+      }
+    },
+    "has_cut_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cut_sandstone"
+          }
+        ]
+      }
+    },
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
@@ -26,6 +46,8 @@
   "requirements": [
     [
       "has_sandstone",
+      "has_chiseled_sandstone",
+      "has_cut_sandstone",
       "has_the_recipe"
     ]
   ]

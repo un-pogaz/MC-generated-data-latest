@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 1
+            "item": "minecraft:rose_red"
           }
         ]
       }
@@ -28,8 +27,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 11
+            "item": "minecraft:dandelion_yellow"
           }
         ]
       }

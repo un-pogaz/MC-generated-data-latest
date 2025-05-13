@@ -5,11 +5,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:snow"
+      "item": "minecraft:snow_block"
     }
   },
   "result": {
-    "item": "minecraft:snow_layer",
+    "item": "minecraft:snow",
     "count": 6
   }
 }

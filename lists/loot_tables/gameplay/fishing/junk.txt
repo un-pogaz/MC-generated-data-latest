@@ -6,6 +6,6 @@ minecraft:string
 minecraft:fishing_rod
 minecraft:bowl
 minecraft:stick
-minecraft:dye
+minecraft:ink_sac
 minecraft:tripwire_hook
 minecraft:rotten_flesh

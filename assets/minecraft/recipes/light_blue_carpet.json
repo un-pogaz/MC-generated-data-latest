@@ -6,13 +6,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:wool",
-      "data": 3
+      "item": "minecraft:light_blue_wool"
     }
   },
   "result": {
-    "item": "minecraft:carpet",
-    "data": 3,
+    "item": "minecraft:light_blue_carpet",
     "count": 3
   }
 }

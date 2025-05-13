@@ -1,3 +1,0 @@
-minecraft:wool
-
-loot_table[]minecraft:entities/sheep

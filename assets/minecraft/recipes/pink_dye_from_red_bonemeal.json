@@ -3,17 +3,14 @@
   "group": "pink_dye",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 1
+      "item": "minecraft:rose_red"
     },
     {
-      "item": "minecraft:dye",
-      "data": 15
+      "item": "minecraft:bone_meal"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 9,
+    "item": "minecraft:pink_dye",
     "count": 2
   }
 }

@@ -21,8 +21,7 @@
             "item": "minecraft:coal",
             "count": {
               "min": 9
-            },
-            "data": 0
+            }
           }
         ]
       }

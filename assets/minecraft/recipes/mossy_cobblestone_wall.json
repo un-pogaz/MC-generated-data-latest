@@ -10,8 +10,7 @@
     }
   },
   "result": {
-    "item": "minecraft:cobblestone_wall",
-    "data": 1,
+    "item": "minecraft:mossy_cobblestone_wall",
     "count": 6
   }
 }

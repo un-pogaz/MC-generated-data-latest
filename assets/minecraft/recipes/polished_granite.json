@@ -6,13 +6,11 @@
   ],
   "key": {
     "S": {
-      "item": "minecraft:stone",
-      "data": 1
+      "item": "minecraft:andesite"
     }
   },
   "result": {
-    "item": "minecraft:stone",
-    "data": 2,
+    "item": "minecraft:polished_andesite",
     "count": 4
   }
 }

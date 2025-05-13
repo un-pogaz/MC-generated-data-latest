@@ -12,11 +12,10 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
+            "item": "minecraft:lapis_lazuli",
             "count": {
               "min": 9
-            },
-            "data": 4
+            }
           }
         ]
       }

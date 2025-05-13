@@ -2,4 +2,4 @@ minecraft:coal
 
 minecraft:bone
 
-minecraft:skull
+minecraft:wither_skeleton_skull

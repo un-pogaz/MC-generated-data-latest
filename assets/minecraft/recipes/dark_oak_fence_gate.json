@@ -10,8 +10,7 @@
       "item": "minecraft:stick"
     },
     "W": {
-      "item": "minecraft:planks",
-      "data": 5
+      "item": "minecraft:dark_oak_planks"
     }
   },
   "result": {

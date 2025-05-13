@@ -3,12 +3,10 @@
   "group": "light_blue_dye",
   "ingredients": [
     {
-      "item": "minecraft:red_flower",
-      "data": 1
+      "item": "minecraft:blue_orchid"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 12
+    "item": "minecraft:light_blue_dye"
   }
 }

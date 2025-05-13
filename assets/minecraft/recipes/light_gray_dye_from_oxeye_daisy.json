@@ -3,12 +3,10 @@
   "group": "light_gray_dye",
   "ingredients": [
     {
-      "item": "minecraft:red_flower",
-      "data": 8
+      "item": "minecraft:oxeye_daisy"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 7
+    "item": "minecraft:light_gray_dye"
   }
 }

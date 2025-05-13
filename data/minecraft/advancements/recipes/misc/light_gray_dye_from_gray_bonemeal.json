@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 8
+            "item": "minecraft:gray_dye"
           }
         ]
       }
@@ -22,8 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 15
+            "item": "minecraft:bone_meal"
           }
         ]
       }

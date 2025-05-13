@@ -3,13 +3,11 @@
   "group": "pink_dye",
   "ingredients": [
     {
-      "item": "minecraft:double_plant",
-      "data": 5
+      "item": "minecraft:peony"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 9,
+    "item": "minecraft:pink_dye",
     "count": 2
   }
 }

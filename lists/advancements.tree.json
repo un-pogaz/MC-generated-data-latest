@@ -43,7 +43,7 @@
         }
       },
       "minecraft:adventure/sleep_in_bed": {
-        "icon": "minecraft:bed",
+        "icon": "minecraft:red_bed",
         "title": "Sweet dreams",
         "description": "Change your respawn point",
         "frame": "task",
@@ -81,7 +81,7 @@
     "frame": "task",
     "childs": {
       "minecraft:end/kill_dragon": {
-        "icon": "minecraft:skull",
+        "icon": "minecraft:dragon_head",
         "title": "Free the End",
         "description": "Good luck",
         "frame": "task",
@@ -190,7 +190,7 @@
     }
   },
   "minecraft:nether/root": {
-    "icon": "minecraft:red_nether_brick",
+    "icon": "minecraft:red_nether_bricks",
     "title": "Nether",
     "description": "Bring summer clothes",
     "background": "minecraft:gui/advancements/backgrounds/nether",
@@ -210,7 +210,7 @@
         "frame": "task",
         "childs": {
           "minecraft:nether/get_wither_skull": {
-            "icon": "minecraft:skull",
+            "icon": "minecraft:wither_skeleton_skull",
             "title": "Spooky Scary Skeleton",
             "description": "Obtain a wither skeleton's skull",
             "frame": "task",

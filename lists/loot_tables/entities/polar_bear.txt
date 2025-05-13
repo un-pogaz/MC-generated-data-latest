@@ -1,2 +1,2 @@
-minecraft:fish
-minecraft:fish
+minecraft:cod
+minecraft:salmon

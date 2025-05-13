@@ -6,22 +6,18 @@
   "key": {
     "#": [
       {
-        "item": "minecraft:quartz_block",
-        "data": 0
+        "item": "minecraft:chiseled_quartz_block"
       },
       {
-        "item": "minecraft:quartz_block",
-        "data": 1
+        "item": "minecraft:quartz_block"
       },
       {
-        "item": "minecraft:quartz_block",
-        "data": 2
+        "item": "minecraft:quartz_pillar"
       }
     ]
   },
   "result": {
-    "item": "minecraft:stone_slab",
-    "data": 7,
+    "item": "minecraft:quartz_slab",
     "count": 6
   }
 }

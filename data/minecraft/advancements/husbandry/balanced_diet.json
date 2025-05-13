@@ -60,8 +60,7 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:golden_apple",
-                    "data": 0
+                    "item": "minecraft:golden_apple"
                 }
             }
         },
@@ -69,8 +68,7 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:golden_apple",
-                    "data": 1
+                    "item": "minecraft:enchanted_golden_apple"
                 }
             }
         },
@@ -78,8 +76,7 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:fish",
-                    "data": 0
+                    "item": "minecraft:cod"
                 }
             }
         },
@@ -87,8 +84,7 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:fish",
-                    "data": 1
+                    "item": "minecraft:salmon"
                 }
             }
         },
@@ -96,8 +92,7 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:fish",
-                    "data": 2
+                    "item": "minecraft:clownfish"
                 }
             }
         },
@@ -105,8 +100,7 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:fish",
-                    "data": 3
+                    "item": "minecraft:pufferfish"
                 }
             }
         },
@@ -114,8 +108,7 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:cooked_fish",
-                    "data": 0
+                    "item": "minecraft:cooked_cod"
                 }
             }
         },
@@ -123,8 +116,7 @@
             "trigger": "consume_item",
             "conditions": {
                 "item": {
-                    "item": "minecraft:cooked_fish",
-                    "data": 1
+                    "item": "minecraft:cooked_salmon"
                 }
             }
         },

@@ -3,24 +3,19 @@
   "group": "concrete_powder",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 0
+      "item": "minecraft:ink_sac"
     },
     {
-      "item": "minecraft:sand",
-      "data": 0
+      "item": "minecraft:sand"
     },
     {
-      "item": "minecraft:sand",
-      "data": 0
+      "item": "minecraft:sand"
     },
     {
-      "item": "minecraft:sand",
-      "data": 0
+      "item": "minecraft:sand"
     },
     {
-      "item": "minecraft:sand",
-      "data": 0
+      "item": "minecraft:sand"
     },
     {
       "item": "minecraft:gravel"
@@ -36,8 +31,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:concrete_powder",
-    "data": 15,
+    "item": "minecraft:black_concrete_powder",
     "count": 8
   }
 }

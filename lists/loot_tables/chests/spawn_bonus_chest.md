@@ -11,10 +11,14 @@
 | 3 time                   |    -- |     -- |     -- |         |
 | minecraft:apple          |  1..2 |  45.5% |   5/11 |         |
 | minecraft:bread          |  1..2 |  27.3% |   3/11 |         |
-| minecraft:fish           |  1..2 |  27.3% |   3/11 |         |
+| minecraft:salmon         |  1..2 |  27.3% |   3/11 |         |
 | – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – |
 | 4 time                   |    -- |     -- |     -- |         |
-| minecraft:stick          | 1..12 |    25% |  10/40 |         |
-| minecraft:planks         | 1..12 |    25% |  10/40 |         |
-| minecraft:log            |  1..3 |    25% |  10/40 |         |
-| minecraft:log2           |  1..3 |    25% |  10/40 |         |
+| minecraft:stick          | 1..12 |  26.3% |  10/38 |         |
+| minecraft:oak_planks     | 1..12 |  26.3% |  10/38 |         |
+| minecraft:oak_log        |  1..3 |   7.9% |   3/38 |         |
+| minecraft:spruce_log     |  1..3 |   7.9% |   3/38 |         |
+| minecraft:birch_log      |  1..3 |   7.9% |   3/38 |         |
+| minecraft:jungle_log     |  1..3 |   7.9% |   3/38 |         |
+| minecraft:acacia_log     |  1..3 |   7.9% |   3/38 |         |
+| minecraft:dark_oak_log   |  1..3 |   7.9% |   3/38 |         |

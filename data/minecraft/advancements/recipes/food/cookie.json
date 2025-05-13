@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 3
+            "item": "minecraft:cocoa_beans"
           }
         ]
       }

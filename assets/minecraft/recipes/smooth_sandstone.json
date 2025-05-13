@@ -6,13 +6,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:sandstone",
-      "data": 0
+      "item": "minecraft:sandstone"
     }
   },
   "result": {
-    "item": "minecraft:sandstone",
-    "data": 2,
+    "item": "minecraft:chiseled_sandstone",
     "count": 4
   }
 }

@@ -11,13 +11,11 @@
       "item": "minecraft:hardened_clay"
     },
     "X": {
-      "item": "minecraft:dye",
-      "data": 7
+      "item": "minecraft:light_gray_dye"
     }
   },
   "result": {
-    "item": "minecraft:stained_hardened_clay",
-    "data": 8,
+    "item": "minecraft:light_gray_terracotta",
     "count": 8
   }
 }

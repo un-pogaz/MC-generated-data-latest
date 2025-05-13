@@ -1,8 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:skull",
-            "data": 5
+            "item": "minecraft:dragon_head"
         },
         "title": {
             "translate": "advancements.end.kill_dragon.title"

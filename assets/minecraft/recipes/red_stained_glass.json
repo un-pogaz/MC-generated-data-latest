@@ -11,13 +11,11 @@
       "item": "minecraft:glass"
     },
     "X": {
-      "item": "minecraft:dye",
-      "data": 1
+      "item": "minecraft:rose_red"
     }
   },
   "result": {
-    "item": "minecraft:stained_glass",
-    "data": 14,
+    "item": "minecraft:red_stained_glass",
     "count": 8
   }
 }

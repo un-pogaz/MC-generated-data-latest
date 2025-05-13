@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:log2",
-            "data": 1
+            "item": "minecraft:dark_oak_log"
           }
         ]
       }

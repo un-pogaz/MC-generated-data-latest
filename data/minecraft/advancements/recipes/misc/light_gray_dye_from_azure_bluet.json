@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:red_flower",
-            "data": 3
+            "item": "minecraft:azure_bluet"
           }
         ]
       }

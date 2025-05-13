@@ -8,7 +8,7 @@ empty
 minecraft:iron_ingot
 minecraft:gold_ingot
 minecraft:redstone
-minecraft:dye
+minecraft:lapis_lazuli
 minecraft:diamond
 minecraft:coal
 minecraft:bread
@@ -17,7 +17,7 @@ minecraft:pumpkin_seeds
 minecraft:beetroot_seeds
 
 minecraft:rail
-minecraft:golden_rail
+minecraft:powered_rail
 minecraft:detector_rail
 minecraft:activator_rail
 minecraft:torch

@@ -11,8 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 4
+            "item": "minecraft:lapis_lazuli"
           }
         ]
       }
@@ -22,8 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
-            "data": 1
+            "item": "minecraft:rose_red"
           }
         ]
       }

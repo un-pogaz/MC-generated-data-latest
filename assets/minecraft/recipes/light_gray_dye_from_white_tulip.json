@@ -3,12 +3,10 @@
   "group": "light_gray_dye",
   "ingredients": [
     {
-      "item": "minecraft:red_flower",
-      "data": 6
+      "item": "minecraft:white_tulip"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 7
+    "item": "minecraft:light_gray_dye"
   }
 }

@@ -2,15 +2,13 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:stonebrick",
-      "data": 0
+      "item": "minecraft:stone_bricks"
     },
     {
       "item": "minecraft:vine"
     }
   ],
   "result": {
-    "item": "minecraft:stonebrick",
-    "data": 1
+    "item": "minecraft:mossy_stone_bricks"
   }
 }

@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:bed"
+            "item": "minecraft:red_bed"
         },
         "title": {
             "translate": "advancements.adventure.sleep_in_bed.title"

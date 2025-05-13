@@ -18,11 +18,10 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dye",
+            "item": "minecraft:bone_meal",
             "count": {
               "min": 9
-            },
-            "data": 15
+            }
           }
         ]
       }

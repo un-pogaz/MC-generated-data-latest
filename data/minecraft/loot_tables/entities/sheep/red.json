@@ -5,14 +5,8 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:wool",
-                    "weight": 1,
-                    "functions": [
-                        {
-                            "function": "minecraft:set_data",
-                            "data": 14
-                        }
-                    ]
+                    "name": "minecraft:red_wool",
+                    "weight": 1
                 }
             ]
         },

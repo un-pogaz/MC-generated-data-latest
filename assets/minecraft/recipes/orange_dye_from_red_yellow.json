@@ -3,17 +3,14 @@
   "group": "orange_dye",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 1
+      "item": "minecraft:rose_red"
     },
     {
-      "item": "minecraft:dye",
-      "data": 11
+      "item": "minecraft:dandelion_yellow"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 14,
+    "item": "minecraft:orange_dye",
     "count": 2
   }
 }

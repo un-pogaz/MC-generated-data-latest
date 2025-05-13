@@ -1,8 +1,8 @@
 minecraft:saddle
 minecraft:golden_apple
 minecraft:enchanted_golden_apple
-minecraft:record_13
-minecraft:record_cat
+minecraft:music_disc_13
+minecraft:music_disc_cat
 minecraft:name_tag
 minecraft:golden_horse_armor
 minecraft:iron_horse_armor

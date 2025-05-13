@@ -7,11 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:planks",
-      "data": 0
+      "item": "minecraft:oak_planks"
     }
   },
   "result": {
-    "item": "minecraft:boat"
+    "item": "minecraft:oak_boat"
   }
 }

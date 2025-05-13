@@ -3,21 +3,17 @@
   "group": "light_gray_dye",
   "ingredients": [
     {
-      "item": "minecraft:dye",
-      "data": 0
+      "item": "minecraft:ink_sac"
     },
     {
-      "item": "minecraft:dye",
-      "data": 15
+      "item": "minecraft:bone_meal"
     },
     {
-      "item": "minecraft:dye",
-      "data": 15
+      "item": "minecraft:bone_meal"
     }
   ],
   "result": {
-    "item": "minecraft:dye",
-    "data": 7,
+    "item": "minecraft:light_gray_dye",
     "count": 3
   }
 }
