@@ -5,6 +5,14 @@
       "south",
       "west",
       "east"
+    ],
+    "has_book": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
     ]
   }
 }

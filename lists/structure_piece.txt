@@ -52,17 +52,4 @@ minecraft:shstart
 minecraft:tedp
 minecraft:tejp
 minecraft:tesh
-minecraft:vibh
-minecraft:vidf
-minecraft:vif
-minecraft:vil
-minecraft:viph
-minecraft:vis
-minecraft:vish
-minecraft:vismh
-minecraft:visr
-minecraft:vist
-minecraft:vistart
-minecraft:vitrh
-minecraft:viw
 minecraft:wmp

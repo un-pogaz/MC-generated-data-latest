@@ -106,6 +106,7 @@ minecraft:bubble_coral_fan
 minecraft:bubble_coral_wall_fan
 minecraft:cactus
 minecraft:cake
+minecraft:campfire
 minecraft:carrots
 minecraft:cartography_table
 minecraft:carved_pumpkin

@@ -119,6 +119,7 @@ minecraft:bubble_coral_fan
 minecraft:bucket
 minecraft:cactus
 minecraft:cake
+minecraft:campfire
 minecraft:carrot
 minecraft:carrot_on_a_stick
 minecraft:cartography_table
@@ -874,6 +875,7 @@ minecraft:zombie_villager_spawn_egg
 #minecraft:boats
 #minecraft:buttons
 #minecraft:carpets
+#minecraft:coals
 #minecraft:dark_oak_logs
 #minecraft:doors
 #minecraft:fences
