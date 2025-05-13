@@ -2,4 +2,4 @@ minecraft:map
 minecraft:paper
 minecraft:compass
 minecraft:bread
-minecraft:oak_sapling
+minecraft:stick
