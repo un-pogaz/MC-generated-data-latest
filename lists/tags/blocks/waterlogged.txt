@@ -1,6 +1,0 @@
-#minecraft:coral_plants
-minecraft:bubble_column
-minecraft:kelp
-minecraft:kelp_top
-minecraft:sea_grass
-minecraft:tall_sea_grass
