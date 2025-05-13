@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "birch_bark" }
+        "axis=y":  { "model": "birch_bark" },
+        "axis=z":   { "model": "birch_bark", "x": 90 },
+        "axis=x":   { "model": "birch_bark", "x": 90, "y": 90 }
     }
 }
