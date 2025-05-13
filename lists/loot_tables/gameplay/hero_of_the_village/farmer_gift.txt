@@ -1,0 +1,3 @@
+minecraft:bread
+minecraft:pumpkin_pie
+minecraft:cookie
