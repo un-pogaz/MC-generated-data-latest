@@ -2,14 +2,14 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:oak_wooden_slab"
+      "minecraft:oak_slab"
     ]
   },
   "criteria": {
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "oak_wooden_slab"
+        "recipe": "oak_slab"
       }
     },
     "has_planks": {

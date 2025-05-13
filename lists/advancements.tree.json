@@ -64,7 +64,7 @@
         "frame": "task",
         "childs": {
           "minecraft:adventure/summon_iron_golem": {
-            "icon": "minecraft:pumpkin",
+            "icon": "minecraft:carved_pumpkin",
             "title": "Hired Help",
             "description": "Summon an Iron Golem to help defend a village",
             "frame": "goal"
@@ -204,7 +204,7 @@
         "rewards": "100 xp"
       },
       "minecraft:nether/find_fortress": {
-        "icon": "minecraft:nether_brick",
+        "icon": "minecraft:nether_bricks",
         "title": "A Terrible Fortress",
         "description": "Break your way into a Nether Fortress",
         "frame": "task",
@@ -293,7 +293,7 @@
     }
   },
   "minecraft:story/root": {
-    "icon": "minecraft:grass",
+    "icon": "minecraft:grass_block",
     "title": "Minecraft",
     "description": "The heart and story of the game",
     "background": "minecraft:gui/advancements/backgrounds/stone",

@@ -2,7 +2,7 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:bone_meal_from_block"
+      "minecraft:bone_meal_from_bone_block"
     ]
   },
   "criteria": {
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "bone_meal_from_block"
+        "recipe": "bone_meal_from_bone_block"
       }
     }
   },

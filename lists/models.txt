@@ -362,7 +362,6 @@ minecraft:block/half_slab_sandstone
 minecraft:block/half_slab_spruce
 minecraft:block/half_slab_stone
 minecraft:block/half_slab_stone_brick
-minecraft:block/hardened_clay
 minecraft:block/hay_block
 minecraft:block/heavy_weighted_pressure_plate
 minecraft:block/heavy_weighted_pressure_plate_down
@@ -850,6 +849,7 @@ minecraft:block/template_trapdoor_open
 minecraft:block/template_trapdoor_top
 minecraft:block/template_wall_post
 minecraft:block/template_wall_side
+minecraft:block/terracotta
 minecraft:block/thin_block
 minecraft:block/tinted_cross
 minecraft:block/tnt
@@ -1320,7 +1320,6 @@ minecraft:item/guardian_spawn_egg
 minecraft:item/gunpowder
 minecraft:item/handheld
 minecraft:item/handheld_rod
-minecraft:item/hardened_clay
 minecraft:item/hay_block
 minecraft:item/heavy_weighted_pressure_plate
 minecraft:item/hopper
@@ -1684,6 +1683,7 @@ minecraft:item/template_banner
 minecraft:item/template_bed
 minecraft:item/template_shulker_box
 minecraft:item/template_skull
+minecraft:item/terracotta
 minecraft:item/tipped_arrow
 minecraft:item/tnt
 minecraft:item/tnt_minecart

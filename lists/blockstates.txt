@@ -169,7 +169,6 @@ minecraft:green_stained_glass
 minecraft:green_stained_glass_pane
 minecraft:green_terracotta
 minecraft:green_wool
-minecraft:hardened_clay
 minecraft:hay_block
 minecraft:heavy_weighted_pressure_plate
 minecraft:hopper
@@ -412,6 +411,7 @@ minecraft:structure_block
 minecraft:sugar_cane
 minecraft:sunflower
 minecraft:tall_grass
+minecraft:terracotta
 minecraft:tnt
 minecraft:torch
 minecraft:tripwire

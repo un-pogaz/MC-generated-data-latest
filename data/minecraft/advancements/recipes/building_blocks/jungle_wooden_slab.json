@@ -2,14 +2,14 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:jungle_wooden_slab"
+      "minecraft:jungle_slab"
     ]
   },
   "criteria": {
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "jungle_wooden_slab"
+        "recipe": "jungle_slab"
       }
     },
     "has_planks": {

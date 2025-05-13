@@ -2,14 +2,14 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:birch_wooden_slab"
+      "minecraft:birch_slab"
     ]
   },
   "criteria": {
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "birch_wooden_slab"
+        "recipe": "birch_slab"
       }
     },
     "has_planks": {

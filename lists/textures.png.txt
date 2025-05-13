@@ -205,7 +205,6 @@ minecraft:blocks/green_stained_glass
 minecraft:blocks/green_stained_glass_pane_top
 minecraft:blocks/green_terracotta
 minecraft:blocks/green_wool
-minecraft:blocks/hardened_clay
 minecraft:blocks/hay_block_side
 minecraft:blocks/hay_block_top
 minecraft:blocks/hopper_inside
@@ -446,6 +445,7 @@ minecraft:blocks/sunflower_front
 minecraft:blocks/sunflower_top
 minecraft:blocks/tall_grass_bottom
 minecraft:blocks/tall_grass_top
+minecraft:blocks/terracotta
 minecraft:blocks/tnt_bottom
 minecraft:blocks/tnt_side
 minecraft:blocks/tnt_top
