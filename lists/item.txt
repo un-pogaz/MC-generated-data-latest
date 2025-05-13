@@ -796,6 +796,7 @@ minecraft:sugar
 minecraft:sugar_cane
 minecraft:sunflower
 minecraft:suspicious_stew
+minecraft:sweet_berries
 minecraft:tall_grass
 minecraft:terracotta
 minecraft:tipped_arrow

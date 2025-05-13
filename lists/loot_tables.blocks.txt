@@ -567,6 +567,7 @@ minecraft:blocks/stripped_spruce_log
 minecraft:blocks/stripped_spruce_wood
 minecraft:blocks/sugar_cane
 minecraft:blocks/sunflower
+minecraft:blocks/sweet_berry_bush
 minecraft:blocks/tall_grass
 minecraft:blocks/tall_seagrass
 minecraft:blocks/terracotta

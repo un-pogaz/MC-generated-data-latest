@@ -903,7 +903,7 @@
         Text3: "{\"text\":\"----\\u003e\"}",
         Text2: "{\"text\":\"\\u003c----\"}",
         Text1: "{\"text\":\"\"}",
-        id: "minecraft:oak_sign"
+        id: "minecraft:sign"
       },
       pos: [3, 2, 3],
       state: 9
@@ -1327,7 +1327,7 @@
       Properties: {
         facing: "south"
       },
-      Name: "minecraft:oak_wall_sign"
+      Name: "minecraft:wall_sign"
     },
     {
       Properties: {
