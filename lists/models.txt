@@ -92,6 +92,7 @@ minecraft:block/blue_carpet
 minecraft:block/blue_concrete
 minecraft:block/blue_concrete_powder
 minecraft:block/blue_glazed_terracotta
+minecraft:block/blue_ice
 minecraft:block/blue_orchid
 minecraft:block/blue_stained_glass
 minecraft:block/blue_stained_glass_pane_noside
@@ -198,6 +199,7 @@ minecraft:block/comparator
 minecraft:block/comparator_on
 minecraft:block/comparator_on_subtract
 minecraft:block/comparator_subtract
+minecraft:block/conduit
 minecraft:block/coral_fan
 minecraft:block/cracked_stone_bricks
 minecraft:block/crafting_table
@@ -1053,6 +1055,7 @@ minecraft:item/blue_carpet
 minecraft:item/blue_concrete
 minecraft:item/blue_concrete_powder
 minecraft:item/blue_glazed_terracotta
+minecraft:item/blue_ice
 minecraft:item/blue_orchid
 minecraft:item/blue_shulker_box
 minecraft:item/blue_stained_glass
@@ -1239,6 +1242,7 @@ minecraft:item/compass_28
 minecraft:item/compass_29
 minecraft:item/compass_30
 minecraft:item/compass_31
+minecraft:item/conduit
 minecraft:item/cooked_beef
 minecraft:item/cooked_chicken
 minecraft:item/cooked_cod
@@ -1311,6 +1315,7 @@ minecraft:item/diamond_sword
 minecraft:item/diorite
 minecraft:item/dirt
 minecraft:item/dispenser
+minecraft:item/dolphin_spawn_egg
 minecraft:item/donkey_spawn_egg
 minecraft:item/dragon_breath
 minecraft:item/dragon_egg
@@ -1415,6 +1420,7 @@ minecraft:item/gunpowder
 minecraft:item/handheld
 minecraft:item/handheld_rod
 minecraft:item/hay_block
+minecraft:item/heart_of_the_sea
 minecraft:item/heavy_weighted_pressure_plate
 minecraft:item/hopper
 minecraft:item/hopper_minecart
@@ -1565,6 +1571,7 @@ minecraft:item/music_disc_ward
 minecraft:item/mutton
 minecraft:item/mycelium
 minecraft:item/name_tag
+minecraft:item/nautilus_shell
 minecraft:item/nether_brick
 minecraft:item/nether_brick_fence
 minecraft:item/nether_brick_slab
