@@ -16,6 +16,7 @@ minecraft:entities/bat
 minecraft:entities/blaze
 minecraft:entities/cave_spider
 minecraft:entities/chicken
+minecraft:entities/cod_mob
 minecraft:entities/cow
 minecraft:entities/creeper
 minecraft:entities/donkey
@@ -39,7 +40,9 @@ minecraft:entities/parrot
 minecraft:entities/phantom
 minecraft:entities/pig
 minecraft:entities/polar_bear
+minecraft:entities/puffer_fish
 minecraft:entities/rabbit
+minecraft:entities/salmon_mob
 minecraft:entities/sheep
 minecraft:entities/sheep/black
 minecraft:entities/sheep/blue
