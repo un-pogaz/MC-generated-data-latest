@@ -1,3 +1,0 @@
-axis=x
-axis=y  [default]
-axis=z

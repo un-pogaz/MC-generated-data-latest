@@ -1,2 +1,0 @@
-setworldspawn
-setworldspawn <pos minecraft:block_pos>

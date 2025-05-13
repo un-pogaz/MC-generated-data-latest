@@ -1,2 +1,0 @@
-powered=true
-powered=false  [default]

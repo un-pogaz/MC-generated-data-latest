@@ -1,5 +1,0 @@
-difficulty
-difficulty easy
-difficulty hard
-difficulty normal
-difficulty peaceful

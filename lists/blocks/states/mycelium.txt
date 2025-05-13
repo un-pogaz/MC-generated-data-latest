@@ -1,2 +1,0 @@
-snowy=true
-snowy=false  [default]

@@ -1,2 +1,0 @@
-minecraft:chest
-minecraft:trapped_chest

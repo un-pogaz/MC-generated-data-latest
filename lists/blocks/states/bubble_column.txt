@@ -1,2 +1,0 @@
-drag=true  [default]
-drag=false

@@ -1,1 +1,0 @@
-deop <targets minecraft:game_profile>
