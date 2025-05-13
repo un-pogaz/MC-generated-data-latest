@@ -1,15 +1,15 @@
 {
   "type": "crafting_shaped",
+  "group": "wooden_button",
   "pattern": [
-    "#",
     "#"
   ],
   "key": {
     "#": {
-      "item": "minecraft:red_sandstone_slab"
+      "item": "minecraft:acacia_planks"
     }
   },
   "result": {
-    "item": "minecraft:cut_red_sandstone"
+    "item": "minecraft:acacia_button"
   }
 }

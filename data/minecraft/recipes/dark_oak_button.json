@@ -1,14 +1,13 @@
 {
   "type": "crafting_shaped",
+  "group": "wooden_button",
   "pattern": [
     "#"
   ],
   "key": {
-    "#": [
-      {
-        "item": "minecraft:dark_oak_planks"
-      }
-    ]
+    "#": {
+      "item": "minecraft:dark_oak_planks"
+    }
   },
   "result": {
     "item": "minecraft:dark_oak_button"

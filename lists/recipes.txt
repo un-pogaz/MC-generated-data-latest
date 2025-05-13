@@ -13,7 +13,10 @@ minecraft:activator_rail
 minecraft:andesite
 minecraft:anvil
 minecraft:armor_stand
+minecraft:armordye
 minecraft:arrow
+minecraft:banneraddpattern
+minecraft:bannerduplicate
 minecraft:beacon
 minecraft:beetroot_soup
 minecraft:birch_bark
@@ -51,6 +54,7 @@ minecraft:bone_block
 minecraft:bone_meal_from_bone
 minecraft:bone_meal_from_bone_block
 minecraft:book
+minecraft:bookcloning
 minecraft:bookshelf
 minecraft:bow
 minecraft:bowl
@@ -139,6 +143,9 @@ minecraft:fence
 minecraft:fence_gate
 minecraft:fermented_spider_eye
 minecraft:fire_charge
+minecraft:firework_rocket
+minecraft:firework_star
+minecraft:firework_star_fade
 minecraft:fishing_rod
 minecraft:flint_and_steel
 minecraft:flower_pot
@@ -280,6 +287,8 @@ minecraft:magenta_wool
 minecraft:magma
 minecraft:magma_cream
 minecraft:map
+minecraft:mapcloning
+minecraft:mapextending
 minecraft:melon_block
 minecraft:melon_seeds
 minecraft:minecart
@@ -377,6 +386,7 @@ minecraft:redstone
 minecraft:redstone_block
 minecraft:redstone_lamp
 minecraft:redstone_torch
+minecraft:repairitem
 minecraft:repeater
 minecraft:sandstone
 minecraft:sandstone_slab
@@ -384,6 +394,8 @@ minecraft:sandstone_stairs
 minecraft:sea_lantern
 minecraft:shears
 minecraft:shield
+minecraft:shielddecoration
+minecraft:shulkerboxcoloring
 minecraft:sign
 minecraft:slime
 minecraft:slime_ball
@@ -420,6 +432,7 @@ minecraft:stone_sword
 minecraft:stonebrick
 minecraft:string_to_wool
 minecraft:sugar
+minecraft:tippedarrow
 minecraft:tnt
 minecraft:tnt_minecart
 minecraft:torch
