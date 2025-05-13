@@ -11,37 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:stone_bricks"
-          }
-        ]
-      }
-    },
-    "has_mossy_stone_bricks": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:mossy_stone_bricks"
-          }
-        ]
-      }
-    },
-    "has_cracked_stone_bricks": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:cracked_stone_bricks"
-          }
-        ]
-      }
-    },
-    "has_chiseled_stone_bricks": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:chiseled_stone_bricks"
+            "tag": "minecraft:stone_bricks"
           }
         ]
       }
@@ -56,9 +26,6 @@
   "requirements": [
     [
       "has_stone_bricks",
-      "has_mossy_stone_bricks",
-      "has_cracked_stone_bricks",
-      "has_chiseled_stone_bricks",
       "has_the_recipe"
     ]
   ]
