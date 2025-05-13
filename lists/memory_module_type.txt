@@ -1,5 +1,6 @@
 minecraft:breed_target
 minecraft:dummy
+minecraft:golem_spawn_conditions
 minecraft:home
 minecraft:hurt_by
 minecraft:hurt_by_entity
@@ -13,5 +14,6 @@ minecraft:nearest_hostile
 minecraft:nearest_players
 minecraft:nearest_visible_player
 minecraft:path
+minecraft:secondary_job_site
 minecraft:visible_mobs
 minecraft:walk_target

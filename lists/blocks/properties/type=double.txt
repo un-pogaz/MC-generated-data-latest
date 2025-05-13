@@ -3,6 +3,8 @@ minecraft:andesite_slab
 minecraft:birch_slab
 minecraft:brick_slab
 minecraft:cobblestone_slab
+minecraft:cut_red_sandstone_slab
+minecraft:cut_sandstone_slab
 minecraft:dark_oak_slab
 minecraft:dark_prismarine_slab
 minecraft:diorite_slab

@@ -90,7 +90,7 @@
         VillagerData: {
           profession: "minecraft:nitwit",
           level: 1,
-          type: "minecraft:snowy"
+          type: "minecraft:snow"
         },
         HurtTime: 0s,
         Inventory: []
