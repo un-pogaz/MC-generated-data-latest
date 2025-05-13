@@ -447,10 +447,6 @@
       state: 2
     },
     {
-      pos: [1, 0, 8],
-      state: 0
-    },
-    {
       pos: [2, 0, 8],
       state: 0
     },
@@ -559,10 +555,6 @@
       state: 0
     },
     {
-      pos: [4, 0, 10],
-      state: 0
-    },
-    {
       pos: [5, 0, 10],
       state: 0
     },
@@ -583,10 +575,6 @@
       state: 0
     },
     {
-      pos: [10, 0, 10],
-      state: 0
-    },
-    {
       pos: [4, 0, 11],
       state: 0
     },
@@ -601,7 +589,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -638,7 +626,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -648,12 +636,22 @@
     {
       nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
       pos: [11, 1, 6],
       state: 8
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/desert/villagers",
+        final_state: "minecraft:smooth_sandstone",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 8],
+      state: 5
     },
     {
       nbt: {
@@ -667,8 +665,28 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/desert/villagers",
+        final_state: "minecraft:smooth_sandstone",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [4, 0, 10],
+      state: 5
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/desert/villagers",
+        final_state: "minecraft:smooth_sandstone",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [10, 0, 10],
+      state: 5
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/desert/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -1740,5 +1758,5 @@
       Name: "minecraft:water"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

@@ -313,7 +313,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -342,8 +342,28 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/snowy/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [8, 0, 3],
+      state: 7
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/snowy/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 4],
+      state: 7
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -353,7 +373,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -390,7 +410,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/snowy/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -1454,10 +1474,6 @@
       state: 13
     },
     {
-      pos: [8, 0, 3],
-      state: 13
-    },
-    {
       pos: [9, 0, 3],
       state: 13
     },
@@ -1767,10 +1783,6 @@
     },
     {
       pos: [0, 0, 4],
-      state: 13
-    },
-    {
-      pos: [1, 0, 4],
       state: 13
     },
     {
@@ -3225,5 +3237,5 @@
       Name: "minecraft:air"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

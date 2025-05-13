@@ -369,7 +369,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -379,7 +379,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -408,13 +408,43 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/plains/villagers",
+        final_state: "minecraft:grass_block",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 6],
+      state: 7
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
       pos: [0, 1, 7],
       state: 8
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/plains/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [2, 0, 8],
+      state: 7
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/plains/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [2, 0, 10],
+      state: 7
     },
     {
       nbt: {
@@ -446,7 +476,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -1290,10 +1320,6 @@
       state: 11
     },
     {
-      pos: [1, 0, 6],
-      state: 11
-    },
-    {
       pos: [3, 0, 6],
       state: 11
     },
@@ -1543,10 +1569,6 @@
     },
     {
       pos: [1, 0, 8],
-      state: 11
-    },
-    {
-      pos: [2, 0, 8],
       state: 11
     },
     {
@@ -1816,10 +1838,6 @@
     {
       pos: [7, 4, 9],
       state: 13
-    },
-    {
-      pos: [2, 0, 10],
-      state: 11
     },
     {
       pos: [4, 0, 10],
@@ -2580,5 +2598,5 @@
       Name: "minecraft:grass"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

@@ -335,18 +335,6 @@
       state: 0
     },
     {
-      pos: [2, 4, 2],
-      state: 0
-    },
-    {
-      pos: [3, 4, 2],
-      state: 0
-    },
-    {
-      pos: [5, 4, 2],
-      state: 0
-    },
-    {
       pos: [9, 4, 2],
       state: 0
     },
@@ -468,10 +456,6 @@
     },
     {
       pos: [1, 2, 3],
-      state: 0
-    },
-    {
-      pos: [5, 4, 3],
       state: 0
     },
     {
@@ -624,10 +608,6 @@
     },
     {
       pos: [1, 4, 4],
-      state: 0
-    },
-    {
-      pos: [5, 4, 4],
       state: 0
     },
     {
@@ -983,7 +963,7 @@
     {
       nbt: {
         target_pool: "minecraft:empty",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:building_entrance"
       },
@@ -1783,7 +1763,19 @@
       state: 3
     },
     {
+      pos: [2, 4, 2],
+      state: 3
+    },
+    {
+      pos: [3, 4, 2],
+      state: 3
+    },
+    {
       pos: [4, 4, 2],
+      state: 3
+    },
+    {
+      pos: [5, 4, 2],
       state: 3
     },
     {
@@ -2135,8 +2127,12 @@
       state: 3
     },
     {
+      pos: [5, 4, 3],
+      state: 3
+    },
+    {
       pos: [6, 4, 3],
-      state: 19
+      state: 3
     },
     {
       pos: [7, 4, 3],
@@ -2144,7 +2140,7 @@
     },
     {
       pos: [8, 4, 3],
-      state: 20
+      state: 19
     },
     {
       pos: [0, 5, 3],
@@ -2176,7 +2172,7 @@
     },
     {
       pos: [7, 6, 3],
-      state: 3
+      state: 11
     },
     {
       pos: [8, 6, 3],
@@ -2296,7 +2292,7 @@
     },
     {
       pos: [3, 10, 3],
-      state: 3
+      state: 11
     },
     {
       pos: [4, 10, 3],
@@ -2368,7 +2364,7 @@
     },
     {
       pos: [4, 1, 4],
-      state: 21
+      state: 20
     },
     {
       pos: [5, 1, 4],
@@ -2392,7 +2388,7 @@
     },
     {
       pos: [4, 2, 4],
-      state: 21
+      state: 20
     },
     {
       pos: [5, 2, 4],
@@ -2424,7 +2420,7 @@
     },
     {
       pos: [4, 3, 4],
-      state: 21
+      state: 20
     },
     {
       pos: [5, 3, 4],
@@ -2456,7 +2452,11 @@
     },
     {
       pos: [4, 4, 4],
-      state: 21
+      state: 20
+    },
+    {
+      pos: [5, 4, 4],
+      state: 3
     },
     {
       pos: [6, 4, 4],
@@ -2464,7 +2464,7 @@
     },
     {
       pos: [7, 4, 4],
-      state: 22
+      state: 21
     },
     {
       pos: [8, 4, 4],
@@ -2476,7 +2476,7 @@
     },
     {
       pos: [4, 5, 4],
-      state: 21
+      state: 20
     },
     {
       pos: [9, 5, 4],
@@ -2496,7 +2496,7 @@
     },
     {
       pos: [4, 6, 4],
-      state: 21
+      state: 20
     },
     {
       pos: [6, 6, 4],
@@ -2520,7 +2520,7 @@
     },
     {
       pos: [2, 7, 4],
-      state: 22
+      state: 21
     },
     {
       pos: [3, 7, 4],
@@ -2528,7 +2528,7 @@
     },
     {
       pos: [4, 7, 4],
-      state: 21
+      state: 20
     },
     {
       pos: [6, 7, 4],
@@ -2560,7 +2560,7 @@
     },
     {
       pos: [4, 8, 4],
-      state: 21
+      state: 20
     },
     {
       pos: [6, 8, 4],
@@ -2584,7 +2584,7 @@
     },
     {
       pos: [4, 9, 4],
-      state: 21
+      state: 20
     },
     {
       pos: [6, 9, 4],
@@ -2616,7 +2616,7 @@
     },
     {
       pos: [4, 10, 4],
-      state: 3
+      state: 20
     },
     {
       pos: [6, 10, 4],
@@ -2828,7 +2828,7 @@
     },
     {
       pos: [1, 8, 5],
-      state: 23
+      state: 22
     },
     {
       pos: [3, 8, 5],
@@ -2836,7 +2836,7 @@
     },
     {
       pos: [5, 8, 5],
-      state: 23
+      state: 22
     },
     {
       pos: [6, 8, 5],
@@ -2940,7 +2940,7 @@
     },
     {
       pos: [0, 0, 6],
-      state: 24
+      state: 3
     },
     {
       pos: [1, 0, 6],
@@ -3530,12 +3530,6 @@
     },
     {
       Properties: {
-        facing: "east"
-      },
-      Name: "minecraft:wall_torch"
-    },
-    {
-      Properties: {
         facing: "west"
       },
       Name: "minecraft:wall_torch"
@@ -3561,10 +3555,7 @@
         facing: "north"
       },
       Name: "minecraft:cobblestone_stairs"
-    },
-    {
-      Name: "minecraft:grass"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

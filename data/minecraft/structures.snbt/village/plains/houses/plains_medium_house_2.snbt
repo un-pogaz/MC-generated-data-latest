@@ -1328,7 +1328,7 @@
     },
     {
       pos: [0, 2, 5],
-      state: 12
+      state: 21
     },
     {
       pos: [2, 2, 5],
@@ -1472,11 +1472,11 @@
     },
     {
       pos: [6, 2, 6],
-      state: 12
+      state: 24
     },
     {
       pos: [0, 3, 6],
-      state: 24
+      state: 25
     },
     {
       pos: [2, 3, 6],
@@ -1492,7 +1492,7 @@
     },
     {
       pos: [6, 3, 6],
-      state: 24
+      state: 25
     },
     {
       pos: [0, 5, 6],
@@ -1552,7 +1552,7 @@
     },
     {
       pos: [0, 2, 7],
-      state: 12
+      state: 21
     },
     {
       pos: [2, 2, 7],
@@ -2404,11 +2404,17 @@
     },
     {
       Properties: {
+        facing: "east"
+      },
+      Name: "minecraft:wall_torch"
+    },
+    {
+      Properties: {
         waterlogged: "false",
         type: "top"
       },
       Name: "minecraft:oak_slab"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1945
 }

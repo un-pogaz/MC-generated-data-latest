@@ -81,7 +81,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -110,8 +110,28 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/savanna/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 3],
+      state: 4
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/savanna/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [2, 0, 5],
+      state: 4
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -121,7 +141,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -158,7 +178,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/savanna/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -176,6 +196,10 @@
     {
       pos: [5, 0, 0],
       state: 9
+    },
+    {
+      pos: [0, 3, 0],
+      state: 10
     },
     {
       pos: [2, 0, 1],
@@ -218,8 +242,12 @@
       state: 9
     },
     {
-      pos: [1, 0, 3],
-      state: 9
+      pos: [3, 2, 2],
+      state: 11
+    },
+    {
+      pos: [5, 2, 2],
+      state: 11
     },
     {
       pos: [2, 0, 3],
@@ -243,7 +271,7 @@
     },
     {
       pos: [4, 1, 3],
-      state: 10
+      state: 12
     },
     {
       pos: [0, 0, 4],
@@ -283,31 +311,31 @@
     },
     {
       pos: [3, 2, 4],
-      state: 11
+      state: 13
     },
     {
       pos: [5, 2, 4],
-      state: 11
+      state: 13
     },
     {
       pos: [3, 3, 4],
-      state: 11
+      state: 13
     },
     {
       pos: [5, 3, 4],
-      state: 11
+      state: 13
     },
     {
       pos: [3, 4, 4],
-      state: 12
+      state: 14
     },
     {
       pos: [4, 4, 4],
-      state: 12
+      state: 14
     },
     {
       pos: [5, 4, 4],
-      state: 12
+      state: 14
     },
     {
       pos: [0, 0, 5],
@@ -315,10 +343,6 @@
     },
     {
       pos: [1, 0, 5],
-      state: 9
-    },
-    {
-      pos: [2, 0, 5],
       state: 9
     },
     {
@@ -347,15 +371,15 @@
     },
     {
       pos: [3, 4, 5],
-      state: 12
+      state: 14
     },
     {
       pos: [5, 4, 5],
-      state: 12
+      state: 14
     },
     {
       pos: [4, 5, 5],
-      state: 13
+      state: 11
     },
     {
       pos: [0, 0, 6],
@@ -395,31 +419,31 @@
     },
     {
       pos: [3, 2, 6],
-      state: 11
+      state: 13
     },
     {
       pos: [5, 2, 6],
-      state: 11
+      state: 13
     },
     {
       pos: [3, 3, 6],
-      state: 11
+      state: 13
     },
     {
       pos: [5, 3, 6],
-      state: 11
+      state: 13
     },
     {
       pos: [3, 4, 6],
-      state: 12
+      state: 14
     },
     {
       pos: [4, 4, 6],
-      state: 12
+      state: 14
     },
     {
       pos: [5, 4, 6],
-      state: 12
+      state: 14
     },
     {
       pos: [2, 0, 7],
@@ -443,11 +467,11 @@
     },
     {
       pos: [1, 1, 7],
-      state: 14
+      state: 10
     },
     {
       pos: [4, 1, 7],
-      state: 10
+      state: 12
     },
     {
       pos: [2, 0, 8],
@@ -468,6 +492,14 @@
     {
       pos: [6, 0, 8],
       state: 9
+    },
+    {
+      pos: [3, 2, 8],
+      state: 11
+    },
+    {
+      pos: [5, 2, 8],
+      state: 11
     },
     {
       pos: [2, 0, 9],
@@ -563,6 +595,12 @@
       Name: "minecraft:grass_path"
     },
     {
+      Name: "minecraft:air"
+    },
+    {
+      Name: "minecraft:torch"
+    },
+    {
       Properties: {
         level: "0"
       },
@@ -584,13 +622,7 @@
         type: "bottom"
       },
       Name: "minecraft:acacia_slab"
-    },
-    {
-      Name: "minecraft:torch"
-    },
-    {
-      Name: "minecraft:air"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

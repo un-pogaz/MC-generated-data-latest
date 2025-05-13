@@ -277,12 +277,22 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
       pos: [5, 1, 0],
       state: 1
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/plains/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 1],
+      state: 2
     },
     {
       nbt: {
@@ -307,7 +317,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -327,7 +337,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -363,8 +373,18 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/plains/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 8],
+      state: 2
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -377,10 +397,6 @@
     },
     {
       pos: [5, 0, 0],
-      state: 8
-    },
-    {
-      pos: [1, 0, 1],
       state: 8
     },
     {
@@ -632,10 +648,6 @@
       state: 8
     },
     {
-      pos: [1, 0, 8],
-      state: 8
-    },
-    {
       pos: [2, 0, 8],
       state: 8
     },
@@ -742,5 +754,5 @@
       Name: "minecraft:water"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }

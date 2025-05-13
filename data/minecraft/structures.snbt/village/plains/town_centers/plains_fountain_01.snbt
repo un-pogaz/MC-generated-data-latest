@@ -1,5 +1,5 @@
 {
-  size: [9, 6, 9],
+  size: [9, 4, 9],
   entities: [],
   blocks: [
     {
@@ -161,12 +161,22 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
       pos: [4, 1, 0],
       state: 1
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/plains/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [2, 0, 1],
+      state: 2
     },
     {
       nbt: {
@@ -180,6 +190,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/plains/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [7, 0, 2],
+      state: 2
+    },
+    {
+      nbt: {
         id: "minecraft:bell"
       },
       pos: [4, 2, 2],
@@ -188,7 +208,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -198,7 +218,7 @@
     {
       nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -227,8 +247,18 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/plains/villagers",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [7, 0, 7],
+      state: 2
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/plains/streets",
-        final_state: "minecraft:air",
+        final_state: "minecraft:structure_void",
         id: "minecraft:jigsaw",
         attachement_type: "minecraft:street"
       },
@@ -280,10 +310,6 @@
       state: 8
     },
     {
-      pos: [2, 0, 1],
-      state: 8
-    },
-    {
       pos: [3, 0, 1],
       state: 8
     },
@@ -309,10 +335,6 @@
     },
     {
       pos: [0, 0, 2],
-      state: 8
-    },
-    {
-      pos: [7, 0, 2],
       state: 8
     },
     {
@@ -540,10 +562,6 @@
       state: 8
     },
     {
-      pos: [7, 0, 7],
-      state: 8
-    },
-    {
       pos: [8, 0, 7],
       state: 8
     },
@@ -653,5 +671,5 @@
       Name: "minecraft:water"
     }
   ],
-  DataVersion: 1931
+  DataVersion: 1945
 }
