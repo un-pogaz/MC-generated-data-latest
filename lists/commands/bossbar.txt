@@ -1,4 +1,4 @@
-bossbar create <id minecraft:resource_location> <name minecraft:component>
+bossbar add <id minecraft:resource_location> <name minecraft:component>
 bossbar get <id minecraft:resource_location> max
 bossbar get <id minecraft:resource_location> players
 bossbar get <id minecraft:resource_location> value
