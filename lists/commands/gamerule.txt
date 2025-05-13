@@ -1,0 +1,46 @@
+gamerule announceAdvancements
+gamerule announceAdvancements <value brigadier:bool>
+gamerule commandBlockOutput
+gamerule commandBlockOutput <value brigadier:bool>
+gamerule disableElytraMovementCheck
+gamerule disableElytraMovementCheck <value brigadier:bool>
+gamerule doDaylightCycle
+gamerule doDaylightCycle <value brigadier:bool>
+gamerule doEntityDrops
+gamerule doEntityDrops <value brigadier:bool>
+gamerule doFireTick
+gamerule doFireTick <value brigadier:bool>
+gamerule doLimitedCrafting
+gamerule doLimitedCrafting <value brigadier:bool>
+gamerule doMobLoot
+gamerule doMobLoot <value brigadier:bool>
+gamerule doMobSpawning
+gamerule doMobSpawning <value brigadier:bool>
+gamerule doTileDrops
+gamerule doTileDrops <value brigadier:bool>
+gamerule doWeatherCycle
+gamerule doWeatherCycle <value brigadier:bool>
+gamerule keepInventory
+gamerule keepInventory <value brigadier:bool>
+gamerule logAdminCommands
+gamerule logAdminCommands <value brigadier:bool>
+gamerule maxCommandChainLength
+gamerule maxCommandChainLength <value brigadier:integer>
+gamerule maxEntityCramming
+gamerule maxEntityCramming <value brigadier:integer>
+gamerule mobGriefing
+gamerule mobGriefing <value brigadier:bool>
+gamerule naturalRegeneration
+gamerule naturalRegeneration <value brigadier:bool>
+gamerule randomTickSpeed
+gamerule randomTickSpeed <value brigadier:integer>
+gamerule reducedDebugInfo
+gamerule reducedDebugInfo <value brigadier:bool>
+gamerule sendCommandFeedback
+gamerule sendCommandFeedback <value brigadier:bool>
+gamerule showDeathMessages
+gamerule showDeathMessages <value brigadier:bool>
+gamerule spawnRadius
+gamerule spawnRadius <value brigadier:integer>
+gamerule spectatorsGenerateChunks
+gamerule spectatorsGenerateChunks <value brigadier:bool>

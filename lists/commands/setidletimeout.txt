@@ -1,0 +1,1 @@
+setidletimeout <minutes brigadier:integer[min="0"]>

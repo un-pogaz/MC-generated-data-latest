@@ -1,0 +1,24 @@
+{
+  "properties": {
+    "east": [
+      "true",
+      "false"
+    ],
+    "north": [
+      "true",
+      "false"
+    ],
+    "south": [
+      "true",
+      "false"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ],
+    "west": [
+      "true",
+      "false"
+    ]
+  }
+}

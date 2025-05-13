@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "eye": [
+      "true",
+      "false"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ]
+  }
+}

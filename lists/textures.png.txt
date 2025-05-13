@@ -839,7 +839,10 @@ minecraft:environment/moon_phases
 minecraft:environment/rain
 minecraft:environment/snow
 minecraft:environment/sun
+minecraft:font/accented
+minecraft:font/ascii
 minecraft:font/ascii_sga
+minecraft:font/nonlatin_european
 minecraft:font/unicode_page_00
 minecraft:font/unicode_page_01
 minecraft:font/unicode_page_02

@@ -1,0 +1,2 @@
+publish
+publish <port brigadier:integer[min="0", max="65535"]>

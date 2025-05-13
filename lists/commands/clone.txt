@@ -1,0 +1,13 @@
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos>
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate>
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate> force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate> move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate> normal
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> masked
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> masked force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> masked move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> masked normal
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace normal

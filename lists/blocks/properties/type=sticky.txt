@@ -1,0 +1,2 @@
+minecraft:moving_piston
+minecraft:piston_head

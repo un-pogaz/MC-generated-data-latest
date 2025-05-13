@@ -1,0 +1,2 @@
+enchant <targets minecraft:entity[amount="multiple", type="entities"]> <enchantment minecraft:item_enchantment>
+enchant <targets minecraft:entity[amount="multiple", type="entities"]> <enchantment minecraft:item_enchantment> <level brigadier:integer[min="0"]>

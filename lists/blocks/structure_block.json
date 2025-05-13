@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "mode": [
+      "save",
+      "load",
+      "corner",
+      "data"
+    ]
+  }
+}
