@@ -496,7 +496,7 @@ minecraft:block/magenta_stained_glass_pane_side_alt
 minecraft:block/magenta_terracotta
 minecraft:block/magenta_wool
 minecraft:block/magma_block
-minecraft:block/melon_block
+minecraft:block/melon
 minecraft:block/melon_stem_stage0
 minecraft:block/melon_stem_stage1
 minecraft:block/melon_stem_stage2
@@ -1348,6 +1348,7 @@ minecraft:item/ghast_tear
 minecraft:item/glass
 minecraft:item/glass_bottle
 minecraft:item/glass_pane
+minecraft:item/glistering_melon_slice
 minecraft:item/glowstone
 minecraft:item/glowstone_dust
 minecraft:item/gold_block
@@ -1523,8 +1524,8 @@ minecraft:item/magma_cream
 minecraft:item/magma_cube_spawn_egg
 minecraft:item/map
 minecraft:item/melon
-minecraft:item/melon_block
 minecraft:item/melon_seeds
+minecraft:item/melon_slice
 minecraft:item/milk_bucket
 minecraft:item/minecart
 minecraft:item/mob_spawner
@@ -1733,7 +1734,6 @@ minecraft:item/snow
 minecraft:item/snow_block
 minecraft:item/snowball
 minecraft:item/soul_sand
-minecraft:item/speckled_melon
 minecraft:item/spectral_arrow
 minecraft:item/spider_eye
 minecraft:item/spider_spawn_egg
