@@ -848,6 +848,7 @@ minecraft:entity/shield/diagonal_right
 minecraft:entity/shield/diagonal_up_left
 minecraft:entity/shield/diagonal_up_right
 minecraft:entity/shield/flower
+minecraft:entity/shield/globe
 minecraft:entity/shield/gradient
 minecraft:entity/shield/gradient_up
 minecraft:entity/shield/half_horizontal
@@ -1252,7 +1253,7 @@ minecraft:gui/container/shulker_box
 minecraft:gui/container/smoker
 minecraft:gui/container/stats_icons
 minecraft:gui/container/stonecutter
-minecraft:gui/container/villager
+minecraft:gui/container/villager2
 minecraft:gui/demo_background
 minecraft:gui/icons
 minecraft:gui/options_background
