@@ -4,5 +4,5 @@
     "mob/turtle/death2",
     "mob/turtle/death3"
   ],
-  "subtitles": "subtitles.turtle.death"
+  "subtitle": "subtitles.entity.turtle.death"
 }

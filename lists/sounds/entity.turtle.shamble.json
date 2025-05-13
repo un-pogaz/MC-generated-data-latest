@@ -6,5 +6,5 @@
     "mob/turtle/walk4",
     "mob/turtle/walk5"
   ],
-  "subtitles": "subtitles.turtle.shamble"
+  "subtitle": "subtitles.entity.turtle.shamble"
 }

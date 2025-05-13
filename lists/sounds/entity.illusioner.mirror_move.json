@@ -3,5 +3,5 @@
     "mob/illusion_illager/mirror_move1",
     "mob/illusion_illager/mirror_move2"
   ],
-  "subtitles": "subtitles.entity.illusioner.mirror_move"
+  "subtitle": "subtitles.entity.illusioner.mirror_move"
 }

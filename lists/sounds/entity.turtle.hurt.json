@@ -6,5 +6,5 @@
     "mob/turtle/hurt4",
     "mob/turtle/hurt5"
   ],
-  "subtitles": "subtitles.turtle.hurt"
+  "subtitle": "subtitles.entity.turtle.hurt"
 }

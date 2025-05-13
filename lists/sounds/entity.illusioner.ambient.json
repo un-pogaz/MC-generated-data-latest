@@ -5,5 +5,5 @@
     "mob/illusion_illager/idle3",
     "mob/illusion_illager/idle4"
   ],
-  "subtitles": "subtitles.entity.illusioner.ambient"
+  "subtitle": "subtitles.entity.illusioner.ambient"
 }
