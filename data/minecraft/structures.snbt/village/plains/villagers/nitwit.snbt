@@ -1,5 +1,5 @@
 {
-  size: [1, 2, 1],
+  size: [1, 3, 1],
   entities: [
     {
       nbt: {
@@ -27,6 +27,15 @@
           },
           {
             Base: 16.0d,
+            Modifiers: [
+              {
+                UUIDMost: 4630429775339866964L,
+                UUIDLeast: -9196332054275879034L,
+                Amount: -0.12084116038811184d,
+                Operation: 1,
+                Name: "Random spawn bonus"
+              }
+            ],
             Name: "generic.followRange"
           },
           {
@@ -34,38 +43,42 @@
             Name: "generic.attackKnockback"
           }
         ],
-        Riches: 0,
         FallFlying: 0b,
         ForcedAge: 0,
+        Gossips: [],
         Invulnerable: 0b,
         AbsorptionAmount: 0.0f,
         PortalCooldown: 0,
         FallDistance: 0.0f,
         DeathTime: 0s,
+        Xp: 0,
         HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
-        PersistenceRequired: 1b,
+        PersistenceRequired: 0b,
         id: "minecraft:villager",
+        food_level: 0b,
         Age: 0,
         Motion: [0.0d, -0.0784000015258789d, 0.0d],
         Leashed: 0b,
         Health: 20.0f,
-        UUIDLeast: -8415792805589359913L,
+        UUIDLeast: -6078344177686060565L,
         LeftHanded: 0b,
         Air: 300s,
         Dimension: 0,
-        Offers: {
-          Recipes: []
-        },
         OnGround: 1b,
-        Rotation: [0.0f, 0.0f],
+        brain: {
+          registered_memories: ["minecraft:job_site", "minecraft:breed_target", "minecraft:nearest_players", "minecraft:nearest_visible_player", "minecraft:wooden_doors", "minecraft:visible_mobs", "minecraft:look_target", "minecraft:walk_target", "minecraft:path", "minecraft:interaction_target", "minecraft:mobs", "minecraft:home"],
+          memories: {},
+          registered_sensors: ["minecraft:nearest_players", "minecraft:entity", "minecraft:wooden_doors"]
+        },
+        Rotation: [48.821632385253906f, 0.0f],
         HandItems: [
           {},
           {}
         ],
         ArmorDropChances: [0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f, 0.08500000089406967f],
-        Profession: 5,
-        UUIDMost: -1891629784183191703L,
-        Pos: [-1736.56d, 6.0d, 486.5d],
+        UUIDMost: 5941111274509715696L,
+        Pos: [-178.2795013809144d, 5.0d, 184.63145528989816d],
+        lastRestock: 0L,
         ArmorItems: [
           {},
           {},
@@ -74,14 +87,16 @@
         ],
         Fire: -1s,
         CanPickUpLoot: 1b,
+        VillagerData: {
+          profession: "minecraft:nitwit",
+          level: 1,
+          type: "minecraft:plains"
+        },
         HurtTime: 0s,
-        CareerLevel: 1,
-        Career: 1,
-        Inventory: [],
-        Willing: 0b
+        Inventory: []
       },
       blockPos: [0, 1, 0],
-      pos: [0.44000000000005457d, 1.0d, 0.5d]
+      pos: [0.7204986190855891d, 1.0d, 0.631455289898156d]
     }
   ],
   blocks: [
@@ -98,6 +113,10 @@
     {
       pos: [0, 1, 0],
       state: 1
+    },
+    {
+      pos: [0, 2, 0],
+      state: 1
     }
   ],
   palette: [
@@ -111,5 +130,5 @@
       Name: "minecraft:air"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1933
 }

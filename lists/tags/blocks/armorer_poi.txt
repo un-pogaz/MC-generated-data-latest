@@ -1,0 +1,1 @@
+minecraft:blast_furnace

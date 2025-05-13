@@ -1624,6 +1624,7 @@ minecraft:item/glass
 minecraft:item/glass_bottle
 minecraft:item/glass_pane
 minecraft:item/glistering_melon_slice
+minecraft:item/globe_banner_pattern
 minecraft:item/glowstone
 minecraft:item/glowstone_dust
 minecraft:item/gold_block
