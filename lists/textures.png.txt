@@ -39,6 +39,7 @@ minecraft:blocks/black_wool
 minecraft:blocks/blue_concrete
 minecraft:blocks/blue_concrete_powder
 minecraft:blocks/blue_coral
+minecraft:blocks/blue_coral_plant
 minecraft:blocks/blue_glazed_terracotta
 minecraft:blocks/blue_orchid
 minecraft:blocks/blue_stained_glass
@@ -322,6 +323,7 @@ minecraft:blocks/peony_top
 minecraft:blocks/pink_concrete
 minecraft:blocks/pink_concrete_powder
 minecraft:blocks/pink_coral
+minecraft:blocks/pink_coral_plant
 minecraft:blocks/pink_glazed_terracotta
 minecraft:blocks/pink_stained_glass
 minecraft:blocks/pink_stained_glass_pane_top
@@ -356,6 +358,7 @@ minecraft:blocks/pumpkin_top
 minecraft:blocks/purple_concrete
 minecraft:blocks/purple_concrete_powder
 minecraft:blocks/purple_coral
+minecraft:blocks/purple_coral_plant
 minecraft:blocks/purple_glazed_terracotta
 minecraft:blocks/purple_stained_glass
 minecraft:blocks/purple_stained_glass_pane_top
@@ -375,6 +378,7 @@ minecraft:blocks/rail_corner
 minecraft:blocks/red_concrete
 minecraft:blocks/red_concrete_powder
 minecraft:blocks/red_coral
+minecraft:blocks/red_coral_plant
 minecraft:blocks/red_glazed_terracotta
 minecraft:blocks/red_mushroom
 minecraft:blocks/red_mushroom_block
@@ -505,6 +509,7 @@ minecraft:blocks/white_wool
 minecraft:blocks/yellow_concrete
 minecraft:blocks/yellow_concrete_powder
 minecraft:blocks/yellow_coral
+minecraft:blocks/yellow_coral_plant
 minecraft:blocks/yellow_glazed_terracotta
 minecraft:blocks/yellow_stained_glass
 minecraft:blocks/yellow_stained_glass_pane_top
@@ -616,6 +621,20 @@ minecraft:entity/explosion
 minecraft:entity/fish/cod_mob
 minecraft:entity/fish/pufferfish
 minecraft:entity/fish/salmon_mob
+minecraft:entity/fish/tropical_a
+minecraft:entity/fish/tropical_a_pattern_1
+minecraft:entity/fish/tropical_a_pattern_2
+minecraft:entity/fish/tropical_a_pattern_3
+minecraft:entity/fish/tropical_a_pattern_4
+minecraft:entity/fish/tropical_a_pattern_5
+minecraft:entity/fish/tropical_a_pattern_6
+minecraft:entity/fish/tropical_b
+minecraft:entity/fish/tropical_b_pattern_1
+minecraft:entity/fish/tropical_b_pattern_2
+minecraft:entity/fish/tropical_b_pattern_3
+minecraft:entity/fish/tropical_b_pattern_4
+minecraft:entity/fish/tropical_b_pattern_5
+minecraft:entity/fish/tropical_b_pattern_6
 minecraft:entity/ghast/ghast
 minecraft:entity/ghast/ghast_shooting
 minecraft:entity/guardian
@@ -676,6 +695,7 @@ minecraft:entity/parrot/parrot_grey
 minecraft:entity/parrot/parrot_red_blue
 minecraft:entity/parrot/parrot_yellow_blue
 minecraft:entity/phantom
+minecraft:entity/phantom_eyes
 minecraft:entity/pig/pig
 minecraft:entity/pig/pig_saddle
 minecraft:entity/projectiles/arrow
@@ -1417,6 +1437,7 @@ minecraft:items/tipped_arrow_base
 minecraft:items/tipped_arrow_head
 minecraft:items/tnt_minecart
 minecraft:items/totem_of_undying
+minecraft:items/trident
 minecraft:items/turtle_helmet
 minecraft:items/water_bucket
 minecraft:items/wheat

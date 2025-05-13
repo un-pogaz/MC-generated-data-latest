@@ -1,4 +1,5 @@
 minecraft:chests/abandoned_mineshaft
+minecraft:chests/buried_treasure
 minecraft:chests/desert_pyramid
 minecraft:chests/end_city_treasure
 minecraft:chests/igloo_chest
@@ -71,6 +72,7 @@ minecraft:entities/snowman
 minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
+minecraft:entities/tropical_fish
 minecraft:entities/turtle
 minecraft:entities/vex
 minecraft:entities/villager

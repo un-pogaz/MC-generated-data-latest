@@ -67,10 +67,24 @@
                 {
                     "type": "item",
                     "name": "minecraft:fishing_rod",
-                    "weight": 10,
+                    "weight": 5,
                     "functions": [
                         {
                             "function": "enchant_randomly"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:map",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "buried_treasure",
+                            "decoration": "red_x",
+                            "zoom": 1,
+                            "skip_existing_chunks": false
                         }
                     ]
                 }
