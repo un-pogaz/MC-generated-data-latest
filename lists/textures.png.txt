@@ -1680,11 +1680,11 @@ minecraft:mob_effect/conduit_power
 minecraft:mob_effect/dolphins_grace
 minecraft:mob_effect/fire_resistance
 minecraft:mob_effect/glowing
-minecraft:mob_effect/harm
 minecraft:mob_effect/haste
-minecraft:mob_effect/heal
 minecraft:mob_effect/health_boost
 minecraft:mob_effect/hunger
+minecraft:mob_effect/instant_damage
+minecraft:mob_effect/instant_health
 minecraft:mob_effect/invisibility
 minecraft:mob_effect/jump_boost
 minecraft:mob_effect/levitation

@@ -1,0 +1,13 @@
+{
+  "id": "19w08b",
+  "type": "snapshot",
+  "time": "2019-02-21T13:38:09+00:00",
+  "releaseTime": "2019-02-21T13:38:09+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/c12ced303962763107f61e6ceb8e875d6af400d3/19w08b.json",
+  "assets": "1.14",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/d6c94fad4f7a03a8e46083c023926515fc0e551e/1.14.json",
+  "client": "https://launcher.mojang.com/v1/objects/cc17b46768c36095f2bf2f621bea12dc307b57d0/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/045006b74b84a8e04e0e6e0c89c8069c9476938f/server.jar",
+  "server_mappings": null
+}
