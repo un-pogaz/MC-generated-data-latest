@@ -43,7 +43,7 @@
         FallDistance: 0.0f,
         DeathTime: 0s,
         HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
-        PersistenceRequired: 0b,
+        PersistenceRequired: 1b,
         id: "minecraft:villager",
         Age: 0,
         Motion: [0.0d, -0.0784000015258789d, 0.0d],

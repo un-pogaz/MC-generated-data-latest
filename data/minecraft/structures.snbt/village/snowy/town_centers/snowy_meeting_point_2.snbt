@@ -173,6 +173,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/iron_golem",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [2, 0, 7],
+      state: 4
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/snowy/streets",
         final_state: "minecraft:air",
         id: "minecraft:jigsaw",
@@ -222,6 +232,10 @@
       state: 10
     },
     {
+      pos: [3, 3, 1],
+      state: 11
+    },
+    {
       pos: [1, 0, 2],
       state: 10
     },
@@ -247,15 +261,15 @@
     },
     {
       pos: [4, 1, 2],
-      state: 11
-    },
-    {
-      pos: [5, 1, 2],
       state: 12
     },
     {
-      pos: [6, 1, 2],
+      pos: [5, 1, 2],
       state: 13
+    },
+    {
+      pos: [6, 1, 2],
+      state: 14
     },
     {
       pos: [0, 0, 3],
@@ -287,19 +301,19 @@
     },
     {
       pos: [3, 1, 3],
-      state: 11
+      state: 12
     },
     {
       pos: [4, 1, 3],
-      state: 14
-    },
-    {
-      pos: [6, 1, 3],
       state: 15
     },
     {
-      pos: [7, 1, 3],
+      pos: [6, 1, 3],
       state: 16
+    },
+    {
+      pos: [7, 1, 3],
+      state: 17
     },
     {
       pos: [0, 0, 4],
@@ -335,15 +349,15 @@
     },
     {
       pos: [3, 1, 4],
-      state: 17
-    },
-    {
-      pos: [7, 1, 4],
       state: 18
     },
     {
-      pos: [5, 4, 4],
+      pos: [7, 1, 4],
       state: 19
+    },
+    {
+      pos: [5, 4, 4],
+      state: 20
     },
     {
       pos: [0, 0, 5],
@@ -375,19 +389,19 @@
     },
     {
       pos: [3, 1, 5],
-      state: 20
-    },
-    {
-      pos: [4, 1, 5],
       state: 21
     },
     {
-      pos: [6, 1, 5],
+      pos: [4, 1, 5],
       state: 22
     },
     {
-      pos: [7, 1, 5],
+      pos: [6, 1, 5],
       state: 23
+    },
+    {
+      pos: [7, 1, 5],
+      state: 24
     },
     {
       pos: [1, 0, 6],
@@ -415,19 +429,15 @@
     },
     {
       pos: [4, 1, 6],
-      state: 24
-    },
-    {
-      pos: [5, 1, 6],
       state: 25
     },
     {
-      pos: [6, 1, 6],
-      state: 23
+      pos: [5, 1, 6],
+      state: 26
     },
     {
-      pos: [2, 0, 7],
-      state: 10
+      pos: [6, 1, 6],
+      state: 24
     },
     {
       pos: [3, 0, 7],
@@ -521,6 +531,9 @@
     },
     {
       Name: "minecraft:grass_path"
+    },
+    {
+      Name: "minecraft:air"
     },
     {
       Properties: {
@@ -652,5 +665,5 @@
       Name: "minecraft:spruce_stairs"
     }
   ],
-  DataVersion: 1930
+  DataVersion: 1931
 }

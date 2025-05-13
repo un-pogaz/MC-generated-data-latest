@@ -336,6 +336,16 @@
     },
     {
       nbt: {
+        target_pool: "minecraft:village/common/iron_golem",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 6],
+      state: 2
+    },
+    {
+      nbt: {
         target_pool: "minecraft:village/common/cats",
         final_state: "minecraft:cobblestone",
         id: "minecraft:jigsaw",
@@ -466,6 +476,14 @@
       state: 9
     },
     {
+      pos: [3, 6, 3],
+      state: 10
+    },
+    {
+      pos: [6, 6, 3],
+      state: 10
+    },
+    {
       pos: [0, 0, 4],
       state: 8
     },
@@ -479,11 +497,11 @@
     },
     {
       pos: [4, 0, 4],
-      state: 10
+      state: 11
     },
     {
       pos: [5, 0, 4],
-      state: 10
+      state: 11
     },
     {
       pos: [7, 0, 4],
@@ -499,11 +517,11 @@
     },
     {
       pos: [4, 1, 4],
-      state: 10
+      state: 11
     },
     {
       pos: [5, 1, 4],
-      state: 10
+      state: 11
     },
     {
       pos: [0, 0, 5],
@@ -519,11 +537,11 @@
     },
     {
       pos: [4, 0, 5],
-      state: 10
+      state: 11
     },
     {
       pos: [5, 0, 5],
-      state: 10
+      state: 11
     },
     {
       pos: [7, 0, 5],
@@ -539,15 +557,11 @@
     },
     {
       pos: [4, 1, 5],
-      state: 10
+      state: 11
     },
     {
       pos: [5, 1, 5],
-      state: 10
-    },
-    {
-      pos: [1, 0, 6],
-      state: 8
+      state: 11
     },
     {
       pos: [2, 0, 6],
@@ -576,6 +590,14 @@
     {
       pos: [6, 4, 6],
       state: 9
+    },
+    {
+      pos: [3, 6, 6],
+      state: 10
+    },
+    {
+      pos: [6, 6, 6],
+      state: 10
     },
     {
       pos: [1, 0, 7],
@@ -711,11 +733,14 @@
       Name: "minecraft:oak_fence"
     },
     {
+      Name: "minecraft:torch"
+    },
+    {
       Properties: {
         level: "0"
       },
       Name: "minecraft:water"
     }
   ],
-  DataVersion: 1930
+  DataVersion: 1931
 }

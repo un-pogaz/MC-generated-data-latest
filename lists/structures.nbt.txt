@@ -134,6 +134,7 @@ minecraft:village/common/animals/horses_5
 minecraft:village/common/animals/pigs_1
 minecraft:village/common/animals/sheep_1
 minecraft:village/common/animals/sheep_2
+minecraft:village/common/iron_golem
 minecraft:village/common/well_bottom
 minecraft:village/decays/grass_11x13
 minecraft:village/decays/grass_16x16

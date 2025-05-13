@@ -7,6 +7,10 @@
       state: 0
     },
     {
+      pos: [2, 0, 0],
+      state: 1
+    },
+    {
       pos: [6, 0, 0],
       state: 0
     },
@@ -36,7 +40,7 @@
     },
     {
       pos: [9, 0, 1],
-      state: 1
+      state: 2
     },
     {
       pos: [11, 0, 1],
@@ -48,23 +52,23 @@
     },
     {
       pos: [3, 0, 2],
-      state: 2
+      state: 1
     },
     {
       pos: [4, 0, 2],
-      state: 2
+      state: 1
     },
     {
       pos: [5, 0, 2],
-      state: 2
+      state: 1
     },
     {
       pos: [6, 0, 2],
-      state: 2
+      state: 1
     },
     {
       pos: [10, 0, 2],
-      state: 1
+      state: 2
     },
     {
       pos: [11, 0, 2],
@@ -92,19 +96,19 @@
     },
     {
       pos: [3, 0, 3],
-      state: 2
+      state: 1
     },
     {
       pos: [4, 0, 3],
-      state: 2
+      state: 1
     },
     {
       pos: [5, 0, 3],
-      state: 2
+      state: 1
     },
     {
       pos: [6, 0, 3],
-      state: 2
+      state: 1
     },
     {
       pos: [11, 0, 3],
@@ -148,19 +152,19 @@
     },
     {
       pos: [3, 0, 4],
-      state: 2
+      state: 1
     },
     {
       pos: [4, 0, 4],
-      state: 2
+      state: 1
     },
     {
       pos: [5, 0, 4],
-      state: 2
+      state: 1
     },
     {
       pos: [6, 0, 4],
-      state: 2
+      state: 1
     },
     {
       pos: [3, 1, 4],
@@ -207,24 +211,32 @@
       state: 5
     },
     {
+      pos: [0, 0, 5],
+      state: 1
+    },
+    {
       pos: [3, 0, 5],
-      state: 2
+      state: 1
     },
     {
       pos: [4, 0, 5],
-      state: 2
+      state: 1
     },
     {
       pos: [5, 0, 5],
-      state: 2
+      state: 1
     },
     {
       pos: [6, 0, 5],
-      state: 2
+      state: 1
     },
     {
       pos: [9, 0, 5],
-      state: 2
+      state: 1
+    },
+    {
+      pos: [11, 0, 5],
+      state: 1
     },
     {
       pos: [3, 1, 5],
@@ -260,15 +272,19 @@
     },
     {
       pos: [4, 0, 7],
-      state: 1
+      state: 2
     },
     {
       pos: [6, 0, 7],
+      state: 2
+    },
+    {
+      pos: [8, 0, 7],
       state: 1
     },
     {
       pos: [10, 0, 7],
-      state: 1
+      state: 2
     },
     {
       pos: [11, 0, 7],
@@ -312,6 +328,16 @@
         attachement_type: "minecraft:bottom"
       },
       pos: [10, 0, 1],
+      state: 7
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:village/common/iron_golem",
+        final_state: "minecraft:grass_path",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 0, 2],
       state: 7
     },
     {
@@ -373,10 +399,6 @@
     },
     {
       pos: [1, 0, 0],
-      state: 13
-    },
-    {
-      pos: [2, 0, 0],
       state: 13
     },
     {
@@ -1082,10 +1104,6 @@
     {
       pos: [11, 7, 1],
       state: 15
-    },
-    {
-      pos: [1, 0, 2],
-      state: 13
     },
     {
       pos: [2, 0, 2],
@@ -2072,10 +2090,6 @@
       state: 15
     },
     {
-      pos: [0, 0, 5],
-      state: 13
-    },
-    {
       pos: [1, 0, 5],
       state: 13
     },
@@ -2093,10 +2107,6 @@
     },
     {
       pos: [10, 0, 5],
-      state: 13
-    },
-    {
-      pos: [11, 0, 5],
       state: 13
     },
     {
@@ -2792,10 +2802,6 @@
       state: 13
     },
     {
-      pos: [8, 0, 7],
-      state: 13
-    },
-    {
       pos: [9, 0, 7],
       state: 13
     },
@@ -3140,13 +3146,13 @@
       Name: "minecraft:grass_block"
     },
     {
+      Name: "minecraft:dirt"
+    },
+    {
       Properties: {
         snowy: "false"
       },
       Name: "minecraft:grass_block"
-    },
-    {
-      Name: "minecraft:dirt"
     },
     {
       Properties: {
@@ -3195,7 +3201,7 @@
     },
     {
       Properties: {
-        face: "floor",
+        attachment: "floor",
         facing: "north"
       },
       Name: "minecraft:bell"
@@ -3219,5 +3225,5 @@
       Name: "minecraft:air"
     }
   ],
-  DataVersion: 1916
+  DataVersion: 1931
 }

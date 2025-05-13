@@ -54,7 +54,7 @@
         InLove: 0,
         DeathTime: 0s,
         HandDropChances: [0.08500000089406967f, 0.08500000089406967f],
-        PersistenceRequired: 0b,
+        PersistenceRequired: 1b,
         id: "minecraft:cat",
         Age: 0,
         CollarColor: 14b,
