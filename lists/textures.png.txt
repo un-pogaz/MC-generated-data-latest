@@ -1374,6 +1374,7 @@ minecraft:items/rotten_flesh
 minecraft:items/ruby
 minecraft:items/saddle
 minecraft:items/salmon
+minecraft:items/scute
 minecraft:items/shears
 minecraft:items/shulker_shell
 minecraft:items/sign
@@ -1402,7 +1403,6 @@ minecraft:items/tipped_arrow_head
 minecraft:items/tnt_minecart
 minecraft:items/totem_of_undying
 minecraft:items/turtle_helmet
-minecraft:items/turtle_shell_piece
 minecraft:items/water_bucket
 minecraft:items/wheat
 minecraft:items/wheat_seeds
