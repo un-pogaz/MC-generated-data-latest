@@ -12,6 +12,7 @@ minecraft:entity
 minecraft:entity_anchor
 minecraft:function
 minecraft:game_profile
+minecraft:item_enchantment
 minecraft:item_predicate
 minecraft:item_slot
 minecraft:item_stack

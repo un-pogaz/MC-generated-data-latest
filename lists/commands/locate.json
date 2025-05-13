@@ -1,11 +1,23 @@
 {
   "type": "literal",
   "children": {
+    "Desert_Pyramid": {
+      "type": "literal",
+      "executable": true
+    },
     "EndCity": {
       "type": "literal",
       "executable": true
     },
     "Fortress": {
+      "type": "literal",
+      "executable": true
+    },
+    "Igloo": {
+      "type": "literal",
+      "executable": true
+    },
+    "Jungle_Pyramid": {
       "type": "literal",
       "executable": true
     },
@@ -25,7 +37,7 @@
       "type": "literal",
       "executable": true
     },
-    "Temple": {
+    "Swamp_Hut": {
       "type": "literal",
       "executable": true
     },
