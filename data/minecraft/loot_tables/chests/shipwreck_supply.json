@@ -98,24 +98,10 @@
                   }
                 },
                 {
-                  "type": "minecraft:jump_boost",
-                  "duration": {
-                    "min": 7.0,
-                    "max": 10.0
-                  }
-                },
-                {
                   "type": "minecraft:poison",
                   "duration": {
                     "min": 10.0,
                     "max": 20.0
-                  }
-                },
-                {
-                  "type": "minecraft:speed",
-                  "duration": {
-                    "min": 7.0,
-                    "max": 10.0
                   }
                 },
                 {
@@ -126,7 +112,21 @@
                   }
                 },
                 {
+                  "type": "minecraft:jump_boost",
+                  "duration": {
+                    "min": 7.0,
+                    "max": 10.0
+                  }
+                },
+                {
                   "type": "minecraft:saturation",
+                  "duration": {
+                    "min": 7.0,
+                    "max": 10.0
+                  }
+                },
+                {
+                  "type": "minecraft:speed",
                   "duration": {
                     "min": 7.0,
                     "max": 10.0

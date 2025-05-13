@@ -92,9 +92,8 @@ minecraft:block/cake_inner
 minecraft:block/cake_side
 minecraft:block/cake_top
 minecraft:block/campfire_fire  [mcmeta]
-minecraft:block/campfire_side
-minecraft:block/campfire_top
-minecraft:block/campfire_top_on  [mcmeta]
+minecraft:block/campfire_log
+minecraft:block/campfire_log_lit  [mcmeta]
 minecraft:block/carrots_stage0
 minecraft:block/carrots_stage1
 minecraft:block/carrots_stage2
@@ -136,6 +135,11 @@ minecraft:block/command_block_front  [mcmeta]
 minecraft:block/command_block_side  [mcmeta]
 minecraft:block/comparator
 minecraft:block/comparator_on
+minecraft:block/composter_bottom
+minecraft:block/composter_compost
+minecraft:block/composter_ready
+minecraft:block/composter_side
+minecraft:block/composter_top
 minecraft:block/conduit
 minecraft:block/cornflower
 minecraft:block/cracked_stone_bricks
@@ -1303,6 +1307,7 @@ minecraft:item/broken_elytra
 minecraft:item/brown_dye
 minecraft:item/bucket
 minecraft:item/cake
+minecraft:item/campfire
 minecraft:item/carrot
 minecraft:item/carrot_on_a_stick
 minecraft:item/cauldron

@@ -32,6 +32,7 @@ minecraft:brown_glazed_terracotta
 minecraft:brown_shulker_box
 minecraft:brown_wall_banner
 minecraft:bubble_coral_wall_fan
+minecraft:campfire
 minecraft:carved_pumpkin
 minecraft:chain_command_block
 minecraft:chest

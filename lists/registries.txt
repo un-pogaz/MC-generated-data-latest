@@ -18,6 +18,8 @@ minecraft:mob_effect
 minecraft:motive
 minecraft:particle_type
 minecraft:potion
+minecraft:recipe_serializer
+minecraft:recipe_type
 minecraft:rule_test
 minecraft:sound_event
 minecraft:stat_type

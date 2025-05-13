@@ -1,2 +1,3 @@
+minecraft:composter
 minecraft:lava
 minecraft:water
