@@ -5,6 +5,10 @@
       "east",
       "south",
       "west"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
     ]
   }
 }
