@@ -144,7 +144,7 @@
                 }
               }
             },
-            "friendlyfire": {
+            "friendlyFire": {
               "type": "literal",
               "children": {
                 "allowed": {
