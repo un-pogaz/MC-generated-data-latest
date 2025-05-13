@@ -465,7 +465,6 @@ minecraft:block/green_stained_glass_pane_side_alt
 minecraft:block/green_terracotta
 minecraft:block/green_wool
 minecraft:block/grindstone
-minecraft:block/grindstone_inventory
 minecraft:block/hay_block
 minecraft:block/heavy_weighted_pressure_plate
 minecraft:block/heavy_weighted_pressure_plate_down
@@ -700,6 +699,7 @@ minecraft:block/orange_tulip
 minecraft:block/orange_wool
 minecraft:block/orientable
 minecraft:block/orientable_vertical
+minecraft:block/orientable_with_bottom
 minecraft:block/outer_stairs
 minecraft:block/oxeye_daisy
 minecraft:block/packed_ice
@@ -926,6 +926,8 @@ minecraft:block/sandstone_stairs_outer
 minecraft:block/sandstone_wall_inventory
 minecraft:block/sandstone_wall_post
 minecraft:block/sandstone_wall_side
+minecraft:block/scaffolding_stable
+minecraft:block/scaffolding_unstable
 minecraft:block/sea_lantern
 minecraft:block/sea_pickle
 minecraft:block/seagrass
@@ -1989,6 +1991,7 @@ minecraft:item/sandstone
 minecraft:item/sandstone_slab
 minecraft:item/sandstone_stairs
 minecraft:item/sandstone_wall
+minecraft:item/scaffolding
 minecraft:item/scute
 minecraft:item/sea_lantern
 minecraft:item/sea_pickle

@@ -303,14 +303,10 @@ minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
 minecraft:block/lava_flow  [mcmeta]
 minecraft:block/lava_still  [mcmeta]
-minecraft:block/lectern
-minecraft:block/lectern_base_sides
-minecraft:block/lectern_base_top
-minecraft:block/lectern_bottom
+minecraft:block/lectern_base
 minecraft:block/lectern_front
 minecraft:block/lectern_sides
 minecraft:block/lectern_top
-minecraft:block/lectern_top_sides
 minecraft:block/lever
 minecraft:block/light_blue_concrete
 minecraft:block/light_blue_concrete_powder
@@ -485,6 +481,9 @@ minecraft:block/sand
 minecraft:block/sandstone
 minecraft:block/sandstone_bottom
 minecraft:block/sandstone_top
+minecraft:block/scaffolding_bottom
+minecraft:block/scaffolding_side
+minecraft:block/scaffolding_top
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]

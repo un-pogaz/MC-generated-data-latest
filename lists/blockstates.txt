@@ -551,6 +551,7 @@ minecraft:sandstone
 minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sandstone_wall
+minecraft:scaffolding
 minecraft:sea_lantern
 minecraft:sea_pickle
 minecraft:seagrass
