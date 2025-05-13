@@ -1,0 +1,5 @@
+minecraft:mob/panda/step1
+minecraft:mob/panda/step2
+minecraft:mob/panda/step3
+minecraft:mob/panda/step4
+minecraft:mob/panda/step5

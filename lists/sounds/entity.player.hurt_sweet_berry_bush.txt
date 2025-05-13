@@ -1,0 +1,2 @@
+minecraft:entity/player/hurt/berrybush_hurt1
+minecraft:entity/player/hurt/berrybush_hurt2

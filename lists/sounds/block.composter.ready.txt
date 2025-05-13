@@ -1,0 +1,4 @@
+minecraft:block/composter/ready1
+minecraft:block/composter/ready2
+minecraft:block/composter/ready3
+minecraft:block/composter/ready4

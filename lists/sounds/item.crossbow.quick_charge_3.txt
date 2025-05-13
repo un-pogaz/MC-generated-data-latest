@@ -1,0 +1,8 @@
+minecraft:item/crossbow/quick_charge/quick3_1
+minecraft:item/crossbow/quick_charge/quick3_1
+minecraft:item/crossbow/quick_charge/quick3_2
+minecraft:item/crossbow/quick_charge/quick3_2
+minecraft:item/crossbow/quick_charge/quick3_2
+minecraft:item/crossbow/quick_charge/quick3_3
+minecraft:item/crossbow/quick_charge/quick3_3
+minecraft:item/crossbow/quick_charge/quick3_3

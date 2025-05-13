@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    {
+      "name": "block/lantern/place1",
+      "volume": 1,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/lantern/place2",
+      "volume": 1,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/lantern/place3",
+      "volume": 1,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/lantern/place4",
+      "volume": 1,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/lantern/place5",
+      "volume": 1,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/lantern/place6",
+      "volume": 1,
+      "pitch": 1.1
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

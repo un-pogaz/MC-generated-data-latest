@@ -1,0 +1,6 @@
+minecraft:block/bell/bell_use01
+minecraft:block/bell/bell_use02
+minecraft:block/bell/bell_use01
+minecraft:block/bell/bell_use02
+minecraft:block/bell/bell_use01
+minecraft:block/bell/bell_use02

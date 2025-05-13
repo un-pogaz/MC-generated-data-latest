@@ -1,0 +1,3 @@
+minecraft:mob/panda/sneeze1
+minecraft:mob/panda/sneeze2
+minecraft:mob/panda/sneeze3

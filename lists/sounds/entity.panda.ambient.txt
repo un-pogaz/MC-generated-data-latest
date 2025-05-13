@@ -1,0 +1,9 @@
+minecraft:mob/panda/idle1
+minecraft:mob/panda/idle2
+minecraft:mob/panda/idle3
+minecraft:mob/panda/idle4
+minecraft:mob/panda/nosebreath1
+minecraft:mob/panda/nosebreath2
+minecraft:mob/panda/nosebreath3
+minecraft:mob/panda/pant1
+minecraft:mob/panda/pant2

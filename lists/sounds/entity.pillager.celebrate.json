@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/pillager/celebrate1",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/celebrate2",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/celebrate3",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/celebrate4",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/horn_celebrate",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.pillager.celebrate"
+}

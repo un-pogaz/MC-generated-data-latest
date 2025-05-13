@@ -6,10 +6,7 @@
       "children": {
         "time": {
           "type": "argument",
-          "parser": "brigadier:integer",
-          "properties": {
-            "min": 0
-          },
+          "parser": "minecraft:time",
           "executable": true
         }
       }
@@ -52,10 +49,7 @@
         },
         "time": {
           "type": "argument",
-          "parser": "brigadier:integer",
-          "properties": {
-            "min": 0
-          },
+          "parser": "minecraft:time",
           "executable": true
         }
       }

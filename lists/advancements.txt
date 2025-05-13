@@ -1,6 +1,8 @@
 minecraft:adventure/adventuring_time
+minecraft:adventure/arbalistic
 minecraft:adventure/kill_a_mob
 minecraft:adventure/kill_all_mobs
+minecraft:adventure/ol_betsy
 minecraft:adventure/root
 minecraft:adventure/shoot_arrow
 minecraft:adventure/sleep_in_bed
@@ -9,7 +11,9 @@ minecraft:adventure/summon_iron_golem
 minecraft:adventure/throw_trident
 minecraft:adventure/totem_of_undying
 minecraft:adventure/trade
+minecraft:adventure/two_birds_one_arrow
 minecraft:adventure/very_very_frightening
+minecraft:adventure/whos_the_pillager_now
 minecraft:end/dragon_breath
 minecraft:end/dragon_egg
 minecraft:end/elytra

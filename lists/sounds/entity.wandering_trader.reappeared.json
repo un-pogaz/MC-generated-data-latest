@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    {
+      "name": "mob/wandering_trader/reappeared1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/wandering_trader/reappeared2",
+      "volume": 0.8
+    }
+  ]
+}

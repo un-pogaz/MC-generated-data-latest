@@ -1,0 +1,3 @@
+minecraft:item/book/open_flip1
+minecraft:item/book/open_flip2
+minecraft:item/book/open_flip3

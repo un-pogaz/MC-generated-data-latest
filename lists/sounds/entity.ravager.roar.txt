@@ -1,0 +1,4 @@
+minecraft:mob/ravager/roar1
+minecraft:mob/ravager/roar2
+minecraft:mob/ravager/roar3
+minecraft:mob/ravager/roar4

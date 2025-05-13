@@ -1,0 +1,5 @@
+minecraft:mob/fox/sleep1
+minecraft:mob/fox/sleep2
+minecraft:mob/fox/sleep3
+minecraft:mob/fox/sleep4
+minecraft:mob/fox/sleep5

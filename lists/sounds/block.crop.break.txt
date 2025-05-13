@@ -1,0 +1,6 @@
+minecraft:block/bamboo/sapling_place1
+minecraft:block/bamboo/sapling_place2
+minecraft:block/bamboo/sapling_place3
+minecraft:block/bamboo/sapling_place4
+minecraft:block/bamboo/sapling_place5
+minecraft:block/bamboo/sapling_place6

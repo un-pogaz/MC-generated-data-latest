@@ -1,0 +1,6 @@
+minecraft:block/lantern/break1
+minecraft:block/lantern/break2
+minecraft:block/lantern/break3
+minecraft:block/lantern/break4
+minecraft:block/lantern/break5
+minecraft:block/lantern/break6

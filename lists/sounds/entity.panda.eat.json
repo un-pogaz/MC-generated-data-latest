@@ -1,0 +1,53 @@
+{
+  "sounds": [
+    {
+      "name": "mob/panda/eat1",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat2",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat3",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat4",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat5",
+      "volume": 0.85
+    },
+    {
+      "name": "mob/panda/eat6",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat7",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat8",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat9",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat10",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat11",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/eat12",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.panda.eat"
+}

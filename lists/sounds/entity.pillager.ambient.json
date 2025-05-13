@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/pillager/idle1",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/idle2",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/idle3",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/idle4",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.pillager.ambient"
+}

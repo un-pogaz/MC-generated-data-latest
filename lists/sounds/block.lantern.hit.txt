@@ -1,0 +1,6 @@
+minecraft:block/lantern/place1
+minecraft:block/lantern/place2
+minecraft:block/lantern/place3
+minecraft:block/lantern/place4
+minecraft:block/lantern/place5
+minecraft:block/lantern/place6

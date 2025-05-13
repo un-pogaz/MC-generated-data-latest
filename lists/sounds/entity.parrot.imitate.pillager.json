@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.pillager.ambient",
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.4
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.pillager"
+}

@@ -1,0 +1,4 @@
+minecraft:mob/ravager/hurt1
+minecraft:mob/ravager/hurt2
+minecraft:mob/ravager/hurt3
+minecraft:mob/ravager/hurt4

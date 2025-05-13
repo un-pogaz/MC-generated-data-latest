@@ -1,0 +1,4 @@
+minecraft:block/scaffold/place1
+minecraft:block/scaffold/place2
+minecraft:block/scaffold/place3
+minecraft:block/scaffold/place4

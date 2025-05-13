@@ -1,0 +1,2 @@
+minecraft:mob/ravager/celebrate1
+minecraft:mob/ravager/celebrate2

@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    {
+      "name": "block/composter/empty1",
+      "volume": 1
+    },
+    {
+      "name": "block/composter/empty2",
+      "volume": 1
+    },
+    {
+      "name": "block/composter/empty3",
+      "volume": 1
+    }
+  ]
+}

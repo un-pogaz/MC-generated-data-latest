@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/fox/idle1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/fox/idle2",
+      "volume": 1
+    },
+    {
+      "name": "mob/fox/idle3",
+      "volume": 1
+    },
+    {
+      "name": "mob/fox/idle4",
+      "volume": 1
+    },
+    {
+      "name": "mob/fox/idle5",
+      "volume": 1
+    },
+    {
+      "name": "mob/fox/idle6",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.fox.ambient"
+}

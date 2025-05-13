@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/fox/death1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/fox/death2",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.fox.death"
+}

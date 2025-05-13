@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "note/iron_xylophone",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.block.note_block.note"
+}

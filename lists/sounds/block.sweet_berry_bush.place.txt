@@ -1,0 +1,6 @@
+minecraft:block/sweet_berry_bush/place1
+minecraft:block/sweet_berry_bush/place2
+minecraft:block/sweet_berry_bush/place3
+minecraft:block/sweet_berry_bush/place4
+minecraft:block/sweet_berry_bush/place5
+minecraft:block/sweet_berry_bush/place6

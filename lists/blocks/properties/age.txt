@@ -1,3 +1,4 @@
+minecraft:bamboo
 minecraft:beetroots
 minecraft:cactus
 minecraft:carrots

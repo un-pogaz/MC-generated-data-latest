@@ -1,0 +1,2 @@
+minecraft:ui/loom/take_result1
+minecraft:ui/loom/take_result2

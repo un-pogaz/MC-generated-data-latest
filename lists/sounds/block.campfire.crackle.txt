@@ -1,0 +1,6 @@
+minecraft:block/campfire/crackle1
+minecraft:block/campfire/crackle2
+minecraft:block/campfire/crackle3
+minecraft:block/campfire/crackle4
+minecraft:block/campfire/crackle5
+minecraft:block/campfire/crackle6

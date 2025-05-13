@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/lantern/place1",
+    "block/lantern/place2",
+    "block/lantern/place3",
+    "block/lantern/place4",
+    "block/lantern/place5",
+    "block/lantern/place6"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

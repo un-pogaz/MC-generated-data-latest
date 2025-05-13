@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "item/book/open_flip1",
+      "volume": 2
+    },
+    {
+      "name": "item/book/open_flip2",
+      "volume": 2
+    },
+    {
+      "name": "item/book/open_flip3",
+      "volume": 2
+    }
+  ],
+  "subtitle": "subtitles.item.book.page_turn"
+}

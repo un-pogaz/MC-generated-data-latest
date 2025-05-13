@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/wandering_trader/idle1",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/idle2",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/idle3",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/idle4",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/idle5",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.ambient"
+}

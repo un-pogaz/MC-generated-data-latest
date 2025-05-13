@@ -1,0 +1,30 @@
+{
+  "sounds": [
+    {
+      "name": "item/crossbow/quick_charge/quick1_1",
+      "volume": 0.65,
+      "pitch": 1
+    },
+    {
+      "name": "item/crossbow/quick_charge/quick1_1",
+      "volume": 0.5,
+      "pitch": 0.9
+    },
+    {
+      "name": "item/crossbow/quick_charge/quick1_2",
+      "volume": 0.65,
+      "pitch": 1
+    },
+    {
+      "name": "item/crossbow/quick_charge/quick1_2",
+      "volume": 0.65,
+      "pitch": 0.95
+    },
+    {
+      "name": "item/crossbow/quick_charge/quick1_3",
+      "volume": 0.65,
+      "pitch": 1
+    }
+  ],
+  "subtitle": "subtitles.item.crossbow.charge"
+}

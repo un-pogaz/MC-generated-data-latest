@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "block/grindstone/grindstone1",
+      "volume": 0.5
+    },
+    {
+      "name": "block/grindstone/grindstone2",
+      "volume": 0.5
+    },
+    {
+      "name": "block/grindstone/grindstone3",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.grindstone.use"
+}

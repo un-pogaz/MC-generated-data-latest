@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/cat/stray/idle1",
+      "volume": 0.35
+    },
+    {
+      "name": "mob/cat/stray/idle2",
+      "volume": 0.35
+    },
+    {
+      "name": "mob/cat/stray/idle3",
+      "volume": 0.35
+    },
+    {
+      "name": "mob/cat/stray/idle4",
+      "volume": 0.35
+    }
+  ],
+  "subtitle": "subtitles.entity.cat.ambient"
+}

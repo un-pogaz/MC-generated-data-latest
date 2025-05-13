@@ -9,3 +9,4 @@ minecraft:stick
 minecraft:ink_sac
 minecraft:tripwire_hook
 minecraft:rotten_flesh
+minecraft:bamboo

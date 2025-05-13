@@ -1,0 +1,12 @@
+minecraft:mob/mooshroom/eat1
+minecraft:mob/mooshroom/eat2
+minecraft:mob/mooshroom/eat3
+minecraft:mob/mooshroom/eat4
+minecraft:mob/mooshroom/eat1
+minecraft:mob/mooshroom/eat2
+minecraft:mob/mooshroom/eat3
+minecraft:mob/mooshroom/eat4
+minecraft:mob/mooshroom/eat1
+minecraft:mob/mooshroom/eat2
+minecraft:mob/mooshroom/eat3
+minecraft:mob/mooshroom/eat4

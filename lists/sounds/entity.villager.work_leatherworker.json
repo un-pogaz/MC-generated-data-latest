@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    {
+      "name": "block/cauldron/dye1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/cauldron/dye2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/cauldron/dye3",
+      "volume": 0.9
+    }
+  ]
+}

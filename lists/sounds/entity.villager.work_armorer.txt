@@ -1,0 +1,5 @@
+minecraft:block/blastfurnace/blastfurnace1
+minecraft:block/blastfurnace/blastfurnace2
+minecraft:block/blastfurnace/blastfurnace3
+minecraft:block/blastfurnace/blastfurnace4
+minecraft:block/blastfurnace/blastfurnace5

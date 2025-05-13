@@ -1,0 +1,4 @@
+minecraft:mob/cat/stray/idle1
+minecraft:mob/cat/stray/idle2
+minecraft:mob/cat/stray/idle3
+minecraft:mob/cat/stray/idle4

@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "block/composter/ready1",
+      "volume": 1
+    },
+    {
+      "name": "block/composter/ready2",
+      "volume": 1
+    },
+    {
+      "name": "block/composter/ready3",
+      "volume": 1
+    },
+    {
+      "name": "block/composter/ready4",
+      "volume": 1
+    }
+  ]
+}

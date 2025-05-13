@@ -1,0 +1,3 @@
+minecraft:mob/evocation_illager/celebrate
+minecraft:mob/evocation_illager/idle1
+minecraft:mob/evocation_illager/idle2

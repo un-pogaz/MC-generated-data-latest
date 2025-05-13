@@ -1,0 +1,4 @@
+minecraft:mob/fox/sniff1
+minecraft:mob/fox/sniff2
+minecraft:mob/fox/sniff3
+minecraft:mob/fox/sniff4

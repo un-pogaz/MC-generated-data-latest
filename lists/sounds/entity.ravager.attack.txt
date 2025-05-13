@@ -1,0 +1,3 @@
+minecraft:mob/ravager/bite1
+minecraft:mob/ravager/bite2
+minecraft:mob/ravager/bite3

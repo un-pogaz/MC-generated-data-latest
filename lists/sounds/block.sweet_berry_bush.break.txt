@@ -1,0 +1,4 @@
+minecraft:block/sweet_berry_bush/break1
+minecraft:block/sweet_berry_bush/break2
+minecraft:block/sweet_berry_bush/break3
+minecraft:block/sweet_berry_bush/break4

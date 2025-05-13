@@ -1,0 +1,24 @@
+{
+  "sounds": [
+    {
+      "name": "ui/loom/select_pattern1",
+      "volume": 1
+    },
+    {
+      "name": "ui/loom/select_pattern2",
+      "volume": 1
+    },
+    {
+      "name": "ui/loom/select_pattern3",
+      "volume": 1
+    },
+    {
+      "name": "ui/loom/select_pattern4",
+      "volume": 1
+    },
+    {
+      "name": "ui/loom/select_pattern5",
+      "volume": 1
+    }
+  ]
+}

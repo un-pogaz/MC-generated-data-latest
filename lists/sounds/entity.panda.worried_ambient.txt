@@ -1,0 +1,6 @@
+minecraft:mob/panda/worried/worried2
+minecraft:mob/panda/worried/worried3
+minecraft:mob/panda/worried/worried4
+minecraft:mob/panda/worried/worried5
+minecraft:mob/panda/worried/worried6
+minecraft:mob/panda/pant2

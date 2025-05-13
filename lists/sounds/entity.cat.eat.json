@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    {
+      "name": "mob/cat/eat1",
+      "volume": 1
+    },
+    {
+      "name": "mob/cat/eat2",
+      "volume": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    {
+      "name": "random/drink",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/wandering_trader/drink_potion",
+      "volume": 0.7
+    }
+  ]
+}

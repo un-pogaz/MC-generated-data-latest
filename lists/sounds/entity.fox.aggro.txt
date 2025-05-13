@@ -1,0 +1,7 @@
+minecraft:mob/fox/aggro1
+minecraft:mob/fox/aggro2
+minecraft:mob/fox/aggro3
+minecraft:mob/fox/aggro4
+minecraft:mob/fox/aggro5
+minecraft:mob/fox/aggro6
+minecraft:mob/fox/aggro7

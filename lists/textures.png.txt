@@ -15,6 +15,11 @@ minecraft:block/anvil_top
 minecraft:block/attached_melon_stem
 minecraft:block/attached_pumpkin_stem
 minecraft:block/azure_bluet
+minecraft:block/bamboo_large_leaves
+minecraft:block/bamboo_singleleaf
+minecraft:block/bamboo_small_leaves
+minecraft:block/bamboo_stage0
+minecraft:block/bamboo_stalk
 minecraft:block/beacon
 minecraft:block/bedrock
 minecraft:block/beetroots_stage0
@@ -114,6 +119,7 @@ minecraft:block/command_block_side  [mcmeta]
 minecraft:block/comparator
 minecraft:block/comparator_on
 minecraft:block/conduit
+minecraft:block/cornflower
 minecraft:block/cracked_stone_bricks
 minecraft:block/crafting_table_front
 minecraft:block/crafting_table_side
@@ -297,6 +303,7 @@ minecraft:block/light_gray_terracotta
 minecraft:block/light_gray_wool
 minecraft:block/lilac_bottom
 minecraft:block/lilac_top
+minecraft:block/lily_of_the_valley
 minecraft:block/lily_pad
 minecraft:block/lime_concrete
 minecraft:block/lime_concrete_powder
@@ -306,6 +313,10 @@ minecraft:block/lime_stained_glass
 minecraft:block/lime_stained_glass_pane_top
 minecraft:block/lime_terracotta
 minecraft:block/lime_wool
+minecraft:block/loom_bottom
+minecraft:block/loom_front
+minecraft:block/loom_side
+minecraft:block/loom_top
 minecraft:block/magenta_concrete
 minecraft:block/magenta_concrete_powder
 minecraft:block/magenta_glazed_terracotta
@@ -452,6 +463,8 @@ minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
 minecraft:block/shulker_box
 minecraft:block/slime_block
+minecraft:block/smooth_stone
+minecraft:block/smooth_stone_slab_side
 minecraft:block/snow
 minecraft:block/soul_sand
 minecraft:block/spawner
@@ -466,8 +479,6 @@ minecraft:block/spruce_sapling
 minecraft:block/spruce_trapdoor
 minecraft:block/stone
 minecraft:block/stone_bricks
-minecraft:block/stone_slab_side
-minecraft:block/stone_slab_top
 minecraft:block/stripped_acacia_log
 minecraft:block/stripped_acacia_log_top
 minecraft:block/stripped_birch_log
@@ -529,6 +540,7 @@ minecraft:block/white_stained_glass_pane_top
 minecraft:block/white_terracotta
 minecraft:block/white_tulip
 minecraft:block/white_wool
+minecraft:block/wither_rose
 minecraft:block/yellow_concrete
 minecraft:block/yellow_concrete_powder
 minecraft:block/yellow_glazed_terracotta
@@ -688,9 +700,11 @@ minecraft:entity/horse/horse_skeleton
 minecraft:entity/horse/horse_white
 minecraft:entity/horse/horse_zombie
 minecraft:entity/horse/mule
+minecraft:entity/illager/beast
 minecraft:entity/illager/evoker
 minecraft:entity/illager/evoker_fangs
 minecraft:entity/illager/illusioner
+minecraft:entity/illager/pillager
 minecraft:entity/illager/vex
 minecraft:entity/illager/vex_charging
 minecraft:entity/illager/vindicator
@@ -718,6 +732,13 @@ minecraft:entity/llama/gray
 minecraft:entity/llama/spit
 minecraft:entity/llama/white
 minecraft:entity/minecart
+minecraft:entity/panda/aggressive_panda
+minecraft:entity/panda/brown_panda
+minecraft:entity/panda/lazy_panda
+minecraft:entity/panda/panda
+minecraft:entity/panda/playful_panda
+minecraft:entity/panda/weak_panda
+minecraft:entity/panda/worried_panda
 minecraft:entity/parrot/parrot_blue
 minecraft:entity/parrot/parrot_green
 minecraft:entity/parrot/parrot_grey
@@ -799,7 +820,12 @@ minecraft:entity/shulker/shulker_red
 minecraft:entity/shulker/shulker_white
 minecraft:entity/shulker/shulker_yellow
 minecraft:entity/shulker/spark
-minecraft:entity/sign
+minecraft:entity/signs/acacia
+minecraft:entity/signs/birch
+minecraft:entity/signs/dark_oak
+minecraft:entity/signs/jungle
+minecraft:entity/signs/oak
+minecraft:entity/signs/spruce
 minecraft:entity/silverfish
 minecraft:entity/skeleton/skeleton
 minecraft:entity/skeleton/stray
@@ -1100,6 +1126,7 @@ minecraft:gui/container/generic_54
 minecraft:gui/container/hopper
 minecraft:gui/container/horse
 minecraft:gui/container/inventory
+minecraft:gui/container/loom
 minecraft:gui/container/shulker_box
 minecraft:gui/container/stats_icons
 minecraft:gui/container/villager
@@ -1134,10 +1161,12 @@ minecraft:gui/widgets
 minecraft:gui/world_selection
 minecraft:item/acacia_boat
 minecraft:item/acacia_door
+minecraft:item/acacia_sign
 minecraft:item/apple
 minecraft:item/armor_stand
 minecraft:item/arrow
 minecraft:item/baked_potato
+minecraft:item/bamboo
 minecraft:item/barrier
 minecraft:item/beef
 minecraft:item/beetroot
@@ -1145,8 +1174,11 @@ minecraft:item/beetroot_seeds
 minecraft:item/beetroot_soup
 minecraft:item/birch_boat
 minecraft:item/birch_door
+minecraft:item/birch_sign
+minecraft:item/black_dye
 minecraft:item/blaze_powder
 minecraft:item/blaze_rod
+minecraft:item/blue_dye
 minecraft:item/bone
 minecraft:item/bone_meal
 minecraft:item/book
@@ -1159,8 +1191,8 @@ minecraft:item/bread
 minecraft:item/brewing_stand
 minecraft:item/brick
 minecraft:item/broken_elytra
+minecraft:item/brown_dye
 minecraft:item/bucket
-minecraft:item/cactus_green
 minecraft:item/cake
 minecraft:item/carrot
 minecraft:item/carrot_on_a_stick
@@ -1284,10 +1316,17 @@ minecraft:item/cooked_porkchop
 minecraft:item/cooked_rabbit
 minecraft:item/cooked_salmon
 minecraft:item/cookie
+minecraft:item/creeper_banner_pattern
+minecraft:item/crossbow_arrow
+minecraft:item/crossbow_firework
+minecraft:item/crossbow_pulling_0
+minecraft:item/crossbow_pulling_1
+minecraft:item/crossbow_pulling_2
+minecraft:item/crossbow_standby
 minecraft:item/cyan_dye
-minecraft:item/dandelion_yellow
 minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_door
+minecraft:item/dark_oak_sign
 minecraft:item/diamond
 minecraft:item/diamond_axe
 minecraft:item/diamond_boots
@@ -1326,6 +1365,7 @@ minecraft:item/fishing_rod
 minecraft:item/fishing_rod_cast
 minecraft:item/flint
 minecraft:item/flint_and_steel
+minecraft:item/flower_banner_pattern
 minecraft:item/flower_pot
 minecraft:item/furnace_minecart
 minecraft:item/ghast_tear
@@ -1347,6 +1387,7 @@ minecraft:item/golden_pickaxe
 minecraft:item/golden_shovel
 minecraft:item/golden_sword
 minecraft:item/gray_dye
+minecraft:item/green_dye
 minecraft:item/gunpowder
 minecraft:item/heart_of_the_sea
 minecraft:item/hopper
@@ -1368,6 +1409,7 @@ minecraft:item/iron_sword
 minecraft:item/item_frame
 minecraft:item/jungle_boat
 minecraft:item/jungle_door
+minecraft:item/jungle_sign
 minecraft:item/kelp
 minecraft:item/knowledge_book
 minecraft:item/lapis_lazuli
@@ -1393,6 +1435,7 @@ minecraft:item/melon_seeds
 minecraft:item/melon_slice
 minecraft:item/milk_bucket
 minecraft:item/minecart
+minecraft:item/mojang_banner_pattern
 minecraft:item/mushroom_stew
 minecraft:item/music_disc_11
 minecraft:item/music_disc_13
@@ -1414,6 +1457,7 @@ minecraft:item/nether_star
 minecraft:item/nether_wart
 minecraft:item/oak_boat
 minecraft:item/oak_door
+minecraft:item/oak_sign
 minecraft:item/orange_dye
 minecraft:item/painting
 minecraft:item/paper
@@ -1437,9 +1481,9 @@ minecraft:item/rabbit
 minecraft:item/rabbit_foot
 minecraft:item/rabbit_hide
 minecraft:item/rabbit_stew
+minecraft:item/red_dye
 minecraft:item/redstone
 minecraft:item/repeater
-minecraft:item/rose_red
 minecraft:item/rotten_flesh
 minecraft:item/ruby
 minecraft:item/saddle
@@ -1450,7 +1494,7 @@ minecraft:item/sea_pickle
 minecraft:item/seagrass
 minecraft:item/shears
 minecraft:item/shulker_shell
-minecraft:item/sign
+minecraft:item/skull_banner_pattern
 minecraft:item/slime_ball
 minecraft:item/snowball
 minecraft:item/spawn_egg
@@ -1460,6 +1504,7 @@ minecraft:item/spider_eye
 minecraft:item/splash_potion
 minecraft:item/spruce_boat
 minecraft:item/spruce_door
+minecraft:item/spruce_sign
 minecraft:item/stick
 minecraft:item/stone_axe
 minecraft:item/stone_hoe
@@ -1470,6 +1515,7 @@ minecraft:item/string
 minecraft:item/structure_void
 minecraft:item/sugar
 minecraft:item/sugar_cane
+minecraft:item/suspicious_stew
 minecraft:item/tipped_arrow_base
 minecraft:item/tipped_arrow_head
 minecraft:item/tnt_minecart
@@ -1482,6 +1528,7 @@ minecraft:item/turtle_helmet
 minecraft:item/water_bucket
 minecraft:item/wheat
 minecraft:item/wheat_seeds
+minecraft:item/white_dye
 minecraft:item/wooden_axe
 minecraft:item/wooden_hoe
 minecraft:item/wooden_pickaxe
@@ -1489,6 +1536,7 @@ minecraft:item/wooden_shovel
 minecraft:item/wooden_sword
 minecraft:item/writable_book
 minecraft:item/written_book
+minecraft:item/yellow_dye
 minecraft:map/map_background
 minecraft:map/map_icons
 minecraft:misc/enchanted_item_glint  [mcmeta]

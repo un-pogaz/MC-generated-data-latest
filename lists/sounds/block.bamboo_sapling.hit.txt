@@ -1,0 +1,5 @@
+minecraft:block/bamboo/sapling_hit1
+minecraft:block/bamboo/sapling_hit2
+minecraft:block/bamboo/sapling_hit3
+minecraft:block/bamboo/sapling_hit4
+minecraft:block/bamboo/sapling_hit5

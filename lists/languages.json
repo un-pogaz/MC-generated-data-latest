@@ -24,6 +24,11 @@
     "name": "Azərbaycanca",
     "bidirectional": false
   },
+  "ba_ru": {
+    "region": "Рәсәй",
+    "name": "Башҡортса",
+    "bidirectional": false
+  },
   "bar": {
     "region": "Bayern",
     "name": "Boarisch",
@@ -234,6 +239,11 @@
     "name": "Galego",
     "bidirectional": false
   },
+  "got_de": {
+    "region": "Dakia jah Heispanja",
+    "name": "Gutrazda",
+    "bidirectional": false
+  },
   "gv_im": {
     "region": "Mannin",
     "name": "Gaelg",
@@ -251,7 +261,7 @@
   },
   "hi_in": {
     "region": "भारत",
-    "name": "हिन्दी",
+    "name": "हिंदी",
     "bidirectional": false
   },
   "hr_hr": {
@@ -316,7 +326,7 @@
   },
   "kk_kz": {
     "region": "Қазақстан",
-    "name": "Қазақ тілі",
+    "name": "Қазақша",
     "bidirectional": false
   },
   "kn_in": {
@@ -386,7 +396,7 @@
   },
   "moh_ca": {
     "region": "Kanien'kehá:ka",
-    "name": "Kanien’kéha,",
+    "name": "Kanien’kéha",
     "bidirectional": false
   },
   "ms_my": {
@@ -511,7 +521,7 @@
   },
   "swg": {
     "region": "Allgai",
-    "name": "Oschtallgaiarisch",
+    "name": "Oschdallgaiarisch",
     "bidirectional": false
   },
   "sxu": {
@@ -521,7 +531,7 @@
   },
   "szl": {
     "region": "Gōrny Ślōnsk",
-    "name": "Ślōnskŏ gŏdka",
+    "name": "Ślōnski",
     "bidirectional": false
   },
   "ta_in": {
@@ -572,6 +582,11 @@
   "vi_vn": {
     "region": "Việt Nam",
     "name": "Tiếng Việt",
+    "bidirectional": false
+  },
+  "yi_de": {
+    "region": "פֿאַראײניקטע שטאַטן",
+    "name": "ייִדיש",
     "bidirectional": false
   },
   "yo_ng": {

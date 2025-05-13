@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/bamboo/sapling_hit1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/sapling_hit2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/sapling_hit3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/sapling_hit4",
+      "volume": 0.8
+    },
+    {
+      "name": "block/bamboo/sapling_hit5",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

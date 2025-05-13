@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/ravager/death1",
+      "volume": 1
+    },
+    {
+      "name": "mob/ravager/death2",
+      "volume": 1
+    },
+    {
+      "name": "mob/ravager/death3",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.ravager.death"
+}

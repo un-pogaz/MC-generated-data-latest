@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/panda/step1",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/step2",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/step3",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/step4",
+      "volume": 1
+    },
+    {
+      "name": "mob/panda/step5",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.panda.step"
+}

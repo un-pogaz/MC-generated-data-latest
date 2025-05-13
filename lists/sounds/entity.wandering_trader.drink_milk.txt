@@ -1,0 +1,5 @@
+minecraft:mob/wandering_trader/drink_milk1
+minecraft:mob/wandering_trader/drink_milk2
+minecraft:mob/wandering_trader/drink_milk3
+minecraft:mob/wandering_trader/drink_milk4
+minecraft:mob/wandering_trader/drink_milk5

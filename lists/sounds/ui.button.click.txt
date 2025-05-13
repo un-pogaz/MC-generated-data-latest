@@ -1,1 +1,1 @@
-minecraft:random/click
+minecraft:random/click_stereo

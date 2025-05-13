@@ -1,0 +1,8 @@
+minecraft:mob/panda/aggressive/aggressive1
+minecraft:mob/panda/aggressive/aggressive2
+minecraft:mob/panda/aggressive/aggressive3
+minecraft:mob/panda/aggressive/aggressive4
+minecraft:mob/panda/nosebreath2
+minecraft:mob/panda/nosebreath3
+minecraft:mob/panda/pant1
+minecraft:mob/panda/pant2

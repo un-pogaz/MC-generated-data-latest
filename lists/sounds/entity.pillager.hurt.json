@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/pillager/hurt1",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/hurt2",
+      "volume": 1
+    },
+    {
+      "name": "mob/pillager/hurt3",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.pillager.hurt"
+}

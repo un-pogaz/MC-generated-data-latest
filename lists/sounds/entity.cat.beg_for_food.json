@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    {
+      "name": "mob/cat/beg1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/cat/beg2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/cat/beg3",
+      "volume": 0.7
+    }
+  ]
+}

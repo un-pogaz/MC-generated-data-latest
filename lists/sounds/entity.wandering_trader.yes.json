@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/wandering_trader/yes1",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/yes2",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/yes3",
+      "volume": 1
+    },
+    {
+      "name": "mob/wandering_trader/yes4",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.yes"
+}

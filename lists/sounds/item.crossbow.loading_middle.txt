@@ -1,0 +1,10 @@
+minecraft:item/crossbow/loading_middle1
+minecraft:item/crossbow/loading_middle1
+minecraft:item/crossbow/loading_middle1
+minecraft:item/crossbow/loading_middle2
+minecraft:item/crossbow/loading_middle2
+minecraft:item/crossbow/loading_middle2
+minecraft:item/crossbow/loading_middle3
+minecraft:item/crossbow/loading_middle3
+minecraft:item/crossbow/loading_middle3
+minecraft:item/crossbow/loading_middle4

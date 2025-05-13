@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "item/sweet_berries/pick_from_bush1",
+    "item/sweet_berries/pick_from_bush2"
+  ],
+  "subtitle": "subtitles.item.berries.pick"
+}

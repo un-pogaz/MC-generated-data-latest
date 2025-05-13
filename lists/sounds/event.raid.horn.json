@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "event/raid/raidhorn_01",
+      "volume": 0.01
+    },
+    {
+      "name": "event/raid/raidhorn_02",
+      "volume": 0.01
+    },
+    {
+      "name": "event/raid/raidhorn_03",
+      "volume": 0.01
+    },
+    {
+      "name": "event/raid/raidhorn_04",
+      "volume": 0.01
+    }
+  ],
+  "subtitle": "subtitles.event.raid.horn"
+}

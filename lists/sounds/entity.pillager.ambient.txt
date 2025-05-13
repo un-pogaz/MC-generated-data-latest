@@ -1,0 +1,4 @@
+minecraft:mob/pillager/idle1
+minecraft:mob/pillager/idle2
+minecraft:mob/pillager/idle3
+minecraft:mob/pillager/idle4
