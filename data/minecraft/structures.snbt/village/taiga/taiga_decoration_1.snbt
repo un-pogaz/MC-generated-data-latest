@@ -3,162 +3,109 @@
   entities: [],
   blocks: [
     {
-      pos: [0, 0, 0],
-      state: 0
-    },
-    {
-      pos: [1, 0, 0],
-      state: 0
-    },
-    {
-      pos: [2, 0, 0],
-      state: 0
-    },
-    {
-      pos: [0, 0, 1],
-      state: 0
-    },
-    {
       pos: [1, 0, 1],
-      state: 1
-    },
-    {
-      pos: [2, 0, 1],
-      state: 0
-    },
-    {
-      pos: [0, 0, 2],
       state: 0
     },
     {
       pos: [1, 0, 2],
-      state: 1
-    },
-    {
-      pos: [2, 0, 2],
-      state: 2
-    },
-    {
-      pos: [0, 0, 3],
       state: 0
     },
     {
       pos: [1, 0, 3],
-      state: 1
-    },
-    {
-      pos: [2, 0, 3],
-      state: 0
-    },
-    {
-      pos: [0, 0, 4],
       state: 0
     },
     {
       pos: [1, 0, 4],
+      state: 0
+    },
+    {
+      nbt: {
+        target_pool: "minecraft:empty",
+        final_state: "minecraft:air",
+        id: "minecraft:jigsaw",
+        attachement_type: "minecraft:bottom"
+      },
+      pos: [1, 1, 3],
       state: 1
     },
     {
-      pos: [2, 0, 4],
-      state: 0
-    },
-    {
-      pos: [1, 0, 5],
-      state: 0
-    },
-    {
-      pos: [2, 0, 5],
-      state: 0
-    },
-    {
       pos: [0, 1, 0],
-      state: 3
+      state: 2
     },
     {
       pos: [1, 1, 0],
-      state: 4
+      state: 3
     },
     {
       pos: [2, 1, 0],
-      state: 3
+      state: 2
     },
     {
       pos: [0, 1, 1],
-      state: 5
+      state: 4
     },
     {
       pos: [1, 1, 1],
-      state: 6
+      state: 2
     },
     {
       pos: [2, 1, 1],
-      state: 7
+      state: 5
     },
     {
       pos: [0, 1, 2],
-      state: 5
+      state: 4
     },
     {
       pos: [1, 1, 2],
-      state: 6
+      state: 2
     },
     {
       pos: [2, 1, 2],
-      state: 7
+      state: 5
     },
     {
       pos: [0, 1, 3],
-      state: 5
-    },
-    {
-      pos: [1, 1, 3],
-      state: 6
+      state: 4
     },
     {
       pos: [2, 1, 3],
-      state: 7
-    },
-    {
-      pos: [0, 1, 4],
       state: 5
     },
     {
+      pos: [0, 1, 4],
+      state: 4
+    },
+    {
       pos: [1, 1, 4],
-      state: 6
+      state: 2
     },
     {
       pos: [2, 1, 4],
-      state: 7
-    },
-    {
-      pos: [0, 0, 5],
-      state: 8
+      state: 5
     },
     {
       pos: [0, 1, 5],
-      state: 3
+      state: 2
     },
     {
       pos: [1, 1, 5],
-      state: 9
+      state: 6
     },
     {
       pos: [2, 1, 5],
-      state: 3
+      state: 2
     }
   ],
   palette: [
     {
-      Properties: {
-        snowy: "false"
-      },
-      Name: "minecraft:grass_block"
-    },
-    {
       Name: "minecraft:spruce_planks"
     },
     {
-      Name: "minecraft:sand"
+      Properties: {
+        facing: "down"
+      },
+      Name: "minecraft:jigsaw"
     },
     {
       Name: "minecraft:air"
@@ -185,12 +132,6 @@
     },
     {
       Properties: {
-        level: "0"
-      },
-      Name: "minecraft:water"
-    },
-    {
-      Properties: {
         half: "bottom",
         waterlogged: "false",
         powered: "false",
@@ -198,9 +139,6 @@
         open: "true"
       },
       Name: "minecraft:spruce_trapdoor"
-    },
-    {
-      Name: "minecraft:grass_path"
     },
     {
       Properties: {
@@ -213,5 +151,5 @@
       Name: "minecraft:spruce_trapdoor"
     }
   ],
-  DataVersion: 1801
+  DataVersion: 1930
 }

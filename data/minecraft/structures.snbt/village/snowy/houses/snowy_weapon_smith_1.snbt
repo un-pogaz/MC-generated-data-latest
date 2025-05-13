@@ -492,11 +492,11 @@
     },
     {
       pos: [4, 1, 5],
-      state: 1
+      state: 3
     },
     {
       pos: [5, 1, 5],
-      state: 1
+      state: 3
     },
     {
       pos: [6, 1, 5],
@@ -516,11 +516,11 @@
     },
     {
       pos: [4, 2, 5],
-      state: 1
+      state: 3
     },
     {
       pos: [5, 2, 5],
-      state: 1
+      state: 3
     },
     {
       pos: [6, 2, 5],
@@ -544,11 +544,11 @@
     },
     {
       pos: [4, 3, 5],
-      state: 1
+      state: 3
     },
     {
       pos: [5, 3, 5],
-      state: 1
+      state: 3
     },
     {
       pos: [6, 3, 5],
@@ -568,11 +568,11 @@
     },
     {
       pos: [4, 4, 5],
-      state: 1
+      state: 3
     },
     {
       pos: [5, 4, 5],
-      state: 1
+      state: 3
     },
     {
       pos: [6, 4, 5],
@@ -903,7 +903,6 @@
         LootTable: "minecraft:chests/village/village_weaponsmith",
         Items: [],
         id: "minecraft:chest",
-        Lock: "",
         LootTableSeed: 0L
       },
       pos: [2, 1, 2],
@@ -2721,5 +2720,5 @@
       Name: "minecraft:iron_bars"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1930
 }

@@ -1000,8 +1000,8 @@
     },
     {
       Properties: {
-        face: "ceiling",
-        facing: "north"
+        attachment: "ceiling",
+        facing: "south"
       },
       Name: "minecraft:bell"
     },
@@ -1025,8 +1025,8 @@
     },
     {
       Properties: {
-        face: "ceiling",
-        facing: "south"
+        attachment: "ceiling",
+        facing: "north"
       },
       Name: "minecraft:bell"
     },
@@ -1172,5 +1172,5 @@
       Name: "minecraft:wall_torch"
     }
   ],
-  DataVersion: 1916
+  DataVersion: 1930
 }

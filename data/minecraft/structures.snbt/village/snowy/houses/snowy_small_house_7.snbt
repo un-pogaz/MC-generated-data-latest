@@ -418,7 +418,7 @@
     },
     {
       pos: [1, 0, 0],
-      state: 8
+      state: 7
     },
     {
       pos: [2, 0, 0],
@@ -822,7 +822,7 @@
     },
     {
       pos: [3, 4, 3],
-      state: 7
+      state: 17
     },
     {
       pos: [5, 4, 3],
@@ -854,7 +854,7 @@
     },
     {
       pos: [0, 0, 4],
-      state: 17
+      state: 18
     },
     {
       pos: [5, 0, 4],
@@ -866,11 +866,11 @@
     },
     {
       pos: [2, 1, 4],
-      state: 18
+      state: 19
     },
     {
       pos: [3, 1, 4],
-      state: 18
+      state: 19
     },
     {
       pos: [5, 1, 4],
@@ -1321,6 +1321,12 @@
     },
     {
       Properties: {
+        hanging: "true"
+      },
+      Name: "minecraft:lantern"
+    },
+    {
+      Properties: {
         half: "bottom",
         waterlogged: "false",
         shape: "outer_right",
@@ -1338,5 +1344,5 @@
       Name: "minecraft:spruce_stairs"
     }
   ],
-  DataVersion: 1910
+  DataVersion: 1930
 }
