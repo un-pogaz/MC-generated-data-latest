@@ -122,6 +122,7 @@ minecraft:redstone_wall_torch
 minecraft:repeater
 minecraft:repeating_command_block
 minecraft:sandstone_stairs
+minecraft:shulker_box
 minecraft:skeleton_wall_skull
 minecraft:spruce_button
 minecraft:spruce_door

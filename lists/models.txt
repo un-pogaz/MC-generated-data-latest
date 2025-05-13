@@ -93,6 +93,7 @@ minecraft:block/blue_concrete
 minecraft:block/blue_concrete_powder
 minecraft:block/blue_coral
 minecraft:block/blue_coral_plant
+minecraft:block/blue_dead_coral
 minecraft:block/blue_glazed_terracotta
 minecraft:block/blue_orchid
 minecraft:block/blue_stained_glass
@@ -260,7 +261,6 @@ minecraft:block/dark_prismarine_stairs_outer
 minecraft:block/daylight_detector
 minecraft:block/daylight_detector_inverted
 minecraft:block/dead_bush
-minecraft:block/dead_coral
 minecraft:block/detector_rail
 minecraft:block/detector_rail_on
 minecraft:block/detector_rail_on_raised_ne
@@ -590,6 +590,7 @@ minecraft:block/pink_concrete
 minecraft:block/pink_concrete_powder
 minecraft:block/pink_coral
 minecraft:block/pink_coral_plant
+minecraft:block/pink_dead_coral
 minecraft:block/pink_glazed_terracotta
 minecraft:block/pink_stained_glass
 minecraft:block/pink_stained_glass_pane_noside
@@ -675,6 +676,7 @@ minecraft:block/purple_concrete
 minecraft:block/purple_concrete_powder
 minecraft:block/purple_coral
 minecraft:block/purple_coral_plant
+minecraft:block/purple_dead_coral
 minecraft:block/purple_glazed_terracotta
 minecraft:block/purple_stained_glass
 minecraft:block/purple_stained_glass_pane_noside
@@ -709,6 +711,7 @@ minecraft:block/red_concrete
 minecraft:block/red_concrete_powder
 minecraft:block/red_coral
 minecraft:block/red_coral_plant
+minecraft:block/red_dead_coral
 minecraft:block/red_glazed_terracotta
 minecraft:block/red_mushroom
 minecraft:block/red_mushroom_block
@@ -961,6 +964,7 @@ minecraft:block/yellow_concrete
 minecraft:block/yellow_concrete_powder
 minecraft:block/yellow_coral
 minecraft:block/yellow_coral_plant
+minecraft:block/yellow_dead_coral
 minecraft:block/yellow_glazed_terracotta
 minecraft:block/yellow_stained_glass
 minecraft:block/yellow_stained_glass_pane_noside
@@ -1036,6 +1040,7 @@ minecraft:item/blue_concrete
 minecraft:item/blue_concrete_powder
 minecraft:item/blue_coral
 minecraft:item/blue_coral_plant
+minecraft:item/blue_dead_coral
 minecraft:item/blue_glazed_terracotta
 minecraft:item/blue_orchid
 minecraft:item/blue_shulker_box
@@ -1266,7 +1271,6 @@ minecraft:item/dark_prismarine_slab
 minecraft:item/dark_prismarine_stairs
 minecraft:item/daylight_detector
 minecraft:item/dead_bush
-minecraft:item/dead_coral
 minecraft:item/debug_stick
 minecraft:item/detector_rail
 minecraft:item/diamond
@@ -1589,6 +1593,7 @@ minecraft:item/pink_concrete
 minecraft:item/pink_concrete_powder
 minecraft:item/pink_coral
 minecraft:item/pink_coral_plant
+minecraft:item/pink_dead_coral
 minecraft:item/pink_dye
 minecraft:item/pink_glazed_terracotta
 minecraft:item/pink_shulker_box
@@ -1631,6 +1636,7 @@ minecraft:item/purple_concrete
 minecraft:item/purple_concrete_powder
 minecraft:item/purple_coral
 minecraft:item/purple_coral_plant
+minecraft:item/purple_dead_coral
 minecraft:item/purple_dye
 minecraft:item/purple_glazed_terracotta
 minecraft:item/purple_shulker_box
@@ -1660,6 +1666,7 @@ minecraft:item/red_concrete
 minecraft:item/red_concrete_powder
 minecraft:item/red_coral
 minecraft:item/red_coral_plant
+minecraft:item/red_dead_coral
 minecraft:item/red_glazed_terracotta
 minecraft:item/red_mushroom
 minecraft:item/red_mushroom_block
@@ -1699,6 +1706,7 @@ minecraft:item/shears
 minecraft:item/sheep_spawn_egg
 minecraft:item/shield
 minecraft:item/shield_blocking
+minecraft:item/shulker_box
 minecraft:item/shulker_shell
 minecraft:item/shulker_spawn_egg
 minecraft:item/sign
@@ -1824,6 +1832,7 @@ minecraft:item/yellow_concrete
 minecraft:item/yellow_concrete_powder
 minecraft:item/yellow_coral
 minecraft:item/yellow_coral_plant
+minecraft:item/yellow_dead_coral
 minecraft:item/yellow_glazed_terracotta
 minecraft:item/yellow_shulker_box
 minecraft:item/yellow_stained_glass

@@ -40,6 +40,7 @@ minecraft:blocks/blue_concrete
 minecraft:blocks/blue_concrete_powder
 minecraft:blocks/blue_coral
 minecraft:blocks/blue_coral_plant
+minecraft:blocks/blue_dead_coral
 minecraft:blocks/blue_glazed_terracotta
 minecraft:blocks/blue_orchid
 minecraft:blocks/blue_stained_glass
@@ -132,7 +133,6 @@ minecraft:blocks/daylight_detector_inverted_top
 minecraft:blocks/daylight_detector_side
 minecraft:blocks/daylight_detector_top
 minecraft:blocks/dead_bush
-minecraft:blocks/dead_coral
 minecraft:blocks/debug
 minecraft:blocks/debug2
 minecraft:blocks/destroy_stage_0
@@ -324,6 +324,7 @@ minecraft:blocks/pink_concrete
 minecraft:blocks/pink_concrete_powder
 minecraft:blocks/pink_coral
 minecraft:blocks/pink_coral_plant
+minecraft:blocks/pink_dead_coral
 minecraft:blocks/pink_glazed_terracotta
 minecraft:blocks/pink_stained_glass
 minecraft:blocks/pink_stained_glass_pane_top
@@ -359,6 +360,7 @@ minecraft:blocks/purple_concrete
 minecraft:blocks/purple_concrete_powder
 minecraft:blocks/purple_coral
 minecraft:blocks/purple_coral_plant
+minecraft:blocks/purple_dead_coral
 minecraft:blocks/purple_glazed_terracotta
 minecraft:blocks/purple_stained_glass
 minecraft:blocks/purple_stained_glass_pane_top
@@ -379,6 +381,7 @@ minecraft:blocks/red_concrete
 minecraft:blocks/red_concrete_powder
 minecraft:blocks/red_coral
 minecraft:blocks/red_coral_plant
+minecraft:blocks/red_dead_coral
 minecraft:blocks/red_glazed_terracotta
 minecraft:blocks/red_mushroom
 minecraft:blocks/red_mushroom_block
@@ -416,6 +419,7 @@ minecraft:blocks/sandstone_bottom
 minecraft:blocks/sandstone_top
 minecraft:blocks/sea_grass  [mcmeta]
 minecraft:blocks/sea_lantern  [mcmeta]
+minecraft:blocks/shulker_top
 minecraft:blocks/shulker_top_black
 minecraft:blocks/shulker_top_blue
 minecraft:blocks/shulker_top_brown
@@ -510,6 +514,7 @@ minecraft:blocks/yellow_concrete
 minecraft:blocks/yellow_concrete_powder
 minecraft:blocks/yellow_coral
 minecraft:blocks/yellow_coral_plant
+minecraft:blocks/yellow_dead_coral
 minecraft:blocks/yellow_glazed_terracotta
 minecraft:blocks/yellow_stained_glass
 minecraft:blocks/yellow_stained_glass_pane_top
@@ -752,6 +757,7 @@ minecraft:entity/shield/triangles_bottom
 minecraft:entity/shield/triangles_top
 minecraft:entity/shield_base
 minecraft:entity/shield_base_nopattern
+minecraft:entity/shulker/shulker
 minecraft:entity/shulker/shulker_black
 minecraft:entity/shulker/shulker_blue
 minecraft:entity/shulker/shulker_brown
