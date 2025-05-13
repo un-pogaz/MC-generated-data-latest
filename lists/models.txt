@@ -92,6 +92,7 @@ minecraft:block/blue_carpet
 minecraft:block/blue_concrete
 minecraft:block/blue_concrete_powder
 minecraft:block/blue_coral
+minecraft:block/blue_coral_fan
 minecraft:block/blue_coral_plant
 minecraft:block/blue_dead_coral
 minecraft:block/blue_glazed_terracotta
@@ -195,6 +196,7 @@ minecraft:block/comparator
 minecraft:block/comparator_on
 minecraft:block/comparator_on_subtract
 minecraft:block/comparator_subtract
+minecraft:block/coral_fan
 minecraft:block/cracked_stone_bricks
 minecraft:block/crafting_table
 minecraft:block/crop
@@ -589,6 +591,7 @@ minecraft:block/pink_carpet
 minecraft:block/pink_concrete
 minecraft:block/pink_concrete_powder
 minecraft:block/pink_coral
+minecraft:block/pink_coral_fan
 minecraft:block/pink_coral_plant
 minecraft:block/pink_dead_coral
 minecraft:block/pink_glazed_terracotta
@@ -675,6 +678,7 @@ minecraft:block/purple_carpet
 minecraft:block/purple_concrete
 minecraft:block/purple_concrete_powder
 minecraft:block/purple_coral
+minecraft:block/purple_coral_fan
 minecraft:block/purple_coral_plant
 minecraft:block/purple_dead_coral
 minecraft:block/purple_glazed_terracotta
@@ -710,6 +714,7 @@ minecraft:block/red_carpet
 minecraft:block/red_concrete
 minecraft:block/red_concrete_powder
 minecraft:block/red_coral
+minecraft:block/red_coral_fan
 minecraft:block/red_coral_plant
 minecraft:block/red_dead_coral
 minecraft:block/red_glazed_terracotta
@@ -963,6 +968,7 @@ minecraft:block/yellow_carpet
 minecraft:block/yellow_concrete
 minecraft:block/yellow_concrete_powder
 minecraft:block/yellow_coral
+minecraft:block/yellow_coral_fan
 minecraft:block/yellow_coral_plant
 minecraft:block/yellow_dead_coral
 minecraft:block/yellow_glazed_terracotta
@@ -1039,6 +1045,7 @@ minecraft:item/blue_carpet
 minecraft:item/blue_concrete
 minecraft:item/blue_concrete_powder
 minecraft:item/blue_coral
+minecraft:item/blue_coral_fan
 minecraft:item/blue_coral_plant
 minecraft:item/blue_dead_coral
 minecraft:item/blue_glazed_terracotta
@@ -1296,6 +1303,7 @@ minecraft:item/dragon_head
 minecraft:item/dried_kelp
 minecraft:item/dried_kelp_block
 minecraft:item/dropper
+minecraft:item/drowned_spawn_egg
 minecraft:item/egg
 minecraft:item/elder_guardian_spawn_egg
 minecraft:item/elytra
@@ -1592,6 +1600,7 @@ minecraft:item/pink_carpet
 minecraft:item/pink_concrete
 minecraft:item/pink_concrete_powder
 minecraft:item/pink_coral
+minecraft:item/pink_coral_fan
 minecraft:item/pink_coral_plant
 minecraft:item/pink_dead_coral
 minecraft:item/pink_dye
@@ -1635,6 +1644,7 @@ minecraft:item/purple_carpet
 minecraft:item/purple_concrete
 minecraft:item/purple_concrete_powder
 minecraft:item/purple_coral
+minecraft:item/purple_coral_fan
 minecraft:item/purple_coral_plant
 minecraft:item/purple_dead_coral
 minecraft:item/purple_dye
@@ -1665,6 +1675,7 @@ minecraft:item/red_carpet
 minecraft:item/red_concrete
 minecraft:item/red_concrete_powder
 minecraft:item/red_coral
+minecraft:item/red_coral_fan
 minecraft:item/red_coral_plant
 minecraft:item/red_dead_coral
 minecraft:item/red_glazed_terracotta
@@ -1831,6 +1842,7 @@ minecraft:item/yellow_carpet
 minecraft:item/yellow_concrete
 minecraft:item/yellow_concrete_powder
 minecraft:item/yellow_coral
+minecraft:item/yellow_coral_fan
 minecraft:item/yellow_coral_plant
 minecraft:item/yellow_dead_coral
 minecraft:item/yellow_glazed_terracotta

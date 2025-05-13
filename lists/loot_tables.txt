@@ -6,6 +6,9 @@ minecraft:chests/igloo_chest
 minecraft:chests/jungle_temple
 minecraft:chests/jungle_temple_dispenser
 minecraft:chests/nether_bridge
+minecraft:chests/shipwreck_map
+minecraft:chests/shipwreck_supply
+minecraft:chests/shipwreck_treasure
 minecraft:chests/simple_dungeon
 minecraft:chests/spawn_bonus_chest
 minecraft:chests/stronghold_corridor
@@ -23,6 +26,7 @@ minecraft:entities/cod_mob
 minecraft:entities/cow
 minecraft:entities/creeper
 minecraft:entities/donkey
+minecraft:entities/drowned
 minecraft:entities/elder_guardian
 minecraft:entities/ender_dragon
 minecraft:entities/enderman
