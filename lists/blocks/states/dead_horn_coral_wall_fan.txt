@@ -1,0 +1,8 @@
+facing=north,waterlogged=true  [default]
+facing=north,waterlogged=false
+facing=south,waterlogged=true
+facing=south,waterlogged=false
+facing=west,waterlogged=true
+facing=west,waterlogged=false
+facing=east,waterlogged=true
+facing=east,waterlogged=false

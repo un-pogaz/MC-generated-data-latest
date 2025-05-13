@@ -143,11 +143,16 @@ minecraft:block/daylight_detector_inverted_top
 minecraft:block/daylight_detector_side
 minecraft:block/daylight_detector_top
 minecraft:block/dead_brain_coral_block
+minecraft:block/dead_brain_coral_fan
 minecraft:block/dead_bubble_coral_block
+minecraft:block/dead_bubble_coral_fan
 minecraft:block/dead_bush
 minecraft:block/dead_fire_coral_block
+minecraft:block/dead_fire_coral_fan
 minecraft:block/dead_horn_coral_block
+minecraft:block/dead_horn_coral_fan
 minecraft:block/dead_tube_coral_block
+minecraft:block/dead_tube_coral_fan
 minecraft:block/debug
 minecraft:block/debug2
 minecraft:block/destroy_stage_0

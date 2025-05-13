@@ -113,6 +113,7 @@ minecraft:block/bookshelf
 minecraft:block/brain_coral
 minecraft:block/brain_coral_block
 minecraft:block/brain_coral_fan
+minecraft:block/brain_coral_wall_fan
 minecraft:block/brewing_stand
 minecraft:block/brewing_stand_bottle0
 minecraft:block/brewing_stand_bottle1
@@ -145,6 +146,7 @@ minecraft:block/brown_wool
 minecraft:block/bubble_coral
 minecraft:block/bubble_coral_block
 minecraft:block/bubble_coral_fan
+minecraft:block/bubble_coral_wall_fan
 minecraft:block/button
 minecraft:block/button_inventory
 minecraft:block/button_pressed
@@ -207,6 +209,7 @@ minecraft:block/comparator_on_subtract
 minecraft:block/comparator_subtract
 minecraft:block/conduit
 minecraft:block/coral_fan
+minecraft:block/coral_wall_fan
 minecraft:block/cracked_stone_bricks
 minecraft:block/crafting_table
 minecraft:block/crop
@@ -274,12 +277,22 @@ minecraft:block/dark_prismarine_stairs_outer
 minecraft:block/daylight_detector
 minecraft:block/daylight_detector_inverted
 minecraft:block/dead_brain_coral_block
+minecraft:block/dead_brain_coral_fan
+minecraft:block/dead_brain_coral_wall_fan
 minecraft:block/dead_bubble_coral_block
+minecraft:block/dead_bubble_coral_fan
+minecraft:block/dead_bubble_coral_wall_fan
 minecraft:block/dead_bush
 minecraft:block/dead_fire_coral_block
+minecraft:block/dead_fire_coral_fan
+minecraft:block/dead_fire_coral_wall_fan
 minecraft:block/dead_horn_coral_block
+minecraft:block/dead_horn_coral_fan
+minecraft:block/dead_horn_coral_wall_fan
 minecraft:block/dead_sea_pickle
 minecraft:block/dead_tube_coral_block
+minecraft:block/dead_tube_coral_fan
+minecraft:block/dead_tube_coral_wall_fan
 minecraft:block/detector_rail
 minecraft:block/detector_rail_on
 minecraft:block/detector_rail_on_raised_ne
@@ -319,6 +332,7 @@ minecraft:block/fern
 minecraft:block/fire_coral
 minecraft:block/fire_coral_block
 minecraft:block/fire_coral_fan
+minecraft:block/fire_coral_wall_fan
 minecraft:block/fire_floor
 minecraft:block/fire_floor0
 minecraft:block/fire_floor1
@@ -396,6 +410,7 @@ minecraft:block/hopper_side
 minecraft:block/horn_coral
 minecraft:block/horn_coral_block
 minecraft:block/horn_coral_fan
+minecraft:block/horn_coral_wall_fan
 minecraft:block/ice
 minecraft:block/inner_stairs
 minecraft:block/iron_bars_cap
@@ -950,6 +965,7 @@ minecraft:block/tripwire_nsew
 minecraft:block/tube_coral
 minecraft:block/tube_coral_block
 minecraft:block/tube_coral_fan
+minecraft:block/tube_coral_wall_fan
 minecraft:block/turtle_egg
 minecraft:block/two_dead_sea_pickles
 minecraft:block/two_sea_pickles
@@ -1093,6 +1109,7 @@ minecraft:item/bowl
 minecraft:item/brain_coral
 minecraft:item/brain_coral_block
 minecraft:item/brain_coral_fan
+minecraft:item/brain_coral_wall_fan
 minecraft:item/bread
 minecraft:item/brewing_stand
 minecraft:item/brick
@@ -1116,6 +1133,7 @@ minecraft:item/brown_wool
 minecraft:item/bubble_coral
 minecraft:item/bubble_coral_block
 minecraft:item/bubble_coral_fan
+minecraft:item/bubble_coral_wall_fan
 minecraft:item/bucket
 minecraft:item/cactus
 minecraft:item/cactus_green
@@ -1307,11 +1325,21 @@ minecraft:item/dark_prismarine_slab
 minecraft:item/dark_prismarine_stairs
 minecraft:item/daylight_detector
 minecraft:item/dead_brain_coral_block
+minecraft:item/dead_brain_coral_fan
+minecraft:item/dead_brain_coral_wall_fan
 minecraft:item/dead_bubble_coral_block
+minecraft:item/dead_bubble_coral_fan
+minecraft:item/dead_bubble_coral_wall_fan
 minecraft:item/dead_bush
 minecraft:item/dead_fire_coral_block
+minecraft:item/dead_fire_coral_fan
+minecraft:item/dead_fire_coral_wall_fan
 minecraft:item/dead_horn_coral_block
+minecraft:item/dead_horn_coral_fan
+minecraft:item/dead_horn_coral_wall_fan
 minecraft:item/dead_tube_coral_block
+minecraft:item/dead_tube_coral_fan
+minecraft:item/dead_tube_coral_wall_fan
 minecraft:item/debug_stick
 minecraft:item/detector_rail
 minecraft:item/diamond
@@ -1369,6 +1397,7 @@ minecraft:item/fire_charge
 minecraft:item/fire_coral
 minecraft:item/fire_coral_block
 minecraft:item/fire_coral_fan
+minecraft:item/fire_coral_wall_fan
 minecraft:item/firework_rocket
 minecraft:item/firework_star
 minecraft:item/fishing_rod
@@ -1443,6 +1472,7 @@ minecraft:item/hopper_minecart
 minecraft:item/horn_coral
 minecraft:item/horn_coral_block
 minecraft:item/horn_coral_fan
+minecraft:item/horn_coral_wall_fan
 minecraft:item/horse_spawn_egg
 minecraft:item/husk_spawn_egg
 minecraft:item/ice
@@ -1847,6 +1877,7 @@ minecraft:item/tropical_fish_spawn_egg
 minecraft:item/tube_coral
 minecraft:item/tube_coral_block
 minecraft:item/tube_coral_fan
+minecraft:item/tube_coral_wall_fan
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
 minecraft:item/turtle_spawn_egg

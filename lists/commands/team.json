@@ -13,10 +13,7 @@
           "children": {
             "displayName": {
               "type": "argument",
-              "parser": "brigadier:string",
-              "properties": {
-                "type": "greedy"
-              },
+              "parser": "minecraft:component",
               "executable": true
             }
           },
@@ -78,7 +75,7 @@
       },
       "executable": true
     },
-    "option": {
+    "modify": {
       "type": "literal",
       "children": {
         "team": {
@@ -133,6 +130,16 @@
                 },
                 "never": {
                   "type": "literal",
+                  "executable": true
+                }
+              }
+            },
+            "displayName": {
+              "type": "literal",
+              "children": {
+                "displayName": {
+                  "type": "argument",
+                  "parser": "minecraft:component",
                   "executable": true
                 }
               }

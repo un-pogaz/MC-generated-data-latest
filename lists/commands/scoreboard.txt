@@ -1,7 +1,9 @@
 scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria>
-scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria> <displayName brigadier:string[type="greedy"]>
+scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria> <displayName minecraft:component>
 scoreboard objectives list
-scoreboard objectives modify <objective minecraft:objective> displayname <displayName brigadier:string[type="greedy"]>
+scoreboard objectives modify <objective minecraft:objective> displayname <displayName minecraft:component>
+scoreboard objectives modify <objective minecraft:objective> rendertype hearts
+scoreboard objectives modify <objective minecraft:objective> rendertype integer
 scoreboard objectives remove <objective minecraft:objective>
 scoreboard objectives setdisplay <slot minecraft:scoreboard_slot>
 scoreboard objectives setdisplay <slot minecraft:scoreboard_slot> <objective minecraft:objective>

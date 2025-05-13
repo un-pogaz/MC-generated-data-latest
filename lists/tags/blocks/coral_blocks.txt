@@ -1,2 +1,5 @@
-#minecraft:dead_coral_blocks
-#minecraft:live_coral_blocks
+minecraft:tube_coral_block
+minecraft:brain_coral_block
+minecraft:bubble_coral_block
+minecraft:fire_coral_block
+minecraft:horn_coral_block
