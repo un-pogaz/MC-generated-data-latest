@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.magma_cube.squish",
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.magma_cube"
+}

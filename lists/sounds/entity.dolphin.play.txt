@@ -1,0 +1,2 @@
+minecraft:mob/dolphin/play1
+minecraft:mob/dolphin/play2

@@ -1,0 +1,5 @@
+minecraft:mob/horse/skeleton/water/idle1
+minecraft:mob/horse/skeleton/water/idle2
+minecraft:mob/horse/skeleton/water/idle3
+minecraft:mob/horse/skeleton/water/idle4
+minecraft:mob/horse/skeleton/water/idle5

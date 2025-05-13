@@ -1,0 +1,3 @@
+minecraft:mob/dolphin/eat1
+minecraft:mob/dolphin/eat2
+minecraft:mob/dolphin/eat3

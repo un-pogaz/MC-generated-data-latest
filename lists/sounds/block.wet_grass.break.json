@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "dig/wet_grass1",
+      "volume": 0.8
+    },
+    {
+      "name": "dig/wet_grass2",
+      "volume": 0.8
+    },
+    {
+      "name": "dig/wet_grass3",
+      "volume": 0.8
+    },
+    {
+      "name": "dig/wet_grass4",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

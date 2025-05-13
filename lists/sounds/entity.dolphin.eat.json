@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/dolphin/eat1",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/dolphin/eat2",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/dolphin/eat3",
+      "volume": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.dolphin.eat"
+}

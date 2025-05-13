@@ -1,0 +1,4 @@
+minecraft:item/trident/ground_impact1
+minecraft:item/trident/ground_impact2
+minecraft:item/trident/ground_impact3
+minecraft:item/trident/ground_impact4

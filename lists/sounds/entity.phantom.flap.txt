@@ -1,0 +1,6 @@
+minecraft:mob/phantom/flap1
+minecraft:mob/phantom/flap2
+minecraft:mob/phantom/flap3
+minecraft:mob/phantom/flap4
+minecraft:mob/phantom/flap5
+minecraft:mob/phantom/flap6

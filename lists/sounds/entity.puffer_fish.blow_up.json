@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "entity/pufferfish/blow_up1",
+      "volume": 0.45
+    },
+    {
+      "name": "entity/pufferfish/blow_up2",
+      "volume": 0.45
+    }
+  ],
+  "subtitle": "subtitles.entity.puffer_fish.blow_up"
+}

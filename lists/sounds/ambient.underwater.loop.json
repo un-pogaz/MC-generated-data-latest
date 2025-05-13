@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/underwater/underwater_ambience",
+      "preload": true,
+      "volume": 0.65
+    }
+  ]
+}

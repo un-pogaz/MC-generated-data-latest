@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "mob/turtle/baby/hurt1",
+    "mob/turtle/baby/hurt2"
+  ],
+  "subtitles": "subtitles.turtle.hurt_baby"
+}

@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/husk/convert1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/husk/convert2",
+      "volume": 0.8
+    }
+  ],
+  "subtitles": "subtitles.entity.husk.converted_to_zombie"
+}

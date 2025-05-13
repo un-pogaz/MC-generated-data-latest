@@ -1,10 +1,10 @@
 {
   "sounds": [
     {
-      "type": "event",
       "name": "entity.polar_bear.ambient",
-      "volume": 0.7,
-      "pitch": 0.8
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.5
     }
   ],
   "subtitle": "subtitles.entity.parrot.imitate.polar_bear"

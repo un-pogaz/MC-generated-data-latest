@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/turtle/idle1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/turtle/idle2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/turtle/idle3",
+      "volume": 0.8
+    }
+  ],
+  "subtitles": "subtitles.turtle.ambient_land"
+}

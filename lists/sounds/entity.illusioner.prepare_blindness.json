@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/illusion_illager/prepare_blind"
+  ],
+  "subtitles": "subtitles.entity.illusioner.prepare_blindness"
+}

@@ -1,0 +1,7 @@
+{
+  "sounds": [
+    "item/trident/throw1",
+    "item/trident/throw2"
+  ],
+  "subtitle": "subtitles.item.trident.throw"
+}

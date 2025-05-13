@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/turtle/egg/egg_crack1",
+    "mob/turtle/egg/egg_crack2",
+    "mob/turtle/egg/egg_crack3",
+    "mob/turtle/egg/egg_crack4",
+    "mob/turtle/egg/egg_crack5"
+  ],
+  "subtitles": "subtitles.turtle.egg_crack"
+}

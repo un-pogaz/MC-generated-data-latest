@@ -1,0 +1,37 @@
+{
+  "sounds": [
+    {
+      "name": "liquid/swim9",
+      "volume": 0.4
+    },
+    {
+      "name": "liquid/swim10",
+      "volume": 0.4
+    },
+    {
+      "name": "liquid/swim11",
+      "volume": 0.4
+    },
+    {
+      "name": "liquid/swim12",
+      "volume": 0.4
+    },
+    {
+      "name": "liquid/swim14",
+      "volume": 0.6
+    },
+    {
+      "name": "liquid/swim15",
+      "volume": 0.6
+    },
+    {
+      "name": "liquid/swim16",
+      "volume": 0.6
+    },
+    {
+      "name": "liquid/swim17",
+      "volume": 0.6
+    }
+  ],
+  "subtitles": "subtitles.entity.skeleton_horse.swim"
+}

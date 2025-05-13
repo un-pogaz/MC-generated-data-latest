@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/turtle/swim/swim1",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/turtle/swim/swim2",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/turtle/swim/swim3",
+      "volume": 0.2
+    },
+    {
+      "name": "mob/turtle/swim/swim4",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/turtle/swim/swim5",
+      "volume": 0.3
+    }
+  ],
+  "subtitles": "subtitles.turtle.swim"
+}

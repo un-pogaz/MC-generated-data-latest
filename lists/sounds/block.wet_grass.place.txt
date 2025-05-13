@@ -1,0 +1,4 @@
+minecraft:dig/wet_grass1
+minecraft:dig/wet_grass2
+minecraft:dig/wet_grass3
+minecraft:dig/wet_grass4

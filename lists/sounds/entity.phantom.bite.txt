@@ -1,0 +1,2 @@
+minecraft:mob/phantom/bite1
+minecraft:mob/phantom/bite2

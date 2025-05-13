@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "mob/dolphin/idle1",
+    "mob/dolphin/idle2",
+    "mob/dolphin/idle3",
+    "mob/dolphin/idle4",
+    "mob/dolphin/idle5",
+    "mob/dolphin/idle6",
+    "mob/dolphin/blowhole1",
+    "mob/dolphin/blowhole2"
+  ],
+  "subtitle": "subtitles.entity.dolphin.ambient"
+}

@@ -1,0 +1,27 @@
+{
+  "sounds": [
+    {
+      "name": "mob/dolphin/idle_water1",
+      "volume": 0.8
+    },
+    "mob/dolphin/idle_water2",
+    "mob/dolphin/idle_water3",
+    "mob/dolphin/idle_water4",
+    "mob/dolphin/idle_water5",
+    "mob/dolphin/idle_water6",
+    {
+      "name": "mob/dolphin/idle_water7",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/dolphin/idle_water8",
+      "volume": 0.75
+    },
+    "mob/dolphin/idle_water9",
+    {
+      "name": "mob/dolphin/idle_water10",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.dolphin.ambient_water"
+}

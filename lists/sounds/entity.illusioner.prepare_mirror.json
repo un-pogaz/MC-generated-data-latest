@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/illusion_illager/prepare_mirror"
+  ],
+  "subtitles": "subtitles.entity.illusioner.prepare_mirror"
+}

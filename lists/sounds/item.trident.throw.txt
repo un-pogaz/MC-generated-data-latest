@@ -1,0 +1,2 @@
+minecraft:item/trident/throw1
+minecraft:item/trident/throw2

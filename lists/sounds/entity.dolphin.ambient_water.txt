@@ -1,0 +1,10 @@
+minecraft:mob/dolphin/idle_water1
+minecraft:mob/dolphin/idle_water2
+minecraft:mob/dolphin/idle_water3
+minecraft:mob/dolphin/idle_water4
+minecraft:mob/dolphin/idle_water5
+minecraft:mob/dolphin/idle_water6
+minecraft:mob/dolphin/idle_water7
+minecraft:mob/dolphin/idle_water8
+minecraft:mob/dolphin/idle_water9
+minecraft:mob/dolphin/idle_water10

@@ -1,10 +1,10 @@
 {
   "sounds": [
     {
-      "type": "event",
       "name": "entity.zombie_villager.ambient",
-      "volume": 0.6,
-      "pitch": 1.8
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.6
     }
   ],
   "subtitle": "subtitles.entity.parrot.imitate.zombie_villager"

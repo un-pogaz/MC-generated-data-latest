@@ -1,1 +1,0 @@
-minecraft:entity.vindication_illager.ambient

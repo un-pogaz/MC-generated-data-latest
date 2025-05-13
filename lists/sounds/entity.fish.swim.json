@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "entity/fish/swim1",
+    "entity/fish/swim2",
+    "entity/fish/swim3",
+    "entity/fish/swim4",
+    "entity/fish/swim5",
+    "entity/fish/swim6",
+    "entity/fish/swim7"
+  ]
+}

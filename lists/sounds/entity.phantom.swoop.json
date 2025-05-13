@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/phantom/swoop1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/phantom/swoop2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/phantom/swoop3",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/phantom/swoop4",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.phantom.swoop"
+}

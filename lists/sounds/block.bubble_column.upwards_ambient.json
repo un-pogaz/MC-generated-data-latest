@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/bubble_column/upwards_ambient1",
+      "volume": 0.6
+    },
+    {
+      "name": "block/bubble_column/upwards_ambient2",
+      "volume": 0.6
+    },
+    {
+      "name": "block/bubble_column/upwards_ambient3",
+      "volume": 0.6
+    },
+    {
+      "name": "block/bubble_column/upwards_ambient4",
+      "volume": 0.6
+    },
+    {
+      "name": "block/bubble_column/upwards_ambient5",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.block.bubble_column.upwards_ambient"
+}

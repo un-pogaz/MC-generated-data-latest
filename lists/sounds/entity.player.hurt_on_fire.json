@@ -1,16 +1,7 @@
 {
   "sounds": [
-    {
-      "name": "entity/player/hurt/fire_hurt1",
-      "volume": 1.0
-    },
-    {
-      "name": "entity/player/hurt/fire_hurt2",
-      "volume": 1.0
-    },
-    {
-      "name": "entity/player/hurt/fire_hurt3",
-      "volume": 1.0
-    }
+    "entity/player/hurt/fire_hurt1",
+    "entity/player/hurt/fire_hurt2",
+    "entity/player/hurt/fire_hurt3"
   ]
 }

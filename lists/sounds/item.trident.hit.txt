@@ -1,0 +1,3 @@
+minecraft:item/trident/pierce1
+minecraft:item/trident/pierce2
+minecraft:item/trident/pierce3

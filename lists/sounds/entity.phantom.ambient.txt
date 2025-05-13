@@ -1,0 +1,5 @@
+minecraft:mob/phantom/idle1
+minecraft:mob/phantom/idle2
+minecraft:mob/phantom/idle3
+minecraft:mob/phantom/idle4
+minecraft:mob/phantom/idle5

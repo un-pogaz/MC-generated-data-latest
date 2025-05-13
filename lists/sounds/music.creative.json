@@ -1,8 +1,8 @@
 {
   "sounds": [
     {
-      "type": "event",
-      "name": "music.game"
+      "name": "music.game",
+      "type": "event"
     },
     {
       "name": "music/game/creative/creative1",

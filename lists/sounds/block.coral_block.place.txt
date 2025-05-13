@@ -1,0 +1,4 @@
+minecraft:dig/coral1
+minecraft:dig/coral2
+minecraft:dig/coral3
+minecraft:dig/coral4

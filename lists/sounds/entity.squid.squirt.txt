@@ -1,0 +1,3 @@
+minecraft:entity/squid/squirt1
+minecraft:entity/squid/squirt2
+minecraft:entity/squid/squirt3

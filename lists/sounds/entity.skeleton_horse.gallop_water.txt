@@ -1,0 +1,4 @@
+minecraft:mob/horse/skeleton/water/gallop1
+minecraft:mob/horse/skeleton/water/gallop2
+minecraft:mob/horse/skeleton/water/gallop3
+minecraft:mob/horse/skeleton/water/gallop4

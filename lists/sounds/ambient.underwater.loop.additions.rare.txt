@@ -1,0 +1,8 @@
+minecraft:ambient/underwater/additions/animal1
+minecraft:ambient/underwater/additions/bass_whale1
+minecraft:ambient/underwater/additions/bass_whale2
+minecraft:ambient/underwater/additions/earth_crack
+minecraft:ambient/underwater/additions/crackles1
+minecraft:ambient/underwater/additions/crackles2
+minecraft:ambient/underwater/additions/driplets1
+minecraft:ambient/underwater/additions/driplets2

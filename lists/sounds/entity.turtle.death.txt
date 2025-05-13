@@ -1,0 +1,3 @@
+minecraft:mob/turtle/death1
+minecraft:mob/turtle/death2
+minecraft:mob/turtle/death3

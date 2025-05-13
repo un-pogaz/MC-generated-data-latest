@@ -39,6 +39,11 @@
     "name": "Brezhoneg",
     "bidirectional": false
   },
+  "brb": {
+    "region": "Nederland",
+    "name": "Braobans",
+    "bidirectional": false
+  },
   "bs_ba": {
     "region": "Bosna i Hercegovina",
     "name": "Bosanski",
@@ -62,11 +67,6 @@
   "da_dk": {
     "region": "Danmark",
     "name": "Dansk",
-    "bidirectional": false
-  },
-  "de_alg": {
-    "region": "Allgai",
-    "name": "Oschtallgaierisch",
     "bidirectional": false
   },
   "de_at": {
@@ -119,7 +119,12 @@
     "name": "ɥsᴉꞁᵷuƎ",
     "bidirectional": false
   },
-  "en_ws": {
+  "enp": {
+    "region": "Worldwide",
+    "name": "Anglish",
+    "bidirectional": false
+  },
+  "enws": {
     "region": "Kingdom of England",
     "name": "Shakespearean English",
     "bidirectional": false
@@ -309,7 +314,7 @@
     "name": "한국어",
     "bidirectional": false
   },
-  "ksh_de": {
+  "ksh": {
     "region": "Rhingland",
     "name": "Kölsch/Ripoarisch",
     "bidirectional": false
@@ -409,6 +414,11 @@
     "name": "Ojibwemowin",
     "bidirectional": false
   },
+  "ovd": {
+    "region": "Swerre",
+    "name": "Övdalsk",
+    "bidirectional": false
+  },
   "pl_pl": {
     "region": "Polska",
     "name": "Polski",
@@ -472,6 +482,21 @@
   "sv_se": {
     "region": "Sverige",
     "name": "Svenska",
+    "bidirectional": false
+  },
+  "swg": {
+    "region": "Allgai",
+    "name": "Oschtallgaierisch",
+    "bidirectional": false
+  },
+  "sxu": {
+    "region": "Saggsn",
+    "name": "Säggs'sch",
+    "bidirectional": false
+  },
+  "szl": {
+    "region": "Gōrny Ślōnsk",
+    "name": "Ślōnskŏ gŏdka",
     "bidirectional": false
   },
   "ta_in": {

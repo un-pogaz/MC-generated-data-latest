@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/turtle/walk1",
+    "mob/turtle/walk2",
+    "mob/turtle/walk3",
+    "mob/turtle/walk4",
+    "mob/turtle/walk5"
+  ],
+  "subtitles": "subtitles.turtle.shamble"
+}

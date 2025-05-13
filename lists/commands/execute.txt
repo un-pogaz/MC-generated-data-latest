@@ -1,6 +1,9 @@
 execute align <axes minecraft:swizzle> >>redirect{execute}
+execute anchored <anchor minecraft:entity_anchor> >>redirect{execute}
 execute as <targets minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
 execute at <targets minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
+execute facing entity <targets minecraft:entity[amount="multiple", type="entities"]> <anchor minecraft:entity_anchor> >>redirect{execute}
+execute facing <pos minecraft:vec3> >>redirect{execute}
 execute if block <pos minecraft:block_pos> <block minecraft:block_predicate>
 execute if block <pos minecraft:block_pos> <block minecraft:block_predicate> >>redirect{execute}
 execute if blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> all
@@ -19,7 +22,15 @@ execute if score <target minecraft:score_holder[amount="single"]> <targetObjecti
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> > <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
-execute offset <pos minecraft:vec3> >>redirect{execute}
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:range[decimals="False"]>
+execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:range[decimals="False"]> >>redirect{execute}
+execute in overworld >>redirect{execute}
+execute in the_end >>redirect{execute}
+execute in the_nether >>redirect{execute}
+execute positioned as <entities minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
+execute positioned <pos minecraft:vec3> >>redirect{execute}
+execute rotated as <entities minecraft:entity[amount="multiple", type="entities"]> >>redirect{execute}
+execute rotated <rot minecraft:rotation> >>redirect{execute}
 execute run >>redirect{*}
 execute store result block <pos minecraft:block_pos> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
 execute store result block <pos minecraft:block_pos> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
@@ -65,3 +76,5 @@ execute unless score <target minecraft:score_holder[amount="single"]> <targetObj
 execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> > <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
 execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
 execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> >= <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective> >>redirect{execute}
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:range[decimals="False"]>
+execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:range[decimals="False"]> >>redirect{execute}

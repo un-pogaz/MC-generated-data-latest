@@ -1,10 +1,10 @@
 {
   "sounds": [
     {
-      "type": "event",
       "name": "entity.wither.ambient",
-      "volume": 0.2,
-      "pitch": 1.8
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.2
     }
   ],
   "subtitle": "subtitles.entity.parrot.imitate.wither"

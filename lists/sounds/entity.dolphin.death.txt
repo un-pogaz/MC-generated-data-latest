@@ -1,0 +1,2 @@
+minecraft:mob/dolphin/death1
+minecraft:mob/dolphin/death2

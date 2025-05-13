@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "name": "mob/horse/skeleton/water/jump",
+      "volume": 0.8
+    }
+  ]
+}

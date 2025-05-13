@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.ender_dragon.ambient",
+      "pitch": 1.8,
+      "type": "event",
+      "volume": 0.2
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.ender_dragon"
+}

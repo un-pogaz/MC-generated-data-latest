@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 8,
+      "name": "block/conduit/ambient"
+    }
+  ]
+}

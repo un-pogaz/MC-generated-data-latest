@@ -1,0 +1,28 @@
+{
+  "sounds": [
+    {
+      "name": "mob/horse/skeleton/water/soft1",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/horse/skeleton/water/soft2",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/horse/skeleton/water/soft3",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/horse/skeleton/water/soft4",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/horse/skeleton/water/soft5",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/horse/skeleton/water/soft6",
+      "volume": 0.6
+    }
+  ]
+}

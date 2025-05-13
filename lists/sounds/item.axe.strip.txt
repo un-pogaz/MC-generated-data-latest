@@ -1,0 +1,8 @@
+minecraft:item/axe/strip1
+minecraft:item/axe/strip2
+minecraft:item/axe/strip3
+minecraft:item/axe/strip4
+minecraft:item/axe/strip1
+minecraft:item/axe/strip2
+minecraft:item/axe/strip3
+minecraft:item/axe/strip4

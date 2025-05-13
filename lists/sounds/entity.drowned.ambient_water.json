@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "mob/drowned/water/idle1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/drowned/water/idle2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/drowned/water/idle3",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/drowned/water/idle4",
+      "volume": 0.9
+    }
+  ]
+}
