@@ -1,0 +1,2 @@
+minecraft:grass_block
+minecraft:podzol

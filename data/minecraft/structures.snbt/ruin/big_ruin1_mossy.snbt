@@ -1393,6 +1393,31 @@
       state: 7
     },
     {
+      nbt: {
+        metadata: "drowned",
+        mirror: "NONE",
+        ignoreEntities: 1b,
+        powered: 0b,
+        seed: 0L,
+        author: "LadyAgnes",
+        rotation: "NONE",
+        mode: "DATA",
+        posX: 0,
+        posY: 1,
+        sizeX: 0,
+        integrity: 1.0f,
+        posZ: 0,
+        showair: 0b,
+        name: "",
+        id: "minecraft:structure_block",
+        sizeY: 0,
+        showboundingbox: 1b,
+        sizeZ: 0
+      },
+      pos: [6, 1, 8],
+      state: 7
+    },
+    {
       pos: [0, 0, 0],
       state: 8
     },
@@ -8917,10 +8942,6 @@
       state: 8
     },
     {
-      pos: [6, 1, 8],
-      state: 8
-    },
-    {
       pos: [7, 1, 8],
       state: 8
     },
@@ -16441,5 +16462,5 @@
       Name: "minecraft:air"
     }
   ],
-  DataVersion: 1469
+  DataVersion: 1482
 }
