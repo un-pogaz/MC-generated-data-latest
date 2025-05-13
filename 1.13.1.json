@@ -1,0 +1,13 @@
+{
+  "id": "1.13.1",
+  "type": "release",
+  "time": "2018-08-22T14:03:42+00:00",
+  "releaseTime": "2018-08-22T14:03:42+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/85c39d0f9d94a4777a9b401deb08cf07f55dfe39/1.13.1.json",
+  "assets": "1.13.1",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/6d78d53da5ac7158e2f725056312edf9871dfbb1/1.13.1.json",
+  "client": "https://launcher.mojang.com/v1/objects/8de235e5ec3a7fce168056ea395d21cbdec18d7c/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/fe123682e9cb30031eae351764f653500b7396c9/server.jar",
+  "server_mappings": null
+}
