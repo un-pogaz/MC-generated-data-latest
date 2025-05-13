@@ -38,6 +38,8 @@ execute store result block <pos minecraft:block_pos> <path minecraft:nbt_path> f
 execute store result block <pos minecraft:block_pos> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
 execute store result block <pos minecraft:block_pos> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
 execute store result block <pos minecraft:block_pos> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute store result bossbar <id minecraft:resource_location> max >>redirect{execute}
+execute store result bossbar <id minecraft:resource_location> value >>redirect{execute}
 execute store result entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
 execute store result entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
 execute store result entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path> float <scale brigadier:double> >>redirect{execute}
@@ -51,6 +53,8 @@ execute store success block <pos minecraft:block_pos> <path minecraft:nbt_path> 
 execute store success block <pos minecraft:block_pos> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
 execute store success block <pos minecraft:block_pos> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
 execute store success block <pos minecraft:block_pos> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute store success bossbar <id minecraft:resource_location> max >>redirect{execute}
+execute store success bossbar <id minecraft:resource_location> value >>redirect{execute}
 execute store success entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path> byte <scale brigadier:double> >>redirect{execute}
 execute store success entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path> double <scale brigadier:double> >>redirect{execute}
 execute store success entity <target minecraft:entity[amount="single", type="entities"]> <path minecraft:nbt_path> float <scale brigadier:double> >>redirect{execute}
