@@ -685,17 +685,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player619",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [5, 1, 1],
@@ -1592,10 +1595,7 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
       Name: "minecraft:cobblestone"
@@ -1610,5 +1610,5 @@
       Name: "minecraft:air"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

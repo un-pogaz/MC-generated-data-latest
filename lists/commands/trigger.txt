@@ -1,0 +1,3 @@
+trigger <objective minecraft:objective>
+trigger <objective minecraft:objective> add <value brigadier:integer>
+trigger <objective minecraft:objective> set <value brigadier:integer>

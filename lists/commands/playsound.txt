@@ -1,0 +1,50 @@
+playsound <sound minecraft:resource_location> ambient <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> ambient <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> ambient <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> ambient <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> ambient <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> block <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> block <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> block <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> block <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> block <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> hostile <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> hostile <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> hostile <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> hostile <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> hostile <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> master <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> master <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> master <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> master <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> master <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> music <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> music <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> music <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> music <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> music <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> neutral <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> neutral <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> neutral <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> neutral <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> neutral <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> player <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> player <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> player <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> player <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> player <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> record <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> record <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> record <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> record <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> record <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> voice <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> voice <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> voice <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> voice <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> voice <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>
+playsound <sound minecraft:resource_location> weather <targets minecraft:entity[amount="multiple", type="players"]>
+playsound <sound minecraft:resource_location> weather <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3>
+playsound <sound minecraft:resource_location> weather <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]>
+playsound <sound minecraft:resource_location> weather <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]>
+playsound <sound minecraft:resource_location> weather <targets minecraft:entity[amount="multiple", type="players"]> <pos minecraft:vec3> <volume brigadier:float[min="0.0"]> <pitch brigadier:float[min="0.0", max="2.0"]> <minVolume brigadier:float[min="0.0", max="1.0"]>

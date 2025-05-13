@@ -1,0 +1,4 @@
+check_decay=true,decayable=true  [default]
+check_decay=true,decayable=false
+check_decay=false,decayable=true
+check_decay=false,decayable=false

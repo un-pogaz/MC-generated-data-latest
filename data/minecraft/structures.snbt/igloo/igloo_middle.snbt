@@ -66,10 +66,7 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "stonebrick"
-      },
-      Name: "minecraft:stonebrick"
+      Name: "minecraft:stone_bricks"
     },
     {
       Properties: {
@@ -78,5 +75,5 @@
       Name: "minecraft:ladder"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

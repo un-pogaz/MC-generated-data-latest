@@ -1,0 +1,24 @@
+team add <team brigadier:string[type="word"]>
+team add <team brigadier:string[type="word"]> <displayName brigadier:string[type="greedy"]>
+team empty <team minecraft:team>
+team join <team minecraft:team>
+team join <team minecraft:team> <members minecraft:score_holder[amount="multiple"]>
+team leave <members minecraft:score_holder[amount="multiple"]>
+team list
+team list <team minecraft:team>
+team option <team minecraft:team> collisionRule always
+team option <team minecraft:team> collisionRule never
+team option <team minecraft:team> collisionRule pushOtherTeams
+team option <team minecraft:team> collisionRule pushOwnTeam
+team option <team minecraft:team> color <value minecraft:color>
+team option <team minecraft:team> deathMessageVisibility always
+team option <team minecraft:team> deathMessageVisibility hideForOtherTeams
+team option <team minecraft:team> deathMessageVisibility hideForOwnTeam
+team option <team minecraft:team> deathMessageVisibility never
+team option <team minecraft:team> friendlyfire <allowed brigadier:bool>
+team option <team minecraft:team> nametagVisibility always
+team option <team minecraft:team> nametagVisibility hideForOtherTeams
+team option <team minecraft:team> nametagVisibility hideForOwnTeam
+team option <team minecraft:team> nametagVisibility never
+team option <team minecraft:team> seeFriendlyInvisibles <allowed brigadier:bool>
+team remove <team minecraft:team>

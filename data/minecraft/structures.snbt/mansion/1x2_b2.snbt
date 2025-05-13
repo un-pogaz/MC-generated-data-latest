@@ -1289,17 +1289,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player855",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [5, 1, 11],
@@ -2611,7 +2614,7 @@
     },
     {
       pos: [1, 1, 11],
-      state: 15
+      state: 16
     },
     {
       pos: [2, 1, 11],
@@ -2799,7 +2802,7 @@
     },
     {
       pos: [1, 1, 12],
-      state: 15
+      state: 16
     },
     {
       pos: [2, 1, 12],
@@ -2991,11 +2994,11 @@
     },
     {
       pos: [0, 1, 13],
-      state: 16
+      state: 17
     },
     {
       pos: [1, 1, 13],
-      state: 16
+      state: 18
     },
     {
       pos: [2, 1, 13],
@@ -3384,19 +3387,13 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
       Name: "minecraft:cobblestone"
     },
     {
-      Properties: {
-        variant: "oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:oak_planks"
     },
     {
       Properties: {
@@ -3408,18 +3405,15 @@
       Name: "minecraft:air"
     },
     {
-      Properties: {
-        color: "brown"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:brown_carpet"
     },
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
@@ -3442,7 +3436,7 @@
         hinge: "right",
         half: "upper",
         powered: "false",
-        facing: "east",
+        facing: "north",
         open: "false"
       },
       Name: "minecraft:iron_door"
@@ -3451,22 +3445,21 @@
       Properties: {
         east: "false",
         south: "false",
-        north: "false",
-        variant: "cobblestone",
+        north: "true",
         west: "false",
-        up: "false"
+        up: "true"
       },
       Name: "minecraft:cobblestone_wall"
     },
     {
       Properties: {
-        half: "bottom",
-        variant: "cobblestone"
+        type: "bottom"
       },
-      Name: "minecraft:stone_slab"
+      Name: "minecraft:cobblestone_slab"
     },
     {
       Properties: {
+        face: "wall",
         powered: "false",
         facing: "south"
       },
@@ -3475,7 +3468,7 @@
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "north"
       },
       Name: "minecraft:oak_stairs"
@@ -3483,7 +3476,7 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "south"
       },
       Name: "minecraft:oak_stairs"
@@ -3491,7 +3484,7 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "outer_left",
         facing: "west"
       },
       Name: "minecraft:oak_stairs"
@@ -3499,11 +3492,27 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
+        facing: "west"
+      },
+      Name: "minecraft:oak_stairs"
+    },
+    {
+      Properties: {
+        half: "top",
+        shape: "straight",
+        facing: "north"
+      },
+      Name: "minecraft:oak_stairs"
+    },
+    {
+      Properties: {
+        half: "top",
+        shape: "outer_left",
         facing: "north"
       },
       Name: "minecraft:oak_stairs"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

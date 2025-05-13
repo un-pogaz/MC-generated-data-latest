@@ -1,0 +1,4 @@
+clear
+clear <targets minecraft:entity[amount="multiple", type="players"]>
+clear <targets minecraft:entity[amount="multiple", type="players"]> <item minecraft:item_predicate>
+clear <targets minecraft:entity[amount="multiple", type="players"]> <item minecraft:item_predicate> <maxCount brigadier:integer[min="0"]>

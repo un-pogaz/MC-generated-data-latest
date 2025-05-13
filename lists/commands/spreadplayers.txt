@@ -1,0 +1,1 @@
+spreadplayers <center minecraft:vec2> <spreadDistance brigadier:float[min="0.0"]> <maxRange brigadier:float[min="1.0"]> <respectTeams brigadier:bool> <targets minecraft:entity[amount="multiple", type="entities"]>

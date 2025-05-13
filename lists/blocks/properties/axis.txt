@@ -1,0 +1,11 @@
+minecraft:acacia_log
+minecraft:birch_log
+minecraft:bone_block
+minecraft:dark_oak_log
+minecraft:hay_block
+minecraft:jungle_log
+minecraft:oak_log
+minecraft:portal
+minecraft:purpur_pillar
+minecraft:quartz_pillar
+minecraft:spruce_log

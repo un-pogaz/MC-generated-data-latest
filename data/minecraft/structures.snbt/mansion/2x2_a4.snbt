@@ -7206,54 +7206,40 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        variant: "smooth_andesite"
-      },
-      Name: "minecraft:stone"
+      Name: "minecraft:polished_andesite"
     },
     {
       Properties: {
         check_decay: "false",
-        decayable: "false",
-        variant: "dark_oak"
+        decayable: "false"
       },
-      Name: "minecraft:leaves2"
+      Name: "minecraft:dark_oak_leaves"
     },
     {
-      Properties: {
-        variant: "dirt",
-        snowy: "false"
-      },
       Name: "minecraft:dirt"
     },
     {
       Properties: {
-        variant: "dark_oak",
         axis: "y"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
       Properties: {
         check_decay: "true",
-        decayable: "false",
-        variant: "dark_oak"
+        decayable: "false"
       },
-      Name: "minecraft:leaves2"
+      Name: "minecraft:dark_oak_leaves"
     },
     {
       Name: "minecraft:air"
     },
     {
       Properties: {
-        half: "bottom",
-        variant: "stone"
+        type: "bottom"
       },
       Name: "minecraft:stone_slab"
     },
@@ -7306,5 +7292,5 @@
       Name: "minecraft:water"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

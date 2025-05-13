@@ -1,0 +1,10 @@
+shape=north_south  [default]
+shape=east_west
+shape=ascending_east
+shape=ascending_west
+shape=ascending_north
+shape=ascending_south
+shape=south_east
+shape=south_west
+shape=north_west
+shape=north_east

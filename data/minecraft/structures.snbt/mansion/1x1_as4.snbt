@@ -1574,14 +1574,11 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
       Name: "minecraft:air"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "lit": [
+      "true",
+      "false"
+    ]
+  }
+}

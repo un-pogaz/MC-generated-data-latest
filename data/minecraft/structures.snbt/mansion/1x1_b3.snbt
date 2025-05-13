@@ -2137,7 +2137,7 @@
     },
     {
       pos: [1, 10, 6],
-      state: 11
+      state: 12
     },
     {
       pos: [2, 10, 6],
@@ -2162,56 +2162,41 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:white_wool"
     },
     {
-      Properties: {
-        color: "red"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:red_wool"
     },
     {
       Name: "minecraft:cobblestone"
     },
     {
-      Properties: {
-        variant: "oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:oak_planks"
     },
     {
       Properties: {
         check_decay: "true",
-        decayable: "false",
-        variant: "dark_oak"
+        decayable: "false"
       },
-      Name: "minecraft:leaves2"
+      Name: "minecraft:dark_oak_leaves"
     },
     {
       Properties: {
-        half: "bottom",
-        variant: "oak"
+        type: "bottom"
       },
-      Name: "minecraft:wooden_slab"
+      Name: "minecraft:oak_slab"
     },
     {
       Name: "minecraft:air"
     },
     {
       Properties: {
-        half: "bottom",
-        variant: "cobblestone"
+        type: "bottom"
       },
-      Name: "minecraft:stone_slab"
+      Name: "minecraft:cobblestone_slab"
     },
     {
       Properties: {
@@ -2228,7 +2213,15 @@
         shape: "straight",
         facing: "south"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
+    },
+    {
+      Properties: {
+        half: "top",
+        shape: "outer_left",
+        facing: "west"
+      },
+      Name: "minecraft:cobblestone_stairs"
     },
     {
       Properties: {
@@ -2236,8 +2229,8 @@
         shape: "straight",
         facing: "west"
       },
-      Name: "minecraft:stone_stairs"
+      Name: "minecraft:cobblestone_stairs"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

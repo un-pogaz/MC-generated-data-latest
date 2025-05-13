@@ -7206,52 +7206,28 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        color: "silver"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:light_gray_wool"
     },
     {
-      Properties: {
-        color: "black"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:black_wool"
     },
     {
-      Properties: {
-        color: "yellow"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:yellow_wool"
     },
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:white_wool"
     },
     {
-      Properties: {
-        color: "green"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:green_wool"
     },
     {
-      Properties: {
-        color: "gray"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:gray_wool"
     },
     {
-      Properties: {
-        color: "brown"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:brown_wool"
     },
     {
       Name: "minecraft:lapis_block"
@@ -7260,5 +7236,5 @@
       Name: "minecraft:air"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

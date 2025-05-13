@@ -629,11 +629,11 @@
     },
     {
       pos: [6, 4, 2],
-      state: 5
+      state: 6
     },
     {
       pos: [2, 5, 2],
-      state: 6
+      state: 7
     },
     {
       pos: [3, 5, 2],
@@ -649,7 +649,7 @@
     },
     {
       pos: [6, 5, 2],
-      state: 6
+      state: 7
     },
     {
       pos: [2, 6, 2],
@@ -694,35 +694,32 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
-      Properties: {
-        color: "red"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:red_carpet"
     },
     {
       Name: "minecraft:air"
     },
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:carpet"
+      Name: "minecraft:white_carpet"
     },
     {
       Properties: {
         east: "false",
+        south: "false",
+        north: "false",
+        west: "true"
+      },
+      Name: "minecraft:dark_oak_fence"
+    },
+    {
+      Properties: {
+        east: "true",
         south: "false",
         north: "false",
         west: "false"
@@ -730,11 +727,8 @@
       Name: "minecraft:dark_oak_fence"
     },
     {
-      Properties: {
-        facing: "up"
-      },
       Name: "minecraft:torch"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

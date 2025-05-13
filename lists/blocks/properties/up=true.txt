@@ -1,0 +1,8 @@
+minecraft:brown_mushroom_block
+minecraft:chorus_plant
+minecraft:cobblestone_wall
+minecraft:fire
+minecraft:mossy_cobblestone_wall
+minecraft:mushroom_stem
+minecraft:red_mushroom_block
+minecraft:vine

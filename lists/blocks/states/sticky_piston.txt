@@ -1,0 +1,12 @@
+extended=true,facing=north
+extended=true,facing=east
+extended=true,facing=south
+extended=true,facing=west
+extended=true,facing=up
+extended=true,facing=down
+extended=false,facing=north  [default]
+extended=false,facing=east
+extended=false,facing=south
+extended=false,facing=west
+extended=false,facing=up
+extended=false,facing=down

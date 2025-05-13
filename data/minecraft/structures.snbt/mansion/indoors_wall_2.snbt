@@ -358,24 +358,17 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
+    },
+    {
+      Name: "minecraft:dark_oak_planks"
     },
     {
       Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
-    },
-    {
-      Properties: {
-        variant: "dark_oak",
         axis: "x"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

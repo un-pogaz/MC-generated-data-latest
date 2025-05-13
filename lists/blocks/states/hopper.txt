@@ -1,0 +1,10 @@
+enabled=true,facing=down  [default]
+enabled=true,facing=north
+enabled=true,facing=south
+enabled=true,facing=west
+enabled=true,facing=east
+enabled=false,facing=down
+enabled=false,facing=north
+enabled=false,facing=south
+enabled=false,facing=west
+enabled=false,facing=east

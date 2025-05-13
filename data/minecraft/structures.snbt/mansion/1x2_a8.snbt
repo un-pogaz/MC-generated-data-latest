@@ -1093,17 +1093,20 @@
         mirror: "NONE",
         ignoreEntities: 1b,
         powered: 0b,
+        seed: 0L,
         author: "Player855",
         rotation: "NONE",
         mode: "DATA",
         posX: 0,
         posY: 1,
         sizeX: 0,
+        integrity: 1.0f,
         posZ: 0,
         showair: 0b,
         name: "",
-        id: "Structure",
+        id: "minecraft:structure_block",
         sizeY: 0,
+        showboundingbox: 0b,
         sizeZ: 0
       },
       pos: [2, 1, 2],
@@ -3384,56 +3387,37 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
       Properties: {
-        variant: "dark_oak",
         axis: "y"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
       Properties: {
-        variant: "dark_oak",
         axis: "x"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
       Properties: {
-        variant: "dark_oak",
         axis: "z"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
-      Properties: {
-        variant: "dirt",
-        snowy: "false"
-      },
       Name: "minecraft:dirt"
     },
     {
-      Properties: {
-        variant: "oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:oak_planks"
     },
     {
-      Properties: {
-        facing: "north"
-      },
       Name: "minecraft:pumpkin"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
       Name: "minecraft:melon_block"
@@ -3449,10 +3433,9 @@
     },
     {
       Properties: {
-        half: "bottom",
-        variant: "oak"
+        type: "bottom"
       },
-      Name: "minecraft:wooden_slab"
+      Name: "minecraft:oak_slab"
     },
     {
       Properties: {
@@ -3468,33 +3451,28 @@
     },
     {
       Properties: {
-        facing: "east",
         age: "7"
       },
       Name: "minecraft:pumpkin_stem"
     },
     {
       Properties: {
-        facing: "east",
         age: "7"
       },
       Name: "minecraft:melon_stem"
     },
     {
       Properties: {
-        east: "false",
+        east: "true",
         south: "false",
         north: "false",
         west: "false"
       },
-      Name: "minecraft:fence"
+      Name: "minecraft:oak_fence"
     },
     {
-      Properties: {
-        facing: "up"
-      },
       Name: "minecraft:torch"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

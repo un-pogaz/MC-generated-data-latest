@@ -1,0 +1,12 @@
+{
+  "properties": {
+    "check_decay": [
+      "true",
+      "false"
+    ],
+    "decayable": [
+      "true",
+      "false"
+    ]
+  }
+}

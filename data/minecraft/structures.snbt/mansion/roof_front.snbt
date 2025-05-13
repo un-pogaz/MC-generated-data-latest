@@ -513,10 +513,7 @@
       Name: "minecraft:cobblestone"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
       Name: "minecraft:air"
@@ -524,7 +521,7 @@
     {
       Properties: {
         half: "bottom",
-        shape: "outer_right",
+        shape: "straight",
         facing: "west"
       },
       Name: "minecraft:dark_oak_stairs"
@@ -532,11 +529,11 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "east"
       },
       Name: "minecraft:dark_oak_stairs"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

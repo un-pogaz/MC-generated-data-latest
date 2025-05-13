@@ -358,23 +358,16 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
+    },
+    {
+      Name: "minecraft:dark_oak_planks"
     },
     {
       Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
-    },
-    {
-      Properties: {
-        variant: "dark_oak",
         axis: "x"
       },
-      Name: "minecraft:log2"
+      Name: "minecraft:dark_oak_log"
     },
     {
       Name: "minecraft:air"
@@ -382,7 +375,7 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "north"
       },
       Name: "minecraft:dark_oak_stairs"
@@ -390,11 +383,11 @@
     {
       Properties: {
         half: "top",
-        shape: "outer_right",
+        shape: "straight",
         facing: "south"
       },
       Name: "minecraft:dark_oak_stairs"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }

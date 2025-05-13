@@ -1,0 +1,37 @@
+{
+  "type": "literal",
+  "children": {
+    "EndCity": {
+      "type": "literal",
+      "executable": true
+    },
+    "Fortress": {
+      "type": "literal",
+      "executable": true
+    },
+    "Mansion": {
+      "type": "literal",
+      "executable": true
+    },
+    "Mineshaft": {
+      "type": "literal",
+      "executable": true
+    },
+    "Monument": {
+      "type": "literal",
+      "executable": true
+    },
+    "Stronghold": {
+      "type": "literal",
+      "executable": true
+    },
+    "Temple": {
+      "type": "literal",
+      "executable": true
+    },
+    "Village": {
+      "type": "literal",
+      "executable": true
+    }
+  }
+}

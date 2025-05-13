@@ -1,0 +1,12 @@
+minecraft:beetroots
+minecraft:cactus
+minecraft:carrots
+minecraft:chorus_flower
+minecraft:fire
+minecraft:frosted_ice
+minecraft:melon_stem
+minecraft:nether_wart
+minecraft:potatoes
+minecraft:pumpkin_stem
+minecraft:sugar_cane
+minecraft:wheat

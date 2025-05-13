@@ -1,0 +1,7 @@
+fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state>
+fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state> destroy
+fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state> hollow
+fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state> keep
+fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state> outline
+fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state> replace
+fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state> replace <filter minecraft:block_predicate>

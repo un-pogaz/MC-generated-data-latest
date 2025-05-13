@@ -3366,50 +3366,29 @@
   ],
   palette: [
     {
-      Properties: {
-        variant: "birch"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:birch_planks"
     },
     {
-      Properties: {
-        variant: "dark_oak"
-      },
-      Name: "minecraft:planks"
+      Name: "minecraft:dark_oak_planks"
     },
     {
-      Properties: {
-        color: "silver"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:light_gray_wool"
     },
     {
-      Properties: {
-        color: "white"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:white_wool"
     },
     {
-      Properties: {
-        color: "green"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:green_wool"
     },
     {
-      Properties: {
-        color: "gray"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:gray_wool"
     },
     {
-      Properties: {
-        color: "black"
-      },
-      Name: "minecraft:wool"
+      Name: "minecraft:black_wool"
     },
     {
       Name: "minecraft:air"
     }
   ],
-  version: 1
+  DataVersion: 1457
 }
