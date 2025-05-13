@@ -8,9 +8,9 @@
     ],
     "facing": [
       "north",
-      "east",
       "south",
-      "west"
+      "west",
+      "east"
     ],
     "locked": [
       "true",

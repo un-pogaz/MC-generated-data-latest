@@ -2,9 +2,9 @@
   "properties": {
     "facing": [
       "north",
-      "east",
       "south",
-      "west"
+      "west",
+      "east"
     ],
     "mode": [
       "compare",

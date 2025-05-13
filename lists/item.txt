@@ -697,11 +697,17 @@ minecraft:stone_slab
 minecraft:stone_sword
 minecraft:stray_spawn_egg
 minecraft:string
+minecraft:stripped_acacia_bark
 minecraft:stripped_acacia_log
+minecraft:stripped_birch_bark
 minecraft:stripped_birch_log
+minecraft:stripped_dark_oak_bark
 minecraft:stripped_dark_oak_log
+minecraft:stripped_jungle_bark
 minecraft:stripped_jungle_log
+minecraft:stripped_oak_bark
 minecraft:stripped_oak_log
+minecraft:stripped_spruce_bark
 minecraft:stripped_spruce_log
 minecraft:structure_block
 minecraft:structure_void
