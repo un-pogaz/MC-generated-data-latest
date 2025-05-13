@@ -242,7 +242,16 @@
         "icon": "minecraft:lead",
         "title": "Best Friends Forever",
         "description": "Tame an animal",
-        "frame": "task"
+        "frame": "task",
+        "childs": {
+          "minecraft:husbandry/complete_catalogue": {
+            "icon": "minecraft:cod",
+            "title": "A Complete Catalogue",
+            "description": "Tame all cat variants!",
+            "frame": "challenge",
+            "rewards": "50 xp"
+          }
+        }
       }
     }
   },

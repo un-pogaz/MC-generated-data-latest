@@ -1,5 +1,7 @@
+minecraft:blast_furnace
 minecraft:furnace
 minecraft:redstone_lamp
 minecraft:redstone_ore
 minecraft:redstone_torch
 minecraft:redstone_wall_torch
+minecraft:smoker

@@ -20,12 +20,18 @@ minecraft:block/bamboo_singleleaf
 minecraft:block/bamboo_small_leaves
 minecraft:block/bamboo_stage0
 minecraft:block/bamboo_stalk
+minecraft:block/barrel_bottom
+minecraft:block/barrel_side
+minecraft:block/barrel_top
 minecraft:block/beacon
 minecraft:block/bedrock
 minecraft:block/beetroots_stage0
 minecraft:block/beetroots_stage1
 minecraft:block/beetroots_stage2
 minecraft:block/beetroots_stage3
+minecraft:block/bell_bottom
+minecraft:block/bell_side
+minecraft:block/bell_top
 minecraft:block/birch_door_bottom
 minecraft:block/birch_door_top
 minecraft:block/birch_leaves
@@ -42,6 +48,10 @@ minecraft:block/black_stained_glass
 minecraft:block/black_stained_glass_pane_top
 minecraft:block/black_terracotta
 minecraft:block/black_wool
+minecraft:block/blast_furnace_front
+minecraft:block/blast_furnace_front_on  [mcmeta]
+minecraft:block/blast_furnace_side
+minecraft:block/blast_furnace_top
 minecraft:block/blue_concrete
 minecraft:block/blue_concrete_powder
 minecraft:block/blue_glazed_terracotta
@@ -85,6 +95,9 @@ minecraft:block/carrots_stage0
 minecraft:block/carrots_stage1
 minecraft:block/carrots_stage2
 minecraft:block/carrots_stage3
+minecraft:block/cartography_table_front
+minecraft:block/cartography_table_side
+minecraft:block/cartography_table_top
 minecraft:block/carved_pumpkin
 minecraft:block/cauldron_bottom
 minecraft:block/cauldron_inner
@@ -209,6 +222,9 @@ minecraft:block/fire_1  [mcmeta]
 minecraft:block/fire_coral
 minecraft:block/fire_coral_block
 minecraft:block/fire_coral_fan
+minecraft:block/fletching_table_front
+minecraft:block/fletching_table_side
+minecraft:block/fletching_table_top
 minecraft:block/flower_pot
 minecraft:block/frosted_ice_0
 minecraft:block/frosted_ice_1
@@ -248,6 +264,9 @@ minecraft:block/green_stained_glass
 minecraft:block/green_stained_glass_pane_top
 minecraft:block/green_terracotta
 minecraft:block/green_wool
+minecraft:block/grindstone_pivot
+minecraft:block/grindstone_round
+minecraft:block/grindstone_side
 minecraft:block/hay_block_side
 minecraft:block/hay_block_top
 minecraft:block/hopper_inside
@@ -284,6 +303,14 @@ minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
 minecraft:block/lava_flow  [mcmeta]
 minecraft:block/lava_still  [mcmeta]
+minecraft:block/lectern
+minecraft:block/lectern_base_sides
+minecraft:block/lectern_base_top
+minecraft:block/lectern_bottom
+minecraft:block/lectern_front
+minecraft:block/lectern_sides
+minecraft:block/lectern_top
+minecraft:block/lectern_top_sides
 minecraft:block/lever
 minecraft:block/light_blue_concrete
 minecraft:block/light_blue_concrete_powder
@@ -463,6 +490,14 @@ minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
 minecraft:block/shulker_box
 minecraft:block/slime_block
+minecraft:block/smithing_table_front
+minecraft:block/smithing_table_side
+minecraft:block/smithing_table_top
+minecraft:block/smoker_bottom
+minecraft:block/smoker_front
+minecraft:block/smoker_front_on  [mcmeta]
+minecraft:block/smoker_side
+minecraft:block/smoker_top
 minecraft:block/smooth_stone
 minecraft:block/smooth_stone_slab_side
 minecraft:block/snow
@@ -479,6 +514,10 @@ minecraft:block/spruce_sapling
 minecraft:block/spruce_trapdoor
 minecraft:block/stone
 minecraft:block/stone_bricks
+minecraft:block/stonecutter_bottom
+minecraft:block/stonecutter_saw
+minecraft:block/stonecutter_side
+minecraft:block/stonecutter_top
 minecraft:block/stripped_acacia_log
 minecraft:block/stripped_acacia_log_top
 minecraft:block/stripped_birch_log
@@ -621,10 +660,18 @@ minecraft:entity/boat/dark_oak
 minecraft:entity/boat/jungle
 minecraft:entity/boat/oak
 minecraft:entity/boat/spruce
+minecraft:entity/cat/all_black
 minecraft:entity/cat/black
+minecraft:entity/cat/british_shorthair
+minecraft:entity/cat/calico
+minecraft:entity/cat/cat_collar
 minecraft:entity/cat/ocelot
+minecraft:entity/cat/persian
+minecraft:entity/cat/ragdoll
 minecraft:entity/cat/red
 minecraft:entity/cat/siamese
+minecraft:entity/cat/tabby
+minecraft:entity/cat/white
 minecraft:entity/chest/christmas
 minecraft:entity/chest/christmas_double
 minecraft:entity/chest/ender
@@ -1172,6 +1219,7 @@ minecraft:item/beef
 minecraft:item/beetroot
 minecraft:item/beetroot_seeds
 minecraft:item/beetroot_soup
+minecraft:item/bell
 minecraft:item/birch_boat
 minecraft:item/birch_door
 minecraft:item/birch_sign
