@@ -402,6 +402,7 @@ minecraft:iron_sword
 minecraft:iron_trapdoor
 minecraft:item_frame
 minecraft:jack_o_lantern
+minecraft:jigsaw
 minecraft:jukebox
 minecraft:jungle_boat
 minecraft:jungle_button
@@ -421,6 +422,7 @@ minecraft:jungle_wood
 minecraft:kelp
 minecraft:knowledge_book
 minecraft:ladder
+minecraft:lantern
 minecraft:lapis_block
 minecraft:lapis_lazuli
 minecraft:lapis_ore

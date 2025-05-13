@@ -277,6 +277,7 @@ minecraft:blocks/jungle_wood
 minecraft:blocks/kelp
 minecraft:blocks/kelp_plant
 minecraft:blocks/ladder
+minecraft:blocks/lantern
 minecraft:blocks/lapis_block
 minecraft:blocks/lapis_ore
 minecraft:blocks/large_fern

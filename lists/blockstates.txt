@@ -291,6 +291,7 @@ minecraft:iron_ore
 minecraft:iron_trapdoor
 minecraft:item_frame
 minecraft:jack_o_lantern
+minecraft:jigsaw
 minecraft:jukebox
 minecraft:jungle_button
 minecraft:jungle_door
@@ -310,6 +311,7 @@ minecraft:jungle_wood
 minecraft:kelp
 minecraft:kelp_plant
 minecraft:ladder
+minecraft:lantern
 minecraft:lapis_block
 minecraft:lapis_ore
 minecraft:large_fern
