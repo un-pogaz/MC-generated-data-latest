@@ -611,6 +611,7 @@ minecraft:entity/chest/trapped
 minecraft:entity/chest/trapped_double
 minecraft:entity/chicken
 minecraft:entity/conduit/base
+minecraft:entity/conduit/break_particle
 minecraft:entity/conduit/cage
 minecraft:entity/conduit/closed_eye
 minecraft:entity/conduit/open_eye
