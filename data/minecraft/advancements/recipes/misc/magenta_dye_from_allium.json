@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "magenta_dye_from_allium"
+        "recipe": "minecraft:magenta_dye_from_allium"
       }
     }
   },

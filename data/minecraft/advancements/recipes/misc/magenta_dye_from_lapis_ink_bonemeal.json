@@ -26,12 +26,6 @@
         ]
       }
     },
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "magenta_dye_from_lapis_ink_bonemeal"
-      }
-    },
     "has_black_dye": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -41,14 +35,20 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:magenta_dye_from_lapis_ink_bonemeal"
+      }
     }
   },
   "requirements": [
     [
       "has_lapis",
       "has_bonemeal",
-      "has_the_recipe",
-      "has_black_dye"
+      "has_black_dye",
+      "has_the_recipe"
     ]
   ]
 }

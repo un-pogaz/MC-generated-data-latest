@@ -6,6 +6,19 @@
     ]
   },
   "criteria": {
+    "has_at_least_9_bonemeal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bone_meal",
+            "count": {
+              "min": 9.0
+            }
+          }
+        ]
+      }
+    },
     "has_bone_block": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -19,12 +32,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "bone_meal_from_bone_block"
+        "recipe": "minecraft:bone_meal_from_bone_block"
       }
     }
   },
   "requirements": [
     [
+      "has_at_least_9_bonemeal",
       "has_bone_block",
       "has_the_recipe"
     ]

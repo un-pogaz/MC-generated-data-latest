@@ -29,7 +29,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "magenta_dye_from_purple_and_pink"
+        "recipe": "minecraft:magenta_dye_from_purple_and_pink"
       }
     }
   },

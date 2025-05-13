@@ -16,12 +16,6 @@
         ]
       }
     },
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "light_gray_dye_from_ink_bonemeal"
-      }
-    },
     "has_black_dye": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -31,13 +25,19 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:light_gray_dye_from_ink_bonemeal"
+      }
     }
   },
   "requirements": [
     [
       "has_bonemeal",
-      "has_the_recipe",
-      "has_black_dye"
+      "has_black_dye",
+      "has_the_recipe"
     ]
   ]
 }

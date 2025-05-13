@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "string_to_wool"
+        "recipe": "minecraft:string_to_wool"
       }
     }
   },

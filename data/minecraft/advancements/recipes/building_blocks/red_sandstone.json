@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "red_sandstone"
-      }
-    },
     "has_sand": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:red_sandstone"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_sand"
+      "has_sand",
+      "has_the_recipe"
     ]
   ]
 }

@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "orange_bed"
-      }
-    },
     "has_orange_wool": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:orange_bed"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_orange_wool"
+      "has_orange_wool",
+      "has_the_recipe"
     ]
   ]
 }

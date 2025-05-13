@@ -2,17 +2,10 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:diamond_block",
-      "minecraft:diamond"
+      "minecraft:diamond_block"
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "diamond_block"
-      }
-    },
     "has_at_least_9_diamond": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -20,17 +13,23 @@
           {
             "item": "minecraft:diamond",
             "count": {
-              "min": 9
+              "min": 9.0
             }
           }
         ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:diamond_block"
       }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_at_least_9_diamond"
+      "has_at_least_9_diamond",
+      "has_the_recipe"
     ]
   ]
 }

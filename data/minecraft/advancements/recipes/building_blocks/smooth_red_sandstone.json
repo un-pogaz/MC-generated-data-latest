@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "smooth_red_sandstone"
+        "recipe": "minecraft:smooth_red_sandstone"
       }
     }
   },

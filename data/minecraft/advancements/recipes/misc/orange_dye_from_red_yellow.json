@@ -16,12 +16,6 @@
         ]
       }
     },
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "orange_dye_from_red_yellow"
-      }
-    },
     "has_yellow_dye": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -31,13 +25,19 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:orange_dye_from_red_yellow"
+      }
     }
   },
   "requirements": [
     [
       "has_red_dye",
-      "has_the_recipe",
-      "has_yellow_dye"
+      "has_yellow_dye",
+      "has_the_recipe"
     ]
   ]
 }

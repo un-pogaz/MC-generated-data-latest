@@ -39,7 +39,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "chiseled_quartz_block"
+        "recipe": "minecraft:chiseled_quartz_block"
       }
     }
   },

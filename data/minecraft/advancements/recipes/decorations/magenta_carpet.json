@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "magenta_carpet"
+        "recipe": "minecraft:magenta_carpet"
       }
     }
   },

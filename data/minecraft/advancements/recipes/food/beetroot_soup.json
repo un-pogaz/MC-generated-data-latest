@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "beetroot_soup"
+        "recipe": "minecraft:beetroot_soup"
       }
     }
   },

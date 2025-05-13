@@ -1,6 +1,7 @@
 {
   size: [7, 11, 15],
   entities: [],
+  author: "Player997",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -4623,7 +4624,6 @@
       state: 4
     }
   ],
-  author: "Player997",
   palette: [
     {
       Properties: {

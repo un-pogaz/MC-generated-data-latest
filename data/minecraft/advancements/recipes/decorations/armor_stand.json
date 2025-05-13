@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "armor_stand"
+        "recipe": "minecraft:armor_stand"
       }
     }
   },

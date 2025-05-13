@@ -1,13 +1,10 @@
 {
-  "type": "crafting_shaped",
-  "pattern": [
-    "#"
-  ],
-  "key": {
-    "#": {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:slime_block"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:slime_ball",
     "count": 9

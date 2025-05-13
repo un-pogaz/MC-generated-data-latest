@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "sticky_piston"
+        "recipe": "minecraft:sticky_piston"
       }
     }
   },

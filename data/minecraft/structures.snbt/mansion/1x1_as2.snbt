@@ -1,6 +1,7 @@
 {
   size: [7, 8, 7],
   entities: [],
+  author: "Player619",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -207,9 +208,9 @@
           id: "Spider"
         },
         MaxSpawnDelay: 800s,
-        Delay: 0s,
         id: "MobSpawner",
         SpawnRange: 4s,
+        Delay: 0s,
         MinSpawnDelay: 200s,
         SpawnPotentials: [
           {
@@ -1592,7 +1593,6 @@
       state: 3
     }
   ],
-  author: "Player619",
   palette: [
     {
       Properties: {

@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "blaze_powder"
+        "recipe": "minecraft:blaze_powder"
       }
     }
   },

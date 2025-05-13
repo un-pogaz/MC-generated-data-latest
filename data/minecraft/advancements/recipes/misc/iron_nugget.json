@@ -6,10 +6,17 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
+    "has_at_least_9_iron_nugget": {
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "recipe": "iron_nugget"
+        "items": [
+          {
+            "item": "minecraft:iron_nugget",
+            "count": {
+              "min": 9.0
+            }
+          }
+        ]
       }
     },
     "has_iron_ingot": {
@@ -21,12 +28,19 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:iron_nugget"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_iron_ingot"
+      "has_at_least_9_iron_nugget",
+      "has_iron_ingot",
+      "has_the_recipe"
     ]
   ]
 }

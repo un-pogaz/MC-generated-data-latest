@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "cyan_banner"
+        "recipe": "minecraft:cyan_banner"
       }
     }
   },

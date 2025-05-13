@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "pink_dye_from_peony"
+        "recipe": "minecraft:pink_dye_from_peony"
       }
     }
   },

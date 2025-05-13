@@ -2,8 +2,7 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:iron_block",
-      "minecraft:iron_ingot_from_iron_block"
+      "minecraft:iron_block"
     ]
   },
   "criteria": {
@@ -14,7 +13,7 @@
           {
             "item": "minecraft:iron_ingot",
             "count": {
-              "min": 9
+              "min": 9.0
             }
           }
         ]
@@ -23,7 +22,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "iron_block"
+        "recipe": "minecraft:iron_block"
       }
     }
   },

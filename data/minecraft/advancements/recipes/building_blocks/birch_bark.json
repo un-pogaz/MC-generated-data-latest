@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "birch_bark"
+        "recipe": "minecraft:birch_bark"
       }
     }
   },

@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "pink_concrete_powder"
-      }
-    },
     "has_sand": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -31,13 +25,19 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:pink_concrete_powder"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
       "has_sand",
-      "has_gravel"
+      "has_gravel",
+      "has_the_recipe"
     ]
   ]
 }

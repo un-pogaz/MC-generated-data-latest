@@ -6,10 +6,17 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
+    "has_at_least_9_lapis": {
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "recipe": "lapis_lazuli"
+        "items": [
+          {
+            "item": "minecraft:lapis_lazuli",
+            "count": {
+              "min": 9.0
+            }
+          }
+        ]
       }
     },
     "has_lapis_block": {
@@ -21,12 +28,19 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:lapis_lazuli"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_lapis_block"
+      "has_at_least_9_lapis",
+      "has_lapis_block",
+      "has_the_recipe"
     ]
   ]
 }

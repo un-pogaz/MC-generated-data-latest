@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "red_nether_brick"
+        "recipe": "minecraft:red_nether_brick"
       }
     }
   },

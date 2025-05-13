@@ -2,8 +2,7 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:lapis_block",
-      "minecraft:lapis_lazuli"
+      "minecraft:lapis_block"
     ]
   },
   "criteria": {
@@ -14,7 +13,7 @@
           {
             "item": "minecraft:lapis_lazuli",
             "count": {
-              "min": 9
+              "min": 9.0
             }
           }
         ]
@@ -23,7 +22,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "lapis_block"
+        "recipe": "minecraft:lapis_block"
       }
     }
   },

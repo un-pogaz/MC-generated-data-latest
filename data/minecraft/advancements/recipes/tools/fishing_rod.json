@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "fishing_rod"
+        "recipe": "minecraft:fishing_rod"
       }
     }
   },

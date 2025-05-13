@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "flower_pot"
-      }
-    },
     "has_brick": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:flower_pot"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_brick"
+      "has_brick",
+      "has_the_recipe"
     ]
   ]
 }

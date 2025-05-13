@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "light_blue_stained_terracotta"
+        "recipe": "minecraft:light_blue_stained_terracotta"
       }
     }
   },

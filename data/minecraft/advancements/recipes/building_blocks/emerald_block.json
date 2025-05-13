@@ -2,7 +2,6 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:emerald",
       "minecraft:emerald_block"
     ]
   },
@@ -14,7 +13,7 @@
           {
             "item": "minecraft:emerald",
             "count": {
-              "min": 9
+              "min": 9.0
             }
           }
         ]
@@ -23,7 +22,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "emerald_block"
+        "recipe": "minecraft:emerald_block"
       }
     }
   },

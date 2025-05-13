@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "glass_bottle"
+        "recipe": "minecraft:glass_bottle"
       }
     }
   },

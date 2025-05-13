@@ -1,6 +1,7 @@
 {
   size: [7, 8, 15],
   entities: [],
+  author: "Player899",
   blocks: [
     {
       pos: [0, 0, 0],
@@ -939,8 +940,8 @@
         Items: [
           {
             Slot: 10b,
-            id: "minecraft:iron_axe",
             Count: 1b,
+            id: "minecraft:iron_axe",
             tag: {
               ench: [
                 {
@@ -3383,7 +3384,6 @@
       state: 7
     }
   ],
-  author: "Player899",
   palette: [
     {
       Properties: {

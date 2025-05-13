@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "coarse_dirt"
-      }
-    },
     "has_gravel": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coarse_dirt"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_gravel"
+      "has_gravel",
+      "has_the_recipe"
     ]
   ]
 }

@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "fermented_spider_eye"
+        "recipe": "minecraft:fermented_spider_eye"
       }
     }
   },

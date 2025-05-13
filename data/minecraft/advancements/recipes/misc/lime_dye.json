@@ -29,7 +29,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "lime_dye"
+        "recipe": "minecraft:lime_dye"
       }
     }
   },

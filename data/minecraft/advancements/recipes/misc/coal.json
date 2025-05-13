@@ -6,10 +6,17 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
+    "has_at_least_9_coal": {
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "recipe": "coal"
+        "items": [
+          {
+            "item": "minecraft:coal",
+            "count": {
+              "min": 9.0
+            }
+          }
+        ]
       }
     },
     "has_coal_block": {
@@ -21,12 +28,19 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coal"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_coal_block"
+      "has_at_least_9_coal",
+      "has_coal_block",
+      "has_the_recipe"
     ]
   ]
 }

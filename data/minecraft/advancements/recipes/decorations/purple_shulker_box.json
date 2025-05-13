@@ -6,12 +6,6 @@
     ]
   },
   "criteria": {
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "purple_shulker_box"
-      }
-    },
     "has_shulker_shell": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -21,12 +15,18 @@
           }
         ]
       }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:purple_shulker_box"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_shulker_shell"
+      "has_shulker_shell",
+      "has_the_recipe"
     ]
   ]
 }

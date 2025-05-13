@@ -6,6 +6,19 @@
     ]
   },
   "criteria": {
+    "has_at_least_9_iron_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:iron_ingot",
+            "count": {
+              "min": 9.0
+            }
+          }
+        ]
+      }
+    },
     "has_iron_block": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -19,12 +32,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "iron_ingot_from_iron_block"
+        "recipe": "minecraft:iron_ingot_from_iron_block"
       }
     }
   },
   "requirements": [
     [
+      "has_at_least_9_iron_ingot",
       "has_iron_block",
       "has_the_recipe"
     ]

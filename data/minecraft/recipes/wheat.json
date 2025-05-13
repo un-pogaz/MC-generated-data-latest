@@ -1,13 +1,10 @@
 {
-  "type": "crafting_shaped",
-  "pattern": [
-    "#"
-  ],
-  "key": {
-    "#": {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:hay_block"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:wheat",
     "count": 9

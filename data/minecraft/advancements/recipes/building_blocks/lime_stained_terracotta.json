@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "lime_stained_terracotta"
+        "recipe": "minecraft:lime_stained_terracotta"
       }
     }
   },

@@ -2,7 +2,6 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:slime_ball",
       "minecraft:slime"
     ]
   },
@@ -14,7 +13,7 @@
           {
             "item": "minecraft:slime_ball",
             "count": {
-              "min": 9
+              "min": 9.0
             }
           }
         ]
@@ -23,7 +22,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "slime"
+        "recipe": "minecraft:slime"
       }
     }
   },
