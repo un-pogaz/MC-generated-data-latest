@@ -151,6 +151,10 @@ minecraft:blocks/dirt
 minecraft:blocks/dispenser_front
 minecraft:blocks/dispenser_front_vertical
 minecraft:blocks/dragon_egg
+minecraft:blocks/dried_kelp_bottom
+minecraft:blocks/dried_kelp_side
+minecraft:blocks/dried_kelp_side_mirror
+minecraft:blocks/dried_kelp_top
 minecraft:blocks/dropper_front
 minecraft:blocks/dropper_front_vertical
 minecraft:blocks/emerald_block
@@ -228,6 +232,8 @@ minecraft:blocks/jungle_log_top
 minecraft:blocks/jungle_planks
 minecraft:blocks/jungle_sapling
 minecraft:blocks/jungle_trapdoor
+minecraft:blocks/kelp_plant  [mcmeta]
+minecraft:blocks/kelp_top  [mcmeta]
 minecraft:blocks/ladder
 minecraft:blocks/lapis_block
 minecraft:blocks/lapis_ore
@@ -399,6 +405,7 @@ minecraft:blocks/sand
 minecraft:blocks/sandstone
 minecraft:blocks/sandstone_bottom
 minecraft:blocks/sandstone_top
+minecraft:blocks/sea_grass  [mcmeta]
 minecraft:blocks/sea_lantern  [mcmeta]
 minecraft:blocks/shulker_top_black
 minecraft:blocks/shulker_top_blue
@@ -433,6 +440,18 @@ minecraft:blocks/stone_bricks
 minecraft:blocks/stone_granite
 minecraft:blocks/stone_slab_side
 minecraft:blocks/stone_slab_top
+minecraft:blocks/stripped_acacia_log
+minecraft:blocks/stripped_acacia_log_top
+minecraft:blocks/stripped_birch_log
+minecraft:blocks/stripped_birch_log_top
+minecraft:blocks/stripped_dark_oak_log
+minecraft:blocks/stripped_dark_oak_log_top
+minecraft:blocks/stripped_jungle_log
+minecraft:blocks/stripped_jungle_log_top
+minecraft:blocks/stripped_oak_log
+minecraft:blocks/stripped_oak_log_top
+minecraft:blocks/stripped_spruce_log
+minecraft:blocks/stripped_spruce_log_top
 minecraft:blocks/structure_block
 minecraft:blocks/structure_block_corner
 minecraft:blocks/structure_block_data
@@ -445,6 +464,8 @@ minecraft:blocks/sunflower_front
 minecraft:blocks/sunflower_top
 minecraft:blocks/tall_grass_bottom
 minecraft:blocks/tall_grass_top
+minecraft:blocks/tall_sea_grass_bottom  [mcmeta]
+minecraft:blocks/tall_sea_grass_top  [mcmeta]
 minecraft:blocks/terracotta
 minecraft:blocks/tnt_bottom
 minecraft:blocks/tnt_side
@@ -452,6 +473,9 @@ minecraft:blocks/tnt_top
 minecraft:blocks/torch
 minecraft:blocks/trip_wire
 minecraft:blocks/trip_wire_hook
+minecraft:blocks/turtle_egg_not_cracked
+minecraft:blocks/turtle_egg_slightly_cracked
+minecraft:blocks/turtle_egg_very_cracked
 minecraft:blocks/vine
 minecraft:blocks/water_flow  [mcmeta]
 minecraft:blocks/water_overlay
@@ -642,6 +666,7 @@ minecraft:entity/parrot/parrot_green
 minecraft:entity/parrot/parrot_grey
 minecraft:entity/parrot/parrot_red_blue
 minecraft:entity/parrot/parrot_yellow_blue
+minecraft:entity/phantom
 minecraft:entity/pig/pig
 minecraft:entity/pig/pig_saddle
 minecraft:entity/projectiles/arrow
@@ -730,6 +755,8 @@ minecraft:entity/spider_eyes
 minecraft:entity/squid
 minecraft:entity/steve
 minecraft:entity/sweep
+minecraft:entity/trident
+minecraft:entity/turtle/big_sea_turtle
 minecraft:entity/villager/butcher
 minecraft:entity/villager/farmer
 minecraft:entity/villager/librarian
@@ -1209,6 +1236,7 @@ minecraft:items/diamond_pickaxe
 minecraft:items/diamond_shovel
 minecraft:items/diamond_sword
 minecraft:items/dragon_breath
+minecraft:items/dried_kelp
 minecraft:items/egg
 minecraft:items/elytra
 minecraft:items/emerald
@@ -1272,6 +1300,7 @@ minecraft:items/iron_sword
 minecraft:items/item_frame
 minecraft:items/jungle_boat
 minecraft:items/jungle_door
+minecraft:items/kelp
 minecraft:items/knowledge_book
 minecraft:items/lapis_lazuli
 minecraft:items/lava_bucket
@@ -1372,6 +1401,8 @@ minecraft:items/tipped_arrow_base
 minecraft:items/tipped_arrow_head
 minecraft:items/tnt_minecart
 minecraft:items/totem_of_undying
+minecraft:items/turtle_helmet
+minecraft:items/turtle_shell_piece
 minecraft:items/water_bucket
 minecraft:items/wheat
 minecraft:items/wheat_seeds
@@ -1404,6 +1435,7 @@ minecraft:models/armor/leather_layer_1
 minecraft:models/armor/leather_layer_1_overlay
 minecraft:models/armor/leather_layer_2
 minecraft:models/armor/leather_layer_2_overlay
+minecraft:models/armor/turtle_layer_1
 minecraft:painting/paintings_kristoffer_zetterstrand
 minecraft:particle/footprint
 minecraft:particle/particles

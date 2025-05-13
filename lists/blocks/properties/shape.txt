@@ -4,11 +4,14 @@ minecraft:birch_stairs
 minecraft:brick_stairs
 minecraft:cobblestone_stairs
 minecraft:dark_oak_stairs
+minecraft:dark_prismarine_stairs
 minecraft:detector_rail
 minecraft:jungle_stairs
 minecraft:nether_brick_stairs
 minecraft:oak_stairs
 minecraft:powered_rail
+minecraft:prismarine_bricks_stairs
+minecraft:prismarine_stairs
 minecraft:purpur_stairs
 minecraft:quartz_stairs
 minecraft:rail

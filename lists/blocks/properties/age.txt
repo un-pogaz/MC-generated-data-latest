@@ -5,6 +5,7 @@ minecraft:chorus_flower
 minecraft:cocoa
 minecraft:fire
 minecraft:frosted_ice
+minecraft:kelp_top
 minecraft:melon_stem
 minecraft:nether_wart
 minecraft:potatoes

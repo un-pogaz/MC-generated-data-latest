@@ -36,6 +36,7 @@ minecraft:entities/mule
 minecraft:entities/mushroom_cow
 minecraft:entities/ocelot
 minecraft:entities/parrot
+minecraft:entities/phantom
 minecraft:entities/pig
 minecraft:entities/polar_bear
 minecraft:entities/rabbit
@@ -65,6 +66,7 @@ minecraft:entities/snowman
 minecraft:entities/spider
 minecraft:entities/squid
 minecraft:entities/stray
+minecraft:entities/turtle
 minecraft:entities/vex
 minecraft:entities/villager
 minecraft:entities/vindication_illager
