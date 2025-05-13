@@ -1,0 +1,9 @@
+| Name              | Count | Chance | Weight | Comment |
+| ----------------- | ----- | ------ | ------ | ------- |
+| 1 to 5 time       |    -- |     -- |     -- |         |
+| minecraft:emerald |     1 |   4.3% |   1/23 |         |
+| minecraft:arrow   |  1..3 |   8.7% |   2/23 |         |
+| minecraft:feather |  1..3 |  26.1% |   6/23 |         |
+| minecraft:egg     |  1..3 |   8.7% |   2/23 |         |
+| minecraft:flint   |  1..3 |  26.1% |   6/23 |         |
+| minecraft:stick   |  1..3 |  26.1% |   6/23 |         |

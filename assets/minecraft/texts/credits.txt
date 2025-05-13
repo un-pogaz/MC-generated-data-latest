@@ -43,11 +43,12 @@
 §f          Alexandre Pretto Nunes
 §f          Alexander Östman
 §f          Billy Sjöberg
+§f          Brian Threvathan
 §f          Christoffer Hammarström
 §f          Erik Bylund
 §f          Henning Erlandsen
 §f          Magnus Jäderberg
-§f          Márcio Oliviera
+§f          Márcio Oliveira
 §f          Niclas Unnervik
 §f          Sina Tamanna
 §f          Tomas Alaeus
@@ -82,6 +83,7 @@
 §f          Paulo Ragonha
 
 §7User Experience Developers
+§f          Albin Odervall
 §f          Anna Päärni
 §f          Dario Vodopivec
 §f          Emelie Sidesiö

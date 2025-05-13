@@ -662,6 +662,7 @@ minecraft:entity/bed/purple
 minecraft:entity/bed/red
 minecraft:entity/bed/white
 minecraft:entity/bed/yellow
+minecraft:entity/bell/bell_body
 minecraft:entity/blaze
 minecraft:entity/boat/acacia
 minecraft:entity/boat/birch
@@ -674,6 +675,7 @@ minecraft:entity/cat/black
 minecraft:entity/cat/british_shorthair
 minecraft:entity/cat/calico
 minecraft:entity/cat/cat_collar
+minecraft:entity/cat/jellie
 minecraft:entity/cat/ocelot
 minecraft:entity/cat/persian
 minecraft:entity/cat/ragdoll
@@ -899,11 +901,32 @@ minecraft:entity/sweep
 minecraft:entity/trident
 minecraft:entity/trident_riptide
 minecraft:entity/turtle/big_sea_turtle
-minecraft:entity/villager/butcher
-minecraft:entity/villager/farmer
-minecraft:entity/villager/librarian
-minecraft:entity/villager/priest
-minecraft:entity/villager/smith
+minecraft:entity/villager/profession/armorer
+minecraft:entity/villager/profession/butcher  [mcmeta]
+minecraft:entity/villager/profession/cartographer
+minecraft:entity/villager/profession/cleric
+minecraft:entity/villager/profession/farmer  [mcmeta]
+minecraft:entity/villager/profession/fisherman  [mcmeta]
+minecraft:entity/villager/profession/fletcher  [mcmeta]
+minecraft:entity/villager/profession/leatherworker
+minecraft:entity/villager/profession/librarian  [mcmeta]
+minecraft:entity/villager/profession/mason
+minecraft:entity/villager/profession/nitwit
+minecraft:entity/villager/profession/shepherd  [mcmeta]
+minecraft:entity/villager/profession/toolsmith
+minecraft:entity/villager/profession/weaponsmith
+minecraft:entity/villager/profession_level/diamond
+minecraft:entity/villager/profession_level/emerald
+minecraft:entity/villager/profession_level/gold
+minecraft:entity/villager/profession_level/iron
+minecraft:entity/villager/profession_level/stone
+minecraft:entity/villager/type/desert  [mcmeta]
+minecraft:entity/villager/type/jungle
+minecraft:entity/villager/type/plains
+minecraft:entity/villager/type/savanna
+minecraft:entity/villager/type/snow  [mcmeta]
+minecraft:entity/villager/type/swamp
+minecraft:entity/villager/type/taiga
 minecraft:entity/villager/villager
 minecraft:entity/witch
 minecraft:entity/wither/wither
@@ -919,11 +942,32 @@ minecraft:entity/zombie/husk
 minecraft:entity/zombie/zombie
 minecraft:entity/zombie/zombie_villager
 minecraft:entity/zombie_pigman
-minecraft:entity/zombie_villager/zombie_butcher
-minecraft:entity/zombie_villager/zombie_farmer
-minecraft:entity/zombie_villager/zombie_librarian
-minecraft:entity/zombie_villager/zombie_priest
-minecraft:entity/zombie_villager/zombie_smith
+minecraft:entity/zombie_villager/profession/armorer
+minecraft:entity/zombie_villager/profession/butcher  [mcmeta]
+minecraft:entity/zombie_villager/profession/cartographer
+minecraft:entity/zombie_villager/profession/cleric
+minecraft:entity/zombie_villager/profession/farmer  [mcmeta]
+minecraft:entity/zombie_villager/profession/fisherman  [mcmeta]
+minecraft:entity/zombie_villager/profession/fletcher  [mcmeta]
+minecraft:entity/zombie_villager/profession/leatherworker
+minecraft:entity/zombie_villager/profession/librarian  [mcmeta]
+minecraft:entity/zombie_villager/profession/mason
+minecraft:entity/zombie_villager/profession/nitwit
+minecraft:entity/zombie_villager/profession/shepherd  [mcmeta]
+minecraft:entity/zombie_villager/profession/toolsmith
+minecraft:entity/zombie_villager/profession/weaponsmith
+minecraft:entity/zombie_villager/profession_level/diamond
+minecraft:entity/zombie_villager/profession_level/emerald
+minecraft:entity/zombie_villager/profession_level/gold
+minecraft:entity/zombie_villager/profession_level/iron
+minecraft:entity/zombie_villager/profession_level/stone
+minecraft:entity/zombie_villager/type/desert
+minecraft:entity/zombie_villager/type/jungle
+minecraft:entity/zombie_villager/type/plains
+minecraft:entity/zombie_villager/type/savanna
+minecraft:entity/zombie_villager/type/snow
+minecraft:entity/zombie_villager/type/swamp
+minecraft:entity/zombie_villager/type/taiga
 minecraft:entity/zombie_villager/zombie_villager
 minecraft:environment/clouds
 minecraft:environment/end_sky
@@ -1169,6 +1213,7 @@ minecraft:gui/bars
 minecraft:gui/book
 minecraft:gui/container/anvil
 minecraft:gui/container/beacon
+minecraft:gui/container/blast_furnace
 minecraft:gui/container/brewing_stand
 minecraft:gui/container/crafting_table
 minecraft:gui/container/creative_inventory/tab_inventory
@@ -1185,6 +1230,7 @@ minecraft:gui/container/horse
 minecraft:gui/container/inventory
 minecraft:gui/container/loom
 minecraft:gui/container/shulker_box
+minecraft:gui/container/smoker
 minecraft:gui/container/stats_icons
 minecraft:gui/container/villager
 minecraft:gui/demo_background
