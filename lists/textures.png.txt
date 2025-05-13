@@ -1175,6 +1175,7 @@ minecraft:gui/container/dispenser
 minecraft:gui/container/enchanting_table
 minecraft:gui/container/furnace
 minecraft:gui/container/generic_54
+minecraft:gui/container/grindstone
 minecraft:gui/container/hopper
 minecraft:gui/container/horse
 minecraft:gui/container/inventory
