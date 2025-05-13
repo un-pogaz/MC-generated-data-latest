@@ -316,7 +316,8 @@
       "type": "literal",
       "children": {
         "dimension": {
-          "type": "unknown",
+          "type": "argument",
+          "parser": "minecraft:dimension",
           "redirect": [
             "execute"
           ]
