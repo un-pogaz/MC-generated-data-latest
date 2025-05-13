@@ -1,1 +1,10 @@
-{}
+{
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ]
+  }
+}

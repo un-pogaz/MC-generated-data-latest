@@ -91,6 +91,10 @@
       state: 0
     },
     {
+      pos: [4, 1, 7],
+      state: 0
+    },
+    {
       pos: [1, 0, 8],
       state: 0
     },
@@ -100,6 +104,10 @@
     },
     {
       pos: [3, 0, 8],
+      state: 0
+    },
+    {
+      pos: [3, 1, 8],
       state: 0
     },
     {
@@ -286,7 +294,7 @@
     },
     {
       pos: [2, 1, 2],
-      state: 10
+      state: 9
     },
     {
       pos: [3, 1, 2],
@@ -338,11 +346,11 @@
     },
     {
       pos: [2, 0, 3],
-      state: 11
+      state: 10
     },
     {
       pos: [3, 0, 3],
-      state: 12
+      state: 11
     },
     {
       pos: [4, 0, 3],
@@ -438,7 +446,7 @@
     },
     {
       pos: [3, 1, 4],
-      state: 13
+      state: 12
     },
     {
       pos: [4, 1, 4],
@@ -482,7 +490,7 @@
     },
     {
       pos: [0, 0, 5],
-      state: 14
+      state: 13
     },
     {
       pos: [2, 0, 5],
@@ -490,7 +498,7 @@
     },
     {
       pos: [3, 0, 5],
-      state: 12
+      state: 11
     },
     {
       pos: [4, 0, 5],
@@ -570,7 +578,7 @@
     },
     {
       pos: [6, 0, 6],
-      state: 14
+      state: 13
     },
     {
       pos: [0, 1, 6],
@@ -626,7 +634,7 @@
     },
     {
       pos: [1, 0, 7],
-      state: 14
+      state: 13
     },
     {
       pos: [2, 0, 7],
@@ -650,11 +658,7 @@
     },
     {
       pos: [3, 1, 7],
-      state: 3
-    },
-    {
-      pos: [4, 1, 7],
-      state: 3
+      state: 14
     },
     {
       pos: [5, 1, 7],
@@ -718,10 +722,6 @@
     },
     {
       pos: [2, 1, 8],
-      state: 3
-    },
-    {
-      pos: [3, 1, 8],
       state: 3
     },
     {
@@ -821,13 +821,7 @@
       Properties: {
         age: "0"
       },
-      Name: "minecraft:potatoes"
-    },
-    {
-      Properties: {
-        age: "1"
-      },
-      Name: "minecraft:potatoes"
+      Name: "minecraft:wheat"
     },
     {
       Properties: {
@@ -852,7 +846,13 @@
         layers: "4"
       },
       Name: "minecraft:snow"
+    },
+    {
+      Properties: {
+        level: "0"
+      },
+      Name: "minecraft:composter"
     }
   ],
-  DataVersion: 1913
+  DataVersion: 1919
 }

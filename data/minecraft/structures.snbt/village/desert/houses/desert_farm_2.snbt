@@ -1,106 +1,118 @@
 {
-  size: [7, 2, 7],
+  size: [7, 2, 10],
   entities: [],
   blocks: [
     {
-      pos: [0, 0, 0],
+      pos: [3, 0, 6],
       state: 0
     },
     {
+      pos: [3, 0, 7],
+      state: 0
+    },
+    {
+      pos: [3, 0, 8],
+      state: 0
+    },
+    {
+      pos: [0, 0, 0],
+      state: 1
+    },
+    {
       pos: [1, 0, 0],
-      state: 1
-    },
-    {
-      pos: [2, 0, 0],
-      state: 1
-    },
-    {
-      pos: [3, 0, 0],
-      state: 1
-    },
-    {
-      pos: [4, 0, 0],
-      state: 1
-    },
-    {
-      pos: [5, 0, 0],
-      state: 1
-    },
-    {
-      pos: [6, 0, 0],
       state: 2
     },
     {
+      pos: [2, 0, 0],
+      state: 2
+    },
+    {
+      pos: [3, 0, 0],
+      state: 2
+    },
+    {
+      pos: [4, 0, 0],
+      state: 2
+    },
+    {
+      pos: [5, 0, 0],
+      state: 2
+    },
+    {
+      pos: [6, 0, 0],
+      state: 3
+    },
+    {
       pos: [0, 1, 0],
-      state: 3
-    },
-    {
-      pos: [1, 1, 0],
-      state: 3
-    },
-    {
-      pos: [2, 1, 0],
-      state: 3
-    },
-    {
-      pos: [3, 1, 0],
-      state: 3
-    },
-    {
-      pos: [4, 1, 0],
-      state: 3
-    },
-    {
-      pos: [5, 1, 0],
-      state: 3
-    },
-    {
-      pos: [6, 1, 0],
-      state: 3
-    },
-    {
-      pos: [0, 0, 1],
       state: 4
     },
     {
+      pos: [1, 1, 0],
+      state: 4
+    },
+    {
+      pos: [2, 1, 0],
+      state: 4
+    },
+    {
+      pos: [3, 1, 0],
+      state: 4
+    },
+    {
+      pos: [4, 1, 0],
+      state: 4
+    },
+    {
+      pos: [5, 1, 0],
+      state: 4
+    },
+    {
+      pos: [6, 1, 0],
+      state: 4
+    },
+    {
+      pos: [0, 0, 1],
+      state: 5
+    },
+    {
       pos: [1, 0, 1],
-      state: 5
-    },
-    {
-      pos: [2, 0, 1],
-      state: 5
-    },
-    {
-      pos: [3, 0, 1],
-      state: 5
-    },
-    {
-      pos: [4, 0, 1],
-      state: 5
-    },
-    {
-      pos: [5, 0, 1],
-      state: 5
-    },
-    {
-      pos: [6, 0, 1],
       state: 6
     },
     {
+      pos: [2, 0, 1],
+      state: 6
+    },
+    {
+      pos: [3, 0, 1],
+      state: 6
+    },
+    {
+      pos: [4, 0, 1],
+      state: 6
+    },
+    {
+      pos: [5, 0, 1],
+      state: 6
+    },
+    {
+      pos: [6, 0, 1],
+      state: 7
+    },
+    {
       pos: [0, 1, 1],
-      state: 3
+      state: 4
     },
     {
       pos: [1, 1, 1],
-      state: 7
-    },
-    {
-      pos: [2, 1, 1],
       state: 8
     },
     {
+      pos: [2, 1, 1],
+      state: 9
+    },
+    {
       pos: [3, 1, 1],
-      state: 7
+      state: 8
     },
     {
       pos: [4, 1, 1],
@@ -108,51 +120,51 @@
     },
     {
       pos: [5, 1, 1],
-      state: 8
-    },
-    {
-      pos: [6, 1, 1],
-      state: 3
-    },
-    {
-      pos: [0, 0, 2],
-      state: 4
-    },
-    {
-      pos: [1, 0, 2],
       state: 9
     },
     {
-      pos: [2, 0, 2],
+      pos: [6, 1, 1],
+      state: 4
+    },
+    {
+      pos: [0, 0, 2],
       state: 5
     },
     {
-      pos: [3, 0, 2],
-      state: 5
-    },
-    {
-      pos: [4, 0, 2],
-      state: 5
-    },
-    {
-      pos: [5, 0, 2],
-      state: 5
-    },
-    {
-      pos: [6, 0, 2],
+      pos: [1, 0, 2],
       state: 6
     },
     {
+      pos: [2, 0, 2],
+      state: 6
+    },
+    {
+      pos: [3, 0, 2],
+      state: 6
+    },
+    {
+      pos: [4, 0, 2],
+      state: 6
+    },
+    {
+      pos: [5, 0, 2],
+      state: 6
+    },
+    {
+      pos: [6, 0, 2],
+      state: 7
+    },
+    {
       pos: [0, 1, 2],
-      state: 3
+      state: 4
     },
     {
       pos: [1, 1, 2],
-      state: 8
+      state: 9
     },
     {
       pos: [2, 1, 2],
-      state: 8
+      state: 9
     },
     {
       pos: [3, 1, 2],
@@ -160,27 +172,27 @@
     },
     {
       pos: [4, 1, 2],
-      state: 8
+      state: 9
     },
     {
       pos: [5, 1, 2],
-      state: 8
+      state: 9
     },
     {
       pos: [6, 1, 2],
-      state: 3
-    },
-    {
-      pos: [0, 0, 3],
       state: 4
     },
     {
-      pos: [1, 0, 3],
+      pos: [0, 0, 3],
       state: 5
     },
     {
+      pos: [1, 0, 3],
+      state: 6
+    },
+    {
       pos: [2, 0, 3],
-      state: 5
+      state: 6
     },
     {
       pos: [3, 0, 3],
@@ -188,83 +200,83 @@
     },
     {
       pos: [4, 0, 3],
-      state: 5
+      state: 6
     },
     {
       pos: [5, 0, 3],
-      state: 5
+      state: 6
     },
     {
       pos: [6, 0, 3],
-      state: 6
-    },
-    {
-      pos: [0, 1, 3],
-      state: 3
-    },
-    {
-      pos: [1, 1, 3],
-      state: 8
-    },
-    {
-      pos: [2, 1, 3],
-      state: 8
-    },
-    {
-      pos: [3, 1, 3],
-      state: 3
-    },
-    {
-      pos: [4, 1, 3],
-      state: 8
-    },
-    {
-      pos: [5, 1, 3],
-      state: 8
-    },
-    {
-      pos: [6, 1, 3],
-      state: 3
-    },
-    {
-      pos: [0, 0, 4],
-      state: 4
-    },
-    {
-      pos: [1, 0, 4],
-      state: 9
-    },
-    {
-      pos: [2, 0, 4],
-      state: 5
-    },
-    {
-      pos: [3, 0, 4],
-      state: 5
-    },
-    {
-      pos: [4, 0, 4],
-      state: 5
-    },
-    {
-      pos: [5, 0, 4],
-      state: 5
-    },
-    {
-      pos: [6, 0, 4],
-      state: 6
-    },
-    {
-      pos: [0, 1, 4],
-      state: 3
-    },
-    {
-      pos: [1, 1, 4],
       state: 7
     },
     {
-      pos: [2, 1, 4],
+      pos: [0, 1, 3],
+      state: 4
+    },
+    {
+      pos: [1, 1, 3],
+      state: 9
+    },
+    {
+      pos: [2, 1, 3],
+      state: 9
+    },
+    {
+      pos: [3, 1, 3],
+      state: 4
+    },
+    {
+      pos: [4, 1, 3],
+      state: 9
+    },
+    {
+      pos: [5, 1, 3],
+      state: 9
+    },
+    {
+      pos: [6, 1, 3],
+      state: 4
+    },
+    {
+      pos: [0, 0, 4],
+      state: 5
+    },
+    {
+      pos: [1, 0, 4],
+      state: 11
+    },
+    {
+      pos: [2, 0, 4],
+      state: 6
+    },
+    {
+      pos: [3, 0, 4],
+      state: 6
+    },
+    {
+      pos: [4, 0, 4],
+      state: 6
+    },
+    {
+      pos: [5, 0, 4],
+      state: 6
+    },
+    {
+      pos: [6, 0, 4],
+      state: 7
+    },
+    {
+      pos: [0, 1, 4],
+      state: 4
+    },
+    {
+      pos: [1, 1, 4],
       state: 8
+    },
+    {
+      pos: [2, 1, 4],
+      state: 12
     },
     {
       pos: [3, 1, 4],
@@ -276,43 +288,43 @@
     },
     {
       pos: [5, 1, 4],
-      state: 7
+      state: 8
     },
     {
       pos: [6, 1, 4],
-      state: 3
-    },
-    {
-      pos: [0, 0, 5],
       state: 4
     },
     {
+      pos: [0, 0, 5],
+      state: 5
+    },
+    {
       pos: [1, 0, 5],
-      state: 5
-    },
-    {
-      pos: [2, 0, 5],
-      state: 5
-    },
-    {
-      pos: [3, 0, 5],
-      state: 5
-    },
-    {
-      pos: [4, 0, 5],
-      state: 9
-    },
-    {
-      pos: [5, 0, 5],
-      state: 5
-    },
-    {
-      pos: [6, 0, 5],
       state: 6
     },
     {
+      pos: [2, 0, 5],
+      state: 6
+    },
+    {
+      pos: [3, 0, 5],
+      state: 6
+    },
+    {
+      pos: [4, 0, 5],
+      state: 6
+    },
+    {
+      pos: [5, 0, 5],
+      state: 6
+    },
+    {
+      pos: [6, 0, 5],
+      state: 7
+    },
+    {
       pos: [0, 1, 5],
-      state: 3
+      state: 4
     },
     {
       pos: [1, 1, 5],
@@ -320,82 +332,241 @@
     },
     {
       pos: [2, 1, 5],
-      state: 8
+      state: 9
     },
     {
       pos: [3, 1, 5],
-      state: 8
+      state: 9
     },
     {
       pos: [4, 1, 5],
-      state: 8
+      state: 9
     },
     {
       pos: [5, 1, 5],
-      state: 11
-    },
-    {
-      pos: [6, 1, 5],
-      state: 3
-    },
-    {
-      pos: [0, 0, 6],
       state: 12
     },
     {
+      pos: [6, 1, 5],
+      state: 4
+    },
+    {
+      pos: [0, 0, 6],
+      state: 13
+    },
+    {
       pos: [1, 0, 6],
-      state: 13
-    },
-    {
-      pos: [2, 0, 6],
-      state: 13
-    },
-    {
-      pos: [3, 0, 6],
-      state: 13
-    },
-    {
-      pos: [4, 0, 6],
-      state: 13
-    },
-    {
-      pos: [5, 0, 6],
-      state: 13
-    },
-    {
-      pos: [6, 0, 6],
       state: 14
     },
     {
+      pos: [2, 0, 6],
+      state: 15
+    },
+    {
+      pos: [4, 0, 6],
+      state: 16
+    },
+    {
+      pos: [5, 0, 6],
+      state: 14
+    },
+    {
+      pos: [6, 0, 6],
+      state: 17
+    },
+    {
       pos: [0, 1, 6],
-      state: 3
+      state: 4
     },
     {
       pos: [1, 1, 6],
-      state: 3
+      state: 4
     },
     {
       pos: [2, 1, 6],
-      state: 3
+      state: 4
     },
     {
       pos: [3, 1, 6],
-      state: 3
+      state: 4
     },
     {
       pos: [4, 1, 6],
-      state: 3
+      state: 4
     },
     {
       pos: [5, 1, 6],
-      state: 3
+      state: 4
     },
     {
       pos: [6, 1, 6],
-      state: 3
+      state: 4
+    },
+    {
+      pos: [0, 0, 7],
+      state: 4
+    },
+    {
+      pos: [1, 0, 7],
+      state: 4
+    },
+    {
+      pos: [2, 0, 7],
+      state: 5
+    },
+    {
+      pos: [4, 0, 7],
+      state: 7
+    },
+    {
+      pos: [5, 0, 7],
+      state: 4
+    },
+    {
+      pos: [6, 0, 7],
+      state: 4
+    },
+    {
+      pos: [0, 1, 7],
+      state: 4
+    },
+    {
+      pos: [1, 1, 7],
+      state: 4
+    },
+    {
+      pos: [2, 1, 7],
+      state: 4
+    },
+    {
+      pos: [3, 1, 7],
+      state: 18
+    },
+    {
+      pos: [4, 1, 7],
+      state: 4
+    },
+    {
+      pos: [5, 1, 7],
+      state: 4
+    },
+    {
+      pos: [6, 1, 7],
+      state: 4
+    },
+    {
+      pos: [0, 0, 8],
+      state: 4
+    },
+    {
+      pos: [1, 0, 8],
+      state: 4
+    },
+    {
+      pos: [2, 0, 8],
+      state: 5
+    },
+    {
+      pos: [4, 0, 8],
+      state: 7
+    },
+    {
+      pos: [5, 0, 8],
+      state: 4
+    },
+    {
+      pos: [6, 0, 8],
+      state: 4
+    },
+    {
+      pos: [0, 1, 8],
+      state: 4
+    },
+    {
+      pos: [1, 1, 8],
+      state: 4
+    },
+    {
+      pos: [2, 1, 8],
+      state: 19
+    },
+    {
+      pos: [3, 1, 8],
+      state: 20
+    },
+    {
+      pos: [4, 1, 8],
+      state: 21
+    },
+    {
+      pos: [5, 1, 8],
+      state: 4
+    },
+    {
+      pos: [6, 1, 8],
+      state: 4
+    },
+    {
+      pos: [0, 0, 9],
+      state: 4
+    },
+    {
+      pos: [1, 0, 9],
+      state: 4
+    },
+    {
+      pos: [2, 0, 9],
+      state: 13
+    },
+    {
+      pos: [3, 0, 9],
+      state: 14
+    },
+    {
+      pos: [4, 0, 9],
+      state: 22
+    },
+    {
+      pos: [5, 0, 9],
+      state: 4
+    },
+    {
+      pos: [6, 0, 9],
+      state: 4
+    },
+    {
+      pos: [0, 1, 9],
+      state: 4
+    },
+    {
+      pos: [1, 1, 9],
+      state: 4
+    },
+    {
+      pos: [2, 1, 9],
+      state: 4
+    },
+    {
+      pos: [3, 1, 9],
+      state: 23
+    },
+    {
+      pos: [4, 1, 9],
+      state: 4
+    },
+    {
+      pos: [5, 1, 9],
+      state: 4
+    },
+    {
+      pos: [6, 1, 9],
+      state: 4
     }
   ],
   palette: [
+    {
+      Name: "minecraft:smooth_sandstone"
+    },
     {
       Properties: {
         half: "bottom",
@@ -464,15 +635,15 @@
     },
     {
       Properties: {
-        moisture: "0"
-      },
-      Name: "minecraft:farmland"
-    },
-    {
-      Properties: {
         level: "0"
       },
       Name: "minecraft:water"
+    },
+    {
+      Properties: {
+        moisture: "0"
+      },
+      Name: "minecraft:farmland"
     },
     {
       Properties: {
@@ -502,11 +673,84 @@
       Properties: {
         half: "bottom",
         waterlogged: "false",
+        shape: "inner_right",
+        facing: "north"
+      },
+      Name: "minecraft:smooth_sandstone_stairs"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        waterlogged: "false",
+        shape: "inner_left",
+        facing: "north"
+      },
+      Name: "minecraft:smooth_sandstone_stairs"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        waterlogged: "false",
         shape: "outer_left",
         facing: "north"
       },
       Name: "minecraft:smooth_sandstone_stairs"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        waterlogged: "false",
+        powered: "false",
+        facing: "north",
+        open: "true"
+      },
+      Name: "minecraft:jungle_trapdoor"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        waterlogged: "false",
+        powered: "false",
+        facing: "west",
+        open: "true"
+      },
+      Name: "minecraft:jungle_trapdoor"
+    },
+    {
+      Properties: {
+        level: "0"
+      },
+      Name: "minecraft:composter"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        waterlogged: "false",
+        powered: "false",
+        facing: "east",
+        open: "true"
+      },
+      Name: "minecraft:jungle_trapdoor"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        waterlogged: "false",
+        shape: "outer_right",
+        facing: "west"
+      },
+      Name: "minecraft:smooth_sandstone_stairs"
+    },
+    {
+      Properties: {
+        half: "bottom",
+        waterlogged: "false",
+        powered: "false",
+        facing: "south",
+        open: "true"
+      },
+      Name: "minecraft:jungle_trapdoor"
     }
   ],
-  DataVersion: 1915
+  DataVersion: 1919
 }

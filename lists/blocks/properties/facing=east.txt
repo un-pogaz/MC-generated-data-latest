@@ -170,6 +170,7 @@ minecraft:sticky_piston
 minecraft:stone_brick_stairs
 minecraft:stone_button
 minecraft:stone_stairs
+minecraft:stonecutter
 minecraft:trapped_chest
 minecraft:tripwire_hook
 minecraft:tube_coral_wall_fan
