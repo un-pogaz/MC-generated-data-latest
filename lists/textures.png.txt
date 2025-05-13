@@ -38,6 +38,7 @@ minecraft:blocks/black_terracotta
 minecraft:blocks/black_wool
 minecraft:blocks/blue_concrete
 minecraft:blocks/blue_concrete_powder
+minecraft:blocks/blue_coral
 minecraft:blocks/blue_glazed_terracotta
 minecraft:blocks/blue_orchid
 minecraft:blocks/blue_stained_glass
@@ -130,6 +131,7 @@ minecraft:blocks/daylight_detector_inverted_top
 minecraft:blocks/daylight_detector_side
 minecraft:blocks/daylight_detector_top
 minecraft:blocks/dead_bush
+minecraft:blocks/dead_coral
 minecraft:blocks/debug
 minecraft:blocks/debug2
 minecraft:blocks/destroy_stage_0
@@ -319,6 +321,7 @@ minecraft:blocks/peony_bottom
 minecraft:blocks/peony_top
 minecraft:blocks/pink_concrete
 minecraft:blocks/pink_concrete_powder
+minecraft:blocks/pink_coral
 minecraft:blocks/pink_glazed_terracotta
 minecraft:blocks/pink_stained_glass
 minecraft:blocks/pink_stained_glass_pane_top
@@ -352,6 +355,7 @@ minecraft:blocks/pumpkin_stem
 minecraft:blocks/pumpkin_top
 minecraft:blocks/purple_concrete
 minecraft:blocks/purple_concrete_powder
+minecraft:blocks/purple_coral
 minecraft:blocks/purple_glazed_terracotta
 minecraft:blocks/purple_stained_glass
 minecraft:blocks/purple_stained_glass_pane_top
@@ -370,6 +374,7 @@ minecraft:blocks/rail
 minecraft:blocks/rail_corner
 minecraft:blocks/red_concrete
 minecraft:blocks/red_concrete_powder
+minecraft:blocks/red_coral
 minecraft:blocks/red_glazed_terracotta
 minecraft:blocks/red_mushroom
 minecraft:blocks/red_mushroom_block
@@ -499,6 +504,7 @@ minecraft:blocks/white_tulip
 minecraft:blocks/white_wool
 minecraft:blocks/yellow_concrete
 minecraft:blocks/yellow_concrete_powder
+minecraft:blocks/yellow_coral
 minecraft:blocks/yellow_glazed_terracotta
 minecraft:blocks/yellow_stained_glass
 minecraft:blocks/yellow_stained_glass_pane_top

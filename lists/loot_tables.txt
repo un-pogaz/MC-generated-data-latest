@@ -10,6 +10,8 @@ minecraft:chests/spawn_bonus_chest
 minecraft:chests/stronghold_corridor
 minecraft:chests/stronghold_crossing
 minecraft:chests/stronghold_library
+minecraft:chests/underwater_ruin_big
+minecraft:chests/underwater_ruin_small
 minecraft:chests/village_blacksmith
 minecraft:chests/woodland_mansion
 minecraft:entities/bat
