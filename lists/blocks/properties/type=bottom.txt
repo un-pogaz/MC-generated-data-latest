@@ -1,6 +1,7 @@
 minecraft:acacia_slab
 minecraft:andesite_slab
 minecraft:birch_slab
+minecraft:blackstone_slab
 minecraft:brick_slab
 minecraft:cobblestone_slab
 minecraft:crimson_slab
@@ -18,6 +19,8 @@ minecraft:nether_brick_slab
 minecraft:oak_slab
 minecraft:petrified_oak_slab
 minecraft:polished_andesite_slab
+minecraft:polished_blackstone_brick_slab
+minecraft:polished_blackstone_slab
 minecraft:polished_diorite_slab
 minecraft:polished_granite_slab
 minecraft:prismarine_brick_slab

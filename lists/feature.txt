@@ -1,4 +1,5 @@
 minecraft:bamboo
+minecraft:basalt_columns
 minecraft:basalt_pillar
 minecraft:block_pile
 minecraft:blue_ice
@@ -11,6 +12,7 @@ minecraft:coral_tree
 minecraft:dark_oak_tree
 minecraft:decorated
 minecraft:decorated_flower
+minecraft:delta_feature
 minecraft:desert_pyramid
 minecraft:desert_well
 minecraft:disk
@@ -44,6 +46,7 @@ minecraft:monster_room
 minecraft:nether_bridge
 minecraft:nether_forest_vegetation
 minecraft:nether_fossil
+minecraft:netherrack_replace_blobs
 minecraft:no_op
 minecraft:no_surface_ore
 minecraft:normal_tree

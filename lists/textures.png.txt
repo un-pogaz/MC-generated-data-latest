@@ -62,6 +62,8 @@ minecraft:block/black_stained_glass
 minecraft:block/black_stained_glass_pane_top
 minecraft:block/black_terracotta
 minecraft:block/black_wool
+minecraft:block/blackstone
+minecraft:block/blackstone_top
 minecraft:block/blast_furnace_front
 minecraft:block/blast_furnace_front_on  [mcmeta]
 minecraft:block/blast_furnace_side
@@ -126,6 +128,8 @@ minecraft:block/chain_command_block_conditional  [mcmeta]
 minecraft:block/chain_command_block_front  [mcmeta]
 minecraft:block/chain_command_block_side  [mcmeta]
 minecraft:block/chipped_anvil_top
+minecraft:block/chiseled_nether_bricks
+minecraft:block/chiseled_polished_blackstone
 minecraft:block/chiseled_quartz_block
 minecraft:block/chiseled_quartz_block_top
 minecraft:block/chiseled_red_sandstone
@@ -156,6 +160,8 @@ minecraft:block/composter_side
 minecraft:block/composter_top
 minecraft:block/conduit
 minecraft:block/cornflower
+minecraft:block/cracked_nether_bricks
+minecraft:block/cracked_polished_blackstone_bricks
 minecraft:block/cracked_stone_bricks
 minecraft:block/crafting_table_front
 minecraft:block/crafting_table_side
@@ -269,6 +275,7 @@ minecraft:block/furnace_front
 minecraft:block/furnace_front_on
 minecraft:block/furnace_side
 minecraft:block/furnace_top
+minecraft:block/gilded_blackstone
 minecraft:block/glass
 minecraft:block/glass_pane_top
 minecraft:block/glowstone
@@ -462,6 +469,8 @@ minecraft:block/podzol_top
 minecraft:block/polished_andesite
 minecraft:block/polished_basalt_side
 minecraft:block/polished_basalt_top
+minecraft:block/polished_blackstone
+minecraft:block/polished_blackstone_bricks
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
 minecraft:block/poppy
@@ -490,6 +499,7 @@ minecraft:block/purpur_pillar_top
 minecraft:block/quartz_block_bottom
 minecraft:block/quartz_block_side
 minecraft:block/quartz_block_top
+minecraft:block/quartz_bricks
 minecraft:block/quartz_pillar
 minecraft:block/quartz_pillar_top
 minecraft:block/rail
@@ -561,6 +571,8 @@ minecraft:block/smoker_top
 minecraft:block/smooth_stone
 minecraft:block/smooth_stone_slab_side
 minecraft:block/snow
+minecraft:block/soul_campfire_fire  [mcmeta]
+minecraft:block/soul_campfire_log_lit  [mcmeta]
 minecraft:block/soul_fire_0  [mcmeta]
 minecraft:block/soul_fire_1  [mcmeta]
 minecraft:block/soul_fire_lantern  [mcmeta]
@@ -705,6 +717,7 @@ minecraft:entity/banner/half_horizontal_bottom
 minecraft:entity/banner/half_vertical
 minecraft:entity/banner/half_vertical_right
 minecraft:entity/banner/mojang
+minecraft:entity/banner/piglin
 minecraft:entity/banner/rhombus
 minecraft:entity/banner/skull
 minecraft:entity/banner/small_stripes
@@ -944,6 +957,7 @@ minecraft:entity/shield/half_horizontal_bottom
 minecraft:entity/shield/half_vertical
 minecraft:entity/shield/half_vertical_right
 minecraft:entity/shield/mojang
+minecraft:entity/shield/piglin
 minecraft:entity/shield/rhombus
 minecraft:entity/shield/skull
 minecraft:entity/shield/small_stripes
@@ -1006,6 +1020,7 @@ minecraft:entity/spider_eyes
 minecraft:entity/squid
 minecraft:entity/steve
 minecraft:entity/strider/strider
+minecraft:entity/strider/strider_cold
 minecraft:entity/strider/strider_saddle
 minecraft:entity/trident
 minecraft:entity/trident_riptide
@@ -1693,6 +1708,7 @@ minecraft:item/orange_dye
 minecraft:item/painting
 minecraft:item/paper
 minecraft:item/phantom_membrane
+minecraft:item/piglin_banner_pattern
 minecraft:item/pink_dye
 minecraft:item/poisonous_potato
 minecraft:item/popped_chorus_fruit
@@ -1728,6 +1744,7 @@ minecraft:item/shulker_shell
 minecraft:item/skull_banner_pattern
 minecraft:item/slime_ball
 minecraft:item/snowball
+minecraft:item/soul_campfire
 minecraft:item/soul_fire_lantern
 minecraft:item/spawn_egg
 minecraft:item/spawn_egg_overlay

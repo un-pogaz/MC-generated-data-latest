@@ -68,4 +68,5 @@ minecraft:sweep_attack
 minecraft:totem_of_undying
 minecraft:underwater
 minecraft:warped_spore
+minecraft:white_ash
 minecraft:witch

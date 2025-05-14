@@ -1,4 +1,5 @@
 minecraft:andesite_wall
+minecraft:blackstone_wall
 minecraft:brick_wall
 minecraft:brown_mushroom_block
 minecraft:chorus_plant
@@ -11,6 +12,8 @@ minecraft:mossy_cobblestone_wall
 minecraft:mossy_stone_brick_wall
 minecraft:mushroom_stem
 minecraft:nether_brick_wall
+minecraft:polished_blackstone_brick_wall
+minecraft:polished_blackstone_wall
 minecraft:prismarine_wall
 minecraft:red_mushroom_block
 minecraft:red_nether_brick_wall

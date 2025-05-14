@@ -38,6 +38,8 @@ minecraft:oak_fence_gate
 minecraft:oak_pressure_plate
 minecraft:oak_trapdoor
 minecraft:observer
+minecraft:polished_blackstone_button
+minecraft:polished_blackstone_pressure_plate
 minecraft:powered_rail
 minecraft:repeater
 minecraft:spruce_button
