@@ -1,4 +1,7 @@
 minecraft:dirt
-minecraft:coarse_dirt
+minecraft:grass_block
 minecraft:podzol
+minecraft:coarse_dirt
+minecraft:mycelium
 minecraft:rooted_dirt
+minecraft:moss_block

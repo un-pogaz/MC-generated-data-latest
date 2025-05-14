@@ -11,6 +11,7 @@ minecraft:dark_oak_log
 minecraft:dark_oak_wood
 minecraft:deepslate
 minecraft:hay_block
+minecraft:infested_deepslate
 minecraft:jungle_log
 minecraft:jungle_wood
 minecraft:nether_portal

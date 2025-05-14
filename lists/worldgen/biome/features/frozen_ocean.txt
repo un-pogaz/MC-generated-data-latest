@@ -34,7 +34,6 @@ minecraft:disk_gravel
 minecraft:rare_dripstone_cluster
 minecraft:rare_small_dripstone
 
-minecraft:glow_lichen
 minecraft:trees_water
 minecraft:flower_default
 minecraft:patch_grass_badlands

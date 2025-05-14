@@ -951,7 +951,7 @@ minecraft:zombie_wall_head
 #minecraft:logs
 #minecraft:logs_that_burn
 #minecraft:lush_ground_replaceable
-#minecraft:lush_plants_replaceable
+#minecraft:moss_replaceable
 #minecraft:mushroom_grow_block
 #minecraft:non_flammable_wood
 #minecraft:nylium
