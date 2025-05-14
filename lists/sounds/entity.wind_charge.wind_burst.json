@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 8,
+      "name": "entity/wind_charge/wind_burst1",
+      "pitch": 1.25
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "entity/wind_charge/wind_burst2",
+      "pitch": 1.25
+    },
+    {
+      "attenuation_distance": 8,
+      "name": "entity/wind_charge/wind_burst3",
+      "pitch": 1.25
+    }
+  ],
+  "subtitle": "subtitles.entity.wind_charge.wind_burst"
+}

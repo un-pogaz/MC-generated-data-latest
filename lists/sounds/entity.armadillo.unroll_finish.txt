@@ -1,0 +1,2 @@
+minecraft:mob/armadillo/unroll_finish1
+minecraft:mob/armadillo/unroll_finish2

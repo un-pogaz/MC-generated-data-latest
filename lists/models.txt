@@ -3830,6 +3830,7 @@ minecraft:item/white_terracotta
 minecraft:item/white_tulip
 minecraft:item/white_wool
 minecraft:item/wild_armor_trim_smithing_template
+minecraft:item/wind_charge
 minecraft:item/witch_spawn_egg
 minecraft:item/wither_rose
 minecraft:item/wither_skeleton_skull

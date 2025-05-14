@@ -1694,6 +1694,9 @@ minecraft:entity/squid/hurt4
 minecraft:entity/squid/squirt1
 minecraft:entity/squid/squirt2
 minecraft:entity/squid/squirt3
+minecraft:entity/wind_charge/wind_burst1
+minecraft:entity/wind_charge/wind_burst2
+minecraft:entity/wind_charge/wind_burst3
 minecraft:entity/witch/ambient1
 minecraft:entity/witch/ambient2
 minecraft:entity/witch/ambient3
@@ -2017,6 +2020,7 @@ minecraft:mob/armadillo/land1
 minecraft:mob/armadillo/land2
 minecraft:mob/armadillo/land3
 minecraft:mob/armadillo/land4
+minecraft:mob/armadillo/peek
 minecraft:mob/armadillo/roll1
 minecraft:mob/armadillo/roll2
 minecraft:mob/armadillo/roll3
@@ -2028,8 +2032,9 @@ minecraft:mob/armadillo/step2
 minecraft:mob/armadillo/step3
 minecraft:mob/armadillo/step4
 minecraft:mob/armadillo/step5
-minecraft:mob/armadillo/unroll1
-minecraft:mob/armadillo/unroll2
+minecraft:mob/armadillo/unroll_finish1
+minecraft:mob/armadillo/unroll_finish2
+minecraft:mob/armadillo/unroll_start
 minecraft:mob/axolotl/attack1
 minecraft:mob/axolotl/attack2
 minecraft:mob/axolotl/attack3

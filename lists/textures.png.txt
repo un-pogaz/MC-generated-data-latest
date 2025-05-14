@@ -2554,6 +2554,7 @@ minecraft:item/wheat_seeds
 minecraft:item/white_candle
 minecraft:item/white_dye
 minecraft:item/wild_armor_trim_smithing_template
+minecraft:item/wind_charge
 minecraft:item/wolf_armor
 minecraft:item/wooden_axe
 minecraft:item/wooden_hoe

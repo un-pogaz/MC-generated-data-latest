@@ -1067,6 +1067,7 @@ minecraft:zombie_wall_head
 #minecraft:axolotls_spawnable_on
 #minecraft:azalea_grows_on
 #minecraft:azalea_root_replaceable
+#minecraft:badlands_terracotta
 #minecraft:bamboo_blocks
 #minecraft:bamboo_plantable_on
 #minecraft:banners
@@ -1078,6 +1079,7 @@ minecraft:zombie_wall_head
 #minecraft:beehives
 #minecraft:big_dripleaf_placeable
 #minecraft:birch_logs
+#minecraft:blocks_wind_charge_explosions
 #minecraft:buttons
 #minecraft:camel_sand_step_sound_blocks
 #minecraft:campfires
