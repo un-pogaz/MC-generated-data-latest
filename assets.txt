@@ -11,8 +11,10 @@ icons/snapshot/icon_32x32.png
 icons/snapshot/icon_48x48.png
 icons/snapshot/minecraft.icns
 minecraft/font/include/unifont.json
+minecraft/font/include/unifont_pua.json
 minecraft/font/unifont.zip
 minecraft/font/unifont_jp.zip
+minecraft/font/unifont_pua.zip
 minecraft/lang/af_za.json
 minecraft/lang/ar_sa.json
 minecraft/lang/ast_es.json
