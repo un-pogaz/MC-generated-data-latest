@@ -1,2 +1,3 @@
 minecraft:bundle
 minecraft:trade_rebalance
+minecraft:update_1_21

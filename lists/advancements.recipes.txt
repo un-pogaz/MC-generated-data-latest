@@ -1027,6 +1027,7 @@ minecraft:recipes/redstone/cherry_fence_gate
 minecraft:recipes/redstone/cherry_pressure_plate
 minecraft:recipes/redstone/cherry_trapdoor
 minecraft:recipes/redstone/comparator
+minecraft:recipes/redstone/crafter
 minecraft:recipes/redstone/crimson_button
 minecraft:recipes/redstone/crimson_door
 minecraft:recipes/redstone/crimson_fence_gate

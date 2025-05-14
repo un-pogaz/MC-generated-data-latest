@@ -70,8 +70,14 @@ gamerule mobGriefing
 gamerule mobGriefing <value brigadier:bool>
 gamerule naturalRegeneration
 gamerule naturalRegeneration <value brigadier:bool>
+gamerule playersNetherPortalCreativeDelay
+gamerule playersNetherPortalCreativeDelay <value brigadier:integer>
+gamerule playersNetherPortalDefaultDelay
+gamerule playersNetherPortalDefaultDelay <value brigadier:integer>
 gamerule playersSleepingPercentage
 gamerule playersSleepingPercentage <value brigadier:integer>
+gamerule projectilesCanBreakBlocks
+gamerule projectilesCanBreakBlocks <value brigadier:bool>
 gamerule randomTickSpeed
 gamerule randomTickSpeed <value brigadier:integer>
 gamerule reducedDebugInfo

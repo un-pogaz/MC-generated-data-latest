@@ -566,6 +566,8 @@ minecraft:block/copper/step3
 minecraft:block/copper/step4
 minecraft:block/copper/step5
 minecraft:block/copper/step6
+minecraft:block/crafter/craft
+minecraft:block/crafter/fail
 minecraft:block/decorated_pot/break1
 minecraft:block/decorated_pot/break2
 minecraft:block/decorated_pot/break3

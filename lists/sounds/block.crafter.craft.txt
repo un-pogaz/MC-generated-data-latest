@@ -1,0 +1,3 @@
+minecraft:block/crafter/craft
+minecraft:block/crafter/craft
+minecraft:block/crafter/craft
