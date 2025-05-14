@@ -1,1 +1,2 @@
+minecraft:sniffer_egg
 minecraft:turtle_egg

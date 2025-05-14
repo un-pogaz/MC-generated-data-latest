@@ -3546,6 +3546,7 @@ minecraft:item/tall_grass
 minecraft:item/target
 minecraft:item/template_banner
 minecraft:item/template_bed
+minecraft:item/template_music_disc
 minecraft:item/template_shulker_box
 minecraft:item/template_skull
 minecraft:item/template_spawn_egg
