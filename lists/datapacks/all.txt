@@ -1,6 +1,5 @@
 minecraft:activity
 minecraft:advancement
-minecraft:armor_material
 minecraft:attribute
 minecraft:banner_pattern
 minecraft:block

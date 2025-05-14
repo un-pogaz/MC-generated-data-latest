@@ -1,0 +1,5 @@
+{
+  "equip_sound": "minecraft:item.armor.equip_netherite",
+  "model": "minecraft:netherite",
+  "slot": "legs"
+}

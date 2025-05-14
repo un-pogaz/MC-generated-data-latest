@@ -1,0 +1,5 @@
+{
+  "equip_sound": "minecraft:item.armor.equip_gold",
+  "model": "minecraft:gold",
+  "slot": "feet"
+}

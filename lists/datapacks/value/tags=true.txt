@@ -1,5 +1,4 @@
 minecraft:activity
-minecraft:armor_material
 minecraft:attribute
 minecraft:banner_pattern
 minecraft:block

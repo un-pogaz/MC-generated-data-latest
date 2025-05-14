@@ -1,0 +1,25 @@
+{
+  "modifiers": [
+    {
+      "type": "minecraft:armor",
+      "amount": 3.0,
+      "id": "minecraft:armor.boots",
+      "operation": "add_value",
+      "slot": "feet"
+    },
+    {
+      "type": "minecraft:armor_toughness",
+      "amount": 3.0,
+      "id": "minecraft:armor.boots",
+      "operation": "add_value",
+      "slot": "feet"
+    },
+    {
+      "type": "minecraft:knockback_resistance",
+      "amount": 0.10000000149011612,
+      "id": "minecraft:armor.boots",
+      "operation": "add_value",
+      "slot": "feet"
+    }
+  ]
+}
