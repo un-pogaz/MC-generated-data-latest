@@ -1,4 +1,5 @@
 {
+  "damage_on_hurt": false,
   "equip_sound": "minecraft:item.armor.equip_elytra",
   "model": "minecraft:elytra",
   "slot": "chest"

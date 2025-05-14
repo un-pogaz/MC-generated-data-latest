@@ -1698,6 +1698,8 @@ minecraft:gui/sprites/container/brewing_stand/fuel_length
 minecraft:gui/sprites/container/bundle/bundle_progressbar_border  [mcmeta]
 minecraft:gui/sprites/container/bundle/bundle_progressbar_fill  [mcmeta]
 minecraft:gui/sprites/container/bundle/bundle_progressbar_full  [mcmeta]
+minecraft:gui/sprites/container/bundle/slot_highlight_back  [mcmeta]
+minecraft:gui/sprites/container/bundle/slot_highlight_front  [mcmeta]
 minecraft:gui/sprites/container/cartography_table/duplicated_map
 minecraft:gui/sprites/container/cartography_table/error
 minecraft:gui/sprites/container/cartography_table/locked
@@ -1764,6 +1766,8 @@ minecraft:gui/sprites/container/loom/pattern_slot
 minecraft:gui/sprites/container/loom/scroller
 minecraft:gui/sprites/container/loom/scroller_disabled
 minecraft:gui/sprites/container/slot
+minecraft:gui/sprites/container/slot_highlight_back  [mcmeta]
+minecraft:gui/sprites/container/slot_highlight_front  [mcmeta]
 minecraft:gui/sprites/container/smithing/error
 minecraft:gui/sprites/container/smoker/burn_progress
 minecraft:gui/sprites/container/smoker/lit_progress
