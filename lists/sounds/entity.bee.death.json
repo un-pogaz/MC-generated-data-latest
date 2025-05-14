@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/death1",
+      "volume": 1
+    },
+    {
+      "attenuation_distance": 16,
+      "name": "mob/bee/death2",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.bee.death"
+}

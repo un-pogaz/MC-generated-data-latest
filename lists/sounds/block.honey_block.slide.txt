@@ -1,0 +1,8 @@
+minecraft:block/honeyblock/slide1
+minecraft:block/honeyblock/slide2
+minecraft:block/honeyblock/slide3
+minecraft:block/honeyblock/slide4
+minecraft:block/honeyblock/slide1
+minecraft:block/honeyblock/slide2
+minecraft:block/honeyblock/slide3
+minecraft:block/honeyblock/slide4

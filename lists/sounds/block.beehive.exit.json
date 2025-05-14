@@ -1,0 +1,19 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 14,
+      "name": "block/beehive/exit"
+    },
+    {
+      "attenuation_distance": 14,
+      "name": "block/beehive/exit",
+      "pitch": 1.1
+    },
+    {
+      "attenuation_distance": 14,
+      "name": "block/beehive/exit",
+      "pitch": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.beehive.exit"
+}

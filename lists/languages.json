@@ -86,7 +86,7 @@
   },
   "de_ch": {
     "region": "Schwiz",
-    "name": "Schwizerdütsch",
+    "name": "Schwiizerdütsch",
     "bidirectional": false
   },
   "de_de": {
@@ -125,7 +125,7 @@
     "bidirectional": false
   },
   "en_ud": {
-    "region": "ɯopᵷuᴉʞ pǝʇᴉu∩",
+    "region": "uʍoᗡ ǝpᴉsd∩",
     "name": "ɥsᴉꞁᵷuƎ",
     "bidirectional": false
   },
@@ -154,6 +154,11 @@
     "name": "Español",
     "bidirectional": false
   },
+  "es_ec": {
+    "region": "Ecuador",
+    "name": "Español",
+    "bidirectional": false
+  },
   "es_es": {
     "region": "España",
     "name": "Español",
@@ -172,6 +177,11 @@
   "es_ve": {
     "region": "Venezuela",
     "name": "Español",
+    "bidirectional": false
+  },
+  "esan": {
+    "region": "Andaluçía",
+    "name": "Andalûh",
     "bidirectional": false
   },
   "et_ee": {
@@ -215,8 +225,8 @@
     "bidirectional": false
   },
   "fra_de": {
-    "region": "Frange",
-    "name": "Frängisch",
+    "region": "Franggn",
+    "name": "Fränggisch",
     "bidirectional": false
   },
   "fy_nl": {
@@ -235,17 +245,12 @@
     "bidirectional": false
   },
   "gl_es": {
-    "region": "Galicia",
+    "region": "Galicia / Galiza",
     "name": "Galego",
     "bidirectional": false
   },
-  "got_de": {
-    "region": "Dakia jah Heispanja",
-    "name": "Gutrazda",
-    "bidirectional": false
-  },
   "gv_im": {
-    "region": "Mannin",
+    "region": "Ellan Vannin",
     "name": "Gaelg",
     "bidirectional": false
   },
@@ -299,6 +304,11 @@
     "name": "Íslenska",
     "bidirectional": false
   },
+  "isv": {
+    "region": "Slovjanščina",
+    "name": "Medžuslovjansky",
+    "bidirectional": false
+  },
   "it_it": {
     "region": "Italia",
     "name": "Italiano",
@@ -317,11 +327,6 @@
   "ka_ge": {
     "region": "საქართველო",
     "name": "ქართული",
-    "bidirectional": false
-  },
-  "kab_kab": {
-    "region": "Dzayer",
-    "name": "Taqbaylit",
     "bidirectional": false
   },
   "kk_kz": {
@@ -364,6 +369,11 @@
     "name": "Limburgs",
     "bidirectional": false
   },
+  "lmo": {
+    "region": "Lombardia",
+    "name": "Lombard",
+    "bidirectional": false
+  },
   "lol_us": {
     "region": "Kingdom of Cats",
     "name": "LOLCAT",
@@ -377,6 +387,11 @@
   "lv_lv": {
     "region": "Latvija",
     "name": "Latviešu",
+    "bidirectional": false
+  },
+  "lzh": {
+    "region": "華夏",
+    "name": "文言",
     "bidirectional": false
   },
   "mi_nz": {
@@ -394,11 +409,6 @@
     "name": "Монгол",
     "bidirectional": false
   },
-  "moh_ca": {
-    "region": "Kanien'kehá:ka",
-    "name": "Kanien’kéha",
-    "bidirectional": false
-  },
   "ms_my": {
     "region": "Malaysia",
     "name": "Bahasa Melayu",
@@ -410,8 +420,8 @@
     "bidirectional": false
   },
   "nds_de": {
-    "region": "Düütskland",
-    "name": "Platdüütsk",
+    "region": "Düütschland",
+    "name": "Plattdüütsch",
     "bidirectional": false
   },
   "nl_be": {
@@ -434,24 +444,14 @@
     "name": "Norsk bokmål",
     "bidirectional": false
   },
-  "nuk": {
-    "region": "Nuučaan̓ułʔatḥ",
-    "name": "Nuučaan̓uł",
-    "bidirectional": false
-  },
   "oc_fr": {
     "region": "Occitània",
     "name": "Occitan",
     "bidirectional": false
   },
-  "oj_ca": {
-    "region": "Anishinaabewaki",
-    "name": "Ojibwemowin",
-    "bidirectional": false
-  },
   "ovd": {
     "region": "Swerre",
-    "name": "Övdalsk",
+    "name": "Övdalska",
     "bidirectional": false
   },
   "pl_pl": {
@@ -477,6 +477,11 @@
   "ro_ro": {
     "region": "România",
     "name": "Română",
+    "bidirectional": false
+  },
+  "rpr": {
+    "region": "Россійская имперія",
+    "name": "Дореформенный русскій",
     "bidirectional": false
   },
   "ru_ru": {
@@ -519,11 +524,6 @@
     "name": "Svenska",
     "bidirectional": false
   },
-  "swg": {
-    "region": "Allgai",
-    "name": "Oschdallgaiarisch",
-    "bidirectional": false
-  },
   "sxu": {
     "region": "Saggsn",
     "name": "Säggs'sch",
@@ -531,7 +531,7 @@
   },
   "szl": {
     "region": "Gōrny Ślōnsk",
-    "name": "Ślōnski",
+    "name": "Ślōnskŏ",
     "bidirectional": false
   },
   "ta_in": {
@@ -541,7 +541,12 @@
   },
   "th_th": {
     "region": "ประเทศไทย",
-    "name": "ภาษาไทย",
+    "name": "ไทย",
+    "bidirectional": false
+  },
+  "tl_ph": {
+    "region": "Pilipinas",
+    "name": "Tagalog",
     "bidirectional": false
   },
   "tlh_aa": {
@@ -559,18 +564,13 @@
     "name": "Татарча",
     "bidirectional": false
   },
-  "tzl_tzl": {
-    "region": "Talossa",
-    "name": "Talossan",
-    "bidirectional": false
-  },
   "uk_ua": {
     "region": "Україна",
     "name": "Українська",
     "bidirectional": false
   },
   "val_es": {
-    "region": "País Valencià",
+    "region": "Comunitat Valenciana",
     "name": "Català (Valencià)",
     "bidirectional": false
   },
@@ -585,9 +585,9 @@
     "bidirectional": false
   },
   "yi_de": {
-    "region": "פֿאַראײניקטע שטאַטן",
+    "region": "אשכנזישע יידן",
     "name": "ייִדיש",
-    "bidirectional": false
+    "bidirectional": true
   },
   "yo_ng": {
     "region": "Nàìjíríà",
@@ -597,6 +597,11 @@
   "zh_cn": {
     "region": "中国",
     "name": "简体中文",
+    "bidirectional": false
+  },
+  "zh_hk": {
+    "region": "香港",
+    "name": "繁體中文",
     "bidirectional": false
   },
   "zh_tw": {

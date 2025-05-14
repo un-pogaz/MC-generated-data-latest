@@ -28,6 +28,7 @@ minecraft:baked_potato_from_smoking
 minecraft:banner_duplicate
 minecraft:barrel
 minecraft:beacon
+minecraft:bee_hive
 minecraft:beetroot_soup
 minecraft:birch_boat
 minecraft:birch_button
@@ -712,7 +713,8 @@ minecraft:stone_stairs
 minecraft:stone_stairs_from_stone_stonecutting
 minecraft:stone_sword
 minecraft:stonecutter
-minecraft:sugar
+minecraft:sugar_from_honey_bottle
+minecraft:sugar_from_sugar_cane
 minecraft:suspicious_stew
 minecraft:terracotta
 minecraft:tipped_arrow

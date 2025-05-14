@@ -26,6 +26,16 @@ minecraft:block/barrel_top
 minecraft:block/barrel_top_open
 minecraft:block/beacon
 minecraft:block/bedrock
+minecraft:block/bee_hive_bottom
+minecraft:block/bee_hive_front
+minecraft:block/bee_hive_front_honey
+minecraft:block/bee_hive_side
+minecraft:block/bee_hive_top
+minecraft:block/bee_nest_bottom
+minecraft:block/bee_nest_front
+minecraft:block/bee_nest_front_honey
+minecraft:block/bee_nest_side
+minecraft:block/bee_nest_top
 minecraft:block/beetroots_stage0
 minecraft:block/beetroots_stage1
 minecraft:block/beetroots_stage2
@@ -579,6 +589,7 @@ minecraft:block/vine
 minecraft:block/water_flow  [mcmeta]
 minecraft:block/water_overlay
 minecraft:block/water_still  [mcmeta]
+minecraft:block/wax_block
 minecraft:block/wet_sponge
 minecraft:block/wheat_stage0
 minecraft:block/wheat_stage1
@@ -672,6 +683,11 @@ minecraft:entity/bed/purple
 minecraft:entity/bed/red
 minecraft:entity/bed/white
 minecraft:entity/bed/yellow
+minecraft:entity/bee/bee
+minecraft:entity/bee/bee_angry
+minecraft:entity/bee/bee_angry_nectar
+minecraft:entity/bee/bee_nectar
+minecraft:entity/bee/bee_stinger
 minecraft:entity/bell/bell_body
 minecraft:entity/blaze
 minecraft:entity/boat/acacia
@@ -1450,6 +1466,7 @@ minecraft:item/crossbow_pulling_0
 minecraft:item/crossbow_pulling_1
 minecraft:item/crossbow_pulling_2
 minecraft:item/crossbow_standby
+minecraft:item/crystallized_honey
 minecraft:item/cyan_dye
 minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_door
@@ -1518,6 +1535,8 @@ minecraft:item/gray_dye
 minecraft:item/green_dye
 minecraft:item/gunpowder
 minecraft:item/heart_of_the_sea
+minecraft:item/honey_bottle
+minecraft:item/honeycomb
 minecraft:item/hopper
 minecraft:item/hopper_minecart
 minecraft:item/ink_sac

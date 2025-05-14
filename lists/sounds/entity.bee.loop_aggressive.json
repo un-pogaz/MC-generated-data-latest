@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "attenuation_distance": 10,
+      "name": "mob/bee/aggressive1",
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 10,
+      "name": "mob/bee/aggressive2",
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 10,
+      "name": "mob/bee/aggressive3",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.bee.loop_aggressive"
+}

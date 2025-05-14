@@ -68,6 +68,10 @@ minecraft:block/beacon
 minecraft:block/bed
 minecraft:block/bedrock
 minecraft:block/bedrock_mirrored
+minecraft:block/bee_hive
+minecraft:block/bee_hive_honey
+minecraft:block/bee_nest
+minecraft:block/bee_nest_honey
 minecraft:block/beetroots_stage0
 minecraft:block/beetroots_stage1
 minecraft:block/beetroots_stage2
@@ -1233,6 +1237,9 @@ minecraft:item/barrier
 minecraft:item/bat_spawn_egg
 minecraft:item/beacon
 minecraft:item/bedrock
+minecraft:item/bee_hive
+minecraft:item/bee_nest
+minecraft:item/bee_spawn_egg
 minecraft:item/beef
 minecraft:item/beetroot
 minecraft:item/beetroot_seeds
@@ -1689,6 +1696,8 @@ minecraft:item/handheld_rod
 minecraft:item/hay_block
 minecraft:item/heart_of_the_sea
 minecraft:item/heavy_weighted_pressure_plate
+minecraft:item/honey_bottle
+minecraft:item/honeycomb
 minecraft:item/hopper
 minecraft:item/hopper_minecart
 minecraft:item/horn_coral

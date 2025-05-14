@@ -9,6 +9,8 @@ minecraft:anvil
 minecraft:attached_melon_stem
 minecraft:attached_pumpkin_stem
 minecraft:barrel
+minecraft:bee_hive
+minecraft:bee_nest
 minecraft:bell
 minecraft:birch_button
 minecraft:birch_door

@@ -1,0 +1,2 @@
+#minecraft:crops
+minecraft:sweet_berry_bush
