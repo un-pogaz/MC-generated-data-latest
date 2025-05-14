@@ -636,11 +636,11 @@ minecraft:snow
 minecraft:snow_block
 minecraft:soul_campfire
 minecraft:soul_fire
-minecraft:soul_fire_lantern
-minecraft:soul_fire_torch
-minecraft:soul_fire_wall_torch
+minecraft:soul_lantern
 minecraft:soul_sand
 minecraft:soul_soil
+minecraft:soul_torch
+minecraft:soul_wall_torch
 minecraft:spawner
 minecraft:sponge
 minecraft:spruce_button
@@ -802,6 +802,7 @@ minecraft:zombie_wall_head
 #minecraft:piglin_repellents
 #minecraft:planks
 #minecraft:portals
+#minecraft:pressure_plates
 #minecraft:rails
 #minecraft:sand
 #minecraft:saplings
@@ -815,6 +816,7 @@ minecraft:zombie_wall_head
 #minecraft:stairs
 #minecraft:standing_signs
 #minecraft:stone_bricks
+#minecraft:stone_pressure_plates
 #minecraft:strider_warm_blocks
 #minecraft:tall_flowers
 #minecraft:trapdoors

@@ -1,2 +1,3 @@
 minecraft:alt
 minecraft:default
+minecraft:uniform

@@ -36,5 +36,6 @@ minecraft:scoreboard_slot
 minecraft:swizzle
 minecraft:team
 minecraft:time
+minecraft:uuid
 minecraft:vec2
 minecraft:vec3

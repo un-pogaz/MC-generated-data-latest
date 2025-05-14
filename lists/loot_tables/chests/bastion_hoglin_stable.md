@@ -1,13 +1,13 @@
 | Name                        | Count | Chance | Weight | Comment         |
 | --------------------------- | ----- | ------ | ------ | --------------- |
 | 1 time                      |    -- |     -- |     -- |                 |
-| minecraft:netherite_shovel  |     1 |  13.3% |  10/75 | enchantments: * |
-| minecraft:netherite_scrap   |     1 |  13.3% |  10/75 |                 |
-| minecraft:ancient_debris    |     1 |  13.3% |  10/75 |                 |
-| minecraft:saddle            |     1 |    20% |  15/75 |                 |
-| minecraft:gold_block        |  2..4 |  13.3% |  10/75 |                 |
-| minecraft:golden_hoe        |     1 |  13.3% |  10/75 | enchantments: * |
-| empty                       |       |  13.3% |  10/75 |                 |
+| minecraft:diamond_shovel    |     1 |   4.8% |  5/105 | enchantments: * |
+| minecraft:netherite_scrap   |     1 |   1.9% |  2/105 |                 |
+| minecraft:ancient_debris    |     1 |   2.9% |  3/105 |                 |
+| minecraft:saddle            |     1 |   9.5% | 10/105 |                 |
+| minecraft:gold_block        |  2..4 |  23.8% | 25/105 |                 |
+| minecraft:golden_hoe        |     1 |  14.3% | 15/105 | enchantments: * |
+| empty                       |       |  42.9% | 45/105 |                 |
 | – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – |
 | 3 to 4 time                 |    -- |     -- |     -- |                 |
 | minecraft:glowstone         |  1..5 |   8.3% |   1/12 |                 |

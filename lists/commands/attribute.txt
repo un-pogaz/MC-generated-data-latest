@@ -1,0 +1,11 @@
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> base get
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> base get <scale brigadier:double>
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> base set <value brigadier:double>
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> get
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> get <scale brigadier:double>
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> modifier add <uuid minecraft:uuid> <name brigadier:string[type="phrase"]> <value brigadier:double> add
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> modifier add <uuid minecraft:uuid> <name brigadier:string[type="phrase"]> <value brigadier:double> multiply
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> modifier add <uuid minecraft:uuid> <name brigadier:string[type="phrase"]> <value brigadier:double> multiply_base
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> modifier remove <uuid minecraft:uuid>
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> modifier value get <uuid minecraft:uuid>
+attribute <target minecraft:entity[amount="single", type="entities"]> <attribute minecraft:resource_location> modifier value get <uuid minecraft:uuid> <scale brigadier:double>

@@ -4,9 +4,9 @@ minecraft:netherite_scrap
 minecraft:spectral_arrow
 minecraft:piglin_banner_pattern
 minecraft:music_disc_pigstep
+minecraft:enchanted_book
 empty
 
-minecraft:enchanted_book
 minecraft:golden_boots
 minecraft:gold_block
 minecraft:crossbow
