@@ -37,6 +37,12 @@
             "frame": "challenge",
             "rewards": "100 xp"
           },
+          "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+            "icon": "minecraft:sculk_catalyst",
+            "title": "It Spreads",
+            "description": "Kill a mob near a Sculk Catalyst",
+            "frame": "challenge"
+          },
           "minecraft:adventure/shoot_arrow": {
             "icon": "minecraft:bow",
             "title": "Take Aim",
@@ -80,12 +86,6 @@
             "frame": "goal"
           }
         }
-      },
-      "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-        "icon": "minecraft:sculk_catalyst",
-        "title": "It Spreads",
-        "description": "Kill a mob near a Sculk Catalyst",
-        "frame": "challenge"
       },
       "minecraft:adventure/lightning_rod_with_villager_no_fire": {
         "icon": "minecraft:lightning_rod",
@@ -291,7 +291,7 @@
           "minecraft:husbandry/allay_deliver_cake_to_note_block": {
             "icon": "minecraft:note_block",
             "title": "Birthday Song",
-            "description": "Have an Allay drop a cake at a Note Block",
+            "description": "Have an Allay drop a Cake at a Note Block",
             "frame": "challenge",
             "hidden": true
           }

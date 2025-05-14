@@ -4,5 +4,6 @@
     "mob/frog/step2",
     "mob/frog/step3",
     "mob/frog/step4"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
 }

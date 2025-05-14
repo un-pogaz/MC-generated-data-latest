@@ -1,0 +1,4 @@
+minecraft:mob/frog/tongue1
+minecraft:mob/frog/tongue2
+minecraft:mob/frog/tongue3
+minecraft:mob/frog/tongue4
