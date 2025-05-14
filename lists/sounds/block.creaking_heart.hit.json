@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/creaking_heart/hit/creaking_heart_hit1",
+    "block/creaking_heart/hit/creaking_heart_hit2",
+    "block/creaking_heart/hit/creaking_heart_hit3",
+    "block/creaking_heart/hit/creaking_heart_hit4",
+    "block/creaking_heart/hit/creaking_heart_hit5"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

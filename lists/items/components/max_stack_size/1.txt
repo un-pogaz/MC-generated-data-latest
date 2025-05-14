@@ -148,6 +148,8 @@ minecraft:oak_chest_boat
 minecraft:orange_bed
 minecraft:orange_bundle
 minecraft:orange_shulker_box
+minecraft:pale_oak_boat
+minecraft:pale_oak_chest_boat
 minecraft:piglin_banner_pattern
 minecraft:pink_bed
 minecraft:pink_bundle

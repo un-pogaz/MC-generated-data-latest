@@ -1,0 +1,5 @@
+minecraft:block/creaking_heart/hit/creaking_heart_hit1
+minecraft:block/creaking_heart/hit/creaking_heart_hit2
+minecraft:block/creaking_heart/hit/creaking_heart_hit3
+minecraft:block/creaking_heart/hit/creaking_heart_hit4
+minecraft:block/creaking_heart/hit/creaking_heart_hit5

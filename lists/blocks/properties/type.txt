@@ -30,6 +30,7 @@ minecraft:mud_brick_slab
 minecraft:nether_brick_slab
 minecraft:oak_slab
 minecraft:oxidized_cut_copper_slab
+minecraft:pale_oak_slab
 minecraft:petrified_oak_slab
 minecraft:piston_head
 minecraft:polished_andesite_slab

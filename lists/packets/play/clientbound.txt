@@ -31,6 +31,7 @@ minecraft:delete_chat
 minecraft:disconnect
 minecraft:disguised_chat
 minecraft:entity_event
+minecraft:entity_position_sync
 minecraft:explode
 minecraft:forget_level_chunk
 minecraft:game_event
@@ -64,9 +65,12 @@ minecraft:player_info_remove
 minecraft:player_info_update
 minecraft:player_look_at
 minecraft:player_position
+minecraft:player_rotation
 minecraft:pong_response
 minecraft:projectile_power
-minecraft:recipe
+minecraft:recipe_book_add
+minecraft:recipe_book_remove
+minecraft:recipe_book_settings
 minecraft:remove_entities
 minecraft:remove_mob_effect
 minecraft:reset_score

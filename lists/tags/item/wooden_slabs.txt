@@ -9,3 +9,4 @@ minecraft:warped_slab
 minecraft:mangrove_slab
 minecraft:bamboo_slab
 minecraft:cherry_slab
+minecraft:pale_oak_slab

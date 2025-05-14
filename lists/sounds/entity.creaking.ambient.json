@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "mob/creaking/creaking_idle1",
+    "mob/creaking/creaking_idle2",
+    "mob/creaking/creaking_idle3",
+    "mob/creaking/creaking_idle4",
+    "mob/creaking/creaking_idle5",
+    "mob/creaking/creaking_idle6"
+  ],
+  "subtitle": "subtitles.entity.creaking.ambient"
+}

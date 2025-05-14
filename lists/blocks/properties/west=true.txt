@@ -26,6 +26,7 @@ minecraft:mushroom_stem
 minecraft:nether_brick_fence
 minecraft:oak_fence
 minecraft:orange_stained_glass_pane
+minecraft:pale_oak_fence
 minecraft:pink_stained_glass_pane
 minecraft:purple_stained_glass_pane
 minecraft:red_mushroom_block

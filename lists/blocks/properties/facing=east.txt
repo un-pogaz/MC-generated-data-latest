@@ -184,6 +184,13 @@ minecraft:orange_wall_banner
 minecraft:oxidized_copper_door
 minecraft:oxidized_copper_trapdoor
 minecraft:oxidized_cut_copper_stairs
+minecraft:pale_oak_button
+minecraft:pale_oak_door
+minecraft:pale_oak_fence_gate
+minecraft:pale_oak_stairs
+minecraft:pale_oak_trapdoor
+minecraft:pale_oak_wall_hanging_sign
+minecraft:pale_oak_wall_sign
 minecraft:piglin_wall_head
 minecraft:pink_bed
 minecraft:pink_glazed_terracotta

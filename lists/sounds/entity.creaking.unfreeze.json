@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/creaking/creaking_unfreeze1",
+    "mob/creaking/creaking_unfreeze2",
+    "mob/creaking/creaking_unfreeze3"
+  ],
+  "subtitle": "subtitles.entity.creaking.unfreeze"
+}

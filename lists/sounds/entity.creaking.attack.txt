@@ -1,0 +1,4 @@
+minecraft:mob/creaking/creaking_attack1
+minecraft:mob/creaking/creaking_attack2
+minecraft:mob/creaking/creaking_attack3
+minecraft:mob/creaking/creaking_attack4

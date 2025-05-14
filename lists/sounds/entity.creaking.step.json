@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/creaking/creaking_step1",
+    "mob/creaking/creaking_step2",
+    "mob/creaking/creaking_step3",
+    "mob/creaking/creaking_step4",
+    "mob/creaking/creaking_step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

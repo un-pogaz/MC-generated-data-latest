@@ -1,0 +1,15 @@
+minecraft:block/pale_hanging_moss/pale_hanging_moss1
+minecraft:block/pale_hanging_moss/pale_hanging_moss2
+minecraft:block/pale_hanging_moss/pale_hanging_moss3
+minecraft:block/pale_hanging_moss/pale_hanging_moss4
+minecraft:block/pale_hanging_moss/pale_hanging_moss5
+minecraft:block/pale_hanging_moss/pale_hanging_moss6
+minecraft:block/pale_hanging_moss/pale_hanging_moss7
+minecraft:block/pale_hanging_moss/pale_hanging_moss8
+minecraft:block/pale_hanging_moss/pale_hanging_moss9
+minecraft:block/pale_hanging_moss/pale_hanging_moss10
+minecraft:block/pale_hanging_moss/pale_hanging_moss11
+minecraft:block/pale_hanging_moss/pale_hanging_moss12
+minecraft:block/pale_hanging_moss/pale_hanging_moss13
+minecraft:block/pale_hanging_moss/pale_hanging_moss14
+minecraft:block/pale_hanging_moss/pale_hanging_moss15

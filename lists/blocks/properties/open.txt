@@ -34,6 +34,9 @@ minecraft:oak_fence_gate
 minecraft:oak_trapdoor
 minecraft:oxidized_copper_door
 minecraft:oxidized_copper_trapdoor
+minecraft:pale_oak_door
+minecraft:pale_oak_fence_gate
+minecraft:pale_oak_trapdoor
 minecraft:spruce_door
 minecraft:spruce_fence_gate
 minecraft:spruce_trapdoor

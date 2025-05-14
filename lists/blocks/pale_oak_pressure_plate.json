@@ -1,0 +1,13 @@
+{
+  "definition": {
+    "type": "minecraft:pressure_plate",
+    "block_set_type": "pale_oak",
+    "properties": {}
+  },
+  "properties": {
+    "powered": [
+      "true",
+      "false"
+    ]
+  }
+}

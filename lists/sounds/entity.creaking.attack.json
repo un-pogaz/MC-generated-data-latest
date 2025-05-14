@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/creaking/creaking_attack1",
+    "mob/creaking/creaking_attack2",
+    "mob/creaking/creaking_attack3",
+    "mob/creaking/creaking_attack4"
+  ],
+  "subtitle": "subtitles.entity.creaking.attack"
+}

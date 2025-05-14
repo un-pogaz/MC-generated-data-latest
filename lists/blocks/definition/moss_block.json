@@ -1,4 +1,5 @@
 {
+  "feature": "minecraft:moss_patch_bonemeal",
   "properties": {},
-  "type": "minecraft:moss"
+  "type": "minecraft:bonemealable_feature_placer"
 }

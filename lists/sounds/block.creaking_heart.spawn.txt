@@ -1,0 +1,1 @@
+minecraft:block/creaking_heart/spawnmob/creaking_heart_spawnmob

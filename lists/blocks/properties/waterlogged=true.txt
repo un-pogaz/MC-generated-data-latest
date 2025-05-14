@@ -217,6 +217,15 @@ minecraft:oxidized_copper_grate
 minecraft:oxidized_copper_trapdoor
 minecraft:oxidized_cut_copper_slab
 minecraft:oxidized_cut_copper_stairs
+minecraft:pale_oak_fence
+minecraft:pale_oak_hanging_sign
+minecraft:pale_oak_leaves
+minecraft:pale_oak_sign
+minecraft:pale_oak_slab
+minecraft:pale_oak_stairs
+minecraft:pale_oak_trapdoor
+minecraft:pale_oak_wall_hanging_sign
+minecraft:pale_oak_wall_sign
 minecraft:petrified_oak_slab
 minecraft:pink_candle
 minecraft:pink_stained_glass_pane

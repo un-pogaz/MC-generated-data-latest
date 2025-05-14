@@ -9,3 +9,4 @@ minecraft:warped_door
 minecraft:mangrove_door
 minecraft:bamboo_door
 minecraft:cherry_door
+minecraft:pale_oak_door

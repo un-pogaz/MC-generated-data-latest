@@ -1,0 +1,7 @@
+minecraft:block/creaking_heart/hurt/trail1
+minecraft:block/creaking_heart/hurt/trail2
+minecraft:block/creaking_heart/hurt/trail3
+minecraft:block/creaking_heart/hurt/trail4
+minecraft:block/creaking_heart/hurt/trail5
+minecraft:block/creaking_heart/hurt/trail6
+minecraft:block/creaking_heart/hurt/trail7

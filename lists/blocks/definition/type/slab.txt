@@ -25,6 +25,7 @@ minecraft:mossy_stone_brick_slab
 minecraft:mud_brick_slab
 minecraft:nether_brick_slab
 minecraft:oak_slab
+minecraft:pale_oak_slab
 minecraft:petrified_oak_slab
 minecraft:polished_andesite_slab
 minecraft:polished_blackstone_brick_slab

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/creaking_heart/idle/creaking_heart_idle1",
+    "block/creaking_heart/idle/creaking_heart_idle2",
+    "block/creaking_heart/idle/creaking_heart_idle3",
+    "block/creaking_heart/idle/creaking_heart_idle4"
+  ],
+  "subtitle": "subtitles.block.creaking_heart.idle"
+}

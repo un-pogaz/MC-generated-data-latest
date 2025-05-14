@@ -1,0 +1,6 @@
+minecraft:mob/creaking/creaking_idle1
+minecraft:mob/creaking/creaking_idle2
+minecraft:mob/creaking/creaking_idle3
+minecraft:mob/creaking/creaking_idle4
+minecraft:mob/creaking/creaking_idle5
+minecraft:mob/creaking/creaking_idle6

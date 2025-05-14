@@ -1,0 +1,31 @@
+{
+  "definition": {
+    "type": "minecraft:trapdoor",
+    "block_set_type": "pale_oak",
+    "properties": {}
+  },
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "half": [
+      "top",
+      "bottom"
+    ],
+    "open": [
+      "true",
+      "false"
+    ],
+    "powered": [
+      "true",
+      "false"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

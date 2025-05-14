@@ -9,3 +9,4 @@ minecraft:warped_trapdoor
 minecraft:mangrove_trapdoor
 minecraft:bamboo_trapdoor
 minecraft:cherry_trapdoor
+minecraft:pale_oak_trapdoor

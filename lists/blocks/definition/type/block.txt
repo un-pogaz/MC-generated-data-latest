@@ -103,6 +103,7 @@ minecraft:orange_terracotta
 minecraft:orange_wool
 minecraft:packed_ice
 minecraft:packed_mud
+minecraft:pale_oak_planks
 minecraft:pink_concrete
 minecraft:pink_terracotta
 minecraft:pink_wool
