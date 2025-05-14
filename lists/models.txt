@@ -1639,6 +1639,7 @@ minecraft:item/activator_rail
 minecraft:item/air
 minecraft:item/allium
 minecraft:item/amethyst_block
+minecraft:item/amethyst_bud
 minecraft:item/amethyst_cluster
 minecraft:item/amethyst_shard
 minecraft:item/ancient_debris
