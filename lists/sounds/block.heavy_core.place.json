@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/heavy_core/break1",
+    "block/heavy_core/break2",
+    "block/heavy_core/break3",
+    "block/heavy_core/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

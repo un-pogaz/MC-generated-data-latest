@@ -1,0 +1,4 @@
+minecraft:block/heavy_core/step1
+minecraft:block/heavy_core/step2
+minecraft:block/heavy_core/step3
+minecraft:block/heavy_core/step4

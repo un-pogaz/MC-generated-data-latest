@@ -1,0 +1,4 @@
+minecraft:block/heavy_core/break1
+minecraft:block/heavy_core/break2
+minecraft:block/heavy_core/break3
+minecraft:block/heavy_core/break4

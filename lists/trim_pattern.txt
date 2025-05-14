@@ -1,6 +1,8 @@
+minecraft:bolt
 minecraft:coast
 minecraft:dune
 minecraft:eye
+minecraft:flow
 minecraft:host
 minecraft:raiser
 minecraft:rib

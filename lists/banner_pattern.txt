@@ -9,10 +9,12 @@ minecraft:diagonal_left
 minecraft:diagonal_right
 minecraft:diagonal_up_left
 minecraft:diagonal_up_right
+minecraft:flow
 minecraft:flower
 minecraft:globe
 minecraft:gradient
 minecraft:gradient_up
+minecraft:guster
 minecraft:half_horizontal
 minecraft:half_horizontal_bottom
 minecraft:half_vertical
@@ -41,8 +43,10 @@ minecraft:triangles_bottom
 minecraft:triangles_top
 #minecraft:no_item_required
 #minecraft:pattern_item/creeper
+#minecraft:pattern_item/flow
 #minecraft:pattern_item/flower
 #minecraft:pattern_item/globe
+#minecraft:pattern_item/guster
 #minecraft:pattern_item/mojang
 #minecraft:pattern_item/piglin
 #minecraft:pattern_item/skull

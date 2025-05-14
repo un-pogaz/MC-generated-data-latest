@@ -1,0 +1,6 @@
+minecraft:enchanted_golden_apple
+minecraft:bolt_armor_trim_smithing_template
+minecraft:flow_armor_trim_smithing_template
+minecraft:flow_banner_pattern
+minecraft:guster_banner_pattern
+minecraft:heavy_core

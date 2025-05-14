@@ -872,6 +872,7 @@ minecraft:block/grindstone
 minecraft:block/hanging_roots
 minecraft:block/hay_block
 minecraft:block/hay_block_horizontal
+minecraft:block/heavy_core
 minecraft:block/heavy_weighted_pressure_plate
 minecraft:block/heavy_weighted_pressure_plate_down
 minecraft:block/honey_block
@@ -2260,6 +2261,7 @@ minecraft:item/blue_stained_glass_pane
 minecraft:item/blue_terracotta
 minecraft:item/blue_wool
 minecraft:item/bogged_spawn_egg
+minecraft:item/bolt_armor_trim_smithing_template
 minecraft:item/bone
 minecraft:item/bone_block
 minecraft:item/bone_meal
@@ -2274,6 +2276,7 @@ minecraft:item/brain_coral
 minecraft:item/brain_coral_block
 minecraft:item/brain_coral_fan
 minecraft:item/bread
+minecraft:item/breeze_rod
 minecraft:item/breeze_spawn_egg
 minecraft:item/brewer_pottery_sherd
 minecraft:item/brewing_stand
@@ -2783,6 +2786,9 @@ minecraft:item/fishing_rod_cast
 minecraft:item/fletching_table
 minecraft:item/flint
 minecraft:item/flint_and_steel
+minecraft:item/flow_armor_trim_smithing_template
+minecraft:item/flow_banner_pattern
+minecraft:item/flow_pottery_sherd
 minecraft:item/flower_banner_pattern
 minecraft:item/flower_pot
 minecraft:item/flowering_azalea
@@ -2902,13 +2908,17 @@ minecraft:item/green_wool
 minecraft:item/grindstone
 minecraft:item/guardian_spawn_egg
 minecraft:item/gunpowder
+minecraft:item/guster_banner_pattern
+minecraft:item/guster_pottery_sherd
 minecraft:item/handheld
+minecraft:item/handheld_mace
 minecraft:item/handheld_rod
 minecraft:item/hanging_roots
 minecraft:item/hay_block
 minecraft:item/heart_of_the_sea
 minecraft:item/heart_pottery_sherd
 minecraft:item/heartbreak_pottery_sherd
+minecraft:item/heavy_core
 minecraft:item/heavy_weighted_pressure_plate
 minecraft:item/hoglin_spawn_egg
 minecraft:item/honey_block
@@ -3136,6 +3146,7 @@ minecraft:item/lingering_potion
 minecraft:item/llama_spawn_egg
 minecraft:item/lodestone
 minecraft:item/loom
+minecraft:item/mace
 minecraft:item/magenta_banner
 minecraft:item/magenta_bed
 minecraft:item/magenta_candle
@@ -3541,6 +3552,7 @@ minecraft:item/sandstone_slab
 minecraft:item/sandstone_stairs
 minecraft:item/sandstone_wall
 minecraft:item/scaffolding
+minecraft:item/scrape_pottery_sherd
 minecraft:item/sculk
 minecraft:item/sculk_catalyst
 minecraft:item/sculk_sensor

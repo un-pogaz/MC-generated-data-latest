@@ -13,6 +13,7 @@ minecraft:custom_stat
 minecraft:data_component_type
 minecraft:decorated_pot_patterns
 minecraft:enchantment
+minecraft:entity_sub_predicate_type
 minecraft:entity_type
 minecraft:float_provider_type
 minecraft:fluid
@@ -22,6 +23,7 @@ minecraft:height_provider_type
 minecraft:instrument
 minecraft:int_provider_type
 minecraft:item
+minecraft:item_sub_predicate_type
 minecraft:loot_condition_type
 minecraft:loot_function_type
 minecraft:loot_nbt_provider_type
