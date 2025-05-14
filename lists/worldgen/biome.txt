@@ -110,6 +110,7 @@ minecraft:wooded_badlands
 #minecraft:is_river
 #minecraft:is_savanna
 #minecraft:is_taiga
+#minecraft:mineshaft_blocking
 #minecraft:more_frequent_drowned_spawns
 #minecraft:only_allows_snow_and_gold_rabbits
 #minecraft:plays_underwater_music

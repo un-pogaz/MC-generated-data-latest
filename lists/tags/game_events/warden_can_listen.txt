@@ -38,5 +38,6 @@ minecraft:shear
 minecraft:splash
 minecraft:step
 minecraft:swim
+minecraft:teleport
 minecraft:shriek
 #minecraft:shrieker_can_listen
