@@ -146,6 +146,7 @@ minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
 minecraft:bubble_coral_wall_fan
 minecraft:budding_amethyst
+minecraft:bush
 minecraft:cactus
 minecraft:cake
 minecraft:calcite
@@ -378,6 +379,7 @@ minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
 minecraft:fire_coral_wall_fan
+minecraft:firefly_bush
 minecraft:fletching_table
 minecraft:flower_pot
 minecraft:flowering_azalea
@@ -1221,6 +1223,7 @@ minecraft:zombie_wall_head
 #minecraft:parrots_spawnable_on
 #minecraft:piglin_repellents
 #minecraft:planks
+#minecraft:plays_ambient_desert_block_sounds
 #minecraft:polar_bears_spawnable_on_alternate
 #minecraft:portals
 #minecraft:pressure_plates

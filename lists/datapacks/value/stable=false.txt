@@ -1,6 +1,7 @@
 minecraft:banner_pattern
 minecraft:cat_variant
 minecraft:chat_type
+minecraft:cow_variant
 minecraft:damage_type
 minecraft:dimension
 minecraft:dimension_type

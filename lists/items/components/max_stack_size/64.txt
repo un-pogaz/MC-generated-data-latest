@@ -146,6 +146,7 @@ minecraft:bubble_coral_block
 minecraft:bubble_coral_fan
 minecraft:budding_amethyst
 minecraft:burn_pottery_sherd
+minecraft:bush
 minecraft:cactus
 minecraft:calcite
 minecraft:calibrated_sculk_sensor
@@ -398,6 +399,7 @@ minecraft:fire_charge
 minecraft:fire_coral
 minecraft:fire_coral_block
 minecraft:fire_coral_fan
+minecraft:firefly_bush
 minecraft:firework_rocket
 minecraft:firework_star
 minecraft:fletching_table

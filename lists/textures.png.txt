@@ -128,6 +128,7 @@ minecraft:block/bubble_coral
 minecraft:block/bubble_coral_block
 minecraft:block/bubble_coral_fan
 minecraft:block/budding_amethyst
+minecraft:block/bush
 minecraft:block/cactus_bottom
 minecraft:block/cactus_side
 minecraft:block/cactus_top
@@ -384,6 +385,8 @@ minecraft:block/fire_1  [mcmeta]
 minecraft:block/fire_coral
 minecraft:block/fire_coral_block
 minecraft:block/fire_coral_fan
+minecraft:block/firefly_bush
+minecraft:block/firefly_bush_emissive  [mcmeta]
 minecraft:block/fletching_table_front
 minecraft:block/fletching_table_side
 minecraft:block/fletching_table_top
@@ -1184,8 +1187,10 @@ minecraft:entity/conduit/open_eye
 minecraft:entity/conduit/wind  [mcmeta]
 minecraft:entity/conduit/wind_vertical  [mcmeta]
 minecraft:entity/cow/brown_mooshroom
-minecraft:entity/cow/cow
+minecraft:entity/cow/cold_cow
 minecraft:entity/cow/red_mooshroom
+minecraft:entity/cow/temperate_cow
+minecraft:entity/cow/warm_cow
 minecraft:entity/creaking/creaking
 minecraft:entity/creaking/creaking_eyes
 minecraft:entity/creeper/creeper
@@ -1358,7 +1363,7 @@ minecraft:entity/parrot/parrot_yellow_blue
 minecraft:entity/phantom
 minecraft:entity/phantom_eyes
 minecraft:entity/pig/cold_pig
-minecraft:entity/pig/pig
+minecraft:entity/pig/temperate_pig
 minecraft:entity/pig/warm_pig
 minecraft:entity/piglin/piglin
 minecraft:entity/piglin/piglin_brute
@@ -2380,6 +2385,7 @@ minecraft:item/field_masoned_banner_pattern
 minecraft:item/filled_map
 minecraft:item/filled_map_markings
 minecraft:item/fire_charge
+minecraft:item/firefly_bush
 minecraft:item/firework_rocket
 minecraft:item/firework_star
 minecraft:item/firework_star_overlay
@@ -2967,6 +2973,7 @@ minecraft:particle/explosion_6
 minecraft:particle/explosion_7
 minecraft:particle/explosion_8
 minecraft:particle/explosion_9
+minecraft:particle/firefly
 minecraft:particle/flame
 minecraft:particle/flash
 minecraft:particle/generic_0

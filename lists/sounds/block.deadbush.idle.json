@@ -1,0 +1,53 @@
+{
+  "sounds": [
+    {
+      "name": "block/deadbush/sandblock_version/bushrustle1",
+      "volume": 4.0
+    },
+    {
+      "name": "block/deadbush/sandblock_version/bushrustle2",
+      "volume": 4.0
+    },
+    {
+      "name": "block/deadbush/sandblock_version/bushrustle3",
+      "volume": 4.0
+    },
+    {
+      "name": "block/deadbush/sandblock_version/creakysand1",
+      "volume": 4.0
+    },
+    {
+      "name": "block/deadbush/sandblock_version/crickets",
+      "volume": 4.0,
+      "weight": 3
+    },
+    {
+      "name": "block/deadbush/sandblock_version/howlingwind1",
+      "volume": 4.0
+    },
+    {
+      "name": "block/deadbush/sandblock_version/insect1",
+      "volume": 4.0
+    },
+    {
+      "name": "block/deadbush/sandblock_version/leaves",
+      "volume": 4.0
+    },
+    {
+      "name": "block/deadbush/sandblock_version/movingsand1",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/deadbush/sandblock_version/movingsand2",
+      "volume": 4.0,
+      "weight": 2
+    },
+    {
+      "name": "block/deadbush/sandblock_version/movingsand3",
+      "volume": 4.0,
+      "weight": 2
+    }
+  ],
+  "subtitle": "subtitles.block.deadbush.idle"
+}
