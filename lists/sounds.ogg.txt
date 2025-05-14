@@ -580,6 +580,7 @@ minecraft:block/copper_bulb/step3
 minecraft:block/copper_bulb/step4
 minecraft:block/copper_bulb/step5
 minecraft:block/copper_bulb/step6
+minecraft:block/copper_bulb/turn_off
 minecraft:block/copper_bulb/turn_on
 minecraft:block/copper_door/toggle1
 minecraft:block/copper_door/toggle2
