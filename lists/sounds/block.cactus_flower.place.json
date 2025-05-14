@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/cactus_flower/place1",
+    "block/cactus_flower/place2",
+    "block/cactus_flower/place3",
+    "block/cactus_flower/place4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

@@ -1114,6 +1114,7 @@ minecraft:recipes/misc/orange_dye_from_orange_tulip
 minecraft:recipes/misc/orange_dye_from_red_yellow
 minecraft:recipes/misc/orange_dye_from_torchflower
 minecraft:recipes/misc/paper
+minecraft:recipes/misc/pink_dye_from_cactus_flower
 minecraft:recipes/misc/pink_dye_from_peony
 minecraft:recipes/misc/pink_dye_from_pink_petals
 minecraft:recipes/misc/pink_dye_from_pink_tulip

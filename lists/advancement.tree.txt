@@ -40,6 +40,7 @@ adventure/root
 │ └>adventure/trade_at_world_height
 └>adventure/trim_with_any_armor_pattern
 │ └>adventure/trim_with_all_exclusive_armor_patterns
+└>adventure/use_lodestone
 └>adventure/voluntary_exile
   └>adventure/hero_of_the_village
 
@@ -99,7 +100,6 @@ nether/root
 │       └>nether/all_effects
 └>nether/obtain_ancient_debris
 │ └>nether/netherite_armor
-│ └>nether/use_lodestone
 └>nether/obtain_crying_obsidian
 │ └>nether/charge_respawn_anchor
 └>nether/return_to_sender

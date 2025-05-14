@@ -297,6 +297,7 @@ minecraft:block/button
 minecraft:block/button_inventory
 minecraft:block/button_pressed
 minecraft:block/cactus
+minecraft:block/cactus_flower
 minecraft:block/cake
 minecraft:block/cake_slice1
 minecraft:block/cake_slice2
@@ -1741,6 +1742,7 @@ minecraft:block/sculk_vein
 minecraft:block/sea_lantern
 minecraft:block/sea_pickle
 minecraft:block/seagrass
+minecraft:block/short_dry_grass
 minecraft:block/short_grass
 minecraft:block/shroomlight
 minecraft:block/shulker_box
@@ -1935,6 +1937,7 @@ minecraft:block/sweet_berry_bush_stage0
 minecraft:block/sweet_berry_bush_stage1
 minecraft:block/sweet_berry_bush_stage2
 minecraft:block/sweet_berry_bush_stage3
+minecraft:block/tall_dry_grass
 minecraft:block/tall_grass_bottom
 minecraft:block/tall_grass_top
 minecraft:block/tall_seagrass_bottom
@@ -2290,6 +2293,7 @@ minecraft:item/blue_bundle_open_back
 minecraft:item/blue_bundle_open_front
 minecraft:item/blue_candle
 minecraft:item/blue_dye
+minecraft:item/blue_egg
 minecraft:item/blue_orchid
 minecraft:item/blue_shulker_box
 minecraft:item/blue_stained_glass_pane
@@ -2316,6 +2320,7 @@ minecraft:item/brown_bundle_open_back
 minecraft:item/brown_bundle_open_front
 minecraft:item/brown_candle
 minecraft:item/brown_dye
+minecraft:item/brown_egg
 minecraft:item/brown_mushroom
 minecraft:item/brown_shulker_box
 minecraft:item/brown_stained_glass_pane
@@ -2331,6 +2336,7 @@ minecraft:item/bundle_open_back
 minecraft:item/bundle_open_front
 minecraft:item/burn_pottery_sherd
 minecraft:item/bush
+minecraft:item/cactus_flower
 minecraft:item/cake
 minecraft:item/campfire
 minecraft:item/candle
@@ -3182,6 +3188,7 @@ minecraft:item/shears
 minecraft:item/shelter_pottery_sherd
 minecraft:item/shield
 minecraft:item/shield_blocking
+minecraft:item/short_dry_grass
 minecraft:item/short_grass
 minecraft:item/shulker_box
 minecraft:item/shulker_shell
@@ -3224,6 +3231,7 @@ minecraft:item/sunflower
 minecraft:item/suspicious_stew
 minecraft:item/sweet_berries
 minecraft:item/tadpole_bucket
+minecraft:item/tall_dry_grass
 minecraft:item/tall_grass
 minecraft:item/template_banner
 minecraft:item/template_bed

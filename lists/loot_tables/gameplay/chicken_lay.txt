@@ -1,1 +1,4 @@
-minecraft:egg
+{1}alternatives
+{1} minecraft:egg
+{1} minecraft:brown_egg
+{1} minecraft:blue_egg
