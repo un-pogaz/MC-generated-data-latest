@@ -1,10 +1,10 @@
 minecraft:music/game/floating_dream
-minecraft:music/game/hal1
-minecraft:music/game/hal2
-minecraft:music/game/nuance1
-minecraft:music/game/nuance2
-minecraft:music/game/piano1
-minecraft:music/game/piano2
-minecraft:music/game/piano3
+minecraft:music/game/subwoofer_lullaby
+minecraft:music/game/living_mice
+minecraft:music/game/key
+minecraft:music/game/oxygene
+minecraft:music/game/dry_hands
+minecraft:music/game/wet_hands
+minecraft:music/game/mice_on_venus
 minecraft:music/game/stand_tall
 minecraft:music/game/wending

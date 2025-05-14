@@ -1,0 +1,10 @@
+minecraft:iron_axe
+minecraft:honeycomb
+minecraft:stone_axe
+minecraft:stone_pickaxe
+minecraft:ender_pearl
+minecraft:bamboo_hanging_sign
+minecraft:bamboo_planks
+minecraft:scaffolding
+minecraft:torch
+minecraft:tuff

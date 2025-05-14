@@ -47,6 +47,7 @@ minecraft:wither_skull
 #minecraft:always_most_significant_fall
 #minecraft:always_triggers_silverfish
 #minecraft:avoids_guardian_thorns
+#minecraft:breeze_immune_to
 #minecraft:burns_armor_stands
 #minecraft:bypasses_armor
 #minecraft:bypasses_effects

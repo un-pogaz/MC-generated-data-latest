@@ -1,0 +1,17 @@
+| Name                    | Count | Chance | Weight | Comment      |
+| ----------------------- | ----- | ------ | ------ | ------------ |
+| 3 to 5 time             |    -- |     -- |     -- |              |
+| minecraft:arrow         | 4..14 |  11.1% |   2/18 |              |
+| minecraft:tipped_arrow  |  4..8 |   5.6% |   1/18 | poison       |
+| minecraft:tipped_arrow  |  4..8 |   5.6% |   1/18 | slowness     |
+| minecraft:baked_potato  |  2..4 |  11.1% |   2/18 |              |
+| minecraft:glow_berries  | 2..10 |  11.1% |   2/18 |              |
+| minecraft:acacia_planks |  3..6 |   5.6% |   1/18 |              |
+| minecraft:moss_block    |  2..5 |   5.6% |   1/18 |              |
+| minecraft:bone_meal     |  2..5 |   5.6% |   1/18 |              |
+| minecraft:tuff          | 5..10 |   5.6% |   1/18 |              |
+| minecraft:torch         |  3..6 |   5.6% |   1/18 |              |
+| minecraft:potion        |     2 |   5.6% |   1/18 | regeneration |
+| minecraft:potion        |     2 |   5.6% |   1/18 | strength     |
+| minecraft:stone_pickaxe |     1 |  11.1% |   2/18 |              |
+| minecraft:milk_bucket   |     1 |   5.6% |   1/18 |              |

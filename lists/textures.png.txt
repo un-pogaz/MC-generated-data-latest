@@ -908,6 +908,12 @@ minecraft:block/torch
 minecraft:block/torchflower
 minecraft:block/torchflower_crop_stage0
 minecraft:block/torchflower_crop_stage1
+minecraft:block/trial_spawner_bottom
+minecraft:block/trial_spawner_side_active
+minecraft:block/trial_spawner_side_inactive
+minecraft:block/trial_spawner_top_active
+minecraft:block/trial_spawner_top_ejecting_reward
+minecraft:block/trial_spawner_top_inactive
 minecraft:block/tripwire
 minecraft:block/tripwire_hook
 minecraft:block/tube_coral
@@ -1069,6 +1075,8 @@ minecraft:entity/boat/jungle
 minecraft:entity/boat/mangrove
 minecraft:entity/boat/oak
 minecraft:entity/boat/spruce
+minecraft:entity/breeze/breeze
+minecraft:entity/breeze/breeze_wind
 minecraft:entity/camel/camel
 minecraft:entity/cat/all_black
 minecraft:entity/cat/black
@@ -1280,6 +1288,7 @@ minecraft:entity/player/wide/zuri
 minecraft:entity/projectiles/arrow
 minecraft:entity/projectiles/spectral_arrow
 minecraft:entity/projectiles/tipped_arrow
+minecraft:entity/projectiles/wind_charge
 minecraft:entity/rabbit/black
 minecraft:entity/rabbit/brown
 minecraft:entity/rabbit/caerbannog
@@ -2512,6 +2521,7 @@ minecraft:item/tipped_arrow_head
 minecraft:item/tnt_minecart
 minecraft:item/torchflower_seeds
 minecraft:item/totem_of_undying
+minecraft:item/trial_key
 minecraft:item/trident
 minecraft:item/tropical_fish
 minecraft:item/tropical_fish_bucket
@@ -2719,6 +2729,18 @@ minecraft:particle/glow
 minecraft:particle/goldheart_0
 minecraft:particle/goldheart_1
 minecraft:particle/goldheart_2
+minecraft:particle/gust_0
+minecraft:particle/gust_1
+minecraft:particle/gust_10
+minecraft:particle/gust_11
+minecraft:particle/gust_2
+minecraft:particle/gust_3
+minecraft:particle/gust_4
+minecraft:particle/gust_5
+minecraft:particle/gust_6
+minecraft:particle/gust_7
+minecraft:particle/gust_8
+minecraft:particle/gust_9
 minecraft:particle/heart
 minecraft:particle/lava
 minecraft:particle/nautilus
@@ -2828,6 +2850,11 @@ minecraft:particle/sweep_4
 minecraft:particle/sweep_5
 minecraft:particle/sweep_6
 minecraft:particle/sweep_7
+minecraft:particle/trial_spawner_detection_0
+minecraft:particle/trial_spawner_detection_1
+minecraft:particle/trial_spawner_detection_2
+minecraft:particle/trial_spawner_detection_3
+minecraft:particle/trial_spawner_detection_4
 minecraft:particle/vibration  [mcmeta]
 minecraft:trims/color_palettes/amethyst
 minecraft:trims/color_palettes/copper

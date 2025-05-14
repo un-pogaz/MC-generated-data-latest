@@ -862,6 +862,7 @@ minecraft:blocks/torch
 minecraft:blocks/torchflower
 minecraft:blocks/torchflower_crop
 minecraft:blocks/trapped_chest
+minecraft:blocks/trial_spawner
 minecraft:blocks/tripwire
 minecraft:blocks/tripwire_hook
 minecraft:blocks/tube_coral

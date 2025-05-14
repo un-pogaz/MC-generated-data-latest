@@ -1,0 +1,12 @@
+minecraft:water_bucket
+minecraft:arrow
+minecraft:snowball
+minecraft:egg
+minecraft:fire_charge
+minecraft:splash_potion
+minecraft:splash_potion
+minecraft:splash_potion
+minecraft:lingering_potion
+minecraft:lingering_potion
+minecraft:lingering_potion
+minecraft:lingering_potion

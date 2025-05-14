@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "block/trial_spawner/break1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/trial_spawner/break2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/trial_spawner/break3",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

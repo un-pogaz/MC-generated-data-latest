@@ -1,15 +1,15 @@
 {
   "sounds": [
     {
-      "name": "music/game/calm1",
+      "name": "music/game/minecraft",
       "stream": true
     },
     {
-      "name": "music/game/calm2",
+      "name": "music/game/clark",
       "stream": true
     },
     {
-      "name": "music/game/calm3",
+      "name": "music/game/sweden",
       "stream": true
     },
     {
@@ -23,15 +23,15 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/nuance1",
+      "name": "music/game/key",
       "stream": true
     },
     {
-      "name": "music/game/nuance2",
+      "name": "music/game/oxygene",
       "stream": true
     },
     {
-      "name": "music/game/piano3",
+      "name": "music/game/mice_on_venus",
       "stream": true
     },
     {

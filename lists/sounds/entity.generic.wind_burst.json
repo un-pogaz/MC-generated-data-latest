@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/breeze/wind_burst1",
+      "pitch": 1.2
+    },
+    {
+      "name": "mob/breeze/wind_burst2",
+      "pitch": 1.2
+    },
+    {
+      "name": "mob/breeze/wind_burst3",
+      "pitch": 1.2
+    }
+  ],
+  "subtitle": "subtitles.entity.generic.wind_burst"
+}

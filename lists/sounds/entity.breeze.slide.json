@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/breeze/slide1",
+    "mob/breeze/slide2",
+    "mob/breeze/slide3",
+    "mob/breeze/slide4"
+  ],
+  "subtitle": "subtitles.entity.breeze.slide"
+}

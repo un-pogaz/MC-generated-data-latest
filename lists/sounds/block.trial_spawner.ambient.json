@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/trial_spawner/ambient1",
+    "block/trial_spawner/ambient2",
+    "block/trial_spawner/ambient3",
+    "block/trial_spawner/ambient4",
+    "block/trial_spawner/ambient5"
+  ],
+  "subtitle": "subtitles.block.trial_spawner.ambient"
+}

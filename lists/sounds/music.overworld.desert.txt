@@ -1,8 +1,8 @@
 minecraft:music/game/crescent_dunes
-minecraft:music/game/hal1
-minecraft:music/game/hal2
-minecraft:music/game/hal3
-minecraft:music/game/hal4
-minecraft:music/game/nuance1
-minecraft:music/game/nuance2
+minecraft:music/game/subwoofer_lullaby
+minecraft:music/game/living_mice
+minecraft:music/game/haggstrom
+minecraft:music/game/danny
+minecraft:music/game/key
+minecraft:music/game/oxygene
 minecraft:music/game/one_more_day

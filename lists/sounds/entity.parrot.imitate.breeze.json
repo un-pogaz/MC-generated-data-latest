@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "name": "entity.breeze.idle_ground",
+      "pitch": 1.7,
+      "type": "event",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.parrot.imitate.breeze"
+}

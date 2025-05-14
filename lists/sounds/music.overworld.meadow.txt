@@ -1,6 +1,6 @@
-minecraft:music/game/hal1
-minecraft:music/game/hal2
-minecraft:music/game/hal3
-minecraft:music/game/hal4
+minecraft:music/game/subwoofer_lullaby
+minecraft:music/game/living_mice
+minecraft:music/game/haggstrom
+minecraft:music/game/danny
 minecraft:music/game/left_to_bloom
 minecraft:music/game/one_more_day

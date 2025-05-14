@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/trial_spawner/step1",
+    "block/trial_spawner/step2",
+    "block/trial_spawner/step3",
+    "block/trial_spawner/step4",
+    "block/trial_spawner/step5"
+  ]
+}

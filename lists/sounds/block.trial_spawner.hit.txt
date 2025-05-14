@@ -1,0 +1,5 @@
+minecraft:block/trial_spawner/step1
+minecraft:block/trial_spawner/step2
+minecraft:block/trial_spawner/step3
+minecraft:block/trial_spawner/step4
+minecraft:block/trial_spawner/step5

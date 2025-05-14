@@ -1,0 +1,6 @@
+trial_spawner_state=inactive  [default]
+trial_spawner_state=waiting_for_players
+trial_spawner_state=active
+trial_spawner_state=waiting_for_reward_ejection
+trial_spawner_state=ejecting_reward
+trial_spawner_state=cooldown

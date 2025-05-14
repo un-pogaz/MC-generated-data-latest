@@ -1,7 +1,7 @@
 {
   "sounds": [
     {
-      "name": "music/game/end/end",
+      "name": "music/game/end/the_end",
       "stream": true
     }
   ]

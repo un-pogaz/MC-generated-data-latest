@@ -15,5 +15,6 @@ minecraft:shipwrecks
 minecraft:strongholds
 minecraft:swamp_huts
 minecraft:trail_ruins
+minecraft:trial_chambers
 minecraft:villages
 minecraft:woodland_mansions

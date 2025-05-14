@@ -13,3 +13,4 @@ minecraft:magma_cube
 minecraft:ocelot
 minecraft:parrot
 minecraft:wither
+minecraft:breeze

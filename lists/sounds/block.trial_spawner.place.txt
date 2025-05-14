@@ -1,0 +1,3 @@
+minecraft:block/trial_spawner/place1
+minecraft:block/trial_spawner/place2
+minecraft:block/trial_spawner/place3
