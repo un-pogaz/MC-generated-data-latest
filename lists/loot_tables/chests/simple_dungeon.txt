@@ -1,6 +1,7 @@
 minecraft:saddle
 minecraft:golden_apple
 minecraft:enchanted_golden_apple
+minecraft:music_disc_otherside
 minecraft:music_disc_13
 minecraft:music_disc_cat
 minecraft:name_tag
