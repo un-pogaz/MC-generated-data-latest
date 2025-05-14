@@ -1,1 +1,1 @@
-minecraft:moss_block
+empty
