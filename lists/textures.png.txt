@@ -2898,7 +2898,7 @@ minecraft:map/decorations/yellow_banner
 minecraft:map/map_background
 minecraft:map/map_background_checkerboard
 minecraft:misc/credits_vignette  [mcmeta]
-minecraft:misc/enchanted_glint_entity  [mcmeta]
+minecraft:misc/enchanted_glint_armor  [mcmeta]
 minecraft:misc/enchanted_glint_item  [mcmeta]
 minecraft:misc/forcefield
 minecraft:misc/nausea  [mcmeta]

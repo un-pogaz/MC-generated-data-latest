@@ -100,6 +100,8 @@ gamerule spawnRadius
 gamerule spawnRadius <value brigadier:integer>
 gamerule spectatorsGenerateChunks
 gamerule spectatorsGenerateChunks <value brigadier:bool>
+gamerule tntExplodes
+gamerule tntExplodes <value brigadier:bool>
 gamerule tntExplosionDropDecay
 gamerule tntExplosionDropDecay <value brigadier:bool>
 gamerule universalAnger
