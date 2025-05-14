@@ -50,7 +50,6 @@ minecraft:wither_skull
 #minecraft:always_most_significant_fall
 #minecraft:always_triggers_silverfish
 #minecraft:avoids_guardian_thorns
-#minecraft:breeze_immune_to
 #minecraft:burn_from_stepping
 #minecraft:burns_armor_stands
 #minecraft:bypasses_armor
@@ -74,5 +73,7 @@ minecraft:wither_skull
 #minecraft:no_anger
 #minecraft:no_impact
 #minecraft:no_knockback
+#minecraft:panic_causes
+#minecraft:panic_environmental_causes
 #minecraft:witch_resistant_to
 #minecraft:wither_immune_to

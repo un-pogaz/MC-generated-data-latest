@@ -1,0 +1,27 @@
+{
+  size: [1, 1, 1],
+  entities: [],
+  blocks: [
+    {
+      nbt: {
+        final_state: "minecraft:air",
+        name: "minecraft:block_connector",
+        pool: "minecraft:empty",
+        joint: "aligned",
+        id: "minecraft:jigsaw",
+        target: "minecraft:empty"
+      },
+      pos: [0, 0, 0],
+      state: 0
+    }
+  ],
+  palette: [
+    {
+      Properties: {
+        orientation: "down_west"
+      },
+      Name: "minecraft:jigsaw"
+    }
+  ],
+  DataVersion: 3946
+}

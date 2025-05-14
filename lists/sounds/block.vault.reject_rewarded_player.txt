@@ -1,0 +1,1 @@
+minecraft:block/vault/reject_rewarded_player

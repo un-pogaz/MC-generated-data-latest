@@ -1,0 +1,500 @@
+{
+  size: [7, 7, 7],
+  entities: [],
+  blocks: [
+    {
+      pos: [2, 0, 2],
+      state: 0
+    },
+    {
+      pos: [2, 0, 4],
+      state: 0
+    },
+    {
+      pos: [4, 0, 2],
+      state: 0
+    },
+    {
+      pos: [4, 0, 4],
+      state: 0
+    },
+    {
+      pos: [2, 4, 2],
+      state: 1
+    },
+    {
+      pos: [2, 4, 3],
+      state: 1
+    },
+    {
+      pos: [2, 4, 4],
+      state: 1
+    },
+    {
+      pos: [3, 4, 2],
+      state: 2
+    },
+    {
+      pos: [3, 4, 3],
+      state: 1
+    },
+    {
+      pos: [3, 4, 4],
+      state: 2
+    },
+    {
+      pos: [4, 4, 2],
+      state: 2
+    },
+    {
+      pos: [4, 4, 3],
+      state: 1
+    },
+    {
+      pos: [4, 4, 4],
+      state: 1
+    },
+    {
+      pos: [3, 5, 3],
+      state: 1
+    },
+    {
+      pos: [0, 0, 2],
+      state: 3
+    },
+    {
+      pos: [0, 0, 3],
+      state: 3
+    },
+    {
+      pos: [0, 0, 4],
+      state: 3
+    },
+    {
+      pos: [1, 0, 2],
+      state: 3
+    },
+    {
+      pos: [1, 0, 3],
+      state: 3
+    },
+    {
+      pos: [1, 0, 4],
+      state: 3
+    },
+    {
+      pos: [2, 0, 0],
+      state: 3
+    },
+    {
+      pos: [2, 0, 1],
+      state: 3
+    },
+    {
+      pos: [2, 0, 3],
+      state: 3
+    },
+    {
+      pos: [2, 0, 5],
+      state: 3
+    },
+    {
+      pos: [2, 0, 6],
+      state: 3
+    },
+    {
+      pos: [3, 0, 0],
+      state: 3
+    },
+    {
+      pos: [3, 0, 1],
+      state: 3
+    },
+    {
+      pos: [3, 0, 2],
+      state: 3
+    },
+    {
+      pos: [3, 0, 3],
+      state: 3
+    },
+    {
+      pos: [3, 0, 4],
+      state: 3
+    },
+    {
+      pos: [3, 0, 5],
+      state: 3
+    },
+    {
+      pos: [3, 0, 6],
+      state: 3
+    },
+    {
+      pos: [4, 0, 0],
+      state: 3
+    },
+    {
+      pos: [4, 0, 1],
+      state: 3
+    },
+    {
+      pos: [4, 0, 3],
+      state: 3
+    },
+    {
+      pos: [4, 0, 5],
+      state: 3
+    },
+    {
+      pos: [4, 0, 6],
+      state: 3
+    },
+    {
+      pos: [5, 0, 1],
+      state: 3
+    },
+    {
+      pos: [5, 0, 2],
+      state: 3
+    },
+    {
+      pos: [5, 0, 3],
+      state: 3
+    },
+    {
+      pos: [5, 0, 4],
+      state: 3
+    },
+    {
+      pos: [5, 0, 5],
+      state: 3
+    },
+    {
+      pos: [6, 0, 2],
+      state: 3
+    },
+    {
+      pos: [6, 0, 3],
+      state: 3
+    },
+    {
+      pos: [6, 0, 4],
+      state: 3
+    },
+    {
+      pos: [2, 1, 2],
+      state: 4
+    },
+    {
+      pos: [2, 1, 4],
+      state: 4
+    },
+    {
+      pos: [4, 1, 2],
+      state: 4
+    },
+    {
+      pos: [4, 1, 4],
+      state: 4
+    },
+    {
+      pos: [2, 2, 2],
+      state: 4
+    },
+    {
+      pos: [2, 2, 4],
+      state: 4
+    },
+    {
+      pos: [4, 2, 2],
+      state: 4
+    },
+    {
+      pos: [4, 2, 4],
+      state: 4
+    },
+    {
+      pos: [1, 3, 3],
+      state: 5
+    },
+    {
+      pos: [2, 3, 2],
+      state: 4
+    },
+    {
+      pos: [2, 3, 4],
+      state: 4
+    },
+    {
+      pos: [3, 3, 1],
+      state: 5
+    },
+    {
+      pos: [3, 3, 5],
+      state: 5
+    },
+    {
+      pos: [4, 3, 2],
+      state: 4
+    },
+    {
+      pos: [4, 3, 4],
+      state: 4
+    },
+    {
+      pos: [5, 3, 3],
+      state: 5
+    },
+    {
+      pos: [1, 4, 3],
+      state: 6
+    },
+    {
+      pos: [3, 4, 1],
+      state: 7
+    },
+    {
+      pos: [3, 4, 5],
+      state: 8
+    },
+    {
+      pos: [5, 4, 3],
+      state: 9
+    },
+    {
+      nbt: {
+        final_state: "minecraft:grass_block",
+        name: "minecraft:bottom",
+        pool: "minecraft:village/common/cats",
+        joint: "rollable",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [0, 0, 1],
+      state: 10
+    },
+    {
+      nbt: {
+        final_state: "minecraft:grass_block",
+        name: "minecraft:bottom",
+        pool: "minecraft:village/common/iron_golem",
+        joint: "rollable",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [1, 0, 0],
+      state: 10
+    },
+    {
+      nbt: {
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:bottom",
+        pool: "minecraft:village/snowy/villagers",
+        joint: "rollable",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [1, 0, 1],
+      state: 10
+    },
+    {
+      nbt: {
+        final_state: "minecraft:dirt_path",
+        name: "minecraft:bottom",
+        pool: "minecraft:village/snowy/villagers",
+        joint: "rollable",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [1, 0, 5],
+      state: 10
+    },
+    {
+      nbt: {
+        final_state: "minecraft:grass_block",
+        name: "minecraft:bottom",
+        pool: "minecraft:village/common/cats",
+        joint: "rollable",
+        id: "minecraft:jigsaw",
+        target: "minecraft:bottom"
+      },
+      pos: [6, 0, 6],
+      state: 10
+    },
+    {
+      nbt: {
+        final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:village/snowy/streets",
+        joint: "aligned",
+        id: "minecraft:jigsaw",
+        target: "minecraft:street"
+      },
+      pos: [0, 1, 3],
+      state: 11
+    },
+    {
+      nbt: {
+        final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:village/snowy/streets",
+        joint: "aligned",
+        id: "minecraft:jigsaw",
+        target: "minecraft:street"
+      },
+      pos: [3, 1, 0],
+      state: 12
+    },
+    {
+      nbt: {
+        final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:village/snowy/streets",
+        joint: "aligned",
+        id: "minecraft:jigsaw",
+        target: "minecraft:street"
+      },
+      pos: [3, 1, 6],
+      state: 13
+    },
+    {
+      nbt: {
+        final_state: "minecraft:structure_void",
+        name: "minecraft:street",
+        pool: "minecraft:village/snowy/streets",
+        joint: "aligned",
+        id: "minecraft:jigsaw",
+        target: "minecraft:street"
+      },
+      pos: [6, 1, 3],
+      state: 14
+    },
+    {
+      nbt: {
+        id: "minecraft:bell"
+      },
+      pos: [3, 3, 3],
+      state: 15
+    }
+  ],
+  palette: [
+    {
+      Properties: {
+        snowy: "false"
+      },
+      Name: "minecraft:grass_block"
+    },
+    {
+      Properties: {
+        axis: "z"
+      },
+      Name: "minecraft:stripped_spruce_wood"
+    },
+    {
+      Properties: {
+        axis: "x"
+      },
+      Name: "minecraft:stripped_spruce_wood"
+    },
+    {
+      Name: "minecraft:dirt_path"
+    },
+    {
+      Properties: {
+        east: "false",
+        waterlogged: "false",
+        south: "false",
+        north: "false",
+        west: "false"
+      },
+      Name: "minecraft:spruce_fence"
+    },
+    {
+      Properties: {
+        waterlogged: "false",
+        hanging: "true"
+      },
+      Name: "minecraft:lantern"
+    },
+    {
+      Properties: {
+        east: "true",
+        waterlogged: "false",
+        south: "false",
+        north: "false",
+        west: "false"
+      },
+      Name: "minecraft:spruce_fence"
+    },
+    {
+      Properties: {
+        east: "false",
+        waterlogged: "false",
+        south: "true",
+        north: "false",
+        west: "false"
+      },
+      Name: "minecraft:spruce_fence"
+    },
+    {
+      Properties: {
+        east: "false",
+        waterlogged: "false",
+        south: "false",
+        north: "true",
+        west: "false"
+      },
+      Name: "minecraft:spruce_fence"
+    },
+    {
+      Properties: {
+        east: "false",
+        waterlogged: "false",
+        south: "false",
+        north: "false",
+        west: "true"
+      },
+      Name: "minecraft:spruce_fence"
+    },
+    {
+      Properties: {
+        orientation: "up_north"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "west_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "north_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "south_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "east_up"
+      },
+      Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        attachment: "ceiling",
+        powered: "false",
+        facing: "east"
+      },
+      Name: "minecraft:bell"
+    }
+  ],
+  DataVersion: 3946
+}

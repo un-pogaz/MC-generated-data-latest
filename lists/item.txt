@@ -1421,7 +1421,6 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:logs_that_burn
 #minecraft:mangrove_logs
 #minecraft:meat
-#minecraft:music_discs
 #minecraft:non_flammable_wood
 #minecraft:noteblock_top_instruments
 #minecraft:oak_logs

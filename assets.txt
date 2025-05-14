@@ -1536,6 +1536,7 @@ minecraft/sounds/block/vault/place1.ogg
 minecraft/sounds/block/vault/place2.ogg
 minecraft/sounds/block/vault/place3.ogg
 minecraft/sounds/block/vault/place4.ogg
+minecraft/sounds/block/vault/reject_rewarded_player.ogg
 minecraft/sounds/block/vault/step1.ogg
 minecraft/sounds/block/vault/step2.ogg
 minecraft/sounds/block/vault/step3.ogg

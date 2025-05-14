@@ -1,0 +1,2 @@
+minecraft:precipice
+minecraft:relic
