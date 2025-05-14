@@ -2409,6 +2409,7 @@ minecraft:item/yellow_stained_glass
 minecraft:item/yellow_stained_glass_pane
 minecraft:item/yellow_terracotta
 minecraft:item/yellow_wool
+minecraft:item/zoglin_spawn_egg
 minecraft:item/zombie_head
 minecraft:item/zombie_horse_spawn_egg
 minecraft:item/zombie_spawn_egg
