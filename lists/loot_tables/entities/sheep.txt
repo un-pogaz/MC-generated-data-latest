@@ -1,1 +1,19 @@
 minecraft:mutton
+
+{1}alternatives
+{1} loot_table[]minecraft:entities/sheep/white
+{1} loot_table[]minecraft:entities/sheep/orange
+{1} loot_table[]minecraft:entities/sheep/magenta
+{1} loot_table[]minecraft:entities/sheep/light_blue
+{1} loot_table[]minecraft:entities/sheep/yellow
+{1} loot_table[]minecraft:entities/sheep/lime
+{1} loot_table[]minecraft:entities/sheep/pink
+{1} loot_table[]minecraft:entities/sheep/gray
+{1} loot_table[]minecraft:entities/sheep/light_gray
+{1} loot_table[]minecraft:entities/sheep/cyan
+{1} loot_table[]minecraft:entities/sheep/purple
+{1} loot_table[]minecraft:entities/sheep/blue
+{1} loot_table[]minecraft:entities/sheep/brown
+{1} loot_table[]minecraft:entities/sheep/green
+{1} loot_table[]minecraft:entities/sheep/red
+{1} loot_table[]minecraft:entities/sheep/black

@@ -15,6 +15,7 @@ minecraft:painting_variant
 minecraft:predicate
 minecraft:recipe
 minecraft:structure
+minecraft:trial_spawner
 minecraft:trim_material
 minecraft:trim_pattern
 minecraft:wolf_variant

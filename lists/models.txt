@@ -125,9 +125,9 @@ minecraft:block/beacon
 minecraft:block/bed
 minecraft:block/bedrock
 minecraft:block/bedrock_mirrored
-minecraft:block/bee_nest
+minecraft:block/bee_nest_empty
 minecraft:block/bee_nest_honey
-minecraft:block/beehive
+minecraft:block/beehive_empty
 minecraft:block/beehive_honey
 minecraft:block/beetroots_stage0
 minecraft:block/beetroots_stage1
@@ -2207,9 +2207,13 @@ minecraft:item/bat_spawn_egg
 minecraft:item/beacon
 minecraft:item/bedrock
 minecraft:item/bee_nest
+minecraft:item/bee_nest_empty
+minecraft:item/bee_nest_honey
 minecraft:item/bee_spawn_egg
 minecraft:item/beef
 minecraft:item/beehive
+minecraft:item/beehive_empty
+minecraft:item/beehive_honey
 minecraft:item/beetroot
 minecraft:item/beetroot_seeds
 minecraft:item/beetroot_soup

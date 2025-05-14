@@ -1,1 +1,3 @@
 minecraft:chorus_fruit  = {seconds: 1.0}
+minecraft:ender_pearl  = {seconds: 1.0}
+minecraft:wind_charge  = {seconds: 0.5}

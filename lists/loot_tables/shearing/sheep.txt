@@ -1,0 +1,17 @@
+{1}alternatives
+{1} loot_table[]minecraft:shearing/sheep/white
+{1} loot_table[]minecraft:shearing/sheep/orange
+{1} loot_table[]minecraft:shearing/sheep/magenta
+{1} loot_table[]minecraft:shearing/sheep/light_blue
+{1} loot_table[]minecraft:shearing/sheep/yellow
+{1} loot_table[]minecraft:shearing/sheep/lime
+{1} loot_table[]minecraft:shearing/sheep/pink
+{1} loot_table[]minecraft:shearing/sheep/gray
+{1} loot_table[]minecraft:shearing/sheep/light_gray
+{1} loot_table[]minecraft:shearing/sheep/cyan
+{1} loot_table[]minecraft:shearing/sheep/purple
+{1} loot_table[]minecraft:shearing/sheep/blue
+{1} loot_table[]minecraft:shearing/sheep/brown
+{1} loot_table[]minecraft:shearing/sheep/green
+{1} loot_table[]minecraft:shearing/sheep/red
+{1} loot_table[]minecraft:shearing/sheep/black

@@ -1,5 +1,5 @@
 {
-  "brush_completed_sound": "minecraft:item.brush.brushing.sand.complete",
+  "brush_completed_sound": "minecraft:item.brush.brushing.sand",
   "brush_sound": "minecraft:item.brush.brushing.sand",
   "properties": {},
   "turns_into": "minecraft:sand",

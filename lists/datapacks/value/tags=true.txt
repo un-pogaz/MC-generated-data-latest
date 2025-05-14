@@ -67,6 +67,7 @@ minecraft:schedule
 minecraft:sensor_type
 minecraft:sound_event
 minecraft:stat_type
+minecraft:trial_spawner
 minecraft:trigger_type
 minecraft:trim_material
 minecraft:trim_pattern

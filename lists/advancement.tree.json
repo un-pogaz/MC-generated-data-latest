@@ -521,7 +521,7 @@
       "minecraft:husbandry/silk_touch_nest": {
         "icon": "minecraft:bee_nest",
         "title": "Total Beelocation",
-        "description": "Move a Bee Nest, with 3 Bees inside, using Silk Touch",
+        "description": "Move a Bee Nest or Beehive, with 3 Bees inside, using Silk Touch",
         "frame": "task"
       },
       "minecraft:husbandry/tadpole_in_a_bucket": {
