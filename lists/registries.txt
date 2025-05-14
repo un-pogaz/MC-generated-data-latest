@@ -41,12 +41,12 @@ minecraft:worldgen/biome_source
 minecraft:worldgen/block_state_provider_type
 minecraft:worldgen/carver
 minecraft:worldgen/chunk_generator
-minecraft:worldgen/decorator
 minecraft:worldgen/feature
 minecraft:worldgen/feature_size_type
 minecraft:worldgen/foliage_placer_type
 minecraft:worldgen/material_condition
 minecraft:worldgen/material_rule
+minecraft:worldgen/placement_modifier_type
 minecraft:worldgen/structure_feature
 minecraft:worldgen/structure_piece
 minecraft:worldgen/structure_pool_element

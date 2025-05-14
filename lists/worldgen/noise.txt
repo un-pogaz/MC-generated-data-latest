@@ -29,7 +29,6 @@ minecraft:noodle_ridge_a
 minecraft:noodle_ridge_b
 minecraft:noodle_thickness
 minecraft:offset
-minecraft:offset_large
 minecraft:ore_gap
 minecraft:ore_vein_a
 minecraft:ore_vein_b
@@ -41,7 +40,6 @@ minecraft:pillar_rareness
 minecraft:pillar_thickness
 minecraft:powder_snow
 minecraft:ridge
-minecraft:ridge_large
 minecraft:soul_sand_layer
 minecraft:spaghetti_2d
 minecraft:spaghetti_2d_elevation
@@ -54,6 +52,7 @@ minecraft:spaghetti_3d_thickness
 minecraft:spaghetti_roughness
 minecraft:spaghetti_roughness_modulator
 minecraft:surface
+minecraft:surface_secondary
 minecraft:surface_swamp
 minecraft:temperature
 minecraft:temperature_large
