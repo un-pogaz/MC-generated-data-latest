@@ -1,0 +1,33 @@
+{
+  "sounds": [
+    {
+      "name": "mob/armadillo/brush_armadillo1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/armadillo/brush_armadillo1",
+      "pitch": 0.8,
+      "volume": 0.9
+    },
+    {
+      "name": "mob/armadillo/brush_armadillo1",
+      "pitch": 0.9,
+      "volume": 0.9
+    },
+    {
+      "name": "mob/armadillo/brush_armadillo2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/armadillo/brush_armadillo2",
+      "pitch": 0.8,
+      "volume": 0.9
+    },
+    {
+      "name": "mob/armadillo/brush_armadillo2",
+      "pitch": 0.9,
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.armadillo.brush"
+}

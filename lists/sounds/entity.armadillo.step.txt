@@ -1,0 +1,5 @@
+minecraft:mob/armadillo/step1
+minecraft:mob/armadillo/step2
+minecraft:mob/armadillo/step3
+minecraft:mob/armadillo/step4
+minecraft:mob/armadillo/step5

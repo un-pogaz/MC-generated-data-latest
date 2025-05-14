@@ -32,6 +32,7 @@ minecraft:outside_border
 minecraft:player_attack
 minecraft:player_explosion
 minecraft:sonic_boom
+minecraft:spit
 minecraft:stalagmite
 minecraft:starve
 minecraft:sting
@@ -40,6 +41,7 @@ minecraft:thorns
 minecraft:thrown
 minecraft:trident
 minecraft:unattributed_fireball
+minecraft:wind_charge
 minecraft:wither
 minecraft:wither_skull
 #minecraft:always_hurts_ender_dragons

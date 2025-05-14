@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/armadillo/eat1",
+    "mob/armadillo/eat2",
+    "mob/armadillo/eat3"
+  ],
+  "subtitle": "subtitles.entity.armadillo.eat"
+}

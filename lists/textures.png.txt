@@ -992,6 +992,7 @@ minecraft:colormap/foliage
 minecraft:colormap/grass
 minecraft:effect/dither
 minecraft:entity/allay/allay
+minecraft:entity/armadillo
 minecraft:entity/armorstand/wood
 minecraft:entity/axolotl/axolotl_blue
 minecraft:entity/axolotl/axolotl_cyan
@@ -1076,6 +1077,7 @@ minecraft:entity/boat/mangrove
 minecraft:entity/boat/oak
 minecraft:entity/boat/spruce
 minecraft:entity/breeze/breeze
+minecraft:entity/breeze/breeze_eyes
 minecraft:entity/breeze/breeze_wind
 minecraft:entity/camel/camel
 minecraft:entity/cat/all_black
@@ -1442,6 +1444,7 @@ minecraft:entity/wither/wither_armor
 minecraft:entity/wither/wither_invulnerable
 minecraft:entity/wolf/wolf
 minecraft:entity/wolf/wolf_angry
+minecraft:entity/wolf/wolf_armor
 minecraft:entity/wolf/wolf_collar
 minecraft:entity/wolf/wolf_tame
 minecraft:entity/zombie/drowned
@@ -1972,6 +1975,7 @@ minecraft:item/amethyst_shard
 minecraft:item/angler_pottery_sherd
 minecraft:item/apple
 minecraft:item/archer_pottery_sherd
+minecraft:item/armadillo_scute
 minecraft:item/armor_stand
 minecraft:item/arms_up_pottery_sherd
 minecraft:item/arrow
@@ -2470,7 +2474,6 @@ minecraft:item/rotten_flesh
 minecraft:item/saddle
 minecraft:item/salmon
 minecraft:item/salmon_bucket
-minecraft:item/scute
 minecraft:item/sea_pickle
 minecraft:item/seagrass
 minecraft:item/sentry_armor_trim_smithing_template
@@ -2527,6 +2530,7 @@ minecraft:item/tropical_fish
 minecraft:item/tropical_fish_bucket
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
+minecraft:item/turtle_scute
 minecraft:item/vex_armor_trim_smithing_template
 minecraft:item/ward_armor_trim_smithing_template
 minecraft:item/warped_door
@@ -2541,6 +2545,7 @@ minecraft:item/wheat_seeds
 minecraft:item/white_candle
 minecraft:item/white_dye
 minecraft:item/wild_armor_trim_smithing_template
+minecraft:item/wolf_armor
 minecraft:item/wooden_axe
 minecraft:item/wooden_hoe
 minecraft:item/wooden_pickaxe

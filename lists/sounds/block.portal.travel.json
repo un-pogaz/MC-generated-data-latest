@@ -1,5 +1,6 @@
 {
   "sounds": [
     "portal/travel"
-  ]
+  ],
+  "subtitle": "subtitles.block.portal.travel"
 }

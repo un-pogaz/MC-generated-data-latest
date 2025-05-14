@@ -1,0 +1,4 @@
+minecraft:mob/armadillo/death1
+minecraft:mob/armadillo/death2
+minecraft:mob/armadillo/death3
+minecraft:mob/armadillo/death4

@@ -1,0 +1,6 @@
+minecraft:mob/armadillo/brush_armadillo1
+minecraft:mob/armadillo/brush_armadillo1
+minecraft:mob/armadillo/brush_armadillo1
+minecraft:mob/armadillo/brush_armadillo2
+minecraft:mob/armadillo/brush_armadillo2
+minecraft:mob/armadillo/brush_armadillo2

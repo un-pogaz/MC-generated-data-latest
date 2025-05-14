@@ -1,3 +1,4 @@
+minecraft:armadillo
 minecraft:bat
 minecraft:chicken
 minecraft:cow

@@ -1,0 +1,4 @@
+minecraft:mob/armadillo/scute_drop1
+minecraft:mob/armadillo/scute_drop1
+minecraft:mob/armadillo/scute_drop2
+minecraft:mob/armadillo/scute_drop2

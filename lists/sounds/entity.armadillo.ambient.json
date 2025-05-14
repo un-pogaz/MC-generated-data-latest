@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "mob/armadillo/ambient1",
+    "mob/armadillo/ambient2",
+    "mob/armadillo/ambient3",
+    "mob/armadillo/ambient4",
+    "mob/armadillo/ambient5",
+    "mob/armadillo/ambient6",
+    "mob/armadillo/ambient7",
+    "mob/armadillo/ambient8"
+  ],
+  "subtitle": "subtitles.entity.armadillo.ambient"
+}

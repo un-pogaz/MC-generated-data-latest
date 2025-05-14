@@ -1,0 +1,2 @@
+minecraft:item/armor/unequip_wolf1
+minecraft:item/armor/unequip_wolf2

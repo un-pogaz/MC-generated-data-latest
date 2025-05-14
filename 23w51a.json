@@ -1,0 +1,13 @@
+{
+  "id": "23w51a",
+  "type": "snapshot",
+  "time": "2023-12-18T13:36:46+00:00",
+  "releaseTime": "2023-12-18T13:36:46+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/e7f5eda72c5ddee1828f629f00f5d97a3d1fd9f9/23w51a.json",
+  "assets": "12",
+  "asset_index": "https://piston-meta.mojang.com/v1/packages/1a3dd3c21696c15265b4a67364c1e8fb5644e842/12.json",
+  "client": "https://piston-data.mojang.com/v1/objects/c54391b4de6db1b63f880d2fc4439df89798adf3/client.jar",
+  "client_mappings": "https://piston-data.mojang.com/v1/objects/b01bcdb0bb6f9307e01975bf3b5ccfc9fbed60a2/client.txt",
+  "server": "https://piston-data.mojang.com/v1/objects/e44e1d8c34f3020b0485ddd1436e91134b7de9a3/server.jar",
+  "server_mappings": "https://piston-data.mojang.com/v1/objects/0dfbd1f1f06a4b5e0886ff1329e90cc12c05a060/server.txt"
+}
