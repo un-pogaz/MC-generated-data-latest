@@ -1,5 +1,5 @@
 minecraft:cactus
-minecraft:cave_vines_head
+minecraft:cave_vines
 minecraft:fire
 minecraft:kelp
 minecraft:sugar_cane

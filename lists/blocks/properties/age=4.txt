@@ -1,6 +1,6 @@
 minecraft:cactus
 minecraft:carrots
-minecraft:cave_vines_head
+minecraft:cave_vines
 minecraft:chorus_flower
 minecraft:fire
 minecraft:kelp

@@ -181,6 +181,7 @@ minecraft:sandstone_stairs
 minecraft:shulker_box
 minecraft:skeleton_wall_skull
 minecraft:small_amethyst_bud
+minecraft:small_dripleaf
 minecraft:smoker
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs
