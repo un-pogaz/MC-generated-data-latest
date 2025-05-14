@@ -4,5 +4,6 @@ minecraft:emerald
 minecraft:wind_charge
 minecraft:iron_ingot
 minecraft:honey_bottle
+minecraft:ominous_bottle
 minecraft:wind_charge
 minecraft:diamond

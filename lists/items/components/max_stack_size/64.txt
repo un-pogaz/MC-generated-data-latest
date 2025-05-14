@@ -655,6 +655,8 @@ minecraft:observer
 minecraft:obsidian
 minecraft:ocelot_spawn_egg
 minecraft:ochre_froglight
+minecraft:ominous_bottle
+minecraft:ominous_trial_key
 minecraft:orange_candle
 minecraft:orange_carpet
 minecraft:orange_concrete

@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/trial_spawner/spawn_item_begin1",
+    "block/trial_spawner/spawn_item_begin2",
+    "block/trial_spawner/spawn_item_begin3"
+  ],
+  "subtitle": "subtitles.block.trial_spawner.spawn_item_begin"
+}

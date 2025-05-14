@@ -1,0 +1,6 @@
+loot_table[]minecraft:chests/trial_chambers/reward_ominous_rare
+loot_table[]minecraft:chests/trial_chambers/reward_ominous_common
+
+loot_table[]minecraft:chests/trial_chambers/reward_ominous_common
+
+loot_table[]minecraft:chests/trial_chambers/reward_ominous_unique

@@ -5838,7 +5838,7 @@
         target: "minecraft:reward_connector"
       },
       pos: [8, 7, 3],
-      state: 12
+      state: 14
     }
   ],
   palette: [
@@ -5914,7 +5914,13 @@
         orientation: "east_up"
       },
       Name: "minecraft:jigsaw"
+    },
+    {
+      Properties: {
+        orientation: "north_up"
+      },
+      Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3824
+  DataVersion: 3826
 }

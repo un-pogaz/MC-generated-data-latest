@@ -71,6 +71,7 @@ minecraft:minecart
 minecraft:mooshroom
 minecraft:mule
 minecraft:ocelot
+minecraft:ominous_item_spawner
 minecraft:painting
 minecraft:panda
 minecraft:parrot
@@ -144,6 +145,8 @@ minecraft:zombified_piglin
 #minecraft:ignores_poison_and_regen
 #minecraft:illager
 #minecraft:illager_friends
+#minecraft:immune_to_infested
+#minecraft:immune_to_oozing
 #minecraft:impact_projectiles
 #minecraft:inverted_healing_and_harm
 #minecraft:no_anger_from_wind_charge

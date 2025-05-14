@@ -1,6 +1,12 @@
-trial_spawner_state=inactive  [default]
-trial_spawner_state=waiting_for_players
-trial_spawner_state=active
-trial_spawner_state=waiting_for_reward_ejection
-trial_spawner_state=ejecting_reward
-trial_spawner_state=cooldown
+ominous=true,trial_spawner_state=inactive
+ominous=true,trial_spawner_state=waiting_for_players
+ominous=true,trial_spawner_state=active
+ominous=true,trial_spawner_state=waiting_for_reward_ejection
+ominous=true,trial_spawner_state=ejecting_reward
+ominous=true,trial_spawner_state=cooldown
+ominous=false,trial_spawner_state=inactive  [default]
+ominous=false,trial_spawner_state=waiting_for_players
+ominous=false,trial_spawner_state=active
+ominous=false,trial_spawner_state=waiting_for_reward_ejection
+ominous=false,trial_spawner_state=ejecting_reward
+ominous=false,trial_spawner_state=cooldown

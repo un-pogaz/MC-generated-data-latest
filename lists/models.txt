@@ -1947,7 +1947,10 @@ minecraft:block/torchflower_crop_stage0
 minecraft:block/torchflower_crop_stage1
 minecraft:block/trial_spawner
 minecraft:block/trial_spawner_active
+minecraft:block/trial_spawner_active_ominous
 minecraft:block/trial_spawner_ejecting_reward
+minecraft:block/trial_spawner_ejecting_reward_ominous
+minecraft:block/trial_spawner_inactive_ominous
 minecraft:block/tripwire_attached_n
 minecraft:block/tripwire_attached_ne
 minecraft:block/tripwire_attached_ns
@@ -1996,8 +1999,12 @@ minecraft:block/two_turtle_eggs
 minecraft:block/two_very_cracked_turtle_eggs
 minecraft:block/vault
 minecraft:block/vault_active
+minecraft:block/vault_active_ominous
 minecraft:block/vault_ejecting_reward
+minecraft:block/vault_ejecting_reward_ominous
+minecraft:block/vault_ominous
 minecraft:block/vault_unlocking
+minecraft:block/vault_unlocking_ominous
 minecraft:block/verdant_froglight
 minecraft:block/verdant_froglight_horizontal
 minecraft:block/very_cracked_turtle_egg
@@ -3319,6 +3326,8 @@ minecraft:item/observer
 minecraft:item/obsidian
 minecraft:item/ocelot_spawn_egg
 minecraft:item/ochre_froglight
+minecraft:item/ominous_bottle
+minecraft:item/ominous_trial_key
 minecraft:item/orange_banner
 minecraft:item/orange_bed
 minecraft:item/orange_candle

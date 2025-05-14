@@ -1,0 +1,9 @@
+[1] loot_table[]
+[2] minecraft:chainmail_helmet
+[2] minecraft:chainmail_chestplate
+[1] loot_table[]
+[3] minecraft:iron_helmet
+[3] minecraft:iron_chestplate
+[1] loot_table[]
+[4] minecraft:diamond_helmet
+[4] minecraft:diamond_chestplate

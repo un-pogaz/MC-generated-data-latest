@@ -1,0 +1,10 @@
+minecraft:emerald_block
+minecraft:iron_block
+minecraft:crossbow
+minecraft:golden_apple
+minecraft:diamond_axe
+minecraft:diamond_chestplate
+minecraft:enchanted_book
+minecraft:enchanted_book
+minecraft:enchanted_book
+minecraft:diamond_block

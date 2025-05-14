@@ -1,0 +1,3 @@
+minecraft:block/trial_spawner/spawn_item1
+minecraft:block/trial_spawner/spawn_item2
+minecraft:block/trial_spawner/spawn_item3

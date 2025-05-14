@@ -128,13 +128,13 @@
           "minecraft:adventure/under_lock_and_key": {
             "icon": "minecraft:trial_key",
             "title": "Under Lock and Key",
-            "description": "Use a Trial Key on a Vault",
+            "description": "Unlock a Vault with a Trial Key",
             "frame": "task"
           },
           "minecraft:adventure/who_needs_rockets": {
             "icon": "minecraft:wind_charge",
             "title": "Who Needs Rockets?",
-            "description": "Use a Wind Charge to launch yourself upward 7 blocks",
+            "description": "Use a Wind Charge to launch yourself upward 8 blocks",
             "frame": "task"
           }
         }

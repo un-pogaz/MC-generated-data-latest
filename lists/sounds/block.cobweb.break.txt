@@ -1,0 +1,6 @@
+minecraft:block/cobweb/break1
+minecraft:block/cobweb/break2
+minecraft:block/cobweb/break3
+minecraft:block/cobweb/break4
+minecraft:block/cobweb/break5
+minecraft:block/cobweb/break6
