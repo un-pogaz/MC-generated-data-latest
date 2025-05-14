@@ -9,6 +9,7 @@ adventure/root
 │ └>adventure/throw_trident
 │ │ └>adventure/very_very_frightening
 │ └>adventure/totem_of_undying
+└>adventure/kill_mob_near_sculk_catalyst
 └>adventure/lightning_rod_with_villager_no_fire
 └>adventure/ol_betsy
 │ └>adventure/arbalistic
@@ -53,6 +54,8 @@ husbandry/root
 │ └>husbandry/wax_on
 │   └>husbandry/wax_off
 └>husbandry/silk_touch_nest
+└>husbandry/tadpole_in_a_bucket
+│ └>husbandry/froglights
 └>husbandry/tame_an_animal
   └>husbandry/complete_catalogue
 

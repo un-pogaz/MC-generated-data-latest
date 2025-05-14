@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/allay/idle_with_item1",
+      "pitch": 1.25,
+      "volume": 0.3
+    },
+    {
+      "name": "mob/allay/idle_with_item2",
+      "pitch": 1.25,
+      "volume": 0.3
+    },
+    {
+      "name": "mob/allay/idle_with_item3",
+      "pitch": 1.25,
+      "volume": 0.3
+    },
+    {
+      "name": "mob/allay/idle_with_item4",
+      "pitch": 1.25,
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.entity.allay.ambient_with_item"
+}

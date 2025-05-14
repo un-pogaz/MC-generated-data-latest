@@ -1,0 +1,4 @@
+minecraft:mob/allay/idle_without_item1
+minecraft:mob/allay/idle_without_item2
+minecraft:mob/allay/idle_without_item3
+minecraft:mob/allay/idle_without_item4

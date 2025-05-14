@@ -1,0 +1,4 @@
+minecraft:mob/allay/item_taken1
+minecraft:mob/allay/item_taken2
+minecraft:mob/allay/item_taken3
+minecraft:mob/allay/item_taken4

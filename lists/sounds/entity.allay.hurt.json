@@ -1,0 +1,15 @@
+{
+  "sounds": [
+    {
+      "name": "mob/allay/hurt1",
+      "pitch": 1.5,
+      "volume": 0.8
+    },
+    {
+      "name": "mob/allay/hurt2",
+      "pitch": 1.5,
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.allay.hurt"
+}

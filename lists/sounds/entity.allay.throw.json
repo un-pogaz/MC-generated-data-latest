@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "entity.witch.throw",
+      "type": "event",
+      "volume": 0.25
+    }
+  ],
+  "subtitle": "subtitles.entity.allay.throw"
+}

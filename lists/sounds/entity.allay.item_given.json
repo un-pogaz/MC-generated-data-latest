@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/allay/item_given1",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/allay/item_given2",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/allay/item_given3",
+      "volume": 0.1
+    },
+    {
+      "name": "mob/allay/item_given4",
+      "volume": 0.1
+    }
+  ],
+  "subtitle": "subtitles.entity.allay.item_given"
+}

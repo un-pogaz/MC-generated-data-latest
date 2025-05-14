@@ -1,0 +1,2 @@
+minecraft:mob/allay/hurt1
+minecraft:mob/allay/hurt2

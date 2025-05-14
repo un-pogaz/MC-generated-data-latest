@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/allay/death1",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/allay/death2",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.entity.allay.death"
+}

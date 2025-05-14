@@ -1,3 +1,4 @@
+minecraft:ancient_cities
 minecraft:buried_treasures
 minecraft:desert_pyramids
 minecraft:end_cities
