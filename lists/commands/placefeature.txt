@@ -1,0 +1,2 @@
+placefeature <feature minecraft:resource_location>
+placefeature <feature minecraft:resource_location> <pos minecraft:block_pos>
