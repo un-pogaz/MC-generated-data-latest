@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/nether_bricks/step1",
+    "block/nether_bricks/step2",
+    "block/nether_bricks/step3",
+    "block/nether_bricks/step4",
+    "block/nether_bricks/step5",
+    "block/nether_bricks/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

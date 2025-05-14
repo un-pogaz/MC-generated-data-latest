@@ -2,5 +2,6 @@
   "sounds": [
     "item/bottle/empty1",
     "item/bottle/empty2"
-  ]
+  ],
+  "subtitle": "subtitles.item.bottle.empty"
 }

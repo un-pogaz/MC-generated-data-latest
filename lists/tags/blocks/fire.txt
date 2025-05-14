@@ -1,0 +1,2 @@
+minecraft:fire
+minecraft:soul_fire

@@ -1,5 +1,6 @@
 {
   "sounds": [
     "block/end_portal/endportal"
-  ]
+  ],
+  "subtitle": "subtitles.block.end_portal.spawn"
 }

@@ -7,6 +7,9 @@ minecraft:birch_stairs
 minecraft:birch_trapdoor
 minecraft:brick_stairs
 minecraft:cobblestone_stairs
+minecraft:crimson_door
+minecraft:crimson_stairs
+minecraft:crimson_trapdoor
 minecraft:dark_oak_door
 minecraft:dark_oak_stairs
 minecraft:dark_oak_trapdoor
@@ -50,3 +53,6 @@ minecraft:stone_stairs
 minecraft:sunflower
 minecraft:tall_grass
 minecraft:tall_seagrass
+minecraft:warped_door
+minecraft:warped_stairs
+minecraft:warped_trapdoor

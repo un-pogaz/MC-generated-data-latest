@@ -28,5 +28,6 @@
       "name": "entity/player/attack/sweep7",
       "volume": 0.7
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.player.attack.sweep"
 }

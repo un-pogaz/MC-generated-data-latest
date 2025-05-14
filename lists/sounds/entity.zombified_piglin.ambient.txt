@@ -1,0 +1,4 @@
+minecraft:mob/zombified_piglin/zpig1
+minecraft:mob/zombified_piglin/zpig2
+minecraft:mob/zombified_piglin/zpig3
+minecraft:mob/zombified_piglin/zpig4

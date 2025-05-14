@@ -3,5 +3,6 @@
     "block/end_portal/eyeplace1",
     "block/end_portal/eyeplace2",
     "block/end_portal/eyeplace3"
-  ]
+  ],
+  "subtitle": "subtitles.block.end_portal_frame.fill"
 }

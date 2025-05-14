@@ -56,6 +56,9 @@ minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting
 minecraft:recipes/building_blocks/cobblestone_stairs
 minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting
 minecraft:recipes/building_blocks/cracked_stone_bricks
+minecraft:recipes/building_blocks/crimson_planks
+minecraft:recipes/building_blocks/crimson_slab
+minecraft:recipes/building_blocks/crimson_stairs
 minecraft:recipes/building_blocks/cut_red_sandstone
 minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting
 minecraft:recipes/building_blocks/cut_red_sandstone_slab
@@ -153,6 +156,7 @@ minecraft:recipes/building_blocks/nether_brick_stairs
 minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting
 minecraft:recipes/building_blocks/nether_bricks
 minecraft:recipes/building_blocks/nether_wart_block
+minecraft:recipes/building_blocks/netherite_block
 minecraft:recipes/building_blocks/oak_planks
 minecraft:recipes/building_blocks/oak_slab
 minecraft:recipes/building_blocks/oak_stairs
@@ -282,6 +286,9 @@ minecraft:recipes/building_blocks/stripped_jungle_wood
 minecraft:recipes/building_blocks/stripped_oak_wood
 minecraft:recipes/building_blocks/stripped_spruce_wood
 minecraft:recipes/building_blocks/terracotta
+minecraft:recipes/building_blocks/warped_planks
+minecraft:recipes/building_blocks/warped_slab
+minecraft:recipes/building_blocks/warped_stairs
 minecraft:recipes/building_blocks/white_concrete_powder
 minecraft:recipes/building_blocks/white_stained_glass
 minecraft:recipes/building_blocks/white_terracotta
@@ -312,6 +319,11 @@ minecraft:recipes/combat/leather_boots
 minecraft:recipes/combat/leather_chestplate
 minecraft:recipes/combat/leather_helmet
 minecraft:recipes/combat/leather_leggings
+minecraft:recipes/combat/netherite_boots
+minecraft:recipes/combat/netherite_chestplate
+minecraft:recipes/combat/netherite_helmet
+minecraft:recipes/combat/netherite_leggings
+minecraft:recipes/combat/netherite_sword
 minecraft:recipes/combat/shield
 minecraft:recipes/combat/spectral_arrow
 minecraft:recipes/combat/stone_sword
@@ -359,7 +371,9 @@ minecraft:recipes/decorations/cartography_table
 minecraft:recipes/decorations/chest
 minecraft:recipes/decorations/cobblestone_wall
 minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting
+minecraft:recipes/decorations/composter
 minecraft:recipes/decorations/crafting_table
+minecraft:recipes/decorations/crimson_fence
 minecraft:recipes/decorations/cyan_banner
 minecraft:recipes/decorations/cyan_bed
 minecraft:recipes/decorations/cyan_bed_from_white_bed
@@ -500,6 +514,8 @@ minecraft:recipes/decorations/slime_block
 minecraft:recipes/decorations/smithing_table
 minecraft:recipes/decorations/smoker
 minecraft:recipes/decorations/snow
+minecraft:recipes/decorations/soul_fire_lantern
+minecraft:recipes/decorations/soul_fire_torch
 minecraft:recipes/decorations/spruce_fence
 minecraft:recipes/decorations/spruce_sign
 minecraft:recipes/decorations/stone_brick_wall
@@ -507,6 +523,7 @@ minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting
 minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting
 minecraft:recipes/decorations/stonecutter
 minecraft:recipes/decorations/torch
+minecraft:recipes/decorations/warped_fence
 minecraft:recipes/decorations/white_banner
 minecraft:recipes/decorations/white_bed
 minecraft:recipes/decorations/white_carpet
@@ -575,7 +592,6 @@ minecraft:recipes/misc/charcoal
 minecraft:recipes/misc/coal
 minecraft:recipes/misc/coal_from_blasting
 minecraft:recipes/misc/coal_from_smelting
-minecraft:recipes/misc/composter
 minecraft:recipes/misc/conduit
 minecraft:recipes/misc/creeper_banner_pattern
 minecraft:recipes/misc/cyan_dye
@@ -627,6 +643,10 @@ minecraft:recipes/misc/map
 minecraft:recipes/misc/melon_seeds
 minecraft:recipes/misc/mojang_banner_pattern
 minecraft:recipes/misc/nether_brick
+minecraft:recipes/misc/netherite_ingot
+minecraft:recipes/misc/netherite_ingot_from_netherite_block
+minecraft:recipes/misc/netherite_scrap
+minecraft:recipes/misc/netherite_scrap_from_blasting
 minecraft:recipes/misc/orange_dye_from_orange_tulip
 minecraft:recipes/misc/orange_dye_from_red_yellow
 minecraft:recipes/misc/paper
@@ -665,6 +685,11 @@ minecraft:recipes/redstone/birch_fence_gate
 minecraft:recipes/redstone/birch_pressure_plate
 minecraft:recipes/redstone/birch_trapdoor
 minecraft:recipes/redstone/comparator
+minecraft:recipes/redstone/crimson_button
+minecraft:recipes/redstone/crimson_door
+minecraft:recipes/redstone/crimson_fence_gate
+minecraft:recipes/redstone/crimson_pressure_plate
+minecraft:recipes/redstone/crimson_trapdoor
 minecraft:recipes/redstone/dark_oak_button
 minecraft:recipes/redstone/dark_oak_door
 minecraft:recipes/redstone/dark_oak_fence_gate
@@ -711,6 +736,11 @@ minecraft:recipes/redstone/stone_pressure_plate
 minecraft:recipes/redstone/tnt
 minecraft:recipes/redstone/trapped_chest
 minecraft:recipes/redstone/tripwire_hook
+minecraft:recipes/redstone/warped_button
+minecraft:recipes/redstone/warped_door
+minecraft:recipes/redstone/warped_fence_gate
+minecraft:recipes/redstone/warped_pressure_plate
+minecraft:recipes/redstone/warped_trapdoor
 minecraft:recipes/root
 minecraft:recipes/tools/clock
 minecraft:recipes/tools/compass
@@ -729,6 +759,10 @@ minecraft:recipes/tools/iron_hoe
 minecraft:recipes/tools/iron_pickaxe
 minecraft:recipes/tools/iron_shovel
 minecraft:recipes/tools/lead
+minecraft:recipes/tools/netherite_axe
+minecraft:recipes/tools/netherite_hoe
+minecraft:recipes/tools/netherite_pickaxe
+minecraft:recipes/tools/netherite_shovel
 minecraft:recipes/tools/shears
 minecraft:recipes/tools/stone_axe
 minecraft:recipes/tools/stone_hoe

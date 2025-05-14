@@ -3,5 +3,6 @@
     "block/beacon/power1",
     "block/beacon/power2",
     "block/beacon/power3"
-  ]
+  ],
+  "subtitle": "subtitles.block.beacon.power_select"
 }

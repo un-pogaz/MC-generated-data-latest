@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/bone_block/step1",
+    "block/bone_block/step2",
+    "block/bone_block/step3",
+    "block/bone_block/step4",
+    "block/bone_block/step5"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

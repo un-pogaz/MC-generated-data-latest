@@ -4,5 +4,6 @@
     "mob/wither_skeleton/step2",
     "mob/wither_skeleton/step3",
     "mob/wither_skeleton/step4"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
 }

@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/netherrack/break1",
+    "block/netherrack/break2",
+    "block/netherrack/break3",
+    "block/netherrack/break4",
+    "block/netherrack/break5",
+    "block/netherrack/break6"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

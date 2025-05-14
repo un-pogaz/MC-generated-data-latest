@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    "block/soul_sand/break1",
+    "block/soul_sand/break2",
+    "block/soul_sand/break3",
+    "block/soul_sand/break4",
+    "block/soul_sand/break5",
+    "block/soul_sand/break6",
+    "block/soul_sand/break7",
+    "block/soul_sand/break8",
+    "block/soul_sand/break9"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

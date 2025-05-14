@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/ancient_debris/break1",
+    "block/ancient_debris/break2",
+    "block/ancient_debris/break3",
+    "block/ancient_debris/break4",
+    "block/ancient_debris/break5"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

@@ -137,15 +137,15 @@
     },
     {
       Properties: {
-        east: "false",
+        east: "none",
         waterlogged: "false",
-        south: "false",
-        north: "true",
-        west: "true",
+        south: "none",
+        north: "low",
+        west: "low",
         up: "true"
       },
       Name: "minecraft:cobblestone_wall"
     }
   ],
-  DataVersion: 2230
+  DataVersion: 2504
 }

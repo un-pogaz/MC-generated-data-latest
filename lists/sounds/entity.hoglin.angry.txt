@@ -1,0 +1,6 @@
+minecraft:mob/hoglin/angry1
+minecraft:mob/hoglin/angry2
+minecraft:mob/hoglin/angry3
+minecraft:mob/hoglin/angry4
+minecraft:mob/hoglin/angry5
+minecraft:mob/hoglin/angry6

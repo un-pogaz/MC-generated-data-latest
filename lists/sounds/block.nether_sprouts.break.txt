@@ -1,0 +1,4 @@
+minecraft:block/nether_sprouts/break1
+minecraft:block/nether_sprouts/break2
+minecraft:block/nether_sprouts/break3
+minecraft:block/nether_sprouts/break4

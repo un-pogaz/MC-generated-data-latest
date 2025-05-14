@@ -1,5 +1,6 @@
 {
   "sounds": [
     "mob/horse/land"
-  ]
+  ],
+  "subtitle": "subtitles.entity.generic.big_fall"
 }

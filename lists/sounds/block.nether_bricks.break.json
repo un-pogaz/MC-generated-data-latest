@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/nether_bricks/break1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/nether_bricks/break2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/nether_bricks/break3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/nether_bricks/break4",
+      "volume": 0.8
+    },
+    {
+      "name": "block/nether_bricks/break5",
+      "volume": 0.8
+    },
+    {
+      "name": "block/nether_bricks/break6",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

@@ -1,0 +1,6 @@
+minecraft:block/netherrack/break1
+minecraft:block/netherrack/break2
+minecraft:block/netherrack/break3
+minecraft:block/netherrack/break4
+minecraft:block/netherrack/break5
+minecraft:block/netherrack/break6

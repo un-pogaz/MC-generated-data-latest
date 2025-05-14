@@ -3,5 +3,6 @@
     "block/enchantment_table/enchant1",
     "block/enchantment_table/enchant2",
     "block/enchantment_table/enchant3"
-  ]
+  ],
+  "subtitle": "subtitles.block.enchantment_table.use"
 }

@@ -1,0 +1,5 @@
+minecraft:ambient/nether/nether_wastes/mood1
+minecraft:ambient/nether/nether_wastes/mood2
+minecraft:ambient/nether/nether_wastes/mood3
+minecraft:ambient/nether/nether_wastes/mood4
+minecraft:ambient/nether/nether_wastes/mood5

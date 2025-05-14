@@ -16,5 +16,6 @@
       "name": "entity/fish/hurt4",
       "pitch": 0.8
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.tropical_fish.death"
 }

@@ -8,5 +8,6 @@
       "name": "mob/wandering_trader/drink_potion",
       "volume": 0.7
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.drink_potion"
 }

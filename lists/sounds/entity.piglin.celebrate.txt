@@ -1,0 +1,4 @@
+minecraft:mob/piglin/celebrate1
+minecraft:mob/piglin/celebrate2
+minecraft:mob/piglin/celebrate3
+minecraft:mob/piglin/celebrate4

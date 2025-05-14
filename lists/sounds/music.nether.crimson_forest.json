@@ -1,0 +1,30 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/nether/crimson_forest/chrysopoeia",
+      "stream": true,
+      "volume": 0.5,
+      "weight": 7
+    },
+    {
+      "name": "music/game/nether/nether1",
+      "stream": true,
+      "weight": 1
+    },
+    {
+      "name": "music/game/nether/nether2",
+      "stream": true,
+      "weight": 1
+    },
+    {
+      "name": "music/game/nether/nether3",
+      "stream": true,
+      "weight": 1
+    },
+    {
+      "name": "music/game/nether/nether4",
+      "stream": true,
+      "weight": 1
+    }
+  ]
+}

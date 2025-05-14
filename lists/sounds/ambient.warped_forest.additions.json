@@ -1,0 +1,115 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/crimson_forest/addition1",
+      "volume": 0.3,
+      "weight": 1
+    },
+    {
+      "name": "ambient/nether/warped_forest/enish1",
+      "volume": 0.1,
+      "pitch": 0.2,
+      "weight": 10
+    },
+    {
+      "name": "ambient/nether/warped_forest/enish2",
+      "volume": 0.1,
+      "pitch": 0.2,
+      "weight": 6
+    },
+    {
+      "name": "ambient/nether/warped_forest/enish3",
+      "volume": 0.07,
+      "pitch": 0.2,
+      "weight": 6
+    },
+    {
+      "name": "ambient/nether/warped_forest/addition1",
+      "volume": 0.06,
+      "pitch": 0.8,
+      "weight": 3
+    },
+    {
+      "name": "ambient/nether/warped_forest/addition2",
+      "volume": 0.06,
+      "pitch": 0.7,
+      "weight": 3
+    },
+    {
+      "name": "ambient/nether/warped_forest/addition3",
+      "volume": 0.06,
+      "pitch": 0.1,
+      "weight": 3
+    },
+    {
+      "name": "ambient/nether/warped_forest/addition4",
+      "volume": 0.07,
+      "weight": 3
+    },
+    {
+      "name": "ambient/nether/warped_forest/addition5",
+      "volume": 0.07,
+      "weight": 3
+    },
+    {
+      "name": "ambient/nether/warped_forest/addition6",
+      "volume": 0.15,
+      "weight": 1
+    },
+    {
+      "name": "ambient/nether/warped_forest/help1",
+      "volume": 0.2,
+      "weight": 1
+    },
+    {
+      "name": "ambient/nether/warped_forest/help2",
+      "volume": 0.2,
+      "weight": 1
+    },
+    {
+      "name": "ambient/nether/warped_forest/here1",
+      "volume": 0.1,
+      "weight": 2
+    },
+    {
+      "name": "ambient/nether/warped_forest/here1",
+      "volume": 0.1,
+      "pitch": 0.7,
+      "weight": 2
+    },
+    {
+      "name": "ambient/nether/warped_forest/here2",
+      "volume": 0.2,
+      "weight": 3
+    },
+    {
+      "name": "ambient/nether/warped_forest/here2",
+      "volume": 0.2,
+      "pitch": 0.7,
+      "weight": 3
+    },
+    {
+      "name": "ambient/nether/warped_forest/here3",
+      "volume": 0.2,
+      "weight": 3
+    },
+    {
+      "name": "ambient/nether/crimson_forest/particles1",
+      "volume": 0.4,
+      "pitch": 0.8,
+      "weight": 40
+    },
+    {
+      "name": "ambient/nether/crimson_forest/particles2",
+      "volume": 0.3,
+      "pitch": 0.8,
+      "weight": 40
+    },
+    {
+      "name": "ambient/nether/crimson_forest/particles3",
+      "volume": 0.3,
+      "pitch": 0.8,
+      "weight": 40
+    }
+  ]
+}

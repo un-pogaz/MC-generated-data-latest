@@ -1,5 +1,6 @@
 minecraft:ambient_entity_effect
 minecraft:angry_villager
+minecraft:ash
 minecraft:barrier
 minecraft:block
 minecraft:bubble
@@ -9,6 +10,7 @@ minecraft:campfire_cosy_smoke
 minecraft:campfire_signal_smoke
 minecraft:cloud
 minecraft:composter
+minecraft:crimson_spore
 minecraft:crit
 minecraft:current_down
 minecraft:damage_indicator
@@ -53,10 +55,12 @@ minecraft:portal
 minecraft:rain
 minecraft:smoke
 minecraft:sneeze
+minecraft:soul_fire_flame
 minecraft:spit
 minecraft:splash
 minecraft:squid_ink
 minecraft:sweep_attack
 minecraft:totem_of_undying
 minecraft:underwater
+minecraft:warped_spore
 minecraft:witch

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/basalt_deltas/ambience",
+      "stream": true,
+      "volume": 0.5
+    }
+  ]
+}

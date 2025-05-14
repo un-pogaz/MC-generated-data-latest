@@ -1,0 +1,5 @@
+minecraft:mob/strider/happy1
+minecraft:mob/strider/happy2
+minecraft:mob/strider/happy3
+minecraft:mob/strider/happy4
+minecraft:mob/strider/happy5

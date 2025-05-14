@@ -1,0 +1,5 @@
+minecraft:block/nether_sprouts/step1
+minecraft:block/nether_sprouts/step2
+minecraft:block/nether_sprouts/step3
+minecraft:block/nether_sprouts/step4
+minecraft:block/nether_sprouts/step5

@@ -1,0 +1,13 @@
+minecraft:enchant/soulspeed/soulspeed1
+minecraft:enchant/soulspeed/soulspeed2
+minecraft:enchant/soulspeed/soulspeed3
+minecraft:enchant/soulspeed/soulspeed4
+minecraft:enchant/soulspeed/soulspeed5
+minecraft:enchant/soulspeed/soulspeed6
+minecraft:enchant/soulspeed/soulspeed7
+minecraft:enchant/soulspeed/soulspeed8
+minecraft:enchant/soulspeed/soulspeed9
+minecraft:enchant/soulspeed/soulspeed10
+minecraft:enchant/soulspeed/soulspeed11
+minecraft:enchant/soulspeed/soulspeed12
+minecraft:enchant/soulspeed/soulspeed13

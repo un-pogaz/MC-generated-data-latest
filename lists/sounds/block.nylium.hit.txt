@@ -1,0 +1,6 @@
+minecraft:block/nylium/step1
+minecraft:block/nylium/step2
+minecraft:block/nylium/step3
+minecraft:block/nylium/step4
+minecraft:block/nylium/step5
+minecraft:block/nylium/step6

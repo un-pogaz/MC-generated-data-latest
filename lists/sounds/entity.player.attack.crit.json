@@ -12,5 +12,6 @@
       "name": "entity/player/attack/crit3",
       "volume": 0.7
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.player.attack.crit"
 }

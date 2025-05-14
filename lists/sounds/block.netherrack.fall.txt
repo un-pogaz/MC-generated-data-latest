@@ -1,0 +1,6 @@
+minecraft:block/netherrack/step1
+minecraft:block/netherrack/step2
+minecraft:block/netherrack/step3
+minecraft:block/netherrack/step4
+minecraft:block/netherrack/step5
+minecraft:block/netherrack/step6

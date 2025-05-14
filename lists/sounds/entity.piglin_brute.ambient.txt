@@ -1,0 +1,9 @@
+minecraft:mob/piglin_brute/idle1
+minecraft:mob/piglin_brute/idle2
+minecraft:mob/piglin_brute/idle3
+minecraft:mob/piglin_brute/idle4
+minecraft:mob/piglin_brute/idle5
+minecraft:mob/piglin_brute/idle6
+minecraft:mob/piglin_brute/idle7
+minecraft:mob/piglin_brute/idle8
+minecraft:mob/piglin_brute/idle9

@@ -31,6 +31,12 @@ minecraft:cobblestone_slab
 minecraft:cobblestone_stairs
 minecraft:cobblestone_wall
 minecraft:conduit
+minecraft:crimson_fence
+minecraft:crimson_sign
+minecraft:crimson_slab
+minecraft:crimson_stairs
+minecraft:crimson_trapdoor
+minecraft:crimson_wall_sign
 minecraft:cut_red_sandstone_slab
 minecraft:cut_sandstone_slab
 minecraft:cyan_stained_glass_pane
@@ -158,5 +164,11 @@ minecraft:trapped_chest
 minecraft:tube_coral
 minecraft:tube_coral_fan
 minecraft:tube_coral_wall_fan
+minecraft:warped_fence
+minecraft:warped_sign
+minecraft:warped_slab
+minecraft:warped_stairs
+minecraft:warped_trapdoor
+minecraft:warped_wall_sign
 minecraft:white_stained_glass_pane
 minecraft:yellow_stained_glass_pane

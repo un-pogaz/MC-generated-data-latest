@@ -1,0 +1,5 @@
+minecraft:block/soul_soil/step1
+minecraft:block/soul_soil/step2
+minecraft:block/soul_soil/step3
+minecraft:block/soul_soil/step4
+minecraft:block/soul_soil/step5

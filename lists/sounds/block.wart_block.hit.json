@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/netherwart/step1",
+      "volume": 0.7
+    },
+    {
+      "name": "block/netherwart/step2",
+      "volume": 0.7
+    },
+    {
+      "name": "block/netherwart/step3",
+      "volume": 0.7
+    },
+    {
+      "name": "block/netherwart/step4",
+      "volume": 0.7
+    },
+    {
+      "name": "block/netherwart/step5",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

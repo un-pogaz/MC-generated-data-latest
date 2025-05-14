@@ -1,0 +1,5 @@
+minecraft:mob/piglin/step1
+minecraft:mob/piglin/step2
+minecraft:mob/piglin/step3
+minecraft:mob/piglin/step4
+minecraft:mob/piglin/step5

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/zombified_piglin/zpigangry1",
+    "mob/zombified_piglin/zpigangry2",
+    "mob/zombified_piglin/zpigangry3",
+    "mob/zombified_piglin/zpigangry4"
+  ],
+  "subtitle": "subtitles.entity.zombified_piglin.angry"
+}

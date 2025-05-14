@@ -28,7 +28,7 @@
           "minecraft:adventure/shoot_arrow": {
             "icon": "minecraft:bow",
             "title": "Take Aim",
-            "description": "Shoot something with a bow and arrow",
+            "description": "Shoot something with an arrow",
             "frame": "task",
             "childs": {
               "minecraft:adventure/sniper_duel": {
@@ -179,7 +179,7 @@
                   "minecraft:end/elytra": {
                     "icon": "minecraft:elytra",
                     "title": "Sky's the Limit",
-                    "description": "Find Elytra",
+                    "description": "Find elytra",
                     "frame": "goal"
                   },
                   "minecraft:end/levitate": {
@@ -455,7 +455,7 @@
                       "minecraft:story/form_obsidian": {
                         "icon": "minecraft:obsidian",
                         "title": "Ice Bucket Challenge",
-                        "description": "Form and mine a block of Obsidian",
+                        "description": "Form and mine a block of obsidian",
                         "frame": "task",
                         "childs": {
                           "minecraft:story/enter_the_nether": {
@@ -499,7 +499,7 @@
                       "minecraft:story/deflect_arrow": {
                         "icon": "minecraft:shield",
                         "title": "Not Today, Thank You",
-                        "description": "Deflect an arrow with a shield",
+                        "description": "Deflect an arrow or trident with a shield",
                         "frame": "task"
                       }
                     }

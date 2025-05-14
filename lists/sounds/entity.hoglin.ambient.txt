@@ -1,0 +1,11 @@
+minecraft:mob/hoglin/idle1
+minecraft:mob/hoglin/idle2
+minecraft:mob/hoglin/idle3
+minecraft:mob/hoglin/idle4
+minecraft:mob/hoglin/idle5
+minecraft:mob/hoglin/idle6
+minecraft:mob/hoglin/idle7
+minecraft:mob/hoglin/idle8
+minecraft:mob/hoglin/idle9
+minecraft:mob/hoglin/idle10
+minecraft:mob/hoglin/idle11

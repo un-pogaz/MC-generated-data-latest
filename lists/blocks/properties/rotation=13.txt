@@ -4,6 +4,7 @@ minecraft:black_banner
 minecraft:blue_banner
 minecraft:brown_banner
 minecraft:creeper_head
+minecraft:crimson_sign
 minecraft:cyan_banner
 minecraft:dark_oak_sign
 minecraft:dragon_head
@@ -22,6 +23,7 @@ minecraft:purple_banner
 minecraft:red_banner
 minecraft:skeleton_skull
 minecraft:spruce_sign
+minecraft:warped_sign
 minecraft:white_banner
 minecraft:wither_skeleton_skull
 minecraft:yellow_banner

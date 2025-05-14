@@ -1,0 +1,5 @@
+minecraft:block/soul_sand/step1
+minecraft:block/soul_sand/step2
+minecraft:block/soul_sand/step3
+minecraft:block/soul_sand/step4
+minecraft:block/soul_sand/step5

@@ -1,0 +1,139 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/soulsand_valley/wind1",
+      "weight": 25,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind2",
+      "weight": 25,
+      "volume": 0.25
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind3",
+      "weight": 25,
+      "volume": 0.25
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind4",
+      "weight": 25,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind1",
+      "weight": 25,
+      "pitch": 0.75,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind2",
+      "weight": 25,
+      "pitch": 0.75,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind3",
+      "weight": 25,
+      "pitch": 0.75,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/wind4",
+      "weight": 25,
+      "pitch": 0.75,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/sand1",
+      "weight": 25,
+      "volume": 0.2
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/sand2",
+      "weight": 25,
+      "volume": 0.2
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/sand3",
+      "weight": 2,
+      "volume": 0.4
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/voices1",
+      "weight": 5,
+      "volume": 0.4
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/voices2",
+      "weight": 5,
+      "volume": 0.4
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/voices3",
+      "weight": 5,
+      "volume": 0.4
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/voices4",
+      "weight": 5,
+      "volume": 0.8
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/voices5",
+      "weight": 5,
+      "volume": 0.4
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/voices5",
+      "weight": 5,
+      "pitch": 0.7,
+      "volume": 0.15
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/with1",
+      "weight": 4,
+      "volume": 0.6
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/whisper1",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/whisper2",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/whisper3",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/whisper4",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/whisper5",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/whisper6",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/whisper7",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/soulsand_valley/whisper8",
+      "weight": 5,
+      "volume": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/nylium/break1",
+      "volume": 0.85
+    },
+    {
+      "name": "block/nylium/break2",
+      "volume": 0.85
+    },
+    {
+      "name": "block/nylium/break3",
+      "volume": 0.85
+    },
+    {
+      "name": "block/nylium/break4",
+      "volume": 0.85
+    },
+    {
+      "name": "block/nylium/break5",
+      "volume": 0.85
+    },
+    {
+      "name": "block/nylium/break6",
+      "volume": 0.85
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

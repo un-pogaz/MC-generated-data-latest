@@ -16,5 +16,6 @@
       "name": "block/composter/ready4",
       "volume": 1
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.composter.ready"
 }

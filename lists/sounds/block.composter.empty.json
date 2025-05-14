@@ -12,5 +12,6 @@
       "name": "block/composter/empty3",
       "volume": 1
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.composter.empty"
 }

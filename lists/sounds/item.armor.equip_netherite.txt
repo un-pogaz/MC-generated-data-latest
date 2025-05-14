@@ -1,0 +1,8 @@
+minecraft:item/armor/equip_netherite1
+minecraft:item/armor/equip_netherite2
+minecraft:item/armor/equip_netherite3
+minecraft:item/armor/equip_netherite4
+minecraft:item/armor/equip_netherite1
+minecraft:item/armor/equip_netherite2
+minecraft:item/armor/equip_netherite3
+minecraft:item/armor/equip_netherite4

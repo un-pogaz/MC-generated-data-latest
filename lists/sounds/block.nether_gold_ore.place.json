@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/nether_ore/break1",
+    "block/nether_ore/break2",
+    "block/nether_ore/break3",
+    "block/nether_ore/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

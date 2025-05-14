@@ -1,0 +1,4 @@
+minecraft:mob/piglin_brute/hurt1
+minecraft:mob/piglin_brute/hurt2
+minecraft:mob/piglin_brute/hurt3
+minecraft:mob/piglin_brute/hurt4

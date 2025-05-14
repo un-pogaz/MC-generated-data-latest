@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/hoglin/step1",
+      "volume": 1
+    },
+    {
+      "name": "mob/hoglin/step2",
+      "volume": 1
+    },
+    {
+      "name": "mob/hoglin/step3",
+      "volume": 1
+    },
+    {
+      "name": "mob/hoglin/step4",
+      "volume": 1
+    },
+    {
+      "name": "mob/hoglin/step5",
+      "volume": 1
+    },
+    {
+      "name": "mob/hoglin/step6",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.hoglin.step"
+}

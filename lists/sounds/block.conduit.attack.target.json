@@ -3,5 +3,6 @@
     "block/conduit/attack1",
     "block/conduit/attack2",
     "block/conduit/attack3"
-  ]
+  ],
+  "subtitle": "subtitles.block.conduit.attack.target"
 }

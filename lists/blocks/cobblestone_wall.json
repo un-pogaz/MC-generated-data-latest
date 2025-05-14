@@ -1,16 +1,19 @@
 {
   "properties": {
     "east": [
-      "true",
-      "false"
+      "none",
+      "low",
+      "tall"
     ],
     "north": [
-      "true",
-      "false"
+      "none",
+      "low",
+      "tall"
     ],
     "south": [
-      "true",
-      "false"
+      "none",
+      "low",
+      "tall"
     ],
     "up": [
       "true",
@@ -21,8 +24,9 @@
       "false"
     ],
     "west": [
-      "true",
-      "false"
+      "none",
+      "low",
+      "tall"
     ]
   }
 }

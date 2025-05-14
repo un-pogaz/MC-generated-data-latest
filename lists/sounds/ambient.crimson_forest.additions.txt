@@ -1,0 +1,17 @@
+minecraft:ambient/nether/crimson_forest/addition1
+minecraft:ambient/nether/crimson_forest/twang1
+minecraft:ambient/nether/crimson_forest/addition2
+minecraft:ambient/nether/crimson_forest/addition3
+minecraft:ambient/nether/crimson_forest/shine1
+minecraft:ambient/nether/crimson_forest/shine2
+minecraft:ambient/nether/crimson_forest/shine3
+minecraft:ambient/nether/crimson_forest/shroom1
+minecraft:ambient/nether/crimson_forest/shroom2
+minecraft:ambient/nether/crimson_forest/shroom3
+minecraft:ambient/nether/crimson_forest/voom1
+minecraft:ambient/nether/crimson_forest/voom1
+minecraft:ambient/nether/crimson_forest/voom2
+minecraft:ambient/nether/crimson_forest/voom2
+minecraft:ambient/nether/crimson_forest/particles1
+minecraft:ambient/nether/crimson_forest/particles2
+minecraft:ambient/nether/crimson_forest/particles3

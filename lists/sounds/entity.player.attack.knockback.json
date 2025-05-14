@@ -16,5 +16,6 @@
       "name": "entity/player/attack/knockback4",
       "volume": 0.7
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.player.attack.knockback"
 }

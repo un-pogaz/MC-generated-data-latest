@@ -1,0 +1,6 @@
+minecraft:mob/strider/idle1
+minecraft:mob/strider/idle2
+minecraft:mob/strider/idle3
+minecraft:mob/strider/idle4
+minecraft:mob/strider/idle5
+minecraft:mob/strider/idle6

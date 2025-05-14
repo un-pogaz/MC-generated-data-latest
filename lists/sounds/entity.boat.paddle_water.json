@@ -32,5 +32,6 @@
       "name": "entity/boat/paddle_water8",
       "volume": 0.8
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.boat.paddle_water"
 }

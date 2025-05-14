@@ -1,0 +1,1 @@
+locatebiome <biome minecraft:resource_location>

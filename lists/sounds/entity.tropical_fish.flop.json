@@ -16,5 +16,6 @@
       "name": "entity/fish/flop4",
       "volume": 0.3
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.tropical_fish.flop"
 }

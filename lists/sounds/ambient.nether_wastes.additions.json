@@ -1,0 +1,74 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/nether_wastes/addition1",
+      "weight": 1,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/nether_wastes/addition2",
+      "weight": 1,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/nether_wastes/addition3",
+      "weight": 1,
+      "volume": 0.1
+    },
+    {
+      "name": "ambient/nether/nether_wastes/addition4",
+      "weight": 5,
+      "volume": 0.67
+    },
+    {
+      "name": "ambient/nether/nether_wastes/addition5",
+      "weight": 1,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/nether_wastes/addition6",
+      "weight": 1,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/nether_wastes/addition7",
+      "weight": 1,
+      "volume": 0.3
+    },
+    {
+      "name": "ambient/nether/nether_wastes/addition8",
+      "weight": 5,
+      "volume": 0.67
+    },
+    {
+      "name": "ambient/nether/nether_wastes/dark1",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/nether_wastes/dark2",
+      "weight": 5,
+      "volume": 0.9
+    },
+    {
+      "name": "ambient/nether/nether_wastes/ground1",
+      "weight": 3,
+      "volume": 0.25
+    },
+    {
+      "name": "ambient/nether/nether_wastes/ground2",
+      "weight": 1,
+      "volume": 0.4
+    },
+    {
+      "name": "ambient/nether/nether_wastes/ground3",
+      "weight": 1,
+      "volume": 0.4
+    },
+    {
+      "name": "ambient/nether/nether_wastes/ground4",
+      "weight": 1,
+      "volume": 0.4
+    }
+  ]
+}

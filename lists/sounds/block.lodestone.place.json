@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/lodestone/place1",
+    "block/lodestone/place2",
+    "block/lodestone/place3",
+    "block/lodestone/place4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

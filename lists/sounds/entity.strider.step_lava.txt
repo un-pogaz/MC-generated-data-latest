@@ -1,0 +1,6 @@
+minecraft:mob/strider/step_lava1
+minecraft:mob/strider/step_lava2
+minecraft:mob/strider/step_lava3
+minecraft:mob/strider/step_lava4
+minecraft:mob/strider/step_lava5
+minecraft:mob/strider/step_lava6

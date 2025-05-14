@@ -1,0 +1,12 @@
+minecraft:ambient/nether/warped_forest/creak1
+minecraft:ambient/nether/warped_forest/creak2
+minecraft:ambient/nether/warped_forest/creak3
+minecraft:ambient/nether/warped_forest/creak4
+minecraft:ambient/nether/warped_forest/creak5
+minecraft:ambient/nether/warped_forest/mood1
+minecraft:ambient/nether/warped_forest/mood2
+minecraft:ambient/nether/warped_forest/mood3
+minecraft:ambient/nether/warped_forest/mood4
+minecraft:ambient/nether/warped_forest/mood5
+minecraft:ambient/nether/warped_forest/mood6
+minecraft:ambient/nether/warped_forest/mood7

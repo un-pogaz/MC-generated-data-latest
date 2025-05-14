@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/strider/step1",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/strider/step2",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/strider/step3",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/strider/step4",
+      "volume": 0.25
+    },
+    {
+      "name": "mob/strider/step5",
+      "volume": 0.25
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

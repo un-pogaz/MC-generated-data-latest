@@ -12,5 +12,6 @@
       "name": "mob/cat/beg3",
       "volume": 0.7
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.cat.beg_for_food"
 }

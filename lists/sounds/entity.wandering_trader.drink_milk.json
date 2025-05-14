@@ -20,5 +20,6 @@
       "name": "mob/wandering_trader/drink_milk5",
       "volume": 1
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.drink_milk"
 }

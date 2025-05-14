@@ -1,0 +1,5 @@
+minecraft:mob/piglin_brute/step1
+minecraft:mob/piglin_brute/step2
+minecraft:mob/piglin_brute/step3
+minecraft:mob/piglin_brute/step4
+minecraft:mob/piglin_brute/step5

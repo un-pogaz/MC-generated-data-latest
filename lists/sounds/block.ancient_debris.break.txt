@@ -1,0 +1,5 @@
+minecraft:block/ancient_debris/break1
+minecraft:block/ancient_debris/break2
+minecraft:block/ancient_debris/break3
+minecraft:block/ancient_debris/break4
+minecraft:block/ancient_debris/break5

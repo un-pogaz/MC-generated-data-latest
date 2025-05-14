@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/stem/step1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/stem/step2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/stem/step3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/stem/step4",
+      "volume": 0.8
+    },
+    {
+      "name": "block/stem/step5",
+      "volume": 0.8
+    },
+    {
+      "name": "block/stem/step6",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

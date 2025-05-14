@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/netherrack/step1",
+    "block/netherrack/step2",
+    "block/netherrack/step3",
+    "block/netherrack/step4",
+    "block/netherrack/step5",
+    "block/netherrack/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

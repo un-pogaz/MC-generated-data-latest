@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/respawn_anchor/set_spawn1",
+    "block/respawn_anchor/set_spawn2",
+    "block/respawn_anchor/set_spawn3"
+  ],
+  "subtitle": "subtitles.block.respawn_anchor.set_spawn"
+}

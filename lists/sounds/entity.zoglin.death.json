@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/zoglin/death1",
+      "volume": 0.93
+    },
+    {
+      "name": "mob/zoglin/death2",
+      "volume": 0.93
+    },
+    {
+      "name": "mob/zoglin/death3",
+      "volume": 0.93
+    }
+  ],
+  "subtitle": "subtitles.entity.zoglin.death"
+}

@@ -1,0 +1,5 @@
+minecraft:block/bone_block/break1
+minecraft:block/bone_block/break2
+minecraft:block/bone_block/break3
+minecraft:block/bone_block/break4
+minecraft:block/bone_block/break5

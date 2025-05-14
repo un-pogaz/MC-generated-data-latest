@@ -1,0 +1,6 @@
+minecraft:block/fungus/break1
+minecraft:block/fungus/break2
+minecraft:block/fungus/break3
+minecraft:block/fungus/break4
+minecraft:block/fungus/break5
+minecraft:block/fungus/break6

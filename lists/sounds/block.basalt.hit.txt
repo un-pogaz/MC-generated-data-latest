@@ -1,0 +1,6 @@
+minecraft:block/basalt/step1
+minecraft:block/basalt/step2
+minecraft:block/basalt/step3
+minecraft:block/basalt/step4
+minecraft:block/basalt/step5
+minecraft:block/basalt/step6

@@ -1,0 +1,6 @@
+minecraft:block/netherite/step1
+minecraft:block/netherite/step2
+minecraft:block/netherite/step3
+minecraft:block/netherite/step4
+minecraft:block/netherite/step5
+minecraft:block/netherite/step6

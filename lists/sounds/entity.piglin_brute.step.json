@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin_brute/step1",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/piglin_brute/step2",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/piglin_brute/step3",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/piglin_brute/step4",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/piglin_brute/step5",
+      "volume": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin_brute.step"
+}

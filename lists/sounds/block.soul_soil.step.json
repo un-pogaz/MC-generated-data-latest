@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/soul_soil/step1",
+    "block/soul_soil/step2",
+    "block/soul_soil/step3",
+    "block/soul_soil/step4",
+    "block/soul_soil/step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

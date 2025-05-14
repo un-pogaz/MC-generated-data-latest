@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin_brute/hurt1",
+      "volume": 0.64
+    },
+    {
+      "name": "mob/piglin_brute/hurt2",
+      "volume": 0.64
+    },
+    {
+      "name": "mob/piglin_brute/hurt3",
+      "volume": 0.64
+    },
+    {
+      "name": "mob/piglin_brute/hurt4",
+      "volume": 0.65
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin_brute.hurt"
+}

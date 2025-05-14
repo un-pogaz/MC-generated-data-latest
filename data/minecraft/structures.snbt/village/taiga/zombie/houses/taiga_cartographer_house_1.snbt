@@ -2301,11 +2301,11 @@
     },
     {
       Properties: {
-        east: "false",
+        east: "none",
         waterlogged: "false",
-        south: "true",
-        north: "false",
-        west: "false",
+        south: "low",
+        north: "none",
+        west: "none",
         up: "true"
       },
       Name: "minecraft:cobblestone_wall"
@@ -2484,5 +2484,5 @@
       Name: "minecraft:wall_torch"
     }
   ],
-  DataVersion: 2230
+  DataVersion: 2504
 }

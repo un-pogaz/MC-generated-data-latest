@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/crimson_forest/ambience",
+      "stream": true,
+      "volume": 0.74
+    }
+  ]
+}

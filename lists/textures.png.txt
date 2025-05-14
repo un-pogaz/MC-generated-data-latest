@@ -9,6 +9,8 @@ minecraft:block/acacia_trapdoor
 minecraft:block/activator_rail
 minecraft:block/activator_rail_on
 minecraft:block/allium
+minecraft:block/ancient_debris_side
+minecraft:block/ancient_debris_top
 minecraft:block/andesite
 minecraft:block/anvil
 minecraft:block/anvil_top
@@ -24,6 +26,8 @@ minecraft:block/barrel_bottom
 minecraft:block/barrel_side
 minecraft:block/barrel_top
 minecraft:block/barrel_top_open
+minecraft:block/basalt_side
+minecraft:block/basalt_top
 minecraft:block/beacon
 minecraft:block/bedrock
 minecraft:block/bee_nest_bottom
@@ -156,6 +160,16 @@ minecraft:block/cracked_stone_bricks
 minecraft:block/crafting_table_front
 minecraft:block/crafting_table_side
 minecraft:block/crafting_table_top
+minecraft:block/crimson_door_bottom
+minecraft:block/crimson_door_top
+minecraft:block/crimson_fungi
+minecraft:block/crimson_nylium
+minecraft:block/crimson_nylium_side
+minecraft:block/crimson_planks
+minecraft:block/crimson_roots
+minecraft:block/crimson_stem  [mcmeta]
+minecraft:block/crimson_stem_top
+minecraft:block/crimson_trapdoor
 minecraft:block/cut_red_sandstone
 minecraft:block/cut_sandstone
 minecraft:block/cyan_concrete
@@ -388,10 +402,12 @@ minecraft:block/mycelium_top
 minecraft:block/nether_bricks
 minecraft:block/nether_portal  [mcmeta]
 minecraft:block/nether_quartz_ore
+minecraft:block/nether_sprouts
 minecraft:block/nether_wart_block
 minecraft:block/nether_wart_stage0
 minecraft:block/nether_wart_stage1
 minecraft:block/nether_wart_stage2
+minecraft:block/netherite_block
 minecraft:block/netherrack
 minecraft:block/note_block
 minecraft:block/oak_door_bottom
@@ -514,6 +530,7 @@ minecraft:block/scaffolding_top
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
+minecraft:block/shroomlight
 minecraft:block/shulker_box
 minecraft:block/slime_block
 minecraft:block/smithing_table_bottom
@@ -528,7 +545,12 @@ minecraft:block/smoker_top
 minecraft:block/smooth_stone
 minecraft:block/smooth_stone_slab_side
 minecraft:block/snow
+minecraft:block/soul_fire_0  [mcmeta]
+minecraft:block/soul_fire_1  [mcmeta]
+minecraft:block/soul_fire_lantern  [mcmeta]
+minecraft:block/soul_fire_torch
 minecraft:block/soul_sand
+minecraft:block/soul_soil
 minecraft:block/spawner
 minecraft:block/sponge
 minecraft:block/spruce_door_bottom
@@ -549,6 +571,8 @@ minecraft:block/stripped_acacia_log
 minecraft:block/stripped_acacia_log_top
 minecraft:block/stripped_birch_log
 minecraft:block/stripped_birch_log_top
+minecraft:block/stripped_crimson_stem
+minecraft:block/stripped_crimson_stem_top
 minecraft:block/stripped_dark_oak_log
 minecraft:block/stripped_dark_oak_log_top
 minecraft:block/stripped_jungle_log
@@ -557,6 +581,8 @@ minecraft:block/stripped_oak_log
 minecraft:block/stripped_oak_log_top
 minecraft:block/stripped_spruce_log
 minecraft:block/stripped_spruce_log_top
+minecraft:block/stripped_warped_stem
+minecraft:block/stripped_warped_stem_top
 minecraft:block/structure_block
 minecraft:block/structure_block_corner
 minecraft:block/structure_block_data
@@ -589,9 +615,24 @@ minecraft:block/turtle_egg
 minecraft:block/turtle_egg_slightly_cracked
 minecraft:block/turtle_egg_very_cracked
 minecraft:block/vine
+minecraft:block/warped_door_bottom
+minecraft:block/warped_door_top
+minecraft:block/warped_fungi
+minecraft:block/warped_nylium
+minecraft:block/warped_nylium_side
+minecraft:block/warped_planks
+minecraft:block/warped_roots
+minecraft:block/warped_stem  [mcmeta]
+minecraft:block/warped_stem_top
+minecraft:block/warped_stripped_log_side
+minecraft:block/warped_stripped_log_top
+minecraft:block/warped_trapdoor
+minecraft:block/warped_wart_block
 minecraft:block/water_flow  [mcmeta]
 minecraft:block/water_overlay
 minecraft:block/water_still  [mcmeta]
+minecraft:block/weeping_vines
+minecraft:block/weeping_vines_plant
 minecraft:block/wet_sponge
 minecraft:block/wheat_stage0
 minecraft:block/wheat_stage1
@@ -776,6 +817,7 @@ minecraft:entity/ghast/ghast_shooting
 minecraft:entity/guardian
 minecraft:entity/guardian_beam
 minecraft:entity/guardian_elder
+minecraft:entity/hoglin/hoglin
 minecraft:entity/horse/armor/horse_armor_diamond
 minecraft:entity/horse/armor/horse_armor_gold
 minecraft:entity/horse/armor/horse_armor_iron
@@ -922,10 +964,12 @@ minecraft:entity/shulker/shulker_yellow
 minecraft:entity/shulker/spark
 minecraft:entity/signs/acacia
 minecraft:entity/signs/birch
+minecraft:entity/signs/crimson
 minecraft:entity/signs/dark_oak
 minecraft:entity/signs/jungle
 minecraft:entity/signs/oak
 minecraft:entity/signs/spruce
+minecraft:entity/signs/warped
 minecraft:entity/silverfish
 minecraft:entity/skeleton/skeleton
 minecraft:entity/skeleton/stray
@@ -1462,6 +1506,8 @@ minecraft:item/cooked_rabbit
 minecraft:item/cooked_salmon
 minecraft:item/cookie
 minecraft:item/creeper_banner_pattern
+minecraft:item/crimson_door
+minecraft:item/crimson_sign
 minecraft:item/crossbow_arrow
 minecraft:item/crossbow_firework
 minecraft:item/crossbow_pulling_0
@@ -1605,6 +1651,17 @@ minecraft:item/nautilus_shell
 minecraft:item/nether_brick
 minecraft:item/nether_star
 minecraft:item/nether_wart
+minecraft:item/netherite_axe
+minecraft:item/netherite_boots
+minecraft:item/netherite_chestplate
+minecraft:item/netherite_helmet
+minecraft:item/netherite_hoe
+minecraft:item/netherite_ingot
+minecraft:item/netherite_leggings
+minecraft:item/netherite_pickaxe
+minecraft:item/netherite_scrap
+minecraft:item/netherite_shovel
+minecraft:item/netherite_sword
 minecraft:item/oak_boat
 minecraft:item/oak_door
 minecraft:item/oak_sign
@@ -1647,6 +1704,7 @@ minecraft:item/shulker_shell
 minecraft:item/skull_banner_pattern
 minecraft:item/slime_ball
 minecraft:item/snowball
+minecraft:item/soul_fire_lantern
 minecraft:item/spawn_egg
 minecraft:item/spawn_egg_overlay
 minecraft:item/spectral_arrow
@@ -1676,6 +1734,8 @@ minecraft:item/tropical_fish
 minecraft:item/tropical_fish_bucket
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
+minecraft:item/warped_door
+minecraft:item/warped_sign
 minecraft:item/water_bucket
 minecraft:item/wheat
 minecraft:item/wheat_seeds
@@ -1743,6 +1803,8 @@ minecraft:models/armor/leather_layer_1
 minecraft:models/armor/leather_layer_1_overlay
 minecraft:models/armor/leather_layer_2
 minecraft:models/armor/leather_layer_2_overlay
+minecraft:models/armor/netherite_layer_1
+minecraft:models/armor/netherite_layer_2
 minecraft:models/armor/turtle_layer_1
 minecraft:painting/alban
 minecraft:painting/aztec
@@ -1870,6 +1932,7 @@ minecraft:particle/sga_w
 minecraft:particle/sga_x
 minecraft:particle/sga_y
 minecraft:particle/sga_z
+minecraft:particle/soul_fire_flame
 minecraft:particle/spark_0
 minecraft:particle/spark_1
 minecraft:particle/spark_2

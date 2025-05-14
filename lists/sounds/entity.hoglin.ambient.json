@@ -1,0 +1,49 @@
+{
+  "sounds": [
+    {
+      "name": "mob/hoglin/idle1",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/hoglin/idle2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/idle3",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/idle4",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/hoglin/idle5",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/idle6",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/idle7",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/idle8",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/idle9",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/idle10",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/hoglin/idle11",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.hoglin.ambient"
+}

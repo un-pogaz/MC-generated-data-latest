@@ -22,8 +22,8 @@ minecraft:dungeons
 minecraft:emerald_ore
 minecraft:end_gateway
 minecraft:end_island
+minecraft:fire
 minecraft:forest_rock
-minecraft:hell_fire
 minecraft:iceberg
 minecraft:lava_lake
 minecraft:light_gem_chance

@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/bone_block/break1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bone_block/break2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bone_block/break3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bone_block/break4",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bone_block/break5",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

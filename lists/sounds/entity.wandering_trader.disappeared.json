@@ -8,5 +8,6 @@
       "name": "mob/wandering_trader/disappeared2",
       "volume": 0.8
     }
-  ]
+  ],
+  "subtitle": "subtitles.entity.wandering_trader.disappeared"
 }

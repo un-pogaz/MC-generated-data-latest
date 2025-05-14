@@ -2,5 +2,6 @@
   "sounds": [
     "block/pumpkin/carve1",
     "block/pumpkin/carve2"
-  ]
+  ],
+  "subtitle": "subtitles.block.pumpkin.carve"
 }

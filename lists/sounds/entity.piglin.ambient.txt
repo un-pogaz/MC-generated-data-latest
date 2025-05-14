@@ -1,0 +1,5 @@
+minecraft:mob/piglin/idle1
+minecraft:mob/piglin/idle2
+minecraft:mob/piglin/idle3
+minecraft:mob/piglin/idle4
+minecraft:mob/piglin/idle5

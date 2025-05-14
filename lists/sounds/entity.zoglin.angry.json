@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/zoglin/angry1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/zoglin/angry2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/zoglin/angry3",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.zoglin.angry"
+}

@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/nether_sprouts/break1",
+      "volume": 0.7
+    },
+    {
+      "name": "block/nether_sprouts/break2",
+      "volume": 0.7
+    },
+    {
+      "name": "block/nether_sprouts/break3",
+      "volume": 0.7
+    },
+    {
+      "name": "block/nether_sprouts/break4",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

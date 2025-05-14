@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/shroomlight/break1",
+    "block/shroomlight/break2",
+    "block/shroomlight/break3",
+    "block/shroomlight/break4",
+    "block/shroomlight/break5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

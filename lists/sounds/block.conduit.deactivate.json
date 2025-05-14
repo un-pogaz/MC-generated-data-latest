@@ -4,5 +4,6 @@
       "name": "block/conduit/deactivate",
       "volume": 0.7
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.conduit.deactivate"
 }

@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/piglin_brute/angry1",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/angry2",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/angry3",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/angry4",
+      "volume": 0.9
+    },
+    {
+      "name": "mob/piglin_brute/angry5",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.entity.piglin_brute.angry"
+}

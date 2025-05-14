@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    {
+      "name": "ambient/nether/nether_wastes/ambience",
+      "stream": true,
+      "volume": 0.77
+    }
+  ]
+}
