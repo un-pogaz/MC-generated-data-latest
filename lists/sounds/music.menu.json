@@ -1,17 +1,22 @@
 {
   "sounds": [
     {
-      "name": "music/game/swamp/aerie",
+      "name": "music/game/a_familiar_room",
       "stream": true,
       "volume": 0.4
     },
     {
-      "name": "music/game/swamp/firebugs",
+      "name": "music/game/bromeliad",
       "stream": true,
       "volume": 0.4
     },
     {
-      "name": "music/game/swamp/labyrinthine",
+      "name": "music/game/crescent_dunes",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/echo_in_the_wind",
       "stream": true,
       "volume": 0.4
     },

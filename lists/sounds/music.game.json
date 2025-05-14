@@ -1,6 +1,11 @@
 {
   "sounds": [
     {
+      "name": "music/game/a_familiar_room",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
       "name": "music/game/calm1",
       "stream": true
     },

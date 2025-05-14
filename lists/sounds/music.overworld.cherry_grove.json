@@ -1,0 +1,33 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/bromeliad",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 3
+    },
+    {
+      "name": "music/game/calm1",
+      "stream": true
+    },
+    {
+      "name": "music/game/calm2",
+      "stream": true
+    },
+    {
+      "name": "music/game/calm3",
+      "stream": true
+    },
+    {
+      "name": "music/game/echo_in_the_wind",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 3
+    },
+    {
+      "name": "music/game/left_to_bloom",
+      "stream": true,
+      "volume": 0.4
+    }
+  ]
+}

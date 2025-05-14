@@ -16,6 +16,8 @@ adventure/root
 │ └>adventure/arbalistic
 │ └>adventure/two_birds_one_arrow
 │ └>adventure/whos_the_pillager_now
+└>adventure/salvage_sherd
+│ └>adventure/craft_decorated_pot_using_only_sherds
 └>adventure/sleep_in_bed
 │ └>adventure/adventuring_time
 │ └>adventure/play_jukebox_in_meadows
@@ -26,6 +28,8 @@ adventure/root
 └>adventure/trade
 │ └>adventure/summon_iron_golem
 │ └>adventure/trade_at_world_height
+└>adventure/trim_with_any_armor_pattern
+│ └>adventure/trim_with_all_exclusive_armor_patterns
 └>adventure/voluntary_exile
   └>adventure/hero_of_the_village
 
@@ -49,6 +53,9 @@ husbandry/root
 │   └>husbandry/axolotl_in_a_bucket
 │     └>husbandry/kill_axolotl_target
 └>husbandry/make_a_sign_glow
+└>husbandry/obtain_sniffer_egg
+│ └>husbandry/feed_snifflet
+│   └>husbandry/plant_any_sniffer_seed
 └>husbandry/plant_seed
 │ └>husbandry/balanced_diet
 │ └>husbandry/obtain_netherite_hoe

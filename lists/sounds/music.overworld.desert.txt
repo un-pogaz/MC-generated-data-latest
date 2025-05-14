@@ -1,0 +1,8 @@
+minecraft:music/game/crescent_dunes
+minecraft:music/game/hal1
+minecraft:music/game/hal2
+minecraft:music/game/hal3
+minecraft:music/game/hal4
+minecraft:music/game/nuance1
+minecraft:music/game/nuance2
+minecraft:music/game/one_more_day

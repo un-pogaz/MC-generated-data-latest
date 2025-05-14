@@ -1,0 +1,2 @@
+minecraft:brick
+#minecraft:decorated_pot_sherds
