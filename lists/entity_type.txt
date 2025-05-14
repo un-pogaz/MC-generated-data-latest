@@ -109,5 +109,6 @@ minecraft:zombified_piglin
 #minecraft:arrows
 #minecraft:beehive_inhabitors
 #minecraft:impact_projectiles
+#minecraft:powder_snow_walkable_mobs
 #minecraft:raiders
 #minecraft:skeletons

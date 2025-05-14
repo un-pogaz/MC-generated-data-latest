@@ -985,6 +985,10 @@ minecraft:block/potted_warped_fungus
 minecraft:block/potted_warped_roots
 minecraft:block/potted_white_tulip
 minecraft:block/potted_wither_rose
+minecraft:block/powder_snow
+minecraft:block/powder_snow_cauldron_full
+minecraft:block/powder_snow_cauldron_level1
+minecraft:block/powder_snow_cauldron_level2
 minecraft:block/powered_rail
 minecraft:block/powered_rail_on
 minecraft:block/powered_rail_on_raised_ne
@@ -1333,6 +1337,8 @@ minecraft:block/template_cake_with_candle
 minecraft:block/template_campfire
 minecraft:block/template_candle
 minecraft:block/template_cauldron_full
+minecraft:block/template_cauldron_level1
+minecraft:block/template_cauldron_level2
 minecraft:block/template_chorus_flower
 minecraft:block/template_command_block
 minecraft:block/template_daylight_detector
@@ -1465,7 +1471,7 @@ minecraft:block/warped_trapdoor_open
 minecraft:block/warped_trapdoor_top
 minecraft:block/warped_wart_block
 minecraft:block/water
-minecraft:block/water_cauldron
+minecraft:block/water_cauldron_full
 minecraft:block/water_cauldron_level1
 minecraft:block/water_cauldron_level2
 minecraft:block/weathered_copper_block
@@ -2354,6 +2360,7 @@ minecraft:item/poppy
 minecraft:item/porkchop
 minecraft:item/potato
 minecraft:item/potion
+minecraft:item/powder_snow_bucket
 minecraft:item/powered_rail
 minecraft:item/prismarine
 minecraft:item/prismarine_brick_slab
@@ -2513,7 +2520,7 @@ minecraft:item/spruce_stairs
 minecraft:item/spruce_trapdoor
 minecraft:item/spruce_wood
 minecraft:item/spyglass
-minecraft:item/spyglass_in_use
+minecraft:item/spyglass_scoping
 minecraft:item/squid_spawn_egg
 minecraft:item/stick
 minecraft:item/sticky_piston
