@@ -352,6 +352,7 @@ minecraft:donkey_spawn_egg
 minecraft:dragon_breath
 minecraft:dragon_egg
 minecraft:dragon_head
+minecraft:dried_ghast
 minecraft:dried_kelp
 minecraft:dried_kelp_block
 minecraft:dripstone_block
@@ -467,6 +468,7 @@ minecraft:guardian_spawn_egg
 minecraft:gunpowder
 minecraft:guster_pottery_sherd
 minecraft:hanging_roots
+minecraft:happy_ghast_spawn_egg
 minecraft:hay_block
 minecraft:heart_of_the_sea
 minecraft:heart_pottery_sherd

@@ -350,6 +350,34 @@ minecraft:block/dirt_path_top
 minecraft:block/dispenser_front
 minecraft:block/dispenser_front_vertical
 minecraft:block/dragon_egg
+minecraft:block/dried_ghast_hydration_0_bottom
+minecraft:block/dried_ghast_hydration_0_east
+minecraft:block/dried_ghast_hydration_0_north
+minecraft:block/dried_ghast_hydration_0_south
+minecraft:block/dried_ghast_hydration_0_tentacles
+minecraft:block/dried_ghast_hydration_0_top
+minecraft:block/dried_ghast_hydration_0_west
+minecraft:block/dried_ghast_hydration_1_bottom
+minecraft:block/dried_ghast_hydration_1_east
+minecraft:block/dried_ghast_hydration_1_north
+minecraft:block/dried_ghast_hydration_1_south
+minecraft:block/dried_ghast_hydration_1_tentacles
+minecraft:block/dried_ghast_hydration_1_top
+minecraft:block/dried_ghast_hydration_1_west
+minecraft:block/dried_ghast_hydration_2_bottom
+minecraft:block/dried_ghast_hydration_2_east
+minecraft:block/dried_ghast_hydration_2_north
+minecraft:block/dried_ghast_hydration_2_south
+minecraft:block/dried_ghast_hydration_2_tentacles
+minecraft:block/dried_ghast_hydration_2_top
+minecraft:block/dried_ghast_hydration_2_west
+minecraft:block/dried_ghast_hydration_3_bottom
+minecraft:block/dried_ghast_hydration_3_east
+minecraft:block/dried_ghast_hydration_3_north
+minecraft:block/dried_ghast_hydration_3_south
+minecraft:block/dried_ghast_hydration_3_tentacles
+minecraft:block/dried_ghast_hydration_3_top
+minecraft:block/dried_ghast_hydration_3_west
 minecraft:block/dried_kelp_bottom
 minecraft:block/dried_kelp_side
 minecraft:block/dried_kelp_top
@@ -1241,6 +1269,22 @@ minecraft:entity/enderman/enderman_eyes
 minecraft:entity/endermite
 minecraft:entity/equipment/camel_saddle/saddle
 minecraft:entity/equipment/donkey_saddle/saddle
+minecraft:entity/equipment/happy_ghast_body/black_harness
+minecraft:entity/equipment/happy_ghast_body/blue_harness
+minecraft:entity/equipment/happy_ghast_body/brown_harness
+minecraft:entity/equipment/happy_ghast_body/cyan_harness
+minecraft:entity/equipment/happy_ghast_body/gray_harness
+minecraft:entity/equipment/happy_ghast_body/green_harness
+minecraft:entity/equipment/happy_ghast_body/light_blue_harness
+minecraft:entity/equipment/happy_ghast_body/light_gray_harness
+minecraft:entity/equipment/happy_ghast_body/lime_harness
+minecraft:entity/equipment/happy_ghast_body/magenta_harness
+minecraft:entity/equipment/happy_ghast_body/orange_harness
+minecraft:entity/equipment/happy_ghast_body/pink_harness
+minecraft:entity/equipment/happy_ghast_body/purple_harness
+minecraft:entity/equipment/happy_ghast_body/red_harness
+minecraft:entity/equipment/happy_ghast_body/white_harness
+minecraft:entity/equipment/happy_ghast_body/yellow_harness
 minecraft:entity/equipment/horse_body/diamond
 minecraft:entity/equipment/horse_body/gold
 minecraft:entity/equipment/horse_body/iron
@@ -1314,6 +1358,8 @@ minecraft:entity/frog/temperate_frog
 minecraft:entity/frog/warm_frog
 minecraft:entity/ghast/ghast
 minecraft:entity/ghast/ghast_shooting
+minecraft:entity/ghast/happy_ghast
+minecraft:entity/ghast/happy_ghast_baby
 minecraft:entity/goat/goat
 minecraft:entity/guardian
 minecraft:entity/guardian_beam
@@ -1949,6 +1995,10 @@ minecraft:gui/sprites/hud/hotbar_selection
 minecraft:gui/sprites/hud/jump_bar_background
 minecraft:gui/sprites/hud/jump_bar_cooldown
 minecraft:gui/sprites/hud/jump_bar_progress
+minecraft:gui/sprites/hud/locator_bar_arrow_down  [mcmeta]
+minecraft:gui/sprites/hud/locator_bar_arrow_up  [mcmeta]
+minecraft:gui/sprites/hud/locator_bar_background  [mcmeta]
+minecraft:gui/sprites/hud/locator_bar_player
 minecraft:gui/sprites/icon/accessibility
 minecraft:gui/sprites/icon/chat_modified
 minecraft:gui/sprites/icon/checkmark
@@ -2127,11 +2177,11 @@ minecraft:gui/title/background/panorama_3
 minecraft:gui/title/background/panorama_4
 minecraft:gui/title/background/panorama_5
 minecraft:gui/title/background/panorama_overlay
-minecraft:gui/title/edition  [mcmeta]
-minecraft:gui/title/minceraft  [mcmeta]
-minecraft:gui/title/minecraft  [mcmeta]
+minecraft:gui/title/edition
+minecraft:gui/title/minceraft
+minecraft:gui/title/minecraft
 minecraft:gui/title/mojangstudios
-minecraft:gui/title/realms  [mcmeta]
+minecraft:gui/title/realms
 minecraft:item/acacia_boat
 minecraft:item/acacia_chest_boat
 minecraft:item/acacia_door
@@ -2174,6 +2224,7 @@ minecraft:item/black_bundle_open_back
 minecraft:item/black_bundle_open_front
 minecraft:item/black_candle
 minecraft:item/black_dye
+minecraft:item/black_harness
 minecraft:item/blade_pottery_sherd
 minecraft:item/blaze_powder
 minecraft:item/blaze_rod
@@ -2184,6 +2235,7 @@ minecraft:item/blue_bundle_open_front
 minecraft:item/blue_candle
 minecraft:item/blue_dye
 minecraft:item/blue_egg
+minecraft:item/blue_harness
 minecraft:item/bogged_spawn_egg
 minecraft:item/bolt_armor_trim_smithing_template
 minecraft:item/bone
@@ -2207,6 +2259,7 @@ minecraft:item/brown_bundle_open_front
 minecraft:item/brown_candle
 minecraft:item/brown_dye
 minecraft:item/brown_egg
+minecraft:item/brown_harness
 minecraft:item/brush
 minecraft:item/bucket
 minecraft:item/bundle
@@ -2370,6 +2423,7 @@ minecraft:item/cyan_bundle_open_back
 minecraft:item/cyan_bundle_open_front
 minecraft:item/cyan_candle
 minecraft:item/cyan_dye
+minecraft:item/cyan_harness
 minecraft:item/danger_pottery_sherd
 minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_chest_boat
@@ -2466,15 +2520,18 @@ minecraft:item/gray_bundle_open_back
 minecraft:item/gray_bundle_open_front
 minecraft:item/gray_candle
 minecraft:item/gray_dye
+minecraft:item/gray_harness
 minecraft:item/green_bundle
 minecraft:item/green_bundle_open_back
 minecraft:item/green_bundle_open_front
 minecraft:item/green_candle
 minecraft:item/green_dye
+minecraft:item/green_harness
 minecraft:item/guardian_spawn_egg
 minecraft:item/gunpowder
 minecraft:item/guster_banner_pattern
 minecraft:item/guster_pottery_sherd
+minecraft:item/happy_ghast_spawn_egg
 minecraft:item/heart_of_the_sea
 minecraft:item/heart_pottery_sherd
 minecraft:item/heartbreak_pottery_sherd
@@ -2547,16 +2604,19 @@ minecraft:item/light_blue_bundle_open_back
 minecraft:item/light_blue_bundle_open_front
 minecraft:item/light_blue_candle
 minecraft:item/light_blue_dye
+minecraft:item/light_blue_harness
 minecraft:item/light_gray_bundle
 minecraft:item/light_gray_bundle_open_back
 minecraft:item/light_gray_bundle_open_front
 minecraft:item/light_gray_candle
 minecraft:item/light_gray_dye
+minecraft:item/light_gray_harness
 minecraft:item/lime_bundle
 minecraft:item/lime_bundle_open_back
 minecraft:item/lime_bundle_open_front
 minecraft:item/lime_candle
 minecraft:item/lime_dye
+minecraft:item/lime_harness
 minecraft:item/lingering_potion
 minecraft:item/llama_spawn_egg
 minecraft:item/mace
@@ -2565,6 +2625,7 @@ minecraft:item/magenta_bundle_open_back
 minecraft:item/magenta_bundle_open_front
 minecraft:item/magenta_candle
 minecraft:item/magenta_dye
+minecraft:item/magenta_harness
 minecraft:item/magma_cream
 minecraft:item/magma_cube_spawn_egg
 minecraft:item/mangrove_boat
@@ -2635,6 +2696,7 @@ minecraft:item/orange_bundle_open_back
 minecraft:item/orange_bundle_open_front
 minecraft:item/orange_candle
 minecraft:item/orange_dye
+minecraft:item/orange_harness
 minecraft:item/oxidized_copper_door
 minecraft:item/painting
 minecraft:item/pale_oak_boat
@@ -2657,6 +2719,7 @@ minecraft:item/pink_bundle_open_back
 minecraft:item/pink_bundle_open_front
 minecraft:item/pink_candle
 minecraft:item/pink_dye
+minecraft:item/pink_harness
 minecraft:item/pink_petals
 minecraft:item/pitcher_plant
 minecraft:item/pitcher_pod
@@ -2683,6 +2746,7 @@ minecraft:item/purple_bundle_open_back
 minecraft:item/purple_bundle_open_front
 minecraft:item/purple_candle
 minecraft:item/purple_dye
+minecraft:item/purple_harness
 minecraft:item/quartz
 minecraft:item/rabbit
 minecraft:item/rabbit_foot
@@ -2731,6 +2795,7 @@ minecraft:item/red_bundle_open_back
 minecraft:item/red_bundle_open_front
 minecraft:item/red_candle
 minecraft:item/red_dye
+minecraft:item/red_harness
 minecraft:item/redstone
 minecraft:item/repeater
 minecraft:item/resin_brick
@@ -2834,6 +2899,7 @@ minecraft:item/white_bundle_open_back
 minecraft:item/white_bundle_open_front
 minecraft:item/white_candle
 minecraft:item/white_dye
+minecraft:item/white_harness
 minecraft:item/wild_armor_trim_smithing_template
 minecraft:item/wildflowers
 minecraft:item/wind_charge
@@ -2855,6 +2921,7 @@ minecraft:item/yellow_bundle_open_back
 minecraft:item/yellow_bundle_open_front
 minecraft:item/yellow_candle
 minecraft:item/yellow_dye
+minecraft:item/yellow_harness
 minecraft:item/zoglin_spawn_egg
 minecraft:item/zombie_horse_spawn_egg
 minecraft:item/zombie_spawn_egg

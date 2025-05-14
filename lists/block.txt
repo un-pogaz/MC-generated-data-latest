@@ -348,6 +348,7 @@ minecraft:dispenser
 minecraft:dragon_egg
 minecraft:dragon_head
 minecraft:dragon_wall_head
+minecraft:dried_ghast
 minecraft:dried_kelp_block
 minecraft:dripstone_block
 minecraft:dropper
@@ -1228,7 +1229,6 @@ minecraft:zombie_wall_head
 #minecraft:parrots_spawnable_on
 #minecraft:piglin_repellents
 #minecraft:planks
-#minecraft:plays_ambient_desert_block_sounds
 #minecraft:polar_bears_spawnable_on_alternate
 #minecraft:portals
 #minecraft:pressure_plates
@@ -1270,6 +1270,8 @@ minecraft:zombie_wall_head
 #minecraft:terracotta
 #minecraft:trail_ruins_replaceable
 #minecraft:trapdoors
+#minecraft:triggers_ambient_desert_dry_vegetation_block_sounds
+#minecraft:triggers_ambient_desert_sand_block_sounds
 #minecraft:underwater_bonemeals
 #minecraft:unstable_bottom_center
 #minecraft:valid_spawn

@@ -1,21 +1,9 @@
 {
   "sounds": [
-    {
-      "name": "entity/guardian/ambient1",
-      "volume": 0.1
-    },
-    {
-      "name": "entity/guardian/ambient2",
-      "volume": 0.1
-    },
-    {
-      "name": "entity/guardian/ambient3",
-      "volume": 0.1
-    },
-    {
-      "name": "entity/guardian/ambient4",
-      "volume": 0.1
-    }
+    "mob/guardian/guardian_idle1",
+    "mob/guardian/guardian_idle2",
+    "mob/guardian/guardian_idle3",
+    "mob/guardian/guardian_idle4"
   ],
   "subtitle": "subtitles.entity.guardian.ambient"
 }

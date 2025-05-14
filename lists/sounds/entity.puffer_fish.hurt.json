@@ -1,7 +1,7 @@
 {
   "sounds": [
-    "entity/pufferfish/hurt1",
-    "entity/pufferfish/hurt2"
+    "mob/pufferfish/hurt1",
+    "mob/pufferfish/hurt2"
   ],
   "subtitle": "subtitles.entity.puffer_fish.hurt"
 }

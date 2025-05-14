@@ -30,6 +30,12 @@
         "description": "Free fall from the top of the world (build limit) to the bottom of the world and survive",
         "frame": "task"
       },
+      "minecraft:adventure/heart_transplanter": {
+        "icon": "minecraft:creaking_heart",
+        "title": "Heart Transplanter",
+        "description": "Place a Creaking Heart with the correct alignment between two Pale Oak Log blocks",
+        "frame": "task"
+      },
       "minecraft:adventure/honey_block_slide": {
         "icon": "minecraft:honey_block",
         "title": "Sticky Situation",
@@ -473,6 +479,12 @@
             }
           }
         }
+      },
+      "minecraft:husbandry/place_dried_ghast_in_water": {
+        "icon": "minecraft:dried_ghast",
+        "title": "Stay Hydrated!",
+        "description": "Place a Dried Ghast block into water",
+        "frame": "task"
       },
       "minecraft:husbandry/plant_seed": {
         "icon": "minecraft:wheat",

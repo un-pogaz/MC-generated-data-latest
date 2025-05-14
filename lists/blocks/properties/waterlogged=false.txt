@@ -127,6 +127,7 @@ minecraft:detector_rail
 minecraft:diorite_slab
 minecraft:diorite_stairs
 minecraft:diorite_wall
+minecraft:dried_ghast
 minecraft:end_stone_brick_slab
 minecraft:end_stone_brick_stairs
 minecraft:end_stone_brick_wall

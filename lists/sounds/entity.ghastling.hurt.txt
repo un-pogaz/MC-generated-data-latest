@@ -1,0 +1,5 @@
+minecraft:mob/ghastling/hurt1
+minecraft:mob/ghastling/hurt2
+minecraft:mob/ghastling/hurt3
+minecraft:mob/ghastling/hurt4
+minecraft:mob/ghastling/hurt5

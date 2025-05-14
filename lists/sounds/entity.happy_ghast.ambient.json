@@ -1,0 +1,37 @@
+{
+  "sounds": [
+    "mob/happy_ghast/ambient1",
+    {
+      "name": "mob/happy_ghast/ambient2",
+      "weight": 3
+    },
+    {
+      "name": "mob/happy_ghast/ambient3",
+      "weight": 2
+    },
+    "mob/happy_ghast/ambient4",
+    {
+      "name": "mob/happy_ghast/ambient5",
+      "weight": 2
+    },
+    "mob/happy_ghast/ambient6",
+    {
+      "name": "mob/happy_ghast/ambient7",
+      "weight": 2
+    },
+    "mob/happy_ghast/ambient8",
+    "mob/happy_ghast/ambient9",
+    "mob/happy_ghast/ambient10",
+    "mob/happy_ghast/ambient11",
+    {
+      "name": "mob/happy_ghast/ambient12",
+      "weight": 2
+    },
+    {
+      "name": "mob/happy_ghast/ambient13",
+      "weight": 2
+    },
+    "mob/happy_ghast/ambient14"
+  ],
+  "subtitle": "subtitles.entity.happy_ghast.ambient"
+}

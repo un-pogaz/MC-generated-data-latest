@@ -1,4 +1,4 @@
-minecraft:entity/rabbit/attack1
-minecraft:entity/rabbit/attack2
-minecraft:entity/rabbit/attack3
-minecraft:entity/rabbit/attack4
+minecraft:mob/rabbit/attack1
+minecraft:mob/rabbit/attack2
+minecraft:mob/rabbit/attack3
+minecraft:mob/rabbit/attack4

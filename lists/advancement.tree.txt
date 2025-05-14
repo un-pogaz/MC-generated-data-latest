@@ -3,6 +3,7 @@ adventure/root
 └>adventure/brush_armadillo
 └>adventure/crafters_crafting_crafters
 └>adventure/fall_from_world_height
+└>adventure/heart_transplanter
 └>adventure/honey_block_slide
 └>adventure/kill_a_mob
 │ └>adventure/kill_all_mobs
@@ -67,6 +68,7 @@ husbandry/root
 └>husbandry/obtain_sniffer_egg
 │ └>husbandry/feed_snifflet
 │   └>husbandry/plant_any_sniffer_seed
+└>husbandry/place_dried_ghast_in_water
 └>husbandry/plant_seed
 │ └>husbandry/balanced_diet
 │ └>husbandry/obtain_netherite_hoe

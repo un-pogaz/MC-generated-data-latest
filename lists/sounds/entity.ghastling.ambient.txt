@@ -1,0 +1,7 @@
+minecraft:mob/ghastling/ghastling1
+minecraft:mob/ghastling/ghastling2
+minecraft:mob/ghastling/ghastling3
+minecraft:mob/ghastling/ghastling4
+minecraft:mob/ghastling/ghastling5
+minecraft:mob/ghastling/ghastling6
+minecraft:mob/ghastling/ghastling7

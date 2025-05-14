@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/dried_ghast/hit1",
+    "block/dried_ghast/hit2",
+    "block/dried_ghast/hit3"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

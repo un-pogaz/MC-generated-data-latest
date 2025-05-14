@@ -1,19 +1,19 @@
 {
   "sounds": [
     {
-      "name": "entity/pufferfish/flop1",
+      "name": "mob/pufferfish/flop1",
       "volume": 0.3
     },
     {
-      "name": "entity/pufferfish/flop2",
+      "name": "mob/pufferfish/flop2",
       "volume": 0.3
     },
     {
-      "name": "entity/pufferfish/flop3",
+      "name": "mob/pufferfish/flop3",
       "volume": 0.3
     },
     {
-      "name": "entity/pufferfish/flop4",
+      "name": "mob/pufferfish/flop4",
       "volume": 0.3
     }
   ],

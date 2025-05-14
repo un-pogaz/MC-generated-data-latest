@@ -102,6 +102,7 @@ minecraft:deepslate_tile_stairs
 minecraft:diorite_stairs
 minecraft:dispenser
 minecraft:dragon_wall_head
+minecraft:dried_ghast
 minecraft:dropper
 minecraft:end_portal_frame
 minecraft:end_rod

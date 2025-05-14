@@ -1,2 +1,2 @@
-minecraft:entity/pufferfish/hurt1
-minecraft:entity/pufferfish/hurt2
+minecraft:mob/pufferfish/hurt1
+minecraft:mob/pufferfish/hurt2

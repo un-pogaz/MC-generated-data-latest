@@ -72,6 +72,7 @@ minecraft:dispenser
 minecraft:door
 minecraft:double_plant
 minecraft:dragon_egg
+minecraft:dried_ghast
 minecraft:drop_experience
 minecraft:dropper
 minecraft:dry_vegetation
@@ -209,7 +210,6 @@ minecraft:tall_flower
 minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:target
-minecraft:terracotta
 minecraft:test
 minecraft:test_instance
 minecraft:tinted_glass

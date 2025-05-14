@@ -348,6 +348,7 @@ minecraft:dispenser
 minecraft:dragon_egg
 minecraft:dragon_head
 minecraft:dragon_wall_head
+minecraft:dried_ghast
 minecraft:dried_kelp_block
 minecraft:dripstone_block
 minecraft:dropper

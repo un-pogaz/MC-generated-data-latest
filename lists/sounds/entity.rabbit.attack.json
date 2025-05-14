@@ -1,9 +1,9 @@
 {
   "sounds": [
-    "entity/rabbit/attack1",
-    "entity/rabbit/attack2",
-    "entity/rabbit/attack3",
-    "entity/rabbit/attack4"
+    "mob/rabbit/attack1",
+    "mob/rabbit/attack2",
+    "mob/rabbit/attack3",
+    "mob/rabbit/attack4"
   ],
   "subtitle": "subtitles.entity.rabbit.attack"
 }

@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/dried_ghast/step/wood1",
+    "block/dried_ghast/step/wood2",
+    "block/dried_ghast/step/wood3",
+    "block/dried_ghast/step/wood4",
+    "block/dried_ghast/step/wood5",
+    "block/dried_ghast/step/wood6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

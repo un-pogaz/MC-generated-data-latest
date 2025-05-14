@@ -1,11 +1,11 @@
 {
   "sounds": [
     {
-      "name": "entity/pufferfish/blow_up1",
+      "name": "mob/pufferfish/blow_up1",
       "volume": 0.45
     },
     {
-      "name": "entity/pufferfish/blow_up2",
+      "name": "mob/pufferfish/blow_up2",
       "volume": 0.45
     }
   ],

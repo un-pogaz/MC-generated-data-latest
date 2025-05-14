@@ -129,3 +129,4 @@ minecraft:update_attributes
 minecraft:update_mob_effect
 minecraft:update_recipes
 minecraft:update_tags
+minecraft:waypoint

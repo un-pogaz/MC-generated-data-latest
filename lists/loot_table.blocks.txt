@@ -316,6 +316,7 @@ minecraft:blocks/dirt_path
 minecraft:blocks/dispenser
 minecraft:blocks/dragon_egg
 minecraft:blocks/dragon_head
+minecraft:blocks/dried_ghast
 minecraft:blocks/dried_kelp_block
 minecraft:blocks/dripstone_block
 minecraft:blocks/dropper
