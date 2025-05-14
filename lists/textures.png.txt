@@ -1475,6 +1475,7 @@ minecraft:gui/realms/experience
 minecraft:gui/realms/inspiration
 minecraft:gui/realms/new_world
 minecraft:gui/realms/no_realms
+minecraft:gui/realms/snapshot_realms
 minecraft:gui/realms/survival_spawn
 minecraft:gui/realms/upload
 minecraft:gui/recipe_book

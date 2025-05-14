@@ -7652,8 +7652,8 @@
             id: "minecraft:magma_cube"
           }
         },
-        id: "minecraft:mob_spawner",
         MaxSpawnDelay: 800s,
+        id: "minecraft:mob_spawner",
         SpawnRange: 4s,
         Delay: 0s,
         MinSpawnDelay: 200s,
@@ -7792,5 +7792,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3578
+  DataVersion: 3679
 }

@@ -4,6 +4,7 @@ minecraft:banner_pattern
 minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
+minecraft:block_type
 minecraft:cat_variant
 minecraft:chunk_status
 minecraft:command_argument_type
