@@ -1,0 +1,13 @@
+{
+  "id": "1.16.2",
+  "type": "release",
+  "time": "2020-08-11T10:13:46+00:00",
+  "releaseTime": "2020-08-11T10:13:46+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/a5cd0a3e52f38c9fb713010b07f7ae89e183b0ff/1.16.2.json",
+  "assets": "1.16",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json",
+  "client": "https://launcher.mojang.com/v1/objects/653e97a2d1d76f87653f02242d243cdee48a5144/client.jar",
+  "client_mappings": "https://launcher.mojang.com/v1/objects/16d12d67cd5341bfc848340f61f3ff6b957537fe/client.txt",
+  "server": "https://launcher.mojang.com/v1/objects/c5f6fb23c3876461d46ec380421e42b289789530/server.jar",
+  "server_mappings": "https://launcher.mojang.com/v1/objects/40337a76c8486473e5990f7bb44b13bc08b69e7a/server.txt"
+}
