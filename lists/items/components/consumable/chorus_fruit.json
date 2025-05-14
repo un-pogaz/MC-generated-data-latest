@@ -1,0 +1,7 @@
+{
+  "on_consume_effects": [
+    {
+      "type": "minecraft:teleport_randomly"
+    }
+  ]
+}

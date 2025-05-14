@@ -1,0 +1,12 @@
+{
+  "animation": "drink",
+  "consume_seconds": 2.0,
+  "has_consume_particles": false,
+  "on_consume_effects": [
+    {
+      "type": "minecraft:remove_effects",
+      "effects": "minecraft:poison"
+    }
+  ],
+  "sound": "minecraft:item.honey_bottle.drink"
+}

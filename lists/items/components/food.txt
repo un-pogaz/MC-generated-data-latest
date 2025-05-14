@@ -25,7 +25,6 @@ minecraft:honey_bottle  = {{value}}
 minecraft:melon_slice  = {{value}}
 minecraft:mushroom_stew  = {{value}}
 minecraft:mutton  = {{value}}
-minecraft:ominous_bottle  = {{value}}
 minecraft:poisonous_potato  = {{value}}
 minecraft:porkchop  = {{value}}
 minecraft:potato  = {{value}}
