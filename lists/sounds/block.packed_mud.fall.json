@@ -1,10 +1,28 @@
 {
   "sounds": [
-    "block/packed_mud/step1",
-    "block/packed_mud/step2",
-    "block/packed_mud/step3",
-    "block/packed_mud/step4",
-    "block/packed_mud/step5",
-    "block/packed_mud/step6"
+    {
+      "name": "block/packed_mud/step1",
+      "volume": 0.3
+    },
+    {
+      "name": "block/packed_mud/step2",
+      "volume": 0.3
+    },
+    {
+      "name": "block/packed_mud/step3",
+      "volume": 0.3
+    },
+    {
+      "name": "block/packed_mud/step4",
+      "volume": 0.3
+    },
+    {
+      "name": "block/packed_mud/step5",
+      "volume": 0.3
+    },
+    {
+      "name": "block/packed_mud/step6",
+      "volume": 0.3
+    }
   ]
 }

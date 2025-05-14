@@ -1,0 +1,4 @@
+minecraft:mob/warden/sniff_1
+minecraft:mob/warden/sniff_2
+minecraft:mob/warden/sniff_3
+minecraft:mob/warden/sniff_4

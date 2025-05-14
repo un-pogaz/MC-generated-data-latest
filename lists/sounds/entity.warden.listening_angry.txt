@@ -1,0 +1,5 @@
+minecraft:mob/warden/listening_angry_1
+minecraft:mob/warden/listening_angry_2
+minecraft:mob/warden/listening_angry_3
+minecraft:mob/warden/listening_angry_4
+minecraft:mob/warden/listening_angry_5

@@ -1,0 +1,1 @@
+minecraft:entity.warden.tendril_clicks

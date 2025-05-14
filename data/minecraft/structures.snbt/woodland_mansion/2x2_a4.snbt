@@ -7221,6 +7221,7 @@
     },
     {
       Properties: {
+        waterlogged: "false",
         distance: "7",
         persistent: "false"
       },
@@ -7285,5 +7286,5 @@
       Name: "minecraft:water"
     }
   ],
-  DataVersion: 3080
+  DataVersion: 3082
 }

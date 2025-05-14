@@ -1,0 +1,4 @@
+minecraft:mob/warden/step_1
+minecraft:mob/warden/step_2
+minecraft:mob/warden/step_3
+minecraft:mob/warden/step_4

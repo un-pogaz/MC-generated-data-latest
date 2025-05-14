@@ -1,4 +1,6 @@
+minecraft:end/base_3d_noise
 minecraft:end/sloped_cheese
+minecraft:nether/base_3d_noise
 minecraft:overworld/base_3d_noise
 minecraft:overworld/caves/entrances
 minecraft:overworld/caves/noodle

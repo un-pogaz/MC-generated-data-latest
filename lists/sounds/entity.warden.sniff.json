@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/warden/sniff_1",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/warden/sniff_2",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/warden/sniff_3",
+      "volume": 0.75
+    },
+    {
+      "name": "mob/warden/sniff_4",
+      "volume": 0.75
+    }
+  ],
+  "subtitle": "subtitles.entity.warden.sniff"
+}

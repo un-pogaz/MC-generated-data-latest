@@ -1,11 +1,29 @@
 {
   "sounds": [
-    "block/mud_bricks/step1",
-    "block/mud_bricks/step2",
-    "block/mud_bricks/step3",
-    "block/mud_bricks/step4",
-    "block/mud_bricks/step5",
-    "block/mud_bricks/step6"
+    {
+      "name": "block/mud_bricks/step1",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/step2",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/step3",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/step4",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/step5",
+      "volume": 0.5
+    },
+    {
+      "name": "block/mud_bricks/step6",
+      "volume": 0.5
+    }
   ],
   "subtitle": "subtitles.block.generic.footsteps"
 }

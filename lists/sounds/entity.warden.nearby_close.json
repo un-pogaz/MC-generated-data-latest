@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/warden/nearby_close_1",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/nearby_close_2",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/nearby_close_3",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/nearby_close_4",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.warden.nearby_close"
+}

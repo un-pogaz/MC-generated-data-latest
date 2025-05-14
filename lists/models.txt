@@ -1839,6 +1839,7 @@ minecraft:block/yellow_terracotta
 minecraft:block/yellow_wool
 minecraft:item/acacia_boat
 minecraft:item/acacia_button
+minecraft:item/acacia_chest_boat
 minecraft:item/acacia_door
 minecraft:item/acacia_fence
 minecraft:item/acacia_fence_gate
@@ -1892,6 +1893,7 @@ minecraft:item/bell
 minecraft:item/big_dripleaf
 minecraft:item/birch_boat
 minecraft:item/birch_button
+minecraft:item/birch_chest_boat
 minecraft:item/birch_door
 minecraft:item/birch_fence
 minecraft:item/birch_fence_gate
@@ -2206,6 +2208,7 @@ minecraft:item/damaged_anvil
 minecraft:item/dandelion
 minecraft:item/dark_oak_boat
 minecraft:item/dark_oak_button
+minecraft:item/dark_oak_chest_boat
 minecraft:item/dark_oak_door
 minecraft:item/dark_oak_fence
 minecraft:item/dark_oak_fence_gate
@@ -2460,6 +2463,7 @@ minecraft:item/jigsaw
 minecraft:item/jukebox
 minecraft:item/jungle_boat
 minecraft:item/jungle_button
+minecraft:item/jungle_chest_boat
 minecraft:item/jungle_door
 minecraft:item/jungle_fence
 minecraft:item/jungle_fence_gate
@@ -2575,6 +2579,7 @@ minecraft:item/magma_cream
 minecraft:item/magma_cube_spawn_egg
 minecraft:item/mangrove_boat
 minecraft:item/mangrove_button
+minecraft:item/mangrove_chest_boat
 minecraft:item/mangrove_door
 minecraft:item/mangrove_fence
 minecraft:item/mangrove_fence_gate
@@ -2663,6 +2668,7 @@ minecraft:item/netherrack
 minecraft:item/note_block
 minecraft:item/oak_boat
 minecraft:item/oak_button
+minecraft:item/oak_chest_boat
 minecraft:item/oak_door
 minecraft:item/oak_fence
 minecraft:item/oak_fence_gate
@@ -2921,6 +2927,7 @@ minecraft:item/sponge
 minecraft:item/spore_blossom
 minecraft:item/spruce_boat
 minecraft:item/spruce_button
+minecraft:item/spruce_chest_boat
 minecraft:item/spruce_door
 minecraft:item/spruce_fence
 minecraft:item/spruce_fence_gate
@@ -3021,6 +3028,7 @@ minecraft:item/villager_spawn_egg
 minecraft:item/vindicator_spawn_egg
 minecraft:item/vine
 minecraft:item/wandering_trader_spawn_egg
+minecraft:item/warden_spawn_egg
 minecraft:item/warped_button
 minecraft:item/warped_door
 minecraft:item/warped_fence

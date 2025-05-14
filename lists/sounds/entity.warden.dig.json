@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "entity.warden.emerge",
+      "type": "event",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.warden.dig"
+}

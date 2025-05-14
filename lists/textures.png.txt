@@ -960,6 +960,13 @@ minecraft:entity/chest/normal_right
 minecraft:entity/chest/trapped
 minecraft:entity/chest/trapped_left
 minecraft:entity/chest/trapped_right
+minecraft:entity/chest_boat/acacia
+minecraft:entity/chest_boat/birch
+minecraft:entity/chest_boat/dark_oak
+minecraft:entity/chest_boat/jungle
+minecraft:entity/chest_boat/mangrove
+minecraft:entity/chest_boat/oak
+minecraft:entity/chest_boat/spruce
 minecraft:entity/chicken
 minecraft:entity/conduit/base
 minecraft:entity/conduit/break_particle
@@ -1227,6 +1234,12 @@ minecraft:entity/villager/type/swamp
 minecraft:entity/villager/type/taiga
 minecraft:entity/villager/villager
 minecraft:entity/wandering_trader
+minecraft:entity/warden/warden
+minecraft:entity/warden/warden_bioluminescent_layer
+minecraft:entity/warden/warden_ears
+minecraft:entity/warden/warden_heart
+minecraft:entity/warden/warden_pulsating_spots_1
+minecraft:entity/warden/warden_pulsating_spots_2
 minecraft:entity/witch
 minecraft:entity/wither/wither
 minecraft:entity/wither/wither_armor
@@ -1563,6 +1576,7 @@ minecraft:gui/toasts
 minecraft:gui/widgets
 minecraft:gui/world_selection
 minecraft:item/acacia_boat
+minecraft:item/acacia_chest_boat
 minecraft:item/acacia_door
 minecraft:item/acacia_sign
 minecraft:item/amethyst_shard
@@ -1579,6 +1593,7 @@ minecraft:item/beetroot_seeds
 minecraft:item/beetroot_soup
 minecraft:item/bell
 minecraft:item/birch_boat
+minecraft:item/birch_chest_boat
 minecraft:item/birch_door
 minecraft:item/birch_sign
 minecraft:item/black_candle
@@ -1743,6 +1758,7 @@ minecraft:item/crossbow_standby
 minecraft:item/cyan_candle
 minecraft:item/cyan_dye
 minecraft:item/dark_oak_boat
+minecraft:item/dark_oak_chest_boat
 minecraft:item/dark_oak_door
 minecraft:item/dark_oak_sign
 minecraft:item/diamond
@@ -1834,6 +1850,7 @@ minecraft:item/iron_shovel
 minecraft:item/iron_sword
 minecraft:item/item_frame
 minecraft:item/jungle_boat
+minecraft:item/jungle_chest_boat
 minecraft:item/jungle_door
 minecraft:item/jungle_sign
 minecraft:item/kelp
@@ -1880,6 +1897,7 @@ minecraft:item/magenta_candle
 minecraft:item/magenta_dye
 minecraft:item/magma_cream
 minecraft:item/mangrove_boat
+minecraft:item/mangrove_chest_boat
 minecraft:item/mangrove_door
 minecraft:item/mangrove_propagule
 minecraft:item/mangrove_sign
@@ -1923,6 +1941,7 @@ minecraft:item/netherite_scrap
 minecraft:item/netherite_shovel
 minecraft:item/netherite_sword
 minecraft:item/oak_boat
+minecraft:item/oak_chest_boat
 minecraft:item/oak_door
 minecraft:item/oak_sign
 minecraft:item/orange_candle
@@ -1981,6 +2000,7 @@ minecraft:item/spectral_arrow
 minecraft:item/spider_eye
 minecraft:item/splash_potion
 minecraft:item/spruce_boat
+minecraft:item/spruce_chest_boat
 minecraft:item/spruce_door
 minecraft:item/spruce_sign
 minecraft:item/spyglass
@@ -2043,6 +2063,7 @@ minecraft:mob_effect/absorption
 minecraft:mob_effect/bad_omen
 minecraft:mob_effect/blindness
 minecraft:mob_effect/conduit_power
+minecraft:mob_effect/darkness
 minecraft:mob_effect/dolphins_grace
 minecraft:mob_effect/fire_resistance
 minecraft:mob_effect/glowing
@@ -2234,6 +2255,7 @@ minecraft:particle/sga_w
 minecraft:particle/sga_x
 minecraft:particle/sga_y
 minecraft:particle/sga_z
+minecraft:particle/shriek
 minecraft:particle/soul_0
 minecraft:particle/soul_1
 minecraft:particle/soul_10
@@ -2298,7 +2320,6 @@ realms:gui/realms/on_icon
 realms:gui/realms/op_icon
 realms:gui/realms/plus_icon
 realms:gui/realms/popup
-realms:gui/realms/questionmark
 realms:gui/realms/reject_icon
 realms:gui/realms/restore_icon
 realms:gui/realms/slot_frame

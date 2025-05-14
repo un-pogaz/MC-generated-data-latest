@@ -1,0 +1,3 @@
+minecraft:mob/warden/nearby_closer_1
+minecraft:mob/warden/nearby_closer_2
+minecraft:mob/warden/nearby_closer_3

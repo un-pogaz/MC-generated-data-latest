@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "mob/warden/death_1",
+      "volume": 1
+    },
+    {
+      "name": "mob/warden/death_2",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.entity.warden.death"
+}
