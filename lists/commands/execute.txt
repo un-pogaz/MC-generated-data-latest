@@ -23,6 +23,10 @@ execute if dimension <dimension minecraft:dimension> >>redirect{execute}
 execute if entity <entities minecraft:entity[type="entities", amount="multiple"]>
 execute if entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
 execute if function <name minecraft:function> >>redirect{execute}
+execute if items block <pos minecraft:block_pos> <slots minecraft:item_slots> <item_predicate minecraft:item_predicate>
+execute if items block <pos minecraft:block_pos> <slots minecraft:item_slots> <item_predicate minecraft:item_predicate> >>redirect{execute}
+execute if items entity <entities minecraft:entity[type="entities", amount="multiple"]> <slots minecraft:item_slots> <item_predicate minecraft:item_predicate>
+execute if items entity <entities minecraft:entity[type="entities", amount="multiple"]> <slots minecraft:item_slots> <item_predicate minecraft:item_predicate> >>redirect{execute}
 execute if loaded <pos minecraft:block_pos>
 execute if loaded <pos minecraft:block_pos> >>redirect{execute}
 execute if predicate <predicate minecraft:resource_location>
@@ -116,6 +120,10 @@ execute unless dimension <dimension minecraft:dimension> >>redirect{execute}
 execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]>
 execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
 execute unless function <name minecraft:function> >>redirect{execute}
+execute unless items block <pos minecraft:block_pos> <slots minecraft:item_slots> <item_predicate minecraft:item_predicate>
+execute unless items block <pos minecraft:block_pos> <slots minecraft:item_slots> <item_predicate minecraft:item_predicate> >>redirect{execute}
+execute unless items entity <entities minecraft:entity[type="entities", amount="multiple"]> <slots minecraft:item_slots> <item_predicate minecraft:item_predicate>
+execute unless items entity <entities minecraft:entity[type="entities", amount="multiple"]> <slots minecraft:item_slots> <item_predicate minecraft:item_predicate> >>redirect{execute}
 execute unless loaded <pos minecraft:block_pos>
 execute unless loaded <pos minecraft:block_pos> >>redirect{execute}
 execute unless predicate <predicate minecraft:resource_location>

@@ -1,0 +1,9 @@
+minecraft:ashen
+minecraft:black
+minecraft:chestnut
+minecraft:pale
+minecraft:rusty
+minecraft:snowy
+minecraft:spotted
+minecraft:striped
+minecraft:woods

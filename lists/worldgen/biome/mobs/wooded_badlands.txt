@@ -7,5 +7,6 @@ minecraft:skeleton
 minecraft:slime
 minecraft:spider
 minecraft:witch
+minecraft:wolf
 minecraft:zombie
 minecraft:zombie_villager
