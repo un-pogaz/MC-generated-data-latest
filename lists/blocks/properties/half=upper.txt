@@ -9,6 +9,7 @@ minecraft:lilac
 minecraft:oak_door
 minecraft:peony
 minecraft:rose_bush
+minecraft:small_dripleaf
 minecraft:spruce_door
 minecraft:sunflower
 minecraft:tall_grass

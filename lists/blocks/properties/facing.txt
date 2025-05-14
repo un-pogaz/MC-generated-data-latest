@@ -13,6 +13,8 @@ minecraft:barrel
 minecraft:bee_nest
 minecraft:beehive
 minecraft:bell
+minecraft:big_dripleaf
+minecraft:big_dripleaf_stem
 minecraft:birch_button
 minecraft:birch_door
 minecraft:birch_fence_gate
@@ -78,6 +80,7 @@ minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:end_stone_brick_stairs
 minecraft:ender_chest
+minecraft:exposed_cut_copper_stairs
 minecraft:fire_coral_wall_fan
 minecraft:furnace
 minecraft:granite_stairs
@@ -113,7 +116,6 @@ minecraft:light_gray_bed
 minecraft:light_gray_glazed_terracotta
 minecraft:light_gray_shulker_box
 minecraft:light_gray_wall_banner
-minecraft:lightly_weathered_cut_copper_stairs
 minecraft:lightning_rod
 minecraft:lime_bed
 minecraft:lime_glazed_terracotta
@@ -140,6 +142,7 @@ minecraft:orange_bed
 minecraft:orange_glazed_terracotta
 minecraft:orange_shulker_box
 minecraft:orange_wall_banner
+minecraft:oxidized_cut_copper_stairs
 minecraft:pink_bed
 minecraft:pink_glazed_terracotta
 minecraft:pink_shulker_box
@@ -171,7 +174,6 @@ minecraft:redstone_wall_torch
 minecraft:repeater
 minecraft:repeating_command_block
 minecraft:sandstone_stairs
-minecraft:semi_weathered_cut_copper_stairs
 minecraft:shulker_box
 minecraft:skeleton_wall_skull
 minecraft:small_amethyst_bud
@@ -203,8 +205,8 @@ minecraft:warped_stairs
 minecraft:warped_trapdoor
 minecraft:warped_wall_sign
 minecraft:waxed_cut_copper_stairs
-minecraft:waxed_lightly_weathered_cut_copper_stairs
-minecraft:waxed_semi_weathered_cut_copper_stairs
+minecraft:waxed_exposed_cut_copper_stairs
+minecraft:waxed_weathered_cut_copper_stairs
 minecraft:weathered_cut_copper_stairs
 minecraft:white_bed
 minecraft:white_glazed_terracotta

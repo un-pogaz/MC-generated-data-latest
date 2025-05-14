@@ -1,0 +1,12 @@
+{
+  "properties": {
+    "half": [
+      "upper",
+      "lower"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

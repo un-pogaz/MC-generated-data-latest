@@ -53,6 +53,9 @@ minecraft:block/andesite_wall_side_tall
 minecraft:block/anvil
 minecraft:block/attached_melon_stem
 minecraft:block/attached_pumpkin_stem
+minecraft:block/azalea
+minecraft:block/azalea_leaves
+minecraft:block/azalea_leaves_flowers
 minecraft:block/azure_bluet
 minecraft:block/bamboo1_age0
 minecraft:block/bamboo1_age1
@@ -86,6 +89,10 @@ minecraft:block/bell_between_walls
 minecraft:block/bell_ceiling
 minecraft:block/bell_floor
 minecraft:block/bell_wall
+minecraft:block/big_dripleaf
+minecraft:block/big_dripleaf_full_tilt
+minecraft:block/big_dripleaf_partial_tilt
+minecraft:block/big_dripleaf_stem
 minecraft:block/birch_button
 minecraft:block/birch_button_inventory
 minecraft:block/birch_button_pressed
@@ -244,6 +251,10 @@ minecraft:block/carrots_stage3
 minecraft:block/cartography_table
 minecraft:block/carved_pumpkin
 minecraft:block/cauldron
+minecraft:block/cave_vines_body
+minecraft:block/cave_vines_body_lit
+minecraft:block/cave_vines_head
+minecraft:block/cave_vines_head_lit
 minecraft:block/chain
 minecraft:block/chain_command_block
 minecraft:block/chain_command_block_conditional
@@ -492,6 +503,13 @@ minecraft:block/end_stone_brick_wall_side
 minecraft:block/end_stone_brick_wall_side_tall
 minecraft:block/end_stone_bricks
 minecraft:block/ender_chest
+minecraft:block/exposed_copper_block
+minecraft:block/exposed_cut_copper
+minecraft:block/exposed_cut_copper_slab
+minecraft:block/exposed_cut_copper_slab_top
+minecraft:block/exposed_cut_copper_stairs
+minecraft:block/exposed_cut_copper_stairs_inner
+minecraft:block/exposed_cut_copper_stairs_outer
 minecraft:block/farmland
 minecraft:block/farmland_moist
 minecraft:block/fence_inventory
@@ -515,6 +533,7 @@ minecraft:block/fire_up_alt1
 minecraft:block/fletching_table
 minecraft:block/flower_pot
 minecraft:block/flower_pot_cross
+minecraft:block/flowering_azalea
 minecraft:block/four_dead_sea_pickles
 minecraft:block/four_sea_pickles
 minecraft:block/four_slightly_cracked_turtle_eggs
@@ -590,6 +609,7 @@ minecraft:block/green_stained_glass_pane_side_alt
 minecraft:block/green_terracotta
 minecraft:block/green_wool
 minecraft:block/grindstone
+minecraft:block/hanging_roots
 minecraft:block/hay_block
 minecraft:block/hay_block_horizontal
 minecraft:block/heavy_weighted_pressure_plate
@@ -709,13 +729,6 @@ minecraft:block/light_gray_terracotta
 minecraft:block/light_gray_wool
 minecraft:block/light_weighted_pressure_plate
 minecraft:block/light_weighted_pressure_plate_down
-minecraft:block/lightly_weathered_copper_block
-minecraft:block/lightly_weathered_cut_copper
-minecraft:block/lightly_weathered_cut_copper_slab
-minecraft:block/lightly_weathered_cut_copper_slab_top
-minecraft:block/lightly_weathered_cut_copper_stairs
-minecraft:block/lightly_weathered_cut_copper_stairs_inner
-minecraft:block/lightly_weathered_cut_copper_stairs_outer
 minecraft:block/lightning_rod
 minecraft:block/lilac_bottom
 minecraft:block/lilac_top
@@ -770,6 +783,8 @@ minecraft:block/melon_stem_stage4
 minecraft:block/melon_stem_stage5
 minecraft:block/melon_stem_stage6
 minecraft:block/melon_stem_stage7
+minecraft:block/moss_block
+minecraft:block/moss_carpet
 minecraft:block/mossy_cobblestone
 minecraft:block/mossy_cobblestone_slab
 minecraft:block/mossy_cobblestone_slab_top
@@ -878,6 +893,13 @@ minecraft:block/orientable_vertical
 minecraft:block/orientable_with_bottom
 minecraft:block/outer_stairs
 minecraft:block/oxeye_daisy
+minecraft:block/oxidized_copper_block
+minecraft:block/oxidized_cut_copper
+minecraft:block/oxidized_cut_copper_slab
+minecraft:block/oxidized_cut_copper_slab_top
+minecraft:block/oxidized_cut_copper_stairs
+minecraft:block/oxidized_cut_copper_stairs_inner
+minecraft:block/oxidized_cut_copper_stairs_outer
 minecraft:block/packed_ice
 minecraft:block/peony_bottom
 minecraft:block/peony_top
@@ -1160,6 +1182,7 @@ minecraft:block/respawn_anchor_1
 minecraft:block/respawn_anchor_2
 minecraft:block/respawn_anchor_3
 minecraft:block/respawn_anchor_4
+minecraft:block/rooted_dirt
 minecraft:block/rose_bush_bottom
 minecraft:block/rose_bush_top
 minecraft:block/sand
@@ -1181,13 +1204,6 @@ minecraft:block/sculk_sensor_inactive
 minecraft:block/sea_lantern
 minecraft:block/sea_pickle
 minecraft:block/seagrass
-minecraft:block/semi_weathered_copper_block
-minecraft:block/semi_weathered_cut_copper
-minecraft:block/semi_weathered_cut_copper_slab
-minecraft:block/semi_weathered_cut_copper_slab_top
-minecraft:block/semi_weathered_cut_copper_stairs
-minecraft:block/semi_weathered_cut_copper_stairs_inner
-minecraft:block/semi_weathered_cut_copper_stairs_outer
 minecraft:block/shroomlight
 minecraft:block/shulker_box
 minecraft:block/skull
@@ -1196,6 +1212,8 @@ minecraft:block/slab_top
 minecraft:block/slightly_cracked_turtle_egg
 minecraft:block/slime_block
 minecraft:block/small_amethyst_bud
+minecraft:block/small_dripleaf_bottom
+minecraft:block/small_dripleaf_top
 minecraft:block/smithing_table
 minecraft:block/smoker
 minecraft:block/smoker_on
@@ -1244,6 +1262,7 @@ minecraft:block/soul_torch
 minecraft:block/soul_wall_torch
 minecraft:block/spawner
 minecraft:block/sponge
+minecraft:block/spore_blossom
 minecraft:block/spruce_button
 minecraft:block/spruce_button_inventory
 minecraft:block/spruce_button_pressed
@@ -1351,6 +1370,7 @@ minecraft:block/tall_seagrass_bottom
 minecraft:block/tall_seagrass_top
 minecraft:block/target
 minecraft:block/template_anvil
+minecraft:block/template_azalea
 minecraft:block/template_cake_with_candle
 minecraft:block/template_campfire
 minecraft:block/template_candle
@@ -1572,6 +1592,9 @@ minecraft:item/armor_stand
 minecraft:item/arrow
 minecraft:item/axolotl_bucket
 minecraft:item/axolotl_spawn_egg
+minecraft:item/azalea
+minecraft:item/azalea_leaves
+minecraft:item/azalea_leaves_flowers
 minecraft:item/azure_bluet
 minecraft:item/baked_potato
 minecraft:item/bamboo
@@ -1589,6 +1612,7 @@ minecraft:item/beetroot
 minecraft:item/beetroot_seeds
 minecraft:item/beetroot_soup
 minecraft:item/bell
+minecraft:item/big_dripleaf
 minecraft:item/birch_boat
 minecraft:item/birch_button
 minecraft:item/birch_door
@@ -1987,6 +2011,10 @@ minecraft:item/enderman_spawn_egg
 minecraft:item/endermite_spawn_egg
 minecraft:item/evoker_spawn_egg
 minecraft:item/experience_bottle
+minecraft:item/exposed_copper_block
+minecraft:item/exposed_cut_copper
+minecraft:item/exposed_cut_copper_slab
+minecraft:item/exposed_cut_copper_stairs
 minecraft:item/farmland
 minecraft:item/feather
 minecraft:item/fermented_spider_eye
@@ -2005,6 +2033,7 @@ minecraft:item/flint
 minecraft:item/flint_and_steel
 minecraft:item/flower_banner_pattern
 minecraft:item/flower_pot
+minecraft:item/flowering_azalea
 minecraft:item/fox_spawn_egg
 minecraft:item/furnace
 minecraft:item/furnace_minecart
@@ -2017,6 +2046,7 @@ minecraft:item/glass_bottle
 minecraft:item/glass_pane
 minecraft:item/glistering_melon_slice
 minecraft:item/globe_banner_pattern
+minecraft:item/glow_berries
 minecraft:item/glow_ink_sac
 minecraft:item/glow_item_frame
 minecraft:item/glow_lichen
@@ -2077,6 +2107,7 @@ minecraft:item/guardian_spawn_egg
 minecraft:item/gunpowder
 minecraft:item/handheld
 minecraft:item/handheld_rod
+minecraft:item/hanging_roots
 minecraft:item/hay_block
 minecraft:item/heart_of_the_sea
 minecraft:item/heavy_weighted_pressure_plate
@@ -2182,10 +2213,6 @@ minecraft:item/light_gray_stained_glass_pane
 minecraft:item/light_gray_terracotta
 minecraft:item/light_gray_wool
 minecraft:item/light_weighted_pressure_plate
-minecraft:item/lightly_weathered_copper_block
-minecraft:item/lightly_weathered_cut_copper
-minecraft:item/lightly_weathered_cut_copper_slab
-minecraft:item/lightly_weathered_cut_copper_stairs
 minecraft:item/lightning_rod
 minecraft:item/lilac
 minecraft:item/lily_of_the_valley
@@ -2232,6 +2259,8 @@ minecraft:item/milk_bucket
 minecraft:item/minecart
 minecraft:item/mojang_banner_pattern
 minecraft:item/mooshroom_spawn_egg
+minecraft:item/moss_block
+minecraft:item/moss_carpet
 minecraft:item/mossy_cobblestone
 minecraft:item/mossy_cobblestone_slab
 minecraft:item/mossy_cobblestone_stairs
@@ -2319,6 +2348,10 @@ minecraft:item/orange_terracotta
 minecraft:item/orange_tulip
 minecraft:item/orange_wool
 minecraft:item/oxeye_daisy
+minecraft:item/oxidized_copper_block
+minecraft:item/oxidized_cut_copper
+minecraft:item/oxidized_cut_copper_slab
+minecraft:item/oxidized_cut_copper_stairs
 minecraft:item/packed_ice
 minecraft:item/painting
 minecraft:item/panda_spawn_egg
@@ -2458,6 +2491,7 @@ minecraft:item/redstone_torch
 minecraft:item/repeater
 minecraft:item/repeating_command_block
 minecraft:item/respawn_anchor
+minecraft:item/rooted_dirt
 minecraft:item/rose_bush
 minecraft:item/rotten_flesh
 minecraft:item/saddle
@@ -2475,10 +2509,6 @@ minecraft:item/scute
 minecraft:item/sea_lantern
 minecraft:item/sea_pickle
 minecraft:item/seagrass
-minecraft:item/semi_weathered_copper_block
-minecraft:item/semi_weathered_cut_copper
-minecraft:item/semi_weathered_cut_copper_slab
-minecraft:item/semi_weathered_cut_copper_stairs
 minecraft:item/shears
 minecraft:item/sheep_spawn_egg
 minecraft:item/shield
@@ -2496,6 +2526,7 @@ minecraft:item/slime_ball
 minecraft:item/slime_block
 minecraft:item/slime_spawn_egg
 minecraft:item/small_amethyst_bud
+minecraft:item/small_dripleaf
 minecraft:item/smithing_table
 minecraft:item/smoker
 minecraft:item/smooth_quartz
@@ -2523,6 +2554,7 @@ minecraft:item/spider_eye
 minecraft:item/spider_spawn_egg
 minecraft:item/splash_potion
 minecraft:item/sponge
+minecraft:item/spore_blossom
 minecraft:item/spruce_boat
 minecraft:item/spruce_button
 minecraft:item/spruce_door
@@ -2641,14 +2673,14 @@ minecraft:item/waxed_copper
 minecraft:item/waxed_cut_copper
 minecraft:item/waxed_cut_copper_slab
 minecraft:item/waxed_cut_copper_stairs
-minecraft:item/waxed_lightly_weathered_copper
-minecraft:item/waxed_lightly_weathered_cut_copper
-minecraft:item/waxed_lightly_weathered_cut_copper_slab
-minecraft:item/waxed_lightly_weathered_cut_copper_stairs
-minecraft:item/waxed_semi_weathered_copper
-minecraft:item/waxed_semi_weathered_cut_copper
-minecraft:item/waxed_semi_weathered_cut_copper_slab
-minecraft:item/waxed_semi_weathered_cut_copper_stairs
+minecraft:item/waxed_exposed_copper
+minecraft:item/waxed_exposed_cut_copper
+minecraft:item/waxed_exposed_cut_copper_slab
+minecraft:item/waxed_exposed_cut_copper_stairs
+minecraft:item/waxed_weathered_copper
+minecraft:item/waxed_weathered_cut_copper
+minecraft:item/waxed_weathered_cut_copper_slab
+minecraft:item/waxed_weathered_cut_copper_stairs
 minecraft:item/weathered_copper_block
 minecraft:item/weathered_cut_copper
 minecraft:item/weathered_cut_copper_slab

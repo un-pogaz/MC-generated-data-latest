@@ -18,6 +18,11 @@ minecraft:block/anvil
 minecraft:block/anvil_top
 minecraft:block/attached_melon_stem
 minecraft:block/attached_pumpkin_stem
+minecraft:block/azalea_leaves
+minecraft:block/azalea_leaves_flowers
+minecraft:block/azalea_plant
+minecraft:block/azalea_side
+minecraft:block/azalea_top
 minecraft:block/azure_bluet
 minecraft:block/bamboo_large_leaves
 minecraft:block/bamboo_singleleaf
@@ -48,6 +53,10 @@ minecraft:block/beetroots_stage3
 minecraft:block/bell_bottom
 minecraft:block/bell_side
 minecraft:block/bell_top
+minecraft:block/big_dripleaf_side
+minecraft:block/big_dripleaf_stem
+minecraft:block/big_dripleaf_tip
+minecraft:block/big_dripleaf_top
 minecraft:block/birch_door_bottom
 minecraft:block/birch_door_top
 minecraft:block/birch_leaves
@@ -133,6 +142,10 @@ minecraft:block/cauldron_bottom
 minecraft:block/cauldron_inner
 minecraft:block/cauldron_side
 minecraft:block/cauldron_top
+minecraft:block/cave_vines_body
+minecraft:block/cave_vines_body_lit
+minecraft:block/cave_vines_head
+minecraft:block/cave_vines_head_lit
 minecraft:block/chain
 minecraft:block/chain_command_block_back  [mcmeta]
 minecraft:block/chain_command_block_conditional  [mcmeta]
@@ -273,6 +286,8 @@ minecraft:block/end_portal_frame_top
 minecraft:block/end_rod
 minecraft:block/end_stone
 minecraft:block/end_stone_bricks
+minecraft:block/exposed_copper_block
+minecraft:block/exposed_cut_copper
 minecraft:block/farmland
 minecraft:block/farmland_moist
 minecraft:block/fern
@@ -285,6 +300,8 @@ minecraft:block/fletching_table_front
 minecraft:block/fletching_table_side
 minecraft:block/fletching_table_top
 minecraft:block/flower_pot
+minecraft:block/flowering_azalea_side
+minecraft:block/flowering_azalea_top
 minecraft:block/frosted_ice_0
 minecraft:block/frosted_ice_1
 minecraft:block/frosted_ice_2
@@ -329,6 +346,7 @@ minecraft:block/green_wool
 minecraft:block/grindstone_pivot
 minecraft:block/grindstone_round
 minecraft:block/grindstone_side
+minecraft:block/hanging_roots
 minecraft:block/hay_block_side
 minecraft:block/hay_block_top
 minecraft:block/honey_block_bottom
@@ -398,8 +416,6 @@ minecraft:block/light_gray_stained_glass
 minecraft:block/light_gray_stained_glass_pane_top
 minecraft:block/light_gray_terracotta
 minecraft:block/light_gray_wool
-minecraft:block/lightly_weathered_copper_block
-minecraft:block/lightly_weathered_cut_copper
 minecraft:block/lightning_rod
 minecraft:block/lilac_bottom
 minecraft:block/lilac_top
@@ -434,6 +450,7 @@ minecraft:block/medium_amethyst_bud
 minecraft:block/melon_side
 minecraft:block/melon_stem
 minecraft:block/melon_top
+minecraft:block/moss_block
 minecraft:block/mossy_cobblestone
 minecraft:block/mossy_stone_bricks
 minecraft:block/mushroom_block_inside
@@ -477,6 +494,8 @@ minecraft:block/orange_terracotta
 minecraft:block/orange_tulip
 minecraft:block/orange_wool
 minecraft:block/oxeye_daisy
+minecraft:block/oxidized_copper_block
+minecraft:block/oxidized_cut_copper
 minecraft:block/packed_ice
 minecraft:block/peony_bottom
 minecraft:block/peony_top
@@ -588,6 +607,8 @@ minecraft:block/respawn_anchor_side3
 minecraft:block/respawn_anchor_side4
 minecraft:block/respawn_anchor_top  [mcmeta]
 minecraft:block/respawn_anchor_top_off
+minecraft:block/root_vines_head
+minecraft:block/rooted_dirt
 minecraft:block/rose_bush_bottom
 minecraft:block/rose_bush_top
 minecraft:block/sand
@@ -605,12 +626,12 @@ minecraft:block/sculk_sensor_top
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
-minecraft:block/semi_weathered_copper_block
-minecraft:block/semi_weathered_cut_copper
 minecraft:block/shroomlight
 minecraft:block/shulker_box
 minecraft:block/slime_block
 minecraft:block/small_amethyst_bud
+minecraft:block/small_dripleaf_side
+minecraft:block/small_dripleaf_top
 minecraft:block/smithing_table_bottom
 minecraft:block/smithing_table_front
 minecraft:block/smithing_table_side
@@ -633,6 +654,8 @@ minecraft:block/soul_soil
 minecraft:block/soul_torch
 minecraft:block/spawner
 minecraft:block/sponge
+minecraft:block/spore_blossom
+minecraft:block/spore_blossom_base
 minecraft:block/spruce_door_bottom
 minecraft:block/spruce_door_top
 minecraft:block/spruce_leaves
@@ -1681,6 +1704,7 @@ minecraft:item/ghast_tear
 minecraft:item/glass_bottle
 minecraft:item/glistering_melon_slice
 minecraft:item/globe_banner_pattern
+minecraft:item/glow_berries
 minecraft:item/glow_ink_sac
 minecraft:item/glow_item_frame
 minecraft:item/glowstone_dust
