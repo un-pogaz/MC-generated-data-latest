@@ -59,7 +59,6 @@ minecraft:bastion/units/stages/stage_3
 minecraft:bastion/units/wall_units
 minecraft:bastion/units/walls/wall_bases
 minecraft:empty
-minecraft:invalid
 minecraft:pillager_outpost/base_plates
 minecraft:pillager_outpost/feature_plates
 minecraft:pillager_outpost/features
