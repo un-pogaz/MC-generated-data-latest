@@ -1,2 +1,4 @@
 minecraft:block/dried_ghast/ambient1
 minecraft:block/dried_ghast/ambient2
+minecraft:block/dried_ghast/ambient3
+minecraft:block/dried_ghast/ambient4

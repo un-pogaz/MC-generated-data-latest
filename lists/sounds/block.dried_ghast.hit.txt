@@ -1,3 +1,0 @@
-minecraft:block/dried_ghast/hit1
-minecraft:block/dried_ghast/hit2
-minecraft:block/dried_ghast/hit3

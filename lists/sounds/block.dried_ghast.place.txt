@@ -1,4 +1,6 @@
-minecraft:block/dried_ghast/wood1
-minecraft:block/dried_ghast/wood2
-minecraft:block/dried_ghast/wood3
-minecraft:block/dried_ghast/wood4
+minecraft:block/dried_ghast/place1
+minecraft:block/dried_ghast/place2
+minecraft:block/dried_ghast/place3
+minecraft:block/dried_ghast/place4
+minecraft:block/dried_ghast/place5
+minecraft:block/dried_ghast/place6
