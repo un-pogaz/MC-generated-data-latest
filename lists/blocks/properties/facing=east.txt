@@ -92,6 +92,9 @@ minecraft:green_bed
 minecraft:green_glazed_terracotta
 minecraft:green_shulker_box
 minecraft:green_wall_banner
+minecraft:grimstone_brick_stairs
+minecraft:grimstone_stairs
+minecraft:grimstone_tile_stairs
 minecraft:grindstone
 minecraft:hopper
 minecraft:horn_coral_wall_fan
@@ -156,6 +159,7 @@ minecraft:polished_blackstone_button
 minecraft:polished_blackstone_stairs
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_stairs
+minecraft:polished_grimstone_stairs
 minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
 minecraft:purple_bed

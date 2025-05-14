@@ -84,7 +84,8 @@ minecraft:oak_bees_002
 minecraft:oak_bees_005
 minecraft:ore_andesite
 minecraft:ore_blackstone
-minecraft:ore_coal
+minecraft:ore_coal_lower
+minecraft:ore_coal_upper
 minecraft:ore_copper
 minecraft:ore_debris_large
 minecraft:ore_debris_small
@@ -100,12 +101,15 @@ minecraft:ore_granite
 minecraft:ore_gravel
 minecraft:ore_gravel_nether
 minecraft:ore_infested
-minecraft:ore_iron
+minecraft:ore_iron_lower
+minecraft:ore_iron_upper
 minecraft:ore_lapis
+minecraft:ore_lapis_buried
 minecraft:ore_magma
 minecraft:ore_quartz_deltas
 minecraft:ore_quartz_nether
 minecraft:ore_redstone
+minecraft:ore_redstone_lower
 minecraft:ore_soul_sand
 minecraft:patch_berry_bush
 minecraft:patch_berry_decorated
