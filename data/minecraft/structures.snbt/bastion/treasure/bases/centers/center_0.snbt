@@ -697,8 +697,7 @@
     {
       nbt: {
         LootTable: "minecraft:chests/bastion_treasure",
-        id: "minecraft:chest",
-        LootTableSeed: 2420858874000487920L
+        id: "minecraft:chest"
       },
       pos: [4, 3, 6],
       state: 8
@@ -752,5 +751,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }

@@ -3361,8 +3361,7 @@
     {
       nbt: {
         Items: [],
-        id: "minecraft:chest",
-        Lock: ""
+        id: "minecraft:chest"
       },
       pos: [3, 1, 0],
       state: 18
@@ -3506,5 +3505,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }

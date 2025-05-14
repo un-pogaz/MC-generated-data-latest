@@ -1381,10 +1381,7 @@
     {
       nbt: {
         LootTable: "minecraft:chests/village/village_taiga_house",
-        Items: [],
-        id: "minecraft:chest",
-        Lock: "",
-        LootTableSeed: 0L
+        id: "minecraft:chest"
       },
       pos: [2, 1, 2],
       state: 21
@@ -1582,5 +1579,5 @@
       Name: "minecraft:blue_bed"
     }
   ],
-  DataVersion: 2706
+  DataVersion: 2709
 }

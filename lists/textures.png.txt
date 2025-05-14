@@ -582,6 +582,9 @@ minecraft:block/quartz_pillar
 minecraft:block/quartz_pillar_top
 minecraft:block/rail
 minecraft:block/rail_corner
+minecraft:block/raw_copper_block
+minecraft:block/raw_gold_block
+minecraft:block/raw_iron_block
 minecraft:block/red_candle
 minecraft:block/red_concrete
 minecraft:block/red_concrete_powder

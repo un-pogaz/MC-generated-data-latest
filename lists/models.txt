@@ -1156,6 +1156,9 @@ minecraft:block/rail_curved
 minecraft:block/rail_flat
 minecraft:block/rail_raised_ne
 minecraft:block/rail_raised_sw
+minecraft:block/raw_copper_block
+minecraft:block/raw_gold_block
+minecraft:block/raw_iron_block
 minecraft:block/red_candle_cake
 minecraft:block/red_candle_four_candles
 minecraft:block/red_candle_one_candle
@@ -2563,8 +2566,11 @@ minecraft:item/rabbit_stew
 minecraft:item/rail
 minecraft:item/ravager_spawn_egg
 minecraft:item/raw_copper
+minecraft:item/raw_copper_block
 minecraft:item/raw_gold
+minecraft:item/raw_gold_block
 minecraft:item/raw_iron
+minecraft:item/raw_iron_block
 minecraft:item/red_banner
 minecraft:item/red_bed
 minecraft:item/red_candle

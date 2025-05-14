@@ -1,5 +1,10 @@
 minecraft:canyon
 minecraft:cave
-minecraft:crack
 minecraft:nether_cave
 minecraft:ocean_cave
+minecraft:prototype_canyon
+minecraft:prototype_cave
+minecraft:prototype_crack
+minecraft:prototype_ocean_cave
+minecraft:underwater_canyon
+minecraft:underwater_cave
