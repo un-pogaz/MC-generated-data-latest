@@ -1,6 +1,8 @@
 {
   "allowed_entities": "minecraft:horse",
-  "equip_sound": "minecraft:item.armor.equip_iron",
+  "equip_sound": {
+    "sound_id": "minecraft:entity.horse.armor"
+  },
   "model": "minecraft:iron",
   "slot": "body"
 }
