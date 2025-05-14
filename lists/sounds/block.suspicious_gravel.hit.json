@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/suspicious_gravel/step1",
+      "volume": 0.8
+    },
+    {
+      "name": "block/suspicious_gravel/step2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/suspicious_gravel/step3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/suspicious_gravel/step4",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

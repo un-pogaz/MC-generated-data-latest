@@ -1,4 +1,5 @@
-minecraft:pottery_shard_arms_up
+minecraft:arms_up_pottery_shard
+minecraft:brewer_pottery_shard
 minecraft:brick
 minecraft:emerald
 minecraft:stick

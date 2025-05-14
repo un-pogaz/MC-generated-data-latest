@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/amethyst/resonate1",
+      "attenuation_distance": 48
+    },
+    {
+      "name": "block/amethyst/resonate2",
+      "attenuation_distance": 48
+    },
+    {
+      "name": "block/amethyst/resonate3",
+      "attenuation_distance": 48
+    },
+    {
+      "name": "block/amethyst/resonate4",
+      "attenuation_distance": 48
+    }
+  ],
+  "subtitle": "subtitles.block.amethyst_block.resonate"
+}

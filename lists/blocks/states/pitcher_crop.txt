@@ -1,0 +1,10 @@
+age=0,half=upper
+age=0,half=lower  [default]
+age=1,half=upper
+age=1,half=lower
+age=2,half=upper
+age=2,half=lower
+age=3,half=upper
+age=3,half=lower
+age=4,half=upper
+age=4,half=lower

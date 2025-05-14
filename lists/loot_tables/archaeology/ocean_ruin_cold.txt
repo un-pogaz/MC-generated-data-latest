@@ -1,0 +1,10 @@
+minecraft:blade_pottery_shard
+minecraft:explorer_pottery_shard
+minecraft:mourner_pottery_shard
+minecraft:plenty_pottery_shard
+minecraft:iron_axe
+minecraft:emerald
+minecraft:wheat
+minecraft:wooden_hoe
+minecraft:coal
+minecraft:gold_nugget

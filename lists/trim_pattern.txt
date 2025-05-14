@@ -1,0 +1,16 @@
+minecraft:coast
+minecraft:dune
+minecraft:eye
+minecraft:host
+minecraft:raiser
+minecraft:rib
+minecraft:sentry
+minecraft:shaper
+minecraft:silence
+minecraft:snout
+minecraft:spire
+minecraft:tide
+minecraft:vex
+minecraft:ward
+minecraft:wayfinder
+minecraft:wild

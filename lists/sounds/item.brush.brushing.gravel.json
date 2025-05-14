@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "item/brush/brushing_gravel1",
+      "pitch": 0.6,
+      "volume": 0.6
+    },
+    {
+      "name": "item/brush/brushing_gravel2",
+      "pitch": 0.6,
+      "volume": 0.6
+    },
+    {
+      "name": "item/brush/brushing_gravel3",
+      "pitch": 0.6,
+      "volume": 0.6
+    },
+    {
+      "name": "item/brush/brushing_gravel4",
+      "pitch": 0.6,
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.item.brush.brushing.gravel"
+}

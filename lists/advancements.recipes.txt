@@ -868,6 +868,7 @@ minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper
 minecraft:recipes/misc/copper_ingot_from_waxed_copper_block
 minecraft:recipes/misc/creeper_banner_pattern
 minecraft:recipes/misc/cyan_dye
+minecraft:recipes/misc/cyan_dye_from_pitcher_plant
 minecraft:recipes/misc/diamond
 minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore
 minecraft:recipes/misc/diamond_from_blasting_diamond_ore
@@ -901,6 +902,8 @@ minecraft:recipes/misc/gold_nugget_from_blasting
 minecraft:recipes/misc/gold_nugget_from_smelting
 minecraft:recipes/misc/gray_dye
 minecraft:recipes/misc/green_dye
+minecraft:recipes/misc/host_armor_trim_smithing_template
+minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore
 minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore
 minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron
@@ -956,6 +959,8 @@ minecraft:recipes/misc/pumpkin_seeds
 minecraft:recipes/misc/purple_dye
 minecraft:recipes/misc/quartz
 minecraft:recipes/misc/quartz_from_blasting
+minecraft:recipes/misc/raiser_armor_trim_smithing_template
+minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/raw_copper
 minecraft:recipes/misc/raw_gold
 minecraft:recipes/misc/raw_iron
@@ -967,6 +972,10 @@ minecraft:recipes/misc/rib_armor_trim_smithing_template
 minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/sentry_armor_trim_smithing_template
 minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim
+minecraft:recipes/misc/shaper_armor_trim_smithing_template
+minecraft:recipes/misc/shaper_armor_trim_smithing_template_smithing_trim
+minecraft:recipes/misc/silence_armor_trim_smithing_template
+minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/skull_banner_pattern
 minecraft:recipes/misc/slime_ball
 minecraft:recipes/misc/snout_armor_trim_smithing_template
@@ -983,6 +992,8 @@ minecraft:recipes/misc/vex_armor_trim_smithing_template
 minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/ward_armor_trim_smithing_template
 minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim
+minecraft:recipes/misc/wayfinder_armor_trim_smithing_template
+minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim
 minecraft:recipes/misc/wheat
 minecraft:recipes/misc/white_dye
 minecraft:recipes/misc/white_dye_from_lily_of_the_valley
@@ -1006,6 +1017,7 @@ minecraft:recipes/redstone/birch_door
 minecraft:recipes/redstone/birch_fence_gate
 minecraft:recipes/redstone/birch_pressure_plate
 minecraft:recipes/redstone/birch_trapdoor
+minecraft:recipes/redstone/calibrated_sculk_sensor
 minecraft:recipes/redstone/cherry_button
 minecraft:recipes/redstone/cherry_door
 minecraft:recipes/redstone/cherry_fence_gate

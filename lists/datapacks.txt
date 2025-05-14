@@ -1,2 +1,1 @@
 minecraft:bundle
-minecraft:update_1_20

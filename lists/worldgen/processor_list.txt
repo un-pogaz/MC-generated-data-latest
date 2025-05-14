@@ -28,6 +28,7 @@ minecraft:stable_degradation
 minecraft:street_plains
 minecraft:street_savanna
 minecraft:street_snowy_or_taiga
+minecraft:trail_ruins_suspicious_sand
 minecraft:treasure_rooms
 minecraft:zombie_desert
 minecraft:zombie_plains

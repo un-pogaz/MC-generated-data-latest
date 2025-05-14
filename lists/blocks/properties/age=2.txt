@@ -10,8 +10,10 @@ minecraft:kelp
 minecraft:mangrove_propagule
 minecraft:melon_stem
 minecraft:nether_wart
+minecraft:pitcher_crop
 minecraft:potatoes
 minecraft:pumpkin_stem
+minecraft:sniffer_egg
 minecraft:sugar_cane
 minecraft:sweet_berry_bush
 minecraft:torchflower_crop

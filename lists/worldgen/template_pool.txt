@@ -70,6 +70,12 @@ minecraft:pillager_outpost/base_plates
 minecraft:pillager_outpost/feature_plates
 minecraft:pillager_outpost/features
 minecraft:pillager_outpost/towers
+minecraft:trail_ruins/buildings
+minecraft:trail_ruins/buildings/grouped
+minecraft:trail_ruins/decor
+minecraft:trail_ruins/roads
+minecraft:trail_ruins/tower
+minecraft:trail_ruins/tower/additions
 minecraft:village/common/animals
 minecraft:village/common/butcher_animals
 minecraft:village/common/cats

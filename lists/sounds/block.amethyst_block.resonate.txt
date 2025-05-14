@@ -1,0 +1,4 @@
+minecraft:block/amethyst/resonate1
+minecraft:block/amethyst/resonate2
+minecraft:block/amethyst/resonate3
+minecraft:block/amethyst/resonate4

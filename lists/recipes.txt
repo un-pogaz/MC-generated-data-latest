@@ -139,6 +139,7 @@ minecraft:brush
 minecraft:bucket
 minecraft:bundle
 minecraft:cake
+minecraft:calibrated_sculk_sensor
 minecraft:campfire
 minecraft:candle
 minecraft:carrot_on_a_stick
@@ -283,6 +284,7 @@ minecraft:cyan_carpet
 minecraft:cyan_carpet_from_white_carpet
 minecraft:cyan_concrete_powder
 minecraft:cyan_dye
+minecraft:cyan_dye_from_pitcher_plant
 minecraft:cyan_glazed_terracotta
 minecraft:cyan_stained_glass
 minecraft:cyan_stained_glass_pane
@@ -498,6 +500,8 @@ minecraft:honey_bottle
 minecraft:honeycomb_block
 minecraft:hopper
 minecraft:hopper_minecart
+minecraft:host_armor_trim_smithing_template
+minecraft:host_armor_trim_smithing_template_smithing_trim
 minecraft:iron_axe
 minecraft:iron_bars
 minecraft:iron_block
@@ -879,6 +883,8 @@ minecraft:quartz_stairs_from_quartz_block_stonecutting
 minecraft:rabbit_stew_from_brown_mushroom
 minecraft:rabbit_stew_from_red_mushroom
 minecraft:rail
+minecraft:raiser_armor_trim_smithing_template
+minecraft:raiser_armor_trim_smithing_template_smithing_trim
 minecraft:raw_copper
 minecraft:raw_copper_block
 minecraft:raw_gold
@@ -941,11 +947,15 @@ minecraft:scaffolding
 minecraft:sea_lantern
 minecraft:sentry_armor_trim_smithing_template
 minecraft:sentry_armor_trim_smithing_template_smithing_trim
+minecraft:shaper_armor_trim_smithing_template
+minecraft:shaper_armor_trim_smithing_template_smithing_trim
 minecraft:shears
 minecraft:shield
 minecraft:shield_decoration
 minecraft:shulker_box
 minecraft:shulker_box_coloring
+minecraft:silence_armor_trim_smithing_template
+minecraft:silence_armor_trim_smithing_template_smithing_trim
 minecraft:skull_banner_pattern
 minecraft:slime_ball
 minecraft:slime_block
@@ -1113,6 +1123,8 @@ minecraft:waxed_weathered_cut_copper_stairs
 minecraft:waxed_weathered_cut_copper_stairs_from_honeycomb
 minecraft:waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting
 minecraft:waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting
+minecraft:wayfinder_armor_trim_smithing_template
+minecraft:wayfinder_armor_trim_smithing_template_smithing_trim
 minecraft:weathered_cut_copper
 minecraft:weathered_cut_copper_from_weathered_copper_stonecutting
 minecraft:weathered_cut_copper_slab

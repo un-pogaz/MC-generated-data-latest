@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/suspicious_gravel/step1",
+    "block/suspicious_gravel/step2",
+    "block/suspicious_gravel/step3",
+    "block/suspicious_gravel/step4"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

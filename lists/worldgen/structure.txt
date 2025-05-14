@@ -25,6 +25,7 @@ minecraft:shipwreck
 minecraft:shipwreck_beached
 minecraft:stronghold
 minecraft:swamp_hut
+minecraft:trail_ruins
 minecraft:village_desert
 minecraft:village_plains
 minecraft:village_savanna

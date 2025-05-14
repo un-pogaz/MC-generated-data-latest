@@ -11,6 +11,8 @@ minecraft:lilac
 minecraft:mangrove_door
 minecraft:oak_door
 minecraft:peony
+minecraft:pitcher_crop
+minecraft:pitcher_plant
 minecraft:rose_bush
 minecraft:small_dripleaf
 minecraft:spruce_door

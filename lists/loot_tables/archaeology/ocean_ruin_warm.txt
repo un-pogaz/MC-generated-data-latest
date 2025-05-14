@@ -1,0 +1,10 @@
+minecraft:angler_pottery_shard
+minecraft:shelter_pottery_shard
+minecraft:snort_pottery_shard
+minecraft:sniffer_egg
+minecraft:iron_axe
+minecraft:emerald
+minecraft:wheat
+minecraft:wooden_hoe
+minecraft:coal
+minecraft:gold_nugget
