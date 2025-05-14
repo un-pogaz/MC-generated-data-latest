@@ -1457,7 +1457,6 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:swords
 #minecraft:tall_flowers
 #minecraft:terracotta
-#minecraft:tools
 #minecraft:trapdoors
 #minecraft:trim_materials
 #minecraft:trim_templates

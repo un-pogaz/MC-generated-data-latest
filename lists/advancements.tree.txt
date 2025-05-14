@@ -1,5 +1,6 @@
 adventure/root
 └>adventure/avoid_vibration
+└>adventure/brush_armadillo
 └>adventure/crafters_crafting_crafters
 └>adventure/fall_from_world_height
 └>adventure/honey_block_slide
@@ -18,6 +19,7 @@ adventure/root
 │ └>adventure/lighten_up
 │ └>adventure/overoverkill
 │ └>adventure/under_lock_and_key
+│ │ └>adventure/revaulting
 │ └>adventure/who_needs_rockets
 └>adventure/ol_betsy
 │ └>adventure/arbalistic
@@ -77,6 +79,9 @@ husbandry/root
 │   └>husbandry/froglights
 └>husbandry/tame_an_animal
   └>husbandry/complete_catalogue
+  └>husbandry/remove_wolf_armor
+  └>husbandry/repair_wolf_armor
+  └>husbandry/whole_pack
 
 nether/root
 └>nether/distract_piglin

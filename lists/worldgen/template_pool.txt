@@ -79,7 +79,7 @@ minecraft:trail_ruins/tower/additions
 minecraft:trail_ruins/tower/tower_top
 minecraft:trial_chambers/atrium
 minecraft:trial_chambers/chamber/addon
-minecraft:trial_chambers/chamber/addon/c6
+minecraft:trial_chambers/chamber/assembly
 minecraft:trial_chambers/chamber/end
 minecraft:trial_chambers/chamber/entrance_cap
 minecraft:trial_chambers/chamber/eruption

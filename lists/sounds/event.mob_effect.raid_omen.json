@@ -2,5 +2,5 @@
   "sounds": [
     "event/mob_effects/raid_omen"
   ],
-  "subtitle": "subtitles.event.mob_effects.raid_omen"
+  "subtitle": "subtitles.event.mob_effect.raid_omen"
 }
