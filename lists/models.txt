@@ -280,7 +280,6 @@ minecraft:block/coal_block
 minecraft:block/coal_ore
 minecraft:block/coarse_dirt
 minecraft:block/cobbled_deepslate
-minecraft:block/cobbled_deepslate_mirrored
 minecraft:block/cobbled_deepslate_slab
 minecraft:block/cobbled_deepslate_slab_top
 minecraft:block/cobbled_deepslate_stairs
@@ -325,6 +324,8 @@ minecraft:block/copper_ore
 minecraft:block/coral_fan
 minecraft:block/coral_wall_fan
 minecraft:block/cornflower
+minecraft:block/cracked_deepslate_bricks
+minecraft:block/cracked_deepslate_tiles
 minecraft:block/cracked_nether_bricks
 minecraft:block/cracked_polished_blackstone_bricks
 minecraft:block/cracked_stone_bricks
@@ -477,7 +478,10 @@ minecraft:block/deepslate_brick_wall_post
 minecraft:block/deepslate_brick_wall_side
 minecraft:block/deepslate_brick_wall_side_tall
 minecraft:block/deepslate_bricks
+minecraft:block/deepslate_coal_ore
+minecraft:block/deepslate_copper_ore
 minecraft:block/deepslate_diamond_ore
+minecraft:block/deepslate_emerald_ore
 minecraft:block/deepslate_gold_ore
 minecraft:block/deepslate_iron_ore
 minecraft:block/deepslate_lapis_ore
@@ -1925,6 +1929,8 @@ minecraft:item/copper_ingot
 minecraft:item/copper_ore
 minecraft:item/cornflower
 minecraft:item/cow_spawn_egg
+minecraft:item/cracked_deepslate_bricks
+minecraft:item/cracked_deepslate_tiles
 minecraft:item/cracked_nether_bricks
 minecraft:item/cracked_polished_blackstone_bricks
 minecraft:item/cracked_stone_bricks
@@ -2017,7 +2023,10 @@ minecraft:item/deepslate_brick_slab
 minecraft:item/deepslate_brick_stairs
 minecraft:item/deepslate_brick_wall
 minecraft:item/deepslate_bricks
+minecraft:item/deepslate_coal_ore
+minecraft:item/deepslate_copper_ore
 minecraft:item/deepslate_diamond_ore
+minecraft:item/deepslate_emerald_ore
 minecraft:item/deepslate_gold_ore
 minecraft:item/deepslate_iron_ore
 minecraft:item/deepslate_lapis_ore
@@ -2197,6 +2206,7 @@ minecraft:item/ice
 minecraft:item/infested_chiseled_stone_bricks
 minecraft:item/infested_cobblestone
 minecraft:item/infested_cracked_stone_bricks
+minecraft:item/infested_deepslate
 minecraft:item/infested_mossy_stone_bricks
 minecraft:item/infested_stone
 minecraft:item/infested_stone_bricks
@@ -2646,6 +2656,7 @@ minecraft:item/spruce_stairs
 minecraft:item/spruce_trapdoor
 minecraft:item/spruce_wood
 minecraft:item/spyglass
+minecraft:item/spyglass_in_hand
 minecraft:item/squid_spawn_egg
 minecraft:item/stick
 minecraft:item/sticky_piston

@@ -188,6 +188,8 @@ minecraft:block/conduit
 minecraft:block/copper_block
 minecraft:block/copper_ore
 minecraft:block/cornflower
+minecraft:block/cracked_deepslate_bricks
+minecraft:block/cracked_deepslate_tiles
 minecraft:block/cracked_nether_bricks
 minecraft:block/cracked_polished_blackstone_bricks
 minecraft:block/cracked_stone_bricks
@@ -252,7 +254,10 @@ minecraft:block/debug
 minecraft:block/debug2
 minecraft:block/deepslate
 minecraft:block/deepslate_bricks
+minecraft:block/deepslate_coal_ore
+minecraft:block/deepslate_copper_ore
 minecraft:block/deepslate_diamond_ore
+minecraft:block/deepslate_emerald_ore
 minecraft:block/deepslate_gold_ore
 minecraft:block/deepslate_iron_ore
 minecraft:block/deepslate_lapis_ore
@@ -1889,6 +1894,7 @@ minecraft:item/spruce_boat
 minecraft:item/spruce_door
 minecraft:item/spruce_sign
 minecraft:item/spyglass
+minecraft:item/spyglass_model
 minecraft:item/stick
 minecraft:item/stone_axe
 minecraft:item/stone_hoe
@@ -1941,6 +1947,7 @@ minecraft:misc/underwater
 minecraft:misc/unknown_pack
 minecraft:misc/unknown_server
 minecraft:misc/vignette  [mcmeta]
+minecraft:misc/white
 minecraft:mob_effect/absorption
 minecraft:mob_effect/bad_omen
 minecraft:mob_effect/blindness

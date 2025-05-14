@@ -38,7 +38,7 @@ minecraft:disk_gravel
 []
 
 minecraft:glow_lichen
-minecraft:spruce_snowy
+minecraft:trees_snowy
 minecraft:flower_default
 minecraft:patch_grass_badlands
 minecraft:brown_mushroom_normal

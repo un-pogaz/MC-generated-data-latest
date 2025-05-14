@@ -1359,7 +1359,6 @@
     {
       Properties: {
         waterlogged: "false",
-        lit: "false",
         facing: "south"
       },
       Name: "minecraft:oak_wall_sign"
@@ -1373,5 +1372,5 @@
       Name: "minecraft:brewing_stand"
     }
   ],
-  DataVersion: 2698
+  DataVersion: 2699
 }

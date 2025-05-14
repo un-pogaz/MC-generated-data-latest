@@ -5,7 +5,8 @@ minecraft:lake_lava
 
 []
 
-minecraft:fossil
+minecraft:fossil_upper
+minecraft:fossil_lower
 minecraft:amethyst_geode
 minecraft:monster_room
 
@@ -37,7 +38,7 @@ minecraft:disk_clay
 []
 
 minecraft:glow_lichen
-minecraft:swamp_tree
+minecraft:trees_swamp
 minecraft:flower_swamp
 minecraft:patch_grass_normal
 minecraft:patch_dead_bush
