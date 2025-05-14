@@ -1,9 +1,7 @@
 {
   "allowed_entities": "minecraft:horse",
   "damage_on_hurt": false,
-  "equip_sound": {
-    "sound_id": "minecraft:entity.horse.armor"
-  },
+  "equip_sound": "minecraft:entity.horse.armor",
   "model": "minecraft:diamond",
   "slot": "body"
 }
