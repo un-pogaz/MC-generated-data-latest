@@ -11,7 +11,9 @@ minecraft:cave_entrance
 minecraft:cave_layer
 minecraft:clay_bands_offset
 minecraft:continentalness
+minecraft:continentalness_large
 minecraft:erosion
+minecraft:erosion_large
 minecraft:gravel
 minecraft:gravel_layer
 minecraft:ice
@@ -27,6 +29,7 @@ minecraft:noodle_ridge_a
 minecraft:noodle_ridge_b
 minecraft:noodle_thickness
 minecraft:offset
+minecraft:offset_large
 minecraft:ore_gap
 minecraft:ore_vein_a
 minecraft:ore_vein_b
@@ -36,9 +39,9 @@ minecraft:patch
 minecraft:pillar
 minecraft:pillar_rareness
 minecraft:pillar_thickness
-minecraft:powder_snow_surface
-minecraft:powder_snow_under
+minecraft:powder_snow
 minecraft:ridge
+minecraft:ridge_large
 minecraft:soul_sand_layer
 minecraft:spaghetti_2d
 minecraft:spaghetti_2d_elevation
@@ -53,4 +56,6 @@ minecraft:spaghetti_roughness_modulator
 minecraft:surface
 minecraft:surface_swamp
 minecraft:temperature
+minecraft:temperature_large
 minecraft:vegetation
+minecraft:vegetation_large
