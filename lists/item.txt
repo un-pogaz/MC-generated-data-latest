@@ -28,6 +28,8 @@ minecraft:anvil
 minecraft:apple
 minecraft:armor_stand
 minecraft:arrow
+minecraft:axolotl_bucket
+minecraft:axolotl_spawn_egg
 minecraft:azure_bluet
 minecraft:baked_potato
 minecraft:bamboo
@@ -1041,6 +1043,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:acacia_logs
 #minecraft:anvil
 #minecraft:arrows
+#minecraft:axolotl_tempt_items
 #minecraft:banners
 #minecraft:beacon_payment_items
 #minecraft:beds
@@ -1068,6 +1071,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:music_discs
 #minecraft:non_flammable_wood
 #minecraft:oak_logs
+#minecraft:occludes_vibration_signals
 #minecraft:piglin_food
 #minecraft:piglin_loved
 #minecraft:piglin_repellents

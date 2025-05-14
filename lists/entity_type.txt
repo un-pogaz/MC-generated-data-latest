@@ -1,6 +1,7 @@
 minecraft:area_effect_cloud
 minecraft:armor_stand
 minecraft:arrow
+minecraft:axolotl
 minecraft:bat
 minecraft:bee
 minecraft:blaze
@@ -107,6 +108,8 @@ minecraft:zombie_horse
 minecraft:zombie_villager
 minecraft:zombified_piglin
 #minecraft:arrows
+#minecraft:axolotl_always_hostiles
+#minecraft:axolotl_tempted_hostiles
 #minecraft:beehive_inhabitors
 #minecraft:impact_projectiles
 #minecraft:powder_snow_walkable_mobs
