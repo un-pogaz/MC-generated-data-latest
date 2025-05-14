@@ -374,6 +374,11 @@
     "region": "Lombardia",
     "bidirectional": false
   },
+  "lo_la": {
+    "name": "ລາວ",
+    "region": "ປະເທດລາວ",
+    "bidirectional": false
+  },
   "lol_us": {
     "name": "LOLCAT",
     "region": "Kingdom of Cats",
@@ -492,6 +497,11 @@
   "ry_ua": {
     "name": "Руснацькый",
     "region": "Пудкарпатя, Украина",
+    "bidirectional": false
+  },
+  "sah_sah": {
+    "name": "Сахалыы",
+    "region": "Cаха Сирэ",
     "bidirectional": false
   },
   "se_no": {
