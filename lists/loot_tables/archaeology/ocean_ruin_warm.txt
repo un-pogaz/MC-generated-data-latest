@@ -1,6 +1,6 @@
-minecraft:angler_pottery_shard
-minecraft:shelter_pottery_shard
-minecraft:snort_pottery_shard
+minecraft:angler_pottery_sherd
+minecraft:shelter_pottery_sherd
+minecraft:snort_pottery_sherd
 minecraft:sniffer_egg
 minecraft:iron_axe
 minecraft:emerald

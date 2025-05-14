@@ -1,7 +1,7 @@
-minecraft:blade_pottery_shard
-minecraft:explorer_pottery_shard
-minecraft:mourner_pottery_shard
-minecraft:plenty_pottery_shard
+minecraft:blade_pottery_sherd
+minecraft:explorer_pottery_sherd
+minecraft:mourner_pottery_sherd
+minecraft:plenty_pottery_sherd
 minecraft:iron_axe
 minecraft:emerald
 minecraft:wheat

@@ -21,5 +21,6 @@
       "name": "block/sign/waxed_interact_fail3",
       "pitch": 0.9
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.sign.waxed_interact_fail"
 }
