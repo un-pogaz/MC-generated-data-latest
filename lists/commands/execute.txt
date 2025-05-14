@@ -48,6 +48,7 @@ execute on passengers >>redirect{execute}
 execute on target >>redirect{execute}
 execute on vehicle >>redirect{execute}
 execute positioned as <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute positioned over <heightmap minecraft:heightmap> >>redirect{execute}
 execute positioned <pos minecraft:vec3> >>redirect{execute}
 execute rotated as <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
 execute rotated <rot minecraft:rotation> >>redirect{execute}

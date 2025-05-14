@@ -1,8 +1,8 @@
 minecraft:bat
 minecraft:creeper
-minecraft:donkey
 minecraft:enderman
 minecraft:glow_squid
+minecraft:pig
 minecraft:rabbit
 minecraft:sheep
 minecraft:skeleton

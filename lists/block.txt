@@ -1116,6 +1116,7 @@ minecraft:zombie_wall_head
 #minecraft:slabs
 #minecraft:small_dripleaf_placeable
 #minecraft:small_flowers
+#minecraft:smelts_to_glass
 #minecraft:snaps_goat_horn
 #minecraft:sniffer_diggable_block
 #minecraft:snow
