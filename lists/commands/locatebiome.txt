@@ -1,1 +1,0 @@
-locatebiome <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]>
