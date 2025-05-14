@@ -1623,6 +1623,7 @@ minecraft:gui/recipe_button
 minecraft:gui/report_button
 minecraft:gui/resource_packs
 minecraft:gui/server_selection
+minecraft:gui/slider
 minecraft:gui/social_interactions
 minecraft:gui/spectator_widgets
 minecraft:gui/stream_indicator

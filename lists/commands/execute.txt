@@ -18,8 +18,11 @@ execute if data entity <source minecraft:entity[type="entities", amount="single"
 execute if data entity <source minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> >>redirect{execute}
 execute if data storage <source minecraft:resource_location> <path minecraft:nbt_path>
 execute if data storage <source minecraft:resource_location> <path minecraft:nbt_path> >>redirect{execute}
+execute if dimension <dimension minecraft:dimension>
+execute if dimension <dimension minecraft:dimension> >>redirect{execute}
 execute if entity <entities minecraft:entity[type="entities", amount="multiple"]>
 execute if entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute if loaded <pos minecraft:block_pos> >>redirect{execute}
 execute if predicate <predicate minecraft:resource_location>
 execute if predicate <predicate minecraft:resource_location> >>redirect{execute}
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> < <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>
@@ -35,6 +38,13 @@ execute if score <target minecraft:score_holder[amount="single"]> <targetObjecti
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:int_range>
 execute if score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> matches <range minecraft:int_range> >>redirect{execute}
 execute in <dimension minecraft:dimension> >>redirect{execute}
+execute on attacker >>redirect{execute}
+execute on controller >>redirect{execute}
+execute on leasher >>redirect{execute}
+execute on owner >>redirect{execute}
+execute on passengers >>redirect{execute}
+execute on target >>redirect{execute}
+execute on vehicle >>redirect{execute}
 execute positioned as <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
 execute positioned <pos minecraft:vec3> >>redirect{execute}
 execute rotated as <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
@@ -96,8 +106,11 @@ execute unless data entity <source minecraft:entity[type="entities", amount="sin
 execute unless data entity <source minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path> >>redirect{execute}
 execute unless data storage <source minecraft:resource_location> <path minecraft:nbt_path>
 execute unless data storage <source minecraft:resource_location> <path minecraft:nbt_path> >>redirect{execute}
+execute unless dimension <dimension minecraft:dimension>
+execute unless dimension <dimension minecraft:dimension> >>redirect{execute}
 execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]>
 execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute unless loaded <pos minecraft:block_pos> >>redirect{execute}
 execute unless predicate <predicate minecraft:resource_location>
 execute unless predicate <predicate minecraft:resource_location> >>redirect{execute}
 execute unless score <target minecraft:score_holder[amount="single"]> <targetObjective minecraft:objective> < <source minecraft:score_holder[amount="single"]> <sourceObjective minecraft:objective>

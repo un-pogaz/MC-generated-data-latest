@@ -4,6 +4,8 @@ gamerule blockExplosionDropDecay
 gamerule blockExplosionDropDecay <value brigadier:bool>
 gamerule commandBlockOutput
 gamerule commandBlockOutput <value brigadier:bool>
+gamerule commandModificationBlockLimit
+gamerule commandModificationBlockLimit <value brigadier:integer>
 gamerule disableElytraMovementCheck
 gamerule disableElytraMovementCheck <value brigadier:bool>
 gamerule disableRaids
