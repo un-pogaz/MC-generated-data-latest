@@ -214,6 +214,7 @@ minecraft:spring_closed_double
 minecraft:spring_delta
 minecraft:spring_lava
 minecraft:spring_lava_double
+minecraft:spring_lava_frozen
 minecraft:spring_open
 minecraft:spring_water
 minecraft:spruce
