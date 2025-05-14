@@ -1,0 +1,3 @@
+minecraft:block/vault/eject1
+minecraft:block/vault/eject2
+minecraft:block/vault/eject3

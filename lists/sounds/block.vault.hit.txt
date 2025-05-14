@@ -1,0 +1,8 @@
+minecraft:block/vault/step1
+minecraft:block/vault/step2
+minecraft:block/vault/step3
+minecraft:block/vault/step4
+minecraft:block/vault/step5
+minecraft:block/vault/step6
+minecraft:block/vault/step7
+minecraft:block/vault/step8

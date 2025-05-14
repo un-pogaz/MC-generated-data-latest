@@ -1,0 +1,3 @@
+minecraft:block/vault/ambient1
+minecraft:block/vault/ambient2
+minecraft:block/vault/ambient3

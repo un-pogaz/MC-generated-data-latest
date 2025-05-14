@@ -1,0 +1,4 @@
+minecraft:block/vault/place1
+minecraft:block/vault/place2
+minecraft:block/vault/place3
+minecraft:block/vault/place4

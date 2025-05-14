@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/vault/place1",
+    "block/vault/place2",
+    "block/vault/place3",
+    "block/vault/place4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

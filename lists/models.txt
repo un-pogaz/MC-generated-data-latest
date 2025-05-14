@@ -1925,6 +1925,7 @@ minecraft:block/template_trapdoor_top
 minecraft:block/template_turtle_egg
 minecraft:block/template_two_candles
 minecraft:block/template_two_turtle_eggs
+minecraft:block/template_vault
 minecraft:block/template_wall_post
 minecraft:block/template_wall_side
 minecraft:block/template_wall_side_tall
@@ -1992,6 +1993,10 @@ minecraft:block/two_sea_pickles
 minecraft:block/two_slightly_cracked_turtle_eggs
 minecraft:block/two_turtle_eggs
 minecraft:block/two_very_cracked_turtle_eggs
+minecraft:block/vault
+minecraft:block/vault_active
+minecraft:block/vault_ejecting_reward
+minecraft:block/vault_unlocking
 minecraft:block/verdant_froglight
 minecraft:block/verdant_froglight_horizontal
 minecraft:block/very_cracked_turtle_egg
@@ -3731,6 +3736,7 @@ minecraft:item/turtle_helmet_redstone_trim
 minecraft:item/turtle_scute
 minecraft:item/turtle_spawn_egg
 minecraft:item/twisting_vines
+minecraft:item/vault
 minecraft:item/verdant_froglight
 minecraft:item/vex_armor_trim_smithing_template
 minecraft:item/vex_spawn_egg

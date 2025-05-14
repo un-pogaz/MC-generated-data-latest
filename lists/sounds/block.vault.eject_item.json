@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/vault/eject1",
+    "block/vault/eject2",
+    "block/vault/eject3"
+  ],
+  "subtitle": "subtitles.block.vault.eject_item"
+}
