@@ -1290,7 +1290,7 @@
       Properties: {
         level: "2"
       },
-      Name: "minecraft:water_cauldron"
+      Name: "minecraft:cauldron"
     },
     {
       Properties: {
@@ -1372,5 +1372,5 @@
       Name: "minecraft:brewing_stand"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

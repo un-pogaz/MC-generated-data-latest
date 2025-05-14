@@ -1,6 +1,0 @@
-minecraft:block/calcite/step1
-minecraft:block/calcite/step2
-minecraft:block/calcite/step3
-minecraft:block/calcite/step4
-minecraft:block/calcite/step5
-minecraft:block/calcite/step6

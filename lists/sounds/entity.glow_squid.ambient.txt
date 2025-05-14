@@ -1,5 +1,0 @@
-minecraft:entity/glow_squid/ambient1
-minecraft:entity/glow_squid/ambient2
-minecraft:entity/glow_squid/ambient3
-minecraft:entity/glow_squid/ambient4
-minecraft:entity/glow_squid/ambient5

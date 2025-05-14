@@ -1,9 +1,0 @@
-{
-  "sounds": [
-    "entity/itemframe/remove_item1",
-    "entity/itemframe/remove_item2",
-    "entity/itemframe/remove_item3",
-    "entity/itemframe/remove_item4"
-  ],
-  "subtitle": "subtitles.entity.glow_item_frame.remove_item"
-}

@@ -588,8 +588,7 @@
     },
     {
       nbt: {
-        joint: "rollable",
-        final_state: "minecraft:light_gray_wool",
+        final_state: "minecraft:dirt",
         name: "minecraft:bottom",
         pool: "minecraft:village/snowy/villagers",
         id: "minecraft:jigsaw",
@@ -600,7 +599,6 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:snow_block",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -714,5 +712,5 @@
       Name: "minecraft:white_bed"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

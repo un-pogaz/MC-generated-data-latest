@@ -1,3 +1,0 @@
-minecraft:item/bucket/empty_fish1
-minecraft:item/bucket/empty_fish2
-minecraft:item/bucket/empty_fish3

@@ -1,6 +1,0 @@
-minecraft:block/hanging_roots/step1
-minecraft:block/hanging_roots/step2
-minecraft:block/hanging_roots/step3
-minecraft:block/hanging_roots/step4
-minecraft:block/hanging_roots/step5
-minecraft:block/hanging_roots/step6

@@ -1733,7 +1733,7 @@
       Name: "minecraft:spruce_log"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Name: "minecraft:air"
@@ -1873,5 +1873,5 @@
       Name: "minecraft:blast_furnace"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

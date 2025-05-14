@@ -404,7 +404,7 @@
     },
     {
       pos: [0, 3, 5],
-      state: 4
+      state: 5
     },
     {
       pos: [0, 3, 6],
@@ -1820,11 +1820,11 @@
     },
     {
       pos: [5, 3, 2],
-      state: 33
+      state: 28
     },
     {
       pos: [5, 3, 3],
-      state: 34
+      state: 33
     },
     {
       pos: [5, 3, 7],
@@ -1836,7 +1836,7 @@
     },
     {
       pos: [6, 3, 2],
-      state: 35
+      state: 34
     },
     {
       pos: [6, 3, 3],
@@ -1868,11 +1868,11 @@
     },
     {
       pos: [8, 3, 2],
-      state: 36
+      state: 35
     },
     {
       pos: [8, 3, 3],
-      state: 36
+      state: 35
     },
     {
       pos: [8, 3, 6],
@@ -2204,7 +2204,7 @@
     },
     {
       pos: [4, 5, 1],
-      state: 37
+      state: 36
     },
     {
       pos: [4, 5, 8],
@@ -2244,7 +2244,7 @@
     },
     {
       pos: [6, 5, 1],
-      state: 38
+      state: 37
     },
     {
       pos: [6, 5, 4],
@@ -2512,15 +2512,15 @@
     },
     {
       pos: [4, 6, 1],
-      state: 39
+      state: 38
     },
     {
       pos: [4, 6, 2],
-      state: 40
+      state: 39
     },
     {
       pos: [4, 6, 3],
-      state: 41
+      state: 40
     },
     {
       pos: [4, 6, 4],
@@ -2548,7 +2548,7 @@
     },
     {
       pos: [5, 6, 1],
-      state: 42
+      state: 41
     },
     {
       pos: [5, 6, 2],
@@ -2584,15 +2584,15 @@
     },
     {
       pos: [6, 6, 1],
-      state: 43
+      state: 42
     },
     {
       pos: [6, 6, 2],
-      state: 44
+      state: 43
     },
     {
       pos: [6, 6, 3],
-      state: 45
+      state: 44
     },
     {
       pos: [6, 6, 4],
@@ -2760,7 +2760,6 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:cobblestone_stairs[facing=north]",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -2768,11 +2767,10 @@
         target: "minecraft:building_entrance"
       },
       pos: [4, 0, 8],
-      state: 46
+      state: 45
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:grass_block",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/butcher_animals",
@@ -2780,7 +2778,7 @@
         target: "minecraft:bottom"
       },
       pos: [7, 0, 6],
-      state: 47
+      state: 46
     },
     {
       nbt: {
@@ -2789,20 +2787,36 @@
         Items: [],
         id: "minecraft:smoker",
         CookTimeTotal: 0s,
+        Lock: "",
         RecipesUsed: {}
       },
       pos: [5, 1, 2],
-      state: 48
+      state: 47
     },
     {
       nbt: {
-        Items: [],
+        Slot2: {
+          Count: 1b,
+          id: "minecraft:air"
+        },
+        Slot3: {
+          Count: 1b,
+          id: "minecraft:air"
+        },
+        Slot0: {
+          Count: 1b,
+          id: "minecraft:air"
+        },
+        Slot1: {
+          Count: 1b,
+          id: "minecraft:air"
+        },
         id: "minecraft:campfire",
         CookingTimes: [I; 0, 0, 0, 0],
         CookingTotalTimes: [I; 0, 0, 0, 0]
       },
       pos: [5, 4, 2],
-      state: 49
+      state: 48
     }
   ],
   palette: [
@@ -3032,7 +3046,7 @@
         east: "none",
         waterlogged: "false",
         south: "none",
-        north: "tall",
+        north: "low",
         west: "none",
         up: "true"
       },
@@ -3065,17 +3079,6 @@
     },
     {
       Properties: {
-        east: "tall",
-        waterlogged: "false",
-        south: "tall",
-        north: "tall",
-        west: "tall",
-        up: "false"
-      },
-      Name: "minecraft:cobblestone_wall"
-    },
-    {
-      Properties: {
         half: "top",
         waterlogged: "false",
         powered: "false",
@@ -3104,7 +3107,7 @@
       Properties: {
         half: "top",
         waterlogged: "false",
-        shape: "straight",
+        shape: "inner_right",
         facing: "east"
       },
       Name: "minecraft:cobblestone_stairs"
@@ -3113,7 +3116,7 @@
       Properties: {
         half: "top",
         waterlogged: "false",
-        shape: "straight",
+        shape: "inner_left",
         facing: "west"
       },
       Name: "minecraft:cobblestone_stairs"
@@ -3210,5 +3213,5 @@
       Name: "minecraft:campfire"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

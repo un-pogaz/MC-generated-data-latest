@@ -452,7 +452,7 @@
     },
     {
       pos: [9, 3, 1],
-      state: 4
+      state: 3
     },
     {
       pos: [9, 3, 4],
@@ -2291,6 +2291,10 @@
       state: 13
     },
     {
+      pos: [4, 5, 0],
+      state: 5
+    },
+    {
       pos: [4, 5, 1],
       state: 17
     },
@@ -2305,6 +2309,10 @@
     {
       pos: [4, 5, 4],
       state: 17
+    },
+    {
+      pos: [4, 5, 5],
+      state: 5
     },
     {
       pos: [4, 5, 6],
@@ -3492,7 +3500,6 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:spruce_planks",
         name: "minecraft:bottom",
         pool: "minecraft:village/snowy/villagers",
@@ -3504,7 +3511,6 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:snow_block",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -3516,7 +3522,6 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:spruce_planks",
         name: "minecraft:bottom",
         pool: "minecraft:village/snowy/villagers",
@@ -3798,5 +3803,5 @@
       Name: "minecraft:furnace"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

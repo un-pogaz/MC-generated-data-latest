@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "mob/stray/convert1",
-    "mob/stray/convert2",
-    "mob/stray/convert3"
-  ],
-  "subtitle": "subtitles.entity.skeleton.converted_to_stray"
-}

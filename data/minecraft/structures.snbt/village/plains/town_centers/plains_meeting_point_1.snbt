@@ -568,7 +568,7 @@
     },
     {
       nbt: {
-        final_state: "minecraft:dirt_path",
+        final_state: "minecraft:grass_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/plains/villagers",
         id: "minecraft:jigsaw",
@@ -579,7 +579,7 @@
     },
     {
       nbt: {
-        final_state: "minecraft:dirt_path",
+        final_state: "minecraft:grass_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/iron_golem",
         id: "minecraft:jigsaw",
@@ -590,7 +590,7 @@
     },
     {
       nbt: {
-        final_state: "minecraft:dirt_path",
+        final_state: "minecraft:grass_path",
         name: "minecraft:bottom",
         pool: "minecraft:village/plains/villagers",
         id: "minecraft:jigsaw",
@@ -700,7 +700,7 @@
       Name: "minecraft:cobblestone"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Properties: {
@@ -766,5 +766,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

@@ -184,7 +184,7 @@
     },
     {
       pos: [3, 0, 14],
-      state: 0
+      state: 1
     },
     {
       pos: [3, 0, 15],
@@ -2840,7 +2840,6 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:grass_block",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/cats",
@@ -2852,8 +2851,7 @@
     },
     {
       nbt: {
-        joint: "rollable",
-        final_state: "minecraft:grass_block",
+        final_state: "minecraft:dirt",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/animals",
         id: "minecraft:jigsaw",
@@ -2864,8 +2862,7 @@
     },
     {
       nbt: {
-        joint: "rollable",
-        final_state: "minecraft:grass_block",
+        final_state: "minecraft:dirt",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/animals",
         id: "minecraft:jigsaw",
@@ -2876,7 +2873,6 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:grass_block",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/cats",
@@ -2888,7 +2884,6 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:structure_void",
         name: "minecraft:building_entrance",
         pool: "minecraft:village/plains/streets",
@@ -2950,7 +2945,7 @@
       Name: "minecraft:air"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Properties: {
@@ -3147,5 +3142,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

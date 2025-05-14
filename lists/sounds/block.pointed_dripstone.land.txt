@@ -1,5 +1,0 @@
-minecraft:block/pointed_dripstone/land1
-minecraft:block/pointed_dripstone/land2
-minecraft:block/pointed_dripstone/land3
-minecraft:block/pointed_dripstone/land4
-minecraft:block/pointed_dripstone/land5

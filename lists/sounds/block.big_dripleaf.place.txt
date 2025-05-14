@@ -1,6 +1,0 @@
-minecraft:block/big_dripleaf/break1
-minecraft:block/big_dripleaf/break2
-minecraft:block/big_dripleaf/break3
-minecraft:block/big_dripleaf/break4
-minecraft:block/big_dripleaf/break5
-minecraft:block/big_dripleaf/break6

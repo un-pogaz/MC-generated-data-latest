@@ -2073,7 +2073,7 @@
       Name: "minecraft:stripped_spruce_log"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Properties: {
@@ -2228,5 +2228,5 @@
       Name: "minecraft:barrel"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

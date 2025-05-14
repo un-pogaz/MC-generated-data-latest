@@ -1431,7 +1431,7 @@
       Name: "minecraft:acacia_planks"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Name: "minecraft:grass"
@@ -1615,5 +1615,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

@@ -196,8 +196,7 @@
     },
     {
       nbt: {
-        joint: "rollable",
-        final_state: "minecraft:grass_block",
+        final_state: "minecraft:dirt",
         name: "minecraft:bottom",
         pool: "minecraft:village/common/animals",
         id: "minecraft:jigsaw",
@@ -208,8 +207,7 @@
     },
     {
       nbt: {
-        joint: "rollable",
-        final_state: "minecraft:grass_block",
+        final_state: "minecraft:dirt",
         name: "minecraft:bottom",
         pool: "minecraft:village/plains/trees",
         id: "minecraft:jigsaw",
@@ -220,7 +218,6 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:oak_fence_gate[facing=east,in_wall=false,open=false,powered=false]",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
@@ -338,5 +335,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

@@ -1,3 +1,0 @@
-minecraft:entity/glow_squid/squirt1
-minecraft:entity/glow_squid/squirt2
-minecraft:entity/glow_squid/squirt3

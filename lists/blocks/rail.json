@@ -11,10 +11,6 @@
       "south_west",
       "north_west",
       "north_east"
-    ],
-    "waterlogged": [
-      "true",
-      "false"
     ]
   }
 }

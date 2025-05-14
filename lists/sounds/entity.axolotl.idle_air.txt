@@ -1,5 +1,0 @@
-minecraft:mob/axolotl/idle_air1
-minecraft:mob/axolotl/idle_air2
-minecraft:mob/axolotl/idle_air3
-minecraft:mob/axolotl/idle_air4
-minecraft:mob/axolotl/idle_air5

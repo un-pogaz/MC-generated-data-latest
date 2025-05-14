@@ -2018,7 +2018,7 @@
       Name: "minecraft:yellow_terracotta"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Name: "minecraft:air"
@@ -2268,5 +2268,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

@@ -364,7 +364,7 @@
       Name: "minecraft:stripped_spruce_wood"
     },
     {
-      Name: "minecraft:dirt_path"
+      Name: "minecraft:grass_path"
     },
     {
       Properties: {
@@ -462,5 +462,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 2687
+  DataVersion: 2585
 }

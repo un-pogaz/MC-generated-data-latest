@@ -1,5 +1,0 @@
-minecraft:block/big_dripleaf/tilt_down1
-minecraft:block/big_dripleaf/tilt_down2
-minecraft:block/big_dripleaf/tilt_down3
-minecraft:block/big_dripleaf/tilt_down4
-minecraft:block/big_dripleaf/tilt_down5

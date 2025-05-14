@@ -1,8 +1,0 @@
-{
-  "sounds": [
-    "entity/glow_squid/death1",
-    "entity/glow_squid/death2",
-    "entity/glow_squid/death3"
-  ],
-  "subtitle": "subtitles.entity.glow_squid.death"
-}

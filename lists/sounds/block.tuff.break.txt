@@ -1,4 +1,0 @@
-minecraft:block/tuff/break1
-minecraft:block/tuff/break2
-minecraft:block/tuff/break3
-minecraft:block/tuff/break4

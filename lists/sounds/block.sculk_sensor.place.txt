@@ -1,5 +1,0 @@
-minecraft:block/sculk_sensor/place1
-minecraft:block/sculk_sensor/place2
-minecraft:block/sculk_sensor/place3
-minecraft:block/sculk_sensor/place4
-minecraft:block/sculk_sensor/place5

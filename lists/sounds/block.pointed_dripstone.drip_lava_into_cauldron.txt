@@ -1,4 +1,0 @@
-minecraft:block/pointed_dripstone/drip_lava_cauldron1
-minecraft:block/pointed_dripstone/drip_lava_cauldron2
-minecraft:block/pointed_dripstone/drip_lava_cauldron3
-minecraft:block/pointed_dripstone/drip_lava_cauldron4

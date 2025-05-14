@@ -1,6 +1,0 @@
-minecraft:block/spore_blossom/step1
-minecraft:block/spore_blossom/step2
-minecraft:block/spore_blossom/step3
-minecraft:block/spore_blossom/step4
-minecraft:block/spore_blossom/step5
-minecraft:block/spore_blossom/step6

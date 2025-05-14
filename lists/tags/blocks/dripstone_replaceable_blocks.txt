@@ -1,2 +1,0 @@
-#minecraft:base_stone_overworld
-minecraft:dirt
