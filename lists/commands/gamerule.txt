@@ -36,6 +36,8 @@ gamerule fallDamage
 gamerule fallDamage <value brigadier:bool>
 gamerule fireDamage
 gamerule fireDamage <value brigadier:bool>
+gamerule forgiveDeadPlayers
+gamerule forgiveDeadPlayers <value brigadier:bool>
 gamerule keepInventory
 gamerule keepInventory <value brigadier:bool>
 gamerule logAdminCommands
@@ -60,3 +62,5 @@ gamerule spawnRadius
 gamerule spawnRadius <value brigadier:integer>
 gamerule spectatorsGenerateChunks
 gamerule spectatorsGenerateChunks <value brigadier:bool>
+gamerule universalAnger
+gamerule universalAnger <value brigadier:bool>

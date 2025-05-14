@@ -36,7 +36,7 @@ husbandry/root
 │ └>husbandry/tactical_fishing
 └>husbandry/plant_seed
 │ └>husbandry/balanced_diet
-│ └>husbandry/break_diamond_hoe
+│ └>husbandry/obtain_netherite_hoe
 └>husbandry/safely_harvest_honey
 └>husbandry/silk_touch_nest
 └>husbandry/tame_an_animal

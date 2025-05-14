@@ -259,7 +259,7 @@
             "frame": "challenge",
             "rewards": "100 xp"
           },
-          "minecraft:husbandry/break_diamond_hoe": {
+          "minecraft:husbandry/obtain_netherite_hoe": {
             "icon": "minecraft:netherite_hoe",
             "title": "Serious Dedication",
             "description": "Use a Netherite ingot to upgrade a hoe, and then reevaluate your life choices",
@@ -412,7 +412,8 @@
             "icon": "minecraft:netherite_chestplate",
             "title": "Cover Me in Debris",
             "description": "Get a full suit of Netherite armor",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "100 xp"
           },
           "minecraft:nether/use_lodestone": {
             "icon": "minecraft:lodestone",
@@ -424,7 +425,7 @@
       },
       "minecraft:nether/obtain_crying_obsidian": {
         "icon": "minecraft:crying_obsidian",
-        "title": "Who Is Cutting Onions?",
+        "title": "Who is Cutting Onions?",
         "description": "Obtain Crying Obsidian",
         "frame": "task",
         "childs": {
@@ -462,7 +463,8 @@
             "icon": "minecraft:netherite_boots",
             "title": "Hot Tourist Destinations",
             "description": "Explore all Nether biomes",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "500 xp"
           }
         }
       }
