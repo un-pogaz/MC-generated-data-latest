@@ -1,3 +1,4 @@
+minecraft:bastionremnant
 minecraft:btp
 minecraft:ecp
 minecraft:iglu
@@ -36,6 +37,8 @@ minecraft:omsimplet
 minecraft:omwr
 minecraft:orp
 minecraft:pcp
+minecraft:runtime
+minecraft:rupo
 minecraft:sh5c
 minecraft:shcc
 minecraft:shfc

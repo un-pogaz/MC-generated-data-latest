@@ -223,6 +223,7 @@ minecraft:block/cauldron
 minecraft:block/cauldron_level1
 minecraft:block/cauldron_level2
 minecraft:block/cauldron_level3
+minecraft:block/chain
 minecraft:block/chain_command_block
 minecraft:block/chain_command_block_conditional
 minecraft:block/chest
@@ -1534,6 +1535,7 @@ minecraft:item/carved_pumpkin
 minecraft:item/cat_spawn_egg
 minecraft:item/cauldron
 minecraft:item/cave_spider_spawn_egg
+minecraft:item/chain
 minecraft:item/chain_command_block
 minecraft:item/chainmail_boots
 minecraft:item/chainmail_chestplate
@@ -2064,6 +2066,7 @@ minecraft:item/music_disc_chirp
 minecraft:item/music_disc_far
 minecraft:item/music_disc_mall
 minecraft:item/music_disc_mellohi
+minecraft:item/music_disc_pigstep
 minecraft:item/music_disc_stal
 minecraft:item/music_disc_strad
 minecraft:item/music_disc_wait

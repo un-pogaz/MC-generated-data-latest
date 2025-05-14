@@ -1,3 +1,4 @@
+locate Bastion_Remnant
 locate Buried_Treasure
 locate Desert_Pyramid
 locate EndCity
@@ -10,6 +11,7 @@ locate Monument
 locate Nether_Fossil
 locate Ocean_Ruin
 locate Pillager_Outpost
+locate Ruined_Portal
 locate Shipwreck
 locate Stronghold
 locate Swamp_Hut

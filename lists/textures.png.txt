@@ -123,6 +123,7 @@ minecraft:block/cauldron_bottom
 minecraft:block/cauldron_inner
 minecraft:block/cauldron_side
 minecraft:block/cauldron_top
+minecraft:block/chain
 minecraft:block/chain_command_block_back  [mcmeta]
 minecraft:block/chain_command_block_conditional  [mcmeta]
 minecraft:block/chain_command_block_front  [mcmeta]
@@ -1425,6 +1426,7 @@ minecraft:item/campfire
 minecraft:item/carrot
 minecraft:item/carrot_on_a_stick
 minecraft:item/cauldron
+minecraft:item/chain
 minecraft:item/chainmail_boots
 minecraft:item/chainmail_chestplate
 minecraft:item/chainmail_helmet
@@ -1680,6 +1682,7 @@ minecraft:item/music_disc_chirp
 minecraft:item/music_disc_far
 minecraft:item/music_disc_mall
 minecraft:item/music_disc_mellohi
+minecraft:item/music_disc_pigstep
 minecraft:item/music_disc_stal
 minecraft:item/music_disc_strad
 minecraft:item/music_disc_wait
