@@ -1,0 +1,4 @@
+texture: minecraft:wanderer
+name: Wanderer
+author: Kristoffer Zetterstrand
+size: 1x2

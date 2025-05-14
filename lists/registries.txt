@@ -12,7 +12,12 @@ minecraft:creative_mode_tab
 minecraft:custom_stat
 minecraft:data_component_type
 minecraft:decorated_pot_patterns
-minecraft:enchantment
+minecraft:enchantment_effect_component_type
+minecraft:enchantment_entity_effect_type
+minecraft:enchantment_level_based_value_type
+minecraft:enchantment_location_based_effect_type
+minecraft:enchantment_provider_type
+minecraft:enchantment_value_effect_type
 minecraft:entity_sub_predicate_type
 minecraft:entity_type
 minecraft:float_provider_type
@@ -35,7 +40,6 @@ minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect
 minecraft:number_format_type
-minecraft:painting_variant
 minecraft:particle_type
 minecraft:point_of_interest_type
 minecraft:pos_rule_test

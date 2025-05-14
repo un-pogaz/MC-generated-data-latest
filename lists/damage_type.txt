@@ -1,6 +1,7 @@
 minecraft:arrow
 minecraft:bad_respawn_point
 minecraft:cactus
+minecraft:campfire
 minecraft:cramming
 minecraft:dragon_breath
 minecraft:drown
@@ -50,6 +51,7 @@ minecraft:wither_skull
 #minecraft:always_triggers_silverfish
 #minecraft:avoids_guardian_thorns
 #minecraft:breeze_immune_to
+#minecraft:burn_from_stepping
 #minecraft:burns_armor_stands
 #minecraft:bypasses_armor
 #minecraft:bypasses_effects

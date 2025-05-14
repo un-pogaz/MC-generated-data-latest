@@ -1,0 +1,4 @@
+texture: minecraft:skull_and_roses
+name: Skull and Roses
+author: Kristoffer Zetterstrand
+size: 2x2

@@ -1,5 +1,2 @@
 minecraft:brick
 #minecraft:decorated_pot_sherds
-minecraft:flow_pottery_sherd
-minecraft:guster_pottery_sherd
-minecraft:scrape_pottery_sherd

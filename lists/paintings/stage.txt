@@ -1,0 +1,4 @@
+texture: minecraft:stage
+name: The Stage Is Set
+author: Kristoffer Zetterstrand
+size: 2x2

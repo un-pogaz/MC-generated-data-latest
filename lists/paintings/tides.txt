@@ -1,0 +1,4 @@
+texture: minecraft:tides
+name: Tides
+author: Kristoffer Zetterstrand
+size: 3x3

@@ -17,6 +17,12 @@
       "weight": 3
     },
     {
+      "name": "music/game/featherfall",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 3
+    },
+    {
       "name": "music/game/left_to_bloom",
       "stream": true,
       "volume": 0.4

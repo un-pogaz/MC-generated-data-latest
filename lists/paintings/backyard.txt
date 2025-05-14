@@ -1,0 +1,4 @@
+texture: minecraft:backyard
+name: Backyard
+author: Kristoffer Zetterstrand
+size: 3x4

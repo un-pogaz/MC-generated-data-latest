@@ -5,7 +5,7 @@
 "minecraft:paper","2..7","38.5%","20/52",
 "minecraft:map","1","1.9%","1/52",
 "minecraft:compass","1","1.9%","1/52",
-"minecraft:enchanted_book","1","19.2%","10/52","enchantments: {level: 30, treasure: true}"
+"minecraft:enchanted_book","1","19.2%","10/52","enchantments: {level: 30, #on_random_loot}"
 ——,——,——,——,——
 "1 time","--","--","--",
 "minecraft:eye_armor_trim_smithing_template","1","100%","1",

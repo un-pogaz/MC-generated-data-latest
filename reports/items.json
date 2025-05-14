@@ -23479,7 +23479,7 @@
           "modifiers": [
             {
               "type": "minecraft:generic.attack_damage",
-              "amount": 6.0,
+              "amount": 5.0,
               "name": "Weapon modifier",
               "operation": "add_value",
               "slot": "mainhand",
@@ -23492,7 +23492,7 @@
             },
             {
               "type": "minecraft:generic.attack_speed",
-              "amount": -2.4000000953674316,
+              "amount": -3.5,
               "name": "Weapon modifier",
               "operation": "add_value",
               "slot": "mainhand",
@@ -23522,7 +23522,7 @@
       },
       {
         "type": "minecraft:max_damage",
-        "value": 250
+        "value": 500
       },
       {
         "type": "minecraft:max_stack_size",
@@ -25807,6 +25807,70 @@
       }
     ]
   },
+  "minecraft:music_disc_creator": {
+    "components": [
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:max_stack_size",
+        "value": 1
+      },
+      {
+        "type": "minecraft:rarity",
+        "value": "rare"
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      }
+    ]
+  },
+  "minecraft:music_disc_creator_music_box": {
+    "components": [
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:max_stack_size",
+        "value": 1
+      },
+      {
+        "type": "minecraft:rarity",
+        "value": "rare"
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      }
+    ]
+  },
   "minecraft:music_disc_far": {
     "components": [
       {
@@ -25936,6 +26000,38 @@
     ]
   },
   "minecraft:music_disc_pigstep": {
+    "components": [
+      {
+        "type": "minecraft:attribute_modifiers",
+        "value": {
+          "modifiers": []
+        }
+      },
+      {
+        "type": "minecraft:enchantments",
+        "value": {
+          "levels": {}
+        }
+      },
+      {
+        "type": "minecraft:lore",
+        "value": []
+      },
+      {
+        "type": "minecraft:max_stack_size",
+        "value": 1
+      },
+      {
+        "type": "minecraft:rarity",
+        "value": "rare"
+      },
+      {
+        "type": "minecraft:repair_cost",
+        "value": 0
+      }
+    ]
+  },
+  "minecraft:music_disc_precipice": {
     "components": [
       {
         "type": "minecraft:attribute_modifiers",

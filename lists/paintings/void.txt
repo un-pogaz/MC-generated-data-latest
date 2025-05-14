@@ -1,0 +1,4 @@
+texture: minecraft:void
+name: The void
+author: Kristoffer Zetterstrand
+size: 2x2

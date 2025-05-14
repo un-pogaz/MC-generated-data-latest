@@ -1,0 +1,8 @@
+minecraft:alban
+minecraft:aztec
+minecraft:aztec2
+minecraft:bomb
+minecraft:kebab
+minecraft:meditative
+minecraft:plant
+minecraft:wasteland

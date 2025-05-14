@@ -1,0 +1,4 @@
+texture: minecraft:skeleton
+name: Mortal Coil
+author: Kristoffer Zetterstrand
+size: 4x3

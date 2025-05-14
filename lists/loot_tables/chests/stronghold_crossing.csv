@@ -8,4 +8,4 @@
 "minecraft:bread","1..3","24.2%","15/62",
 "minecraft:apple","1..3","24.2%","15/62",
 "minecraft:iron_pickaxe","1","1.6%","1/62",
-"minecraft:enchanted_book","1","1.6%","1/62","enchantments: {level: 30, treasure: true}"
+"minecraft:enchanted_book","1","1.6%","1/62","enchantments: {level: 30, #on_random_loot}"

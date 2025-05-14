@@ -1,0 +1,4 @@
+texture: minecraft:cavebird
+name: Cavebird
+author: Kristoffer Zetterstrand
+size: 3x3

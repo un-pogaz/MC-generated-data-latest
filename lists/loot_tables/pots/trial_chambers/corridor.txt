@@ -1,11 +1,8 @@
 minecraft:emerald
-minecraft:lapis_lazuli
-minecraft:amethyst_shard
 minecraft:arrow
 minecraft:iron_ingot
-minecraft:copper_ingot
 minecraft:trial_key
-minecraft:gold_ingot
+minecraft:music_disc_creator_music_box
 minecraft:diamond
 minecraft:emerald_block
 minecraft:diamond_block

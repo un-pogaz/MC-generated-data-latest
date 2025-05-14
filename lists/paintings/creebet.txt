@@ -1,0 +1,4 @@
+texture: minecraft:creebet
+name: Creebet
+author: Kristoffer Zetterstrand
+size: 2x1

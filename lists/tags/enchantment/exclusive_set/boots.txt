@@ -1,0 +1,2 @@
+minecraft:frost_walker
+minecraft:depth_strider

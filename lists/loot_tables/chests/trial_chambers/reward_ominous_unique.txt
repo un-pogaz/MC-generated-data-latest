@@ -1,4 +1,5 @@
 minecraft:enchanted_golden_apple
 minecraft:flow_armor_trim_smithing_template
 minecraft:flow_banner_pattern
+minecraft:music_disc_creator
 minecraft:heavy_core

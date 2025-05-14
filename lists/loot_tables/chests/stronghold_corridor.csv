@@ -20,7 +20,7 @@
 "minecraft:golden_horse_armor","1","1%","1/100",
 "minecraft:diamond_horse_armor","1","1%","1/100",
 "minecraft:music_disc_otherside","1","1%","1/100",
-"minecraft:enchanted_book","1","1%","1/100","enchantments: {level: 30, treasure: true}"
+"minecraft:enchanted_book","1","1%","1/100","enchantments: {level: 30, #on_random_loot}"
 ——,——,——,——,——
 "1 time","--","--","--",
 "empty",,"90%","9/10",

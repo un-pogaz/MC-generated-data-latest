@@ -10,7 +10,7 @@
 "minecraft:chainmail_chestplate","1","7.9%","10/127",
 "minecraft:diamond_hoe","1","11.8%","15/127",
 "minecraft:diamond_chestplate","1","3.9%","5/127",
-"minecraft:enchanted_book","1","7.9%","10/127","enchantments: *"
+"minecraft:enchanted_book","1","7.9%","10/127","enchantments: #on_random_loot"
 ——,——,——,——,——
 "1 to 4 time","--","--","--",
 "minecraft:iron_ingot","1..4","8%","10/125",

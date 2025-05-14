@@ -12,7 +12,7 @@
 "minecraft:iron_horse_armor","1","1.1%","1/88",
 "minecraft:golden_horse_armor","1","1.1%","1/88",
 "minecraft:diamond_horse_armor","1","1.1%","1/88",
-"minecraft:enchanted_book","1","1.1%","1/88","enchantments: {level: 30, treasure: true}"
+"minecraft:enchanted_book","1","1.1%","1/88","enchantments: {level: 30, #on_random_loot}"
 ——,——,——,——,——
 "1 time","--","--","--",
 "empty",,"66.7%","2/3",

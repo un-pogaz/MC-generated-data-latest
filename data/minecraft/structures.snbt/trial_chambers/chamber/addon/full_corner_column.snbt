@@ -5019,7 +5019,7 @@
         pool: "minecraft:empty",
         selection_priority: 0,
         id: "minecraft:jigsaw",
-        target: "minecraft:"
+        target: "minecraft:empty"
       },
       pos: [0, 12, 2],
       state: 7
@@ -5098,5 +5098,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3839
+  DataVersion: 3940
 }

@@ -1,7 +1,7 @@
 "Name","Count","Chance","Weight","Comment"
 ,,,,
 "1 to 3 time","--","--","--",
-"minecraft:iron_axe","1","5.3%","1/19","enchantments: *"
+"minecraft:iron_axe","1","5.3%","1/19","enchantments: #on_random_loot"
 "minecraft:honeycomb","2..8","5.3%","1/19",
 "minecraft:stone_axe","1","10.5%","2/19",
 "minecraft:stone_pickaxe","1","10.5%","2/19",

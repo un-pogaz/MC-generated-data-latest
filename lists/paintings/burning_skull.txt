@@ -1,0 +1,4 @@
+texture: minecraft:burning_skull
+name: Skull On Fire
+author: Kristoffer Zetterstrand
+size: 4x4

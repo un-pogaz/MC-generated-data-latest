@@ -1,6 +1,7 @@
 minecraft:music/game/bromeliad
 minecraft:music/game/clark
 minecraft:music/game/echo_in_the_wind
+minecraft:music/game/featherfall
 minecraft:music/game/left_to_bloom
 minecraft:music/game/minecraft
 minecraft:music/game/sweden

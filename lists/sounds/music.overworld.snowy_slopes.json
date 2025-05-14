@@ -19,6 +19,11 @@
       "volume": 0.4
     },
     {
+      "name": "music/game/pokopoko",
+      "stream": true,
+      "volume": 0.8
+    },
+    {
       "name": "music/game/stand_tall",
       "stream": true,
       "volume": 0.4

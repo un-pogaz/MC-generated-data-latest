@@ -1,4 +1,5 @@
 minecraft:in_fire
+minecraft:campfire
 minecraft:on_fire
 minecraft:lava
 minecraft:hot_floor

@@ -1,0 +1,4 @@
+texture: minecraft:courbet
+name: Bonjour Monsieur Courbet
+author: Kristoffer Zetterstrand
+size: 2x1

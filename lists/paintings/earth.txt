@@ -1,0 +1,4 @@
+texture: minecraft:earth
+name: Earth
+author: Mojang
+size: 2x2

@@ -1,0 +1,4 @@
+texture: minecraft:aztec2
+name: de_aztec
+author: Kristoffer Zetterstrand
+size: 1x1

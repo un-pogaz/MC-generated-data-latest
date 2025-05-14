@@ -1,0 +1,1 @@
+#minecraft:non_treasure

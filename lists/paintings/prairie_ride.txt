@@ -1,0 +1,4 @@
+texture: minecraft:prairie_ride
+name: Prairie Ride
+author: Sarah Boeving
+size: 1x2

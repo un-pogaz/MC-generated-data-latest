@@ -10,5 +10,5 @@
 | 1 time                       |    -- |     -- |     -- |                                          |
 | minecraft:leather_chestplate |     1 |   8.3% |   1/12 |                                          |
 | minecraft:golden_helmet      |     1 |   8.3% |   1/12 |                                          |
-| minecraft:fishing_rod        |     1 |  41.7% |   5/12 | enchantments: *                          |
+| minecraft:fishing_rod        |     1 |  41.7% |   5/12 | enchantments: #on_random_loot            |
 | minecraft:explorer_map       |     1 |  41.7% |   5/12 | destination: #minecraft:on_treasure_maps |
