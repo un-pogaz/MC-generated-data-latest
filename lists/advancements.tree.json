@@ -31,6 +31,12 @@
             "description": "Shoot something with an arrow",
             "frame": "task",
             "childs": {
+              "minecraft:adventure/bullseye": {
+                "icon": "minecraft:target",
+                "title": "Bullseye",
+                "description": "Hit the bullseye of a Target block with an arrow",
+                "frame": "task"
+              },
               "minecraft:adventure/sniper_duel": {
                 "icon": "minecraft:arrow",
                 "title": "Sniper Duel",

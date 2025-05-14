@@ -282,7 +282,7 @@ minecraft:block/crimson_fence_gate_wall_open
 minecraft:block/crimson_fence_inventory
 minecraft:block/crimson_fence_post
 minecraft:block/crimson_fence_side
-minecraft:block/crimson_fungi
+minecraft:block/crimson_fungus
 minecraft:block/crimson_nylium
 minecraft:block/crimson_planks
 minecraft:block/crimson_pressure_plate
@@ -300,6 +300,7 @@ minecraft:block/crimson_trapdoor_open
 minecraft:block/crimson_trapdoor_top
 minecraft:block/crop
 minecraft:block/cross
+minecraft:block/crying_obsidian
 minecraft:block/cube
 minecraft:block/cube_all
 minecraft:block/cube_bottom_top
@@ -835,6 +836,8 @@ minecraft:block/potted_blue_orchid
 minecraft:block/potted_brown_mushroom
 minecraft:block/potted_cactus
 minecraft:block/potted_cornflower
+minecraft:block/potted_crimson_fungus
+minecraft:block/potted_crimson_roots
 minecraft:block/potted_dandelion
 minecraft:block/potted_dark_oak_sapling
 minecraft:block/potted_dead_bush
@@ -849,6 +852,8 @@ minecraft:block/potted_poppy
 minecraft:block/potted_red_mushroom
 minecraft:block/potted_red_tulip
 minecraft:block/potted_spruce_sapling
+minecraft:block/potted_warped_fungus
+minecraft:block/potted_warped_roots
 minecraft:block/potted_white_tulip
 minecraft:block/potted_wither_rose
 minecraft:block/powered_rail
@@ -1166,6 +1171,7 @@ minecraft:block/tall_grass_bottom
 minecraft:block/tall_grass_top
 minecraft:block/tall_seagrass_bottom
 minecraft:block/tall_seagrass_top
+minecraft:block/target
 minecraft:block/template_farmland
 minecraft:block/template_fence_gate
 minecraft:block/template_fence_gate_open
@@ -1262,7 +1268,7 @@ minecraft:block/warped_fence_gate_wall_open
 minecraft:block/warped_fence_inventory
 minecraft:block/warped_fence_post
 minecraft:block/warped_fence_side
-minecraft:block/warped_fungi
+minecraft:block/warped_fungus
 minecraft:block/warped_nylium
 minecraft:block/warped_planks
 minecraft:block/warped_pressure_plate
@@ -1612,7 +1618,7 @@ minecraft:item/crimson_button
 minecraft:item/crimson_door
 minecraft:item/crimson_fence
 minecraft:item/crimson_fence_gate
-minecraft:item/crimson_fungi
+minecraft:item/crimson_fungus
 minecraft:item/crimson_nylium
 minecraft:item/crimson_planks
 minecraft:item/crimson_pressure_plate
@@ -1628,6 +1634,7 @@ minecraft:item/crossbow_firework
 minecraft:item/crossbow_pulling_0
 minecraft:item/crossbow_pulling_1
 minecraft:item/crossbow_pulling_2
+minecraft:item/crying_obsidian
 minecraft:item/cut_red_sandstone
 minecraft:item/cut_red_sandstone_slab
 minecraft:item/cut_sandstone
@@ -2287,6 +2294,7 @@ minecraft:item/sunflower
 minecraft:item/suspicious_stew
 minecraft:item/sweet_berries
 minecraft:item/tall_grass
+minecraft:item/target
 minecraft:item/template_banner
 minecraft:item/template_bed
 minecraft:item/template_shulker_box
@@ -2323,7 +2331,7 @@ minecraft:item/warped_button
 minecraft:item/warped_door
 minecraft:item/warped_fence
 minecraft:item/warped_fence_gate
-minecraft:item/warped_fungi
+minecraft:item/warped_fungus
 minecraft:item/warped_nylium
 minecraft:item/warped_planks
 minecraft:item/warped_pressure_plate
@@ -2378,6 +2386,6 @@ minecraft:item/yellow_terracotta
 minecraft:item/yellow_wool
 minecraft:item/zombie_head
 minecraft:item/zombie_horse_spawn_egg
-minecraft:item/zombie_pigman_spawn_egg
 minecraft:item/zombie_spawn_egg
 minecraft:item/zombie_villager_spawn_egg
+minecraft:item/zombified_piglin_spawn_egg
