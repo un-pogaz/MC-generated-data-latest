@@ -13,7 +13,7 @@ minecraft:dark_oak_leaves
 minecraft:acacia_leaves
 minecraft:birch_leaves
 minecraft:azalea_leaves
-minecraft:azalea_leaves_flowers
+minecraft:flowering_azalea_leaves
 minecraft:sculk_sensor
 minecraft:moss_block
 minecraft:moss_carpet
