@@ -274,7 +274,7 @@
       "minecraft:adventure/trim_with_any_armor_pattern": {
         "icon": "minecraft:dune_armor_trim_smithing_template",
         "title": "Crafting a New Look",
-        "description": "Craft a trimmed armor at a Smithing Table",
+        "description": "Craft trimmed armor at a Smithing Table",
         "frame": "task",
         "childs": {
           "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
@@ -568,7 +568,7 @@
           "minecraft:husbandry/repair_wolf_armor": {
             "icon": "minecraft:wolf_armor",
             "title": "Good as New",
-            "description": "Repair a damaged Wolf Armor using Armadillo Scutes",
+            "description": "Fully repair damaged Wolf Armor using Armadillo Scutes",
             "frame": "task"
           },
           "minecraft:husbandry/whole_pack": {

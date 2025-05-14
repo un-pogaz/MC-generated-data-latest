@@ -1,5 +1,6 @@
 minecraft:accept_teleportation
 minecraft:block_entity_tag_query
+minecraft:bundle_item_selected
 minecraft:change_difficulty
 minecraft:chat
 minecraft:chat_ack
@@ -9,6 +10,7 @@ minecraft:chat_session_update
 minecraft:chunk_batch_received
 minecraft:client_command
 minecraft:client_information
+minecraft:client_tick_end
 minecraft:command_suggestion
 minecraft:configuration_acknowledged
 minecraft:container_button_click

@@ -1,0 +1,2 @@
+minecraft:function  = mcfunction
+minecraft:structure  = structure

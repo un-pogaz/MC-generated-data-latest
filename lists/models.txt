@@ -1913,6 +1913,8 @@ minecraft:block/template_piston_head_short
 minecraft:block/template_potted_azalea_bush
 minecraft:block/template_rail_raised_ne
 minecraft:block/template_rail_raised_sw
+minecraft:block/template_redstone_torch
+minecraft:block/template_redstone_torch_wall
 minecraft:block/template_sculk_shrieker
 minecraft:block/template_seagrass
 minecraft:block/template_single_face
@@ -2274,6 +2276,7 @@ minecraft:item/bone_block
 minecraft:item/bone_meal
 minecraft:item/book
 minecraft:item/bookshelf
+minecraft:item/bordure_indented_banner_pattern
 minecraft:item/bow
 minecraft:item/bow_pulling_0
 minecraft:item/bow_pulling_1
@@ -2318,7 +2321,8 @@ minecraft:item/bubble_coral_fan
 minecraft:item/bucket
 minecraft:item/budding_amethyst
 minecraft:item/bundle
-minecraft:item/bundle_filled
+minecraft:item/bundle_open_back
+minecraft:item/bundle_open_front
 minecraft:item/burn_pottery_sherd
 minecraft:item/cactus
 minecraft:item/cake
@@ -2781,6 +2785,7 @@ minecraft:item/farmland
 minecraft:item/feather
 minecraft:item/fermented_spider_eye
 minecraft:item/fern
+minecraft:item/field_masoned_banner_pattern
 minecraft:item/filled_map
 minecraft:item/fire_charge
 minecraft:item/fire_coral

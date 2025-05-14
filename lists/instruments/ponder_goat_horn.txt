@@ -1,0 +1,4 @@
+sound_event: minecraft:item.goat_horn.sound.0
+description: Ponder
+range: 256 block
+length: 7s

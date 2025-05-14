@@ -64,6 +64,8 @@ gamerule maxCommandForkCount
 gamerule maxCommandForkCount <value brigadier:integer>
 gamerule maxEntityCramming
 gamerule maxEntityCramming <value brigadier:integer>
+gamerule minecartMaxSpeed
+gamerule minecartMaxSpeed <value brigadier:integer[max="1000", min="1"]>
 gamerule mobExplosionDropDecay
 gamerule mobExplosionDropDecay <value brigadier:bool>
 gamerule mobGriefing

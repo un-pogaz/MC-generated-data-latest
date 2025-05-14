@@ -1,0 +1,4 @@
+sound_event: minecraft:item.goat_horn.sound.5
+description: Call
+range: 256 block
+length: 7s
