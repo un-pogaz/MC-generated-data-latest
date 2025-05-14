@@ -57,6 +57,7 @@ minecraft:splash
 minecraft:step
 minecraft:swim
 minecraft:teleport
+minecraft:unequip
 #minecraft:allay_can_listen
 #minecraft:ignore_vibrations_sneaking
 #minecraft:shrieker_can_listen

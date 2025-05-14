@@ -6,5 +6,5 @@
     "mob/zoglin/step4",
     "mob/zoglin/step5"
   ],
-  "subtitle": "subtitles.entity.zoglin.step"
+  "subtitle": "subtitles.block.generic.footsteps"
 }

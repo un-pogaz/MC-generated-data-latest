@@ -6,5 +6,5 @@
     "mob/llama/step4",
     "mob/llama/step5"
   ],
-  "subtitle": "subtitles.entity.llama.step"
+  "subtitle": "subtitles.block.generic.footsteps"
 }

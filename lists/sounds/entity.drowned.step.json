@@ -6,5 +6,5 @@
     "mob/drowned/step4",
     "mob/drowned/step5"
   ],
-  "subtitle": "subtitles.entity.drowned.step"
+  "subtitle": "subtitles.block.generic.footsteps"
 }

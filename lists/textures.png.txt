@@ -1551,7 +1551,7 @@ minecraft:gui/sprites/container/blast_furnace/lit_progress
 minecraft:gui/sprites/container/brewing_stand/brew_progress
 minecraft:gui/sprites/container/brewing_stand/bubbles
 minecraft:gui/sprites/container/brewing_stand/fuel_length
-minecraft:gui/sprites/container/bundle/background
+minecraft:gui/sprites/container/bundle/background  [mcmeta]
 minecraft:gui/sprites/container/bundle/blocked_slot
 minecraft:gui/sprites/container/bundle/slot
 minecraft:gui/sprites/container/cartography_table/duplicated_map
@@ -1857,6 +1857,7 @@ minecraft:gui/sprites/widget/page_backward
 minecraft:gui/sprites/widget/page_backward_highlighted
 minecraft:gui/sprites/widget/page_forward
 minecraft:gui/sprites/widget/page_forward_highlighted
+minecraft:gui/sprites/widget/scroller  [mcmeta]
 minecraft:gui/sprites/widget/slider  [mcmeta]
 minecraft:gui/sprites/widget/slider_handle  [mcmeta]
 minecraft:gui/sprites/widget/slider_handle_highlighted  [mcmeta]
@@ -1866,6 +1867,8 @@ minecraft:gui/sprites/widget/tab  [mcmeta]
 minecraft:gui/sprites/widget/tab_highlighted  [mcmeta]
 minecraft:gui/sprites/widget/tab_selected  [mcmeta]
 minecraft:gui/sprites/widget/tab_selected_highlighted  [mcmeta]
+minecraft:gui/sprites/widget/text_field  [mcmeta]
+minecraft:gui/sprites/widget/text_field_highlighted  [mcmeta]
 minecraft:gui/sprites/widget/unlocked_button
 minecraft:gui/sprites/widget/unlocked_button_disabled
 minecraft:gui/sprites/widget/unlocked_button_highlighted
