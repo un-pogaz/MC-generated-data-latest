@@ -40,6 +40,7 @@ minecraft:purpur_slab
 minecraft:quartz_slab
 minecraft:red_nether_brick_slab
 minecraft:red_sandstone_slab
+minecraft:resin_brick_slab
 minecraft:sandstone_slab
 minecraft:smooth_quartz_slab
 minecraft:smooth_red_sandstone_slab

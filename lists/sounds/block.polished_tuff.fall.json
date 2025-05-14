@@ -24,5 +24,6 @@
       "name": "block/tuff/step6",
       "pitch": 1.2
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

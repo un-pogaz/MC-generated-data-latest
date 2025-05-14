@@ -6,5 +6,6 @@
     "block/chain/step4",
     "block/chain/step5",
     "block/chain/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

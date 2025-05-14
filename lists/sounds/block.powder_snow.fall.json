@@ -10,5 +10,6 @@
     "block/powder_snow/step8",
     "block/powder_snow/step9",
     "block/powder_snow/step10"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

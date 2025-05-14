@@ -6,5 +6,6 @@
     "block/big_dripleaf/step4",
     "block/big_dripleaf/step5",
     "block/big_dripleaf/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

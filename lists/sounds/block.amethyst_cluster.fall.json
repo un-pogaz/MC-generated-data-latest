@@ -13,5 +13,6 @@
     "block/amethyst/step11",
     "block/amethyst/step12",
     "block/amethyst/step14"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

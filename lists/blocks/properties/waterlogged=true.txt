@@ -269,6 +269,9 @@ minecraft:red_sandstone_slab
 minecraft:red_sandstone_stairs
 minecraft:red_sandstone_wall
 minecraft:red_stained_glass_pane
+minecraft:resin_brick_slab
+minecraft:resin_brick_stairs
+minecraft:resin_brick_wall
 minecraft:sandstone_slab
 minecraft:sandstone_stairs
 minecraft:sandstone_wall

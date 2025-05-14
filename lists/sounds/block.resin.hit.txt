@@ -1,0 +1,5 @@
+minecraft:block/resin/resin_hit1
+minecraft:block/resin/resin_hit2
+minecraft:block/resin/resin_hit3
+minecraft:block/resin/resin_hit4
+minecraft:block/resin/resin_hit5

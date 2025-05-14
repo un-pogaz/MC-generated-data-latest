@@ -4,5 +4,6 @@
     "step/cloth2",
     "step/cloth3",
     "step/cloth4"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

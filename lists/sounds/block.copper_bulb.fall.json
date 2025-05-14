@@ -6,5 +6,6 @@
     "block/copper_bulb/step4",
     "block/copper_bulb/step5",
     "block/copper_bulb/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

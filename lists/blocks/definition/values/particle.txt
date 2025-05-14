@@ -1,0 +1,2 @@
+minecraft:cherry_leaves  = {type: "minecraft:cherry_leaves"}
+minecraft:pale_oak_leaves  = {type: "minecraft:pale_oak_leaves"}

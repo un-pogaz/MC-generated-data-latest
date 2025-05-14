@@ -5,5 +5,6 @@
     "block/suspicious_sand/step3",
     "block/suspicious_sand/step4",
     "block/suspicious_sand/step5"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

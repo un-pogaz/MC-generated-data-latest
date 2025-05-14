@@ -4,5 +4,6 @@
     "block/nether_wood_hanging_sign/step2",
     "block/nether_wood_hanging_sign/step3",
     "block/nether_wood_hanging_sign/step4"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

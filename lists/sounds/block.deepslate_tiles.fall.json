@@ -20,5 +20,6 @@
       "name": "block/deepslate_bricks/step5",
       "pitch": 1.3
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

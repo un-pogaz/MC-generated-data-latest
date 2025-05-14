@@ -186,6 +186,7 @@ minecraft:block/chiseled_polished_blackstone
 minecraft:block/chiseled_quartz_block
 minecraft:block/chiseled_quartz_block_top
 minecraft:block/chiseled_red_sandstone
+minecraft:block/chiseled_resin_bricks
 minecraft:block/chiseled_sandstone
 minecraft:block/chiseled_stone_bricks
 minecraft:block/chiseled_tuff
@@ -196,6 +197,7 @@ minecraft:block/chorus_flower
 minecraft:block/chorus_flower_dead
 minecraft:block/chorus_plant
 minecraft:block/clay
+minecraft:block/closed_eyeblossom
 minecraft:block/coal_block
 minecraft:block/coal_ore
 minecraft:block/coarse_dirt
@@ -593,6 +595,8 @@ minecraft:block/observer_top
 minecraft:block/obsidian
 minecraft:block/ochre_froglight_side
 minecraft:block/ochre_froglight_top
+minecraft:block/open_eyeblossom
+minecraft:block/open_eyeblossom_emissive
 minecraft:block/orange_candle
 minecraft:block/orange_candle_lit
 minecraft:block/orange_concrete
@@ -764,6 +768,9 @@ minecraft:block/repeating_command_block_back  [mcmeta]
 minecraft:block/repeating_command_block_conditional  [mcmeta]
 minecraft:block/repeating_command_block_front  [mcmeta]
 minecraft:block/repeating_command_block_side  [mcmeta]
+minecraft:block/resin_block
+minecraft:block/resin_bricks
+minecraft:block/resin_clump
 minecraft:block/respawn_anchor_bottom
 minecraft:block/respawn_anchor_side0
 minecraft:block/respawn_anchor_side1
@@ -1653,8 +1660,8 @@ minecraft:gui/realms/snapshot_realms
 minecraft:gui/realms/survival_spawn
 minecraft:gui/realms/upload
 minecraft:gui/recipe_book
-minecraft:gui/sprites/advancements/box_obtained
-minecraft:gui/sprites/advancements/box_unobtained
+minecraft:gui/sprites/advancements/box_obtained  [mcmeta]
+minecraft:gui/sprites/advancements/box_unobtained  [mcmeta]
 minecraft:gui/sprites/advancements/challenge_frame_obtained
 minecraft:gui/sprites/advancements/challenge_frame_unobtained
 minecraft:gui/sprites/advancements/goal_frame_obtained
@@ -1778,22 +1785,43 @@ minecraft:gui/sprites/container/enchanting_table/level_3_disabled
 minecraft:gui/sprites/container/furnace/burn_progress
 minecraft:gui/sprites/container/furnace/lit_progress
 minecraft:gui/sprites/container/grindstone/error
-minecraft:gui/sprites/container/horse/armor_slot
 minecraft:gui/sprites/container/horse/chest_slots
-minecraft:gui/sprites/container/horse/llama_armor_slot
-minecraft:gui/sprites/container/horse/saddle_slot
 minecraft:gui/sprites/container/inventory/effect_background_large
 minecraft:gui/sprites/container/inventory/effect_background_small
-minecraft:gui/sprites/container/loom/banner_slot
-minecraft:gui/sprites/container/loom/dye_slot
 minecraft:gui/sprites/container/loom/error
 minecraft:gui/sprites/container/loom/pattern
 minecraft:gui/sprites/container/loom/pattern_highlighted
 minecraft:gui/sprites/container/loom/pattern_selected
-minecraft:gui/sprites/container/loom/pattern_slot
 minecraft:gui/sprites/container/loom/scroller
 minecraft:gui/sprites/container/loom/scroller_disabled
 minecraft:gui/sprites/container/slot
+minecraft:gui/sprites/container/slot/amethyst_shard
+minecraft:gui/sprites/container/slot/axe
+minecraft:gui/sprites/container/slot/banner
+minecraft:gui/sprites/container/slot/banner_pattern
+minecraft:gui/sprites/container/slot/boots
+minecraft:gui/sprites/container/slot/brewing_fuel
+minecraft:gui/sprites/container/slot/chestplate
+minecraft:gui/sprites/container/slot/diamond
+minecraft:gui/sprites/container/slot/dye
+minecraft:gui/sprites/container/slot/emerald
+minecraft:gui/sprites/container/slot/helmet
+minecraft:gui/sprites/container/slot/hoe
+minecraft:gui/sprites/container/slot/horse_armor
+minecraft:gui/sprites/container/slot/ingot
+minecraft:gui/sprites/container/slot/lapis_lazuli
+minecraft:gui/sprites/container/slot/leggings
+minecraft:gui/sprites/container/slot/llama_armor
+minecraft:gui/sprites/container/slot/pickaxe
+minecraft:gui/sprites/container/slot/potion
+minecraft:gui/sprites/container/slot/quartz
+minecraft:gui/sprites/container/slot/redstone_dust
+minecraft:gui/sprites/container/slot/saddle
+minecraft:gui/sprites/container/slot/shield
+minecraft:gui/sprites/container/slot/shovel
+minecraft:gui/sprites/container/slot/smithing_template_armor_trim
+minecraft:gui/sprites/container/slot/smithing_template_netherite_upgrade
+minecraft:gui/sprites/container/slot/sword
 minecraft:gui/sprites/container/slot_highlight_back  [mcmeta]
 minecraft:gui/sprites/container/slot_highlight_front  [mcmeta]
 minecraft:gui/sprites/container/smithing/error
@@ -2007,9 +2035,9 @@ minecraft:gui/sprites/toast/recipe
 minecraft:gui/sprites/toast/recipe_book
 minecraft:gui/sprites/toast/right_click
 minecraft:gui/sprites/toast/social_interactions
-minecraft:gui/sprites/toast/system
+minecraft:gui/sprites/toast/system  [mcmeta]
 minecraft:gui/sprites/toast/tree
-minecraft:gui/sprites/toast/tutorial
+minecraft:gui/sprites/toast/tutorial  [mcmeta]
 minecraft:gui/sprites/toast/wooden_planks
 minecraft:gui/sprites/tooltip/background  [mcmeta]
 minecraft:gui/sprites/tooltip/frame  [mcmeta]
@@ -2320,25 +2348,6 @@ minecraft:item/echo_shard
 minecraft:item/egg
 minecraft:item/elytra
 minecraft:item/emerald
-minecraft:item/empty_armor_slot_boots
-minecraft:item/empty_armor_slot_chestplate
-minecraft:item/empty_armor_slot_helmet
-minecraft:item/empty_armor_slot_leggings
-minecraft:item/empty_armor_slot_shield
-minecraft:item/empty_slot_amethyst_shard
-minecraft:item/empty_slot_axe
-minecraft:item/empty_slot_diamond
-minecraft:item/empty_slot_emerald
-minecraft:item/empty_slot_hoe
-minecraft:item/empty_slot_ingot
-minecraft:item/empty_slot_lapis_lazuli
-minecraft:item/empty_slot_pickaxe
-minecraft:item/empty_slot_quartz
-minecraft:item/empty_slot_redstone_dust
-minecraft:item/empty_slot_shovel
-minecraft:item/empty_slot_smithing_template_armor_trim
-minecraft:item/empty_slot_smithing_template_netherite_upgrade
-minecraft:item/empty_slot_sword
 minecraft:item/enchanted_book
 minecraft:item/end_crystal
 minecraft:item/ender_eye
@@ -2640,6 +2649,8 @@ minecraft:item/red_candle
 minecraft:item/red_dye
 minecraft:item/redstone
 minecraft:item/repeater
+minecraft:item/resin_brick
+minecraft:item/resin_clump
 minecraft:item/rib_armor_trim_smithing_template
 minecraft:item/rotten_flesh
 minecraft:item/saddle
@@ -2978,6 +2989,18 @@ minecraft:particle/lava
 minecraft:particle/nautilus
 minecraft:particle/note
 minecraft:particle/ominous_spawning
+minecraft:particle/pale_oak_0
+minecraft:particle/pale_oak_1
+minecraft:particle/pale_oak_10
+minecraft:particle/pale_oak_11
+minecraft:particle/pale_oak_2
+minecraft:particle/pale_oak_3
+minecraft:particle/pale_oak_4
+minecraft:particle/pale_oak_5
+minecraft:particle/pale_oak_6
+minecraft:particle/pale_oak_7
+minecraft:particle/pale_oak_8
+minecraft:particle/pale_oak_9
 minecraft:particle/raid_omen
 minecraft:particle/sculk_charge_0
 minecraft:particle/sculk_charge_1
@@ -3118,6 +3141,7 @@ minecraft:trims/color_palettes/netherite
 minecraft:trims/color_palettes/netherite_darker
 minecraft:trims/color_palettes/quartz
 minecraft:trims/color_palettes/redstone
+minecraft:trims/color_palettes/resin
 minecraft:trims/color_palettes/trim_palette
 minecraft:trims/entity/humanoid/bolt
 minecraft:trims/entity/humanoid/coast

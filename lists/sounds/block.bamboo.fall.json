@@ -6,5 +6,6 @@
     "block/bamboo/step4",
     "block/bamboo/step5",
     "block/bamboo/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

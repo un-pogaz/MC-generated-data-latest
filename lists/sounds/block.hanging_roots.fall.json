@@ -6,5 +6,6 @@
     "block/hanging_roots/step4",
     "block/hanging_roots/step5",
     "block/hanging_roots/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

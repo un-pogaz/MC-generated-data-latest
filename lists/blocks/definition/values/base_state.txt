@@ -40,6 +40,7 @@ minecraft:purpur_stairs  = minecraft:purpur_block
 minecraft:quartz_stairs  = minecraft:quartz_block
 minecraft:red_nether_brick_stairs  = minecraft:red_nether_bricks
 minecraft:red_sandstone_stairs  = minecraft:red_sandstone
+minecraft:resin_brick_stairs  = minecraft:resin_bricks
 minecraft:sandstone_stairs  = minecraft:sandstone
 minecraft:smooth_quartz_stairs  = minecraft:smooth_quartz
 minecraft:smooth_red_sandstone_stairs  = minecraft:smooth_red_sandstone

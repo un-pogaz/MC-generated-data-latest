@@ -5,5 +5,6 @@
     "block/honeyblock/step3",
     "block/honeyblock/step4",
     "block/honeyblock/step5"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

@@ -1,0 +1,5 @@
+minecraft:block/resin/resin_step1
+minecraft:block/resin/resin_step2
+minecraft:block/resin/resin_step3
+minecraft:block/resin/resin_step4
+minecraft:block/resin/resin_step5

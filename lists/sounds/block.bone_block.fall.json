@@ -5,5 +5,6 @@
     "block/bone_block/step3",
     "block/bone_block/step4",
     "block/bone_block/step5"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

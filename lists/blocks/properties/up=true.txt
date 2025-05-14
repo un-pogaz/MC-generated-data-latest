@@ -25,6 +25,8 @@ minecraft:prismarine_wall
 minecraft:red_mushroom_block
 minecraft:red_nether_brick_wall
 minecraft:red_sandstone_wall
+minecraft:resin_brick_wall
+minecraft:resin_clump
 minecraft:sandstone_wall
 minecraft:sculk_vein
 minecraft:stone_brick_wall

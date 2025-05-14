@@ -6,5 +6,6 @@
     "block/basalt/step4",
     "block/basalt/step5",
     "block/basalt/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

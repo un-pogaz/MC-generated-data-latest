@@ -1,1 +1,4 @@
-minecraft:mob/creaking/creaking_sway
+minecraft:mob/creaking/creaking_sway1
+minecraft:mob/creaking/creaking_sway2
+minecraft:mob/creaking/creaking_sway3
+minecraft:mob/creaking/creaking_sway4

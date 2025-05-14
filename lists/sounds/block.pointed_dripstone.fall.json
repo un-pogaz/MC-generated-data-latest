@@ -6,5 +6,6 @@
     "block/dripstone/step4",
     "block/dripstone/step5",
     "block/dripstone/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

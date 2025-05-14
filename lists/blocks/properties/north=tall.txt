@@ -20,6 +20,7 @@ minecraft:polished_tuff_wall
 minecraft:prismarine_wall
 minecraft:red_nether_brick_wall
 minecraft:red_sandstone_wall
+minecraft:resin_brick_wall
 minecraft:sandstone_wall
 minecraft:stone_brick_wall
 minecraft:tuff_brick_wall

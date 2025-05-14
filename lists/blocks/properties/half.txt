@@ -73,6 +73,7 @@ minecraft:purpur_stairs
 minecraft:quartz_stairs
 minecraft:red_nether_brick_stairs
 minecraft:red_sandstone_stairs
+minecraft:resin_brick_stairs
 minecraft:rose_bush
 minecraft:sandstone_stairs
 minecraft:small_dripleaf

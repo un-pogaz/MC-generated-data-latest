@@ -1,0 +1,5 @@
+minecraft:block/resin_bricks/resin_brick_step1
+minecraft:block/resin_bricks/resin_brick_step2
+minecraft:block/resin_bricks/resin_brick_step3
+minecraft:block/resin_bricks/resin_brick_step4
+minecraft:block/resin_bricks/resin_brick_step5

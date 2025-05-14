@@ -6,5 +6,6 @@
     "block/tuff_bricks/step4",
     "block/tuff_bricks/step5",
     "block/tuff_bricks/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

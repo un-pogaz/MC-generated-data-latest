@@ -6,5 +6,6 @@
     "block/sculk/step4",
     "block/sculk/step5",
     "block/sculk/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

@@ -3,4 +3,5 @@ minecraft:chorus_plant
 minecraft:glow_lichen
 minecraft:mushroom_stem
 minecraft:red_mushroom_block
+minecraft:resin_clump
 minecraft:sculk_vein

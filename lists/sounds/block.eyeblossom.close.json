@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/eyeblossom/eyeblossom_close1",
+    "block/eyeblossom/eyeblossom_close2",
+    "block/eyeblossom/eyeblossom_close3"
+  ],
+  "subtitle": "subtitles.block.eyeblossom.close"
+}

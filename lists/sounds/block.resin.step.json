@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/resin/resin_step1",
+    "block/resin/resin_step2",
+    "block/resin/resin_step3",
+    "block/resin/resin_step4",
+    "block/resin/resin_step5"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

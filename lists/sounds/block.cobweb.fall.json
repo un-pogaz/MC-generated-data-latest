@@ -6,5 +6,6 @@
     "block/cobweb/step4",
     "block/cobweb/step5",
     "block/cobweb/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

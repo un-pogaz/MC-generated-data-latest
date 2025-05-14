@@ -46,6 +46,7 @@ minecraft:flower_default
 minecraft:flower_flower_forest
 minecraft:flower_forest_flowers
 minecraft:flower_meadow
+minecraft:flower_pale_garden
 minecraft:flower_plain
 minecraft:flower_plains
 minecraft:flower_swamp
@@ -126,7 +127,9 @@ minecraft:ore_redstone
 minecraft:ore_redstone_lower
 minecraft:ore_soul_sand
 minecraft:ore_tuff
+minecraft:pale_garden_flowers
 minecraft:pale_garden_vegetation
+minecraft:pale_moss_patch
 minecraft:pale_oak_checked
 minecraft:pale_oak_creaking_checked
 minecraft:patch_berry_bush

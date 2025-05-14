@@ -24,5 +24,6 @@
       "name": "block/muddy_mangrove_roots/step6",
       "volume": 0.25
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

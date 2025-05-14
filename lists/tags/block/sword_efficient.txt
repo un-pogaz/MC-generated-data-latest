@@ -31,7 +31,6 @@ minecraft:sweet_berry_bush
 minecraft:cave_vines
 minecraft:cave_vines_plant
 minecraft:spore_blossom
-minecraft:moss_carpet
 minecraft:pink_petals
 minecraft:big_dripleaf
 minecraft:big_dripleaf_stem
@@ -48,4 +47,3 @@ minecraft:twisting_vines_plant
 minecraft:crimson_roots
 minecraft:chorus_plant
 minecraft:chorus_flower
-minecraft:pale_moss_carpet

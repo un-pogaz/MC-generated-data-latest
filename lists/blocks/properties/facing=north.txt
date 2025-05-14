@@ -225,6 +225,7 @@ minecraft:red_wall_banner
 minecraft:redstone_wall_torch
 minecraft:repeater
 minecraft:repeating_command_block
+minecraft:resin_brick_stairs
 minecraft:sandstone_stairs
 minecraft:shulker_box
 minecraft:skeleton_wall_skull

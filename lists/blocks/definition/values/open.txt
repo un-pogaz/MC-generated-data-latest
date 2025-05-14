@@ -1,0 +1,2 @@
+minecraft:closed_eyeblossom  = false
+minecraft:open_eyeblossom  = true

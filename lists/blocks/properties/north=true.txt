@@ -31,6 +31,7 @@ minecraft:pink_stained_glass_pane
 minecraft:purple_stained_glass_pane
 minecraft:red_mushroom_block
 minecraft:red_stained_glass_pane
+minecraft:resin_clump
 minecraft:sculk_vein
 minecraft:spruce_fence
 minecraft:tripwire

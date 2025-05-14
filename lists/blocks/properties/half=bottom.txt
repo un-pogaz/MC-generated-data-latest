@@ -54,6 +54,7 @@ minecraft:purpur_stairs
 minecraft:quartz_stairs
 minecraft:red_nether_brick_stairs
 minecraft:red_sandstone_stairs
+minecraft:resin_brick_stairs
 minecraft:sandstone_stairs
 minecraft:smooth_quartz_stairs
 minecraft:smooth_red_sandstone_stairs

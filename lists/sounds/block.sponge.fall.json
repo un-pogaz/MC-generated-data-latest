@@ -6,5 +6,6 @@
     "block/sponge/step4",
     "block/sponge/step5",
     "block/sponge/step6"
-  ]
+  ],
+  "subtitle": "subtitles.block.generic.fall"
 }

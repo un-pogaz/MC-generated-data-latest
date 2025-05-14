@@ -8,3 +8,4 @@ minecraft:lapis
 minecraft:netherite
 minecraft:quartz
 minecraft:redstone
+minecraft:resin
