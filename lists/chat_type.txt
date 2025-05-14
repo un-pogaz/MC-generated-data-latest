@@ -3,4 +3,5 @@ minecraft:emote_command
 minecraft:msg_command_incoming
 minecraft:msg_command_outgoing
 minecraft:say_command
-minecraft:team_msg_command
+minecraft:team_msg_command_incoming
+minecraft:team_msg_command_outgoing
