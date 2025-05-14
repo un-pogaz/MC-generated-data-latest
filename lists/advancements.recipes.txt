@@ -531,6 +531,7 @@ minecraft:recipes/decorations/bamboo_sign
 minecraft:recipes/decorations/barrel
 minecraft:recipes/decorations/beehive
 minecraft:recipes/decorations/birch_fence
+minecraft:recipes/decorations/birch_hanging_sign
 minecraft:recipes/decorations/birch_sign
 minecraft:recipes/decorations/black_banner
 minecraft:recipes/decorations/black_bed

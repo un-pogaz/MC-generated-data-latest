@@ -55,6 +55,7 @@ minecraft:birch_chest_boat
 minecraft:birch_door
 minecraft:birch_fence
 minecraft:birch_fence_gate
+minecraft:birch_hanging_sign
 minecraft:birch_planks
 minecraft:birch_pressure_plate
 minecraft:birch_sign

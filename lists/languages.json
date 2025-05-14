@@ -414,6 +414,11 @@
     "name": "Malti",
     "bidirectional": false
   },
+  "nah": {
+    "region": "Mēxiko",
+    "name": "Mēxikatlahtōlli",
+    "bidirectional": false
+  },
   "nds_de": {
     "region": "Düütschland",
     "name": "Plattdüütsch",
@@ -482,6 +487,11 @@
   "ru_ru": {
     "region": "Россия",
     "name": "Русский",
+    "bidirectional": false
+  },
+  "ry_ua": {
+    "region": "Пудкарпатя, Украина",
+    "name": "Руснацькый",
     "bidirectional": false
   },
   "se_no": {

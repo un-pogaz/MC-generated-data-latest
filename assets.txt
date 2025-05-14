@@ -86,6 +86,7 @@ minecraft/lang/mk_mk.json
 minecraft/lang/mn_mn.json
 minecraft/lang/ms_my.json
 minecraft/lang/mt_mt.json
+minecraft/lang/nah.json
 minecraft/lang/nds_de.json
 minecraft/lang/nl_be.json
 minecraft/lang/nl_nl.json
@@ -100,6 +101,7 @@ minecraft/lang/qya_aa.json
 minecraft/lang/ro_ro.json
 minecraft/lang/rpr.json
 minecraft/lang/ru_ru.json
+minecraft/lang/ry_ua.json
 minecraft/lang/se_no.json
 minecraft/lang/sk_sk.json
 minecraft/lang/sl_si.json
