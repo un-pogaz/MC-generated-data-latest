@@ -630,6 +630,7 @@ minecraft:redstone_from_blasting
 minecraft:redstone_from_smelting
 minecraft:redstone_lamp
 minecraft:redstone_torch
+minecraft:repair_item
 minecraft:repeater
 minecraft:sandstone
 minecraft:sandstone_slab
