@@ -345,7 +345,7 @@
       "minecraft:husbandry/make_a_sign_glow": {
         "icon": "minecraft:glow_ink_sac",
         "title": "Glow and Behold!",
-        "description": "Make the text of a Sign glow",
+        "description": "Make the text of any kind of sign glow",
         "frame": "task"
       },
       "minecraft:husbandry/plant_seed": {

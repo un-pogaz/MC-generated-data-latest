@@ -4,6 +4,8 @@ execute as <targets minecraft:entity[type="entities", amount="multiple"]> >>redi
 execute at <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
 execute facing entity <targets minecraft:entity[type="entities", amount="multiple"]> <anchor minecraft:entity_anchor> >>redirect{execute}
 execute facing <pos minecraft:vec3> >>redirect{execute}
+execute if biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]>
+execute if biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]> >>redirect{execute}
 execute if block <pos minecraft:block_pos> <block minecraft:block_predicate>
 execute if block <pos minecraft:block_pos> <block minecraft:block_predicate> >>redirect{execute}
 execute if blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> all
@@ -80,6 +82,8 @@ execute store success storage <target minecraft:resource_location> <path minecra
 execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
 execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
 execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute unless biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]>
+execute unless biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]> >>redirect{execute}
 execute unless block <pos minecraft:block_pos> <block minecraft:block_predicate>
 execute unless block <pos minecraft:block_pos> <block minecraft:block_predicate> >>redirect{execute}
 execute unless blocks <start minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> all

@@ -169,6 +169,7 @@ minecraft:orange_glazed_terracotta
 minecraft:orange_shulker_box
 minecraft:orange_wall_banner
 minecraft:oxidized_cut_copper_stairs
+minecraft:piglin_wall_head
 minecraft:pink_bed
 minecraft:pink_glazed_terracotta
 minecraft:pink_shulker_box
