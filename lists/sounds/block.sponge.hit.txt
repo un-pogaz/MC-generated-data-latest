@@ -1,0 +1,6 @@
+minecraft:block/sponge/step1
+minecraft:block/sponge/step2
+minecraft:block/sponge/step3
+minecraft:block/sponge/step4
+minecraft:block/sponge/step5
+minecraft:block/sponge/step6

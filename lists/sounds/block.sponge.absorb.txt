@@ -1,4 +1,3 @@
-minecraft:dig/stone1
-minecraft:dig/stone2
-minecraft:dig/stone3
-minecraft:dig/stone4
+minecraft:block/sponge/absorb1
+minecraft:block/sponge/absorb2
+minecraft:block/sponge/absorb3

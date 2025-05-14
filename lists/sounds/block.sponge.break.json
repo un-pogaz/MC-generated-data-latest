@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/sponge/break1",
+    "block/sponge/break2",
+    "block/sponge/break3",
+    "block/sponge/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/sponge/wet_sponge/step1",
+    "block/sponge/wet_sponge/step2",
+    "block/sponge/wet_sponge/step3",
+    "block/sponge/wet_sponge/step4"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}
