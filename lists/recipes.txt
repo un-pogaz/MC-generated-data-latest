@@ -173,6 +173,8 @@ minecraft:coal_from_blasting_deepslate_coal_ore
 minecraft:coal_from_smelting_coal_ore
 minecraft:coal_from_smelting_deepslate_coal_ore
 minecraft:coarse_dirt
+minecraft:coast_armor_trim_smithing_template
+minecraft:coast_armor_trim_smithing_template_smithing_trim
 minecraft:cobbled_deepslate_slab
 minecraft:cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting
 minecraft:cobbled_deepslate_stairs
@@ -358,6 +360,8 @@ minecraft:dried_kelp_from_smelting
 minecraft:dried_kelp_from_smoking
 minecraft:dripstone_block
 minecraft:dropper
+minecraft:dune_armor_trim_smithing_template
+minecraft:dune_armor_trim_smithing_template_smithing_trim
 minecraft:emerald
 minecraft:emerald_block
 minecraft:emerald_from_blasting_deepslate_emerald_ore
@@ -388,6 +392,8 @@ minecraft:exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting
 minecraft:exposed_cut_copper_stairs
 minecraft:exposed_cut_copper_stairs_from_exposed_copper_stonecutting
 minecraft:exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting
+minecraft:eye_armor_trim_smithing_template
+minecraft:eye_armor_trim_smithing_template_smithing_trim
 minecraft:fermented_spider_eye
 minecraft:fire_charge
 minecraft:firework_rocket
@@ -677,6 +683,7 @@ minecraft:netherite_scrap
 minecraft:netherite_scrap_from_blasting
 minecraft:netherite_shovel_smithing
 minecraft:netherite_sword_smithing
+minecraft:netherite_upgrade_smithing_template
 minecraft:note_block
 minecraft:oak_boat
 minecraft:oak_button
@@ -902,6 +909,8 @@ minecraft:redstone_torch
 minecraft:repair_item
 minecraft:repeater
 minecraft:respawn_anchor
+minecraft:rib_armor_trim_smithing_template
+minecraft:rib_armor_trim_smithing_template_smithing_trim
 minecraft:sandstone
 minecraft:sandstone_slab
 minecraft:sandstone_slab_from_sandstone_stonecutting
@@ -911,6 +920,8 @@ minecraft:sandstone_wall
 minecraft:sandstone_wall_from_sandstone_stonecutting
 minecraft:scaffolding
 minecraft:sea_lantern
+minecraft:sentry_armor_trim_smithing_template
+minecraft:sentry_armor_trim_smithing_template_smithing_trim
 minecraft:shears
 minecraft:shield
 minecraft:shield_decoration
@@ -940,12 +951,16 @@ minecraft:smooth_sandstone_stairs_from_smooth_sandstone_stonecutting
 minecraft:smooth_stone
 minecraft:smooth_stone_slab
 minecraft:smooth_stone_slab_from_smooth_stone_stonecutting
+minecraft:snout_armor_trim_smithing_template
+minecraft:snout_armor_trim_smithing_template_smithing_trim
 minecraft:snow
 minecraft:snow_block
 minecraft:soul_campfire
 minecraft:soul_lantern
 minecraft:soul_torch
 minecraft:spectral_arrow
+minecraft:spire_armor_trim_smithing_template
+minecraft:spire_armor_trim_smithing_template_smithing_trim
 minecraft:sponge
 minecraft:spruce_boat
 minecraft:spruce_button
@@ -1003,6 +1018,8 @@ minecraft:sugar_from_sugar_cane
 minecraft:suspicious_stew
 minecraft:target
 minecraft:terracotta
+minecraft:tide_armor_trim_smithing_template
+minecraft:tide_armor_trim_smithing_template_smithing_trim
 minecraft:tinted_glass
 minecraft:tipped_arrow
 minecraft:tnt
@@ -1011,6 +1028,10 @@ minecraft:torch
 minecraft:trapped_chest
 minecraft:tripwire_hook
 minecraft:turtle_helmet
+minecraft:vex_armor_trim_smithing_template
+minecraft:vex_armor_trim_smithing_template_smithing_trim
+minecraft:ward_armor_trim_smithing_template
+minecraft:ward_armor_trim_smithing_template_smithing_trim
 minecraft:warped_button
 minecraft:warped_door
 minecraft:warped_fence
@@ -1094,6 +1115,8 @@ minecraft:white_stained_glass_pane
 minecraft:white_stained_glass_pane_from_glass_pane
 minecraft:white_terracotta
 minecraft:white_wool_from_string
+minecraft:wild_armor_trim_smithing_template
+minecraft:wild_armor_trim_smithing_template_smithing_trim
 minecraft:wooden_axe
 minecraft:wooden_hoe
 minecraft:wooden_pickaxe

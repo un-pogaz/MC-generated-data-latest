@@ -24,3 +24,6 @@ minecraft:bone
 minecraft:gunpowder
 minecraft:rotten_flesh
 minecraft:string
+
+empty
+minecraft:vex_armor_trim_smithing_template

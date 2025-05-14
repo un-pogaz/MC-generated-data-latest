@@ -35,3 +35,9 @@ minecraft:gold_nugget
 minecraft:string
 minecraft:arrow
 minecraft:cooked_porkchop
+
+empty
+minecraft:snout_armor_trim_smithing_template
+
+empty
+minecraft:netherite_upgrade_smithing_template

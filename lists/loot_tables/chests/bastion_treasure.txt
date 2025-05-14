@@ -24,3 +24,8 @@ minecraft:crying_obsidian
 minecraft:quartz
 minecraft:gilded_blackstone
 minecraft:magma_cream
+
+empty
+minecraft:snout_armor_trim_smithing_template
+
+minecraft:netherite_upgrade_smithing_template

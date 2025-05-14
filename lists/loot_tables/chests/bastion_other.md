@@ -1,42 +1,50 @@
-| Name                            | Count  | Chance | Weight | Comment                  |
-| ------------------------------- | ------ | ------ | ------ | ------------------------ |
-| 1 time                          |     -- |     -- |     -- |                          |
-| minecraft:diamond_pickaxe       |      1 |   6.7% |   6/89 | enchantments: *          |
-| minecraft:diamond_shovel        |      1 |   6.7% |   6/89 |                          |
-| minecraft:crossbow              |      1 |   6.7% |   6/89 | enchantments: *          |
-| minecraft:ancient_debris        |      1 |  13.5% |  12/89 |                          |
-| minecraft:netherite_scrap       |      1 |   4.5% |   4/89 |                          |
-| minecraft:spectral_arrow        | 10..22 |  11.2% |  10/89 |                          |
-| minecraft:piglin_banner_pattern |      1 |  10.1% |   9/89 |                          |
-| minecraft:music_disc_pigstep    |      1 |   5.6% |   5/89 |                          |
-| minecraft:golden_carrot         |  6..17 |  13.5% |  12/89 |                          |
-| minecraft:golden_apple          |      1 |  10.1% |   9/89 |                          |
-| minecraft:enchanted_book        |      1 |  11.2% |  10/89 | enchantments: soul_speed |
-| – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – – – – –  |
-| 2 time                          |     -- |     -- |     -- |                          |
-| minecraft:iron_sword            |      1 |    10% |   2/20 | enchantments: *          |
-| minecraft:iron_block            |      1 |    10% |   2/20 |                          |
-| minecraft:golden_boots          |      1 |     5% |   1/20 | enchantments: soul_speed |
-| minecraft:golden_axe            |      1 |     5% |   1/20 | enchantments: *          |
-| minecraft:gold_block            |      1 |    10% |   2/20 |                          |
-| minecraft:crossbow              |      1 |     5% |   1/20 |                          |
-| minecraft:gold_ingot            |   1..6 |    10% |   2/20 |                          |
-| minecraft:iron_ingot            |   1..6 |    10% |   2/20 |                          |
-| minecraft:golden_sword          |      1 |     5% |   1/20 |                          |
-| minecraft:golden_chestplate     |      1 |     5% |   1/20 |                          |
-| minecraft:golden_helmet         |      1 |     5% |   1/20 |                          |
-| minecraft:golden_leggings       |      1 |     5% |   1/20 |                          |
-| minecraft:golden_boots          |      1 |     5% |   1/20 |                          |
-| minecraft:crying_obsidian       |   1..5 |    10% |   2/20 |                          |
-| – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – – – – –  |
-| 3 to 4 time                     |     -- |     -- |     -- |                          |
-| minecraft:gilded_blackstone     |   1..5 |  15.4% |   2/13 |                          |
-| minecraft:chain                 |  2..10 |   7.7% |   1/13 |                          |
-| minecraft:magma_cream           |   2..6 |  15.4% |   2/13 |                          |
-| minecraft:bone_block            |   3..6 |   7.7% |   1/13 |                          |
-| minecraft:iron_nugget           |   2..8 |   7.7% |   1/13 |                          |
-| minecraft:obsidian              |   4..6 |   7.7% |   1/13 |                          |
-| minecraft:gold_nugget           |   2..8 |   7.7% |   1/13 |                          |
-| minecraft:string                |   4..6 |   7.7% |   1/13 |                          |
-| minecraft:arrow                 |  5..17 |  15.4% |   2/13 |                          |
-| minecraft:cooked_porkchop       |      1 |   7.7% |   1/13 |                          |
+| Name                                          | Count  | Chance | Weight | Comment                  |
+| --------------------------------------------- | ------ | ------ | ------ | ------------------------ |
+| 1 time                                        |     -- |     -- |     -- |                          |
+| minecraft:diamond_pickaxe                     |      1 |   6.7% |   6/89 | enchantments: *          |
+| minecraft:diamond_shovel                      |      1 |   6.7% |   6/89 |                          |
+| minecraft:crossbow                            |      1 |   6.7% |   6/89 | enchantments: *          |
+| minecraft:ancient_debris                      |      1 |  13.5% |  12/89 |                          |
+| minecraft:netherite_scrap                     |      1 |   4.5% |   4/89 |                          |
+| minecraft:spectral_arrow                      | 10..22 |  11.2% |  10/89 |                          |
+| minecraft:piglin_banner_pattern               |      1 |  10.1% |   9/89 |                          |
+| minecraft:music_disc_pigstep                  |      1 |   5.6% |   5/89 |                          |
+| minecraft:golden_carrot                       |  6..17 |  13.5% |  12/89 |                          |
+| minecraft:golden_apple                        |      1 |  10.1% |   9/89 |                          |
+| minecraft:enchanted_book                      |      1 |  11.2% |  10/89 | enchantments: soul_speed |
+| – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – – – – –  |
+| 2 time                                        |     -- |     -- |     -- |                          |
+| minecraft:iron_sword                          |      1 |    10% |   2/20 | enchantments: *          |
+| minecraft:iron_block                          |      1 |    10% |   2/20 |                          |
+| minecraft:golden_boots                        |      1 |     5% |   1/20 | enchantments: soul_speed |
+| minecraft:golden_axe                          |      1 |     5% |   1/20 | enchantments: *          |
+| minecraft:gold_block                          |      1 |    10% |   2/20 |                          |
+| minecraft:crossbow                            |      1 |     5% |   1/20 |                          |
+| minecraft:gold_ingot                          |   1..6 |    10% |   2/20 |                          |
+| minecraft:iron_ingot                          |   1..6 |    10% |   2/20 |                          |
+| minecraft:golden_sword                        |      1 |     5% |   1/20 |                          |
+| minecraft:golden_chestplate                   |      1 |     5% |   1/20 |                          |
+| minecraft:golden_helmet                       |      1 |     5% |   1/20 |                          |
+| minecraft:golden_leggings                     |      1 |     5% |   1/20 |                          |
+| minecraft:golden_boots                        |      1 |     5% |   1/20 |                          |
+| minecraft:crying_obsidian                     |   1..5 |    10% |   2/20 |                          |
+| – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – – – – –  |
+| 3 to 4 time                                   |     -- |     -- |     -- |                          |
+| minecraft:gilded_blackstone                   |   1..5 |  15.4% |   2/13 |                          |
+| minecraft:chain                               |  2..10 |   7.7% |   1/13 |                          |
+| minecraft:magma_cream                         |   2..6 |  15.4% |   2/13 |                          |
+| minecraft:bone_block                          |   3..6 |   7.7% |   1/13 |                          |
+| minecraft:iron_nugget                         |   2..8 |   7.7% |   1/13 |                          |
+| minecraft:obsidian                            |   4..6 |   7.7% |   1/13 |                          |
+| minecraft:gold_nugget                         |   2..8 |   7.7% |   1/13 |                          |
+| minecraft:string                              |   4..6 |   7.7% |   1/13 |                          |
+| minecraft:arrow                               |  5..17 |  15.4% |   2/13 |                          |
+| minecraft:cooked_porkchop                     |      1 |   7.7% |   1/13 |                          |
+| – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – – – – –  |
+| 1 time                                        |     -- |     -- |     -- |                          |
+| empty                                         |        |  95.2% |  20/21 |                          |
+| minecraft:snout_armor_trim_smithing_template  |      1 |   4.8% |   1/21 |                          |
+| – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – – – – –  |
+| 1 time                                        |     -- |     -- |     -- |                          |
+| empty                                         |        |  96.8% |  30/31 |                          |
+| minecraft:netherite_upgrade_smithing_template |      1 |   3.2% |   1/31 |                          |

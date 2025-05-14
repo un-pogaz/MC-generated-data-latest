@@ -10,3 +10,6 @@ minecraft:iron_horse_armor
 minecraft:golden_horse_armor
 minecraft:diamond_horse_armor
 minecraft:enchanted_book
+
+empty
+minecraft:wild_armor_trim_smithing_template

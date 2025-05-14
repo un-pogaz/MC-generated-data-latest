@@ -15,3 +15,6 @@ minecraft:leather_helmet
 minecraft:leather_chestplate
 minecraft:leather_leggings
 minecraft:leather_boots
+
+empty
+minecraft:coast_armor_trim_smithing_template

@@ -1,3 +1,4 @@
+minecraft:armor_trims
 minecraft:banner_patterns
 minecraft:beds
 minecraft:blocks

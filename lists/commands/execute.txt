@@ -41,6 +41,7 @@ execute in <dimension minecraft:dimension> >>redirect{execute}
 execute on attacker >>redirect{execute}
 execute on controller >>redirect{execute}
 execute on leasher >>redirect{execute}
+execute on origin >>redirect{execute}
 execute on owner >>redirect{execute}
 execute on passengers >>redirect{execute}
 execute on target >>redirect{execute}
