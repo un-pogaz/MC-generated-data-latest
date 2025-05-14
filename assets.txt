@@ -2869,6 +2869,7 @@ minecraft/sounds/mob/warden/attack_impact_1.ogg
 minecraft/sounds/mob/warden/attack_impact_2.ogg
 minecraft/sounds/mob/warden/death_1.ogg
 minecraft/sounds/mob/warden/death_2.ogg
+minecraft/sounds/mob/warden/dig.ogg
 minecraft/sounds/mob/warden/emerge.ogg
 minecraft/sounds/mob/warden/heartbeat_1.ogg
 minecraft/sounds/mob/warden/heartbeat_2.ogg

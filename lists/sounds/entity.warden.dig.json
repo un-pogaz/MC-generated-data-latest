@@ -1,10 +1,6 @@
 {
   "sounds": [
-    {
-      "name": "entity.warden.emerge",
-      "type": "event",
-      "volume": 1
-    }
+    "mob/warden/dig"
   ],
   "subtitle": "subtitles.entity.warden.dig"
 }

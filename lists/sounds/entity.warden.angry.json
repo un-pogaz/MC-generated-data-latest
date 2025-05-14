@@ -1,29 +1,11 @@
 {
   "sounds": [
-    {
-      "name": "mob/warden/angry_1",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/angry_2",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/angry_3",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/angry_4",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/angry_5",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/angry_6",
-      "volume": 1
-    }
+    "mob/warden/angry_1",
+    "mob/warden/angry_2",
+    "mob/warden/angry_3",
+    "mob/warden/angry_4",
+    "mob/warden/angry_5",
+    "mob/warden/angry_6"
   ],
   "subtitle": "subtitles.entity.warden.angry"
 }

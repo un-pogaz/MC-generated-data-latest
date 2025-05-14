@@ -1,29 +1,11 @@
 {
   "sounds": [
-    {
-      "name": "mob/warden/tendril_clicks_1",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/tendril_clicks_2",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/tendril_clicks_3",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/tendril_clicks_4",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/tendril_clicks_5",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/tendril_clicks_6",
-      "volume": 1
-    }
+    "mob/warden/tendril_clicks_1",
+    "mob/warden/tendril_clicks_2",
+    "mob/warden/tendril_clicks_3",
+    "mob/warden/tendril_clicks_4",
+    "mob/warden/tendril_clicks_5",
+    "mob/warden/tendril_clicks_6"
   ],
   "subtitle": "subtitles.entity.warden.tendril_clicks"
 }

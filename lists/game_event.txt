@@ -42,5 +42,6 @@ minecraft:step
 minecraft:swim
 #minecraft:ignore_vibrations_on_occluding_block
 #minecraft:ignore_vibrations_sneaking
+#minecraft:shrieker_can_listen
 #minecraft:vibrations
-#minecraft:warden_events_can_listen
+#minecraft:warden_can_listen

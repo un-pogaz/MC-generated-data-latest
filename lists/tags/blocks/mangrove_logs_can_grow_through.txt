@@ -1,0 +1,6 @@
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mangrove_roots
+minecraft:mangrove_leaves
+minecraft:mangrove_log
+minecraft:mangrove_propagule

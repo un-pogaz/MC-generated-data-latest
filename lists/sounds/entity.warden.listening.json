@@ -1,25 +1,10 @@
 {
   "sounds": [
-    {
-      "name": "mob/warden/listening_1",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/listening_2",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/listening_3",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/listening_4",
-      "volume": 1
-    },
-    {
-      "name": "mob/warden/listening_5",
-      "volume": 1
-    }
+    "mob/warden/listening_1",
+    "mob/warden/listening_2",
+    "mob/warden/listening_3",
+    "mob/warden/listening_4",
+    "mob/warden/listening_5"
   ],
   "subtitle": "subtitles.entity.warden.listening"
 }

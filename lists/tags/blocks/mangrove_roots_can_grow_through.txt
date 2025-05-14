@@ -1,0 +1,3 @@
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mangrove_roots

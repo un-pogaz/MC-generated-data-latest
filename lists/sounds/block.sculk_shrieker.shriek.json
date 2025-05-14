@@ -20,5 +20,6 @@
       "name": "block/sculk_shrieker/shriek5",
       "volume": 0.85
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.sculk_shrieker.shriek"
 }

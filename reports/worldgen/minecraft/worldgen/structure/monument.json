@@ -1,11 +1,11 @@
 {
   "biomes": "#minecraft:has_structure/ocean_monument",
   "spawn_overrides": {
-    "underground_water_creature": {
+    "axolotls": {
       "bounding_box": "full",
       "spawns": []
     },
-    "axolotls": {
+    "underground_water_creature": {
       "bounding_box": "full",
       "spawns": []
     },

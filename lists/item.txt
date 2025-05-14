@@ -348,6 +348,7 @@ minecraft:dried_kelp_block
 minecraft:dripstone_block
 minecraft:dropper
 minecraft:drowned_spawn_egg
+minecraft:echo_shard
 minecraft:egg
 minecraft:elder_guardian_spawn_egg
 minecraft:elytra
@@ -860,6 +861,7 @@ minecraft:raw_gold
 minecraft:raw_gold_block
 minecraft:raw_iron
 minecraft:raw_iron_block
+minecraft:recovery_compass
 minecraft:red_banner
 minecraft:red_bed
 minecraft:red_candle
@@ -1160,6 +1162,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:cluster_max_harvestables
 #minecraft:coal_ores
 #minecraft:coals
+#minecraft:compasses
 #minecraft:copper_ores
 #minecraft:creeper_drop_music_discs
 #minecraft:crimson_stems

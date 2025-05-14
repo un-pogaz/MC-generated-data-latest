@@ -1151,7 +1151,6 @@ minecraft:entity.stray.ambient
 minecraft:entity.tropical_fish.flop
 minecraft:entity.vex.ambient
 minecraft:entity.vindicator.ambient
-minecraft:entity.warden.emerge
 minecraft:entity.warden.tendril_clicks
 minecraft:entity.witch.ambient
 minecraft:entity.witch.throw
@@ -2761,6 +2760,7 @@ minecraft:mob/warden/attack_impact_1
 minecraft:mob/warden/attack_impact_2
 minecraft:mob/warden/death_1
 minecraft:mob/warden/death_2
+minecraft:mob/warden/dig
 minecraft:mob/warden/emerge
 minecraft:mob/warden/heartbeat_1
 minecraft:mob/warden/heartbeat_2
