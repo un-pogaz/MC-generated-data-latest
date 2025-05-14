@@ -211,6 +211,10 @@ minecraft:block.portal.travel
 minecraft:block.portal.trigger
 minecraft:block.pumpkin.carve
 minecraft:block.redstone_torch.burnout
+minecraft:block.respawn_anchor.ambient
+minecraft:block.respawn_anchor.charge
+minecraft:block.respawn_anchor.deplete
+minecraft:block.respawn_anchor.set_spawn
 minecraft:block.roots.break
 minecraft:block.roots.fall
 minecraft:block.roots.hit

@@ -13,6 +13,7 @@ minecraft:jungle_log
 minecraft:jungle_wood
 minecraft:oak_log
 minecraft:oak_wood
+minecraft:polished_basalt
 minecraft:purpur_pillar
 minecraft:quartz_pillar
 minecraft:spruce_log

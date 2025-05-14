@@ -100,7 +100,7 @@
       "minecraft:adventure/sleep_in_bed": {
         "icon": "minecraft:red_bed",
         "title": "Sweet Dreams",
-        "description": "Change your respawn point",
+        "description": "Sleep in a bed to change your respawn point",
         "frame": "task",
         "childs": {
           "minecraft:adventure/adventuring_time": {

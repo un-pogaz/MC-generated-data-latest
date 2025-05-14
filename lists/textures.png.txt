@@ -457,6 +457,8 @@ minecraft:block/piston_top_sticky
 minecraft:block/podzol_side
 minecraft:block/podzol_top
 minecraft:block/polished_andesite
+minecraft:block/polished_basalt_side
+minecraft:block/polished_basalt_top
 minecraft:block/polished_diorite
 minecraft:block/polished_granite
 minecraft:block/poppy
@@ -521,6 +523,14 @@ minecraft:block/repeating_command_block_back  [mcmeta]
 minecraft:block/repeating_command_block_conditional  [mcmeta]
 minecraft:block/repeating_command_block_front  [mcmeta]
 minecraft:block/repeating_command_block_side  [mcmeta]
+minecraft:block/respawn_anchor_bottom
+minecraft:block/respawn_anchor_side0
+minecraft:block/respawn_anchor_side1
+minecraft:block/respawn_anchor_side2
+minecraft:block/respawn_anchor_side3
+minecraft:block/respawn_anchor_side4
+minecraft:block/respawn_anchor_top  [mcmeta]
+minecraft:block/respawn_anchor_top_off
 minecraft:block/rose_bush_bottom
 minecraft:block/rose_bush_top
 minecraft:block/sand

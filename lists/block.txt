@@ -480,6 +480,7 @@ minecraft:podzol
 minecraft:polished_andesite
 minecraft:polished_andesite_slab
 minecraft:polished_andesite_stairs
+minecraft:polished_basalt
 minecraft:polished_diorite
 minecraft:polished_diorite_slab
 minecraft:polished_diorite_stairs
@@ -580,6 +581,7 @@ minecraft:redstone_wall_torch
 minecraft:redstone_wire
 minecraft:repeater
 minecraft:repeating_command_block
+minecraft:respawn_anchor
 minecraft:rose_bush
 minecraft:sand
 minecraft:sandstone
@@ -780,6 +782,7 @@ minecraft:zombie_wall_head
 #minecraft:signs
 #minecraft:slabs
 #minecraft:small_flowers
+#minecraft:soul_fire_base_blocks
 #minecraft:soul_speed_blocks
 #minecraft:spruce_logs
 #minecraft:stairs
