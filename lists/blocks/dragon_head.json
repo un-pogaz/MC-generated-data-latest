@@ -1,5 +1,9 @@
 {
   "properties": {
+    "powered": [
+      "true",
+      "false"
+    ],
     "rotation": [
       "0",
       "1",

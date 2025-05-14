@@ -1,4 +1,8 @@
-facing=north  [default]
-facing=south
-facing=west
-facing=east
+facing=north,powered=true
+facing=north,powered=false  [default]
+facing=south,powered=true
+facing=south,powered=false
+facing=west,powered=true
+facing=west,powered=false
+facing=east,powered=true
+facing=east,powered=false
