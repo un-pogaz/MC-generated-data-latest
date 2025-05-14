@@ -3805,6 +3805,7 @@ minecraft:tile/piston/out
 minecraft:ui/cartography_table/drawmap1
 minecraft:ui/cartography_table/drawmap2
 minecraft:ui/cartography_table/drawmap3
+minecraft:ui/hud/hud_bubble
 minecraft:ui/loom/select_pattern1
 minecraft:ui/loom/select_pattern2
 minecraft:ui/loom/select_pattern3

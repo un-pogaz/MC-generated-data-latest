@@ -8,6 +8,8 @@ gamerule commandModificationBlockLimit
 gamerule commandModificationBlockLimit <value brigadier:integer>
 gamerule disableElytraMovementCheck
 gamerule disableElytraMovementCheck <value brigadier:bool>
+gamerule disablePlayerMovementCheck
+gamerule disablePlayerMovementCheck <value brigadier:bool>
 gamerule disableRaids
 gamerule disableRaids <value brigadier:bool>
 gamerule doDaylightCycle

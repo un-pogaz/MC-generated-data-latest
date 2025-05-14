@@ -44,6 +44,7 @@ minecraft:point_of_interest_type
 minecraft:pos_rule_test
 minecraft:position_source_type
 minecraft:potion
+minecraft:recipe_book_category
 minecraft:recipe_display
 minecraft:recipe_serializer
 minecraft:recipe_type

@@ -1,4 +1,4 @@
-bottom=true,east=none,north=none,south=none,west=none
+bottom=true,east=none,north=none,south=none,west=none  [default]
 bottom=true,east=none,north=none,south=none,west=low
 bottom=true,east=none,north=none,south=none,west=tall
 bottom=true,east=none,north=none,south=low,west=none
@@ -79,7 +79,7 @@ bottom=true,east=tall,north=tall,south=low,west=tall
 bottom=true,east=tall,north=tall,south=tall,west=none
 bottom=true,east=tall,north=tall,south=tall,west=low
 bottom=true,east=tall,north=tall,south=tall,west=tall
-bottom=false,east=none,north=none,south=none,west=none  [default]
+bottom=false,east=none,north=none,south=none,west=none
 bottom=false,east=none,north=none,south=none,west=low
 bottom=false,east=none,north=none,south=none,west=tall
 bottom=false,east=none,north=none,south=low,west=none

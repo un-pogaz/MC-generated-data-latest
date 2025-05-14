@@ -1816,6 +1816,7 @@ minecraft:gui/sprites/gamemode_switcher/selection
 minecraft:gui/sprites/gamemode_switcher/slot
 minecraft:gui/sprites/hud/air
 minecraft:gui/sprites/hud/air_bursting
+minecraft:gui/sprites/hud/air_empty
 minecraft:gui/sprites/hud/armor_empty
 minecraft:gui/sprites/hud/armor_full
 minecraft:gui/sprites/hud/armor_half

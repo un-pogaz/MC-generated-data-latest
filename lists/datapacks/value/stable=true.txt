@@ -50,6 +50,7 @@ minecraft:position_source_type
 minecraft:potion
 minecraft:predicate
 minecraft:recipe
+minecraft:recipe_book_category
 minecraft:recipe_display
 minecraft:recipe_serializer
 minecraft:recipe_type
