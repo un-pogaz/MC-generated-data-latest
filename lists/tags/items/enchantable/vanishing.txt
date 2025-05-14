@@ -1,0 +1,4 @@
+#minecraft:enchantable/durability
+minecraft:compass
+minecraft:carved_pumpkin
+#minecraft:skulls

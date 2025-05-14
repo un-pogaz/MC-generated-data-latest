@@ -3335,10 +3335,6 @@ minecraft:mob/wither_skeleton/step1
 minecraft:mob/wither_skeleton/step2
 minecraft:mob/wither_skeleton/step3
 minecraft:mob/wither_skeleton/step4
-minecraft:mob/wolf/armor_equip1
-minecraft:mob/wolf/armor_equip2
-minecraft:mob/wolf/armor_unequip1
-minecraft:mob/wolf/armor_unequip2
 minecraft:mob/wolf/bark1
 minecraft:mob/wolf/bark2
 minecraft:mob/wolf/bark3

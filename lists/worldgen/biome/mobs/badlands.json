@@ -7,6 +7,14 @@
       "weight": 10
     }
   ],
+  "creature": [
+    {
+      "maxCount": 2,
+      "minCount": 1,
+      "type": "minecraft:armadillo",
+      "weight": 1
+    }
+  ],
   "monster": [
     {
       "maxCount": 4,

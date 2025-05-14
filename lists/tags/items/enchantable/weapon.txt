@@ -1,0 +1,2 @@
+#minecraft:swords
+#minecraft:axes

@@ -1,2 +1,0 @@
-minecraft:mob/wolf/armor_unequip1
-minecraft:mob/wolf/armor_unequip2
