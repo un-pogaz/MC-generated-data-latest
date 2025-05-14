@@ -6281,7 +6281,7 @@
     },
     {
       nbt: {
-        Items: [L; ],
+        Items: [],
         id: "minecraft:chest",
         Lock: ""
       },
@@ -6507,5 +6507,5 @@
       Name: "minecraft:ender_chest"
     }
   ],
-  DataVersion: 2569
+  DataVersion: 2570
 }

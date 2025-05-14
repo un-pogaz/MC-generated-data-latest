@@ -916,7 +916,7 @@
       nbt: {
         CookTime: 0s,
         BurnTime: 0s,
-        Items: [L; ],
+        Items: [],
         id: "minecraft:smoker",
         CookTimeTotal: 0s,
         RecipesUsed: {}
@@ -1134,5 +1134,5 @@
       Name: "minecraft:smoker"
     }
   ],
-  DataVersion: 2569
+  DataVersion: 2570
 }

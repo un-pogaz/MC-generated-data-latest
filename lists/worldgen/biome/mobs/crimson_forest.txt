@@ -1,0 +1,4 @@
+minecraft:hoglin
+minecraft:piglin
+minecraft:strider
+minecraft:zombified_piglin

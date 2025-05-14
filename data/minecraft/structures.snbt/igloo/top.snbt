@@ -602,7 +602,7 @@
       nbt: {
         CookTime: 0s,
         BurnTime: 0s,
-        Items: [L; ],
+        Items: [],
         id: "minecraft:furnace",
         CookTimeTotal: 0s,
         Lock: ""
@@ -684,5 +684,5 @@
       Name: "minecraft:red_bed"
     }
   ],
-  DataVersion: 2569
+  DataVersion: 2570
 }

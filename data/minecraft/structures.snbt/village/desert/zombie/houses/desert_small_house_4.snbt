@@ -510,7 +510,7 @@
     {
       nbt: {
         LootTable: "minecraft:chests/village/village_desert_house",
-        Items: [L; ],
+        Items: [],
         id: "minecraft:chest",
         Lock: "",
         LootTableSeed: 0L
@@ -652,5 +652,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2569
+  DataVersion: 2570
 }

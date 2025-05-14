@@ -36156,7 +36156,7 @@
     },
     {
       nbt: {
-        Items: [L; ],
+        Items: [],
         id: "minecraft:chest",
         Lock: ""
       },
@@ -36190,7 +36190,7 @@
     },
     {
       nbt: {
-        Items: [L; ],
+        Items: [],
         id: "minecraft:chest",
         Lock: ""
       },
@@ -36639,5 +36639,5 @@
       Name: "minecraft:dragon_wall_head"
     }
   ],
-  DataVersion: 2569
+  DataVersion: 2570
 }

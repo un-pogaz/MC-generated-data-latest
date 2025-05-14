@@ -1,0 +1,3 @@
+minecraft:ghast
+minecraft:magma_cube
+minecraft:strider

@@ -1,0 +1,9 @@
+[]
+
+[]
+
+[]
+
+[]
+
+minecraft:end_spike
