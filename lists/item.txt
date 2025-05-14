@@ -1001,6 +1001,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:music_discs
 #minecraft:non_flammable_wood
 #minecraft:oak_logs
+#minecraft:piglin_loved
 #minecraft:piglin_repellents
 #minecraft:planks
 #minecraft:rails

@@ -1351,6 +1351,7 @@ minecraft:gui/container/creative_inventory/tabs
 minecraft:gui/container/dispenser
 minecraft:gui/container/enchanting_table
 minecraft:gui/container/furnace
+minecraft:gui/container/gamemode_switcher
 minecraft:gui/container/generic_54
 minecraft:gui/container/grindstone
 minecraft:gui/container/hopper

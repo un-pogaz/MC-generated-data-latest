@@ -7,7 +7,6 @@ minecraft:block_entity_type
 minecraft:block_placer_type
 minecraft:block_state_provider_type
 minecraft:carver
-minecraft:chunk_generator_type
 minecraft:chunk_status
 minecraft:custom_stat
 minecraft:decorator

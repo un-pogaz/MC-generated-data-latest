@@ -34,8 +34,9 @@
               "minecraft:adventure/bullseye": {
                 "icon": "minecraft:target",
                 "title": "Bullseye",
-                "description": "Hit the bullseye of a Target block with an arrow",
-                "frame": "task"
+                "description": "Hit the bullseye of a Target block from at least 30 meters away",
+                "frame": "challenge",
+                "rewards": "50 xp"
               },
               "minecraft:adventure/sniper_duel": {
                 "icon": "minecraft:arrow",
@@ -259,9 +260,9 @@
             "rewards": "100 xp"
           },
           "minecraft:husbandry/break_diamond_hoe": {
-            "icon": "minecraft:diamond_hoe",
+            "icon": "minecraft:netherite_hoe",
             "title": "Serious Dedication",
-            "description": "Completely use up a diamond hoe, and then reevaluate your life choices",
+            "description": "Use a Netherite ingot to upgrade a hoe, and then reevaluate your life choices",
             "frame": "challenge",
             "rewards": "100 xp"
           }
@@ -303,12 +304,32 @@
     "background": "minecraft:gui/advancements/backgrounds/nether",
     "frame": "task",
     "childs": {
+      "minecraft:nether/distract_piglin": {
+        "icon": "minecraft:gold_ingot",
+        "title": "Oh Shiny",
+        "description": "Distract Piglins with gold",
+        "frame": "task"
+      },
       "minecraft:nether/fast_travel": {
         "icon": "minecraft:map",
         "title": "Subspace Bubble",
         "description": "Use the Nether to travel 7 km in the Overworld",
         "frame": "challenge",
         "rewards": "100 xp"
+      },
+      "minecraft:nether/find_bastion": {
+        "icon": "minecraft:polished_blackstone_bricks",
+        "title": "Those Were the Days",
+        "description": "Enter a Bastion Remnant",
+        "frame": "task",
+        "childs": {
+          "minecraft:nether/loot_bastion": {
+            "icon": "minecraft:chest",
+            "title": "War Pigs",
+            "description": "Loot a chest in a Bastion Remnant",
+            "frame": "task"
+          }
+        }
       },
       "minecraft:nether/find_fortress": {
         "icon": "minecraft:nether_bricks",
@@ -381,6 +402,40 @@
           }
         }
       },
+      "minecraft:nether/obtain_ancient_debris": {
+        "icon": "minecraft:ancient_debris",
+        "title": "Hidden in the Depths",
+        "description": "Obtain Ancient Debris",
+        "frame": "task",
+        "childs": {
+          "minecraft:nether/netherite_armor": {
+            "icon": "minecraft:netherite_chestplate",
+            "title": "Cover Me in Debris",
+            "description": "Get a full suit of Netherite armor",
+            "frame": "challenge"
+          },
+          "minecraft:nether/use_lodestone": {
+            "icon": "minecraft:lodestone",
+            "title": "Country Lode, Take Me Home",
+            "description": "Use a Compass on a Lodestone",
+            "frame": "task"
+          }
+        }
+      },
+      "minecraft:nether/obtain_crying_obsidian": {
+        "icon": "minecraft:crying_obsidian",
+        "title": "Who Is Cutting Onions?",
+        "description": "Obtain Crying Obsidian",
+        "frame": "task",
+        "childs": {
+          "minecraft:nether/charge_respawn_anchor": {
+            "icon": "minecraft:respawn_anchor",
+            "title": "Not Quite \"Nine\" Lives",
+            "description": "Charge a Respawn Anchor to the maximum",
+            "frame": "task"
+          }
+        }
+      },
       "minecraft:nether/return_to_sender": {
         "icon": "minecraft:fire_charge",
         "title": "Return to Sender",
@@ -394,6 +449,20 @@
             "description": "Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it",
             "frame": "challenge",
             "rewards": "100 xp"
+          }
+        }
+      },
+      "minecraft:nether/ride_strider": {
+        "icon": "minecraft:warped_fungus_on_a_stick",
+        "title": "This Boat Has Legs",
+        "description": "Ride a Strider with a Warped Fungus on a Stick",
+        "frame": "task",
+        "childs": {
+          "minecraft:nether/explore_nether": {
+            "icon": "minecraft:netherite_boots",
+            "title": "Hot Tourist Destinations",
+            "description": "Explore all Nether biomes",
+            "frame": "challenge"
           }
         }
       }
@@ -461,7 +530,7 @@
                       "minecraft:story/form_obsidian": {
                         "icon": "minecraft:obsidian",
                         "title": "Ice Bucket Challenge",
-                        "description": "Form and mine a block of obsidian",
+                        "description": "Obtain a block of obsidian",
                         "frame": "task",
                         "childs": {
                           "minecraft:story/enter_the_nether": {
@@ -505,7 +574,7 @@
                       "minecraft:story/deflect_arrow": {
                         "icon": "minecraft:shield",
                         "title": "Not Today, Thank You",
-                        "description": "Deflect an arrow or trident with a shield",
+                        "description": "Deflect a projectile with a shield",
                         "frame": "task"
                       }
                     }

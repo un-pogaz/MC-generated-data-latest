@@ -7,19 +7,7 @@
       state: 0
     },
     {
-      pos: [1, 0, 0],
-      state: 0
-    },
-    {
       pos: [0, 0, 1],
-      state: 0
-    },
-    {
-      pos: [1, 0, 1],
-      state: 0
-    },
-    {
-      pos: [2, 0, 1],
       state: 0
     },
     {
@@ -27,8 +15,44 @@
       state: 0
     },
     {
+      pos: [1, 0, 0],
+      state: 0
+    },
+    {
+      pos: [1, 0, 1],
+      state: 0
+    },
+    {
       pos: [1, 0, 2],
       state: 0
+    },
+    {
+      pos: [2, 0, 1],
+      state: 0
+    },
+    {
+      pos: [2, 0, 0],
+      state: 1
+    },
+    {
+      pos: [0, 1, 2],
+      state: 1
+    },
+    {
+      pos: [1, 1, 1],
+      state: 1
+    },
+    {
+      pos: [1, 1, 2],
+      state: 1
+    },
+    {
+      pos: [2, 1, 1],
+      state: 1
+    },
+    {
+      pos: [2, 1, 2],
+      state: 1
     },
     {
       nbt: {
@@ -39,10 +63,6 @@
         target: "minecraft:bottom"
       },
       pos: [2, 0, 2],
-      state: 1
-    },
-    {
-      pos: [2, 0, 0],
       state: 2
     },
     {
@@ -55,31 +75,14 @@
       },
       pos: [0, 1, 1],
       state: 3
-    },
-    {
-      pos: [1, 1, 1],
-      state: 2
-    },
-    {
-      pos: [2, 1, 1],
-      state: 2
-    },
-    {
-      pos: [0, 1, 2],
-      state: 2
-    },
-    {
-      pos: [1, 1, 2],
-      state: 2
-    },
-    {
-      pos: [2, 1, 2],
-      state: 2
     }
   ],
   palette: [
     {
       Name: "minecraft:smooth_sandstone"
+    },
+    {
+      Name: "minecraft:air"
     },
     {
       Properties: {
@@ -88,14 +91,11 @@
       Name: "minecraft:jigsaw"
     },
     {
-      Name: "minecraft:air"
-    },
-    {
       Properties: {
         orientation: "west_up"
       },
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2534
+  DataVersion: 2536
 }
