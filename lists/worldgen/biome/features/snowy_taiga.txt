@@ -42,8 +42,11 @@ minecraft:disk_gravel
 
 []
 
-minecraft:patch_large_fern
+minecraft:spring_water
+minecraft:spring_lava
+
 minecraft:glow_lichen
+minecraft:patch_large_fern
 minecraft:taiga_vegetation
 minecraft:flower_default
 minecraft:patch_grass_taiga_2
@@ -53,8 +56,6 @@ minecraft:brown_mushroom_normal
 minecraft:red_mushroom_normal
 minecraft:patch_sugar_cane
 minecraft:patch_pumpkin
-minecraft:spring_water
-minecraft:spring_lava
 minecraft:patch_berry_rare
 
 minecraft:freeze_top_layer

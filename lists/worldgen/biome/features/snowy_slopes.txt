@@ -43,10 +43,11 @@ minecraft:ore_emerald
 
 minecraft:ore_infested
 
+minecraft:spring_water
+minecraft:spring_lava
+
 minecraft:glow_lichen
 minecraft:patch_sugar_cane
 minecraft:patch_pumpkin
-minecraft:spring_water
-minecraft:spring_lava
 
 minecraft:freeze_top_layer

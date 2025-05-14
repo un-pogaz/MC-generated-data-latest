@@ -30,4 +30,6 @@ minecraft:ore_quartz_deltas
 minecraft:ore_debris_large
 minecraft:ore_debris_small
 
+[]
+
 minecraft:spring_lava_double

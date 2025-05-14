@@ -42,8 +42,11 @@ minecraft:disk_gravel
 
 []
 
-minecraft:forest_flower_vegetation
+minecraft:spring_water
+minecraft:spring_lava
+
 minecraft:glow_lichen
+minecraft:forest_flower_vegetation
 minecraft:birch_other
 minecraft:flower_default
 minecraft:patch_grass_forest
@@ -51,7 +54,5 @@ minecraft:brown_mushroom_normal
 minecraft:red_mushroom_normal
 minecraft:patch_sugar_cane
 minecraft:patch_pumpkin
-minecraft:spring_water
-minecraft:spring_lava
 
 minecraft:freeze_top_layer

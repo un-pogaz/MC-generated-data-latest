@@ -43,6 +43,9 @@ minecraft:ore_emerald
 
 minecraft:ore_infested
 
-minecraft:glow_lichen
 minecraft:spring_water
 minecraft:spring_lava
+
+minecraft:glow_lichen
+
+minecraft:freeze_top_layer

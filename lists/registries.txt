@@ -45,10 +45,11 @@ minecraft:worldgen/decorator
 minecraft:worldgen/feature
 minecraft:worldgen/feature_size_type
 minecraft:worldgen/foliage_placer_type
+minecraft:worldgen/material_condition
+minecraft:worldgen/material_rule
 minecraft:worldgen/structure_feature
 minecraft:worldgen/structure_piece
 minecraft:worldgen/structure_pool_element
 minecraft:worldgen/structure_processor
-minecraft:worldgen/surface_builder
 minecraft:worldgen/tree_decorator_type
 minecraft:worldgen/trunk_placer_type
