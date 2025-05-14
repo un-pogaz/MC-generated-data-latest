@@ -26,7 +26,7 @@
             Name: "generic.armor_toughness"
           },
           {
-            Base: 16.0d,
+            Base: 48.0d,
             Modifiers: [
               {
                 Amount: -0.07807250298271795d,
@@ -1372,5 +1372,5 @@
       Name: "minecraft:wall_torch"
     }
   ],
-  DataVersion: 2532
+  DataVersion: 2534
 }
