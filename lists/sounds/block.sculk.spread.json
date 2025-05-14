@@ -20,5 +20,6 @@
       "name": "block/sculk/spread5",
       "pitch": 0.9
     }
-  ]
+  ],
+  "subtitle": "subtitles.block.sculk.spread"
 }
