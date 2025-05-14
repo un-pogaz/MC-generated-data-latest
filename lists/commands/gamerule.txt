@@ -60,6 +60,8 @@ gamerule keepInventory
 gamerule keepInventory <value brigadier:bool>
 gamerule lavaSourceConversion
 gamerule lavaSourceConversion <value brigadier:bool>
+gamerule locatorBar
+gamerule locatorBar <value brigadier:bool>
 gamerule logAdminCommands
 gamerule logAdminCommands <value brigadier:bool>
 gamerule maxCommandChainLength
@@ -106,7 +108,5 @@ gamerule tntExplosionDropDecay
 gamerule tntExplosionDropDecay <value brigadier:bool>
 gamerule universalAnger
 gamerule universalAnger <value brigadier:bool>
-gamerule useLocatorBar
-gamerule useLocatorBar <value brigadier:bool>
 gamerule waterSourceConversion
 gamerule waterSourceConversion <value brigadier:bool>
