@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/amethyst_cluster/place1",
+      "pitch": 1.1,
+      "volume": 0.5
+    },
+    {
+      "name": "block/amethyst_cluster/place2",
+      "pitch": 1.1,
+      "volume": 0.5
+    },
+    {
+      "name": "block/amethyst_cluster/place3",
+      "pitch": 1.1,
+      "volume": 0.5
+    },
+    {
+      "name": "block/amethyst_cluster/place4",
+      "pitch": 1.1,
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

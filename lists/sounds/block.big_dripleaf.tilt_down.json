@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/big_dripleaf/tilt_down1",
+    "block/big_dripleaf/tilt_down2",
+    "block/big_dripleaf/tilt_down3",
+    "block/big_dripleaf/tilt_down4",
+    "block/big_dripleaf/tilt_down5"
+  ],
+  "subtitle": "subtitles.block.big_dripleaf.tilt_down"
+}

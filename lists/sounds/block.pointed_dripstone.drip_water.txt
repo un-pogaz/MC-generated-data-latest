@@ -1,0 +1,15 @@
+minecraft:block/pointed_dripstone/drip_water1
+minecraft:block/pointed_dripstone/drip_water2
+minecraft:block/pointed_dripstone/drip_water3
+minecraft:block/pointed_dripstone/drip_water4
+minecraft:block/pointed_dripstone/drip_water5
+minecraft:block/pointed_dripstone/drip_water6
+minecraft:block/pointed_dripstone/drip_water7
+minecraft:block/pointed_dripstone/drip_water8
+minecraft:block/pointed_dripstone/drip_water9
+minecraft:block/pointed_dripstone/drip_water10
+minecraft:block/pointed_dripstone/drip_water11
+minecraft:block/pointed_dripstone/drip_water12
+minecraft:block/pointed_dripstone/drip_water13
+minecraft:block/pointed_dripstone/drip_water14
+minecraft:block/pointed_dripstone/drip_water15

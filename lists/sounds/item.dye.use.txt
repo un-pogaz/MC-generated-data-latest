@@ -1,0 +1,4 @@
+minecraft:item/dye/dye
+minecraft:item/dye/dye
+minecraft:item/dye/dye
+minecraft:item/dye/dye

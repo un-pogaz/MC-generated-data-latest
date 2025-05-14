@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/goat/pre_ram1",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/goat/pre_ram2",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/goat/pre_ram3",
+      "volume": 0.8
+    },
+    {
+      "name": "mob/goat/pre_ram4",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.goat.prepare_ram"
+}

@@ -1,0 +1,5 @@
+minecraft:block/vine/climb1
+minecraft:block/vine/climb2
+minecraft:block/vine/climb3
+minecraft:block/vine/climb4
+minecraft:block/vine/climb5

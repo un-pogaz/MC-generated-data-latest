@@ -2357,7 +2357,7 @@
       Name: "minecraft:acacia_log"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:grass"
@@ -2631,5 +2631,5 @@
       Name: "minecraft:brown_wall_banner"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

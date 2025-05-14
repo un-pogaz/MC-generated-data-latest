@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "item/bucket/empty_powder_snow1",
+      "pitch": 1
+    },
+    {
+      "name": "item/bucket/empty_powder_snow2",
+      "pitch": 1
+    },
+    {
+      "name": "item/bucket/empty_powder_snow1",
+      "pitch": 0.95
+    },
+    {
+      "name": "item/bucket/empty_powder_snow2",
+      "pitch": 0.95
+    },
+    {
+      "name": "item/bucket/empty_powder_snow1",
+      "pitch": 1.1
+    },
+    {
+      "name": "item/bucket/empty_powder_snow2",
+      "pitch": 1.1
+    }
+  ],
+  "subtitle": "subtitles.item.bucket.empty"
+}

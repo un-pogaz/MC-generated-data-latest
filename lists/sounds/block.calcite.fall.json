@@ -1,0 +1,28 @@
+{
+  "sounds": [
+    {
+      "name": "block/calcite/step1",
+      "volume": 1
+    },
+    {
+      "name": "block/calcite/step2",
+      "volume": 1
+    },
+    {
+      "name": "block/calcite/step3",
+      "volume": 1
+    },
+    {
+      "name": "block/calcite/step4",
+      "volume": 1
+    },
+    {
+      "name": "block/calcite/step5",
+      "volume": 1
+    },
+    {
+      "name": "block/calcite/step6",
+      "volume": 1
+    }
+  ]
+}

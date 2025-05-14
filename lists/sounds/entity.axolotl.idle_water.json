@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/axolotl/idle1",
+    "mob/axolotl/idle2",
+    "mob/axolotl/idle3",
+    "mob/axolotl/idle4",
+    "mob/axolotl/idle5"
+  ],
+  "subtitle": "subtitles.entity.axolotl.idle_water"
+}

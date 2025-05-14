@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/calcite/place1",
+      "volume": 0.94
+    },
+    {
+      "name": "block/calcite/place2",
+      "volume": 0.94
+    },
+    {
+      "name": "block/calcite/place3",
+      "volume": 0.94
+    },
+    {
+      "name": "block/calcite/place4",
+      "volume": 0.94
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

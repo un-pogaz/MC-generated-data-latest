@@ -27,6 +27,7 @@
     [],
     [
       "minecraft:fossil",
+      "minecraft:amethyst_geode",
       "minecraft:monster_room"
     ],
     [
@@ -45,12 +46,14 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel"
     ],
     [],
     [
+      "minecraft:glow_lichen",
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:patch_dead_bush_2",

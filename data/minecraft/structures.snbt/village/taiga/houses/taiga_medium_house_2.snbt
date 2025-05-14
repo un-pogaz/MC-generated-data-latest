@@ -2451,7 +2451,7 @@
       Name: "minecraft:spruce_log"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:air"
@@ -2621,5 +2621,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

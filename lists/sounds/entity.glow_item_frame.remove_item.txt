@@ -1,0 +1,4 @@
+minecraft:entity/itemframe/remove_item1
+minecraft:entity/itemframe/remove_item2
+minecraft:entity/itemframe/remove_item3
+minecraft:entity/itemframe/remove_item4

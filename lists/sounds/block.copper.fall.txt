@@ -1,0 +1,6 @@
+minecraft:block/copper/step1
+minecraft:block/copper/step2
+minecraft:block/copper/step3
+minecraft:block/copper/step4
+minecraft:block/copper/step5
+minecraft:block/copper/step6

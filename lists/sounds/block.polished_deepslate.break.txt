@@ -1,0 +1,4 @@
+minecraft:block/deepslate/break1
+minecraft:block/deepslate/break2
+minecraft:block/deepslate/break3
+minecraft:block/deepslate/break4

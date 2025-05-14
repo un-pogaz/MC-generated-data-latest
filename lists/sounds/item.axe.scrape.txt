@@ -1,0 +1,9 @@
+minecraft:item/axe/scrape1
+minecraft:item/axe/scrape2
+minecraft:item/axe/scrape3
+minecraft:item/axe/scrape1
+minecraft:item/axe/scrape2
+minecraft:item/axe/scrape3
+minecraft:item/axe/scrape1
+minecraft:item/axe/scrape2
+minecraft:item/axe/scrape3

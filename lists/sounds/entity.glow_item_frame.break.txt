@@ -1,0 +1,3 @@
+minecraft:entity/itemframe/break1
+minecraft:entity/itemframe/break2
+minecraft:entity/itemframe/break3

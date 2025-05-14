@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/goat/screaming_death1",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/goat/screaming_death2",
+      "volume": 0.65
+    },
+    {
+      "name": "mob/goat/screaming_death3",
+      "volume": 0.65
+    }
+  ],
+  "subtitle": "subtitles.entity.goat.death"
+}

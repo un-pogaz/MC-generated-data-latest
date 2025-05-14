@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/hanging_roots/break1",
+    "block/hanging_roots/break2",
+    "block/hanging_roots/break3",
+    "block/hanging_roots/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

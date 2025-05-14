@@ -799,7 +799,7 @@
       Name: "minecraft:farmland"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Properties: {
@@ -862,5 +862,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

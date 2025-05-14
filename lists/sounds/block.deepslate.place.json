@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/deepslate/place1",
+    "block/deepslate/place2",
+    "block/deepslate/place3",
+    "block/deepslate/place4",
+    "block/deepslate/place5",
+    "block/deepslate/place6"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

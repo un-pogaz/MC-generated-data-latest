@@ -1,0 +1,6 @@
+minecraft:block/dripstone/step1
+minecraft:block/dripstone/step2
+minecraft:block/dripstone/step3
+minecraft:block/dripstone/step4
+minecraft:block/dripstone/step5
+minecraft:block/dripstone/step6

@@ -1290,7 +1290,7 @@
       Properties: {
         level: "2"
       },
-      Name: "minecraft:cauldron"
+      Name: "minecraft:water_cauldron"
     },
     {
       Properties: {
@@ -1359,6 +1359,7 @@
     {
       Properties: {
         waterlogged: "false",
+        lit: "false",
         facing: "south"
       },
       Name: "minecraft:oak_wall_sign"
@@ -1372,5 +1373,5 @@
       Name: "minecraft:brewing_stand"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

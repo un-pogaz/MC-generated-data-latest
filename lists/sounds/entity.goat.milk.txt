@@ -1,0 +1,3 @@
+minecraft:mob/mooshroom/milk1
+minecraft:mob/mooshroom/milk2
+minecraft:mob/mooshroom/milk3

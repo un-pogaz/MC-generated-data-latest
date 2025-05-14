@@ -1,0 +1,20 @@
+thickness=tip_merge,vertical_direction=up,waterlogged=true
+thickness=tip_merge,vertical_direction=up,waterlogged=false
+thickness=tip_merge,vertical_direction=down,waterlogged=true
+thickness=tip_merge,vertical_direction=down,waterlogged=false
+thickness=tip,vertical_direction=up,waterlogged=true
+thickness=tip,vertical_direction=up,waterlogged=false  [default]
+thickness=tip,vertical_direction=down,waterlogged=true
+thickness=tip,vertical_direction=down,waterlogged=false
+thickness=frustum,vertical_direction=up,waterlogged=true
+thickness=frustum,vertical_direction=up,waterlogged=false
+thickness=frustum,vertical_direction=down,waterlogged=true
+thickness=frustum,vertical_direction=down,waterlogged=false
+thickness=middle,vertical_direction=up,waterlogged=true
+thickness=middle,vertical_direction=up,waterlogged=false
+thickness=middle,vertical_direction=down,waterlogged=true
+thickness=middle,vertical_direction=down,waterlogged=false
+thickness=base,vertical_direction=up,waterlogged=true
+thickness=base,vertical_direction=up,waterlogged=false
+thickness=base,vertical_direction=down,waterlogged=true
+thickness=base,vertical_direction=down,waterlogged=false

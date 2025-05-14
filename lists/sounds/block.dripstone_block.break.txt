@@ -1,0 +1,5 @@
+minecraft:block/dripstone/break1
+minecraft:block/dripstone/break2
+minecraft:block/dripstone/break3
+minecraft:block/dripstone/break4
+minecraft:block/dripstone/break5

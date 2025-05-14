@@ -27,6 +27,7 @@
     ],
     [],
     [
+      "minecraft:amethyst_geode",
       "minecraft:monster_room"
     ],
     [],
@@ -43,6 +44,7 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
       "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel"
@@ -50,6 +52,7 @@
     [],
     [
       "minecraft:patch_tall_grass",
+      "minecraft:glow_lichen",
       "minecraft:trees_savanna",
       "minecraft:flower_warm",
       "minecraft:patch_grass_savanna",

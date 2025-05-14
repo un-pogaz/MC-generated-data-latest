@@ -1360,7 +1360,7 @@
       Name: "minecraft:acacia_log"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:air"
@@ -1524,5 +1524,5 @@
       Name: "minecraft:orange_bed"
     }
   ],
-  DataVersion: 2586
+  DataVersion: 2689
 }

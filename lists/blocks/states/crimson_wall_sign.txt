@@ -1,8 +1,16 @@
-facing=north,waterlogged=true
-facing=north,waterlogged=false  [default]
-facing=south,waterlogged=true
-facing=south,waterlogged=false
-facing=west,waterlogged=true
-facing=west,waterlogged=false
-facing=east,waterlogged=true
-facing=east,waterlogged=false
+facing=north,lit=true,waterlogged=true
+facing=north,lit=true,waterlogged=false
+facing=north,lit=false,waterlogged=true
+facing=north,lit=false,waterlogged=false  [default]
+facing=south,lit=true,waterlogged=true
+facing=south,lit=true,waterlogged=false
+facing=south,lit=false,waterlogged=true
+facing=south,lit=false,waterlogged=false
+facing=west,lit=true,waterlogged=true
+facing=west,lit=true,waterlogged=false
+facing=west,lit=false,waterlogged=true
+facing=west,lit=false,waterlogged=false
+facing=east,lit=true,waterlogged=true
+facing=east,lit=true,waterlogged=false
+facing=east,lit=false,waterlogged=true
+facing=east,lit=false,waterlogged=false

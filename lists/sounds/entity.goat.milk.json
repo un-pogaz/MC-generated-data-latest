@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "mob/mooshroom/milk1",
+    "mob/mooshroom/milk2",
+    "mob/mooshroom/milk3"
+  ],
+  "subtitle": "subtitles.entity.goat.milk"
+}

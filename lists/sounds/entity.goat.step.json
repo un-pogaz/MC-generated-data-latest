@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/goat/step1",
+      "volume": 1
+    },
+    {
+      "name": "mob/goat/step2",
+      "volume": 1
+    },
+    {
+      "name": "mob/goat/step3",
+      "volume": 1
+    },
+    {
+      "name": "mob/goat/step4",
+      "volume": 1
+    },
+    {
+      "name": "mob/goat/step5",
+      "volume": 1
+    },
+    {
+      "name": "mob/goat/step6",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

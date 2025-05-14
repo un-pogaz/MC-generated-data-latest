@@ -1,0 +1,4 @@
+minecraft:entity/glow_squid/hurt1
+minecraft:entity/glow_squid/hurt2
+minecraft:entity/glow_squid/hurt3
+minecraft:entity/glow_squid/hurt4
