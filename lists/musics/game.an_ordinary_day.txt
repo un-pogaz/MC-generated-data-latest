@@ -1,0 +1,7 @@
+assets: minecraft:music/game/an_ordinary_day
+title: An Ordinary Day
+author: Kumi Tanioka
+length: 5m 31s
+sound_event: minecraft:music.overworld.dripstone_caves
+sound_event: minecraft:music.overworld.lush_caves
+sound_event: minecraft:music.overworld.snowy_slopes

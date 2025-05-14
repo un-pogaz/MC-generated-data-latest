@@ -1,0 +1,6 @@
+assets: minecraft:music/game/nether/soulsand_valley/so_below
+title: So Below
+author: Lena Raine
+length: 5m 19s
+sound_event: minecraft:music.nether.basalt_deltas
+sound_event: minecraft:music.nether.soul_sand_valley

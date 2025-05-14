@@ -803,6 +803,7 @@ minecraft:music_disc_precipice  = 1
 minecraft:music_disc_relic  = 1
 minecraft:music_disc_stal  = 1
 minecraft:music_disc_strad  = 1
+minecraft:music_disc_tears  = 1
 minecraft:music_disc_wait  = 1
 minecraft:music_disc_ward  = 1
 minecraft:mutton  = 64

@@ -1,3 +1,4 @@
+((required_level: 2))
 return fail
 return run >>redirect{*}
 return <value brigadier:integer>

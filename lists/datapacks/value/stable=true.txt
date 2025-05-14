@@ -13,6 +13,8 @@ minecraft:custom_stat
 minecraft:data_component_predicate_type
 minecraft:data_component_type
 minecraft:decorated_pot_pattern
+minecraft:dialog_body_type
+minecraft:dialog_type
 minecraft:enchantment_effect_component_type
 minecraft:enchantment_entity_effect_type
 minecraft:enchantment_level_based_value_type
@@ -26,6 +28,7 @@ minecraft:fluid
 minecraft:function
 minecraft:game_event
 minecraft:height_provider_type
+minecraft:input_control_type
 minecraft:int_provider_type
 minecraft:item
 minecraft:item_modifier
@@ -61,6 +64,7 @@ minecraft:sound_event
 minecraft:spawn_condition_type
 minecraft:stat_type
 minecraft:structure
+minecraft:submit_method_type
 minecraft:test_environment_definition_type
 minecraft:test_function
 minecraft:test_instance_type

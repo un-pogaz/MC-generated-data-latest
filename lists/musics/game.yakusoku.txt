@@ -1,0 +1,5 @@
+assets: minecraft:music/game/yakusoku
+title: yakusoku
+author: Kumi Tanioka
+length: 4m 31s
+sound_event: minecraft:music.game

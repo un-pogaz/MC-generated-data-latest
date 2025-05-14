@@ -1,0 +1,10 @@
+assets: minecraft:music/game/bromeliad
+title: Bromeliad
+author: Aaron Cherof
+length: 5m 12s
+sound_event: minecraft:music.overworld.bamboo_jungle
+sound_event: minecraft:music.overworld.cherry_grove
+sound_event: minecraft:music.overworld.flower_forest
+sound_event: minecraft:music.overworld.forest
+sound_event: minecraft:music.overworld.jungle
+sound_event: minecraft:music.overworld.sparse_jungle

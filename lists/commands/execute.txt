@@ -1,3 +1,4 @@
+((required_level: 2))
 execute align <axes minecraft:swizzle> >>redirect{execute}
 execute anchored <anchor minecraft:entity_anchor> >>redirect{execute}
 execute as <targets minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}

@@ -1,0 +1,3 @@
+minecraft:custom_options
+minecraft:server_links
+#minecraft:pause_screen_additions

@@ -1,1 +1,2 @@
+((required_level: 3))
 pardon-ip <target brigadier:string[type="word"]>

@@ -1,0 +1,5 @@
+assets: minecraft:music/game/creative/taswell
+title: Taswell
+author: C418
+length: 8m 35s
+sound_event: minecraft:music.creative

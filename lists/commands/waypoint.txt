@@ -1,3 +1,4 @@
+((required_level: 2))
 waypoint list
 waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> color <color minecraft:color>
 waypoint modify <waypoint minecraft:entity[type="entities", amount="single"]> color hex <color minecraft:hex_color>

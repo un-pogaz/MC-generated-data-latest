@@ -1,3 +1,4 @@
+((required_level: 2))
 rotate <target minecraft:entity[type="entities", amount="single"]> facing entity <facingEntity minecraft:entity[type="entities", amount="single"]>
 rotate <target minecraft:entity[type="entities", amount="single"]> facing entity <facingEntity minecraft:entity[type="entities", amount="single"]> <facingAnchor minecraft:entity_anchor>
 rotate <target minecraft:entity[type="entities", amount="single"]> facing <facingLocation minecraft:vec3>

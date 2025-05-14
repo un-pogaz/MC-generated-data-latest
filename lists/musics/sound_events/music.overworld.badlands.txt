@@ -1,0 +1,13 @@
+minecraft:music/game/crescent_dunes
+minecraft:music/game/danny
+minecraft:music/game/dry_hands
+minecraft:music/game/echo_in_the_wind
+minecraft:music/game/featherfall
+minecraft:music/game/haggstrom
+minecraft:music/game/key
+minecraft:music/game/living_mice
+minecraft:music/game/mice_on_venus
+minecraft:music/game/one_more_day
+minecraft:music/game/oxygene
+minecraft:music/game/subwoofer_lullaby
+minecraft:music/game/wet_hands

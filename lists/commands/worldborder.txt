@@ -1,3 +1,4 @@
+((required_level: 2))
 worldborder add <distance brigadier:double[max="59999968.0", min="-59999968.0"]>
 worldborder add <distance brigadier:double[max="59999968.0", min="-59999968.0"]> <time brigadier:integer[min="0"]>
 worldborder center <pos minecraft:vec2>

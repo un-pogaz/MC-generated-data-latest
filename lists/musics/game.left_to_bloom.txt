@@ -1,0 +1,14 @@
+assets: minecraft:music/game/left_to_bloom
+title: Left to Bloom
+author: Lena Raine
+length: 5m 43s
+sound_event: minecraft:music.game
+sound_event: minecraft:music.overworld.bamboo_jungle
+sound_event: minecraft:music.overworld.cherry_grove
+sound_event: minecraft:music.overworld.flower_forest
+sound_event: minecraft:music.overworld.forest
+sound_event: minecraft:music.overworld.jungle
+sound_event: minecraft:music.overworld.lush_caves
+sound_event: minecraft:music.overworld.meadow
+sound_event: minecraft:music.overworld.old_growth_taiga
+sound_event: minecraft:music.overworld.sparse_jungle

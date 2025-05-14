@@ -1,0 +1,16 @@
+assets: minecraft:music/game/oxygene
+title: Oxygene
+author: C418
+length: 1m 10s
+sound_event: minecraft:music.game
+sound_event: minecraft:music.overworld.badlands
+sound_event: minecraft:music.overworld.bamboo_jungle
+sound_event: minecraft:music.overworld.desert
+sound_event: minecraft:music.overworld.dripstone_caves
+sound_event: minecraft:music.overworld.flower_forest
+sound_event: minecraft:music.overworld.forest
+sound_event: minecraft:music.overworld.grove
+sound_event: minecraft:music.overworld.jagged_peaks
+sound_event: minecraft:music.overworld.jungle
+sound_event: minecraft:music.overworld.old_growth_taiga
+sound_event: minecraft:music.overworld.sparse_jungle

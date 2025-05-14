@@ -15,5 +15,6 @@ minecraft:precipice
 minecraft:relic
 minecraft:stal
 minecraft:strad
+minecraft:tears
 minecraft:wait
 minecraft:ward

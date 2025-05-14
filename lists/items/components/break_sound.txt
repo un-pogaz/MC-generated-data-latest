@@ -803,6 +803,7 @@ minecraft:music_disc_precipice  = minecraft:entity.item.break
 minecraft:music_disc_relic  = minecraft:entity.item.break
 minecraft:music_disc_stal  = minecraft:entity.item.break
 minecraft:music_disc_strad  = minecraft:entity.item.break
+minecraft:music_disc_tears  = minecraft:entity.item.break
 minecraft:music_disc_wait  = minecraft:entity.item.break
 minecraft:music_disc_ward  = minecraft:entity.item.break
 minecraft:mutton  = minecraft:entity.item.break

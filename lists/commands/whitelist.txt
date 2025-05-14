@@ -1,3 +1,4 @@
+((required_level: 3))
 whitelist add <targets minecraft:game_profile>
 whitelist list
 whitelist off

@@ -1,1 +1,2 @@
+((required_level: 2))
 say <message minecraft:message>

@@ -1,3 +1,4 @@
+((required_level: 2))
 experience add <target minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer>
 experience add <target minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer> levels
 experience add <target minecraft:entity[type="players", amount="multiple"]> <amount brigadier:integer> points

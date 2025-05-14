@@ -1,3 +1,4 @@
+((required_level: 2))
 damage <target minecraft:entity[type="entities", amount="single"]> <amount brigadier:float[min="0.0"]>
 damage <target minecraft:entity[type="entities", amount="single"]> <amount brigadier:float[min="0.0"]> <damageType minecraft:resource[registry="minecraft:damage_type"]>
 damage <target minecraft:entity[type="entities", amount="single"]> <amount brigadier:float[min="0.0"]> <damageType minecraft:resource[registry="minecraft:damage_type"]> at <location minecraft:vec3>

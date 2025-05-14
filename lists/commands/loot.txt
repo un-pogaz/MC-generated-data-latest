@@ -1,3 +1,4 @@
+((required_level: 2))
 loot give <players minecraft:entity[type="players", amount="multiple"]> fish <loot_table minecraft:loot_table> <pos minecraft:block_pos>
 loot give <players minecraft:entity[type="players", amount="multiple"]> fish <loot_table minecraft:loot_table> <pos minecraft:block_pos> mainhand
 loot give <players minecraft:entity[type="players", amount="multiple"]> fish <loot_table minecraft:loot_table> <pos minecraft:block_pos> offhand

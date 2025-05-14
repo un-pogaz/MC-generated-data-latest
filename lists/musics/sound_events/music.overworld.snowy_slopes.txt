@@ -1,0 +1,7 @@
+minecraft:music/game/an_ordinary_day
+minecraft:music/game/haggstrom
+minecraft:music/game/living_mice
+minecraft:music/game/one_more_day
+minecraft:music/game/pokopoko
+minecraft:music/game/stand_tall
+minecraft:music/game/subwoofer_lullaby

@@ -1,0 +1,6 @@
+assets: minecraft:music/game/crescent_dunes
+title: Crescent Dunes
+author: Aaron Cherof
+length: 4m 8s
+sound_event: minecraft:music.overworld.badlands
+sound_event: minecraft:music.overworld.desert

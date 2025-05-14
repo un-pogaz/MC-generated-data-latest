@@ -1,3 +1,4 @@
+((required_level: 2))
 clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos>
 clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate>
 clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate> force

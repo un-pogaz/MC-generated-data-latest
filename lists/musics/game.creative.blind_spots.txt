@@ -1,0 +1,5 @@
+assets: minecraft:music/game/creative/blind_spots
+title: Blind Spots
+author: C418
+length: 5m 32s
+sound_event: minecraft:music.creative

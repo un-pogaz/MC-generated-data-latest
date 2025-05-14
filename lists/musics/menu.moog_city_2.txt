@@ -1,0 +1,5 @@
+assets: minecraft:music/menu/moog_city_2
+title: Moog City 2
+author: C418
+length: 3m 4s
+sound_event: minecraft:music.menu

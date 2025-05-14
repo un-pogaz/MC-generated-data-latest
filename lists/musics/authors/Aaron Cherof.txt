@@ -1,0 +1,7 @@
+minecraft:music/game/a_familiar_room
+minecraft:music/game/bromeliad
+minecraft:music/game/crescent_dunes
+minecraft:music/game/echo_in_the_wind
+minecraft:music/game/featherfall
+minecraft:music/game/puzzlebox
+minecraft:music/game/watcher

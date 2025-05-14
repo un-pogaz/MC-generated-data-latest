@@ -4,6 +4,7 @@ minecraft:chat_type
 minecraft:chicken_variant
 minecraft:cow_variant
 minecraft:damage_type
+minecraft:dialog
 minecraft:dimension
 minecraft:dimension_type
 minecraft:enchantment

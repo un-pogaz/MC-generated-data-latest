@@ -1,0 +1,3 @@
+((required_level: 2))
+dialog clear <targets minecraft:entity[type="players", amount="multiple"]>
+dialog show <targets minecraft:entity[type="players", amount="multiple"]> <dialog minecraft:dialog>

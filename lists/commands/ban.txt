@@ -1,2 +1,3 @@
+((required_level: 3))
 ban <targets minecraft:game_profile>
 ban <targets minecraft:game_profile> <reason minecraft:message>

@@ -1,3 +1,4 @@
+((required_level: 2))
 place feature <feature minecraft:resource_key[registry="minecraft:worldgen/configured_feature"]>
 place feature <feature minecraft:resource_key[registry="minecraft:worldgen/configured_feature"]> <pos minecraft:block_pos>
 place jigsaw <pool minecraft:resource_key[registry="minecraft:worldgen/template_pool"]> <target minecraft:resource_location> <max_depth brigadier:integer[max="20", min="1"]>

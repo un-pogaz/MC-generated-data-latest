@@ -1,0 +1,5 @@
+assets: minecraft:music/game/water/dragon_fish
+title: Dragon Fish
+author: C418
+length: 6m 12s
+sound_event: minecraft:music.under_water

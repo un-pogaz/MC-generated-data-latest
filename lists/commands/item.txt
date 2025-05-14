@@ -1,3 +1,4 @@
+((required_level: 2))
 item modify block <pos minecraft:block_pos> <slot minecraft:item_slot> <modifier minecraft:loot_modifier>
 item modify entity <targets minecraft:entity[type="entities", amount="multiple"]> <slot minecraft:item_slot> <modifier minecraft:loot_modifier>
 item replace block <pos minecraft:block_pos> <slot minecraft:item_slot> from block <source minecraft:block_pos> <sourceSlot minecraft:item_slot>

@@ -13,6 +13,11 @@
       "stream": true
     },
     {
+      "name": "music/game/lilypad",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
       "name": "music/game/living_mice",
       "stream": true
     },

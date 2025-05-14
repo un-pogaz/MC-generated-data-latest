@@ -1,4 +1,4 @@
-minecraft:saddle
+minecraft:leather
 minecraft:golden_apple
 minecraft:enchanted_golden_apple
 minecraft:music_disc_otherside

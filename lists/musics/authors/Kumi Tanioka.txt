@@ -1,0 +1,6 @@
+minecraft:music/game/an_ordinary_day
+minecraft:music/game/comforting_memories
+minecraft:music/game/floating_dream
+minecraft:music/game/komorebi
+minecraft:music/game/pokopoko
+minecraft:music/game/yakusoku

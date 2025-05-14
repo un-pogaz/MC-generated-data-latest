@@ -1,0 +1,10 @@
+minecraft:music/game/bromeliad
+minecraft:music/game/danny
+minecraft:music/game/echo_in_the_wind
+minecraft:music/game/featherfall
+minecraft:music/game/haggstrom
+minecraft:music/game/key
+minecraft:music/game/left_to_bloom
+minecraft:music/game/living_mice
+minecraft:music/game/oxygene
+minecraft:music/game/subwoofer_lullaby

@@ -6,6 +6,16 @@
       "volume": 0.4
     },
     {
+      "name": "music/game/below_and_above",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/broken_clocks",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
       "name": "music/game/clark",
       "stream": true
     },
@@ -24,6 +34,11 @@
     },
     {
       "name": "music/game/featherfall",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/fireflies",
       "stream": true,
       "volume": 0.4
     },
@@ -51,6 +66,11 @@
       "volume": 0.4
     },
     {
+      "name": "music/game/lilypad",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
       "name": "music/game/living_mice",
       "stream": true
     },
@@ -64,6 +84,11 @@
     },
     {
       "name": "music/game/one_more_day",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/os_piano",
       "stream": true,
       "volume": 0.4
     },

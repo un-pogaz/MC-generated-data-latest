@@ -1,3 +1,4 @@
+((required_level: 2))
 forceload add <from minecraft:column_pos>
 forceload add <from minecraft:column_pos> <to minecraft:column_pos>
 forceload query

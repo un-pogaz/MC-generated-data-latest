@@ -2,6 +2,7 @@ minecraft:accept_teleportation
 minecraft:block_entity_tag_query
 minecraft:bundle_item_selected
 minecraft:change_difficulty
+minecraft:change_game_mode
 minecraft:chat
 minecraft:chat_ack
 minecraft:chat_command
@@ -18,6 +19,7 @@ minecraft:container_click
 minecraft:container_close
 minecraft:container_slot_state_changed
 minecraft:cookie_response
+minecraft:custom_click_action
 minecraft:custom_payload
 minecraft:debug_sample_subscription
 minecraft:edit_book

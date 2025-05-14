@@ -12,6 +12,7 @@ minecraft:change_difficulty
 minecraft:chunk_batch_finished
 minecraft:chunk_batch_start
 minecraft:chunks_biomes
+minecraft:clear_dialog
 minecraft:clear_titles
 minecraft:command_suggestions
 minecraft:commands
@@ -110,6 +111,7 @@ minecraft:set_subtitle_text
 minecraft:set_time
 minecraft:set_title_text
 minecraft:set_titles_animation
+minecraft:show_dialog
 minecraft:sound
 minecraft:sound_entity
 minecraft:start_configuration

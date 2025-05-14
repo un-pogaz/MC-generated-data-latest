@@ -1,3 +1,4 @@
+((required_level: 2))
 test clearall
 test clearall <radius brigadier:integer>
 test clearthat

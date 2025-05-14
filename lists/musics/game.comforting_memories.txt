@@ -1,0 +1,8 @@
+assets: minecraft:music/game/comforting_memories
+title: Comforting Memories
+author: Kumi Tanioka
+length: 4m 35s
+sound_event: minecraft:music.game
+sound_event: minecraft:music.overworld.forest
+sound_event: minecraft:music.overworld.grove
+sound_event: minecraft:music.overworld.old_growth_taiga

@@ -1,3 +1,4 @@
+((required_level: 2))
 function <name minecraft:function>
 function <name minecraft:function> <arguments minecraft:nbt_compound_tag>
 function <name minecraft:function> with block <sourcePos minecraft:block_pos>

@@ -1,0 +1,15 @@
+minecraft:music/game/ancestry
+minecraft:music/game/deeper
+minecraft:music/game/eld_unknown
+minecraft:music/game/endless
+minecraft:music/game/infinite_amethyst
+minecraft:music/game/left_to_bloom
+minecraft:music/game/nether/crimson_forest/chrysopoeia
+minecraft:music/game/nether/nether_wastes/rubedo
+minecraft:music/game/nether/soulsand_valley/so_below
+minecraft:music/game/one_more_day
+minecraft:music/game/stand_tall
+minecraft:music/game/swamp/aerie
+minecraft:music/game/swamp/firebugs
+minecraft:music/game/swamp/labyrinthine
+minecraft:music/game/wending

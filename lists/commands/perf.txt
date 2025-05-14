@@ -1,2 +1,3 @@
+((required_level: 4))
 perf start
 perf stop

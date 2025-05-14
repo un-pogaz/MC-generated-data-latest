@@ -1,3 +1,4 @@
+((required_level: 2))
 stopsound <targets minecraft:entity[type="players", amount="multiple"]>
 stopsound <targets minecraft:entity[type="players", amount="multiple"]> * <sound minecraft:resource_location>
 stopsound <targets minecraft:entity[type="players", amount="multiple"]> ambient

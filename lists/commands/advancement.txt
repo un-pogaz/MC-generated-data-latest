@@ -1,3 +1,4 @@
+((required_level: 2))
 advancement grant <targets minecraft:entity[type="players", amount="multiple"]> everything
 advancement grant <targets minecraft:entity[type="players", amount="multiple"]> from <advancement minecraft:resource_key[registry="minecraft:advancement"]>
 advancement grant <targets minecraft:entity[type="players", amount="multiple"]> only <advancement minecraft:resource_key[registry="minecraft:advancement"]>

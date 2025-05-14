@@ -1,0 +1,8 @@
+assets: minecraft:music/game/swamp/aerie
+title: Aerie
+author: Lena Raine
+length: 4m 57s
+sound_event: minecraft:music.overworld.forest
+sound_event: minecraft:music.overworld.lush_caves
+sound_event: minecraft:music.overworld.old_growth_taiga
+sound_event: minecraft:music.overworld.swamp

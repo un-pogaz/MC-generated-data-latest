@@ -1,7 +1,7 @@
 "Name","Count","Chance","Weight","Comment"
 ,,,,
 "1 to 3 time","--","--","--",
-"minecraft:saddle","1","15.5%","20/129",
+"minecraft:leather","1..5","15.5%","20/129",
 "minecraft:golden_apple","1","11.6%","15/129",
 "minecraft:enchanted_golden_apple","1","1.6%","2/129",
 "minecraft:music_disc_otherside","1","1.6%","2/129",

@@ -1,3 +1,4 @@
+((required_level: 2))
 schedule clear <function brigadier:string[type="greedy"]>
 schedule function <function minecraft:function> <time minecraft:time[min="0"]>
 schedule function <function minecraft:function> <time minecraft:time[min="0"]> append

@@ -1,0 +1,5 @@
+assets: minecraft:music/game/end/alpha
+title: Alpha
+author: C418
+length: 10m 3s
+sound_event: minecraft:music.credits

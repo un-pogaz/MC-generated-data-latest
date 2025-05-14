@@ -1,0 +1,5 @@
+assets: minecraft:music/game/puzzlebox
+title: Puzzlebox
+author: Aaron Cherof
+length: 5m
+sound_event: minecraft:music.game

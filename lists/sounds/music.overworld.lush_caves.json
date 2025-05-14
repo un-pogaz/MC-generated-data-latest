@@ -3,48 +3,47 @@
     {
       "name": "music/game/an_ordinary_day",
       "stream": true,
-      "weight": 2
+      "volume": 0.8
     },
     {
       "name": "music/game/clark",
-      "stream": true,
-      "weight": 2
+      "stream": true
     },
     {
       "name": "music/game/echo_in_the_wind",
       "stream": true,
-      "volume": 0.4,
-      "weight": 2
+      "volume": 0.4
     },
     {
       "name": "music/game/featherfall",
       "stream": true,
-      "volume": 0.4,
-      "weight": 2
+      "volume": 0.4
     },
     {
       "name": "music/game/floating_dream",
       "stream": true,
-      "weight": 2
+      "volume": 0.5
     },
     {
       "name": "music/game/left_to_bloom",
       "stream": true,
-      "volume": 0.4,
-      "weight": 4
+      "volume": 0.4
     },
     {
       "name": "music/game/mice_on_venus",
-      "stream": true,
-      "weight": 2
+      "stream": true
     },
     {
       "name": "music/game/minecraft",
-      "stream": true,
-      "weight": 2
+      "stream": true
     },
     {
       "name": "music/game/one_more_day",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/os_piano",
       "stream": true,
       "volume": 0.4,
       "weight": 2
@@ -66,8 +65,7 @@
     },
     {
       "name": "music/game/sweden",
-      "stream": true,
-      "weight": 2
+      "stream": true
     }
   ]
 }

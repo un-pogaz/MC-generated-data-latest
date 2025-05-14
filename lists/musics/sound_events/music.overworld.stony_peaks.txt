@@ -1,0 +1,11 @@
+minecraft:music/game/danny
+minecraft:music/game/dry_hands
+minecraft:music/game/eld_unknown
+minecraft:music/game/endless
+minecraft:music/game/haggstrom
+minecraft:music/game/living_mice
+minecraft:music/game/mice_on_venus
+minecraft:music/game/stand_tall
+minecraft:music/game/subwoofer_lullaby
+minecraft:music/game/wending
+minecraft:music/game/wet_hands

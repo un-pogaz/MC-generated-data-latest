@@ -1,3 +1,5 @@
 minecraft:ghast_tear
 
 minecraft:gunpowder
+
+minecraft:music_disc_tears

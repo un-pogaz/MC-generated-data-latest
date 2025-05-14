@@ -1,3 +1,4 @@
+((required_level: 2))
 team add <team brigadier:string[type="word"]>
 team add <team brigadier:string[type="word"]> <displayName minecraft:component>
 team empty <team minecraft:team>

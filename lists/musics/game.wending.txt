@@ -1,0 +1,8 @@
+assets: minecraft:music/game/wending
+title: Wending
+author: Lena Raine
+length: 5m 15s
+sound_event: minecraft:music.overworld.dripstone_caves
+sound_event: minecraft:music.overworld.grove
+sound_event: minecraft:music.overworld.jagged_peaks
+sound_event: minecraft:music.overworld.stony_peaks

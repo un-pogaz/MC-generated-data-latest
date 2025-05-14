@@ -1,0 +1,5 @@
+assets: minecraft:music/game/watcher
+title: Watcher
+author: Aaron Cherof
+length: 5m 32s
+sound_event: minecraft:music.game

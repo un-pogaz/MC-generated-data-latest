@@ -1,0 +1,5 @@
+minecraft:music/game/nether/ballad_of_the_cats
+minecraft:music/game/nether/concrete_halls
+minecraft:music/game/nether/dead_voxel
+minecraft:music/game/nether/soulsand_valley/so_below
+minecraft:music/game/nether/warmth

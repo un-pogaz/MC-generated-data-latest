@@ -1,0 +1,10 @@
+assets: minecraft:music/game/minecraft
+title: Minecraft
+author: C418
+length: 4m 21s
+sound_event: minecraft:music.game
+sound_event: minecraft:music.overworld.cherry_grove
+sound_event: minecraft:music.overworld.forest
+sound_event: minecraft:music.overworld.grove
+sound_event: minecraft:music.overworld.lush_caves
+sound_event: minecraft:music.overworld.old_growth_taiga

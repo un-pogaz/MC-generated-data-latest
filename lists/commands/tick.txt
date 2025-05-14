@@ -1,3 +1,4 @@
+((required_level: 3))
 tick freeze
 tick query
 tick rate <rate brigadier:float[max="10000.0", min="1.0"]>

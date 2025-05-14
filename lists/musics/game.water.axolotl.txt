@@ -1,0 +1,5 @@
+assets: minecraft:music/game/water/axolotl
+title: Axolotl
+author: C418
+length: 5m 3s
+sound_event: minecraft:music.under_water

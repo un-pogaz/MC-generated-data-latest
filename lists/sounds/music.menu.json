@@ -1,49 +1,29 @@
 {
   "sounds": [
     {
-      "name": "music/game/deeper",
+      "name": "music/game/below_and_above",
       "stream": true,
       "volume": 0.4
     },
     {
-      "name": "music/game/eld_unknown",
+      "name": "music/game/broken_clocks",
       "stream": true,
       "volume": 0.4
     },
     {
-      "name": "music/game/endless",
+      "name": "music/game/fireflies",
       "stream": true,
       "volume": 0.4
     },
     {
-      "name": "music/game/featherfall",
+      "name": "music/game/lilypad",
       "stream": true,
       "volume": 0.4
     },
     {
-      "name": "music/game/komorebi",
-      "stream": true,
-      "volume": 0.8
-    },
-    {
-      "name": "music/game/pokopoko",
-      "stream": true,
-      "volume": 0.8
-    },
-    {
-      "name": "music/game/puzzlebox",
+      "name": "music/game/os_piano",
       "stream": true,
       "volume": 0.4
-    },
-    {
-      "name": "music/game/watcher",
-      "stream": true,
-      "volume": 0.4
-    },
-    {
-      "name": "music/game/yakusoku",
-      "stream": true,
-      "volume": 0.8
     },
     {
       "name": "music/menu/beginning_2",

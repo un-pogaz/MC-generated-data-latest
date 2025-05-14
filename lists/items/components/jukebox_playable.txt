@@ -15,5 +15,6 @@ minecraft:music_disc_precipice  = minecraft:precipice
 minecraft:music_disc_relic  = minecraft:relic
 minecraft:music_disc_stal  = minecraft:stal
 minecraft:music_disc_strad  = minecraft:strad
+minecraft:music_disc_tears  = minecraft:tears
 minecraft:music_disc_wait  = minecraft:wait
 minecraft:music_disc_ward  = minecraft:ward

@@ -803,6 +803,7 @@ minecraft:music_disc_precipice  = uncommon
 minecraft:music_disc_relic  = uncommon
 minecraft:music_disc_stal  = uncommon
 minecraft:music_disc_strad  = uncommon
+minecraft:music_disc_tears  = uncommon
 minecraft:music_disc_wait  = uncommon
 minecraft:music_disc_ward  = uncommon
 minecraft:mutton  = common

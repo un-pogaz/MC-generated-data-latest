@@ -1,0 +1,5 @@
+assets: minecraft:music/game/end/boss
+title: Boss
+author: C418
+length: 5m 44s
+sound_event: minecraft:music.dragon

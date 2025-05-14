@@ -1,0 +1,5 @@
+assets: minecraft:music/menu/beginning_2
+title: Beginning 2
+author: C418
+length: 3m 3s
+sound_event: minecraft:music.menu

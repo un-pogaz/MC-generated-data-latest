@@ -1,3 +1,4 @@
+((required_level: 2))
 setworldspawn
 setworldspawn <pos minecraft:block_pos>
 setworldspawn <pos minecraft:block_pos> <angle minecraft:angle>

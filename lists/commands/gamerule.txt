@@ -1,3 +1,4 @@
+((required_level: 2))
 gamerule allowFireTicksAwayFromPlayer
 gamerule allowFireTicksAwayFromPlayer <value brigadier:bool>
 gamerule announceAdvancements

@@ -1,3 +1,4 @@
+((required_level: 2))
 playsound <sound minecraft:resource_location>
 playsound <sound minecraft:resource_location> ambient
 playsound <sound minecraft:resource_location> ambient <targets minecraft:entity[type="players", amount="multiple"]>

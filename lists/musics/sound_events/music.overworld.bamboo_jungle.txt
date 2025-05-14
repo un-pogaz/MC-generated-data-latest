@@ -1,0 +1,11 @@
+minecraft:music/game/bromeliad
+minecraft:music/game/danny
+minecraft:music/game/dry_hands
+minecraft:music/game/haggstrom
+minecraft:music/game/key
+minecraft:music/game/left_to_bloom
+minecraft:music/game/living_mice
+minecraft:music/game/mice_on_venus
+minecraft:music/game/oxygene
+minecraft:music/game/subwoofer_lullaby
+minecraft:music/game/wet_hands

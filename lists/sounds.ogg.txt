@@ -3888,6 +3888,8 @@ minecraft:music.game
 minecraft:music/game/a_familiar_room
 minecraft:music/game/an_ordinary_day
 minecraft:music/game/ancestry
+minecraft:music/game/below_and_above
+minecraft:music/game/broken_clocks
 minecraft:music/game/bromeliad
 minecraft:music/game/clark
 minecraft:music/game/comforting_memories
@@ -3908,12 +3910,14 @@ minecraft:music/game/end/boss
 minecraft:music/game/end/the_end
 minecraft:music/game/endless
 minecraft:music/game/featherfall
+minecraft:music/game/fireflies
 minecraft:music/game/floating_dream
 minecraft:music/game/haggstrom
 minecraft:music/game/infinite_amethyst
 minecraft:music/game/key
 minecraft:music/game/komorebi
 minecraft:music/game/left_to_bloom
+minecraft:music/game/lilypad
 minecraft:music/game/living_mice
 minecraft:music/game/mice_on_venus
 minecraft:music/game/minecraft
@@ -3925,6 +3929,7 @@ minecraft:music/game/nether/nether_wastes/rubedo
 minecraft:music/game/nether/soulsand_valley/so_below
 minecraft:music/game/nether/warmth
 minecraft:music/game/one_more_day
+minecraft:music/game/os_piano
 minecraft:music/game/oxygene
 minecraft:music/game/pokopoko
 minecraft:music/game/puzzlebox
@@ -4013,6 +4018,7 @@ minecraft:records/precipice
 minecraft:records/relic
 minecraft:records/stal
 minecraft:records/strad
+minecraft:records/tears
 minecraft:records/wait
 minecraft:records/ward
 minecraft:step/cloth1

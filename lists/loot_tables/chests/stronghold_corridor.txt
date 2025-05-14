@@ -12,7 +12,7 @@ minecraft:iron_helmet
 minecraft:iron_leggings
 minecraft:iron_boots
 minecraft:golden_apple
-minecraft:saddle
+minecraft:leather
 minecraft:iron_horse_armor
 minecraft:golden_horse_armor
 minecraft:diamond_horse_armor

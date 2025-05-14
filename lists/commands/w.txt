@@ -1,1 +1,2 @@
+((required_level: 0))
 w >>redirect{msg}

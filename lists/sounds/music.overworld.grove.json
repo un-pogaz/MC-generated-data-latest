@@ -29,6 +29,12 @@
       "stream": true
     },
     {
+      "name": "music/game/lilypad",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    },
+    {
       "name": "music/game/mice_on_venus",
       "stream": true
     },

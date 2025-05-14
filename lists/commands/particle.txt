@@ -1,3 +1,4 @@
+((required_level: 2))
 particle <name minecraft:particle>
 particle <name minecraft:particle> <pos minecraft:vec3>
 particle <name minecraft:particle> <pos minecraft:vec3> <delta minecraft:vec3> <speed brigadier:float[min="0.0"]> <count brigadier:integer[min="0"]>

@@ -1,0 +1,5 @@
+assets: minecraft:music/game/creative/dreiton
+title: Dreiton
+author: C418
+length: 8m 17s
+sound_event: minecraft:music.creative

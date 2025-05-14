@@ -1,0 +1,6 @@
+assets: minecraft:music/game/deeper
+title: Deeper
+author: Lena Raine
+length: 5m 3s
+sound_event: minecraft:music.overworld.deep_dark
+sound_event: minecraft:music.overworld.dripstone_caves

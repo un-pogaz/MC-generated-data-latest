@@ -3,12 +3,17 @@
     {
       "name": "music/game/crescent_dunes",
       "stream": true,
-      "volume": 0.4,
-      "weight": 3
+      "volume": 0.4
     },
     {
       "name": "music/game/danny",
       "stream": true
+    },
+    {
+      "name": "music/game/fireflies",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
     },
     {
       "name": "music/game/haggstrom",

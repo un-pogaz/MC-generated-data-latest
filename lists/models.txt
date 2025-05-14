@@ -3034,6 +3034,7 @@ minecraft:item/music_disc_precipice
 minecraft:item/music_disc_relic
 minecraft:item/music_disc_stal
 minecraft:item/music_disc_strad
+minecraft:item/music_disc_tears
 minecraft:item/music_disc_wait
 minecraft:item/music_disc_ward
 minecraft:item/mutton

@@ -1,3 +1,4 @@
+((required_level: 4))
 publish
 publish <allowCommands brigadier:bool>
 publish <allowCommands brigadier:bool> <gamemode minecraft:gamemode>

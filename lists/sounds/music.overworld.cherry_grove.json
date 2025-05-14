@@ -1,10 +1,15 @@
 {
   "sounds": [
     {
-      "name": "music/game/bromeliad",
+      "name": "music/game/below_and_above",
       "stream": true,
       "volume": 0.4,
-      "weight": 3
+      "weight": 2
+    },
+    {
+      "name": "music/game/bromeliad",
+      "stream": true,
+      "volume": 0.4
     },
     {
       "name": "music/game/clark",
@@ -13,14 +18,12 @@
     {
       "name": "music/game/echo_in_the_wind",
       "stream": true,
-      "volume": 0.4,
-      "weight": 3
+      "volume": 0.4
     },
     {
       "name": "music/game/featherfall",
       "stream": true,
-      "volume": 0.4,
-      "weight": 3
+      "volume": 0.4
     },
     {
       "name": "music/game/left_to_bloom",

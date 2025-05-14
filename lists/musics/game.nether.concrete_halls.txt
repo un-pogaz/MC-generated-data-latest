@@ -1,0 +1,8 @@
+assets: minecraft:music/game/nether/concrete_halls
+title: Concrete Halls
+author: C418
+length: 4m 19s
+sound_event: minecraft:music.nether.basalt_deltas
+sound_event: minecraft:music.nether.crimson_forest
+sound_event: minecraft:music.nether.nether_wastes
+sound_event: minecraft:music.nether.soul_sand_valley

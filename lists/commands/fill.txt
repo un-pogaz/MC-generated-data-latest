@@ -1,3 +1,4 @@
+((required_level: 2))
 fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state>
 fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state> destroy
 fill <from minecraft:block_pos> <to minecraft:block_pos> <block minecraft:block_state> hollow

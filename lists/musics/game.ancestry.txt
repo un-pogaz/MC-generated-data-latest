@@ -1,0 +1,5 @@
+assets: minecraft:music/game/ancestry
+title: Ancestry
+author: Lena Raine
+length: 5m 44s
+sound_event: minecraft:music.overworld.deep_dark

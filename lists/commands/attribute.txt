@@ -1,3 +1,4 @@
+((required_level: 2))
 attribute <target minecraft:entity[type="entities", amount="single"]> <attribute minecraft:resource[registry="minecraft:attribute"]> base get
 attribute <target minecraft:entity[type="entities", amount="single"]> <attribute minecraft:resource[registry="minecraft:attribute"]> base get <scale brigadier:double>
 attribute <target minecraft:entity[type="entities", amount="single"]> <attribute minecraft:resource[registry="minecraft:attribute"]> base reset

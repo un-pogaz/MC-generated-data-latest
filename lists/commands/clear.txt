@@ -1,3 +1,4 @@
+((required_level: 2))
 clear
 clear <targets minecraft:entity[type="players", amount="multiple"]>
 clear <targets minecraft:entity[type="players", amount="multiple"]> <item minecraft:item_predicate>

@@ -1,0 +1,8 @@
+assets: minecraft:music/game/echo_in_the_wind
+title: Echo in the Wind
+author: Aaron Cherof
+length: 4m 56s
+sound_event: minecraft:music.overworld.badlands
+sound_event: minecraft:music.overworld.cherry_grove
+sound_event: minecraft:music.overworld.flower_forest
+sound_event: minecraft:music.overworld.lush_caves

@@ -1897,11 +1897,6 @@ minecraft/sounds/entity/fish/swim4.ogg
 minecraft/sounds/entity/fish/swim5.ogg
 minecraft/sounds/entity/fish/swim6.ogg
 minecraft/sounds/entity/fish/swim7.ogg
-minecraft/sounds/entity/horse/eat1.ogg
-minecraft/sounds/entity/horse/eat2.ogg
-minecraft/sounds/entity/horse/eat3.ogg
-minecraft/sounds/entity/horse/eat4.ogg
-minecraft/sounds/entity/horse/eat5.ogg
 minecraft/sounds/entity/itemframe/add_item1.ogg
 minecraft/sounds/entity/itemframe/add_item2.ogg
 minecraft/sounds/entity/itemframe/add_item3.ogg
@@ -4019,6 +4014,8 @@ minecraft/sounds/mob/zombified_piglin/zpighurt2.ogg
 minecraft/sounds/music/game/a_familiar_room.ogg
 minecraft/sounds/music/game/an_ordinary_day.ogg
 minecraft/sounds/music/game/ancestry.ogg
+minecraft/sounds/music/game/below_and_above.ogg
+minecraft/sounds/music/game/broken_clocks.ogg
 minecraft/sounds/music/game/bromeliad.ogg
 minecraft/sounds/music/game/clark.ogg
 minecraft/sounds/music/game/comforting_memories.ogg
@@ -4039,12 +4036,14 @@ minecraft/sounds/music/game/end/boss.ogg
 minecraft/sounds/music/game/end/the_end.ogg
 minecraft/sounds/music/game/endless.ogg
 minecraft/sounds/music/game/featherfall.ogg
+minecraft/sounds/music/game/fireflies.ogg
 minecraft/sounds/music/game/floating_dream.ogg
 minecraft/sounds/music/game/haggstrom.ogg
 minecraft/sounds/music/game/infinite_amethyst.ogg
 minecraft/sounds/music/game/key.ogg
 minecraft/sounds/music/game/komorebi.ogg
 minecraft/sounds/music/game/left_to_bloom.ogg
+minecraft/sounds/music/game/lilypad.ogg
 minecraft/sounds/music/game/living_mice.ogg
 minecraft/sounds/music/game/mice_on_venus.ogg
 minecraft/sounds/music/game/minecraft.ogg
@@ -4056,6 +4055,7 @@ minecraft/sounds/music/game/nether/nether_wastes/rubedo.ogg
 minecraft/sounds/music/game/nether/soulsand_valley/so_below.ogg
 minecraft/sounds/music/game/nether/warmth.ogg
 minecraft/sounds/music/game/one_more_day.ogg
+minecraft/sounds/music/game/os_piano.ogg
 minecraft/sounds/music/game/oxygene.ogg
 minecraft/sounds/music/game/pokopoko.ogg
 minecraft/sounds/music/game/puzzlebox.ogg
@@ -4151,6 +4151,7 @@ minecraft/sounds/records/precipice.ogg
 minecraft/sounds/records/relic.ogg
 minecraft/sounds/records/stal.ogg
 minecraft/sounds/records/strad.ogg
+minecraft/sounds/records/tears.ogg
 minecraft/sounds/records/wait.ogg
 minecraft/sounds/records/ward.ogg
 minecraft/sounds/step/cloth1.ogg

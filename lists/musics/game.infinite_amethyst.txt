@@ -1,0 +1,6 @@
+assets: minecraft:music/game/infinite_amethyst
+title: Infinite Amethyst
+author: Lena Raine
+length: 4m 32s
+sound_event: minecraft:music.overworld.dripstone_caves
+sound_event: minecraft:music.overworld.grove

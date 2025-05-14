@@ -1,0 +1,11 @@
+minecraft:music/game/an_ordinary_day
+minecraft:music/game/danny
+minecraft:music/game/deeper
+minecraft:music/game/eld_unknown
+minecraft:music/game/endless
+minecraft:music/game/infinite_amethyst
+minecraft:music/game/key
+minecraft:music/game/oxygene
+minecraft:music/game/pokopoko
+minecraft:music/game/subwoofer_lullaby
+minecraft:music/game/wending

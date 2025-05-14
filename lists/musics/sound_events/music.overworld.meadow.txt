@@ -1,0 +1,6 @@
+minecraft:music/game/danny
+minecraft:music/game/haggstrom
+minecraft:music/game/left_to_bloom
+minecraft:music/game/living_mice
+minecraft:music/game/one_more_day
+minecraft:music/game/subwoofer_lullaby

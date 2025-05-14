@@ -1,0 +1,5 @@
+assets: minecraft:music/menu/mutation
+title: Mutation
+author: C418
+length: 3m 15s
+sound_event: minecraft:music.menu

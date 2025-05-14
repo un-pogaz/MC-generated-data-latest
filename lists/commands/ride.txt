@@ -1,2 +1,3 @@
+((required_level: 2))
 ride <target minecraft:entity[type="entities", amount="single"]> dismount
 ride <target minecraft:entity[type="entities", amount="single"]> mount <vehicle minecraft:entity[type="entities", amount="single"]>

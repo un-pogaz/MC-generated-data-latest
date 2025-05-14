@@ -1,0 +1,5 @@
+assets: minecraft:music/game/komorebi
+title: komorebi
+author: Kumi Tanioka
+length: 4m 48s
+sound_event: minecraft:music.game
