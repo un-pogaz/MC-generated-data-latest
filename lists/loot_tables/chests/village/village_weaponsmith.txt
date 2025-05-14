@@ -15,3 +15,6 @@ minecraft:saddle
 minecraft:iron_horse_armor
 minecraft:golden_horse_armor
 minecraft:diamond_horse_armor
+
+minecraft:bundle
+empty

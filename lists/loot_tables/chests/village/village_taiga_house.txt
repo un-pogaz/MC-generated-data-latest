@@ -10,3 +10,6 @@ minecraft:emerald
 minecraft:spruce_sapling
 minecraft:spruce_sign
 minecraft:spruce_log
+
+minecraft:bundle
+empty

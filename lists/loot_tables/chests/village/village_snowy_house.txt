@@ -8,3 +8,6 @@ minecraft:furnace
 minecraft:emerald
 minecraft:snowball
 minecraft:coal
+
+minecraft:bundle
+empty

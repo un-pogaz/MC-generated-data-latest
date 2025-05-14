@@ -11,3 +11,7 @@
 | minecraft:saddle         |     1 |   2.2% |   1/46 |         |
 | minecraft:torch          |  1..2 |   2.2% |   1/46 |         |
 | minecraft:bucket         |     1 |   2.2% |   1/46 |         |
+| – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – |
+| 1 time                   |    -- |     -- |     -- |         |
+| minecraft:bundle         |     1 |  33.3% |    1/3 |         |
+| empty                    |       |  66.7% |    2/3 |         |
