@@ -1,2 +1,0 @@
-placefeature <feature minecraft:resource[registry="minecraft:worldgen/configured_feature"]>
-placefeature <feature minecraft:resource[registry="minecraft:worldgen/configured_feature"]> <pos minecraft:block_pos>

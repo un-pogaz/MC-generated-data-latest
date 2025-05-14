@@ -1,5 +1,9 @@
 {
   "properties": {
+    "type": [
+      "normal",
+      "sticky"
+    ],
     "facing": [
       "north",
       "east",
@@ -7,10 +11,6 @@
       "west",
       "up",
       "down"
-    ],
-    "type": [
-      "normal",
-      "sticky"
     ]
   }
 }

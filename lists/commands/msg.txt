@@ -1,1 +1,1 @@
-msg <targets minecraft:entity[amount="multiple", type="players"]> <message minecraft:message>
+msg <targets minecraft:entity[type="players", amount="multiple"]> <message minecraft:message>

@@ -1,9 +1,9 @@
-time set day
-time set noon
-time set night
-time set midnight
-time set <time minecraft:time>
 time add <time minecraft:time>
+time query day
 time query daytime
 time query gametime
-time query day
+time set day
+time set midnight
+time set night
+time set noon
+time set <time minecraft:time>

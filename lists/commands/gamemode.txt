@@ -1,8 +1,8 @@
-gamemode survival
-gamemode survival <target minecraft:entity[amount="multiple", type="players"]>
-gamemode creative
-gamemode creative <target minecraft:entity[amount="multiple", type="players"]>
 gamemode adventure
-gamemode adventure <target minecraft:entity[amount="multiple", type="players"]>
+gamemode adventure <target minecraft:entity[type="players", amount="multiple"]>
+gamemode creative
+gamemode creative <target minecraft:entity[type="players", amount="multiple"]>
 gamemode spectator
-gamemode spectator <target minecraft:entity[amount="multiple", type="players"]>
+gamemode spectator <target minecraft:entity[type="players", amount="multiple"]>
+gamemode survival
+gamemode survival <target minecraft:entity[type="players", amount="multiple"]>

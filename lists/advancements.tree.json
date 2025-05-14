@@ -9,7 +9,7 @@
       "minecraft:adventure/avoid_vibration": {
         "icon": "minecraft:sculk_sensor",
         "title": "Sneak 100",
-        "description": "Sneak near a Sculk Sensor, Sculk Shrieker or Warden to prevent it from hearing you",
+        "description": "Sneak near a Sculk Sensor or Warden to prevent it from detecting you",
         "frame": "task"
       },
       "minecraft:adventure/fall_from_world_height": {
