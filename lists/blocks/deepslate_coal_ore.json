@@ -1,1 +1,13 @@
-{}
+{
+  "definition": {
+    "type": "minecraft:drop_experience",
+    "experience": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 2,
+        "min_inclusive": 0
+      }
+    },
+    "properties": {}
+  }
+}

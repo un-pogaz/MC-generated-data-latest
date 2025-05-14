@@ -1,1 +1,7 @@
-{}
+{
+  "definition": {
+    "type": "minecraft:stained_glass",
+    "color": "magenta",
+    "properties": {}
+  }
+}

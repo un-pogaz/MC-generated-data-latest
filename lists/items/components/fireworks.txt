@@ -1,0 +1,1 @@
+minecraft:firework_rocket  = {flight_duration: 1}

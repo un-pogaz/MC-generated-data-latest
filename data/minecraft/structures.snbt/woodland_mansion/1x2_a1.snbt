@@ -3402,8 +3402,8 @@
     },
     {
       nbt: {
-        id: "minecraft:banner",
-        Patterns: []
+        patterns: [],
+        id: "minecraft:banner"
       },
       pos: [3, 4, 10],
       state: 6
@@ -3448,5 +3448,5 @@
       Name: "minecraft:gray_wall_banner"
     }
   ],
-  DataVersion: 3817
+  DataVersion: 3819
 }

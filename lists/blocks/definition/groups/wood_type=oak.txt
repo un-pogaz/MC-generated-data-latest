@@ -1,0 +1,5 @@
+minecraft:oak_fence_gate
+minecraft:oak_hanging_sign
+minecraft:oak_sign
+minecraft:oak_wall_hanging_sign
+minecraft:oak_wall_sign

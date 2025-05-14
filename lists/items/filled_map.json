@@ -1,0 +1,32 @@
+{
+  "components": [
+    {
+      "type": "minecraft:attribute_modifiers",
+      "value": {
+        "modifiers": []
+      }
+    },
+    {
+      "type": "minecraft:enchantments",
+      "value": {
+        "levels": {}
+      }
+    },
+    {
+      "type": "minecraft:lore",
+      "value": []
+    },
+    {
+      "type": "minecraft:map_color",
+      "value": 4603950
+    },
+    {
+      "type": "minecraft:map_decorations",
+      "value": {}
+    },
+    {
+      "type": "minecraft:repair_cost",
+      "value": 0
+    }
+  ]
+}

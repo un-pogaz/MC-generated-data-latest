@@ -1,1 +1,6 @@
-{}
+{
+  "definition": {
+    "type": "minecraft:crafting_table",
+    "properties": {}
+  }
+}

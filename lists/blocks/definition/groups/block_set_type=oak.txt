@@ -1,0 +1,4 @@
+minecraft:oak_button
+minecraft:oak_door
+minecraft:oak_pressure_plate
+minecraft:oak_trapdoor

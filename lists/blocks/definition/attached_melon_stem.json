@@ -1,0 +1,7 @@
+{
+  "fruit": "minecraft:melon",
+  "properties": {},
+  "seed": "minecraft:melon_seeds",
+  "stem": "minecraft:melon_stem",
+  "type": "minecraft:attached_stem"
+}

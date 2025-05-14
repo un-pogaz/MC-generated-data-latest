@@ -1,0 +1,7 @@
+{
+  "brush_comleted_sound": "minecraft:item.brush.brushing.gravel.complete",
+  "brush_sound": "minecraft:item.brush.brushing.gravel",
+  "properties": {},
+  "turns_into": "minecraft:gravel",
+  "type": "minecraft:brushable"
+}

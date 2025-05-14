@@ -1,0 +1,5 @@
+minecraft:mangrove_fence_gate
+minecraft:mangrove_hanging_sign
+minecraft:mangrove_sign
+minecraft:mangrove_wall_hanging_sign
+minecraft:mangrove_wall_sign

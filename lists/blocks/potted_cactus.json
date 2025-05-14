@@ -1,1 +1,7 @@
-{}
+{
+  "definition": {
+    "type": "minecraft:flower_pot",
+    "potted": "minecraft:cactus",
+    "properties": {}
+  }
+}

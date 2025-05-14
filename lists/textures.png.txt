@@ -932,9 +932,8 @@ minecraft:block/vault_front_off
 minecraft:block/vault_front_on
 minecraft:block/vault_side_off
 minecraft:block/vault_side_on
+minecraft:block/vault_top
 minecraft:block/vault_top_ejecting
-minecraft:block/vault_top_off
-minecraft:block/vault_top_on
 minecraft:block/verdant_froglight_side
 minecraft:block/verdant_froglight_top
 minecraft:block/vine
@@ -1456,6 +1455,10 @@ minecraft:entity/wither/wither_invulnerable
 minecraft:entity/wolf/wolf
 minecraft:entity/wolf/wolf_angry
 minecraft:entity/wolf/wolf_armor
+minecraft:entity/wolf/wolf_armor_crackiness_high
+minecraft:entity/wolf/wolf_armor_crackiness_low
+minecraft:entity/wolf/wolf_armor_crackiness_medium
+minecraft:entity/wolf/wolf_armor_overlay
 minecraft:entity/wolf/wolf_collar
 minecraft:entity/wolf/wolf_tame
 minecraft:entity/zombie/drowned
@@ -1546,8 +1549,8 @@ minecraft:gui/hanging_signs/oak
 minecraft:gui/hanging_signs/spruce
 minecraft:gui/hanging_signs/warped
 minecraft:gui/header_separator
-minecraft:gui/light_dirt_background
-minecraft:gui/options_background
+minecraft:gui/menu_background
+minecraft:gui/menu_list_background
 minecraft:gui/presets/isles
 minecraft:gui/realms/adventure
 minecraft:gui/realms/empty_frame
@@ -1592,10 +1595,6 @@ minecraft:gui/sprites/advancements/tab_right_top_selected
 minecraft:gui/sprites/advancements/task_frame_obtained
 minecraft:gui/sprites/advancements/task_frame_unobtained
 minecraft:gui/sprites/advancements/title_box  [mcmeta]
-minecraft:gui/sprites/backup/changes
-minecraft:gui/sprites/backup/changes_highlighted
-minecraft:gui/sprites/backup/restore
-minecraft:gui/sprites/backup/restore_highlighted
 minecraft:gui/sprites/boss_bar/blue_background
 minecraft:gui/sprites/boss_bar/blue_progress
 minecraft:gui/sprites/boss_bar/green_background
@@ -1828,11 +1827,8 @@ minecraft:gui/sprites/pending_invite/accept_highlighted
 minecraft:gui/sprites/pending_invite/reject
 minecraft:gui/sprites/pending_invite/reject_highlighted
 minecraft:gui/sprites/player_list/make_operator
-minecraft:gui/sprites/player_list/make_operator_highlighted
 minecraft:gui/sprites/player_list/remove_operator
-minecraft:gui/sprites/player_list/remove_operator_highlighted
 minecraft:gui/sprites/player_list/remove_player
-minecraft:gui/sprites/player_list/remove_player_highlighted
 minecraft:gui/sprites/popup/background  [mcmeta]
 minecraft:gui/sprites/realm_status/closed
 minecraft:gui/sprites/realm_status/expired
@@ -1943,6 +1939,7 @@ minecraft:gui/sprites/widget/page_backward_highlighted
 minecraft:gui/sprites/widget/page_forward
 minecraft:gui/sprites/widget/page_forward_highlighted
 minecraft:gui/sprites/widget/scroller  [mcmeta]
+minecraft:gui/sprites/widget/scroller_background  [mcmeta]
 minecraft:gui/sprites/widget/slider  [mcmeta]
 minecraft:gui/sprites/widget/slider_handle  [mcmeta]
 minecraft:gui/sprites/widget/slider_handle_highlighted  [mcmeta]
@@ -2558,6 +2555,7 @@ minecraft:item/white_dye
 minecraft:item/wild_armor_trim_smithing_template
 minecraft:item/wind_charge
 minecraft:item/wolf_armor
+minecraft:item/wolf_armor_overlay
 minecraft:item/wooden_axe
 minecraft:item/wooden_hoe
 minecraft:item/wooden_pickaxe

@@ -1,0 +1,7 @@
+minecraft:pink_banner
+minecraft:pink_bed
+minecraft:pink_carpet
+minecraft:pink_shulker_box
+minecraft:pink_stained_glass
+minecraft:pink_stained_glass_pane
+minecraft:pink_wall_banner

@@ -1,0 +1,7 @@
+minecraft:black_banner
+minecraft:black_bed
+minecraft:black_carpet
+minecraft:black_shulker_box
+minecraft:black_stained_glass
+minecraft:black_stained_glass_pane
+minecraft:black_wall_banner

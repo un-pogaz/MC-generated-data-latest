@@ -1,0 +1,2 @@
+minecraft:suspicious_gravel  = minecraft:gravel
+minecraft:suspicious_sand  = minecraft:sand

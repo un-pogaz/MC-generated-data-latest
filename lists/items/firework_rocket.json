@@ -1,0 +1,30 @@
+{
+  "components": [
+    {
+      "type": "minecraft:attribute_modifiers",
+      "value": {
+        "modifiers": []
+      }
+    },
+    {
+      "type": "minecraft:enchantments",
+      "value": {
+        "levels": {}
+      }
+    },
+    {
+      "type": "minecraft:fireworks",
+      "value": {
+        "flight_duration": 1
+      }
+    },
+    {
+      "type": "minecraft:lore",
+      "value": []
+    },
+    {
+      "type": "minecraft:repair_cost",
+      "value": 0
+    }
+  ]
+}

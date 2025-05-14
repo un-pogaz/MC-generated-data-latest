@@ -1,0 +1,5 @@
+minecraft:jungle_fence_gate
+minecraft:jungle_hanging_sign
+minecraft:jungle_sign
+minecraft:jungle_wall_hanging_sign
+minecraft:jungle_wall_sign

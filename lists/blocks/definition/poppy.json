@@ -1,0 +1,10 @@
+{
+  "properties": {},
+  "suspicious_stew_effects": [
+    {
+      "duration": 100,
+      "id": "minecraft:night_vision"
+    }
+  ],
+  "type": "minecraft:flower"
+}

@@ -1,0 +1,9 @@
+minecraft:weathered_chiseled_copper
+minecraft:weathered_copper
+minecraft:weathered_copper_bulb
+minecraft:weathered_copper_door
+minecraft:weathered_copper_grate
+minecraft:weathered_copper_trapdoor
+minecraft:weathered_cut_copper
+minecraft:weathered_cut_copper_slab
+minecraft:weathered_cut_copper_stairs

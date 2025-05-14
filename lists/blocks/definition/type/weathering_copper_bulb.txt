@@ -1,0 +1,4 @@
+minecraft:copper_bulb
+minecraft:exposed_copper_bulb
+minecraft:oxidized_copper_bulb
+minecraft:weathered_copper_bulb

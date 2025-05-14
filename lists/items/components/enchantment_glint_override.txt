@@ -1,0 +1,7 @@
+minecraft:debug_stick  = True
+minecraft:enchanted_book  = True
+minecraft:enchanted_golden_apple  = True
+minecraft:end_crystal  = True
+minecraft:experience_bottle  = True
+minecraft:nether_star  = True
+minecraft:written_book  = True

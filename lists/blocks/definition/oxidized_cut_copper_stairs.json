@@ -1,0 +1,8 @@
+{
+  "base_state": {
+    "Name": "minecraft:oxidized_cut_copper"
+  },
+  "properties": {},
+  "type": "minecraft:weathering_copper_stair",
+  "weathering_state": "oxidized"
+}

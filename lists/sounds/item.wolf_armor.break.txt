@@ -1,0 +1,1 @@
+minecraft:item/armor/break_wolf

@@ -1,0 +1,7 @@
+minecraft:infested_chiseled_stone_bricks  = minecraft:chiseled_stone_bricks
+minecraft:infested_cobblestone  = minecraft:cobblestone
+minecraft:infested_cracked_stone_bricks  = minecraft:cracked_stone_bricks
+minecraft:infested_deepslate  = minecraft:deepslate
+minecraft:infested_mossy_stone_bricks  = minecraft:mossy_stone_bricks
+minecraft:infested_stone  = minecraft:stone
+minecraft:infested_stone_bricks  = minecraft:stone_bricks

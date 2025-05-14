@@ -1,0 +1,2 @@
+minecraft:crimson_fungus  = minecraft:crimson_nylium
+minecraft:warped_fungus  = minecraft:warped_nylium

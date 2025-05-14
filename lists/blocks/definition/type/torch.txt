@@ -1,0 +1,2 @@
+minecraft:soul_torch
+minecraft:torch

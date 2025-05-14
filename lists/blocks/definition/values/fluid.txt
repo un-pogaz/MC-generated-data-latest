@@ -1,0 +1,2 @@
+minecraft:lava  = minecraft:lava
+minecraft:water  = minecraft:water

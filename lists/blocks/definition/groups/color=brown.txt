@@ -1,0 +1,7 @@
+minecraft:brown_banner
+minecraft:brown_bed
+minecraft:brown_carpet
+minecraft:brown_shulker_box
+minecraft:brown_stained_glass
+minecraft:brown_stained_glass_pane
+minecraft:brown_wall_banner

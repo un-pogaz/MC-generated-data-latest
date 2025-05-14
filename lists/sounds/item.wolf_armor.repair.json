@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "item/armor/repair_wolf1",
+    "item/armor/repair_wolf2",
+    "item/armor/repair_wolf3",
+    "item/armor/repair_wolf4"
+  ],
+  "subtitle": "subtitles.item.wolf_armor.repair"
+}

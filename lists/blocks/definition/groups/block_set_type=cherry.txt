@@ -1,0 +1,4 @@
+minecraft:cherry_button
+minecraft:cherry_door
+minecraft:cherry_pressure_plate
+minecraft:cherry_trapdoor

@@ -1,0 +1,7 @@
+minecraft:light_gray_banner
+minecraft:light_gray_bed
+minecraft:light_gray_carpet
+minecraft:light_gray_shulker_box
+minecraft:light_gray_stained_glass
+minecraft:light_gray_stained_glass_pane
+minecraft:light_gray_wall_banner

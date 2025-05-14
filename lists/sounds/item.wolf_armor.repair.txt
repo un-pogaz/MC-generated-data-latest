@@ -1,0 +1,4 @@
+minecraft:item/armor/repair_wolf1
+minecraft:item/armor/repair_wolf2
+minecraft:item/armor/repair_wolf3
+minecraft:item/armor/repair_wolf4
