@@ -7,8 +7,8 @@
     "structure_overrides": [
       "minecraft:desert_pyramids",
       "minecraft:villages",
-      "minecraft:strongholds",
-      "minecraft:mineshafts"
+      "minecraft:mineshafts",
+      "minecraft:strongholds"
     ],
     "layers": [
       {
