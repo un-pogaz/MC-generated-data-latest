@@ -1,5 +1,5 @@
 minecraft:gold_nugget
-minecraft:grass
+minecraft:short_grass
 minecraft:tall_grass
 minecraft:bread
 minecraft:wheat_seeds

@@ -2540,7 +2540,7 @@
       Name: "minecraft:air"
     },
     {
-      Name: "minecraft:grass"
+      Name: "minecraft:short_grass"
     },
     {
       Properties: {
@@ -2621,5 +2621,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 3691
+  DataVersion: 3693
 }

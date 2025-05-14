@@ -1851,7 +1851,7 @@
       Name: "minecraft:spruce_stairs"
     },
     {
-      Name: "minecraft:grass"
+      Name: "minecraft:short_grass"
     },
     {
       Name: "minecraft:air"
@@ -1982,5 +1982,5 @@
       Name: "minecraft:blue_bed"
     }
   ],
-  DataVersion: 3691
+  DataVersion: 3693
 }

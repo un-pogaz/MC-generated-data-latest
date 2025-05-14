@@ -2302,7 +2302,7 @@
       Name: "minecraft:acacia_log"
     },
     {
-      Name: "minecraft:grass"
+      Name: "minecraft:short_grass"
     },
     {
       Name: "minecraft:air"
@@ -2492,5 +2492,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 3691
+  DataVersion: 3693
 }
