@@ -1,0 +1,3 @@
+minecraft:mob/wolf/puglin/growl1
+minecraft:mob/wolf/puglin/growl2
+minecraft:mob/wolf/puglin/growl3

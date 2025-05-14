@@ -1,8 +1,8 @@
 {
   "sounds": [
-    "mob/wolf/bark1",
-    "mob/wolf/bark2",
-    "mob/wolf/bark3"
+    "mob/wolf/classic/bark1",
+    "mob/wolf/classic/bark2",
+    "mob/wolf/classic/bark3"
   ],
-  "subtitle": "subtitles.entity.wolf.ambient"
+  "subtitle": "subtitles.entity.wolf.bark"
 }

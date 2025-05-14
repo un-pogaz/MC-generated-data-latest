@@ -88,6 +88,7 @@ minecraft:trim_material
 minecraft:trim_pattern
 minecraft:villager_profession
 minecraft:villager_type
+minecraft:wolf_sound_variant
 minecraft:wolf_variant
 minecraft:worldgen/biome
 minecraft:worldgen/biome_source

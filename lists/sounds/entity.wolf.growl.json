@@ -1,8 +1,8 @@
 {
   "sounds": [
-    "mob/wolf/growl1",
-    "mob/wolf/growl2",
-    "mob/wolf/growl3"
+    "mob/wolf/classic/growl1",
+    "mob/wolf/classic/growl2",
+    "mob/wolf/classic/growl3"
   ],
   "subtitle": "subtitles.entity.wolf.growl"
 }

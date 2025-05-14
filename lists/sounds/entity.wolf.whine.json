@@ -1,6 +1,6 @@
 {
   "sounds": [
-    "mob/wolf/whine"
+    "mob/wolf/classic/whine"
   ],
-  "subtitle": "subtitles.entity.wolf.ambient"
+  "subtitle": "subtitles.entity.wolf.whine"
 }

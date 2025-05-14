@@ -1,1 +1,1 @@
-minecraft:mob/wolf/whine
+minecraft:mob/wolf/classic/whine

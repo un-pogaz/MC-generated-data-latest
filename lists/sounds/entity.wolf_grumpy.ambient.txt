@@ -1,0 +1,3 @@
+minecraft:mob/wolf/grumpy/bark1
+minecraft:mob/wolf/grumpy/bark2
+minecraft:mob/wolf/grumpy/bark3

@@ -1,0 +1,3 @@
+minecraft:mob/wolf/puglin/bark1
+minecraft:mob/wolf/puglin/bark2
+minecraft:mob/wolf/puglin/bark3

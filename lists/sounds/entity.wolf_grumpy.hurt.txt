@@ -1,0 +1,3 @@
+minecraft:mob/wolf/grumpy/hurt1
+minecraft:mob/wolf/grumpy/hurt2
+minecraft:mob/wolf/grumpy/hurt3

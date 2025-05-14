@@ -1,1 +1,1 @@
-minecraft:mob/wolf/death
+minecraft:mob/wolf/classic/death

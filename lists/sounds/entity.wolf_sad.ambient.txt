@@ -1,0 +1,3 @@
+minecraft:mob/wolf/sad/bark1
+minecraft:mob/wolf/sad/bark2
+minecraft:mob/wolf/sad/bark3
