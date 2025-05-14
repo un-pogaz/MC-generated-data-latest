@@ -1,7 +1,7 @@
 {
   "sounds": [
-    "block/wooden_door/close",
-    "block/wooden_door/open"
+    "block/chest/close_locked",
+    "block/chest/open_locked"
   ],
   "subtitle": "subtitles.block.chest.locked"
 }

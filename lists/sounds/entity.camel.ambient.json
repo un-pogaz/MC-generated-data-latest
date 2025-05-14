@@ -1,0 +1,37 @@
+{
+  "sounds": [
+    {
+      "name": "mob/camel/ambient1",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/camel/ambient2",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/camel/ambient3",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/ambient4",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/ambient5",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/ambient6",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/ambient7",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel/ambient8",
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.entity.camel.ambient"
+}

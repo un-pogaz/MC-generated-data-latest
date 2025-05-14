@@ -1,8 +1,17 @@
 {
   "sounds": [
-    "block/wooden_door/close2",
-    "block/wooden_door/close5",
-    "block/wooden_door/close6"
+    {
+      "name": "block/wooden_door/close1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/wooden_door/close2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/wooden_door/close3",
+      "volume": 0.9
+    }
   ],
   "subtitle": "subtitles.block.door.toggle"
 }

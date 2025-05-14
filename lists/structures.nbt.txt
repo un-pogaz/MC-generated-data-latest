@@ -392,6 +392,7 @@ minecraft:village/common/well_bottom
 minecraft:village/decays/grass_11x13
 minecraft:village/decays/grass_16x16
 minecraft:village/decays/grass_9x9
+minecraft:village/desert/camel_spawn
 minecraft:village/desert/desert_lamp_1
 minecraft:village/desert/houses/desert_animal_pen_1
 minecraft:village/desert/houses/desert_animal_pen_2

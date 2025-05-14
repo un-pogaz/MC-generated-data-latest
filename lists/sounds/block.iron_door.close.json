@@ -1,9 +1,21 @@
 {
   "sounds": [
-    "block/iron_door/close1",
-    "block/iron_door/close2",
-    "block/iron_door/close3",
-    "block/iron_door/close4"
+    {
+      "name": "block/iron_door/close1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/iron_door/close2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/iron_door/close3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/iron_door/close4",
+      "volume": 0.9
+    }
   ],
   "subtitle": "subtitles.block.door.toggle"
 }

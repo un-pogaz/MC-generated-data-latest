@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/bamboo_wood/step1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood/step2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood/step3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood/step4",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood/step5",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood/step6",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

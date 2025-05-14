@@ -1,0 +1,6 @@
+minecraft:mob/camel/dash1
+minecraft:mob/camel/dash2
+minecraft:mob/camel/dash3
+minecraft:mob/camel/dash4
+minecraft:mob/camel/dash5
+minecraft:mob/camel/dash6

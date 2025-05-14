@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "mob/camel/eat1",
+      "volume": 0.2
+    },
+    {
+      "name": "mob/camel/eat2",
+      "volume": 0.2
+    },
+    {
+      "name": "mob/camel/eat3",
+      "volume": 0.2
+    },
+    {
+      "name": "mob/camel/eat4",
+      "volume": 0.2
+    },
+    {
+      "name": "mob/camel/eat5",
+      "volume": 0.2
+    }
+  ],
+  "subtitle": "subtitles.entity.camel.eat"
+}

@@ -1,5 +1,7 @@
 minecraft:acacia_slab
 minecraft:andesite_slab
+minecraft:bamboo_mosaic_slab
+minecraft:bamboo_slab
 minecraft:birch_slab
 minecraft:blackstone_slab
 minecraft:brick_slab

@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/camel/step_sand1",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/camel/step_sand2",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/camel/step_sand3",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/camel/step_sand4",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/camel/step_sand5",
+      "volume": 0.45
+    },
+    {
+      "name": "mob/camel/step_sand6",
+      "volume": 0.45
+    }
+  ],
+  "subtitle": "subtitles.entity.camel.step_sand"
+}

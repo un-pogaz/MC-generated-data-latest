@@ -2,6 +2,10 @@ minecraft:acacia_door
 minecraft:acacia_stairs
 minecraft:acacia_trapdoor
 minecraft:andesite_stairs
+minecraft:bamboo_door
+minecraft:bamboo_mosaic_stairs
+minecraft:bamboo_stairs
+minecraft:bamboo_trapdoor
 minecraft:birch_door
 minecraft:birch_stairs
 minecraft:birch_trapdoor

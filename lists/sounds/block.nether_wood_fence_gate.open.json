@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/nether_wood_fence/toggle1",
+    "block/nether_wood_fence/toggle2",
+    "block/nether_wood_fence/toggle3",
+    "block/nether_wood_fence/toggle4"
+  ],
+  "subtitle": "subtitles.block.fence_gate.toggle"
+}

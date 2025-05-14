@@ -1,0 +1,6 @@
+minecraft:block/bamboo_wood/step1
+minecraft:block/bamboo_wood/step2
+minecraft:block/bamboo_wood/step3
+minecraft:block/bamboo_wood/step4
+minecraft:block/bamboo_wood/step5
+minecraft:block/bamboo_wood/step6

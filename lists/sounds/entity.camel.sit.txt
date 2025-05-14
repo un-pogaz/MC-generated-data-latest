@@ -1,0 +1,4 @@
+minecraft:mob/camel/sit1
+minecraft:mob/camel/sit2
+minecraft:mob/camel/sit3
+minecraft:mob/camel/sit4

@@ -1,0 +1,5 @@
+minecraft:mob/camel/stand1
+minecraft:mob/camel/stand2
+minecraft:mob/camel/stand3
+minecraft:mob/camel/stand4
+minecraft:mob/camel/stand5

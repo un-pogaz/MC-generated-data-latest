@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "entity.horse.saddle",
+      "pitch": 0.8,
+      "type": "event"
+    }
+  ],
+  "subtitle": "subtitles.entity.camel.saddle"
+}

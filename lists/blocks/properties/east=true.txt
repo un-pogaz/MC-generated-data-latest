@@ -1,4 +1,5 @@
 minecraft:acacia_fence
+minecraft:bamboo_fence
 minecraft:birch_fence
 minecraft:black_stained_glass_pane
 minecraft:blue_stained_glass_pane

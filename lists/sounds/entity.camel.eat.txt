@@ -1,0 +1,5 @@
+minecraft:mob/camel/eat1
+minecraft:mob/camel/eat2
+minecraft:mob/camel/eat3
+minecraft:mob/camel/eat4
+minecraft:mob/camel/eat5

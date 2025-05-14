@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "mob/camel/step1",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/step2",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/step3",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/step4",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/step5",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/camel/step6",
+      "volume": 0.5
+    }
+  ],
+  "subtitle": "subtitles.entity.camel.step"
+}

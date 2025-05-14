@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/bamboo_wood_door/toggle1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood_door/toggle2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood_door/toggle3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/bamboo_wood_door/toggle4",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.door.toggle"
+}

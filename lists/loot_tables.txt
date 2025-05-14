@@ -47,6 +47,7 @@ minecraft:entities/axolotl
 minecraft:entities/bat
 minecraft:entities/bee
 minecraft:entities/blaze
+minecraft:entities/camel
 minecraft:entities/cat
 minecraft:entities/cave_spider
 minecraft:entities/chicken

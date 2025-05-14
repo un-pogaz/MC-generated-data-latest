@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "mob/camel/sit1",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel/sit2",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel/sit3",
+      "volume": 0.3
+    },
+    {
+      "name": "mob/camel/sit4",
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.entity.camel.sit"
+}

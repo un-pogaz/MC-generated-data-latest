@@ -78,3 +78,6 @@ minecraft:wheat
 #minecraft:wooden_stairs
 #minecraft:wooden_trapdoors
 minecraft:mangrove_roots
+#minecraft:all_hanging_signs
+minecraft:bamboo_mosaic
+minecraft:chiseled_bookshelf

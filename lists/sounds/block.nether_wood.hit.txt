@@ -1,0 +1,5 @@
+minecraft:block/nether_wood/step1
+minecraft:block/nether_wood/step2
+minecraft:block/nether_wood/step3
+minecraft:block/nether_wood/step4
+minecraft:block/nether_wood/step5

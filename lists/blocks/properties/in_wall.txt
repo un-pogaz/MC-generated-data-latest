@@ -1,4 +1,5 @@
 minecraft:acacia_fence_gate
+minecraft:bamboo_fence_gate
 minecraft:birch_fence_gate
 minecraft:crimson_fence_gate
 minecraft:dark_oak_fence_gate

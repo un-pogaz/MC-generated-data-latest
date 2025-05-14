@@ -4,6 +4,11 @@ minecraft:acacia_fence_gate
 minecraft:acacia_pressure_plate
 minecraft:acacia_trapdoor
 minecraft:activator_rail
+minecraft:bamboo_button
+minecraft:bamboo_door
+minecraft:bamboo_fence_gate
+minecraft:bamboo_pressure_plate
+minecraft:bamboo_trapdoor
 minecraft:bell
 minecraft:birch_button
 minecraft:birch_door

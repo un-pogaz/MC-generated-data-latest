@@ -1,6 +1,8 @@
 minecraft:acacia_stairs
 minecraft:activator_rail
 minecraft:andesite_stairs
+minecraft:bamboo_mosaic_stairs
+minecraft:bamboo_stairs
 minecraft:birch_stairs
 minecraft:blackstone_stairs
 minecraft:brick_stairs

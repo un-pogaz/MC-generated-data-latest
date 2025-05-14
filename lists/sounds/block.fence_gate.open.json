@@ -1,7 +1,13 @@
 {
   "sounds": [
-    "block/fence_gate/open1",
-    "block/fence_gate/open2"
+    {
+      "name": "block/fence_gate/open1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/fence_gate/open2",
+      "volume": 0.9
+    }
   ],
   "subtitle": "subtitles.block.fence_gate.toggle"
 }
