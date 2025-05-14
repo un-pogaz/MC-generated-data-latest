@@ -117,6 +117,7 @@ minecraft/lang/sk_sk.json
 minecraft/lang/sl_si.json
 minecraft/lang/so_so.json
 minecraft/lang/sq_al.json
+minecraft/lang/sr_cs.json
 minecraft/lang/sr_sp.json
 minecraft/lang/sv_se.json
 minecraft/lang/sxu.json

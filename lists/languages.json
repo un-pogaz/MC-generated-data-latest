@@ -529,6 +529,11 @@
     "region": "Shqipëri",
     "bidirectional": false
   },
+  "sr_cs": {
+    "name": "Srpski",
+    "region": "Srbija",
+    "bidirectional": false
+  },
   "sr_sp": {
     "name": "Српски",
     "region": "Србија",
