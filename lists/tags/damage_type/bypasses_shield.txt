@@ -1,0 +1,3 @@
+#minecraft:bypasses_armor
+minecraft:falling_anvil
+minecraft:falling_stalactite

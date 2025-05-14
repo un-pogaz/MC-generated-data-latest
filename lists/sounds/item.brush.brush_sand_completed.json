@@ -5,5 +5,6 @@
     "item/brush/brush_completed3",
     "item/brush/brush_completed4",
     "item/brush/brush_completed5"
-  ]
+  ],
+  "subtitle": "subtitles.item.brush.brush_sand_completed"
 }

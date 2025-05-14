@@ -50,6 +50,7 @@ minecraft:wither_skull
 #minecraft:bypasses_enchantments
 #minecraft:bypasses_invulnerability
 #minecraft:bypasses_resistance
+#minecraft:bypasses_shield
 #minecraft:damages_helmet
 #minecraft:ignites_armor_stands
 #minecraft:is_drowning
