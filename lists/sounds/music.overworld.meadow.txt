@@ -1,0 +1,6 @@
+minecraft:music/game/hal1
+minecraft:music/game/hal2
+minecraft:music/game/hal3
+minecraft:music/game/hal4
+minecraft:music/game/left_to_bloom
+minecraft:music/game/one_more_day

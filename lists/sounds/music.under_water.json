@@ -1,7 +1,7 @@
 {
   "sounds": [
     {
-      "name": "music/game/water/shuniji",
+      "name": "music/game/water/axolotl",
       "stream": true,
       "volume": 0.4
     },
@@ -11,7 +11,7 @@
       "volume": 0.4
     },
     {
-      "name": "music/game/water/axolotl",
+      "name": "music/game/water/shuniji",
       "stream": true,
       "volume": 0.4
     }

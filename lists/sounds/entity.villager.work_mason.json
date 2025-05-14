@@ -1,21 +1,13 @@
 {
   "sounds": [
+    "ui/stonecutter/cut1",
     {
       "name": "ui/stonecutter/cut1",
-      "volume": 1
-    },
-    {
-      "name": "ui/stonecutter/cut1",
-      "volume": 1,
       "pitch": 0.92
     },
+    "ui/stonecutter/cut2",
     {
       "name": "ui/stonecutter/cut2",
-      "volume": 1
-    },
-    {
-      "name": "ui/stonecutter/cut2",
-      "volume": 1,
       "pitch": 0.92
     }
   ],

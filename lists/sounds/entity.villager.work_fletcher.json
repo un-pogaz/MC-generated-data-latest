@@ -1,15 +1,7 @@
 {
   "sounds": [
-    {
-      "name": "block/fletching_table/fletching_table1",
-      "volume": 1,
-      "pitch": 1
-    },
-    {
-      "name": "block/fletching_table/fletching_table2",
-      "volume": 1,
-      "pitch": 1
-    }
+    "block/fletching_table/fletching_table1",
+    "block/fletching_table/fletching_table2"
   ],
   "subtitle": "subtitles.entity.villager.work_fletcher"
 }

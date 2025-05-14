@@ -2,33 +2,33 @@
   "sounds": [
     {
       "name": "block/stem/break1",
-      "volume": 0.8,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.8
     },
     {
       "name": "block/stem/break2",
-      "volume": 0.8,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.8
     },
     {
       "name": "block/stem/break3",
-      "volume": 0.8,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.8
     },
     {
       "name": "block/stem/break4",
-      "volume": 0.8,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.8
     },
     {
       "name": "block/stem/break5",
-      "volume": 0.8,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.8
     },
     {
       "name": "block/stem/break6",
-      "volume": 0.8,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.8
     }
   ],
   "subtitle": "subtitles.block.generic.place"

@@ -1,166 +1,148 @@
 {
   "sounds": [
     {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient1"
+    },
+    {
+      "attenuation_distance": 3,
       "name": "block/candle/ambient1",
-      "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
+      "pitch": 0.8,
+      "volume": 0.7
     },
     {
-      "name": "block/candle/ambient2",
       "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
-    },
-    {
-      "name": "block/candle/ambient3",
-      "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
-    },
-    {
-      "name": "block/candle/ambient4",
-      "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
-    },
-    {
-      "name": "block/candle/ambient5",
-      "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
-    },
-    {
-      "name": "block/candle/ambient6",
-      "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
-    },
-    {
-      "name": "block/candle/ambient7",
-      "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
-    },
-    {
-      "name": "block/candle/ambient8",
-      "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
-    },
-    {
-      "name": "block/candle/ambient9",
-      "attenuation_distance": 3,
-      "volume": 0.7,
-      "pitch": 0.8
-    },
-    {
       "name": "block/candle/ambient1",
-      "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
+      "pitch": 0.9,
+      "volume": 0.8
     },
     {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient2"
+    },
+    {
+      "attenuation_distance": 3,
       "name": "block/candle/ambient2",
-      "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
+      "pitch": 0.8,
+      "volume": 0.7
     },
     {
-      "name": "block/candle/ambient3",
       "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
-    },
-    {
-      "name": "block/candle/ambient4",
-      "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
-    },
-    {
-      "name": "block/candle/ambient5",
-      "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
-    },
-    {
-      "name": "block/candle/ambient6",
-      "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
-    },
-    {
-      "name": "block/candle/ambient7",
-      "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
-    },
-    {
-      "name": "block/candle/ambient8",
-      "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
-    },
-    {
-      "name": "block/candle/ambient9",
-      "attenuation_distance": 3,
-      "volume": 0.8,
-      "pitch": 0.9
-    },
-    {
-      "name": "block/candle/ambient1",
-      "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
-    },
-    {
       "name": "block/candle/ambient2",
-      "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
+      "pitch": 0.9,
+      "volume": 0.8
     },
     {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient3"
+    },
+    {
+      "attenuation_distance": 3,
       "name": "block/candle/ambient3",
-      "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
+      "pitch": 0.8,
+      "volume": 0.7
     },
     {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient3",
+      "pitch": 0.9,
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient4"
+    },
+    {
+      "attenuation_distance": 3,
       "name": "block/candle/ambient4",
-      "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
+      "pitch": 0.8,
+      "volume": 0.7
     },
     {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient4",
+      "pitch": 0.9,
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient5"
+    },
+    {
+      "attenuation_distance": 3,
       "name": "block/candle/ambient5",
-      "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
+      "pitch": 0.8,
+      "volume": 0.7
     },
     {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient5",
+      "pitch": 0.9,
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient6"
+    },
+    {
+      "attenuation_distance": 3,
       "name": "block/candle/ambient6",
-      "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
+      "pitch": 0.8,
+      "volume": 0.7
     },
     {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient6",
+      "pitch": 0.9,
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient7"
+    },
+    {
+      "attenuation_distance": 3,
       "name": "block/candle/ambient7",
-      "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
+      "pitch": 0.8,
+      "volume": 0.7
     },
     {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient7",
+      "pitch": 0.9,
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient8"
+    },
+    {
+      "attenuation_distance": 3,
       "name": "block/candle/ambient8",
-      "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
+      "pitch": 0.8,
+      "volume": 0.7
     },
     {
-      "name": "block/candle/ambient9",
       "attenuation_distance": 3,
-      "volume": 1,
-      "pitch": 1
+      "name": "block/candle/ambient8",
+      "pitch": 0.9,
+      "volume": 0.8
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient9"
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient9",
+      "pitch": 0.8,
+      "volume": 0.7
+    },
+    {
+      "attenuation_distance": 3,
+      "name": "block/candle/ambient9",
+      "pitch": 0.9,
+      "volume": 0.8
     }
   ],
   "subtitle": "subtitles.block.candle.crackle"

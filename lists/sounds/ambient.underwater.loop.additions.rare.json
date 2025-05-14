@@ -9,7 +9,6 @@
       "name": "ambient/underwater/additions/bass_whale2",
       "volume": 0.5
     },
-    "ambient/underwater/additions/earth_crack",
     {
       "name": "ambient/underwater/additions/crackles1",
       "volume": 0.7
@@ -22,6 +21,7 @@
     {
       "name": "ambient/underwater/additions/driplets2",
       "volume": 0.5
-    }
+    },
+    "ambient/underwater/additions/earth_crack"
   ]
 }

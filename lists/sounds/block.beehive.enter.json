@@ -3,12 +3,12 @@
     {
       "attenuation_distance": 14,
       "name": "block/beehive/enter",
-      "pitch": 0.8
+      "pitch": 0.7
     },
     {
       "attenuation_distance": 14,
       "name": "block/beehive/enter",
-      "pitch": 0.7
+      "pitch": 0.8
     }
   ],
   "subtitle": "subtitles.block.beehive.enter"

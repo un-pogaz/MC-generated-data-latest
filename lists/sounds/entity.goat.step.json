@@ -1,29 +1,11 @@
 {
   "sounds": [
-    {
-      "name": "mob/goat/step1",
-      "volume": 1
-    },
-    {
-      "name": "mob/goat/step2",
-      "volume": 1
-    },
-    {
-      "name": "mob/goat/step3",
-      "volume": 1
-    },
-    {
-      "name": "mob/goat/step4",
-      "volume": 1
-    },
-    {
-      "name": "mob/goat/step5",
-      "volume": 1
-    },
-    {
-      "name": "mob/goat/step6",
-      "volume": 1
-    }
+    "mob/goat/step1",
+    "mob/goat/step2",
+    "mob/goat/step3",
+    "mob/goat/step4",
+    "mob/goat/step5",
+    "mob/goat/step6"
   ],
   "subtitle": "subtitles.block.generic.footsteps"
 }

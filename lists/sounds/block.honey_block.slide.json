@@ -5,30 +5,30 @@
       "volume": 0.8
     },
     {
-      "name": "block/honeyblock/slide2",
-      "volume": 0.8
-    },
-    {
-      "name": "block/honeyblock/slide3",
-      "volume": 0.8
-    },
-    {
-      "name": "block/honeyblock/slide4",
-      "volume": 0.8
-    },
-    {
       "name": "block/honeyblock/slide1",
       "pitch": 0.9,
       "volume": 0.8
     },
     {
       "name": "block/honeyblock/slide2",
+      "volume": 0.8
+    },
+    {
+      "name": "block/honeyblock/slide2",
       "pitch": 0.8,
       "volume": 0.8
     },
     {
       "name": "block/honeyblock/slide3",
+      "volume": 0.8
+    },
+    {
+      "name": "block/honeyblock/slide3",
       "pitch": 0.8,
+      "volume": 0.8
+    },
+    {
+      "name": "block/honeyblock/slide4",
       "volume": 0.8
     },
     {

@@ -1,52 +1,16 @@
 {
   "sounds": [
-    {
-      "name": "ambient/nether/warped_forest/creak1",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/creak2",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/creak3",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/creak4",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/creak5",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/mood1",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/mood2",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/mood3",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/mood4",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/mood5",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/mood6",
-      "volume": 1
-    },
-    {
-      "name": "ambient/nether/warped_forest/mood7",
-      "volume": 1
-    }
+    "ambient/nether/warped_forest/creak1",
+    "ambient/nether/warped_forest/creak2",
+    "ambient/nether/warped_forest/creak3",
+    "ambient/nether/warped_forest/creak4",
+    "ambient/nether/warped_forest/creak5",
+    "ambient/nether/warped_forest/mood1",
+    "ambient/nether/warped_forest/mood2",
+    "ambient/nether/warped_forest/mood3",
+    "ambient/nether/warped_forest/mood4",
+    "ambient/nether/warped_forest/mood5",
+    "ambient/nether/warped_forest/mood6",
+    "ambient/nether/warped_forest/mood7"
   ]
 }

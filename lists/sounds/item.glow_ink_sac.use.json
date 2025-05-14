@@ -1,40 +1,31 @@
 {
   "sounds": [
-    {
-      "name": "item/ink_sac/ink_sac1",
-      "pitch": 1
-    },
-    {
-      "name": "item/ink_sac/ink_sac1",
-      "pitch": 1.05
-    },
+    "item/ink_sac/ink_sac1",
     {
       "name": "item/ink_sac/ink_sac1",
       "pitch": 0.95
     },
     {
-      "name": "item/ink_sac/ink_sac2",
-      "pitch": 1
-    },
-    {
-      "name": "item/ink_sac/ink_sac2",
+      "name": "item/ink_sac/ink_sac1",
       "pitch": 1.05
     },
+    "item/ink_sac/ink_sac2",
     {
       "name": "item/ink_sac/ink_sac2",
       "pitch": 0.95
     },
     {
+      "name": "item/ink_sac/ink_sac2",
+      "pitch": 1.05
+    },
+    "item/ink_sac/ink_sac3",
+    {
       "name": "item/ink_sac/ink_sac3",
-      "pitch": 1
+      "pitch": 0.95
     },
     {
       "name": "item/ink_sac/ink_sac3",
       "pitch": 1.05
-    },
-    {
-      "name": "item/ink_sac/ink_sac3",
-      "pitch": 0.95
     }
   ],
   "subtitle": "subtitles.item.glow_ink_sac.use"

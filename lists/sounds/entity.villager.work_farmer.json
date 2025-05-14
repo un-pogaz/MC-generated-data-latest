@@ -1,21 +1,9 @@
 {
   "sounds": [
-    {
-      "name": "block/composter/fill_success1",
-      "volume": 1
-    },
-    {
-      "name": "block/composter/fill_success2",
-      "volume": 1
-    },
-    {
-      "name": "block/composter/fill_success3",
-      "volume": 1
-    },
-    {
-      "name": "block/composter/fill_success4",
-      "volume": 1
-    }
+    "block/composter/fill_success1",
+    "block/composter/fill_success2",
+    "block/composter/fill_success3",
+    "block/composter/fill_success4"
   ],
   "subtitle": "subtitles.entity.villager.work_farmer"
 }

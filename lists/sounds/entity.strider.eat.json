@@ -1,17 +1,8 @@
 {
   "sounds": [
-    {
-      "name": "mob/strider/eat1",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/eat2",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/eat3",
-      "volume": 1
-    }
+    "mob/strider/eat1",
+    "mob/strider/eat2",
+    "mob/strider/eat3"
   ],
   "subtitle": "subtitles.entity.strider.eat"
 }

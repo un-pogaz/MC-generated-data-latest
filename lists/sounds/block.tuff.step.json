@@ -1,29 +1,11 @@
 {
   "sounds": [
-    {
-      "name": "block/tuff/step1",
-      "volume": 1
-    },
-    {
-      "name": "block/tuff/step2",
-      "volume": 1
-    },
-    {
-      "name": "block/tuff/step3",
-      "volume": 1
-    },
-    {
-      "name": "block/tuff/step4",
-      "volume": 1
-    },
-    {
-      "name": "block/tuff/step5",
-      "volume": 1
-    },
-    {
-      "name": "block/tuff/step6",
-      "volume": 1
-    }
+    "block/tuff/step1",
+    "block/tuff/step2",
+    "block/tuff/step3",
+    "block/tuff/step4",
+    "block/tuff/step5",
+    "block/tuff/step6"
   ],
   "subtitle": "subtitles.block.generic.footsteps"
 }

@@ -1,17 +1,8 @@
 {
   "sounds": [
-    {
-      "name": "mob/ravager/stun1",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/stun2",
-      "volume": 1
-    },
-    {
-      "name": "mob/ravager/stun3",
-      "volume": 1
-    }
+    "mob/ravager/stun1",
+    "mob/ravager/stun2",
+    "mob/ravager/stun3"
   ],
   "subtitle": "subtitles.entity.ravager.stunned"
 }

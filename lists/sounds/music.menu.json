@@ -1,6 +1,26 @@
 {
   "sounds": [
     {
+      "name": "music/game/infinite_amethyst",
+      "stream": true
+    },
+    {
+      "name": "music/game/left_to_bloom",
+      "stream": true
+    },
+    {
+      "name": "music/game/one_more_day",
+      "stream": true
+    },
+    {
+      "name": "music/game/stand_tall",
+      "stream": true
+    },
+    {
+      "name": "music/game/wending",
+      "stream": true
+    },
+    {
       "name": "music/menu/menu1",
       "stream": true
     },

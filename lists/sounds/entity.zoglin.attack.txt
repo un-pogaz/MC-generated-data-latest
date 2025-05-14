@@ -1,4 +1,4 @@
 minecraft:mob/zoglin/attack1
-minecraft:mob/zoglin/attack2
 minecraft:mob/zoglin/attack1
+minecraft:mob/zoglin/attack2
 minecraft:mob/zoglin/attack2

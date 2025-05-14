@@ -6,11 +6,6 @@
       "weight": 3
     },
     {
-      "name": "ambient/nether/crimson_forest/twang1",
-      "volume": 0.25,
-      "weight": 2
-    },
-    {
       "name": "ambient/nether/crimson_forest/addition2",
       "volume": 0.5,
       "weight": 3
@@ -21,21 +16,36 @@
       "weight": 3
     },
     {
+      "name": "ambient/nether/crimson_forest/particles1",
+      "volume": 0.4,
+      "weight": 35
+    },
+    {
+      "name": "ambient/nether/crimson_forest/particles2",
+      "volume": 0.4,
+      "weight": 35
+    },
+    {
+      "name": "ambient/nether/crimson_forest/particles3",
+      "volume": 0.4,
+      "weight": 35
+    },
+    {
       "name": "ambient/nether/crimson_forest/shine1",
-      "volume": 0.1,
       "pitch": 0.5,
+      "volume": 0.1,
       "weight": 6
     },
     {
       "name": "ambient/nether/crimson_forest/shine2",
-      "volume": 0.1,
       "pitch": 0.5,
+      "volume": 0.1,
       "weight": 6
     },
     {
       "name": "ambient/nether/crimson_forest/shine3",
-      "volume": 0.1,
       "pitch": 0.5,
+      "volume": 0.1,
       "weight": 6
     },
     {
@@ -54,14 +64,19 @@
       "weight": 2
     },
     {
+      "name": "ambient/nether/crimson_forest/twang1",
+      "volume": 0.25,
+      "weight": 2
+    },
+    {
       "name": "ambient/nether/crimson_forest/voom1",
       "volume": 0.7,
       "weight": 4
     },
     {
       "name": "ambient/nether/crimson_forest/voom1",
-      "volume": 0.7,
       "pitch": 0.8,
+      "volume": 0.7,
       "weight": 4
     },
     {
@@ -71,24 +86,9 @@
     },
     {
       "name": "ambient/nether/crimson_forest/voom2",
-      "volume": 0.7,
       "pitch": 0.8,
+      "volume": 0.7,
       "weight": 4
-    },
-    {
-      "name": "ambient/nether/crimson_forest/particles1",
-      "volume": 0.4,
-      "weight": 35
-    },
-    {
-      "name": "ambient/nether/crimson_forest/particles2",
-      "volume": 0.4,
-      "weight": 35
-    },
-    {
-      "name": "ambient/nether/crimson_forest/particles3",
-      "volume": 0.4,
-      "weight": 35
     }
   ]
 }

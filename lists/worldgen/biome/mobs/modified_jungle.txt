@@ -1,4 +1,3 @@
-minecraft:axolotl
 minecraft:bat
 minecraft:chicken
 minecraft:cow

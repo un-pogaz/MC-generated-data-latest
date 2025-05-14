@@ -1,21 +1,9 @@
 {
   "sounds": [
-    {
-      "name": "mob/strider/hurt1",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/hurt2",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/hurt3",
-      "volume": 1
-    },
-    {
-      "name": "mob/strider/hurt4",
-      "volume": 1
-    }
+    "mob/strider/hurt1",
+    "mob/strider/hurt2",
+    "mob/strider/hurt3",
+    "mob/strider/hurt4"
   ],
   "subtitle": "subtitles.entity.strider.hurt"
 }

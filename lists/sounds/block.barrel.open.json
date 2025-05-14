@@ -1,15 +1,7 @@
 {
   "sounds": [
-    {
-      "name": "block/barrel/open1",
-      "volume": 1,
-      "pitch": 1
-    },
-    {
-      "name": "block/barrel/open2",
-      "volume": 1,
-      "pitch": 1
-    }
+    "block/barrel/open1",
+    "block/barrel/open2"
   ],
   "subtitle": "subtitles.block.barrel.open"
 }

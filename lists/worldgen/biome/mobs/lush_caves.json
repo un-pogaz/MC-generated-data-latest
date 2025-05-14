@@ -7,6 +7,14 @@
       "weight": 10
     }
   ],
+  "axolotls": [
+    {
+      "maxCount": 6,
+      "minCount": 4,
+      "type": "minecraft:axolotl",
+      "weight": 10
+    }
+  ],
   "monster": [
     {
       "maxCount": 4,
@@ -58,12 +66,6 @@
     }
   ],
   "underground_water_creature": [
-    {
-      "maxCount": 6,
-      "minCount": 4,
-      "type": "minecraft:axolotl",
-      "weight": 10
-    },
     {
       "maxCount": 6,
       "minCount": 4,

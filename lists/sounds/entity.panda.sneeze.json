@@ -1,17 +1,8 @@
 {
   "sounds": [
-    {
-      "name": "mob/panda/sneeze1",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/sneeze2",
-      "volume": 1
-    },
-    {
-      "name": "mob/panda/sneeze3",
-      "volume": 1
-    }
+    "mob/panda/sneeze1",
+    "mob/panda/sneeze2",
+    "mob/panda/sneeze3"
   ],
   "subtitle": "subtitles.entity.panda.sneeze"
 }

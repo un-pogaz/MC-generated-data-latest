@@ -1,8 +1,8 @@
 {
   "sounds": [
-    "entity/witch/celebrate",
     "entity/witch/ambient1",
-    "entity/witch/ambient4"
+    "entity/witch/ambient4",
+    "entity/witch/celebrate"
   ],
   "subtitle": "subtitles.entity.witch.celebrate"
 }

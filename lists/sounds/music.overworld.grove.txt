@@ -1,0 +1,9 @@
+minecraft:music/game/calm1
+minecraft:music/game/calm2
+minecraft:music/game/calm3
+minecraft:music/game/comforting_memories
+minecraft:music/game/infinite_amethyst
+minecraft:music/game/nuance1
+minecraft:music/game/nuance2
+minecraft:music/game/piano3
+minecraft:music/game/wending

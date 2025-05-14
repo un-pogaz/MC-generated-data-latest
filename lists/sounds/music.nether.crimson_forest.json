@@ -8,23 +8,19 @@
     },
     {
       "name": "music/game/nether/nether1",
-      "stream": true,
-      "weight": 1
+      "stream": true
     },
     {
       "name": "music/game/nether/nether2",
-      "stream": true,
-      "weight": 1
+      "stream": true
     },
     {
       "name": "music/game/nether/nether3",
-      "stream": true,
-      "weight": 1
+      "stream": true
     },
     {
       "name": "music/game/nether/nether4",
-      "stream": true,
-      "weight": 1
+      "stream": true
     }
   ]
 }

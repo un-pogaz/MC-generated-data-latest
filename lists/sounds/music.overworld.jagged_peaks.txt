@@ -1,0 +1,10 @@
+minecraft:music/game/floating_dream
+minecraft:music/game/hal1
+minecraft:music/game/hal2
+minecraft:music/game/nuance1
+minecraft:music/game/nuance2
+minecraft:music/game/piano1
+minecraft:music/game/piano2
+minecraft:music/game/piano3
+minecraft:music/game/stand_tall
+minecraft:music/game/wending

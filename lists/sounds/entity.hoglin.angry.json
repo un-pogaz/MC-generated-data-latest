@@ -1,29 +1,11 @@
 {
   "sounds": [
-    {
-      "name": "mob/hoglin/angry1",
-      "volume": 1
-    },
-    {
-      "name": "mob/hoglin/angry2",
-      "volume": 1
-    },
-    {
-      "name": "mob/hoglin/angry3",
-      "volume": 1
-    },
-    {
-      "name": "mob/hoglin/angry4",
-      "volume": 1
-    },
-    {
-      "name": "mob/hoglin/angry5",
-      "volume": 1
-    },
-    {
-      "name": "mob/hoglin/angry6",
-      "volume": 1
-    }
+    "mob/hoglin/angry1",
+    "mob/hoglin/angry2",
+    "mob/hoglin/angry3",
+    "mob/hoglin/angry4",
+    "mob/hoglin/angry5",
+    "mob/hoglin/angry6"
   ],
   "subtitle": "subtitles.entity.hoglin.angry"
 }

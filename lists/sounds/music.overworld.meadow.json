@@ -1,0 +1,31 @@
+{
+  "sounds": [
+    {
+      "name": "music/game/hal1",
+      "stream": true
+    },
+    {
+      "name": "music/game/hal2",
+      "stream": true
+    },
+    {
+      "name": "music/game/hal3",
+      "stream": true
+    },
+    {
+      "name": "music/game/hal4",
+      "stream": true
+    },
+    {
+      "name": "music/game/left_to_bloom",
+      "stream": true,
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/one_more_day",
+      "stream": true,
+      "volume": 0.4,
+      "weight": 2
+    }
+  ]
+}

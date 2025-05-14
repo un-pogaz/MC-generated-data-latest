@@ -1233,6 +1233,7 @@ minecraft:environment/sun
 minecraft:font/accented
 minecraft:font/ascii
 minecraft:font/ascii_sga
+minecraft:font/asciillager
 minecraft:font/nonlatin_european
 minecraft:font/unicode_page_00
 minecraft:font/unicode_page_01

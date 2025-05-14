@@ -2,28 +2,28 @@
   "sounds": [
     {
       "name": "block/moss/break1",
-      "volume": 0.9,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.9
     },
     {
       "name": "block/moss/break2",
-      "volume": 0.9,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.9
     },
     {
       "name": "block/moss/break3",
-      "volume": 0.9,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.9
     },
     {
       "name": "block/moss/break4",
-      "volume": 0.9,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.9
     },
     {
       "name": "block/moss/break5",
-      "volume": 0.9,
-      "pitch": 1.1
+      "pitch": 1.1,
+      "volume": 0.9
     }
   ],
   "subtitle": "subtitles.block.generic.break"

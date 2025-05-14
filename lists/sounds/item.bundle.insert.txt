@@ -1,0 +1,9 @@
+minecraft:item/bundle/insert1
+minecraft:item/bundle/insert1
+minecraft:item/bundle/insert1
+minecraft:item/bundle/insert2
+minecraft:item/bundle/insert2
+minecraft:item/bundle/insert2
+minecraft:item/bundle/insert3
+minecraft:item/bundle/insert3
+minecraft:item/bundle/insert3

@@ -1,11 +1,7 @@
 {
   "sounds": [
+    "mob/bee/sting",
     {
-      "attenuation_distance": 16,
-      "name": "mob/bee/sting"
-    },
-    {
-      "attenuation_distance": 16,
       "name": "mob/bee/sting",
       "pitch": 0.8
     }
