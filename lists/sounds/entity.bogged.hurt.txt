@@ -1,0 +1,4 @@
+minecraft:mob/bogged/hurt1
+minecraft:mob/bogged/hurt2
+minecraft:mob/bogged/hurt3
+minecraft:mob/bogged/hurt4

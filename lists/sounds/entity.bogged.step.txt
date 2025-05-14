@@ -1,0 +1,4 @@
+minecraft:mob/bogged/step1
+minecraft:mob/bogged/step2
+minecraft:mob/bogged/step3
+minecraft:mob/bogged/step4

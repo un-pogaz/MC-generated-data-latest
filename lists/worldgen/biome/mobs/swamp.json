@@ -43,6 +43,12 @@
     {
       "maxCount": 4,
       "minCount": 4,
+      "type": "minecraft:bogged",
+      "weight": 50
+    },
+    {
+      "maxCount": 4,
+      "minCount": 4,
       "type": "minecraft:creeper",
       "weight": 100
     },

@@ -2,3 +2,4 @@ minecraft:skeleton
 minecraft:stray
 minecraft:wither_skeleton
 minecraft:skeleton_horse
+minecraft:bogged

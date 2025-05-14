@@ -1,0 +1,4 @@
+minecraft:mob/bogged/ambient1
+minecraft:mob/bogged/ambient2
+minecraft:mob/bogged/ambient3
+minecraft:mob/bogged/ambient4

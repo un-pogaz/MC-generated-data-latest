@@ -1394,6 +1394,8 @@ minecraft:entity/signs/oak
 minecraft:entity/signs/spruce
 minecraft:entity/signs/warped
 minecraft:entity/silverfish
+minecraft:entity/skeleton/bogged
+minecraft:entity/skeleton/bogged_overlay
 minecraft:entity/skeleton/skeleton
 minecraft:entity/skeleton/stray
 minecraft:entity/skeleton/stray_overlay
