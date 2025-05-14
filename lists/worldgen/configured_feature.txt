@@ -168,10 +168,11 @@ minecraft:spring_lava_double
 minecraft:spring_open
 minecraft:spring_water
 minecraft:spruce
-minecraft:spruce_snovy
+minecraft:spruce_snowy
 minecraft:super_birch_bees_0002
 minecraft:swamp_tree
 minecraft:taiga_vegetation
+minecraft:trees_birch
 minecraft:trees_giant
 minecraft:trees_giant_spruce
 minecraft:trees_jungle

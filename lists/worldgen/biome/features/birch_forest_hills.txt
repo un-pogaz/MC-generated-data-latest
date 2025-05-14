@@ -29,7 +29,7 @@ minecraft:disk_gravel
 []
 
 minecraft:forest_flower_vegetation
-minecraft:birch_bees_0002
+minecraft:trees_birch
 minecraft:flower_default
 minecraft:patch_grass_forest
 minecraft:brown_mushroom_normal
