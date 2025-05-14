@@ -1,0 +1,13 @@
+{
+  "id": "1.14.2 Pre-Release 1",
+  "type": "snapshot",
+  "time": "2019-05-16T15:40:25+00:00",
+  "releaseTime": "2019-05-16T15:40:25+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/409a8748249533d58ffa9e3190f0753cdbcfbf71/1.14.2%20Pre-Release%201.json",
+  "assets": "1.14",
+  "asset_index": "https://launchermeta.mojang.com/v1/packages/d6c94fad4f7a03a8e46083c023926515fc0e551e/1.14.json",
+  "client": "https://launcher.mojang.com/v1/objects/b1802f2bbe126d3b9a524a187eab1be3f346eb1c/client.jar",
+  "client_mappings": null,
+  "server": "https://launcher.mojang.com/v1/objects/1aad89bfe7a14bee70de0b07339a2f319771180f/server.jar",
+  "server_mappings": null
+}
