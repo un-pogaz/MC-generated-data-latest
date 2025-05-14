@@ -1163,6 +1163,7 @@ minecraft:zombie_wall_head
 #minecraft:mineable/hoe
 #minecraft:mineable/pickaxe
 #minecraft:mineable/shovel
+#minecraft:mob_interactable_doors
 #minecraft:mooshrooms_spawnable_on
 #minecraft:moss_replaceable
 #minecraft:mushroom_grow_block

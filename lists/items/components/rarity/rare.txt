@@ -1,7 +1,9 @@
 minecraft:beacon
 minecraft:conduit
 minecraft:end_crystal
+minecraft:flow_banner_pattern
 minecraft:golden_apple
+minecraft:guster_banner_pattern
 minecraft:music_disc_11
 minecraft:music_disc_13
 minecraft:music_disc_5
