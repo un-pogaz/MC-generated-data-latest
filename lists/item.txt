@@ -1205,6 +1205,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:completes_find_tree_tutorial
 #minecraft:copper_ores
 #minecraft:creeper_drop_music_discs
+#minecraft:creeper_igniters
 #minecraft:crimson_stems
 #minecraft:dampens_vibrations
 #minecraft:dark_oak_logs
