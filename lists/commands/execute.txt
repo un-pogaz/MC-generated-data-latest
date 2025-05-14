@@ -22,6 +22,7 @@ execute if dimension <dimension minecraft:dimension>
 execute if dimension <dimension minecraft:dimension> >>redirect{execute}
 execute if entity <entities minecraft:entity[type="entities", amount="multiple"]>
 execute if entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute if loaded <pos minecraft:block_pos>
 execute if loaded <pos minecraft:block_pos> >>redirect{execute}
 execute if predicate <predicate minecraft:resource_location>
 execute if predicate <predicate minecraft:resource_location> >>redirect{execute}
@@ -93,6 +94,7 @@ execute store success storage <target minecraft:resource_location> <path minecra
 execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> int <scale brigadier:double> >>redirect{execute}
 execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> long <scale brigadier:double> >>redirect{execute}
 execute store success storage <target minecraft:resource_location> <path minecraft:nbt_path> short <scale brigadier:double> >>redirect{execute}
+execute summon <entity minecraft:resource[registry="minecraft:entity_type"]> >>redirect{execute}
 execute unless biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]>
 execute unless biome <pos minecraft:block_pos> <biome minecraft:resource_or_tag[registry="minecraft:worldgen/biome"]> >>redirect{execute}
 execute unless block <pos minecraft:block_pos> <block minecraft:block_predicate>
@@ -111,6 +113,7 @@ execute unless dimension <dimension minecraft:dimension>
 execute unless dimension <dimension minecraft:dimension> >>redirect{execute}
 execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]>
 execute unless entity <entities minecraft:entity[type="entities", amount="multiple"]> >>redirect{execute}
+execute unless loaded <pos minecraft:block_pos>
 execute unless loaded <pos minecraft:block_pos> >>redirect{execute}
 execute unless predicate <predicate minecraft:resource_location>
 execute unless predicate <predicate minecraft:resource_location> >>redirect{execute}
