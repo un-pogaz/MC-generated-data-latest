@@ -134,6 +134,7 @@ minecraft:blocks/crimson_door
 minecraft:blocks/crimson_fence
 minecraft:blocks/crimson_fence_gate
 minecraft:blocks/crimson_fungus
+minecraft:blocks/crimson_hyphae
 minecraft:blocks/crimson_nylium
 minecraft:blocks/crimson_planks
 minecraft:blocks/crimson_pressure_plate
@@ -592,6 +593,7 @@ minecraft:blocks/stripped_acacia_log
 minecraft:blocks/stripped_acacia_wood
 minecraft:blocks/stripped_birch_log
 minecraft:blocks/stripped_birch_wood
+minecraft:blocks/stripped_crimson_hyphae
 minecraft:blocks/stripped_crimson_stem
 minecraft:blocks/stripped_dark_oak_log
 minecraft:blocks/stripped_dark_oak_wood
@@ -601,6 +603,7 @@ minecraft:blocks/stripped_oak_log
 minecraft:blocks/stripped_oak_wood
 minecraft:blocks/stripped_spruce_log
 minecraft:blocks/stripped_spruce_wood
+minecraft:blocks/stripped_warped_hyphae
 minecraft:blocks/stripped_warped_stem
 minecraft:blocks/sugar_cane
 minecraft:blocks/sunflower
@@ -624,6 +627,7 @@ minecraft:blocks/warped_door
 minecraft:blocks/warped_fence
 minecraft:blocks/warped_fence_gate
 minecraft:blocks/warped_fungus
+minecraft:blocks/warped_hyphae
 minecraft:blocks/warped_nylium
 minecraft:blocks/warped_planks
 minecraft:blocks/warped_pressure_plate

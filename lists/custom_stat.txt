@@ -37,6 +37,7 @@ minecraft:interact_with_furnace
 minecraft:interact_with_grindstone
 minecraft:interact_with_lectern
 minecraft:interact_with_loom
+minecraft:interact_with_smithing_table
 minecraft:interact_with_smoker
 minecraft:interact_with_stonecutter
 minecraft:jump

@@ -56,6 +56,7 @@ minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting
 minecraft:recipes/building_blocks/cobblestone_stairs
 minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting
 minecraft:recipes/building_blocks/cracked_stone_bricks
+minecraft:recipes/building_blocks/crimson_hyphae
 minecraft:recipes/building_blocks/crimson_planks
 minecraft:recipes/building_blocks/crimson_slab
 minecraft:recipes/building_blocks/crimson_stairs
@@ -281,11 +282,14 @@ minecraft:recipes/building_blocks/stone_stairs
 minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting
 minecraft:recipes/building_blocks/stripped_acacia_wood
 minecraft:recipes/building_blocks/stripped_birch_wood
+minecraft:recipes/building_blocks/stripped_crimson_hyphae
 minecraft:recipes/building_blocks/stripped_dark_oak_wood
 minecraft:recipes/building_blocks/stripped_jungle_wood
 minecraft:recipes/building_blocks/stripped_oak_wood
 minecraft:recipes/building_blocks/stripped_spruce_wood
+minecraft:recipes/building_blocks/stripped_warped_hyphae
 minecraft:recipes/building_blocks/terracotta
+minecraft:recipes/building_blocks/warped_hyphae
 minecraft:recipes/building_blocks/warped_planks
 minecraft:recipes/building_blocks/warped_slab
 minecraft:recipes/building_blocks/warped_stairs
@@ -319,11 +323,6 @@ minecraft:recipes/combat/leather_boots
 minecraft:recipes/combat/leather_chestplate
 minecraft:recipes/combat/leather_helmet
 minecraft:recipes/combat/leather_leggings
-minecraft:recipes/combat/netherite_boots
-minecraft:recipes/combat/netherite_chestplate
-minecraft:recipes/combat/netherite_helmet
-minecraft:recipes/combat/netherite_leggings
-minecraft:recipes/combat/netherite_sword
 minecraft:recipes/combat/shield
 minecraft:recipes/combat/spectral_arrow
 minecraft:recipes/combat/stone_sword
@@ -762,10 +761,6 @@ minecraft:recipes/tools/iron_hoe
 minecraft:recipes/tools/iron_pickaxe
 minecraft:recipes/tools/iron_shovel
 minecraft:recipes/tools/lead
-minecraft:recipes/tools/netherite_axe
-minecraft:recipes/tools/netherite_hoe
-minecraft:recipes/tools/netherite_pickaxe
-minecraft:recipes/tools/netherite_shovel
 minecraft:recipes/tools/shears
 minecraft:recipes/tools/stone_axe
 minecraft:recipes/tools/stone_hoe
