@@ -13,8 +13,20 @@
       }
     },
     {
+      "type": "minecraft:fire_resistant",
+      "value": {}
+    },
+    {
       "type": "minecraft:lore",
       "value": []
+    },
+    {
+      "type": "minecraft:max_stack_size",
+      "value": 64
+    },
+    {
+      "type": "minecraft:rarity",
+      "value": "common"
     },
     {
       "type": "minecraft:repair_cost",

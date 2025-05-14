@@ -2041,6 +2041,7 @@ minecraft/sounds/item/mace/smash_ground1.ogg
 minecraft/sounds/item/mace/smash_ground2.ogg
 minecraft/sounds/item/mace/smash_ground3.ogg
 minecraft/sounds/item/mace/smash_ground4.ogg
+minecraft/sounds/item/mace/smash_ground_heavy.ogg
 minecraft/sounds/item/plant/crop1.ogg
 minecraft/sounds/item/plant/crop2.ogg
 minecraft/sounds/item/plant/crop3.ogg

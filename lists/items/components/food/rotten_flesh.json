@@ -1,0 +1,14 @@
+{
+  "effects": [
+    {
+      "effect": {
+        "duration": 600,
+        "id": "minecraft:hunger",
+        "show_icon": true
+      },
+      "probability": 0.8
+    }
+  ],
+  "nutrition": 4,
+  "saturation_modifier": 0.1
+}

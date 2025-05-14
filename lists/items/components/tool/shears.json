@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "blocks": "minecraft:cobweb",
+      "correct_for_drops": true,
+      "speed": 15.0
+    },
+    {
+      "blocks": "#minecraft:leaves",
+      "speed": 15.0
+    },
+    {
+      "blocks": "#minecraft:wool",
+      "speed": 5.0
+    },
+    {
+      "blocks": [
+        "minecraft:vine",
+        "minecraft:glow_lichen"
+      ],
+      "speed": 2.0
+    }
+  ]
+}

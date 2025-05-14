@@ -1,0 +1,16 @@
+minecraft:creeper_banner_pattern
+minecraft:creeper_head
+minecraft:dragon_breath
+minecraft:dragon_head
+minecraft:elytra
+minecraft:enchanted_book
+minecraft:experience_bottle
+minecraft:heart_of_the_sea
+minecraft:nether_star
+minecraft:piglin_head
+minecraft:player_head
+minecraft:skeleton_skull
+minecraft:skull_banner_pattern
+minecraft:totem_of_undying
+minecraft:wither_skeleton_skull
+minecraft:zombie_head

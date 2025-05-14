@@ -30,6 +30,7 @@ minecraft:loot_nbt_provider_type
 minecraft:loot_number_provider_type
 minecraft:loot_pool_entry_type
 minecraft:loot_score_provider_type
+minecraft:map_decoration_type
 minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect

@@ -12,6 +12,12 @@
         "description": "Sneak near a Sculk Sensor or Warden to prevent it from detecting you",
         "frame": "task"
       },
+      "minecraft:adventure/crafters_crafting_crafters": {
+        "icon": "minecraft:crafter",
+        "title": "Crafters Crafting Crafters",
+        "description": "Be near a Crafter when it crafts a Crafter",
+        "frame": "task"
+      },
       "minecraft:adventure/fall_from_world_height": {
         "icon": "minecraft:water_bucket",
         "title": "Caves & Cliffs",
@@ -92,6 +98,46 @@
         "title": "Surge Protector",
         "description": "Protect a Villager from an undesired shock without starting a fire",
         "frame": "task"
+      },
+      "minecraft:adventure/minecraft_trials_edition": {
+        "icon": "minecraft:chiseled_tuff",
+        "title": "Minecraft: Trial(s) Edition",
+        "description": "Step foot in a Trial Chamber",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/blowback": {
+            "icon": "minecraft:wind_charge",
+            "title": "Blowback",
+            "description": "Kill a Breeze with a deflected Breeze-shot Wind Charge",
+            "frame": "challenge",
+            "rewards": "40 xp"
+          },
+          "minecraft:adventure/lighten_up": {
+            "icon": "minecraft:copper_bulb",
+            "title": "Lighten Up",
+            "description": "Scrape a Copper Bulb with an Axe to make it brighter",
+            "frame": "task"
+          },
+          "minecraft:adventure/overoverkill": {
+            "icon": "minecraft:mace",
+            "title": "Over-Overkill",
+            "description": "Deal 50 hearts of damage in a single hit using the Mace",
+            "frame": "challenge",
+            "rewards": "50 xp"
+          },
+          "minecraft:adventure/under_lock_and_key": {
+            "icon": "minecraft:trial_key",
+            "title": "Under Lock and Key",
+            "description": "Use a Trial Key on a Vault",
+            "frame": "task"
+          },
+          "minecraft:adventure/who_needs_rockets": {
+            "icon": "minecraft:wind_charge",
+            "title": "Who Needs Rockets?",
+            "description": "Use a Wind Charge to launch yourself upward 7 blocks",
+            "frame": "task"
+          }
+        }
       },
       "minecraft:adventure/ol_betsy": {
         "icon": "minecraft:crossbow",

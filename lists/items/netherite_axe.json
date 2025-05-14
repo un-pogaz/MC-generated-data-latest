@@ -44,12 +44,44 @@
       }
     },
     {
+      "type": "minecraft:fire_resistant",
+      "value": {}
+    },
+    {
       "type": "minecraft:lore",
       "value": []
     },
     {
+      "type": "minecraft:max_damage",
+      "value": 2031
+    },
+    {
+      "type": "minecraft:max_stack_size",
+      "value": 1
+    },
+    {
+      "type": "minecraft:rarity",
+      "value": "common"
+    },
+    {
       "type": "minecraft:repair_cost",
       "value": 0
+    },
+    {
+      "type": "minecraft:tool",
+      "value": {
+        "rules": [
+          {
+            "blocks": "#minecraft:incorrect_for_netherite_tool",
+            "correct_for_drops": false
+          },
+          {
+            "blocks": "#minecraft:mineable/axe",
+            "correct_for_drops": true,
+            "speed": 9.0
+          }
+        ]
+      }
     }
   ]
 }

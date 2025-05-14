@@ -1,0 +1,14 @@
+{
+  "damage_per_block": 2,
+  "rules": [
+    {
+      "blocks": "minecraft:cobweb",
+      "correct_for_drops": true,
+      "speed": 15.0
+    },
+    {
+      "blocks": "#minecraft:sword_efficient",
+      "speed": 1.5
+    }
+  ]
+}
