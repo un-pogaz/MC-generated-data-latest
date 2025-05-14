@@ -49,6 +49,7 @@ minecraft:worldgen/material_rule
 minecraft:worldgen/placement_modifier_type
 minecraft:worldgen/structure_feature
 minecraft:worldgen/structure_piece
+minecraft:worldgen/structure_placement
 minecraft:worldgen/structure_pool_element
 minecraft:worldgen/structure_processor
 minecraft:worldgen/tree_decorator_type
