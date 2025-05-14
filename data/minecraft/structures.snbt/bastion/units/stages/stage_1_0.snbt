@@ -2661,8 +2661,11 @@
       Name: "minecraft:jigsaw"
     },
     {
+      Properties: {
+        waterlogged: "false"
+      },
       Name: "minecraft:chain"
     }
   ],
-  DataVersion: 2529
+  DataVersion: 2532
 }

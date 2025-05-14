@@ -2804,6 +2804,9 @@
       Name: "minecraft:polished_blackstone_brick_stairs"
     },
     {
+      Properties: {
+        waterlogged: "false"
+      },
       Name: "minecraft:chain"
     },
     {
@@ -2834,5 +2837,5 @@
       Name: "minecraft:polished_blackstone_brick_stairs"
     }
   ],
-  DataVersion: 2529
+  DataVersion: 2532
 }
