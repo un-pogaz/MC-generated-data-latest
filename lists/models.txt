@@ -712,6 +712,7 @@ minecraft:block/nether_brick_wall_post
 minecraft:block/nether_brick_wall_side
 minecraft:block/nether_brick_wall_side_tall
 minecraft:block/nether_bricks
+minecraft:block/nether_gold_ore
 minecraft:block/nether_portal_ew
 minecraft:block/nether_portal_ns
 minecraft:block/nether_quartz_ore
@@ -1248,6 +1249,8 @@ minecraft:block/tube_coral_block
 minecraft:block/tube_coral_fan
 minecraft:block/tube_coral_wall_fan
 minecraft:block/turtle_egg
+minecraft:block/twisting_vines
+minecraft:block/twisting_vines_plant
 minecraft:block/two_dead_sea_pickles
 minecraft:block/two_sea_pickles
 minecraft:block/two_slightly_cracked_turtle_eggs
@@ -2015,6 +2018,7 @@ minecraft:item/nether_brick_slab
 minecraft:item/nether_brick_stairs
 minecraft:item/nether_brick_wall
 minecraft:item/nether_bricks
+minecraft:item/nether_gold_ore
 minecraft:item/nether_quartz_ore
 minecraft:item/nether_sprouts
 minecraft:item/nether_star
@@ -2329,6 +2333,7 @@ minecraft:item/tube_coral_fan
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
 minecraft:item/turtle_spawn_egg
+minecraft:item/twisting_vines
 minecraft:item/vex_spawn_egg
 minecraft:item/villager_spawn_egg
 minecraft:item/vindicator_spawn_egg

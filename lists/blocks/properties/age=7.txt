@@ -6,5 +6,6 @@ minecraft:melon_stem
 minecraft:potatoes
 minecraft:pumpkin_stem
 minecraft:sugar_cane
+minecraft:twisting_vines
 minecraft:weeping_vines
 minecraft:wheat

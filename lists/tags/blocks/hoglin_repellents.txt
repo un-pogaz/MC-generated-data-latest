@@ -1,1 +1,2 @@
 minecraft:warped_fungus
+minecraft:potted_warped_fungus

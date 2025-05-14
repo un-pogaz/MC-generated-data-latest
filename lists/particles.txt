@@ -58,6 +58,7 @@ minecraft:portal
 minecraft:rain
 minecraft:smoke
 minecraft:sneeze
+minecraft:soul
 minecraft:soul_fire_flame
 minecraft:spit
 minecraft:splash

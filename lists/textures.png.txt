@@ -402,6 +402,7 @@ minecraft:block/mushroom_stem
 minecraft:block/mycelium_side
 minecraft:block/mycelium_top
 minecraft:block/nether_bricks
+minecraft:block/nether_gold_ore
 minecraft:block/nether_portal  [mcmeta]
 minecraft:block/nether_quartz_ore
 minecraft:block/nether_sprouts
@@ -618,6 +619,8 @@ minecraft:block/tube_coral_fan
 minecraft:block/turtle_egg
 minecraft:block/turtle_egg_slightly_cracked
 minecraft:block/turtle_egg_very_cracked
+minecraft:block/twisting_vines
+minecraft:block/twisting_vines_plant
 minecraft:block/vine
 minecraft:block/warped_door_bottom
 minecraft:block/warped_door_top
@@ -1946,6 +1949,17 @@ minecraft:particle/sga_w
 minecraft:particle/sga_x
 minecraft:particle/sga_y
 minecraft:particle/sga_z
+minecraft:particle/soul_0
+minecraft:particle/soul_1
+minecraft:particle/soul_10
+minecraft:particle/soul_2
+minecraft:particle/soul_3
+minecraft:particle/soul_4
+minecraft:particle/soul_5
+minecraft:particle/soul_6
+minecraft:particle/soul_7
+minecraft:particle/soul_8
+minecraft:particle/soul_9
 minecraft:particle/soul_fire_flame
 minecraft:particle/spark_0
 minecraft:particle/spark_1

@@ -10,5 +10,6 @@ minecraft:structure_block
 minecraft:jigsaw
 minecraft:moving_piston
 minecraft:obsidian
+minecraft:crying_obsidian
 minecraft:end_stone
 minecraft:iron_bars

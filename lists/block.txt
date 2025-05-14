@@ -416,6 +416,7 @@ minecraft:nether_brick_slab
 minecraft:nether_brick_stairs
 minecraft:nether_brick_wall
 minecraft:nether_bricks
+minecraft:nether_gold_ore
 minecraft:nether_portal
 minecraft:nether_quartz_ore
 minecraft:nether_sprouts
@@ -678,6 +679,8 @@ minecraft:tube_coral_block
 minecraft:tube_coral_fan
 minecraft:tube_coral_wall_fan
 minecraft:turtle_egg
+minecraft:twisting_vines
+minecraft:twisting_vines_plant
 minecraft:vine
 minecraft:void_air
 minecraft:wall_torch
@@ -758,6 +761,7 @@ minecraft:zombie_wall_head
 #minecraft:fire
 #minecraft:flower_pots
 #minecraft:flowers
+#minecraft:gold_ores
 #minecraft:hoglin_repellents
 #minecraft:ice
 #minecraft:impermeable
@@ -776,6 +780,7 @@ minecraft:zombie_wall_head
 #minecraft:signs
 #minecraft:slabs
 #minecraft:small_flowers
+#minecraft:soul_speed_blocks
 #minecraft:spruce_logs
 #minecraft:stairs
 #minecraft:standing_signs
