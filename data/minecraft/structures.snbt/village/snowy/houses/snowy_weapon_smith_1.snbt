@@ -2697,6 +2697,7 @@
     },
     {
       Properties: {
+        waterlogged: "false",
         hanging: "true"
       },
       Name: "minecraft:lantern"
@@ -2725,5 +2726,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2571
+  DataVersion: 2572
 }

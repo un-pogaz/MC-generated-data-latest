@@ -378,6 +378,7 @@
     },
     {
       Properties: {
+        waterlogged: "false",
         hanging: "true"
       },
       Name: "minecraft:lantern"
@@ -461,5 +462,5 @@
       Name: "minecraft:bell"
     }
   ],
-  DataVersion: 2571
+  DataVersion: 2572
 }
