@@ -30,6 +30,7 @@ minecraft:loot_score_provider_type
 minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect
+minecraft:number_format_type
 minecraft:painting_variant
 minecraft:particle_type
 minecraft:point_of_interest_type

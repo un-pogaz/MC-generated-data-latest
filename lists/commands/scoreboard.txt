@@ -1,13 +1,24 @@
 scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria>
 scoreboard objectives add <objective brigadier:string[type="word"]> <criteria minecraft:objective_criteria> <displayName minecraft:component>
 scoreboard objectives list
+scoreboard objectives modify <objective minecraft:objective> displayautoupdate <value brigadier:bool>
 scoreboard objectives modify <objective minecraft:objective> displayname <displayName minecraft:component>
+scoreboard objectives modify <objective minecraft:objective> numberformat
+scoreboard objectives modify <objective minecraft:objective> numberformat blank
+scoreboard objectives modify <objective minecraft:objective> numberformat fixed <contents minecraft:component>
+scoreboard objectives modify <objective minecraft:objective> numberformat styled <style minecraft:style>
 scoreboard objectives modify <objective minecraft:objective> rendertype hearts
 scoreboard objectives modify <objective minecraft:objective> rendertype integer
 scoreboard objectives remove <objective minecraft:objective>
 scoreboard objectives setdisplay <slot minecraft:scoreboard_slot>
 scoreboard objectives setdisplay <slot minecraft:scoreboard_slot> <objective minecraft:objective>
 scoreboard players add <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> <score brigadier:integer[min="0"]>
+scoreboard players display name <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective>
+scoreboard players display name <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> <name minecraft:component>
+scoreboard players display numberformat <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective>
+scoreboard players display numberformat <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> blank
+scoreboard players display numberformat <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> fixed <contents minecraft:component>
+scoreboard players display numberformat <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective> styled <style minecraft:style>
 scoreboard players enable <targets minecraft:score_holder[amount="multiple"]> <objective minecraft:objective>
 scoreboard players get <target minecraft:score_holder[amount="single"]> <objective minecraft:objective>
 scoreboard players list
