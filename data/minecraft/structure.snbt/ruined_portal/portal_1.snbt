@@ -1212,10 +1212,10 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:netherrack",
         name: "minecraft:empty",
         pool: "minecraft:empty",
+        joint: "aligned",
         id: "minecraft:jigsaw",
         target: "minecraft:empty"
       },
@@ -1337,5 +1337,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 4174
+  DataVersion: 4177
 }

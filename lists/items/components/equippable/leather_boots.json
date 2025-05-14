@@ -1,5 +1,5 @@
 {
+  "asset_id": "minecraft:leather",
   "equip_sound": "minecraft:item.armor.equip_leather",
-  "model": "minecraft:leather",
   "slot": "feet"
 }

@@ -40,6 +40,7 @@ minecraft:player_abilities
 minecraft:player_action
 minecraft:player_command
 minecraft:player_input
+minecraft:player_loaded
 minecraft:pong
 minecraft:recipe_book_change_settings
 minecraft:recipe_book_seen_recipe

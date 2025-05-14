@@ -1,6 +1,5 @@
 #minecraft:leaves
 #minecraft:saplings
-#minecraft:small_flowers
 #minecraft:crops
 minecraft:short_grass
 minecraft:fern
