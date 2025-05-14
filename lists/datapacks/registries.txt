@@ -71,6 +71,11 @@ minecraft:sensor_type
 minecraft:slot_display
 minecraft:sound_event
 minecraft:stat_type
+minecraft:test_environment
+minecraft:test_environment_definition_type
+minecraft:test_function
+minecraft:test_instance
+minecraft:test_instance_type
 minecraft:ticket_type
 minecraft:trial_spawner
 minecraft:trigger_type

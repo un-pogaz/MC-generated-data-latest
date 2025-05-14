@@ -16,6 +16,8 @@ minecraft:pig_variant
 minecraft:predicate
 minecraft:recipe
 minecraft:structure
+minecraft:test_environment
+minecraft:test_instance
 minecraft:trial_spawner
 minecraft:trim_material
 minecraft:trim_pattern

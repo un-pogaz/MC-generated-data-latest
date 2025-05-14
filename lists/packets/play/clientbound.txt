@@ -120,6 +120,7 @@ minecraft:tab_list
 minecraft:tag_query
 minecraft:take_item_entity
 minecraft:teleport_entity
+minecraft:test_instance_block_status
 minecraft:ticking_state
 minecraft:ticking_step
 minecraft:transfer

@@ -2016,6 +2016,11 @@ minecraft:block/template_wall_post
 minecraft:block/template_wall_side
 minecraft:block/template_wall_side_tall
 minecraft:block/terracotta
+minecraft:block/test_block_accept
+minecraft:block/test_block_fail
+minecraft:block/test_block_log
+minecraft:block/test_block_start
+minecraft:block/test_instance_block
 minecraft:block/thin_block
 minecraft:block/three_dead_sea_pickles
 minecraft:block/three_sea_pickles

@@ -1,1 +1,2 @@
 minecraft:light  = {level: "15"}
+minecraft:test_block  = {test_block_mode: "start"}

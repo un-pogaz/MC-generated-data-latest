@@ -1,0 +1,4 @@
+test_block_mode=start  [default]
+test_block_mode=log
+test_block_mode=fail
+test_block_mode=accept
