@@ -69,6 +69,12 @@
           }
         }
       },
+      "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+        "icon": "minecraft:lightning_rod",
+        "title": "Surge Protector",
+        "description": "Protect a villager from an undesired shock without starting a fire",
+        "frame": "task"
+      },
       "minecraft:adventure/ol_betsy": {
         "icon": "minecraft:crossbow",
         "title": "Ol' Betsy",
@@ -113,6 +119,28 @@
           }
         }
       },
+      "minecraft:adventure/spyglass_at_parrot": {
+        "icon": "minecraft:spyglass",
+        "title": "Is It a Bird?",
+        "description": "Look at a parrot through a spyglass",
+        "frame": "task",
+        "childs": {
+          "minecraft:adventure/spyglass_at_ghast": {
+            "icon": "minecraft:spyglass",
+            "title": "Is It a Balloon?",
+            "description": "Look at a ghast through a spyglass",
+            "frame": "task",
+            "childs": {
+              "minecraft:adventure/spyglass_at_dragon": {
+                "icon": "minecraft:spyglass",
+                "title": "Is It a Plane?",
+                "description": "Look at the Ender Dragon through a spyglass",
+                "frame": "task"
+              }
+            }
+          }
+        }
+      },
       "minecraft:adventure/trade": {
         "icon": "minecraft:emerald",
         "title": "What a Deal!",
@@ -143,6 +171,12 @@
             "hidden": true
           }
         }
+      },
+      "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+        "icon": "minecraft:leather_boots",
+        "title": "Light as a Rabbit",
+        "description": "Walk on powder snow...without sinking in it",
+        "frame": "task"
       }
     }
   },
@@ -242,9 +276,31 @@
             "icon": "minecraft:pufferfish_bucket",
             "title": "Tactical Fishing",
             "description": "Catch a fish... without a fishing rod!",
-            "frame": "task"
+            "frame": "task",
+            "childs": {
+              "minecraft:husbandry/axolotl_in_a_bucket": {
+                "icon": "minecraft:axolotl_bucket",
+                "title": "The Cutest Predator",
+                "description": "Catch an axolotl in a bucket",
+                "frame": "task",
+                "childs": {
+                  "minecraft:husbandry/kill_axolotl_target": {
+                    "icon": "minecraft:tropical_fish_bucket",
+                    "title": "The Healing Power of Friendship!",
+                    "description": "Team up with an axolotl and win a fight",
+                    "frame": "task"
+                  }
+                }
+              }
+            }
           }
         }
+      },
+      "minecraft:husbandry/make_a_sign_glow": {
+        "icon": "minecraft:glow_ink_sac",
+        "title": "Glow and Behold!",
+        "description": "Make the text of a sign glow",
+        "frame": "task"
       },
       "minecraft:husbandry/plant_seed": {
         "icon": "minecraft:wheat",
@@ -268,11 +324,33 @@
           }
         }
       },
+      "minecraft:husbandry/ride_a_boat_with_a_goat": {
+        "icon": "minecraft:oak_boat",
+        "title": "Whatever Floats Your Goat!",
+        "description": "Get in a Boat and float with a Goat",
+        "frame": "task"
+      },
       "minecraft:husbandry/safely_harvest_honey": {
         "icon": "minecraft:honey_bottle",
         "title": "Bee Our Guest",
         "description": "Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees",
-        "frame": "task"
+        "frame": "task",
+        "childs": {
+          "minecraft:husbandry/wax_on": {
+            "icon": "minecraft:honeycomb",
+            "title": "Wax On",
+            "description": "Apply Wax to a Copper block!",
+            "frame": "task",
+            "childs": {
+              "minecraft:husbandry/wax_off": {
+                "icon": "minecraft:stone_axe",
+                "title": "Wax Off",
+                "description": "Scrape Wax off of a Copper block!",
+                "frame": "task"
+              }
+            }
+          }
+        }
       },
       "minecraft:husbandry/silk_touch_nest": {
         "icon": "minecraft:bee_nest",

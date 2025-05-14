@@ -66,6 +66,7 @@ minecraft:block/birch_planks
 minecraft:block/birch_sapling
 minecraft:block/birch_trapdoor
 minecraft:block/black_candle
+minecraft:block/black_candle_lit
 minecraft:block/black_concrete
 minecraft:block/black_concrete_powder
 minecraft:block/black_glazed_terracotta
@@ -81,6 +82,7 @@ minecraft:block/blast_furnace_front_on  [mcmeta]
 minecraft:block/blast_furnace_side
 minecraft:block/blast_furnace_top
 minecraft:block/blue_candle
+minecraft:block/blue_candle_lit
 minecraft:block/blue_concrete
 minecraft:block/blue_concrete_powder
 minecraft:block/blue_glazed_terracotta
@@ -101,6 +103,7 @@ minecraft:block/brewing_stand
 minecraft:block/brewing_stand_base
 minecraft:block/bricks
 minecraft:block/brown_candle
+minecraft:block/brown_candle_lit
 minecraft:block/brown_concrete
 minecraft:block/brown_concrete_powder
 minecraft:block/brown_glazed_terracotta
@@ -127,6 +130,7 @@ minecraft:block/campfire_fire  [mcmeta]
 minecraft:block/campfire_log
 minecraft:block/campfire_log_lit  [mcmeta]
 minecraft:block/candle
+minecraft:block/candle_lit
 minecraft:block/carrots_stage0
 minecraft:block/carrots_stage1
 minecraft:block/carrots_stage2
@@ -210,6 +214,7 @@ minecraft:block/cut_copper
 minecraft:block/cut_red_sandstone
 minecraft:block/cut_sandstone
 minecraft:block/cyan_candle
+minecraft:block/cyan_candle_lit
 minecraft:block/cyan_concrete
 minecraft:block/cyan_concrete_powder
 minecraft:block/cyan_glazed_terracotta
@@ -340,6 +345,7 @@ minecraft:block/grass_block_snow
 minecraft:block/grass_block_top
 minecraft:block/gravel
 minecraft:block/gray_candle
+minecraft:block/gray_candle_lit
 minecraft:block/gray_concrete
 minecraft:block/gray_concrete_powder
 minecraft:block/gray_glazed_terracotta
@@ -349,6 +355,7 @@ minecraft:block/gray_stained_glass_pane_top
 minecraft:block/gray_terracotta
 minecraft:block/gray_wool
 minecraft:block/green_candle
+minecraft:block/green_candle_lit
 minecraft:block/green_concrete
 minecraft:block/green_concrete_powder
 minecraft:block/green_glazed_terracotta
@@ -413,6 +420,7 @@ minecraft:block/lectern_sides
 minecraft:block/lectern_top
 minecraft:block/lever
 minecraft:block/light_blue_candle
+minecraft:block/light_blue_candle_lit
 minecraft:block/light_blue_concrete
 minecraft:block/light_blue_concrete_powder
 minecraft:block/light_blue_glazed_terracotta
@@ -422,6 +430,7 @@ minecraft:block/light_blue_stained_glass_pane_top
 minecraft:block/light_blue_terracotta
 minecraft:block/light_blue_wool
 minecraft:block/light_gray_candle
+minecraft:block/light_gray_candle_lit
 minecraft:block/light_gray_concrete
 minecraft:block/light_gray_concrete_powder
 minecraft:block/light_gray_glazed_terracotta
@@ -437,6 +446,7 @@ minecraft:block/lilac_top
 minecraft:block/lily_of_the_valley
 minecraft:block/lily_pad
 minecraft:block/lime_candle
+minecraft:block/lime_candle_lit
 minecraft:block/lime_concrete
 minecraft:block/lime_concrete_powder
 minecraft:block/lime_glazed_terracotta
@@ -452,6 +462,7 @@ minecraft:block/loom_front
 minecraft:block/loom_side
 minecraft:block/loom_top
 minecraft:block/magenta_candle
+minecraft:block/magenta_candle_lit
 minecraft:block/magenta_concrete
 minecraft:block/magenta_concrete_powder
 minecraft:block/magenta_glazed_terracotta
@@ -499,6 +510,7 @@ minecraft:block/observer_side
 minecraft:block/observer_top
 minecraft:block/obsidian
 minecraft:block/orange_candle
+minecraft:block/orange_candle_lit
 minecraft:block/orange_concrete
 minecraft:block/orange_concrete_powder
 minecraft:block/orange_glazed_terracotta
@@ -515,6 +527,7 @@ minecraft:block/packed_ice
 minecraft:block/peony_bottom
 minecraft:block/peony_top
 minecraft:block/pink_candle
+minecraft:block/pink_candle_lit
 minecraft:block/pink_concrete
 minecraft:block/pink_concrete_powder
 minecraft:block/pink_glazed_terracotta
@@ -554,6 +567,12 @@ minecraft:block/potatoes_stage0
 minecraft:block/potatoes_stage1
 minecraft:block/potatoes_stage2
 minecraft:block/potatoes_stage3
+minecraft:block/potted_azalea_bush_plant
+minecraft:block/potted_azalea_bush_side
+minecraft:block/potted_azalea_bush_top
+minecraft:block/potted_flowering_azalea_bush_plant
+minecraft:block/potted_flowering_azalea_bush_side
+minecraft:block/potted_flowering_azalea_bush_top
 minecraft:block/powder_snow
 minecraft:block/powered_rail
 minecraft:block/powered_rail_on
@@ -563,6 +582,7 @@ minecraft:block/pumpkin_side
 minecraft:block/pumpkin_stem
 minecraft:block/pumpkin_top
 minecraft:block/purple_candle
+minecraft:block/purple_candle_lit
 minecraft:block/purple_concrete
 minecraft:block/purple_concrete_powder
 minecraft:block/purple_glazed_terracotta
@@ -586,6 +606,7 @@ minecraft:block/raw_copper_block
 minecraft:block/raw_gold_block
 minecraft:block/raw_iron_block
 minecraft:block/red_candle
+minecraft:block/red_candle_lit
 minecraft:block/red_concrete
 minecraft:block/red_concrete_powder
 minecraft:block/red_glazed_terracotta
@@ -774,6 +795,7 @@ minecraft:block/wheat_stage5
 minecraft:block/wheat_stage6
 minecraft:block/wheat_stage7
 minecraft:block/white_candle
+minecraft:block/white_candle_lit
 minecraft:block/white_concrete
 minecraft:block/white_concrete_powder
 minecraft:block/white_glazed_terracotta
@@ -785,6 +807,7 @@ minecraft:block/white_tulip
 minecraft:block/white_wool
 minecraft:block/wither_rose
 minecraft:block/yellow_candle
+minecraft:block/yellow_candle_lit
 minecraft:block/yellow_concrete
 minecraft:block/yellow_concrete_powder
 minecraft:block/yellow_glazed_terracotta

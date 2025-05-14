@@ -11,5 +11,3 @@ minecraft:oxeye_daisy
 minecraft:cornflower
 minecraft:lily_of_the_valley
 minecraft:wither_rose
-minecraft:azalea_leaves_flowers
-minecraft:flowering_azalea
