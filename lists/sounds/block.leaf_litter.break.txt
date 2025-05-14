@@ -1,0 +1,5 @@
+minecraft:block/leaf_litter/leaf_litter_break1
+minecraft:block/leaf_litter/leaf_litter_break2
+minecraft:block/leaf_litter/leaf_litter_break3
+minecraft:block/leaf_litter/leaf_litter_break4
+minecraft:block/leaf_litter/leaf_litter_break5

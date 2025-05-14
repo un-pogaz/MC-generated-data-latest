@@ -11,6 +11,19 @@ clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecra
 clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace force
 clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace move
 clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace normal
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate>
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> normal
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict masked
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict masked force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict masked move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict masked normal
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict replace
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict replace force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict replace move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict replace normal
 clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos>
 clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate>
 clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate> force
@@ -24,6 +37,19 @@ clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension 
 clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> replace force
 clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> replace move
 clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> replace normal
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate>
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> normal
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict masked
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict masked force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict masked move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict masked normal
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict replace
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict replace force
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict replace move
+clone <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict replace normal
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos>
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate>
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate> force
@@ -37,6 +63,19 @@ clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <en
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace force
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace move
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> replace normal
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate>
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> force
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> move
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> normal
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict masked
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict masked force
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict masked move
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict masked normal
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict replace
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict replace force
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict replace move
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> <destination minecraft:block_pos> strict replace normal
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos>
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate>
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> filtered <filter minecraft:block_predicate> force
@@ -50,3 +89,16 @@ clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <en
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> replace force
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> replace move
 clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> replace normal
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate>
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> force
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> move
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict filtered <filter minecraft:block_predicate> normal
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict masked
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict masked force
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict masked move
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict masked normal
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict replace
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict replace force
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict replace move
+clone from <sourceDimension minecraft:dimension> <begin minecraft:block_pos> <end minecraft:block_pos> to <targetDimension minecraft:dimension> <destination minecraft:block_pos> strict replace normal

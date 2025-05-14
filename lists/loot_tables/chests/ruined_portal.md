@@ -26,3 +26,7 @@
 | minecraft:bell                          |     1 |  0.25% |  1/398 |                               |
 | minecraft:enchanted_golden_apple        |     1 |  0.25% |  1/398 |                               |
 | minecraft:gold_block                    |  1..2 |  0.25% |  1/398 |                               |
+| – – – – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – |
+| 1 time                                  |    -- |     -- |     -- |                               |
+| empty                                   |       |  33.3% |    1/3 |                               |
+| minecraft:lodestone                     |  1..2 |  66.7% |    2/3 |                               |

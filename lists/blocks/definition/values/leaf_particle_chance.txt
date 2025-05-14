@@ -1,0 +1,11 @@
+minecraft:acacia_leaves  = 100
+minecraft:azalea_leaves  = 100
+minecraft:birch_leaves  = 100
+minecraft:cherry_leaves  = 10
+minecraft:dark_oak_leaves  = 100
+minecraft:flowering_azalea_leaves  = 100
+minecraft:jungle_leaves  = 100
+minecraft:mangrove_leaves  = 100
+minecraft:oak_leaves  = 100
+minecraft:pale_oak_leaves  = 50
+minecraft:spruce_leaves  = 100

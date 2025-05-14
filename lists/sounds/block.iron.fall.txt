@@ -1,0 +1,4 @@
+minecraft:block/iron/step1
+minecraft:block/iron/step2
+minecraft:block/iron/step3
+minecraft:block/iron/step4

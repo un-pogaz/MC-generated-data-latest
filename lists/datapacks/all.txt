@@ -54,6 +54,7 @@ minecraft:mob_effect
 minecraft:number_format_type
 minecraft:painting_variant
 minecraft:particle_type
+minecraft:pig_variant
 minecraft:point_of_interest_type
 minecraft:pos_rule_test
 minecraft:position_source_type
@@ -72,6 +73,7 @@ minecraft:slot_display
 minecraft:sound_event
 minecraft:stat_type
 minecraft:structure
+minecraft:ticket_type
 minecraft:trial_spawner
 minecraft:trigger_type
 minecraft:trim_material

@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    "block/iron/break1",
+    "block/iron/break2",
+    "block/iron/break3",
+    "block/iron/break4",
+    "block/iron/break5",
+    "block/iron/break6",
+    "block/iron/break7",
+    "block/iron/break8"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

@@ -123,9 +123,11 @@ minecraft:wooded_badlands
 #minecraft:reduce_water_ambient_spawns
 #minecraft:required_ocean_monument_surrounding
 #minecraft:snow_golem_melts
+#minecraft:spawns_cold_variant_farm_animals
 #minecraft:spawns_cold_variant_frogs
 #minecraft:spawns_gold_rabbits
 #minecraft:spawns_snow_foxes
+#minecraft:spawns_warm_variant_farm_animals
 #minecraft:spawns_warm_variant_frogs
 #minecraft:spawns_white_rabbits
 #minecraft:stronghold_biased_to

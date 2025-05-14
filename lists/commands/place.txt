@@ -10,3 +10,4 @@ place template <template minecraft:resource_location> <pos minecraft:block_pos> 
 place template <template minecraft:resource_location> <pos minecraft:block_pos> <rotation minecraft:template_rotation> <mirror minecraft:template_mirror>
 place template <template minecraft:resource_location> <pos minecraft:block_pos> <rotation minecraft:template_rotation> <mirror minecraft:template_mirror> <integrity brigadier:float[max="1.0", min="0.0"]>
 place template <template minecraft:resource_location> <pos minecraft:block_pos> <rotation minecraft:template_rotation> <mirror minecraft:template_mirror> <integrity brigadier:float[max="1.0", min="0.0"]> <seed brigadier:integer>
+place template <template minecraft:resource_location> <pos minecraft:block_pos> <rotation minecraft:template_rotation> <mirror minecraft:template_mirror> <integrity brigadier:float[max="1.0", min="0.0"]> <seed brigadier:integer> strict

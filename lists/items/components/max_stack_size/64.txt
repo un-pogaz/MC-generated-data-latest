@@ -525,6 +525,7 @@ minecraft:lapis_ore
 minecraft:large_amethyst_bud
 minecraft:large_fern
 minecraft:lead
+minecraft:leaf_litter
 minecraft:leather
 minecraft:lectern
 minecraft:lever
@@ -1110,6 +1111,7 @@ minecraft:white_terracotta
 minecraft:white_tulip
 minecraft:white_wool
 minecraft:wild_armor_trim_smithing_template
+minecraft:wildflowers
 minecraft:wind_charge
 minecraft:witch_spawn_egg
 minecraft:wither_rose

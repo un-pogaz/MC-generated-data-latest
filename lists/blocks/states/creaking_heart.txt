@@ -1,12 +1,18 @@
-active=true,axis=x,natural=true
-active=true,axis=x,natural=false
-active=true,axis=y,natural=true
-active=true,axis=y,natural=false
-active=true,axis=z,natural=true
-active=true,axis=z,natural=false
-active=false,axis=x,natural=true
-active=false,axis=x,natural=false
-active=false,axis=y,natural=true
-active=false,axis=y,natural=false  [default]
-active=false,axis=z,natural=true
-active=false,axis=z,natural=false
+axis=x,creaking_heart_state=uprooted,natural=true
+axis=x,creaking_heart_state=uprooted,natural=false
+axis=x,creaking_heart_state=dormant,natural=true
+axis=x,creaking_heart_state=dormant,natural=false
+axis=x,creaking_heart_state=awake,natural=true
+axis=x,creaking_heart_state=awake,natural=false
+axis=y,creaking_heart_state=uprooted,natural=true
+axis=y,creaking_heart_state=uprooted,natural=false  [default]
+axis=y,creaking_heart_state=dormant,natural=true
+axis=y,creaking_heart_state=dormant,natural=false
+axis=y,creaking_heart_state=awake,natural=true
+axis=y,creaking_heart_state=awake,natural=false
+axis=z,creaking_heart_state=uprooted,natural=true
+axis=z,creaking_heart_state=uprooted,natural=false
+axis=z,creaking_heart_state=dormant,natural=true
+axis=z,creaking_heart_state=dormant,natural=false
+axis=z,creaking_heart_state=awake,natural=true
+axis=z,creaking_heart_state=awake,natural=false

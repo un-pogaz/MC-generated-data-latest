@@ -484,8 +484,10 @@ minecraft:block/crafter_crafting_triggered
 minecraft:block/crafter_triggered
 minecraft:block/crafting_table
 minecraft:block/creaking_heart
-minecraft:block/creaking_heart_active
-minecraft:block/creaking_heart_active_horizontal
+minecraft:block/creaking_heart_awake
+minecraft:block/creaking_heart_awake_horizontal
+minecraft:block/creaking_heart_dormant
+minecraft:block/creaking_heart_dormant_horizontal
 minecraft:block/creaking_heart_horizontal
 minecraft:block/crimson_button
 minecraft:block/crimson_button_inventory
@@ -966,6 +968,10 @@ minecraft:block/large_fern_bottom
 minecraft:block/large_fern_top
 minecraft:block/lava
 minecraft:block/lava_cauldron
+minecraft:block/leaf_litter_1
+minecraft:block/leaf_litter_2
+minecraft:block/leaf_litter_3
+minecraft:block/leaf_litter_4
 minecraft:block/leaves
 minecraft:block/lectern
 minecraft:block/lever
@@ -1975,6 +1981,10 @@ minecraft:block/template_hanging_lantern
 minecraft:block/template_item_frame
 minecraft:block/template_item_frame_map
 minecraft:block/template_lantern
+minecraft:block/template_leaf_litter_1
+minecraft:block/template_leaf_litter_2
+minecraft:block/template_leaf_litter_3
+minecraft:block/template_leaf_litter_4
 minecraft:block/template_orientable_trapdoor_bottom
 minecraft:block/template_orientable_trapdoor_open
 minecraft:block/template_orientable_trapdoor_top
@@ -2187,6 +2197,10 @@ minecraft:block/white_stained_glass_pane_side_alt
 minecraft:block/white_terracotta
 minecraft:block/white_tulip
 minecraft:block/white_wool
+minecraft:block/wildflowers_1
+minecraft:block/wildflowers_2
+minecraft:block/wildflowers_3
+minecraft:block/wildflowers_4
 minecraft:block/wither_rose
 minecraft:block/yellow_candle_cake
 minecraft:block/yellow_candle_cake_lit
@@ -2811,6 +2825,7 @@ minecraft:item/large_amethyst_bud
 minecraft:item/large_fern
 minecraft:item/lava_bucket
 minecraft:item/lead
+minecraft:item/leaf_litter
 minecraft:item/leather
 minecraft:item/leather_boots
 minecraft:item/leather_boots_amethyst_trim
@@ -3268,6 +3283,7 @@ minecraft:item/white_shulker_box
 minecraft:item/white_stained_glass_pane
 minecraft:item/white_tulip
 minecraft:item/wild_armor_trim_smithing_template
+minecraft:item/wildflowers
 minecraft:item/wind_charge
 minecraft:item/wither_rose
 minecraft:item/wolf_armor

@@ -1,4 +1,5 @@
 {
+  "can_destroy_blocks_in_creative": false,
   "damage_per_block": 2,
   "rules": []
 }

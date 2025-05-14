@@ -1,0 +1,16 @@
+facing=north,flower_amount=1  [default]
+facing=north,flower_amount=2
+facing=north,flower_amount=3
+facing=north,flower_amount=4
+facing=south,flower_amount=1
+facing=south,flower_amount=2
+facing=south,flower_amount=3
+facing=south,flower_amount=4
+facing=west,flower_amount=1
+facing=west,flower_amount=2
+facing=west,flower_amount=3
+facing=west,flower_amount=4
+facing=east,flower_amount=1
+facing=east,flower_amount=2
+facing=east,flower_amount=3
+facing=east,flower_amount=4

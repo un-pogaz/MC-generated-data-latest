@@ -1,0 +1,4 @@
+minecraft:amethyst_cluster  = 10
+minecraft:large_amethyst_bud  = 10
+minecraft:medium_amethyst_bud  = 10
+minecraft:small_amethyst_bud  = 8

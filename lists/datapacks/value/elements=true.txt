@@ -12,6 +12,7 @@ minecraft:item_modifier
 minecraft:jukebox_song
 minecraft:loot_table
 minecraft:painting_variant
+minecraft:pig_variant
 minecraft:predicate
 minecraft:recipe
 minecraft:structure
