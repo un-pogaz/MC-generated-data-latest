@@ -709,6 +709,7 @@ minecraft:zombie_wall_head
 #minecraft:rails
 #minecraft:sand
 #minecraft:saplings
+#minecraft:shulker_boxes
 #minecraft:signs
 #minecraft:slabs
 #minecraft:small_flowers
