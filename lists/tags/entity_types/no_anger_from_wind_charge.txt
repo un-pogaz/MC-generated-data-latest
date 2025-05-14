@@ -1,0 +1,8 @@
+minecraft:breeze
+minecraft:skeleton
+minecraft:stray
+minecraft:zombie
+minecraft:husk
+minecraft:spider
+minecraft:cave_spider
+minecraft:slime

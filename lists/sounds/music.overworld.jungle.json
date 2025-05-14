@@ -7,31 +7,7 @@
       "weight": 3
     },
     {
-      "name": "music/game/subwoofer_lullaby",
-      "stream": true
-    },
-    {
-      "name": "music/game/living_mice",
-      "stream": true
-    },
-    {
-      "name": "music/game/haggstrom",
-      "stream": true
-    },
-    {
       "name": "music/game/danny",
-      "stream": true
-    },
-    {
-      "name": "music/game/left_to_bloom",
-      "volume": 0.4
-    },
-    {
-      "name": "music/game/key",
-      "stream": true
-    },
-    {
-      "name": "music/game/oxygene",
       "stream": true
     },
     {
@@ -39,11 +15,35 @@
       "stream": true
     },
     {
-      "name": "music/game/wet_hands",
+      "name": "music/game/haggstrom",
+      "stream": true
+    },
+    {
+      "name": "music/game/key",
+      "stream": true
+    },
+    {
+      "name": "music/game/left_to_bloom",
+      "volume": 0.4
+    },
+    {
+      "name": "music/game/living_mice",
       "stream": true
     },
     {
       "name": "music/game/mice_on_venus",
+      "stream": true
+    },
+    {
+      "name": "music/game/oxygene",
+      "stream": true
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true
+    },
+    {
+      "name": "music/game/wet_hands",
       "stream": true
     }
   ]

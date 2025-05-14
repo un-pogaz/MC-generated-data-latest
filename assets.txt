@@ -2097,6 +2097,10 @@ minecraft/sounds/mob/armadillo/hurt2.ogg
 minecraft/sounds/mob/armadillo/hurt3.ogg
 minecraft/sounds/mob/armadillo/hurt4.ogg
 minecraft/sounds/mob/armadillo/hurt5.ogg
+minecraft/sounds/mob/armadillo/hurt_reduced1.ogg
+minecraft/sounds/mob/armadillo/hurt_reduced2.ogg
+minecraft/sounds/mob/armadillo/hurt_reduced3.ogg
+minecraft/sounds/mob/armadillo/hurt_reduced4.ogg
 minecraft/sounds/mob/armadillo/land1.ogg
 minecraft/sounds/mob/armadillo/land2.ogg
 minecraft/sounds/mob/armadillo/land3.ogg

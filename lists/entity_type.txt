@@ -144,6 +144,7 @@ minecraft:zombified_piglin
 #minecraft:illager_friends
 #minecraft:impact_projectiles
 #minecraft:inverted_healing_and_harm
+#minecraft:no_anger_from_wind_charge
 #minecraft:non_controlling_rider
 #minecraft:not_scary_for_pufferfish
 #minecraft:powder_snow_walkable_mobs

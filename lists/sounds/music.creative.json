@@ -5,6 +5,10 @@
       "type": "event"
     },
     {
+      "name": "music/game/creative/aria_math",
+      "stream": true
+    },
+    {
       "name": "music/game/creative/biome_fest",
       "stream": true
     },
@@ -13,15 +17,11 @@
       "stream": true
     },
     {
-      "name": "music/game/creative/haunt_muskie",
-      "stream": true
-    },
-    {
-      "name": "music/game/creative/aria_math",
-      "stream": true
-    },
-    {
       "name": "music/game/creative/dreiton",
+      "stream": true
+    },
+    {
+      "name": "music/game/creative/haunt_muskie",
       "stream": true
     },
     {

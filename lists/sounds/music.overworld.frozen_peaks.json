@@ -1,18 +1,6 @@
 {
   "sounds": [
     {
-      "name": "music/game/subwoofer_lullaby",
-      "stream": true
-    },
-    {
-      "name": "music/game/living_mice",
-      "stream": true
-    },
-    {
-      "name": "music/game/haggstrom",
-      "stream": true
-    },
-    {
       "name": "music/game/danny",
       "stream": true
     },
@@ -21,7 +9,11 @@
       "stream": true
     },
     {
-      "name": "music/game/wet_hands",
+      "name": "music/game/haggstrom",
+      "stream": true
+    },
+    {
+      "name": "music/game/living_mice",
       "stream": true
     },
     {
@@ -33,6 +25,14 @@
       "stream": true,
       "volume": 0.4,
       "weight": 2
+    },
+    {
+      "name": "music/game/subwoofer_lullaby",
+      "stream": true
+    },
+    {
+      "name": "music/game/wet_hands",
+      "stream": true
     }
   ]
 }

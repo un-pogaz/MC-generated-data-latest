@@ -21,7 +21,11 @@
       "volume": 0.4
     },
     {
-      "name": "music/menu/mutation",
+      "name": "music/menu/beginning_2",
+      "stream": true
+    },
+    {
+      "name": "music/menu/floating_trees",
       "stream": true
     },
     {
@@ -29,11 +33,7 @@
       "stream": true
     },
     {
-      "name": "music/menu/beginning_2",
-      "stream": true
-    },
-    {
-      "name": "music/menu/floating_trees",
+      "name": "music/menu/mutation",
       "stream": true
     }
   ]
