@@ -17,3 +17,6 @@ minecraft:goat_horn
 
 empty
 minecraft:sentry_armor_trim_smithing_template
+
+empty
+minecraft:enchanted_book

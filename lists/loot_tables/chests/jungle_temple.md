@@ -17,3 +17,7 @@
 | 1 time                                      |    -- |     -- |     -- |                                           |
 | empty                                       |       |  66.7% |    2/3 |                                           |
 | minecraft:wild_armor_trim_smithing_template |     2 |  33.3% |    1/3 |                                           |
+| – – – – – – – – – – – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – |
+| 1 time                                      |    -- |     -- |     -- |                                           |
+| empty                                       |       |    50% |    1/2 |                                           |
+| minecraft:enchanted_book                    |     1 |    50% |    1/2 | enchantments: unbreaking                  |

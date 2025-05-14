@@ -37,7 +37,14 @@ minecraft:village_taiga
 #minecraft:eye_of_ender_located
 #minecraft:mineshaft
 #minecraft:ocean_ruin
+#minecraft:on_desert_village_maps
+#minecraft:on_jungle_explorer_maps
 #minecraft:on_ocean_explorer_maps
+#minecraft:on_plains_village_maps
+#minecraft:on_savanna_village_maps
+#minecraft:on_snowy_village_maps
+#minecraft:on_swamp_explorer_maps
+#minecraft:on_taiga_village_maps
 #minecraft:on_treasure_maps
 #minecraft:on_woodland_explorer_maps
 #minecraft:ruined_portal

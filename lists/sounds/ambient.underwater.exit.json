@@ -2,15 +2,15 @@
   "sounds": [
     {
       "name": "ambient/underwater/exit1",
-      "volume": 0.5
+      "volume": 0.3
     },
     {
       "name": "ambient/underwater/exit2",
-      "volume": 0.5
+      "volume": 0.3
     },
     {
       "name": "ambient/underwater/exit3",
-      "volume": 0.5
+      "volume": 0.3
     }
   ]
 }

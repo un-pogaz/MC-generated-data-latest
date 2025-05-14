@@ -40,6 +40,8 @@ gamerule doWeatherCycle
 gamerule doWeatherCycle <value brigadier:bool>
 gamerule drowningDamage
 gamerule drowningDamage <value brigadier:bool>
+gamerule enderPearlsVanishOnDeath
+gamerule enderPearlsVanishOnDeath <value brigadier:bool>
 gamerule fallDamage
 gamerule fallDamage <value brigadier:bool>
 gamerule fireDamage
