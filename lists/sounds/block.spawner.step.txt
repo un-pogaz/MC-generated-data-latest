@@ -1,0 +1,5 @@
+minecraft:block/spawner/step1
+minecraft:block/spawner/step2
+minecraft:block/spawner/step3
+minecraft:block/spawner/step4
+minecraft:block/spawner/step5

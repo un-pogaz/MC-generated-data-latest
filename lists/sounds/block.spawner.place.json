@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/spawner/break1",
+    "block/spawner/break2",
+    "block/spawner/break3",
+    "block/spawner/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

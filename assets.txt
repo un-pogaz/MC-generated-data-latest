@@ -20,6 +20,7 @@ minecraft/lang/az_az.json
 minecraft/lang/ba_ru.json
 minecraft/lang/bar.json
 minecraft/lang/be_by.json
+minecraft/lang/be_latn.json
 minecraft/lang/bg_bg.json
 minecraft/lang/br_fr.json
 minecraft/lang/brb.json
@@ -130,6 +131,7 @@ minecraft/lang/tlh_aa.json
 minecraft/lang/tok.json
 minecraft/lang/tr_tr.json
 minecraft/lang/tt_ru.json
+minecraft/lang/tzo_mx.json
 minecraft/lang/uk_ua.json
 minecraft/lang/val_es.json
 minecraft/lang/vec_it.json
@@ -1372,6 +1374,15 @@ minecraft/sounds/block/soul_soil/step2.ogg
 minecraft/sounds/block/soul_soil/step3.ogg
 minecraft/sounds/block/soul_soil/step4.ogg
 minecraft/sounds/block/soul_soil/step5.ogg
+minecraft/sounds/block/spawner/break1.ogg
+minecraft/sounds/block/spawner/break2.ogg
+minecraft/sounds/block/spawner/break3.ogg
+minecraft/sounds/block/spawner/break4.ogg
+minecraft/sounds/block/spawner/step1.ogg
+minecraft/sounds/block/spawner/step2.ogg
+minecraft/sounds/block/spawner/step3.ogg
+minecraft/sounds/block/spawner/step4.ogg
+minecraft/sounds/block/spawner/step5.ogg
 minecraft/sounds/block/sponge/absorb1.ogg
 minecraft/sounds/block/sponge/absorb2.ogg
 minecraft/sounds/block/sponge/absorb3.ogg

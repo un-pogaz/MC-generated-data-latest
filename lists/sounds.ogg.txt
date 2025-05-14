@@ -1220,6 +1220,15 @@ minecraft:block/soul_soil/step2
 minecraft:block/soul_soil/step3
 minecraft:block/soul_soil/step4
 minecraft:block/soul_soil/step5
+minecraft:block/spawner/break1
+minecraft:block/spawner/break2
+minecraft:block/spawner/break3
+minecraft:block/spawner/break4
+minecraft:block/spawner/step1
+minecraft:block/spawner/step2
+minecraft:block/spawner/step3
+minecraft:block/spawner/step4
+minecraft:block/spawner/step5
 minecraft:block/sponge/absorb1
 minecraft:block/sponge/absorb2
 minecraft:block/sponge/absorb3
