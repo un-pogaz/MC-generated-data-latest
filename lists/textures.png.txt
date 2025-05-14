@@ -1360,6 +1360,7 @@ minecraft:entity/ghast/ghast
 minecraft:entity/ghast/ghast_shooting
 minecraft:entity/ghast/happy_ghast
 minecraft:entity/ghast/happy_ghast_baby
+minecraft:entity/ghast/happy_ghast_ropes
 minecraft:entity/goat/goat
 minecraft:entity/guardian
 minecraft:entity/guardian_beam
