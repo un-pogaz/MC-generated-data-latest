@@ -856,10 +856,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:dirt",
         name: "minecraft:building_anchor",
         pool: "minecraft:trail_ruins/roads",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:road_anchor"
       },
@@ -890,5 +890,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3826
+  DataVersion: 3827
 }

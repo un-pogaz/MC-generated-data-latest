@@ -2212,10 +2212,10 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:air",
         name: "minecraft:empty",
         pool: "minecraft:empty",
+        joint: "aligned",
         id: "minecraft:jigsaw",
         target: "minecraft:empty"
       },
@@ -2272,5 +2272,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 3826
+  DataVersion: 3827
 }

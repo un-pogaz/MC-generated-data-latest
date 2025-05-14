@@ -756,10 +756,10 @@
     },
     {
       nbt: {
-        joint: "aligned",
         final_state: "minecraft:snow_block",
         name: "minecraft:building_entrance",
         pool: "minecraft:empty",
+        joint: "aligned",
         id: "minecraft:jigsaw",
         target: "minecraft:building_entrance"
       },
@@ -857,5 +857,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3826
+  DataVersion: 3827
 }

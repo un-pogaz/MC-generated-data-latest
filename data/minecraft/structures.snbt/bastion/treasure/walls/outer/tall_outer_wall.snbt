@@ -3264,10 +3264,10 @@
     },
     {
       nbt: {
-        joint: "rollable",
         final_state: "minecraft:polished_blackstone_bricks",
         name: "minecraft:tall_outer_wall_connector",
         pool: "minecraft:empty",
+        joint: "rollable",
         id: "minecraft:jigsaw",
         target: "minecraft:empty"
       },
@@ -3286,5 +3286,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 3826
+  DataVersion: 3827
 }
