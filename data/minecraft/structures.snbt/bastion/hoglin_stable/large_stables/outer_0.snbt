@@ -1863,7 +1863,8 @@
     },
     {
       Properties: {
-        waterlogged: "false"
+        waterlogged: "false",
+        axis: "y"
       },
       Name: "minecraft:chain"
     },
@@ -1892,5 +1893,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2572
+  DataVersion: 2573
 }

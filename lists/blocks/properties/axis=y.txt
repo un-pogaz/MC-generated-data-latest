@@ -4,6 +4,7 @@ minecraft:basalt
 minecraft:birch_log
 minecraft:birch_wood
 minecraft:bone_block
+minecraft:chain
 minecraft:crimson_hyphae
 minecraft:crimson_stem
 minecraft:dark_oak_log
