@@ -1,1 +1,1 @@
-locate <structure minecraft:resource_location>
+locate <structure minecraft:resource_or_tag[registry="minecraft:worldgen/configured_structure_feature"]>

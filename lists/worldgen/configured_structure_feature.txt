@@ -29,3 +29,13 @@ minecraft:village_plains
 minecraft:village_savanna
 minecraft:village_snowy
 minecraft:village_taiga
+#minecraft:dolphin_located
+#minecraft:eye_of_ender_located
+#minecraft:mineshaft
+#minecraft:ocean_ruin
+#minecraft:on_ocean_explorer_maps
+#minecraft:on_treasure_maps
+#minecraft:on_woodland_explorer_maps
+#minecraft:ruined_portal
+#minecraft:shipwreck
+#minecraft:village
