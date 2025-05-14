@@ -1,1 +1,3 @@
-minecraft:rotten_flesh
+minecraft:porkchop
+
+minecraft:leather

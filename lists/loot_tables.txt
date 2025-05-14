@@ -70,6 +70,7 @@ minecraft:entities/panda
 minecraft:entities/parrot
 minecraft:entities/phantom
 minecraft:entities/pig
+minecraft:entities/piglin
 minecraft:entities/pillager
 minecraft:entities/player
 minecraft:entities/polar_bear
@@ -136,3 +137,4 @@ minecraft:gameplay/hero_of_the_village/mason_gift
 minecraft:gameplay/hero_of_the_village/shepherd_gift
 minecraft:gameplay/hero_of_the_village/toolsmith_gift
 minecraft:gameplay/hero_of_the_village/weaponsmith_gift
+minecraft:gameplay/piglin_bartering
