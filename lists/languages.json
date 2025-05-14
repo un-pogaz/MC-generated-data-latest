@@ -474,6 +474,11 @@
     "region": "Polska",
     "bidirectional": false
   },
+  "pls": {
+    "name": "Ngiiwa",
+    "region": "Ndanìꞌngà",
+    "bidirectional": false
+  },
   "pt_br": {
     "name": "Português",
     "region": "Brasil",
