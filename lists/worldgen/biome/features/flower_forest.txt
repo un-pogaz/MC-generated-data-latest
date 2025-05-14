@@ -18,6 +18,7 @@ minecraft:ore_granite
 minecraft:ore_diorite
 minecraft:ore_andesite
 minecraft:ore_tuff
+minecraft:ore_deepslate
 minecraft:ore_coal_upper
 minecraft:ore_coal_lower
 minecraft:ore_iron_upper
@@ -27,6 +28,7 @@ minecraft:ore_gold
 minecraft:ore_redstone
 minecraft:ore_redstone_lower
 minecraft:ore_diamond
+minecraft:ore_diamond_large
 minecraft:ore_lapis
 minecraft:ore_lapis_buried
 minecraft:ore_copper
@@ -35,7 +37,8 @@ minecraft:disk_sand
 minecraft:disk_clay
 minecraft:disk_gravel
 
-[]
+minecraft:rare_dripstone_cluster
+minecraft:rare_small_dripstone
 
 minecraft:forest_flower_vegetation_common
 minecraft:glow_lichen

@@ -1,6 +1,3 @@
-minecraft:tropical_fish
-minecraft:pufferfish
-minecraft:salmon
-minecraft:cod
-minecraft:squid
-minecraft:glow_squid
+minecraft:drowned
+minecraft:guardian
+minecraft:elder_guardian

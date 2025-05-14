@@ -100,5 +100,19 @@
       "type": "minecraft:zombie_villager",
       "weight": 25
     }
+  ],
+  "underground_water_creature": [
+    {
+      "maxCount": 6,
+      "minCount": 4,
+      "type": "minecraft:axolotl",
+      "weight": 10
+    },
+    {
+      "maxCount": 6,
+      "minCount": 4,
+      "type": "minecraft:glow_squid",
+      "weight": 10
+    }
   ]
 }

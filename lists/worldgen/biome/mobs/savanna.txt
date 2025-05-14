@@ -1,9 +1,11 @@
+minecraft:axolotl
 minecraft:bat
 minecraft:chicken
 minecraft:cow
 minecraft:creeper
 minecraft:donkey
 minecraft:enderman
+minecraft:glow_squid
 minecraft:horse
 minecraft:pig
 minecraft:sheep

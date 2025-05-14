@@ -1,7 +1,9 @@
+minecraft:axolotl
 minecraft:bat
 minecraft:creeper
 minecraft:drowned
 minecraft:enderman
+minecraft:glow_squid
 minecraft:salmon
 minecraft:skeleton
 minecraft:slime
