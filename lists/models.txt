@@ -2144,6 +2144,7 @@ minecraft:item/phantom_membrane
 minecraft:item/phantom_spawn_egg
 minecraft:item/pig_spawn_egg
 minecraft:item/piglin_banner_pattern
+minecraft:item/piglin_brute_spawn_egg
 minecraft:item/piglin_spawn_egg
 minecraft:item/pillager_spawn_egg
 minecraft:item/pink_banner

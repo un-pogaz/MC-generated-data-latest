@@ -924,6 +924,7 @@ minecraft:entity/phantom_eyes
 minecraft:entity/pig/pig
 minecraft:entity/pig/pig_saddle
 minecraft:entity/piglin/piglin
+minecraft:entity/piglin/piglin_brute
 minecraft:entity/piglin/zombified_piglin
 minecraft:entity/projectiles/arrow
 minecraft:entity/projectiles/spectral_arrow
