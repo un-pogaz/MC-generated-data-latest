@@ -67,6 +67,8 @@ minecraft:cobblestone_stairs
 minecraft:cocoa
 minecraft:command_block
 minecraft:comparator
+minecraft:copper_door
+minecraft:copper_trapdoor
 minecraft:creeper_wall_head
 minecraft:crimson_button
 minecraft:crimson_door
@@ -105,6 +107,8 @@ minecraft:end_portal_frame
 minecraft:end_rod
 minecraft:end_stone_brick_stairs
 minecraft:ender_chest
+minecraft:exposed_copper_door
+minecraft:exposed_copper_trapdoor
 minecraft:exposed_cut_copper_stairs
 minecraft:fire_coral_wall_fan
 minecraft:furnace
@@ -177,6 +181,8 @@ minecraft:orange_bed
 minecraft:orange_glazed_terracotta
 minecraft:orange_shulker_box
 minecraft:orange_wall_banner
+minecraft:oxidized_copper_door
+minecraft:oxidized_copper_trapdoor
 minecraft:oxidized_cut_copper_stairs
 minecraft:piglin_wall_head
 minecraft:pink_bed
@@ -194,6 +200,7 @@ minecraft:polished_blackstone_stairs
 minecraft:polished_deepslate_stairs
 minecraft:polished_diorite_stairs
 minecraft:polished_granite_stairs
+minecraft:polished_tuff_stairs
 minecraft:prismarine_brick_stairs
 minecraft:prismarine_stairs
 minecraft:purple_bed
@@ -237,6 +244,8 @@ minecraft:stonecutter
 minecraft:trapped_chest
 minecraft:tripwire_hook
 minecraft:tube_coral_wall_fan
+minecraft:tuff_brick_stairs
+minecraft:tuff_stairs
 minecraft:wall_torch
 minecraft:warped_button
 minecraft:warped_door
@@ -245,10 +254,20 @@ minecraft:warped_stairs
 minecraft:warped_trapdoor
 minecraft:warped_wall_hanging_sign
 minecraft:warped_wall_sign
+minecraft:waxed_copper_door
+minecraft:waxed_copper_trapdoor
 minecraft:waxed_cut_copper_stairs
+minecraft:waxed_exposed_copper_door
+minecraft:waxed_exposed_copper_trapdoor
 minecraft:waxed_exposed_cut_copper_stairs
+minecraft:waxed_oxidized_copper_door
+minecraft:waxed_oxidized_copper_trapdoor
 minecraft:waxed_oxidized_cut_copper_stairs
+minecraft:waxed_weathered_copper_door
+minecraft:waxed_weathered_copper_trapdoor
 minecraft:waxed_weathered_cut_copper_stairs
+minecraft:weathered_copper_door
+minecraft:weathered_copper_trapdoor
 minecraft:weathered_cut_copper_stairs
 minecraft:white_bed
 minecraft:white_glazed_terracotta

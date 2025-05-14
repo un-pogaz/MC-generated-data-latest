@@ -1,0 +1,6 @@
+minecraft:block/copper_bulb/step1
+minecraft:block/copper_bulb/step2
+minecraft:block/copper_bulb/step3
+minecraft:block/copper_bulb/step4
+minecraft:block/copper_bulb/step5
+minecraft:block/copper_bulb/step6

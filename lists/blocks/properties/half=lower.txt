@@ -2,14 +2,17 @@ minecraft:acacia_door
 minecraft:bamboo_door
 minecraft:birch_door
 minecraft:cherry_door
+minecraft:copper_door
 minecraft:crimson_door
 minecraft:dark_oak_door
+minecraft:exposed_copper_door
 minecraft:iron_door
 minecraft:jungle_door
 minecraft:large_fern
 minecraft:lilac
 minecraft:mangrove_door
 minecraft:oak_door
+minecraft:oxidized_copper_door
 minecraft:peony
 minecraft:pitcher_crop
 minecraft:pitcher_plant
@@ -20,3 +23,8 @@ minecraft:sunflower
 minecraft:tall_grass
 minecraft:tall_seagrass
 minecraft:warped_door
+minecraft:waxed_copper_door
+minecraft:waxed_exposed_copper_door
+minecraft:waxed_oxidized_copper_door
+minecraft:waxed_weathered_copper_door
+minecraft:weathered_copper_door

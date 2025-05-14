@@ -1,0 +1,4 @@
+minecraft:block/copper_grate/break1
+minecraft:block/copper_grate/break2
+minecraft:block/copper_grate/break3
+minecraft:block/copper_grate/break4

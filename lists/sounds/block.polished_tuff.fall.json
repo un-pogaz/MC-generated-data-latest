@@ -1,0 +1,28 @@
+{
+  "sounds": [
+    {
+      "name": "block/tuff/step1",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/step2",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/step3",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/step4",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/step5",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/step6",
+      "pitch": 1.2
+    }
+  ]
+}

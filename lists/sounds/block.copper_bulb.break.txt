@@ -1,0 +1,4 @@
+minecraft:block/copper_bulb/break1
+minecraft:block/copper_bulb/break2
+minecraft:block/copper_bulb/break3
+minecraft:block/copper_bulb/break4

@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/tuff/break1",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/break2",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/break3",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/break4",
+      "pitch": 1.2
+    },
+    {
+      "name": "block/tuff/break5",
+      "pitch": 1.2
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

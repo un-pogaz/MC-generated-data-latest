@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/copper_bulb/break1",
+    "block/copper_bulb/break2",
+    "block/copper_bulb/break3",
+    "block/copper_bulb/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

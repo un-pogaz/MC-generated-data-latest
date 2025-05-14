@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/copper_door/toggle1",
+    "block/copper_door/toggle2",
+    "block/copper_door/toggle3"
+  ],
+  "subtitle": "subtitles.block.door.toggle"
+}

@@ -8,9 +8,11 @@ minecraft:brown_candle_cake
 minecraft:campfire
 minecraft:candle
 minecraft:candle_cake
+minecraft:copper_bulb
 minecraft:cyan_candle
 minecraft:cyan_candle_cake
 minecraft:deepslate_redstone_ore
+minecraft:exposed_copper_bulb
 minecraft:furnace
 minecraft:gray_candle
 minecraft:gray_candle_cake
@@ -26,6 +28,7 @@ minecraft:magenta_candle
 minecraft:magenta_candle_cake
 minecraft:orange_candle
 minecraft:orange_candle_cake
+minecraft:oxidized_copper_bulb
 minecraft:pink_candle
 minecraft:pink_candle_cake
 minecraft:purple_candle
@@ -38,6 +41,11 @@ minecraft:redstone_torch
 minecraft:redstone_wall_torch
 minecraft:smoker
 minecraft:soul_campfire
+minecraft:waxed_copper_bulb
+minecraft:waxed_exposed_copper_bulb
+minecraft:waxed_oxidized_copper_bulb
+minecraft:waxed_weathered_copper_bulb
+minecraft:weathered_copper_bulb
 minecraft:white_candle
 minecraft:white_candle_cake
 minecraft:yellow_candle

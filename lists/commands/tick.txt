@@ -1,0 +1,8 @@
+tick freeze
+tick query
+tick rate <rate brigadier:float[max="10000.0", min="1.0"]>
+tick sprint stop
+tick sprint <time minecraft:time[min="1"]>
+tick step stop
+tick step <time minecraft:time[min="1"]>
+tick unfreeze

@@ -1,0 +1,4 @@
+minecraft:block/copper_trapdoor/toggle1
+minecraft:block/copper_trapdoor/toggle2
+minecraft:block/copper_trapdoor/toggle3
+minecraft:block/copper_trapdoor/toggle4

@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/tuff_bricks/step1",
+    "block/tuff_bricks/step2",
+    "block/tuff_bricks/step3",
+    "block/tuff_bricks/step4",
+    "block/tuff_bricks/step5",
+    "block/tuff_bricks/step6"
+  ]
+}
