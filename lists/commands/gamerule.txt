@@ -12,6 +12,10 @@ gamerule doEntityDrops
 gamerule doEntityDrops <value brigadier:bool>
 gamerule doFireTick
 gamerule doFireTick <value brigadier:bool>
+gamerule doImmediateRespawn
+gamerule doImmediateRespawn <value brigadier:bool>
+gamerule doInsomnia
+gamerule doInsomnia <value brigadier:bool>
 gamerule doLimitedCrafting
 gamerule doLimitedCrafting <value brigadier:bool>
 gamerule doMobLoot
@@ -22,6 +26,12 @@ gamerule doTileDrops
 gamerule doTileDrops <value brigadier:bool>
 gamerule doWeatherCycle
 gamerule doWeatherCycle <value brigadier:bool>
+gamerule drowningDamage
+gamerule drowningDamage <value brigadier:bool>
+gamerule fallDamage
+gamerule fallDamage <value brigadier:bool>
+gamerule fireDamage
+gamerule fireDamage <value brigadier:bool>
 gamerule keepInventory
 gamerule keepInventory <value brigadier:bool>
 gamerule logAdminCommands

@@ -101,5 +101,6 @@ minecraft:zombie
 minecraft:zombie_horse
 minecraft:zombie_pigman
 minecraft:zombie_villager
+#minecraft:beehive_inhabitors
 #minecraft:raiders
 #minecraft:skeletons

@@ -26,11 +26,10 @@ minecraft:block/barrel_top
 minecraft:block/barrel_top_open
 minecraft:block/beacon
 minecraft:block/bedrock
-minecraft:block/bee_hive_bottom
+minecraft:block/bee_hive_end
 minecraft:block/bee_hive_front
 minecraft:block/bee_hive_front_honey
 minecraft:block/bee_hive_side
-minecraft:block/bee_hive_top
 minecraft:block/bee_nest_bottom
 minecraft:block/bee_nest_front
 minecraft:block/bee_nest_front_honey

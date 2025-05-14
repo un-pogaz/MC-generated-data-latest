@@ -11,6 +11,10 @@
       "south",
       "west",
       "east"
+    ],
+    "powered": [
+      "true",
+      "false"
     ]
   }
 }

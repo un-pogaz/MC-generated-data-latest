@@ -2305,6 +2305,7 @@
     {
       Properties: {
         attachment: "ceiling",
+        powered: "false",
         facing: "north"
       },
       Name: "minecraft:bell"
@@ -2332,5 +2333,5 @@
       Name: "minecraft:wall_torch"
     }
   ],
-  DataVersion: 2201
+  DataVersion: 2203
 }

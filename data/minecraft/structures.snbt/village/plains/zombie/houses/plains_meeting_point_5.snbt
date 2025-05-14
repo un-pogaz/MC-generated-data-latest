@@ -2763,6 +2763,7 @@
     {
       Properties: {
         attachment: "ceiling",
+        powered: "false",
         facing: "east"
       },
       Name: "minecraft:bell"
@@ -2781,5 +2782,5 @@
       Name: "minecraft:oak_slab"
     }
   ],
-  DataVersion: 2201
+  DataVersion: 2203
 }
