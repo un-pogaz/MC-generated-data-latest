@@ -1,4 +1,3 @@
-minecraft:amethyst_cluster
 minecraft:black_candle
 minecraft:black_candle_cake
 minecraft:blast_furnace
@@ -17,7 +16,6 @@ minecraft:gray_candle
 minecraft:gray_candle_cake
 minecraft:green_candle
 minecraft:green_candle_cake
-minecraft:large_amethyst_bud
 minecraft:light_blue_candle
 minecraft:light_blue_candle_cake
 minecraft:light_gray_candle
@@ -26,7 +24,6 @@ minecraft:lime_candle
 minecraft:lime_candle_cake
 minecraft:magenta_candle
 minecraft:magenta_candle_cake
-minecraft:medium_amethyst_bud
 minecraft:orange_candle
 minecraft:orange_candle_cake
 minecraft:pink_candle
@@ -39,7 +36,6 @@ minecraft:redstone_lamp
 minecraft:redstone_ore
 minecraft:redstone_torch
 minecraft:redstone_wall_torch
-minecraft:small_amethyst_bud
 minecraft:smoker
 minecraft:soul_campfire
 minecraft:white_candle
