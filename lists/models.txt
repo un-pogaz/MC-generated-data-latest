@@ -1172,6 +1172,9 @@ minecraft:block/sandstone_wall_side
 minecraft:block/sandstone_wall_side_tall
 minecraft:block/scaffolding_stable
 minecraft:block/scaffolding_unstable
+minecraft:block/sculk_sensor
+minecraft:block/sculk_sensor_active
+minecraft:block/sculk_sensor_inactive
 minecraft:block/sea_lantern
 minecraft:block/sea_pickle
 minecraft:block/seagrass
@@ -2466,6 +2469,7 @@ minecraft:item/sandstone_slab
 minecraft:item/sandstone_stairs
 minecraft:item/sandstone_wall
 minecraft:item/scaffolding
+minecraft:item/sculk_sensor
 minecraft:item/scute
 minecraft:item/sea_lantern
 minecraft:item/sea_pickle

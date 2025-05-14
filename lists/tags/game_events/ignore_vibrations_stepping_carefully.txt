@@ -1,0 +1,3 @@
+minecraft:step
+minecraft:hit_ground
+minecraft:projectile_shoot
