@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/packed_mud/step1",
+    "block/packed_mud/step2",
+    "block/packed_mud/step3",
+    "block/packed_mud/step4",
+    "block/packed_mud/step5",
+    "block/packed_mud/step6"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/frogspawn/hatch1",
+      "pitch": 1.2,
+      "volume": 0.6
+    },
+    {
+      "name": "block/frogspawn/hatch2",
+      "pitch": 1.2,
+      "volume": 0.6
+    },
+    {
+      "name": "block/frogspawn/hatch3",
+      "pitch": 1.2,
+      "volume": 0.6
+    },
+    {
+      "name": "block/frogspawn/hatch4",
+      "pitch": 1.2,
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.block.frogspawn.hatch"
+}

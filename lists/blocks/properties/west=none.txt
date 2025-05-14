@@ -10,6 +10,7 @@ minecraft:end_stone_brick_wall
 minecraft:granite_wall
 minecraft:mossy_cobblestone_wall
 minecraft:mossy_stone_brick_wall
+minecraft:mud_brick_wall
 minecraft:nether_brick_wall
 minecraft:polished_blackstone_brick_wall
 minecraft:polished_blackstone_wall

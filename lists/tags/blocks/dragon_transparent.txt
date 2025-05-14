@@ -1,0 +1,2 @@
+minecraft:light
+#minecraft:fire

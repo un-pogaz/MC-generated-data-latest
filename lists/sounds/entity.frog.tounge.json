@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "mob/frog/tounge1",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/frog/tounge2",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/frog/tounge3",
+      "volume": 0.5
+    },
+    {
+      "name": "mob/frog/tounge4",
+      "volume": 0.5
+    }
+  ]
+}

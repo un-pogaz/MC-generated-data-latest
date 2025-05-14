@@ -1,0 +1,10 @@
+minecraft:bottomless_pit
+minecraft:classic_flat
+minecraft:desert
+minecraft:overworld
+minecraft:redstone_ready
+minecraft:snowy_kingdom
+minecraft:the_void
+minecraft:tunnelers_dream
+minecraft:water_world
+#minecraft:visible

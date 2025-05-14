@@ -30,8 +30,12 @@ minecraft:jungle_stairs
 minecraft:jungle_trapdoor
 minecraft:large_fern
 minecraft:lilac
+minecraft:mangrove_door
+minecraft:mangrove_stairs
+minecraft:mangrove_trapdoor
 minecraft:mossy_cobblestone_stairs
 minecraft:mossy_stone_brick_stairs
+minecraft:mud_brick_stairs
 minecraft:nether_brick_stairs
 minecraft:oak_door
 minecraft:oak_stairs

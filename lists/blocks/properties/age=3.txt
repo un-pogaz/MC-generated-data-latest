@@ -6,6 +6,7 @@ minecraft:chorus_flower
 minecraft:fire
 minecraft:frosted_ice
 minecraft:kelp
+minecraft:mangrove_propagule
 minecraft:melon_stem
 minecraft:nether_wart
 minecraft:potatoes

@@ -1,0 +1,8 @@
+minecraft:mob/frog/eat1
+minecraft:mob/frog/eat1
+minecraft:mob/frog/eat2
+minecraft:mob/frog/eat2
+minecraft:mob/frog/eat3
+minecraft:mob/frog/eat3
+minecraft:mob/frog/eat4
+minecraft:mob/frog/eat4

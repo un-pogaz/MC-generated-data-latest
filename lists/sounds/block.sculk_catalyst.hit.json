@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/sculk_catalyst/step1",
+    "block/sculk_catalyst/step2",
+    "block/sculk_catalyst/step3",
+    "block/sculk_catalyst/step4",
+    "block/sculk_catalyst/step5",
+    "block/sculk_catalyst/step6"
+  ],
+  "subtitle": "subtitles.block.generic.hit"
+}

@@ -1,0 +1,6 @@
+minecraft:block/mud_bricks/break1
+minecraft:block/mud_bricks/break2
+minecraft:block/mud_bricks/break3
+minecraft:block/mud_bricks/break4
+minecraft:block/mud_bricks/break5
+minecraft:block/mud_bricks/break6

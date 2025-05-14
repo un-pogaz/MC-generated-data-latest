@@ -18,8 +18,10 @@ minecraft:end_stone_brick_slab
 minecraft:exposed_cut_copper_slab
 minecraft:granite_slab
 minecraft:jungle_slab
+minecraft:mangrove_slab
 minecraft:mossy_cobblestone_slab
 minecraft:mossy_stone_brick_slab
+minecraft:mud_brick_slab
 minecraft:nether_brick_slab
 minecraft:oak_slab
 minecraft:oxidized_cut_copper_slab

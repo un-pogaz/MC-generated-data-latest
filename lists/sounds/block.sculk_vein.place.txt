@@ -1,0 +1,5 @@
+minecraft:block/sculk_vein/break1
+minecraft:block/sculk_vein/break2
+minecraft:block/sculk_vein/break3
+minecraft:block/sculk_vein/break4
+minecraft:block/sculk_vein/break5

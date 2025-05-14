@@ -16,6 +16,9 @@ minecraft:iron_trapdoor
 minecraft:jungle_door
 minecraft:jungle_fence_gate
 minecraft:jungle_trapdoor
+minecraft:mangrove_door
+minecraft:mangrove_fence_gate
+minecraft:mangrove_trapdoor
 minecraft:oak_door
 minecraft:oak_fence_gate
 minecraft:oak_trapdoor

@@ -1,0 +1,10 @@
+minecraft:block/sculk_catalyst/break1
+minecraft:block/sculk_catalyst/break2
+minecraft:block/sculk_catalyst/break3
+minecraft:block/sculk_catalyst/break4
+minecraft:block/sculk_catalyst/break5
+minecraft:block/sculk_catalyst/break6
+minecraft:block/sculk_catalyst/break7
+minecraft:block/sculk_catalyst/break8
+minecraft:block/sculk_catalyst/break9
+minecraft:block/sculk_catalyst/break10

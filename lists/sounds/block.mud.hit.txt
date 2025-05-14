@@ -1,0 +1,6 @@
+minecraft:block/mud/step1
+minecraft:block/mud/step2
+minecraft:block/mud/step3
+minecraft:block/mud/step4
+minecraft:block/mud/step5
+minecraft:block/mud/step6

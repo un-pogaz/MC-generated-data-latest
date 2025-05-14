@@ -1,0 +1,6 @@
+minecraft:block/mud_bricks/step1
+minecraft:block/mud_bricks/step2
+minecraft:block/mud_bricks/step3
+minecraft:block/mud_bricks/step4
+minecraft:block/mud_bricks/step5
+minecraft:block/mud_bricks/step6

@@ -134,6 +134,14 @@ minecraft:lime_candle
 minecraft:lime_stained_glass_pane
 minecraft:magenta_candle
 minecraft:magenta_stained_glass_pane
+minecraft:mangrove_fence
+minecraft:mangrove_propagule
+minecraft:mangrove_roots
+minecraft:mangrove_sign
+minecraft:mangrove_slab
+minecraft:mangrove_stairs
+minecraft:mangrove_trapdoor
+minecraft:mangrove_wall_sign
 minecraft:medium_amethyst_bud
 minecraft:mossy_cobblestone_slab
 minecraft:mossy_cobblestone_stairs
@@ -141,6 +149,9 @@ minecraft:mossy_cobblestone_wall
 minecraft:mossy_stone_brick_slab
 minecraft:mossy_stone_brick_stairs
 minecraft:mossy_stone_brick_wall
+minecraft:mud_brick_slab
+minecraft:mud_brick_stairs
+minecraft:mud_brick_wall
 minecraft:nether_brick_fence
 minecraft:nether_brick_slab
 minecraft:nether_brick_stairs
@@ -200,6 +211,8 @@ minecraft:sandstone_stairs
 minecraft:sandstone_wall
 minecraft:scaffolding
 minecraft:sculk_sensor
+minecraft:sculk_shrieker
+minecraft:sculk_vein
 minecraft:sea_pickle
 minecraft:small_amethyst_bud
 minecraft:small_dripleaf

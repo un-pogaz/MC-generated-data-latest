@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "mob/frog/hurt1",
+    "mob/frog/hurt2",
+    "mob/frog/hurt3",
+    "mob/frog/hurt4",
+    "mob/frog/hurt5"
+  ],
+  "subtitle": "subtitles.entity.frog.hurt"
+}

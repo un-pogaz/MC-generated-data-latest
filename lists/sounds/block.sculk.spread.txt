@@ -1,0 +1,5 @@
+minecraft:block/sculk/spread1
+minecraft:block/sculk/spread2
+minecraft:block/sculk/spread3
+minecraft:block/sculk/spread4
+minecraft:block/sculk/spread5

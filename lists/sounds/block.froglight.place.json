@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/froglight/break1",
+    "block/froglight/break2",
+    "block/froglight/break3",
+    "block/froglight/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

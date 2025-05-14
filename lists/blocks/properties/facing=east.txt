@@ -129,10 +129,17 @@ minecraft:magenta_bed
 minecraft:magenta_glazed_terracotta
 minecraft:magenta_shulker_box
 minecraft:magenta_wall_banner
+minecraft:mangrove_button
+minecraft:mangrove_door
+minecraft:mangrove_fence_gate
+minecraft:mangrove_stairs
+minecraft:mangrove_trapdoor
+minecraft:mangrove_wall_sign
 minecraft:medium_amethyst_bud
 minecraft:mossy_cobblestone_stairs
 minecraft:mossy_stone_brick_stairs
 minecraft:moving_piston
+minecraft:mud_brick_stairs
 minecraft:nether_brick_stairs
 minecraft:oak_button
 minecraft:oak_door

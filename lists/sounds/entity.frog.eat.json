@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "mob/frog/eat1",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/frog/eat1",
+      "pitch": 0.9,
+      "volume": 0.6
+    },
+    {
+      "name": "mob/frog/eat2",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/frog/eat2",
+      "pitch": 0.9,
+      "volume": 0.6
+    },
+    {
+      "name": "mob/frog/eat3",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/frog/eat3",
+      "pitch": 0.9,
+      "volume": 0.6
+    },
+    {
+      "name": "mob/frog/eat4",
+      "volume": 0.6
+    },
+    {
+      "name": "mob/frog/eat4",
+      "pitch": 0.9,
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.entity.frog.eat"
+}

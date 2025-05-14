@@ -4,6 +4,7 @@ minecraft:block
 minecraft:block_entity_type
 minecraft:block_predicate_type
 minecraft:chunk_status
+minecraft:command_argument_type
 minecraft:custom_stat
 minecraft:enchantment
 minecraft:entity_type
@@ -48,10 +49,10 @@ minecraft:worldgen/foliage_placer_type
 minecraft:worldgen/material_condition
 minecraft:worldgen/material_rule
 minecraft:worldgen/placement_modifier_type
-minecraft:worldgen/structure_feature
 minecraft:worldgen/structure_piece
 minecraft:worldgen/structure_placement
 minecraft:worldgen/structure_pool_element
 minecraft:worldgen/structure_processor
+minecraft:worldgen/structure_type
 minecraft:worldgen/tree_decorator_type
 minecraft:worldgen/trunk_placer_type

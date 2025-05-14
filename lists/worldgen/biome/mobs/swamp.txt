@@ -3,6 +3,7 @@ minecraft:chicken
 minecraft:cow
 minecraft:creeper
 minecraft:enderman
+minecraft:frog
 minecraft:glow_squid
 minecraft:pig
 minecraft:sheep

@@ -1,0 +1,4 @@
+minecraft:block/frogspawn/hatch1
+minecraft:block/frogspawn/hatch2
+minecraft:block/frogspawn/hatch3
+minecraft:block/frogspawn/hatch4

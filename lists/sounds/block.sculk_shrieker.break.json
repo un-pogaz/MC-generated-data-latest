@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/sculk_shrieker/break1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/break2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/break3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/break4",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/break5",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/break6",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

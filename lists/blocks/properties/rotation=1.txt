@@ -15,6 +15,7 @@ minecraft:light_blue_banner
 minecraft:light_gray_banner
 minecraft:lime_banner
 minecraft:magenta_banner
+minecraft:mangrove_sign
 minecraft:oak_sign
 minecraft:orange_banner
 minecraft:pink_banner

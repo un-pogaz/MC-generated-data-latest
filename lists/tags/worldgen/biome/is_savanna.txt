@@ -1,0 +1,3 @@
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:windswept_savanna

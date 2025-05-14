@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/frogspawn/step1",
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step2",
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step3",
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step4",
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step5",
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step6",
+      "volume": 0.3
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

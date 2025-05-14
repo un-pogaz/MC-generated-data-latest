@@ -321,6 +321,7 @@ minecraft:block/flower_pot
 minecraft:block/flowering_azalea_leaves
 minecraft:block/flowering_azalea_side
 minecraft:block/flowering_azalea_top
+minecraft:block/frogspawn
 minecraft:block/frosted_ice_0
 minecraft:block/frosted_ice_1
 minecraft:block/frosted_ice_2
@@ -472,6 +473,17 @@ minecraft:block/magenta_stained_glass_pane_top
 minecraft:block/magenta_terracotta
 minecraft:block/magenta_wool
 minecraft:block/magma  [mcmeta]
+minecraft:block/mangrove_door_bottom
+minecraft:block/mangrove_door_top
+minecraft:block/mangrove_leaves
+minecraft:block/mangrove_log
+minecraft:block/mangrove_log_top
+minecraft:block/mangrove_planks
+minecraft:block/mangrove_propagule
+minecraft:block/mangrove_propagule_hanging
+minecraft:block/mangrove_roots_side
+minecraft:block/mangrove_roots_top
+minecraft:block/mangrove_trapdoor
 minecraft:block/medium_amethyst_bud
 minecraft:block/melon_side
 minecraft:block/melon_stem
@@ -479,6 +491,10 @@ minecraft:block/melon_top
 minecraft:block/moss_block
 minecraft:block/mossy_cobblestone
 minecraft:block/mossy_stone_bricks
+minecraft:block/mud
+minecraft:block/mud_bricks
+minecraft:block/muddy_mangrove_roots_side
+minecraft:block/muddy_mangrove_roots_top
 minecraft:block/mushroom_block_inside
 minecraft:block/mushroom_stem
 minecraft:block/mycelium_side
@@ -509,6 +525,8 @@ minecraft:block/observer_front
 minecraft:block/observer_side
 minecraft:block/observer_top
 minecraft:block/obsidian
+minecraft:block/ochre_froglight_side
+minecraft:block/ochre_froglight_top
 minecraft:block/orange_candle
 minecraft:block/orange_candle_lit
 minecraft:block/orange_concrete
@@ -524,6 +542,9 @@ minecraft:block/oxeye_daisy
 minecraft:block/oxidized_copper
 minecraft:block/oxidized_cut_copper
 minecraft:block/packed_ice
+minecraft:block/packed_mud
+minecraft:block/pearlescent_froglight_side
+minecraft:block/pearlescent_froglight_top
 minecraft:block/peony_bottom
 minecraft:block/peony_top
 minecraft:block/pink_candle
@@ -657,11 +678,22 @@ minecraft:block/sandstone_top
 minecraft:block/scaffolding_bottom
 minecraft:block/scaffolding_side
 minecraft:block/scaffolding_top
+minecraft:block/sculk  [mcmeta]
+minecraft:block/sculk_catalyst_bottom
+minecraft:block/sculk_catalyst_side
+minecraft:block/sculk_catalyst_side_bloom  [mcmeta]
+minecraft:block/sculk_catalyst_top
+minecraft:block/sculk_catalyst_top_bloom  [mcmeta]
 minecraft:block/sculk_sensor_bottom
 minecraft:block/sculk_sensor_side
 minecraft:block/sculk_sensor_tendril_active  [mcmeta]
 minecraft:block/sculk_sensor_tendril_inactive  [mcmeta]
 minecraft:block/sculk_sensor_top
+minecraft:block/sculk_shrieker_bottom
+minecraft:block/sculk_shrieker_inner_top  [mcmeta]
+minecraft:block/sculk_shrieker_side
+minecraft:block/sculk_shrieker_top
+minecraft:block/sculk_vein  [mcmeta]
 minecraft:block/sea_lantern  [mcmeta]
 minecraft:block/sea_pickle
 minecraft:block/seagrass  [mcmeta]
@@ -722,6 +754,8 @@ minecraft:block/stripped_dark_oak_log
 minecraft:block/stripped_dark_oak_log_top
 minecraft:block/stripped_jungle_log
 minecraft:block/stripped_jungle_log_top
+minecraft:block/stripped_mangrove_log
+minecraft:block/stripped_mangrove_log_top
 minecraft:block/stripped_oak_log
 minecraft:block/stripped_oak_log_top
 minecraft:block/stripped_spruce_log
@@ -765,6 +799,8 @@ minecraft:block/turtle_egg_slightly_cracked
 minecraft:block/turtle_egg_very_cracked
 minecraft:block/twisting_vines
 minecraft:block/twisting_vines_plant
+minecraft:block/verdant_froglight_side
+minecraft:block/verdant_froglight_top
 minecraft:block/vine
 minecraft:block/warped_door_bottom
 minecraft:block/warped_door_top
@@ -898,6 +934,7 @@ minecraft:entity/boat/acacia
 minecraft:entity/boat/birch
 minecraft:entity/boat/dark_oak
 minecraft:entity/boat/jungle
+minecraft:entity/boat/mangrove
 minecraft:entity/boat/oak
 minecraft:entity/boat/spruce
 minecraft:entity/cat/all_black
@@ -973,6 +1010,9 @@ minecraft:entity/fox/fox
 minecraft:entity/fox/fox_sleep
 minecraft:entity/fox/snow_fox
 minecraft:entity/fox/snow_fox_sleep
+minecraft:entity/frog/cold_frog
+minecraft:entity/frog/temperate_frog
+minecraft:entity/frog/warm_frog
 minecraft:entity/ghast/ghast
 minecraft:entity/ghast/ghast_shooting
 minecraft:entity/goat/goat
@@ -1134,6 +1174,7 @@ minecraft:entity/signs/birch
 minecraft:entity/signs/crimson
 minecraft:entity/signs/dark_oak
 minecraft:entity/signs/jungle
+minecraft:entity/signs/mangrove
 minecraft:entity/signs/oak
 minecraft:entity/signs/spruce
 minecraft:entity/signs/warped
@@ -1154,6 +1195,7 @@ minecraft:entity/steve
 minecraft:entity/strider/strider
 minecraft:entity/strider/strider_cold
 minecraft:entity/strider/strider_saddle
+minecraft:entity/tadpole/tadpole
 minecraft:entity/trident
 minecraft:entity/trident_riptide
 minecraft:entity/turtle/big_sea_turtle
@@ -1837,6 +1879,10 @@ minecraft:item/lingering_potion
 minecraft:item/magenta_candle
 minecraft:item/magenta_dye
 minecraft:item/magma_cream
+minecraft:item/mangrove_boat
+minecraft:item/mangrove_door
+minecraft:item/mangrove_propagule
+minecraft:item/mangrove_sign
 minecraft:item/map
 minecraft:item/melon_seeds
 minecraft:item/melon_slice
@@ -1951,6 +1997,7 @@ minecraft:item/sugar
 minecraft:item/sugar_cane
 minecraft:item/suspicious_stew
 minecraft:item/sweet_berries
+minecraft:item/tadpole_bucket
 minecraft:item/tipped_arrow_base
 minecraft:item/tipped_arrow_head
 minecraft:item/tnt_minecart
@@ -2139,6 +2186,28 @@ minecraft:particle/heart
 minecraft:particle/lava
 minecraft:particle/nautilus
 minecraft:particle/note
+minecraft:particle/sculk_charge_0
+minecraft:particle/sculk_charge_1
+minecraft:particle/sculk_charge_2
+minecraft:particle/sculk_charge_3
+minecraft:particle/sculk_charge_4
+minecraft:particle/sculk_charge_5
+minecraft:particle/sculk_charge_6
+minecraft:particle/sculk_charge_pop_0
+minecraft:particle/sculk_charge_pop_1
+minecraft:particle/sculk_charge_pop_2
+minecraft:particle/sculk_charge_pop_3
+minecraft:particle/sculk_soul_0
+minecraft:particle/sculk_soul_1
+minecraft:particle/sculk_soul_10
+minecraft:particle/sculk_soul_2
+minecraft:particle/sculk_soul_3
+minecraft:particle/sculk_soul_4
+minecraft:particle/sculk_soul_5
+minecraft:particle/sculk_soul_6
+minecraft:particle/sculk_soul_7
+minecraft:particle/sculk_soul_8
+minecraft:particle/sculk_soul_9
 minecraft:particle/sga_a
 minecraft:particle/sga_b
 minecraft:particle/sga_c

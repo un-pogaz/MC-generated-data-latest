@@ -1,0 +1,24 @@
+{
+  "sounds": [
+    {
+      "name": "block/sculk_shrieker/shriek1",
+      "volume": 0.85
+    },
+    {
+      "name": "block/sculk_shrieker/shriek2",
+      "volume": 0.85
+    },
+    {
+      "name": "block/sculk_shrieker/shriek3",
+      "volume": 0.85
+    },
+    {
+      "name": "block/sculk_shrieker/shriek4",
+      "volume": 0.85
+    },
+    {
+      "name": "block/sculk_shrieker/shriek5",
+      "volume": 0.85
+    }
+  ]
+}

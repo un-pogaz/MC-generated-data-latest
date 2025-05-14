@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/sculk_catalyst/place1",
+    "block/sculk_catalyst/place2",
+    "block/sculk_catalyst/place3",
+    "block/sculk_catalyst/place4",
+    "block/sculk_catalyst/place5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

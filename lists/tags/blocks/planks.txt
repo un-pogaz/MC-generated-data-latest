@@ -6,3 +6,4 @@ minecraft:acacia_planks
 minecraft:dark_oak_planks
 minecraft:crimson_planks
 minecraft:warped_planks
+minecraft:mangrove_planks

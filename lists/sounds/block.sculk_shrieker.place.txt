@@ -1,0 +1,5 @@
+minecraft:block/sculk_shrieker/place1
+minecraft:block/sculk_shrieker/place2
+minecraft:block/sculk_shrieker/place3
+minecraft:block/sculk_shrieker/place4
+minecraft:block/sculk_shrieker/place5

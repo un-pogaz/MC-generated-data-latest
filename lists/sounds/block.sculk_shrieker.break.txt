@@ -1,0 +1,6 @@
+minecraft:block/sculk_shrieker/break1
+minecraft:block/sculk_shrieker/break2
+minecraft:block/sculk_shrieker/break3
+minecraft:block/sculk_shrieker/break4
+minecraft:block/sculk_shrieker/break5
+minecraft:block/sculk_shrieker/break6

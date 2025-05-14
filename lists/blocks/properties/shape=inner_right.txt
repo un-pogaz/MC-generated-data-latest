@@ -16,8 +16,10 @@ minecraft:end_stone_brick_stairs
 minecraft:exposed_cut_copper_stairs
 minecraft:granite_stairs
 minecraft:jungle_stairs
+minecraft:mangrove_stairs
 minecraft:mossy_cobblestone_stairs
 minecraft:mossy_stone_brick_stairs
+minecraft:mud_brick_stairs
 minecraft:nether_brick_stairs
 minecraft:oak_stairs
 minecraft:oxidized_cut_copper_stairs

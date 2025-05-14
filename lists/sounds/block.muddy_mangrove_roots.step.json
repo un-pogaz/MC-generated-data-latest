@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/muddy_mangrove_roots/step1",
+      "volume": 0.6
+    },
+    {
+      "name": "block/muddy_mangrove_roots/step2",
+      "volume": 0.6
+    },
+    {
+      "name": "block/muddy_mangrove_roots/step3",
+      "volume": 0.6
+    },
+    {
+      "name": "block/muddy_mangrove_roots/step4",
+      "volume": 0.6
+    },
+    {
+      "name": "block/muddy_mangrove_roots/step5",
+      "volume": 0.6
+    },
+    {
+      "name": "block/muddy_mangrove_roots/step6",
+      "volume": 0.6
+    }
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

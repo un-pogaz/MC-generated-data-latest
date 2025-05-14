@@ -1,0 +1,34 @@
+{
+  "sounds": [
+    {
+      "name": "block/frogspawn/step1",
+      "pitch": 1.3,
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step2",
+      "pitch": 1.3,
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step3",
+      "pitch": 1.3,
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step4",
+      "pitch": 1.3,
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step5",
+      "pitch": 1.3,
+      "volume": 0.3
+    },
+    {
+      "name": "block/frogspawn/step6",
+      "pitch": 1.3,
+      "volume": 0.3
+    }
+  ]
+}

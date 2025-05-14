@@ -3,5 +3,6 @@ minecraft:bamboo
 minecraft:birch_sapling
 minecraft:dark_oak_sapling
 minecraft:jungle_sapling
+minecraft:mangrove_propagule
 minecraft:oak_sapling
 minecraft:spruce_sapling

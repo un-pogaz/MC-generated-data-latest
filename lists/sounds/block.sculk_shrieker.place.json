@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/sculk_shrieker/place1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/place2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/place3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/place4",
+      "volume": 0.9
+    },
+    {
+      "name": "block/sculk_shrieker/place5",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

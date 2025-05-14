@@ -1,0 +1,41 @@
+{
+  "sounds": [
+    {
+      "name": "mob/frog/long_jump1",
+      "volume": 0.12
+    },
+    {
+      "name": "mob/frog/long_jump1",
+      "pitch": 0.8,
+      "volume": 0.12
+    },
+    {
+      "name": "mob/frog/long_jump2",
+      "volume": 0.12
+    },
+    {
+      "name": "mob/frog/long_jump2",
+      "pitch": 0.8,
+      "volume": 0.12
+    },
+    {
+      "name": "mob/frog/long_jump3",
+      "volume": 0.12
+    },
+    {
+      "name": "mob/frog/long_jump3",
+      "pitch": 0.8,
+      "volume": 0.12
+    },
+    {
+      "name": "mob/frog/long_jump4",
+      "volume": 0.12
+    },
+    {
+      "name": "mob/frog/long_jump4",
+      "pitch": 0.8,
+      "volume": 0.12
+    }
+  ],
+  "subtitle": "subtitles.entity.frog.long_jump"
+}

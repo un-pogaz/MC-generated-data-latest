@@ -22,8 +22,11 @@ minecraft:granite_stairs
 minecraft:iron_trapdoor
 minecraft:jungle_stairs
 minecraft:jungle_trapdoor
+minecraft:mangrove_stairs
+minecraft:mangrove_trapdoor
 minecraft:mossy_cobblestone_stairs
 minecraft:mossy_stone_brick_stairs
+minecraft:mud_brick_stairs
 minecraft:nether_brick_stairs
 minecraft:oak_stairs
 minecraft:oak_trapdoor
