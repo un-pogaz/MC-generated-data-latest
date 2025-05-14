@@ -30,8 +30,8 @@
 | minecraft:magma_cream                         |   3..8 |  11.1% |    1/9 |                 |
 | – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – |
 | 1 time                                        |     -- |     -- |     -- |                 |
-| empty                                         |        |  95.2% |  20/21 |                 |
-| minecraft:snout_armor_trim_smithing_template  |      1 |   4.8% |   1/21 |                 |
+| empty                                         |        |  91.7% |  11/12 |                 |
+| minecraft:snout_armor_trim_smithing_template  |      1 |   8.3% |   1/12 |                 |
 | – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – |
 | 1 time                                        |     -- |     -- |     -- |                 |
 | minecraft:netherite_upgrade_smithing_template |      1 |   100% |      1 |                 |

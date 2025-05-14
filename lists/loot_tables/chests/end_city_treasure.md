@@ -26,5 +26,5 @@
 | minecraft:iron_shovel                        |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, treasure: true} |
 | – – – – – – – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – –  |
 | 1 time                                       |    -- |     -- |     -- |                                                |
-| empty                                        |       |  95.2% |  20/21 |                                                |
-| minecraft:spire_armor_trim_smithing_template |     1 |   4.8% |   1/21 |                                                |
+| empty                                        |       |  93.3% |  14/15 |                                                |
+| minecraft:spire_armor_trim_smithing_template |     1 |   6.7% |   1/15 |                                                |

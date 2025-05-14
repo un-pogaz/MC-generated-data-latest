@@ -26,9 +26,9 @@
 | minecraft:gold_nugget                         |   2..6 |    20% |    1/5 |                 |
 | – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – |
 | 1 time                                        |     -- |     -- |     -- |                 |
-| empty                                         |        |  95.2% |  20/21 |                 |
-| minecraft:snout_armor_trim_smithing_template  |      1 |   4.8% |   1/21 |                 |
+| empty                                         |        |  91.7% |  11/12 |                 |
+| minecraft:snout_armor_trim_smithing_template  |      1 |   8.3% |   1/12 |                 |
 | – – – – – – – – – – – – – – – – – – – – – – – | – – –  | – – –  | – – –  | – – – – – – – – |
 | 1 time                                        |     -- |     -- |     -- |                 |
-| empty                                         |        |  96.8% |  30/31 |                 |
-| minecraft:netherite_upgrade_smithing_template |      1 |   3.2% |   1/31 |                 |
+| empty                                         |        |    90% |   9/10 |                 |
+| minecraft:netherite_upgrade_smithing_template |      1 |    10% |   1/10 |                 |

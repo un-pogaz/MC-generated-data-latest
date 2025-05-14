@@ -2462,11 +2462,15 @@ minecraft:particle/vibration  [mcmeta]
 minecraft:trims/color_palettes/amethyst
 minecraft:trims/color_palettes/copper
 minecraft:trims/color_palettes/diamond
+minecraft:trims/color_palettes/diamond_darker
 minecraft:trims/color_palettes/emerald
 minecraft:trims/color_palettes/gold
+minecraft:trims/color_palettes/gold_darker
 minecraft:trims/color_palettes/iron
+minecraft:trims/color_palettes/iron_darker
 minecraft:trims/color_palettes/lapis
 minecraft:trims/color_palettes/netherite
+minecraft:trims/color_palettes/netherite_darker
 minecraft:trims/color_palettes/quartz
 minecraft:trims/color_palettes/redstone
 minecraft:trims/color_palettes/trim_palette
