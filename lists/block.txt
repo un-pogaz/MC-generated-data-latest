@@ -261,6 +261,7 @@ minecraft:dragon_egg
 minecraft:dragon_head
 minecraft:dragon_wall_head
 minecraft:dried_kelp_block
+minecraft:dripstone_block
 minecraft:dropper
 minecraft:emerald_block
 minecraft:emerald_ore
@@ -531,6 +532,7 @@ minecraft:piston_head
 minecraft:player_head
 minecraft:player_wall_head
 minecraft:podzol
+minecraft:pointed_dripstone
 minecraft:polished_andesite
 minecraft:polished_andesite_slab
 minecraft:polished_andesite_stairs
@@ -879,6 +881,7 @@ minecraft:zombie_wall_head
 #minecraft:infiniburn_end
 #minecraft:infiniburn_nether
 #minecraft:infiniburn_overworld
+#minecraft:inside_step_sound_blocks
 #minecraft:jungle_logs
 #minecraft:leaves
 #minecraft:logs
@@ -899,7 +902,6 @@ minecraft:zombie_wall_head
 #minecraft:signs
 #minecraft:slabs
 #minecraft:small_flowers
-#minecraft:snow_step_sound_blocks
 #minecraft:soul_fire_base_blocks
 #minecraft:soul_speed_blocks
 #minecraft:spruce_logs
