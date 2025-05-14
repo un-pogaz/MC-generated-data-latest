@@ -22,8 +22,12 @@ gamerule doMobLoot
 gamerule doMobLoot <value brigadier:bool>
 gamerule doMobSpawning
 gamerule doMobSpawning <value brigadier:bool>
+gamerule doPatrolSpawning
+gamerule doPatrolSpawning <value brigadier:bool>
 gamerule doTileDrops
 gamerule doTileDrops <value brigadier:bool>
+gamerule doTraderSpawning
+gamerule doTraderSpawning <value brigadier:bool>
 gamerule doWeatherCycle
 gamerule doWeatherCycle <value brigadier:bool>
 gamerule drowningDamage
