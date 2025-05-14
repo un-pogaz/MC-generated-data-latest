@@ -1,0 +1,2 @@
+minecraft:pong_response
+minecraft:status_response

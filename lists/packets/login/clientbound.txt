@@ -1,0 +1,6 @@
+minecraft:cookie_request
+minecraft:custom_query
+minecraft:game_profile
+minecraft:hello
+minecraft:login_compression
+minecraft:login_disconnect

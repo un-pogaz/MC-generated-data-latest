@@ -1,0 +1,17 @@
+minecraft:cookie_request
+minecraft:custom_payload
+minecraft:custom_report_details
+minecraft:disconnect
+minecraft:finish_configuration
+minecraft:keep_alive
+minecraft:ping
+minecraft:registry_data
+minecraft:reset_chat
+minecraft:resource_pack_pop
+minecraft:resource_pack_push
+minecraft:select_known_packs
+minecraft:server_links
+minecraft:store_cookie
+minecraft:transfer
+minecraft:update_enabled_features
+minecraft:update_tags
