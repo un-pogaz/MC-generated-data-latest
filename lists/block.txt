@@ -900,6 +900,8 @@ minecraft:zombie_wall_head
 #minecraft:animals_spawnable_on
 #minecraft:anvil
 #minecraft:axolotls_spawnable_on
+#minecraft:azalea_grows_on
+#minecraft:azalea_root_replaceable
 #minecraft:bamboo_plantable_on
 #minecraft:banners
 #minecraft:base_stone_nether
@@ -985,6 +987,7 @@ minecraft:zombie_wall_head
 #minecraft:rabbits_spawnable_on
 #minecraft:rails
 #minecraft:redstone_ores
+#minecraft:replaceable_plants
 #minecraft:sand
 #minecraft:saplings
 #minecraft:shulker_boxes
@@ -1003,6 +1006,7 @@ minecraft:zombie_wall_head
 #minecraft:stone_pressure_plates
 #minecraft:strider_warm_blocks
 #minecraft:tall_flowers
+#minecraft:terracotta
 #minecraft:trapdoors
 #minecraft:underwater_bonemeals
 #minecraft:unstable_bottom_center
