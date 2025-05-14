@@ -23,6 +23,7 @@ minecraft:bamboo_stairs
 minecraft:bamboo_trapdoor
 minecraft:bamboo_wall_hanging_sign
 minecraft:bamboo_wall_sign
+minecraft:barrier
 minecraft:big_dripleaf
 minecraft:big_dripleaf_stem
 minecraft:birch_fence

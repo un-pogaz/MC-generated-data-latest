@@ -98,6 +98,7 @@ minecraft:ore_debris_small
 minecraft:ore_diamond
 minecraft:ore_diamond_buried
 minecraft:ore_diamond_large
+minecraft:ore_diamond_medium
 minecraft:ore_diorite_lower
 minecraft:ore_diorite_upper
 minecraft:ore_dirt

@@ -221,7 +221,8 @@
             "icon": "minecraft:silence_armor_trim_smithing_template",
             "title": "Smithing with Style",
             "description": "Apply these smithing templates at least once: Spire, Snout, Rib, Ward, Silence, Vex, Tide, Wayfinder",
-            "frame": "challenge"
+            "frame": "challenge",
+            "rewards": "150 xp"
           }
         }
       },

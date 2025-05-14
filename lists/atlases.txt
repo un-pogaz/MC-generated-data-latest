@@ -4,6 +4,7 @@ minecraft:beds
 minecraft:blocks
 minecraft:chests
 minecraft:decorated_pot
+minecraft:gui
 minecraft:mob_effects
 minecraft:paintings
 minecraft:particles

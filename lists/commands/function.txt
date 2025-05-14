@@ -1,1 +1,8 @@
 function <name minecraft:function>
+function <name minecraft:function> <arguments minecraft:nbt_compound_tag>
+function <name minecraft:function> with block <sourcePos minecraft:block_pos>
+function <name minecraft:function> with block <sourcePos minecraft:block_pos> <path minecraft:nbt_path>
+function <name minecraft:function> with entity <source minecraft:entity[type="entities", amount="single"]>
+function <name minecraft:function> with entity <source minecraft:entity[type="entities", amount="single"]> <path minecraft:nbt_path>
+function <name minecraft:function> with storage <source minecraft:resource_location>
+function <name minecraft:function> with storage <source minecraft:resource_location> <path minecraft:nbt_path>

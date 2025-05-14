@@ -100,6 +100,7 @@ minecraft:ore_copper_large
 minecraft:ore_copper_small
 minecraft:ore_diamond_buried
 minecraft:ore_diamond_large
+minecraft:ore_diamond_medium
 minecraft:ore_diamond_small
 minecraft:ore_diorite
 minecraft:ore_dirt
