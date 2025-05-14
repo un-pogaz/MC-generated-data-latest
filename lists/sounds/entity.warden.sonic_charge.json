@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/warden/sonic_charge1",
+    "mob/warden/sonic_charge2",
+    "mob/warden/sonic_charge3",
+    "mob/warden/sonic_charge4"
+  ],
+  "subtitle": "subtitles.entity.warden.sonic_charge"
+}

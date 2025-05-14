@@ -14,11 +14,12 @@
 | minecraft:salmon         |  1..2 |  27.3% |   3/11 |         |
 | – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – |
 | 4 time                   |    -- |     -- |     -- |         |
-| minecraft:stick          | 1..12 |  26.3% |  10/38 |         |
-| minecraft:oak_planks     | 1..12 |  26.3% |  10/38 |         |
-| minecraft:oak_log        |  1..3 |   7.9% |   3/38 |         |
-| minecraft:spruce_log     |  1..3 |   7.9% |   3/38 |         |
-| minecraft:birch_log      |  1..3 |   7.9% |   3/38 |         |
-| minecraft:jungle_log     |  1..3 |   7.9% |   3/38 |         |
-| minecraft:acacia_log     |  1..3 |   7.9% |   3/38 |         |
-| minecraft:dark_oak_log   |  1..3 |   7.9% |   3/38 |         |
+| minecraft:stick          | 1..12 |  24.4% |  10/41 |         |
+| minecraft:oak_planks     | 1..12 |  24.4% |  10/41 |         |
+| minecraft:oak_log        |  1..3 |   7.3% |   3/41 |         |
+| minecraft:spruce_log     |  1..3 |   7.3% |   3/41 |         |
+| minecraft:birch_log      |  1..3 |   7.3% |   3/41 |         |
+| minecraft:jungle_log     |  1..3 |   7.3% |   3/41 |         |
+| minecraft:acacia_log     |  1..3 |   7.3% |   3/41 |         |
+| minecraft:dark_oak_log   |  1..3 |   7.3% |   3/41 |         |
+| minecraft:mangrove_log   |  1..3 |   7.3% |   3/41 |         |

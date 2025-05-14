@@ -5,3 +5,5 @@ minecraft:coarse_dirt
 minecraft:mycelium
 minecraft:rooted_dirt
 minecraft:moss_block
+minecraft:mud
+minecraft:muddy_mangrove_roots

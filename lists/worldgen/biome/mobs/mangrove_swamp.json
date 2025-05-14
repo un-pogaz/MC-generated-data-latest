@@ -78,5 +78,13 @@
       "type": "minecraft:glow_squid",
       "weight": 10
     }
+  ],
+  "water_ambient": [
+    {
+      "maxCount": 8,
+      "minCount": 8,
+      "type": "minecraft:tropical_fish",
+      "weight": 25
+    }
   ]
 }

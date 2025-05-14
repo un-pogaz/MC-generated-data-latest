@@ -1,0 +1,4 @@
+minecraft:mob/warden/sonic_charge1
+minecraft:mob/warden/sonic_charge2
+minecraft:mob/warden/sonic_charge3
+minecraft:mob/warden/sonic_charge4
