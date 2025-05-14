@@ -1644,7 +1644,7 @@
     },
     {
       nbt: {
-        Items: [],
+        Items: [L; ],
         id: "minecraft:chest",
         Lock: ""
       },
@@ -1678,7 +1678,7 @@
     },
     {
       nbt: {
-        Items: [],
+        Items: [L; ],
         id: "minecraft:chest",
         Lock: ""
       },
@@ -3457,5 +3457,5 @@
       }
     ]
   ],
-  DataVersion: 2537
+  DataVersion: 2554
 }

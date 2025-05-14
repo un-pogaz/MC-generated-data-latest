@@ -3787,7 +3787,7 @@
     },
     {
       nbt: {
-        Items: [],
+        Items: [L; ],
         id: "minecraft:barrel"
       },
       pos: [8, 2, 1],
@@ -3795,7 +3795,7 @@
     },
     {
       nbt: {
-        Items: [],
+        Items: [L; ],
         id: "minecraft:barrel"
       },
       pos: [9, 2, 4],
@@ -3997,5 +3997,5 @@
       Name: "minecraft:barrel"
     }
   ],
-  DataVersion: 2537
+  DataVersion: 2554
 }

@@ -1564,7 +1564,7 @@
     {
       nbt: {
         LootTable: "minecraft:chests/village/village_weaponsmith",
-        Items: [],
+        Items: [L; ],
         id: "minecraft:chest",
         LootTableSeed: 0L
       },
@@ -1858,5 +1858,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2537
+  DataVersion: 2554
 }

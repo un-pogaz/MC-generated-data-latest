@@ -1815,7 +1815,7 @@
     {
       nbt: {
         LootTable: "minecraft:chests/village/village_shepherd",
-        Items: [],
+        Items: [L; ],
         id: "minecraft:chest",
         Lock: "",
         LootTableSeed: 0L
@@ -1995,5 +1995,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2537
+  DataVersion: 2554
 }
