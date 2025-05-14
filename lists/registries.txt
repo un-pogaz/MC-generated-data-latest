@@ -11,7 +11,7 @@ minecraft:command_argument_type
 minecraft:creative_mode_tab
 minecraft:custom_stat
 minecraft:data_component_type
-minecraft:decorated_pot_patterns
+minecraft:decorated_pot_pattern
 minecraft:enchantment_effect_component_type
 minecraft:enchantment_entity_effect_type
 minecraft:enchantment_level_based_value_type

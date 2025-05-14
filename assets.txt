@@ -156,6 +156,10 @@ minecraft/sounds/ambient/cave/cave17.ogg
 minecraft/sounds/ambient/cave/cave18.ogg
 minecraft/sounds/ambient/cave/cave19.ogg
 minecraft/sounds/ambient/cave/cave2.ogg
+minecraft/sounds/ambient/cave/cave20.ogg
+minecraft/sounds/ambient/cave/cave21.ogg
+minecraft/sounds/ambient/cave/cave22.ogg
+minecraft/sounds/ambient/cave/cave23.ogg
 minecraft/sounds/ambient/cave/cave3.ogg
 minecraft/sounds/ambient/cave/cave4.ogg
 minecraft/sounds/ambient/cave/cave5.ogg
@@ -743,8 +747,7 @@ minecraft/sounds/block/copper_bulb/step3.ogg
 minecraft/sounds/block/copper_bulb/step4.ogg
 minecraft/sounds/block/copper_bulb/step5.ogg
 minecraft/sounds/block/copper_bulb/step6.ogg
-minecraft/sounds/block/copper_bulb/turn_off.ogg
-minecraft/sounds/block/copper_bulb/turn_on.ogg
+minecraft/sounds/block/copper_bulb/toggle.ogg
 minecraft/sounds/block/copper_door/toggle1.ogg
 minecraft/sounds/block/copper_door/toggle2.ogg
 minecraft/sounds/block/copper_door/toggle3.ogg

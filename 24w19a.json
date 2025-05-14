@@ -1,0 +1,13 @@
+{
+  "id": "24w19a",
+  "type": "snapshot",
+  "time": "2024-05-10T12:15:31+00:00",
+  "releaseTime": "2024-05-10T12:15:31+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/efc6555115de2c4249a3e7285cf1034a99d418ba/24w19a.json",
+  "assets": "17",
+  "asset_index": "https://piston-meta.mojang.com/v1/packages/b24500a7f4975293e4a0c401b25b0cf241afa85b/17.json",
+  "client": "https://piston-data.mojang.com/v1/objects/ec4ab4da55435693e7342cfe6d23ab0df9226eb7/client.jar",
+  "client_mappings": "https://piston-data.mojang.com/v1/objects/05e170c2a3722653cea193b427808f4c19dd3447/client.txt",
+  "server": "https://piston-data.mojang.com/v1/objects/8088cca48fece804d29b368ab5bbcc27a540456c/server.jar",
+  "server_mappings": "https://piston-data.mojang.com/v1/objects/9d799a9d897cf54d9bd3ea4964e77113da1c8ca9/server.txt"
+}

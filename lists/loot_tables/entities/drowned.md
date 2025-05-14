@@ -3,5 +3,5 @@
 | 1 time                 |    -- |     -- |     -- |                                                                                        |
 | minecraft:rotten_flesh |  0..2 |   100% |      1 | add drop: 0..1 * level {enchantment: looting}                                          |
 | – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –  |
-| 1 time                 |    -- |     -- |     -- | killed by player, random chance: 0.11%|{enchantment: looting}: 0.11% + 0.02%*(level-1) |
+| 1 time                 |    -- |     -- |     -- | killed by player, random chance: 0.13%|{enchantment: looting}: 0.13% + 0.02%*(level-1) |
 | minecraft:copper_ingot |     1 |   100% |      1 |                                                                                        |

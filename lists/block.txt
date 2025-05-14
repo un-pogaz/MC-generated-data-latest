@@ -1123,6 +1123,7 @@ minecraft:zombie_wall_head
 #minecraft:fence_gates
 #minecraft:fences
 #minecraft:fire
+#minecraft:fire_aspect_lightable
 #minecraft:flower_pots
 #minecraft:flowers
 #minecraft:foxes_spawnable_on

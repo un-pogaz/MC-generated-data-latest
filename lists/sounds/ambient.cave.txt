@@ -17,3 +17,7 @@ minecraft:ambient/cave/cave16
 minecraft:ambient/cave/cave17
 minecraft:ambient/cave/cave18
 minecraft:ambient/cave/cave19
+minecraft:ambient/cave/cave20
+minecraft:ambient/cave/cave21
+minecraft:ambient/cave/cave22
+minecraft:ambient/cave/cave23
