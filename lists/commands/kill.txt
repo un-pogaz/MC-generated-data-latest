@@ -1,1 +1,2 @@
+kill
 kill <targets minecraft:entity[amount="multiple", type="entities"]>
