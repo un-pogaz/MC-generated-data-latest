@@ -1,10 +1,12 @@
 minecraft:banner_pattern
+minecraft:cat_variant
 minecraft:chat_type
 minecraft:damage_type
 minecraft:dimension
 minecraft:dimension_type
 minecraft:enchantment
 minecraft:enchantment_provider
+minecraft:frog_variant
 minecraft:instrument
 minecraft:jukebox_song
 minecraft:painting_variant

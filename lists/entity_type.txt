@@ -74,6 +74,7 @@ minecraft:jungle_boat
 minecraft:jungle_chest_boat
 minecraft:leash_knot
 minecraft:lightning_bolt
+minecraft:lingering_potion
 minecraft:llama
 minecraft:llama_spit
 minecraft:magma_cube
@@ -99,7 +100,6 @@ minecraft:piglin_brute
 minecraft:pillager
 minecraft:player
 minecraft:polar_bear
-minecraft:potion
 minecraft:pufferfish
 minecraft:rabbit
 minecraft:ravager
@@ -118,6 +118,7 @@ minecraft:snowball
 minecraft:spawner_minecart
 minecraft:spectral_arrow
 minecraft:spider
+minecraft:splash_potion
 minecraft:spruce_boat
 minecraft:spruce_chest_boat
 minecraft:squid
@@ -157,6 +158,7 @@ minecraft:zombified_piglin
 #minecraft:can_breathe_under_water
 #minecraft:can_equip_saddle
 #minecraft:can_turn_in_boats
+#minecraft:can_wear_horse_armor
 #minecraft:deflects_projectiles
 #minecraft:dismounts_underwater
 #minecraft:fall_damage_immune

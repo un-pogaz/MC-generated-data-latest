@@ -1,1 +1,1 @@
-minecraft:enchanted_book  = {levels: {}}
+minecraft:enchanted_book  = {}

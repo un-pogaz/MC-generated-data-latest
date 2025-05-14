@@ -1,0 +1,11 @@
+minecraft:amethyst_shard  = minecraft:amethyst
+minecraft:copper_ingot  = minecraft:copper
+minecraft:diamond  = minecraft:diamond
+minecraft:emerald  = minecraft:emerald
+minecraft:gold_ingot  = minecraft:gold
+minecraft:iron_ingot  = minecraft:iron
+minecraft:lapis_lazuli  = minecraft:lapis
+minecraft:netherite_ingot  = minecraft:netherite
+minecraft:quartz  = minecraft:quartz
+minecraft:redstone  = minecraft:redstone
+minecraft:resin_brick  = minecraft:resin

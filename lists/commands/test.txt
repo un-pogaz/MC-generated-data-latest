@@ -5,7 +5,7 @@ test clearthese
 test create <id minecraft:resource_location>
 test create <id minecraft:resource_location> <width brigadier:integer>
 test create <id minecraft:resource_location> <width brigadier:integer> <height brigadier:integer> <depth brigadier:integer>
-test locate <tests minecraft:resource[registry="minecraft:test_instance"]>
+test locate <tests minecraft:resource_selector[registry="minecraft:test_instance"]>
 test pos
 test pos <var brigadier:string[type="word"]>
 test resetclosest

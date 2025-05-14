@@ -1,8 +1,9 @@
 {
   "leaf_particle": {
+    "color": -9399763,
     "type": "minecraft:tinted_leaves"
   },
-  "leaf_particle_chance": 100,
+  "leaf_particle_chance": 0.01,
   "properties": {},
-  "type": "minecraft:leaves"
+  "type": "minecraft:untinted_particle_leaves"
 }

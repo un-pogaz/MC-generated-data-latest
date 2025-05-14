@@ -1,2 +1,4 @@
+minecraft:bee_nest  = {honey_level: "0"}
+minecraft:beehive  = {honey_level: "0"}
 minecraft:light  = {level: "15"}
-minecraft:test_block  = {test_block_mode: "start"}
+minecraft:test_block  = {mode: "start"}

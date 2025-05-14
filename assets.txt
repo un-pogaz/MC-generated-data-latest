@@ -85,6 +85,7 @@ minecraft/lang/kn_in.json
 minecraft/lang/ko_kr.json
 minecraft/lang/ksh.json
 minecraft/lang/kw_gb.json
+minecraft/lang/ky_kg.json
 minecraft/lang/la_la.json
 minecraft/lang/lb_lu.json
 minecraft/lang/li_li.json

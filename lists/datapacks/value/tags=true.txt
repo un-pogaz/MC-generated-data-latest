@@ -13,6 +13,7 @@ minecraft:consume_effect_type
 minecraft:creative_mode_tab
 minecraft:custom_stat
 minecraft:damage_type
+minecraft:data_component_predicate_type
 minecraft:data_component_type
 minecraft:decorated_pot_pattern
 minecraft:dimension
@@ -37,7 +38,6 @@ minecraft:instrument
 minecraft:int_provider_type
 minecraft:item
 minecraft:item_modifier
-minecraft:item_sub_predicate_type
 minecraft:jukebox_song
 minecraft:loot_condition_type
 minecraft:loot_function_type
@@ -69,6 +69,7 @@ minecraft:schedule
 minecraft:sensor_type
 minecraft:slot_display
 minecraft:sound_event
+minecraft:spawn_condition_type
 minecraft:stat_type
 minecraft:test_environment
 minecraft:test_environment_definition_type
