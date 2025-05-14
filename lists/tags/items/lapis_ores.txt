@@ -1,0 +1,2 @@
+minecraft:lapis_ore
+minecraft:deepslate_lapis_ore

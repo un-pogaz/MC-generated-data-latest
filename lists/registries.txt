@@ -41,6 +41,7 @@ minecraft:worldgen/chunk_generator
 minecraft:worldgen/decorator
 minecraft:worldgen/feature
 minecraft:worldgen/feature_size_type
+minecraft:worldgen/float_provider_type
 minecraft:worldgen/foliage_placer_type
 minecraft:worldgen/structure_feature
 minecraft:worldgen/structure_piece

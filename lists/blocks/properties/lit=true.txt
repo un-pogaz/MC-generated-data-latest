@@ -19,6 +19,7 @@ minecraft:cyan_candle
 minecraft:cyan_candle_cake
 minecraft:dark_oak_sign
 minecraft:dark_oak_wall_sign
+minecraft:deepslate_redstone_ore
 minecraft:furnace
 minecraft:gray_candle
 minecraft:gray_candle_cake

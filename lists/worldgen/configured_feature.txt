@@ -102,6 +102,7 @@ minecraft:ore_gravel
 minecraft:ore_gravel_nether
 minecraft:ore_infested
 minecraft:ore_iron_lower
+minecraft:ore_iron_middle
 minecraft:ore_iron_upper
 minecraft:ore_lapis
 minecraft:ore_lapis_buried
@@ -111,6 +112,7 @@ minecraft:ore_quartz_nether
 minecraft:ore_redstone
 minecraft:ore_redstone_lower
 minecraft:ore_soul_sand
+minecraft:ore_tuff
 minecraft:patch_berry_bush
 minecraft:patch_berry_decorated
 minecraft:patch_berry_sparse
