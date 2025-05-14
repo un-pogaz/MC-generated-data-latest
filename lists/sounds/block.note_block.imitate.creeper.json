@@ -2,8 +2,8 @@
   "sounds": [
     {
       "name": "entity.creeper.primed",
-      "type": "event",
-      "pitch": 0.5
+      "pitch": 0.5,
+      "type": "event"
     }
   ],
   "subtitle": "subtitles.entity.creeper.primed"

@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "block/cherrywood_button/cherrywood_click",
+      "pitch": 0.5,
+      "volume": 0.4
+    }
+  ],
+  "subtitle": "subtitles.block.button.click"
+}

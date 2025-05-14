@@ -1,0 +1,11 @@
+minecraft:mob/sniffer/idle1
+minecraft:mob/sniffer/idle2
+minecraft:mob/sniffer/idle3
+minecraft:mob/sniffer/idle4
+minecraft:mob/sniffer/idle5
+minecraft:mob/sniffer/idle6
+minecraft:mob/sniffer/idle7
+minecraft:mob/sniffer/idle8
+minecraft:mob/sniffer/idle9
+minecraft:mob/sniffer/idle10
+minecraft:mob/sniffer/idle11

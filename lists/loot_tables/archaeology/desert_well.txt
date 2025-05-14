@@ -1,0 +1,5 @@
+minecraft:pottery_shard_arms_up
+minecraft:brick
+minecraft:emerald
+minecraft:stick
+minecraft:suspicious_stew

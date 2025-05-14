@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/decorated_pot/break1",
+    "block/decorated_pot/break2",
+    "block/decorated_pot/break3",
+    "block/decorated_pot/break4"
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

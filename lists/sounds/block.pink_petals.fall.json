@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "name": "block/cherry_leaves/step1",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/step2",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/step3",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/step4",
+      "pitch": 1.2,
+      "volume": 0.8
+    },
+    {
+      "name": "block/cherry_leaves/step5",
+      "pitch": 1.2,
+      "volume": 0.8
+    }
+  ]
+}

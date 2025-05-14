@@ -7,6 +7,8 @@ minecraft:birch_sign
 minecraft:black_banner
 minecraft:blue_banner
 minecraft:brown_banner
+minecraft:cherry_hanging_sign
+minecraft:cherry_sign
 minecraft:creeper_head
 minecraft:crimson_hanging_sign
 minecraft:crimson_sign

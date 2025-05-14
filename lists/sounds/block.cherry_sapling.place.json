@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/bamboo/sapling_place1",
+    "block/bamboo/sapling_place2",
+    "block/bamboo/sapling_place3",
+    "block/bamboo/sapling_place4",
+    "block/bamboo/sapling_place5",
+    "block/bamboo/sapling_place6"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

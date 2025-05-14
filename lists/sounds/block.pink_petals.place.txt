@@ -1,0 +1,5 @@
+minecraft:block/cherry_leaves/break1
+minecraft:block/cherry_leaves/break2
+minecraft:block/cherry_leaves/break3
+minecraft:block/cherry_leaves/break4
+minecraft:block/cherry_leaves/break5

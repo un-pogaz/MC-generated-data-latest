@@ -3,6 +3,7 @@ minecraft:bamboo_jungle
 minecraft:basalt_deltas
 minecraft:beach
 minecraft:birch_forest
+minecraft:cherry_grove
 minecraft:cold_ocean
 minecraft:crimson_forest
 minecraft:dark_forest

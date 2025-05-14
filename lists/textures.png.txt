@@ -163,6 +163,14 @@ minecraft:block/chain_command_block_back  [mcmeta]
 minecraft:block/chain_command_block_conditional  [mcmeta]
 minecraft:block/chain_command_block_front  [mcmeta]
 minecraft:block/chain_command_block_side  [mcmeta]
+minecraft:block/cherry_door_bottom
+minecraft:block/cherry_door_top
+minecraft:block/cherry_leaves
+minecraft:block/cherry_log
+minecraft:block/cherry_log_top
+minecraft:block/cherry_planks
+minecraft:block/cherry_sapling
+minecraft:block/cherry_trapdoor
 minecraft:block/chipped_anvil_top
 minecraft:block/chiseled_bookshelf_empty
 minecraft:block/chiseled_bookshelf_occupied
@@ -567,6 +575,8 @@ minecraft:block/pink_candle_lit
 minecraft:block/pink_concrete
 minecraft:block/pink_concrete_powder
 minecraft:block/pink_glazed_terracotta
+minecraft:block/pink_petals
+minecraft:block/pink_petals_stem
 minecraft:block/pink_shulker_box
 minecraft:block/pink_stained_glass
 minecraft:block/pink_stained_glass_pane_top
@@ -769,6 +779,8 @@ minecraft:block/stripped_bamboo_block
 minecraft:block/stripped_bamboo_block_top
 minecraft:block/stripped_birch_log
 minecraft:block/stripped_birch_log_top
+minecraft:block/stripped_cherry_log
+minecraft:block/stripped_cherry_log_top
 minecraft:block/stripped_crimson_stem
 minecraft:block/stripped_crimson_stem_top
 minecraft:block/stripped_dark_oak_log
@@ -793,6 +805,10 @@ minecraft:block/sunflower_back
 minecraft:block/sunflower_bottom
 minecraft:block/sunflower_front
 minecraft:block/sunflower_top
+minecraft:block/suspicious_sand_0
+minecraft:block/suspicious_sand_1
+minecraft:block/suspicious_sand_2
+minecraft:block/suspicious_sand_3
 minecraft:block/sweet_berry_bush_stage0
 minecraft:block/sweet_berry_bush_stage1
 minecraft:block/sweet_berry_bush_stage2
@@ -809,6 +825,10 @@ minecraft:block/tnt_bottom
 minecraft:block/tnt_side
 minecraft:block/tnt_top
 minecraft:block/torch
+minecraft:block/torchflower
+minecraft:block/torchflower_crop_stage0
+minecraft:block/torchflower_crop_stage1
+minecraft:block/torchflower_crop_stage2
 minecraft:block/tripwire
 minecraft:block/tripwire_hook
 minecraft:block/tube_coral
@@ -954,6 +974,7 @@ minecraft:entity/blaze
 minecraft:entity/boat/acacia
 minecraft:entity/boat/bamboo
 minecraft:entity/boat/birch
+minecraft:entity/boat/cherry
 minecraft:entity/boat/dark_oak
 minecraft:entity/boat/jungle
 minecraft:entity/boat/mangrove
@@ -986,6 +1007,7 @@ minecraft:entity/chest/trapped_right
 minecraft:entity/chest_boat/acacia
 minecraft:entity/chest_boat/bamboo
 minecraft:entity/chest_boat/birch
+minecraft:entity/chest_boat/cherry
 minecraft:entity/chest_boat/dark_oak
 minecraft:entity/chest_boat/jungle
 minecraft:entity/chest_boat/mangrove
@@ -1004,6 +1026,12 @@ minecraft:entity/cow/cow
 minecraft:entity/cow/red_mooshroom
 minecraft:entity/creeper/creeper
 minecraft:entity/creeper/creeper_armor
+minecraft:entity/decorated_pot/decorated_pot_base
+minecraft:entity/decorated_pot/decorated_pot_side
+minecraft:entity/decorated_pot/pottery_pattern_archer
+minecraft:entity/decorated_pot/pottery_pattern_arms_up
+minecraft:entity/decorated_pot/pottery_pattern_prize
+minecraft:entity/decorated_pot/pottery_pattern_skull
 minecraft:entity/dolphin
 minecraft:entity/elytra
 minecraft:entity/enchanting_table_book
@@ -1221,11 +1249,13 @@ minecraft:entity/shulker/spark
 minecraft:entity/signs/acacia
 minecraft:entity/signs/bamboo
 minecraft:entity/signs/birch
+minecraft:entity/signs/cherry
 minecraft:entity/signs/crimson
 minecraft:entity/signs/dark_oak
 minecraft:entity/signs/hanging/acacia
 minecraft:entity/signs/hanging/bamboo
 minecraft:entity/signs/hanging/birch
+minecraft:entity/signs/hanging/cherry
 minecraft:entity/signs/hanging/crimson
 minecraft:entity/signs/hanging/dark_oak
 minecraft:entity/signs/hanging/jungle
@@ -1245,6 +1275,7 @@ minecraft:entity/skeleton/stray_overlay
 minecraft:entity/skeleton/wither_skeleton
 minecraft:entity/slime/magmacube
 minecraft:entity/slime/slime
+minecraft:entity/sniffer/sniffer
 minecraft:entity/snow_golem
 minecraft:entity/spider/cave_spider
 minecraft:entity/spider/spider
@@ -1609,6 +1640,7 @@ minecraft:gui/demo_background
 minecraft:gui/hanging_signs/acacia
 minecraft:gui/hanging_signs/bamboo
 minecraft:gui/hanging_signs/birch
+minecraft:gui/hanging_signs/cherry
 minecraft:gui/hanging_signs/crimson
 minecraft:gui/hanging_signs/dark_oak
 minecraft:gui/hanging_signs/jungle
@@ -1689,6 +1721,7 @@ minecraft:item/brick
 minecraft:item/broken_elytra
 minecraft:item/brown_candle
 minecraft:item/brown_dye
+minecraft:item/brush
 minecraft:item/bucket
 minecraft:item/bundle
 minecraft:item/bundle_filled
@@ -1704,6 +1737,11 @@ minecraft:item/chainmail_chestplate
 minecraft:item/chainmail_helmet
 minecraft:item/chainmail_leggings
 minecraft:item/charcoal
+minecraft:item/cherry_boat
+minecraft:item/cherry_chest_boat
+minecraft:item/cherry_door
+minecraft:item/cherry_hanging_sign
+minecraft:item/cherry_sign
 minecraft:item/chest_minecart
 minecraft:item/chicken
 minecraft:item/chorus_fruit
@@ -2052,6 +2090,7 @@ minecraft:item/phantom_membrane
 minecraft:item/piglin_banner_pattern
 minecraft:item/pink_candle
 minecraft:item/pink_dye
+minecraft:item/pink_petals
 minecraft:item/pointed_dripstone
 minecraft:item/poisonous_potato
 minecraft:item/popped_chorus_fruit
@@ -2059,6 +2098,10 @@ minecraft:item/porkchop
 minecraft:item/potato
 minecraft:item/potion
 minecraft:item/potion_overlay
+minecraft:item/pottery_shard_archer
+minecraft:item/pottery_shard_arms_up
+minecraft:item/pottery_shard_prize
+minecraft:item/pottery_shard_skull
 minecraft:item/powder_snow_bucket
 minecraft:item/prismarine_crystals
 minecraft:item/prismarine_shard
@@ -2159,6 +2202,7 @@ minecraft:item/tide_armor_trim_smithing_template
 minecraft:item/tipped_arrow_base
 minecraft:item/tipped_arrow_head
 minecraft:item/tnt_minecart
+minecraft:item/torchflower_seeds
 minecraft:item/totem_of_undying
 minecraft:item/trident
 minecraft:item/tropical_fish
@@ -2502,7 +2546,6 @@ minecraft:trims/models/armor/wild
 minecraft:trims/models/armor/wild_leggings
 realms:gui/realms/accept_icon
 realms:gui/realms/adventure
-realms:gui/realms/configure_icon
 realms:gui/realms/cross_icon
 realms:gui/realms/cross_player_icon
 realms:gui/realms/darken
@@ -2513,7 +2556,6 @@ realms:gui/realms/expires_soon_icon
 realms:gui/realms/inspiration
 realms:gui/realms/invitation_icons
 realms:gui/realms/invite_icon
-realms:gui/realms/leave_icon
 realms:gui/realms/link_icons
 realms:gui/realms/new_world
 realms:gui/realms/news_icon

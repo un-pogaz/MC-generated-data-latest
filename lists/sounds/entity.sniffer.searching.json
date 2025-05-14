@@ -1,0 +1,35 @@
+{
+  "sounds": [
+    "mob/sniffer/searching1",
+    {
+      "name": "mob/sniffer/searching1",
+      "volume": 0.8
+    },
+    "mob/sniffer/searching2",
+    {
+      "name": "mob/sniffer/searching2",
+      "volume": 0.8
+    },
+    "mob/sniffer/searching3",
+    {
+      "name": "mob/sniffer/searching3",
+      "volume": 0.8
+    },
+    "mob/sniffer/searching4",
+    {
+      "name": "mob/sniffer/searching4",
+      "volume": 0.8
+    },
+    "mob/sniffer/searching5",
+    {
+      "name": "mob/sniffer/searching5",
+      "volume": 0.8
+    },
+    "mob/sniffer/searching6",
+    {
+      "name": "mob/sniffer/searching6",
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.sniffer.searching"
+}

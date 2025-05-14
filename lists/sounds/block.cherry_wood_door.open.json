@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/cherrywood_door/toggle1",
+    "block/cherrywood_door/toggle2",
+    "block/cherrywood_door/toggle3",
+    "block/cherrywood_door/toggle4"
+  ],
+  "subtitle": "subtitles.block.door.toggle"
+}

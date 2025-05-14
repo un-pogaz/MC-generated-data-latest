@@ -1,0 +1,20 @@
+{
+  "sounds": [
+    {
+      "name": "random/pop",
+      "pitch": 0.6,
+      "volume": 0.8
+    },
+    {
+      "name": "random/pop",
+      "pitch": 0.7,
+      "volume": 0.8
+    },
+    {
+      "name": "random/pop",
+      "pitch": 0.8,
+      "volume": 0.8
+    }
+  ],
+  "subtitle": "subtitles.entity.sniffer.drop_seed"
+}

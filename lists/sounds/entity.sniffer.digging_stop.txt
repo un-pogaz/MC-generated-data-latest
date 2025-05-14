@@ -1,0 +1,2 @@
+minecraft:mob/sniffer/digging_stop1
+minecraft:mob/sniffer/digging_stop2

@@ -1,0 +1,5 @@
+minecraft:block/suspicious_sand/step1
+minecraft:block/suspicious_sand/step2
+minecraft:block/suspicious_sand/step3
+minecraft:block/suspicious_sand/step4
+minecraft:block/suspicious_sand/step5

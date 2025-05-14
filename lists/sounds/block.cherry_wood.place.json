@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "block/cherry_wood/break1",
+    "block/cherry_wood/break2",
+    "block/cherry_wood/break3",
+    "block/cherry_wood/break4",
+    "block/cherry_wood/break5"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

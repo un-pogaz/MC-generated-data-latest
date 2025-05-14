@@ -1,0 +1,4 @@
+minecraft:item/brush/brushing1
+minecraft:item/brush/brushing2
+minecraft:item/brush/brushing3
+minecraft:item/brush/brushing4

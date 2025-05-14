@@ -1,0 +1,2 @@
+minecraft:mob/sniffer/longdig1
+minecraft:mob/sniffer/longdig2

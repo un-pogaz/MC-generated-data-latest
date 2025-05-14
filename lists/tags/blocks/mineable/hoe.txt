@@ -22,3 +22,5 @@ minecraft:sculk
 minecraft:sculk_catalyst
 minecraft:sculk_vein
 minecraft:sculk_shrieker
+minecraft:cherry_leaves
+minecraft:pink_petals

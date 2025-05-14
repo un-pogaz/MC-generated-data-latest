@@ -1,0 +1,17 @@
+{
+  "sounds": [
+    {
+      "name": "mob/sniffer/eat1",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/sniffer/eat2",
+      "volume": 0.7
+    },
+    {
+      "name": "mob/sniffer/eat3",
+      "volume": 0.7
+    }
+  ],
+  "subtitle": "subtitles.entity.sniffer.eat"
+}

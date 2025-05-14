@@ -8,3 +8,4 @@ minecraft:crimson_planks
 minecraft:warped_planks
 minecraft:mangrove_planks
 minecraft:bamboo_planks
+minecraft:cherry_planks

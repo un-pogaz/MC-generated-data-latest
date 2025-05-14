@@ -1,0 +1,4 @@
+minecraft:block/decorated_pot/break1
+minecraft:block/decorated_pot/break2
+minecraft:block/decorated_pot/break3
+minecraft:block/decorated_pot/break4

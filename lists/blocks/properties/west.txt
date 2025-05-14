@@ -8,6 +8,7 @@ minecraft:blue_stained_glass_pane
 minecraft:brick_wall
 minecraft:brown_mushroom_block
 minecraft:brown_stained_glass_pane
+minecraft:cherry_fence
 minecraft:chorus_plant
 minecraft:cobbled_deepslate_wall
 minecraft:cobblestone_wall

@@ -5,6 +5,7 @@ minecraft:bamboo_slab
 minecraft:birch_slab
 minecraft:blackstone_slab
 minecraft:brick_slab
+minecraft:cherry_slab
 minecraft:chest
 minecraft:cobbled_deepslate_slab
 minecraft:cobblestone_slab

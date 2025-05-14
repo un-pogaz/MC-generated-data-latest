@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    "mob/sniffer/idle1",
+    "mob/sniffer/idle2",
+    "mob/sniffer/idle3",
+    "mob/sniffer/idle4",
+    "mob/sniffer/idle5",
+    "mob/sniffer/idle6",
+    "mob/sniffer/idle7",
+    "mob/sniffer/idle8",
+    "mob/sniffer/idle9",
+    "mob/sniffer/idle10",
+    "mob/sniffer/idle11"
+  ],
+  "subtitle": "subtitles.entity.sniffer.idle"
+}

@@ -1,0 +1,24 @@
+{
+  "sounds": [
+    {
+      "name": "item/brush/brushing1",
+      "pitch": 0.6,
+      "volume": 0.6
+    },
+    {
+      "name": "item/brush/brushing2",
+      "pitch": 0.6,
+      "volume": 0.6
+    },
+    {
+      "name": "item/brush/brushing3",
+      "pitch": 0.6,
+      "volume": 0.6
+    },
+    {
+      "name": "item/brush/brushing4",
+      "pitch": 0.6,
+      "volume": 0.6
+    }
+  ]
+}
