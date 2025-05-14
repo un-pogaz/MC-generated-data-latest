@@ -1,0 +1,13 @@
+{
+  "id": "1.21.4-rc3",
+  "type": "snapshot",
+  "time": "2024-11-29T17:02:53+00:00",
+  "releaseTime": "2024-11-29T17:02:53+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/279f51984cec0728ef2e2aa2a46252a8c7a08d75/1.21.4-rc3.json",
+  "assets": "19",
+  "asset_index": "https://piston-meta.mojang.com/v1/packages/bbe3929688df399cc33901b8b5a7b0fccf09b441/19.json",
+  "client": "https://piston-data.mojang.com/v1/objects/e0938d4d7944ffc98f95b8d6fc01694b167599d8/client.jar",
+  "client_mappings": "https://piston-data.mojang.com/v1/objects/454a69d0fa7d4973cd04ed916d4092b756386745/client.txt",
+  "server": "https://piston-data.mojang.com/v1/objects/653cd548ed5bb2a2bff08945878347f3a3b8844b/server.jar",
+  "server_mappings": "https://piston-data.mojang.com/v1/objects/b8307cf17e95cd8a0e5089b5f5a481d587903393/server.txt"
+}
