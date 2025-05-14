@@ -3,6 +3,8 @@ minecraft:biome
 minecraft:biome_source_type
 minecraft:block
 minecraft:block_entity_type
+minecraft:block_placer_type
+minecraft:block_state_provider_type
 minecraft:carver
 minecraft:chunk_generator_type
 minecraft:chunk_status
@@ -13,6 +15,7 @@ minecraft:enchantment
 minecraft:entity_type
 minecraft:feature
 minecraft:fluid
+minecraft:foliage_placer_type
 minecraft:item
 minecraft:memory_module_type
 minecraft:menu
@@ -33,5 +36,6 @@ minecraft:structure_piece
 minecraft:structure_pool_element
 minecraft:structure_processor
 minecraft:surface_builder
+minecraft:tree_decorator_type
 minecraft:villager_profession
 minecraft:villager_type

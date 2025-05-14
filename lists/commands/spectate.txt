@@ -1,0 +1,3 @@
+spectate
+spectate <target minecraft:entity[amount="single", type="entities"]>
+spectate <target minecraft:entity[amount="single", type="entities"]> <player minecraft:entity[amount="single", type="players"]>
