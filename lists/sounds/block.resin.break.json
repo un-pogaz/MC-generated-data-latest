@@ -1,6 +1,10 @@
 {
   "sounds": [
-    "block/resin/resin_break"
+    "block/resin/resin_break1",
+    "block/resin/resin_break2",
+    "block/resin/resin_break3",
+    "block/resin/resin_break4",
+    "block/resin/resin_break5"
   ],
   "subtitle": "subtitles.block.generic.break"
 }

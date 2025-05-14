@@ -1255,13 +1255,12 @@ minecraft/sounds/block/powder_snow/step8.ogg
 minecraft/sounds/block/powder_snow/step9.ogg
 minecraft/sounds/block/pumpkin/carve1.ogg
 minecraft/sounds/block/pumpkin/carve2.ogg
-minecraft/sounds/block/resin/resin_break.ogg
+minecraft/sounds/block/resin/resin_break1.ogg
+minecraft/sounds/block/resin/resin_break2.ogg
+minecraft/sounds/block/resin/resin_break3.ogg
+minecraft/sounds/block/resin/resin_break4.ogg
+minecraft/sounds/block/resin/resin_break5.ogg
 minecraft/sounds/block/resin/resin_fall.ogg
-minecraft/sounds/block/resin/resin_hit1.ogg
-minecraft/sounds/block/resin/resin_hit2.ogg
-minecraft/sounds/block/resin/resin_hit3.ogg
-minecraft/sounds/block/resin/resin_hit4.ogg
-minecraft/sounds/block/resin/resin_hit5.ogg
 minecraft/sounds/block/resin/resin_place1.ogg
 minecraft/sounds/block/resin/resin_place2.ogg
 minecraft/sounds/block/resin/resin_place3.ogg
@@ -2525,7 +2524,6 @@ minecraft/sounds/mob/cow/step1.ogg
 minecraft/sounds/mob/cow/step2.ogg
 minecraft/sounds/mob/cow/step3.ogg
 minecraft/sounds/mob/cow/step4.ogg
-minecraft/sounds/mob/creaking/attack.ogg
 minecraft/sounds/mob/creaking/creaking_activate.ogg
 minecraft/sounds/mob/creaking/creaking_attack1.ogg
 minecraft/sounds/mob/creaking/creaking_attack2.ogg
@@ -2549,7 +2547,6 @@ minecraft/sounds/mob/creaking/creaking_step2.ogg
 minecraft/sounds/mob/creaking/creaking_step3.ogg
 minecraft/sounds/mob/creaking/creaking_step4.ogg
 minecraft/sounds/mob/creaking/creaking_step5.ogg
-minecraft/sounds/mob/creaking/creaking_sway.ogg
 minecraft/sounds/mob/creaking/creaking_sway1.ogg
 minecraft/sounds/mob/creaking/creaking_sway2.ogg
 minecraft/sounds/mob/creaking/creaking_sway3.ogg
