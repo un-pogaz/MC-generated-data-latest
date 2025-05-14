@@ -1,0 +1,12 @@
+minecraft:block/chiseled_bookshelf/insert1
+minecraft:block/chiseled_bookshelf/insert1
+minecraft:block/chiseled_bookshelf/insert1
+minecraft:block/chiseled_bookshelf/insert2
+minecraft:block/chiseled_bookshelf/insert2
+minecraft:block/chiseled_bookshelf/insert2
+minecraft:block/chiseled_bookshelf/insert3
+minecraft:block/chiseled_bookshelf/insert3
+minecraft:block/chiseled_bookshelf/insert3
+minecraft:block/chiseled_bookshelf/insert4
+minecraft:block/chiseled_bookshelf/insert4
+minecraft:block/chiseled_bookshelf/insert4

@@ -38,6 +38,7 @@ minecraft:azalea_leaves
 minecraft:azure_bluet
 minecraft:baked_potato
 minecraft:bamboo
+minecraft:bamboo_block
 minecraft:bamboo_button
 minecraft:bamboo_chest_raft
 minecraft:bamboo_door
@@ -1036,6 +1037,7 @@ minecraft:strider_spawn_egg
 minecraft:string
 minecraft:stripped_acacia_log
 minecraft:stripped_acacia_wood
+minecraft:stripped_bamboo_block
 minecraft:stripped_birch_log
 minecraft:stripped_birch_wood
 minecraft:stripped_crimson_hyphae
@@ -1185,6 +1187,7 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:anvil
 #minecraft:arrows
 #minecraft:axolotl_tempt_items
+#minecraft:bamboo_blocks
 #minecraft:banners
 #minecraft:beacon_payment_items
 #minecraft:beds
@@ -1228,7 +1231,6 @@ minecraft:zombified_piglin_spawn_egg
 #minecraft:music_discs
 #minecraft:non_flammable_wood
 #minecraft:oak_logs
-#minecraft:overworld_natural_logs
 #minecraft:piglin_food
 #minecraft:piglin_loved
 #minecraft:piglin_repellents

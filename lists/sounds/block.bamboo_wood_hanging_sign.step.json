@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/bamboo_wood_hanging_sign/step1",
+    "block/bamboo_wood_hanging_sign/step2",
+    "block/bamboo_wood_hanging_sign/step3",
+    "block/bamboo_wood_hanging_sign/step4"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

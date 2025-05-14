@@ -1,6 +1,6 @@
 {
-  "assets": "1",
-  "asset_index": "https://piston-meta.mojang.com/v1/packages/9a238de5d270d292d5bcce7ae0492e904a77f936/1.json",
+  "assets": "2",
+  "asset_index": "https://piston-meta.mojang.com/v1/packages/a6400962a2ba7cfd13f7bd799f6819ce16c28fcd/2.json",
   "objects": {
     "icons/icon_16x16.png": {
       "hash": "bdf48ef6b5d0d23bbb02e17d04865216179f510a",
@@ -653,14 +653,14 @@
       "url": "https://resources.download.minecraft.net/ca/ca973c3254a70e8ce39e205154f0a77ae559e4a4"
     },
     "minecraft/resourcepacks/programmer_art.zip": {
-      "hash": "bb9953971befe9a5fe862d0f041d66c78e1c825c",
-      "size": 1502182,
-      "url": "https://resources.download.minecraft.net/bb/bb9953971befe9a5fe862d0f041d66c78e1c825c"
+      "hash": "d54fde5f175d18fee59b14530e2a55dd4fea50e8",
+      "size": 1498340,
+      "url": "https://resources.download.minecraft.net/d5/d54fde5f175d18fee59b14530e2a55dd4fea50e8"
     },
     "minecraft/sounds.json": {
-      "hash": "812cd58982d5b28250b8a8ab8e6e3d2b4a9208b6",
-      "size": 430699,
-      "url": "https://resources.download.minecraft.net/81/812cd58982d5b28250b8a8ab8e6e3d2b4a9208b6"
+      "hash": "b6daa9a041a7101c880e0a4375edceaf62761d71",
+      "size": 441630,
+      "url": "https://resources.download.minecraft.net/b6/b6daa9a041a7101c880e0a4375edceaf62761d71"
     },
     "minecraft/sounds/ambient/cave/cave1.ogg": {
       "hash": "29d4dccf3353334c7aa2a49cb6fed3780a51a1ba",
@@ -2097,6 +2097,46 @@
       "size": 18412,
       "url": "https://resources.download.minecraft.net/ac/ac01c4ca5d02703c0f1c450fbc976aa12324804f"
     },
+    "minecraft/sounds/block/bamboo_wood_hanging_sign/break1.ogg": {
+      "hash": "bd58021f2a66566eaa169d5847a47e334b6ed62e",
+      "size": 15130,
+      "url": "https://resources.download.minecraft.net/bd/bd58021f2a66566eaa169d5847a47e334b6ed62e"
+    },
+    "minecraft/sounds/block/bamboo_wood_hanging_sign/break2.ogg": {
+      "hash": "542e425cc25aca4e3be5ab3c55c64f55a4ea0faf",
+      "size": 16759,
+      "url": "https://resources.download.minecraft.net/54/542e425cc25aca4e3be5ab3c55c64f55a4ea0faf"
+    },
+    "minecraft/sounds/block/bamboo_wood_hanging_sign/break3.ogg": {
+      "hash": "1fa5512b2716f07b61dce51fb478b550f862e82a",
+      "size": 16450,
+      "url": "https://resources.download.minecraft.net/1f/1fa5512b2716f07b61dce51fb478b550f862e82a"
+    },
+    "minecraft/sounds/block/bamboo_wood_hanging_sign/break4.ogg": {
+      "hash": "0ddd6d05032fb79fcaab212baffc2df7d862a81f",
+      "size": 18160,
+      "url": "https://resources.download.minecraft.net/0d/0ddd6d05032fb79fcaab212baffc2df7d862a81f"
+    },
+    "minecraft/sounds/block/bamboo_wood_hanging_sign/step1.ogg": {
+      "hash": "153ba5b4a11fce37475b859dacae266d1366c8f4",
+      "size": 19813,
+      "url": "https://resources.download.minecraft.net/15/153ba5b4a11fce37475b859dacae266d1366c8f4"
+    },
+    "minecraft/sounds/block/bamboo_wood_hanging_sign/step2.ogg": {
+      "hash": "61ece0b224e4ee791e0c980368fb2c8c884502a1",
+      "size": 20233,
+      "url": "https://resources.download.minecraft.net/61/61ece0b224e4ee791e0c980368fb2c8c884502a1"
+    },
+    "minecraft/sounds/block/bamboo_wood_hanging_sign/step3.ogg": {
+      "hash": "678f2973656a3677ceda6dd1a7a627009e7826fa",
+      "size": 20521,
+      "url": "https://resources.download.minecraft.net/67/678f2973656a3677ceda6dd1a7a627009e7826fa"
+    },
+    "minecraft/sounds/block/bamboo_wood_hanging_sign/step4.ogg": {
+      "hash": "8464cd8b4512c7770ba0145d28ad96a4b6e2a420",
+      "size": 20398,
+      "url": "https://resources.download.minecraft.net/84/8464cd8b4512c7770ba0145d28ad96a4b6e2a420"
+    },
     "minecraft/sounds/block/bamboo_wood_trapdoor/toggle1.ogg": {
       "hash": "f5d11e6fbcf2f6c7a9cfcfb2a1fa8bd04a8b6a09",
       "size": 19068,
@@ -2906,6 +2946,131 @@
       "hash": "4ed1f29f3e1378811f7fcc49db743400b8e3284f",
       "size": 8011,
       "url": "https://resources.download.minecraft.net/4e/4ed1f29f3e1378811f7fcc49db743400b8e3284f"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/break1.ogg": {
+      "hash": "220e698dd673ceccb25cc9e7428fb2ab76c01ddb",
+      "size": 17729,
+      "url": "https://resources.download.minecraft.net/22/220e698dd673ceccb25cc9e7428fb2ab76c01ddb"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/break2.ogg": {
+      "hash": "8e5a70a320c58d1ff09270c13b0fa9d5b776f272",
+      "size": 17486,
+      "url": "https://resources.download.minecraft.net/8e/8e5a70a320c58d1ff09270c13b0fa9d5b776f272"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/break3.ogg": {
+      "hash": "97c5a5b02bdf99e4b3d478423b85491f49876c68",
+      "size": 17169,
+      "url": "https://resources.download.minecraft.net/97/97c5a5b02bdf99e4b3d478423b85491f49876c68"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/break4.ogg": {
+      "hash": "fdaaa018976eb3350c7aab42fe060b190f2eaf4d",
+      "size": 17299,
+      "url": "https://resources.download.minecraft.net/fd/fdaaa018976eb3350c7aab42fe060b190f2eaf4d"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/break5.ogg": {
+      "hash": "575f63a30d3e0c623b3d9a5c34eadd73ec7558b3",
+      "size": 16818,
+      "url": "https://resources.download.minecraft.net/57/575f63a30d3e0c623b3d9a5c34eadd73ec7558b3"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/break6.ogg": {
+      "hash": "33c5c4052513683b12fee7adf9720f8501107c3d",
+      "size": 17235,
+      "url": "https://resources.download.minecraft.net/33/33c5c4052513683b12fee7adf9720f8501107c3d"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/insert1.ogg": {
+      "hash": "922d1220c168dcc899672b6b26bbbbd3662507bb",
+      "size": 15038,
+      "url": "https://resources.download.minecraft.net/92/922d1220c168dcc899672b6b26bbbbd3662507bb"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/insert2.ogg": {
+      "hash": "d422688a19eb4e943b40c28d38f7b7b6f51f9332",
+      "size": 13486,
+      "url": "https://resources.download.minecraft.net/d4/d422688a19eb4e943b40c28d38f7b7b6f51f9332"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/insert3.ogg": {
+      "hash": "8ea84646d64a6a45e53b9f648ca3fae7c825ef34",
+      "size": 12618,
+      "url": "https://resources.download.minecraft.net/8e/8ea84646d64a6a45e53b9f648ca3fae7c825ef34"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/insert4.ogg": {
+      "hash": "5cf323a496d65365dbcc7eb219a4fcc0bb5f57a1",
+      "size": 15043,
+      "url": "https://resources.download.minecraft.net/5c/5cf323a496d65365dbcc7eb219a4fcc0bb5f57a1"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/insert_enchanted1.ogg": {
+      "hash": "2106f2509f5c64a2e7d26990295d6162a8f6026a",
+      "size": 22820,
+      "url": "https://resources.download.minecraft.net/21/2106f2509f5c64a2e7d26990295d6162a8f6026a"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/insert_enchanted2.ogg": {
+      "hash": "5679fb4fd184e9e3e4199ade7d03c64465bbe4bd",
+      "size": 20725,
+      "url": "https://resources.download.minecraft.net/56/5679fb4fd184e9e3e4199ade7d03c64465bbe4bd"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/insert_enchanted3.ogg": {
+      "hash": "b6e09e210d9150d6a96b38c07bddb22f5734a05f",
+      "size": 21715,
+      "url": "https://resources.download.minecraft.net/b6/b6e09e210d9150d6a96b38c07bddb22f5734a05f"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/insert_enchanted4.ogg": {
+      "hash": "586aaa54702dbad12becc220b9142970a6cf783b",
+      "size": 23915,
+      "url": "https://resources.download.minecraft.net/58/586aaa54702dbad12becc220b9142970a6cf783b"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/pickup1.ogg": {
+      "hash": "989f136de03972f34055b0674ed7499440158c0e",
+      "size": 14204,
+      "url": "https://resources.download.minecraft.net/98/989f136de03972f34055b0674ed7499440158c0e"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/pickup2.ogg": {
+      "hash": "442fcb0cd57d4b570a17712e0cccaadb8fa8f598",
+      "size": 16725,
+      "url": "https://resources.download.minecraft.net/44/442fcb0cd57d4b570a17712e0cccaadb8fa8f598"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/pickup3.ogg": {
+      "hash": "96757629d4b9d285f639257c6a30452cd7e79b0f",
+      "size": 17039,
+      "url": "https://resources.download.minecraft.net/96/96757629d4b9d285f639257c6a30452cd7e79b0f"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/pickup_enchanted1.ogg": {
+      "hash": "2e3cb35243d6fed155618c3b0b26c2c6fb80bced",
+      "size": 21823,
+      "url": "https://resources.download.minecraft.net/2e/2e3cb35243d6fed155618c3b0b26c2c6fb80bced"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/pickup_enchanted2.ogg": {
+      "hash": "1387c1334885ce091f0397ac2f13f8bf3867ac46",
+      "size": 21126,
+      "url": "https://resources.download.minecraft.net/13/1387c1334885ce091f0397ac2f13f8bf3867ac46"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/pickup_enchanted3.ogg": {
+      "hash": "7efcfedf902dfb5e85a4779899bed3e934fed432",
+      "size": 23020,
+      "url": "https://resources.download.minecraft.net/7e/7efcfedf902dfb5e85a4779899bed3e934fed432"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/step1.ogg": {
+      "hash": "8d887ffeeefdd8e3049ebfc459f2a87d8bb155b6",
+      "size": 17976,
+      "url": "https://resources.download.minecraft.net/8d/8d887ffeeefdd8e3049ebfc459f2a87d8bb155b6"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/step2.ogg": {
+      "hash": "2a398cf76da4b3eff88ac96cc54911dab466e16f",
+      "size": 18408,
+      "url": "https://resources.download.minecraft.net/2a/2a398cf76da4b3eff88ac96cc54911dab466e16f"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/step3.ogg": {
+      "hash": "83e7358c1825cf061caf4e9fd21dcb39dd90dc39",
+      "size": 18592,
+      "url": "https://resources.download.minecraft.net/83/83e7358c1825cf061caf4e9fd21dcb39dd90dc39"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/step4.ogg": {
+      "hash": "2c2c121d63188be0e841c5d38fcae269d48a47a4",
+      "size": 19366,
+      "url": "https://resources.download.minecraft.net/2c/2c2c121d63188be0e841c5d38fcae269d48a47a4"
+    },
+    "minecraft/sounds/block/chiseled_bookshelf/step5.ogg": {
+      "hash": "c0e4e7cc2b604f0aef85d20390b468e07102f6c2",
+      "size": 23431,
+      "url": "https://resources.download.minecraft.net/c0/c0e4e7cc2b604f0aef85d20390b468e07102f6c2"
     },
     "minecraft/sounds/block/chorus_flower/death1.ogg": {
       "hash": "fad694e6c37b2b2369046ce88cddcad4b86a1c55",
@@ -4466,6 +4631,46 @@
       "hash": "e54a57bfc826e22db761843eee9c82327464b4fd",
       "size": 19007,
       "url": "https://resources.download.minecraft.net/e5/e54a57bfc826e22db761843eee9c82327464b4fd"
+    },
+    "minecraft/sounds/block/nether_wood_hanging_sign/break1.ogg": {
+      "hash": "29b532b62c4189787dd5d6e06a637bd4a050f6c8",
+      "size": 17940,
+      "url": "https://resources.download.minecraft.net/29/29b532b62c4189787dd5d6e06a637bd4a050f6c8"
+    },
+    "minecraft/sounds/block/nether_wood_hanging_sign/break2.ogg": {
+      "hash": "1625e087b85d692c294c6d006e45061f42b2647e",
+      "size": 18024,
+      "url": "https://resources.download.minecraft.net/16/1625e087b85d692c294c6d006e45061f42b2647e"
+    },
+    "minecraft/sounds/block/nether_wood_hanging_sign/break3.ogg": {
+      "hash": "3d2a7c10c8909adbbc303d48a8bd6804107afe6d",
+      "size": 19526,
+      "url": "https://resources.download.minecraft.net/3d/3d2a7c10c8909adbbc303d48a8bd6804107afe6d"
+    },
+    "minecraft/sounds/block/nether_wood_hanging_sign/break4.ogg": {
+      "hash": "27a16d9f0dad66a215e63c425690694e6263b75f",
+      "size": 19196,
+      "url": "https://resources.download.minecraft.net/27/27a16d9f0dad66a215e63c425690694e6263b75f"
+    },
+    "minecraft/sounds/block/nether_wood_hanging_sign/step1.ogg": {
+      "hash": "26f2fdfce1011455266706469ec188c003d01a13",
+      "size": 24447,
+      "url": "https://resources.download.minecraft.net/26/26f2fdfce1011455266706469ec188c003d01a13"
+    },
+    "minecraft/sounds/block/nether_wood_hanging_sign/step2.ogg": {
+      "hash": "b38c1043cd3bc6be329406820f899ee4652973a6",
+      "size": 27513,
+      "url": "https://resources.download.minecraft.net/b3/b38c1043cd3bc6be329406820f899ee4652973a6"
+    },
+    "minecraft/sounds/block/nether_wood_hanging_sign/step3.ogg": {
+      "hash": "e47058d78a1e2eedb1a88c4a13b1cdd33eed75c5",
+      "size": 25086,
+      "url": "https://resources.download.minecraft.net/e4/e47058d78a1e2eedb1a88c4a13b1cdd33eed75c5"
+    },
+    "minecraft/sounds/block/nether_wood_hanging_sign/step4.ogg": {
+      "hash": "ed2fb3904307d98fd4c8dd1a567190284b0424a6",
+      "size": 24459,
+      "url": "https://resources.download.minecraft.net/ed/ed2fb3904307d98fd4c8dd1a567190284b0424a6"
     },
     "minecraft/sounds/block/nether_wood_trapdoor/toggle1.ogg": {
       "hash": "64b7612a22c46a974a2e4ddcce0b3bf61fffd11e",

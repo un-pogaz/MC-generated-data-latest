@@ -44,15 +44,18 @@
     },
     {
       "name": "music/game/swamp/aerie",
-      "stream": true
+      "stream": true,
+      "volume": 0.4
     },
     {
       "name": "music/game/swamp/firebugs",
-      "stream": true
+      "stream": true,
+      "volume": 0.4
     },
     {
       "name": "music/game/swamp/labyrinthine",
-      "stream": true
+      "stream": true,
+      "volume": 0.4
     }
   ]
 }

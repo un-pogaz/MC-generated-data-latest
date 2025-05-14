@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/nether_wood_hanging_sign/break1",
+    "block/nether_wood_hanging_sign/break2",
+    "block/nether_wood_hanging_sign/break3",
+    "block/nether_wood_hanging_sign/break4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

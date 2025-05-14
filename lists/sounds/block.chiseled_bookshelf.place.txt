@@ -1,0 +1,6 @@
+minecraft:block/chiseled_bookshelf/break1
+minecraft:block/chiseled_bookshelf/break2
+minecraft:block/chiseled_bookshelf/break3
+minecraft:block/chiseled_bookshelf/break4
+minecraft:block/chiseled_bookshelf/break5
+minecraft:block/chiseled_bookshelf/break6
