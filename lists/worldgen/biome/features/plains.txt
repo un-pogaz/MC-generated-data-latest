@@ -49,7 +49,7 @@ minecraft:spring_lava
 minecraft:glow_lichen
 minecraft:patch_tall_grass_2
 minecraft:trees_plains
-minecraft:flower_plain
+minecraft:flower_plains
 minecraft:patch_grass_plain
 minecraft:brown_mushroom_normal
 minecraft:red_mushroom_normal
