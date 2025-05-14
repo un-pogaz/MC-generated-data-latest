@@ -1025,6 +1025,7 @@ minecraft:zombie_wall_head
 #minecraft:oak_logs
 #minecraft:occludes_vibration_signals
 #minecraft:overworld_carver_replaceables
+#minecraft:overworld_natural_logs
 #minecraft:parrots_spawnable_on
 #minecraft:piglin_repellents
 #minecraft:planks
@@ -1045,6 +1046,7 @@ minecraft:zombie_wall_head
 #minecraft:slabs
 #minecraft:small_dripleaf_placeable
 #minecraft:small_flowers
+#minecraft:snaps_goat_horn
 #minecraft:snow
 #minecraft:soul_fire_base_blocks
 #minecraft:soul_speed_blocks

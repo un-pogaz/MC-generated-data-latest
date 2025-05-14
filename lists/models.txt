@@ -2366,6 +2366,7 @@ minecraft:item/glow_lichen
 minecraft:item/glow_squid_spawn_egg
 minecraft:item/glowstone
 minecraft:item/glowstone_dust
+minecraft:item/goat_horn
 minecraft:item/goat_spawn_egg
 minecraft:item/gold_block
 minecraft:item/gold_ingot
@@ -3043,6 +3044,7 @@ minecraft:item/tinted_glass
 minecraft:item/tipped_arrow
 minecraft:item/tnt
 minecraft:item/tnt_minecart
+minecraft:item/tooting_goat_horn
 minecraft:item/torch
 minecraft:item/totem_of_undying
 minecraft:item/trader_llama_spawn_egg

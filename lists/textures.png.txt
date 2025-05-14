@@ -1816,6 +1816,7 @@ minecraft:item/glow_berries
 minecraft:item/glow_ink_sac
 minecraft:item/glow_item_frame
 minecraft:item/glowstone_dust
+minecraft:item/goat_horn
 minecraft:item/gold_ingot
 minecraft:item/gold_nugget
 minecraft:item/golden_apple
@@ -2358,6 +2359,7 @@ minecraft:particle/sweep_7
 minecraft:particle/vibration  [mcmeta]
 realms:gui/realms/accept_icon
 realms:gui/realms/adventure
+realms:gui/realms/checkmark
 realms:gui/realms/configure_icon
 realms:gui/realms/cross_icon
 realms:gui/realms/cross_player_icon

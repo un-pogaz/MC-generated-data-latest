@@ -12,3 +12,5 @@ minecraft:arrow
 minecraft:tripwire_hook
 minecraft:iron_ingot
 minecraft:enchanted_book
+
+minecraft:goat_horn
