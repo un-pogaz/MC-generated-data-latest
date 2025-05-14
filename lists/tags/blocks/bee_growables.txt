@@ -1,2 +1,3 @@
 #minecraft:crops
 minecraft:sweet_berry_bush
+minecraft:cave_vines

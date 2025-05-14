@@ -1,5 +1,4 @@
 #minecraft:moss_replaceable
 minecraft:clay
 minecraft:gravel
-minecraft:moss_block
 minecraft:sand
