@@ -25,6 +25,7 @@ minecraft:last_worked_at_poi
 minecraft:look_target
 minecraft:meeting_point
 minecraft:mobs
+minecraft:nearest_adult_piglins
 minecraft:nearest_bed
 minecraft:nearest_hostile
 minecraft:nearest_player_holding_wanted_item

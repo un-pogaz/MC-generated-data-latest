@@ -650,6 +650,7 @@ minecraft:block/lime_stained_glass_pane_side
 minecraft:block/lime_stained_glass_pane_side_alt
 minecraft:block/lime_terracotta
 minecraft:block/lime_wool
+minecraft:block/lodestone
 minecraft:block/loom
 minecraft:block/magenta_carpet
 minecraft:block/magenta_concrete
@@ -1967,6 +1968,7 @@ minecraft:item/lime_terracotta
 minecraft:item/lime_wool
 minecraft:item/lingering_potion
 minecraft:item/llama_spawn_egg
+minecraft:item/lodestone
 minecraft:item/loom
 minecraft:item/magenta_banner
 minecraft:item/magenta_bed
@@ -2289,6 +2291,7 @@ minecraft:item/stone_stairs
 minecraft:item/stone_sword
 minecraft:item/stonecutter
 minecraft:item/stray_spawn_egg
+minecraft:item/strider_spawn_egg
 minecraft:item/string
 minecraft:item/stripped_acacia_log
 minecraft:item/stripped_acacia_wood
@@ -2352,6 +2355,7 @@ minecraft:item/warped_door
 minecraft:item/warped_fence
 minecraft:item/warped_fence_gate
 minecraft:item/warped_fungus
+minecraft:item/warped_fungus_on_a_stick
 minecraft:item/warped_hyphae
 minecraft:item/warped_nylium
 minecraft:item/warped_planks

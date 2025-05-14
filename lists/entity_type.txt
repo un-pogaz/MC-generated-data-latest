@@ -84,6 +84,7 @@ minecraft:spectral_arrow
 minecraft:spider
 minecraft:squid
 minecraft:stray
+minecraft:strider
 minecraft:tnt
 minecraft:tnt_minecart
 minecraft:trader_llama

@@ -10,7 +10,6 @@ minecraft:dropper
 minecraft:end_rod
 minecraft:gray_shulker_box
 minecraft:green_shulker_box
-minecraft:jigsaw
 minecraft:light_blue_shulker_box
 minecraft:light_gray_shulker_box
 minecraft:lime_shulker_box

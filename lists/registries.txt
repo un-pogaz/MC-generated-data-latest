@@ -23,6 +23,7 @@ minecraft:mob_effect
 minecraft:motive
 minecraft:particle_type
 minecraft:point_of_interest_type
+minecraft:pos_rule_test
 minecraft:potion
 minecraft:recipe_serializer
 minecraft:recipe_type

@@ -324,6 +324,7 @@ minecraft:block/iron_trapdoor
 minecraft:block/item_frame
 minecraft:block/jack_o_lantern
 minecraft:block/jigsaw_bottom
+minecraft:block/jigsaw_lock
 minecraft:block/jigsaw_side
 minecraft:block/jigsaw_top
 minecraft:block/jukebox_side
@@ -379,6 +380,8 @@ minecraft:block/lime_stained_glass
 minecraft:block/lime_stained_glass_pane_top
 minecraft:block/lime_terracotta
 minecraft:block/lime_wool
+minecraft:block/lodestone_side
+minecraft:block/lodestone_top
 minecraft:block/loom_bottom
 minecraft:block/loom_front
 minecraft:block/loom_side
@@ -1001,6 +1004,8 @@ minecraft:entity/spider/spider
 minecraft:entity/spider_eyes
 minecraft:entity/squid
 minecraft:entity/steve
+minecraft:entity/strider/strider
+minecraft:entity/strider/strider_saddle
 minecraft:entity/trident
 minecraft:entity/trident_riptide
 minecraft:entity/turtle/big_sea_turtle
@@ -1753,6 +1758,7 @@ minecraft:item/tropical_fish_bucket
 minecraft:item/turtle_egg
 minecraft:item/turtle_helmet
 minecraft:item/warped_door
+minecraft:item/warped_fungus_on_a_stick
 minecraft:item/warped_sign
 minecraft:item/water_bucket
 minecraft:item/wheat
