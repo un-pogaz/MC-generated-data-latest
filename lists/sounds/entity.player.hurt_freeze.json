@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    "entity/player/hurt/freeze_hurt1",
+    "entity/player/hurt/freeze_hurt2",
+    "entity/player/hurt/freeze_hurt3",
+    "entity/player/hurt/freeze_hurt4",
+    "entity/player/hurt/freeze_hurt5"
+  ],
+  "subtitle": "subtitles.entity.player.freeze_hurt"
+}

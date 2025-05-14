@@ -1,0 +1,21 @@
+{
+  "sounds": [
+    {
+      "name": "block/amethyst/break1",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/break2",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/break3",
+      "volume": 1
+    },
+    {
+      "name": "block/amethyst/break4",
+      "volume": 1
+    }
+  ],
+  "subtitle": "subtitles.block.generic.break"
+}

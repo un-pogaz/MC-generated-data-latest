@@ -1,0 +1,9 @@
+minecraft:item/honeycomb/wax_on1
+minecraft:item/honeycomb/wax_on2
+minecraft:item/honeycomb/wax_on3
+minecraft:item/honeycomb/wax_on1
+minecraft:item/honeycomb/wax_on2
+minecraft:item/honeycomb/wax_on3
+minecraft:item/honeycomb/wax_on1
+minecraft:item/honeycomb/wax_on2
+minecraft:item/honeycomb/wax_on3

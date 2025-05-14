@@ -1,0 +1,9 @@
+minecraft:item/axe/wax_off1
+minecraft:item/axe/wax_off2
+minecraft:item/axe/wax_off3
+minecraft:item/axe/wax_off1
+minecraft:item/axe/wax_off2
+minecraft:item/axe/wax_off3
+minecraft:item/axe/wax_off1
+minecraft:item/axe/wax_off2
+minecraft:item/axe/wax_off3

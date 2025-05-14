@@ -853,7 +853,7 @@
       Name: "minecraft:spruce_log"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Name: "minecraft:fern"
@@ -940,5 +940,5 @@
       Name: "minecraft:jigsaw"
     }
   ],
-  DataVersion: 2584
+  DataVersion: 2681
 }

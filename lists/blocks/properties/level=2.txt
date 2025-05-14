@@ -1,4 +1,4 @@
-minecraft:cauldron
 minecraft:composter
 minecraft:lava
 minecraft:water
+minecraft:water_cauldron

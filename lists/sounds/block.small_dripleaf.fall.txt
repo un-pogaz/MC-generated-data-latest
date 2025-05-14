@@ -1,0 +1,6 @@
+minecraft:block/big_dripleaf/step1
+minecraft:block/big_dripleaf/step2
+minecraft:block/big_dripleaf/step3
+minecraft:block/big_dripleaf/step4
+minecraft:block/big_dripleaf/step5
+minecraft:block/big_dripleaf/step6

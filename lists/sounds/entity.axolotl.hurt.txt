@@ -1,0 +1,4 @@
+minecraft:mob/axolotl/hurt1
+minecraft:mob/axolotl/hurt2
+minecraft:mob/axolotl/hurt3
+minecraft:mob/axolotl/hurt4

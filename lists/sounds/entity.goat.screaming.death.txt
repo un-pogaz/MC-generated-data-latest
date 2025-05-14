@@ -1,0 +1,3 @@
+minecraft:mob/goat/screaming_death1
+minecraft:mob/goat/screaming_death2
+minecraft:mob/goat/screaming_death3

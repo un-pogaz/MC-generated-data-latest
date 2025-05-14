@@ -1,0 +1,113 @@
+{
+  "sounds": [
+    {
+      "name": "block/candle/extinguish1",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 1
+    },
+    {
+      "name": "block/candle/extinguish2",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 1
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 1
+    },
+    {
+      "name": "block/candle/extinguish1",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/candle/extinguish2",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/candle/extinguish1",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/candle/extinguish2",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "attenuation_distance": 8,
+      "volume": 1,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/candle/extinguish1",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/candle/extinguish2",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 0.9
+    },
+    {
+      "name": "block/candle/extinguish1",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/candle/extinguish2",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 1.1
+    },
+    {
+      "name": "block/candle/extinguish1",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 1
+    },
+    {
+      "name": "block/candle/extinguish2",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 1
+    },
+    {
+      "name": "block/candle/extinguish3",
+      "attenuation_distance": 8,
+      "volume": 0.9,
+      "pitch": 1
+    }
+  ],
+  "subtitle": "subtitles.block.fire.extinguish"
+}

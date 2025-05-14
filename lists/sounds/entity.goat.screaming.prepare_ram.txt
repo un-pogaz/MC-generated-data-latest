@@ -1,0 +1,5 @@
+minecraft:mob/goat/screaming_pre_ram1
+minecraft:mob/goat/screaming_pre_ram2
+minecraft:mob/goat/screaming_pre_ram3
+minecraft:mob/goat/screaming_pre_ram4
+minecraft:mob/goat/screaming_pre_ram5

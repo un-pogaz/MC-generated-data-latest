@@ -1,0 +1,5 @@
+minecraft:entity/player/hurt/freeze_hurt1
+minecraft:entity/player/hurt/freeze_hurt2
+minecraft:entity/player/hurt/freeze_hurt3
+minecraft:entity/player/hurt/freeze_hurt4
+minecraft:entity/player/hurt/freeze_hurt5

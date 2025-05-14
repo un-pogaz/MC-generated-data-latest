@@ -1,0 +1,3 @@
+minecraft:item/spyglass/stop
+minecraft:item/spyglass/stop
+minecraft:item/spyglass/stop

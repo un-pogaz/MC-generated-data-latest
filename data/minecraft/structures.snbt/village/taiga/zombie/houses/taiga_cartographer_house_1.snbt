@@ -2296,7 +2296,7 @@
       Name: "minecraft:air"
     },
     {
-      Name: "minecraft:grass_path"
+      Name: "minecraft:dirt_path"
     },
     {
       Properties: {
@@ -2486,5 +2486,5 @@
       Name: "minecraft:chest"
     }
   ],
-  DataVersion: 2584
+  DataVersion: 2681
 }

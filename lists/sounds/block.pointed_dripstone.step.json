@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    "block/dripstone/step1",
+    "block/dripstone/step2",
+    "block/dripstone/step3",
+    "block/dripstone/step4",
+    "block/dripstone/step5",
+    "block/dripstone/step6"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

@@ -1,0 +1,5 @@
+minecraft:block/candle/break1
+minecraft:block/candle/break2
+minecraft:block/candle/break3
+minecraft:block/candle/break4
+minecraft:block/candle/break5

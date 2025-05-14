@@ -1,0 +1,6 @@
+minecraft:item/bucket/empty_powder_snow1
+minecraft:item/bucket/empty_powder_snow2
+minecraft:item/bucket/empty_powder_snow1
+minecraft:item/bucket/empty_powder_snow2
+minecraft:item/bucket/empty_powder_snow1
+minecraft:item/bucket/empty_powder_snow2

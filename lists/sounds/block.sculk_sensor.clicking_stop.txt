@@ -1,0 +1,5 @@
+minecraft:block/sculk_sensor/sculk_clicking_stop1
+minecraft:block/sculk_sensor/sculk_clicking_stop2
+minecraft:block/sculk_sensor/sculk_clicking_stop3
+minecraft:block/sculk_sensor/sculk_clicking_stop4
+minecraft:block/sculk_sensor/sculk_clicking_stop5

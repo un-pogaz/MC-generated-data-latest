@@ -1,0 +1,68 @@
+{
+  "sounds": [
+    {
+      "name": "block/azalea_leaves/break1",
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break2",
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break3",
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break4",
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break5",
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break6",
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break7",
+      "volume": 0.85
+    },
+    {
+      "name": "block/azalea_leaves/break1",
+      "volume": 0.85,
+      "pitch": 0.92
+    },
+    {
+      "name": "block/azalea_leaves/break2",
+      "volume": 0.85,
+      "pitch": 0.92
+    },
+    {
+      "name": "block/azalea_leaves/break3",
+      "volume": 0.85,
+      "pitch": 0.92
+    },
+    {
+      "name": "block/azalea_leaves/break4",
+      "volume": 0.85,
+      "pitch": 0.92
+    },
+    {
+      "name": "block/azalea_leaves/break5",
+      "volume": 0.85,
+      "pitch": 0.92
+    },
+    {
+      "name": "block/azalea_leaves/break6",
+      "volume": 0.85,
+      "pitch": 0.92
+    },
+    {
+      "name": "block/azalea_leaves/break7",
+      "volume": 0.85,
+      "pitch": 0.92
+    }
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

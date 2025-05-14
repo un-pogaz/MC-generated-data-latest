@@ -1,0 +1,13 @@
+{
+  "properties": {
+    "type": [
+      "top",
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}
