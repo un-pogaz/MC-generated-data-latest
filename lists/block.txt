@@ -986,6 +986,7 @@ minecraft:zombie_wall_head
 #minecraft:flowers
 #minecraft:foxes_spawnable_on
 #minecraft:frog_prefer_jump_to
+#minecraft:frogs_spawnable_on
 #minecraft:geode_invalid_blocks
 #minecraft:goats_spawnable_on
 #minecraft:gold_ores

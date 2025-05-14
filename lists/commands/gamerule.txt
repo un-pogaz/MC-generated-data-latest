@@ -28,6 +28,8 @@ gamerule doTileDrops
 gamerule doTileDrops <value brigadier:bool>
 gamerule doTraderSpawning
 gamerule doTraderSpawning <value brigadier:bool>
+gamerule doWardenSpawning
+gamerule doWardenSpawning <value brigadier:bool>
 gamerule doWeatherCycle
 gamerule doWeatherCycle <value brigadier:bool>
 gamerule drowningDamage

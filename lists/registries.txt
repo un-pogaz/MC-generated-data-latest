@@ -25,7 +25,7 @@ minecraft:loot_score_provider_type
 minecraft:memory_module_type
 minecraft:menu
 minecraft:mob_effect
-minecraft:motive
+minecraft:painting_variant
 minecraft:particle_type
 minecraft:point_of_interest_type
 minecraft:pos_rule_test
