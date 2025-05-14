@@ -6,9 +6,9 @@ minecraft:fly_into_wall
 minecraft:generic
 minecraft:wither
 minecraft:dragon_breath
-minecraft:freeze
 minecraft:starve
 minecraft:fall
+minecraft:freeze
 minecraft:stalagmite
 minecraft:magic
 minecraft:indirect_magic
