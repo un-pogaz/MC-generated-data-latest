@@ -67,6 +67,7 @@ minecraft/lang/gl_es.json
 minecraft/lang/haw_us.json
 minecraft/lang/he_il.json
 minecraft/lang/hi_in.json
+minecraft/lang/hn_no.json
 minecraft/lang/hr_hr.json
 minecraft/lang/hu_hu.json
 minecraft/lang/hy_am.json

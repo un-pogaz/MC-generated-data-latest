@@ -1921,7 +1921,9 @@ minecraft:block/template_single_face
 minecraft:block/template_three_candles
 minecraft:block/template_three_turtle_eggs
 minecraft:block/template_torch
+minecraft:block/template_torch_unlit
 minecraft:block/template_torch_wall
+minecraft:block/template_torch_wall_unlit
 minecraft:block/template_trapdoor_bottom
 minecraft:block/template_trapdoor_open
 minecraft:block/template_trapdoor_top
@@ -2264,6 +2266,9 @@ minecraft:item/birch_trapdoor
 minecraft:item/birch_wood
 minecraft:item/black_banner
 minecraft:item/black_bed
+minecraft:item/black_bundle
+minecraft:item/black_bundle_open_back
+minecraft:item/black_bundle_open_front
 minecraft:item/black_candle
 minecraft:item/black_carpet
 minecraft:item/black_concrete
@@ -2286,6 +2291,9 @@ minecraft:item/blaze_rod
 minecraft:item/blaze_spawn_egg
 minecraft:item/blue_banner
 minecraft:item/blue_bed
+minecraft:item/blue_bundle
+minecraft:item/blue_bundle_open_back
+minecraft:item/blue_bundle_open_front
 minecraft:item/blue_candle
 minecraft:item/blue_carpet
 minecraft:item/blue_concrete
@@ -2328,6 +2336,9 @@ minecraft:item/bricks
 minecraft:item/broken_elytra
 minecraft:item/brown_banner
 minecraft:item/brown_bed
+minecraft:item/brown_bundle
+minecraft:item/brown_bundle_open_back
+minecraft:item/brown_bundle_open_front
 minecraft:item/brown_candle
 minecraft:item/brown_carpet
 minecraft:item/brown_concrete
@@ -2631,6 +2642,9 @@ minecraft:item/cut_sandstone
 minecraft:item/cut_sandstone_slab
 minecraft:item/cyan_banner
 minecraft:item/cyan_bed
+minecraft:item/cyan_bundle
+minecraft:item/cyan_bundle_open_back
+minecraft:item/cyan_bundle_open_front
 minecraft:item/cyan_candle
 minecraft:item/cyan_carpet
 minecraft:item/cyan_concrete
@@ -2923,6 +2937,9 @@ minecraft:item/grass_block
 minecraft:item/gravel
 minecraft:item/gray_banner
 minecraft:item/gray_bed
+minecraft:item/gray_bundle
+minecraft:item/gray_bundle_open_back
+minecraft:item/gray_bundle_open_front
 minecraft:item/gray_candle
 minecraft:item/gray_carpet
 minecraft:item/gray_concrete
@@ -2936,6 +2953,9 @@ minecraft:item/gray_terracotta
 minecraft:item/gray_wool
 minecraft:item/green_banner
 minecraft:item/green_bed
+minecraft:item/green_bundle
+minecraft:item/green_bundle_open_back
+minecraft:item/green_bundle_open_front
 minecraft:item/green_candle
 minecraft:item/green_carpet
 minecraft:item/green_concrete
@@ -3142,6 +3162,9 @@ minecraft:item/light_14
 minecraft:item/light_15
 minecraft:item/light_blue_banner
 minecraft:item/light_blue_bed
+minecraft:item/light_blue_bundle
+minecraft:item/light_blue_bundle_open_back
+minecraft:item/light_blue_bundle_open_front
 minecraft:item/light_blue_candle
 minecraft:item/light_blue_carpet
 minecraft:item/light_blue_concrete
@@ -3155,6 +3178,9 @@ minecraft:item/light_blue_terracotta
 minecraft:item/light_blue_wool
 minecraft:item/light_gray_banner
 minecraft:item/light_gray_bed
+minecraft:item/light_gray_bundle
+minecraft:item/light_gray_bundle_open_back
+minecraft:item/light_gray_bundle_open_front
 minecraft:item/light_gray_candle
 minecraft:item/light_gray_carpet
 minecraft:item/light_gray_concrete
@@ -3173,6 +3199,9 @@ minecraft:item/lily_of_the_valley
 minecraft:item/lily_pad
 minecraft:item/lime_banner
 minecraft:item/lime_bed
+minecraft:item/lime_bundle
+minecraft:item/lime_bundle_open_back
+minecraft:item/lime_bundle_open_front
 minecraft:item/lime_candle
 minecraft:item/lime_carpet
 minecraft:item/lime_concrete
@@ -3191,6 +3220,9 @@ minecraft:item/loom
 minecraft:item/mace
 minecraft:item/magenta_banner
 minecraft:item/magenta_bed
+minecraft:item/magenta_bundle
+minecraft:item/magenta_bundle_open_back
+minecraft:item/magenta_bundle_open_front
 minecraft:item/magenta_candle
 minecraft:item/magenta_carpet
 minecraft:item/magenta_concrete
@@ -3368,6 +3400,9 @@ minecraft:item/ominous_bottle
 minecraft:item/ominous_trial_key
 minecraft:item/orange_banner
 minecraft:item/orange_bed
+minecraft:item/orange_bundle
+minecraft:item/orange_bundle_open_back
+minecraft:item/orange_bundle_open_front
 minecraft:item/orange_candle
 minecraft:item/orange_carpet
 minecraft:item/orange_concrete
@@ -3409,6 +3444,9 @@ minecraft:item/piglin_spawn_egg
 minecraft:item/pillager_spawn_egg
 minecraft:item/pink_banner
 minecraft:item/pink_bed
+minecraft:item/pink_bundle
+minecraft:item/pink_bundle_open_back
+minecraft:item/pink_bundle_open_front
 minecraft:item/pink_candle
 minecraft:item/pink_carpet
 minecraft:item/pink_concrete
@@ -3484,6 +3522,9 @@ minecraft:item/pumpkin_pie
 minecraft:item/pumpkin_seeds
 minecraft:item/purple_banner
 minecraft:item/purple_bed
+minecraft:item/purple_bundle
+minecraft:item/purple_bundle_open_back
+minecraft:item/purple_bundle_open_front
 minecraft:item/purple_candle
 minecraft:item/purple_carpet
 minecraft:item/purple_concrete
@@ -3553,6 +3594,9 @@ minecraft:item/recovery_compass_30
 minecraft:item/recovery_compass_31
 minecraft:item/red_banner
 minecraft:item/red_bed
+minecraft:item/red_bundle
+minecraft:item/red_bundle_open_back
+minecraft:item/red_bundle_open_front
 minecraft:item/red_candle
 minecraft:item/red_carpet
 minecraft:item/red_concrete
@@ -3877,6 +3921,9 @@ minecraft:item/wheat
 minecraft:item/wheat_seeds
 minecraft:item/white_banner
 minecraft:item/white_bed
+minecraft:item/white_bundle
+minecraft:item/white_bundle_open_back
+minecraft:item/white_bundle_open_front
 minecraft:item/white_candle
 minecraft:item/white_carpet
 minecraft:item/white_concrete
@@ -3907,6 +3954,9 @@ minecraft:item/writable_book
 minecraft:item/written_book
 minecraft:item/yellow_banner
 minecraft:item/yellow_bed
+minecraft:item/yellow_bundle
+minecraft:item/yellow_bundle_open_back
+minecraft:item/yellow_bundle_open_front
 minecraft:item/yellow_candle
 minecraft:item/yellow_carpet
 minecraft:item/yellow_concrete
