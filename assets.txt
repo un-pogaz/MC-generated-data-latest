@@ -719,6 +719,15 @@ minecraft/sounds/block/decorated_pot/break1.ogg
 minecraft/sounds/block/decorated_pot/break2.ogg
 minecraft/sounds/block/decorated_pot/break3.ogg
 minecraft/sounds/block/decorated_pot/break4.ogg
+minecraft/sounds/block/decorated_pot/insert1.ogg
+minecraft/sounds/block/decorated_pot/insert2.ogg
+minecraft/sounds/block/decorated_pot/insert3.ogg
+minecraft/sounds/block/decorated_pot/insert4.ogg
+minecraft/sounds/block/decorated_pot/insert_fail1.ogg
+minecraft/sounds/block/decorated_pot/insert_fail2.ogg
+minecraft/sounds/block/decorated_pot/insert_fail3.ogg
+minecraft/sounds/block/decorated_pot/insert_fail4.ogg
+minecraft/sounds/block/decorated_pot/insert_fail5.ogg
 minecraft/sounds/block/decorated_pot/shatter1.ogg
 minecraft/sounds/block/decorated_pot/shatter2.ogg
 minecraft/sounds/block/decorated_pot/shatter3.ogg
@@ -3587,6 +3596,7 @@ minecraft/textures/gui/title/background/panorama_4.png
 minecraft/textures/gui/title/background/panorama_5.png
 minecraft/textures/gui/title/background/panorama_overlay.png
 pack.mcmeta
+realms/lang/en_us.json
 realms/textures/gui/images/1.png
 realms/textures/gui/images/10.png
 realms/textures/gui/images/11.png

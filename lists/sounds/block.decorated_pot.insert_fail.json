@@ -1,0 +1,25 @@
+{
+  "sounds": [
+    {
+      "name": "block/decorated_pot/insert_fail1",
+      "volume": 0.9
+    },
+    {
+      "name": "block/decorated_pot/insert_fail2",
+      "volume": 0.9
+    },
+    {
+      "name": "block/decorated_pot/insert_fail3",
+      "volume": 0.9
+    },
+    {
+      "name": "block/decorated_pot/insert_fail4",
+      "volume": 0.9
+    },
+    {
+      "name": "block/decorated_pot/insert_fail5",
+      "volume": 0.9
+    }
+  ],
+  "subtitle": "subtitles.block.decorated_pot.insert_fail"
+}
