@@ -1,0 +1,3 @@
+minecraft:entity/leashknot/leash1
+minecraft:entity/leashknot/leash2
+minecraft:entity/leashknot/leash3

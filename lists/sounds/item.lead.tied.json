@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "entity/leashknot/leash1",
+    "entity/leashknot/leash2",
+    "entity/leashknot/leash3"
+  ],
+  "subtitle": "subtitles.item.lead.tied"
+}

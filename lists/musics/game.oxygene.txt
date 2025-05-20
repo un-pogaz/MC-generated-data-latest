@@ -1,5 +1,5 @@
 assets: minecraft:music/game/oxygene
-title: Oxygene
+title: Oxygène
 author: C418
 length: 1m 10s
 sound_event: minecraft:music.game

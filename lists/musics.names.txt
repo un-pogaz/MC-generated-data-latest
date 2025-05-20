@@ -30,11 +30,11 @@ C418 - Haggstrom
 C418 - Haunt Muskie
 C418 - Key
 C418 - Living Mice
-C418 - Mice On Venus
+C418 - Mice on Venus
 C418 - Minecraft
 C418 - Moog City 2
 C418 - Mutation
-C418 - Oxygene
+C418 - Oxygène
 C418 - Shuniji
 C418 - Subwoofer Lullaby
 C418 - Sweden
@@ -56,7 +56,7 @@ Lena Raine - Eld Unknown
 Lena Raine - Endless
 Lena Raine - Firebugs
 Lena Raine - Infinite Amethyst
-Lena Raine - Labryinthine
+Lena Raine - Labyrinthine
 Lena Raine - Left to Bloom
 Lena Raine - One More Day
 Lena Raine - Rubedo

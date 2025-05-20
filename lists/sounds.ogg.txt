@@ -1793,12 +1793,13 @@ minecraft:entity/itemframe/rotate_item1
 minecraft:entity/itemframe/rotate_item2
 minecraft:entity/itemframe/rotate_item3
 minecraft:entity/itemframe/rotate_item4
-minecraft:entity/leashknot/break1
-minecraft:entity/leashknot/break2
-minecraft:entity/leashknot/break3
-minecraft:entity/leashknot/place1
-minecraft:entity/leashknot/place2
-minecraft:entity/leashknot/place3
+minecraft:entity/leashknot/break
+minecraft:entity/leashknot/leash1
+minecraft:entity/leashknot/leash2
+minecraft:entity/leashknot/leash3
+minecraft:entity/leashknot/unleash1
+minecraft:entity/leashknot/unleash2
+minecraft:entity/leashknot/unleash3
 minecraft:entity/painting/break1
 minecraft:entity/painting/break2
 minecraft:entity/painting/break3
@@ -2891,6 +2892,7 @@ minecraft:mob/hoglin/step5
 minecraft:mob/hoglin/step6
 minecraft:mob/horse/angry1
 minecraft:mob/horse/armor
+minecraft:mob/horse/armor_unequip
 minecraft:mob/horse/breathe1
 minecraft:mob/horse/breathe2
 minecraft:mob/horse/breathe3
@@ -2923,6 +2925,7 @@ minecraft:mob/horse/idle3
 minecraft:mob/horse/jump
 minecraft:mob/horse/land
 minecraft:mob/horse/leather
+minecraft:mob/horse/saddle_unequip
 minecraft:mob/horse/skeleton/death
 minecraft:mob/horse/skeleton/hit1
 minecraft:mob/horse/skeleton/hit2
@@ -3029,6 +3032,7 @@ minecraft:mob/llama/step3
 minecraft:mob/llama/step4
 minecraft:mob/llama/step5
 minecraft:mob/llama/swag
+minecraft:mob/llama/unequip
 minecraft:mob/magmacube/big1
 minecraft:mob/magmacube/big2
 minecraft:mob/magmacube/big3

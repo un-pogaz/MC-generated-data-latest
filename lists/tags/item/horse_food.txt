@@ -2,6 +2,7 @@ minecraft:wheat
 minecraft:sugar
 minecraft:hay_block
 minecraft:apple
+minecraft:carrot
 minecraft:golden_carrot
 minecraft:golden_apple
 minecraft:enchanted_golden_apple

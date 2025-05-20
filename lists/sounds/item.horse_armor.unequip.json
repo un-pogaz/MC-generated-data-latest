@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/horse/armor_unequip"
+  ],
+  "subtitle": "subtitles.item.horse_armor.unequip"
+}

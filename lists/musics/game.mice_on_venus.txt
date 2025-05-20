@@ -1,5 +1,5 @@
 assets: minecraft:music/game/mice_on_venus
-title: Mice On Venus
+title: Mice on Venus
 author: C418
 length: 4m 41s
 sound_event: minecraft:music.game

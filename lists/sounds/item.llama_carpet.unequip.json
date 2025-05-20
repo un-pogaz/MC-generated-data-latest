@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/llama/unequip"
+  ],
+  "subtitle": "subtitles.item.llama_carpet.unequip"
+}

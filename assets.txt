@@ -1916,12 +1916,13 @@ minecraft/sounds/entity/itemframe/rotate_item1.ogg
 minecraft/sounds/entity/itemframe/rotate_item2.ogg
 minecraft/sounds/entity/itemframe/rotate_item3.ogg
 minecraft/sounds/entity/itemframe/rotate_item4.ogg
-minecraft/sounds/entity/leashknot/break1.ogg
-minecraft/sounds/entity/leashknot/break2.ogg
-minecraft/sounds/entity/leashknot/break3.ogg
-minecraft/sounds/entity/leashknot/place1.ogg
-minecraft/sounds/entity/leashknot/place2.ogg
-minecraft/sounds/entity/leashknot/place3.ogg
+minecraft/sounds/entity/leashknot/break.ogg
+minecraft/sounds/entity/leashknot/leash1.ogg
+minecraft/sounds/entity/leashknot/leash2.ogg
+minecraft/sounds/entity/leashknot/leash3.ogg
+minecraft/sounds/entity/leashknot/unleash1.ogg
+minecraft/sounds/entity/leashknot/unleash2.ogg
+minecraft/sounds/entity/leashknot/unleash3.ogg
 minecraft/sounds/entity/painting/break1.ogg
 minecraft/sounds/entity/painting/break2.ogg
 minecraft/sounds/entity/painting/break3.ogg
@@ -3015,6 +3016,7 @@ minecraft/sounds/mob/hoglin/step5.ogg
 minecraft/sounds/mob/hoglin/step6.ogg
 minecraft/sounds/mob/horse/angry1.ogg
 minecraft/sounds/mob/horse/armor.ogg
+minecraft/sounds/mob/horse/armor_unequip.ogg
 minecraft/sounds/mob/horse/breathe1.ogg
 minecraft/sounds/mob/horse/breathe2.ogg
 minecraft/sounds/mob/horse/breathe3.ogg
@@ -3047,6 +3049,7 @@ minecraft/sounds/mob/horse/idle3.ogg
 minecraft/sounds/mob/horse/jump.ogg
 minecraft/sounds/mob/horse/land.ogg
 minecraft/sounds/mob/horse/leather.ogg
+minecraft/sounds/mob/horse/saddle_unequip.ogg
 minecraft/sounds/mob/horse/skeleton/death.ogg
 minecraft/sounds/mob/horse/skeleton/hit1.ogg
 minecraft/sounds/mob/horse/skeleton/hit2.ogg
@@ -3153,6 +3156,7 @@ minecraft/sounds/mob/llama/step3.ogg
 minecraft/sounds/mob/llama/step4.ogg
 minecraft/sounds/mob/llama/step5.ogg
 minecraft/sounds/mob/llama/swag.ogg
+minecraft/sounds/mob/llama/unequip.ogg
 minecraft/sounds/mob/magmacube/big1.ogg
 minecraft/sounds/mob/magmacube/big2.ogg
 minecraft/sounds/mob/magmacube/big3.ogg
