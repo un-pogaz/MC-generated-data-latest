@@ -19,6 +19,7 @@ minecraft:data_component_predicate_type
 minecraft:data_component_type
 minecraft:decorated_pot_pattern
 minecraft:dialog
+minecraft:dialog_action_type
 minecraft:dialog_body_type
 minecraft:dialog_type
 minecraft:dimension
@@ -77,7 +78,6 @@ minecraft:slot_display
 minecraft:sound_event
 minecraft:spawn_condition_type
 minecraft:stat_type
-minecraft:submit_method_type
 minecraft:test_environment
 minecraft:test_environment_definition_type
 minecraft:test_function

@@ -1,3 +1,5 @@
 minecraft:custom_options
+minecraft:quick_actions
 minecraft:server_links
 #minecraft:pause_screen_additions
+#minecraft:quick_actions
