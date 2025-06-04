@@ -17,6 +17,8 @@ stopsound <targets minecraft:entity[type="players", amount="multiple"]> player
 stopsound <targets minecraft:entity[type="players", amount="multiple"]> player <sound minecraft:resource_location>
 stopsound <targets minecraft:entity[type="players", amount="multiple"]> record
 stopsound <targets minecraft:entity[type="players", amount="multiple"]> record <sound minecraft:resource_location>
+stopsound <targets minecraft:entity[type="players", amount="multiple"]> ui
+stopsound <targets minecraft:entity[type="players", amount="multiple"]> ui <sound minecraft:resource_location>
 stopsound <targets minecraft:entity[type="players", amount="multiple"]> voice
 stopsound <targets minecraft:entity[type="players", amount="multiple"]> voice <sound minecraft:resource_location>
 stopsound <targets minecraft:entity[type="players", amount="multiple"]> weather
