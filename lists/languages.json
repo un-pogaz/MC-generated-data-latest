@@ -494,6 +494,16 @@
     "region": "Portugal",
     "bidirectional": false
   },
+  "qcb_es": {
+    "name": "Cántabru/Montañés",
+    "region": "Cantabria",
+    "bidirectional": false
+  },
+  "qid": {
+    "name": "Bahasa Indonesia edjaän lama",
+    "region": "Indonesia tempo doeloe",
+    "bidirectional": false
+  },
   "qya_aa": {
     "name": "Quenya",
     "region": "Arda",

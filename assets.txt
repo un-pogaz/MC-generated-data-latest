@@ -113,6 +113,8 @@ minecraft/lang/pl_pl.json
 minecraft/lang/pls.json
 minecraft/lang/pt_br.json
 minecraft/lang/pt_pt.json
+minecraft/lang/qcb_es.json
+minecraft/lang/qid.json
 minecraft/lang/qya_aa.json
 minecraft/lang/ro_ro.json
 minecraft/lang/rpr.json
