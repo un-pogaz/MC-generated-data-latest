@@ -1,4 +1,5 @@
 minecraft:baroque
+minecraft:dennis
 minecraft:humble
 minecraft:meditative
 minecraft:prairie_ride

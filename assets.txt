@@ -4149,6 +4149,7 @@ minecraft/sounds/records/chirp.ogg
 minecraft/sounds/records/creator.ogg
 minecraft/sounds/records/creator_music_box.ogg
 minecraft/sounds/records/far.ogg
+minecraft/sounds/records/lava_chicken.ogg
 minecraft/sounds/records/mall.ogg
 minecraft/sounds/records/mellohi.ogg
 minecraft/sounds/records/otherside.ogg

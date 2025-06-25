@@ -13,6 +13,7 @@ C418 - stal
 C418 - strad
 C418 - wait
 C418 - ward
+Hyper Potions - Lava Chicken
 Lena Raine - Creator
 Lena Raine - Creator (Music Box)
 Lena Raine - Pigstep

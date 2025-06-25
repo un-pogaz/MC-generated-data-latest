@@ -795,6 +795,7 @@ minecraft:music_disc_chirp  = 1
 minecraft:music_disc_creator  = 1
 minecraft:music_disc_creator_music_box  = 1
 minecraft:music_disc_far  = 1
+minecraft:music_disc_lava_chicken  = 1
 minecraft:music_disc_mall  = 1
 minecraft:music_disc_mellohi  = 1
 minecraft:music_disc_otherside  = 1

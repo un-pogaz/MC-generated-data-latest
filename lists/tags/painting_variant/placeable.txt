@@ -44,3 +44,4 @@ minecraft:passage
 minecraft:pond
 minecraft:sunflowers
 minecraft:tides
+minecraft:dennis

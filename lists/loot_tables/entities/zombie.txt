@@ -3,3 +3,5 @@ minecraft:rotten_flesh
 minecraft:iron_ingot
 minecraft:carrot
 minecraft:potato
+
+minecraft:music_disc_lava_chicken

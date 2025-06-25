@@ -5,6 +5,7 @@ minecraft:flow_banner_pattern
 minecraft:guster_banner_pattern
 minecraft:mojang_banner_pattern
 minecraft:music_disc_creator
+minecraft:music_disc_lava_chicken
 minecraft:music_disc_otherside
 minecraft:music_disc_pigstep
 minecraft:nether_star

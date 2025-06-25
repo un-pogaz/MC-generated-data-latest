@@ -4014,6 +4014,7 @@ minecraft:records/chirp
 minecraft:records/creator
 minecraft:records/creator_music_box
 minecraft:records/far
+minecraft:records/lava_chicken
 minecraft:records/mall
 minecraft:records/mellohi
 minecraft:records/otherside

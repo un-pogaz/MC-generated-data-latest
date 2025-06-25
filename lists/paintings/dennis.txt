@@ -1,0 +1,4 @@
+texture: minecraft:dennis
+name: Dennis
+author: Sarah Boeving
+size: 3x3

@@ -795,6 +795,7 @@ minecraft:music_disc_chirp  = uncommon
 minecraft:music_disc_creator  = rare
 minecraft:music_disc_creator_music_box  = uncommon
 minecraft:music_disc_far  = uncommon
+minecraft:music_disc_lava_chicken  = rare
 minecraft:music_disc_mall  = uncommon
 minecraft:music_disc_mellohi  = uncommon
 minecraft:music_disc_otherside  = rare

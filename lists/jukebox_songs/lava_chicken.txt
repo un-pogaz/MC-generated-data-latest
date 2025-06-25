@@ -1,0 +1,4 @@
+sound_event: minecraft:music_disc.lava_chicken
+title: Lava Chicken
+author: Hyper Potions
+length: 2m 14s

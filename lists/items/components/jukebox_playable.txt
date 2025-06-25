@@ -7,6 +7,7 @@ minecraft:music_disc_chirp  = minecraft:chirp
 minecraft:music_disc_creator  = minecraft:creator
 minecraft:music_disc_creator_music_box  = minecraft:creator_music_box
 minecraft:music_disc_far  = minecraft:far
+minecraft:music_disc_lava_chicken  = minecraft:lava_chicken
 minecraft:music_disc_mall  = minecraft:mall
 minecraft:music_disc_mellohi  = minecraft:mellohi
 minecraft:music_disc_otherside  = minecraft:otherside

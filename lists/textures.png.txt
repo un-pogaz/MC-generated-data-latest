@@ -2664,6 +2664,7 @@ minecraft:item/music_disc_chirp
 minecraft:item/music_disc_creator
 minecraft:item/music_disc_creator_music_box
 minecraft:item/music_disc_far
+minecraft:item/music_disc_lava_chicken
 minecraft:item/music_disc_mall
 minecraft:item/music_disc_mellohi
 minecraft:item/music_disc_otherside
@@ -3043,6 +3044,7 @@ minecraft:painting/changing
 minecraft:painting/cotan
 minecraft:painting/courbet
 minecraft:painting/creebet
+minecraft:painting/dennis
 minecraft:painting/donkey_kong
 minecraft:painting/earth
 minecraft:painting/endboss

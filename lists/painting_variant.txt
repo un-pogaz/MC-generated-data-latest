@@ -12,6 +12,7 @@ minecraft:changing
 minecraft:cotan
 minecraft:courbet
 minecraft:creebet
+minecraft:dennis
 minecraft:donkey_kong
 minecraft:earth
 minecraft:endboss
