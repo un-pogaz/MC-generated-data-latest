@@ -1,0 +1,5 @@
+minecraft:block/chiseled_bookshelf/step1
+minecraft:block/chiseled_bookshelf/step2
+minecraft:block/chiseled_bookshelf/step3
+minecraft:block/chiseled_bookshelf/step4
+minecraft:block/chiseled_bookshelf/step5

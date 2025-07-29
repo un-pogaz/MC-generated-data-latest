@@ -1,0 +1,9 @@
+minecraft:mob/coppergolem/regular/step1
+minecraft:mob/coppergolem/regular/step2
+minecraft:mob/coppergolem/regular/step3
+minecraft:mob/coppergolem/regular/step4
+minecraft:mob/coppergolem/regular/step5
+minecraft:mob/coppergolem/regular/step6
+minecraft:mob/coppergolem/regular/step7
+minecraft:mob/coppergolem/regular/step8
+minecraft:mob/coppergolem/regular/step9

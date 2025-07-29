@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "mob/coppergolem/oxidized/hurt1",
+    "mob/coppergolem/oxidized/hurt2",
+    "mob/coppergolem/oxidized/hurt3",
+    "mob/coppergolem/oxidized/hurt4"
+  ],
+  "subtitle": "subtitles.entity.copper_golem.hurt"
+}

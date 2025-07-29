@@ -1,0 +1,3 @@
+minecraft:block/shelf/deactivate1
+minecraft:block/shelf/deactivate2
+minecraft:block/shelf/deactivate3

@@ -1,0 +1,4 @@
+minecraft:mob/coppergolem/oxidized/hurt1
+minecraft:mob/coppergolem/oxidized/hurt2
+minecraft:mob/coppergolem/oxidized/hurt3
+minecraft:mob/coppergolem/oxidized/hurt4

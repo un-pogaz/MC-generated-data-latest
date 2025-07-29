@@ -1,0 +1,9 @@
+minecraft:mob/coppergolem/weathered/step1
+minecraft:mob/coppergolem/weathered/step2
+minecraft:mob/coppergolem/weathered/step3
+minecraft:mob/coppergolem/weathered/step4
+minecraft:mob/coppergolem/weathered/step5
+minecraft:mob/coppergolem/weathered/step6
+minecraft:mob/coppergolem/weathered/step7
+minecraft:mob/coppergolem/weathered/step8
+minecraft:mob/coppergolem/weathered/step9

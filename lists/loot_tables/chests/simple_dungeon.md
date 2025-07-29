@@ -1,17 +1,18 @@
 | Name                             | Count | Chance | Weight | Comment                       |
 | -------------------------------- | ----- | ------ | ------ | ----------------------------- |
 | 1 to 3 time                      |    -- |     -- |     -- |                               |
-| minecraft:leather                |  1..5 |  15.5% | 20/129 |                               |
-| minecraft:golden_apple           |     1 |  11.6% | 15/129 |                               |
-| minecraft:enchanted_golden_apple |     1 |   1.6% |  2/129 |                               |
-| minecraft:music_disc_otherside   |     1 |   1.6% |  2/129 |                               |
-| minecraft:music_disc_13          |     1 |  11.6% | 15/129 |                               |
-| minecraft:music_disc_cat         |     1 |  11.6% | 15/129 |                               |
-| minecraft:name_tag               |     1 |  15.5% | 20/129 |                               |
-| minecraft:golden_horse_armor     |     1 |   7.8% | 10/129 |                               |
-| minecraft:iron_horse_armor       |     1 |  11.6% | 15/129 |                               |
-| minecraft:diamond_horse_armor    |     1 |   3.9% |  5/129 |                               |
-| minecraft:enchanted_book         |     1 |   7.8% | 10/129 | enchantments: #on_random_loot |
+| minecraft:leather                |  1..5 |  13.9% | 20/144 |                               |
+| minecraft:golden_apple           |     1 |  10.4% | 15/144 |                               |
+| minecraft:enchanted_golden_apple |     1 |   1.4% |  2/144 |                               |
+| minecraft:music_disc_otherside   |     1 |   1.4% |  2/144 |                               |
+| minecraft:music_disc_13          |     1 |  10.4% | 15/144 |                               |
+| minecraft:music_disc_cat         |     1 |  10.4% | 15/144 |                               |
+| minecraft:name_tag               |     1 |  13.9% | 20/144 |                               |
+| minecraft:golden_horse_armor     |     1 |   6.9% | 10/144 |                               |
+| minecraft:copper_horse_armor     |     1 |  10.4% | 15/144 |                               |
+| minecraft:iron_horse_armor       |     1 |  10.4% | 15/144 |                               |
+| minecraft:diamond_horse_armor    |     1 |   3.5% |  5/144 |                               |
+| minecraft:enchanted_book         |     1 |   6.9% | 10/144 | enchantments: #on_random_loot |
 | – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – |
 | 1 to 4 time                      |    -- |     -- |     -- |                               |
 | minecraft:iron_ingot             |  1..4 |     8% | 10/125 |                               |

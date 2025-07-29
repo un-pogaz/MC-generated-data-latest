@@ -1,0 +1,4 @@
+minecraft:block/copper_statue/become_statue1
+minecraft:block/copper_statue/become_statue2
+minecraft:block/copper_statue/become_statue3
+minecraft:block/copper_statue/become_statue4

@@ -1,0 +1,4 @@
+minecraft:mob/coppergolem/weathered/hurt1
+minecraft:mob/coppergolem/weathered/hurt2
+minecraft:mob/coppergolem/weathered/hurt3
+minecraft:mob/coppergolem/weathered/hurt4

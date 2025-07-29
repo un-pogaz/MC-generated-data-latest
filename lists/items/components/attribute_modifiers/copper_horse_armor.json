@@ -1,0 +1,16 @@
+[
+  {
+    "type": "minecraft:armor",
+    "amount": 4.0,
+    "id": "minecraft:armor.body",
+    "operation": "add_value",
+    "slot": "body"
+  },
+  {
+    "type": "minecraft:armor_toughness",
+    "amount": 0.0,
+    "id": "minecraft:armor.body",
+    "operation": "add_value",
+    "slot": "body"
+  }
+]

@@ -1,0 +1,1 @@
+minecraft:mob/coppergolem/item_no_drop

@@ -1,0 +1,3 @@
+minecraft:block/shelf/activate1
+minecraft:block/shelf/activate2
+minecraft:block/shelf/activate3

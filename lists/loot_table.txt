@@ -4,6 +4,14 @@ minecraft:archaeology/ocean_ruin_cold
 minecraft:archaeology/ocean_ruin_warm
 minecraft:archaeology/trail_ruins_common
 minecraft:archaeology/trail_ruins_rare
+minecraft:brush/armadillo
+minecraft:carve/pumpkin
+minecraft:charged_creeper/creeper
+minecraft:charged_creeper/piglin
+minecraft:charged_creeper/root
+minecraft:charged_creeper/skeleton
+minecraft:charged_creeper/wither_skeleton
+minecraft:charged_creeper/zombie
 minecraft:chests/abandoned_mineshaft
 minecraft:chests/ancient_city
 minecraft:chests/ancient_city_ice_box
@@ -77,6 +85,7 @@ minecraft:entities/cat
 minecraft:entities/cave_spider
 minecraft:entities/chicken
 minecraft:entities/cod
+minecraft:entities/copper_golem
 minecraft:entities/cow
 minecraft:entities/creaking
 minecraft:entities/creeper
@@ -193,6 +202,9 @@ minecraft:gameplay/hero_of_the_village/weaponsmith_gift
 minecraft:gameplay/panda_sneeze
 minecraft:gameplay/piglin_bartering
 minecraft:gameplay/sniffer_digging
+minecraft:gameplay/turtle_grow
+minecraft:harvest/beehive
+minecraft:harvest/cave_vine
 minecraft:pots/trial_chambers/corridor
 minecraft:shearing/bogged
 minecraft:shearing/mooshroom

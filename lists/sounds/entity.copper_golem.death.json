@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/coppergolem/regular/death"
+  ],
+  "subtitle": "subtitles.entity.copper_golem.death"
+}

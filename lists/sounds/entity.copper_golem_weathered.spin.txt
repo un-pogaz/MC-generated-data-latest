@@ -1,0 +1,7 @@
+minecraft:mob/coppergolem/weathered/spin1
+minecraft:mob/coppergolem/weathered/spin2
+minecraft:mob/coppergolem/weathered/spin3
+minecraft:mob/coppergolem/weathered/spin4
+minecraft:mob/coppergolem/weathered/spin5
+minecraft:mob/coppergolem/weathered/spin6
+minecraft:mob/coppergolem/weathered/spin7

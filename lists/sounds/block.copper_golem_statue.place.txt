@@ -1,0 +1,4 @@
+minecraft:block/copper_statue/place1
+minecraft:block/copper_statue/place2
+minecraft:block/copper_statue/place3
+minecraft:block/copper_statue/place4

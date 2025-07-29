@@ -1,0 +1,9 @@
+minecraft:mob/coppergolem/oxidized/step1
+minecraft:mob/coppergolem/oxidized/step2
+minecraft:mob/coppergolem/oxidized/step3
+minecraft:mob/coppergolem/oxidized/step4
+minecraft:mob/coppergolem/oxidized/step5
+minecraft:mob/coppergolem/oxidized/step6
+minecraft:mob/coppergolem/oxidized/step7
+minecraft:mob/coppergolem/oxidized/step8
+minecraft:mob/coppergolem/oxidized/step9

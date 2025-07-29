@@ -1,0 +1,7 @@
+{
+  "close_sound": "minecraft:block.copper_chest_oxidized.close",
+  "open_sound": "minecraft:block.copper_chest_oxidized.open",
+  "properties": {},
+  "type": "minecraft:weathering_copper_chest",
+  "weathering_state": "oxidized"
+}

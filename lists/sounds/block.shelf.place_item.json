@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/shelf/place_item1",
+    "block/shelf/place_item2",
+    "block/shelf/place_item3",
+    "block/shelf/place_item4"
+  ],
+  "subtitle": "subtitles.block.shelf.place_item"
+}

@@ -1,3 +1,8 @@
+minecraft:copper_axe  = {{value}}
+minecraft:copper_hoe  = {{value}}
+minecraft:copper_pickaxe  = {{value}}
+minecraft:copper_shovel  = {{value}}
+minecraft:copper_sword  = {{value}}
 minecraft:diamond_axe  = {{value}}
 minecraft:diamond_hoe  = {{value}}
 minecraft:diamond_pickaxe  = {{value}}

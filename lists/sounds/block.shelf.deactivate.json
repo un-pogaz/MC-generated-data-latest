@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/shelf/deactivate1",
+    "block/shelf/deactivate2",
+    "block/shelf/deactivate3"
+  ],
+  "subtitle": "subtitles.block.shelf.deactivate"
+}

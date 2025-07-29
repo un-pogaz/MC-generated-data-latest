@@ -4,3 +4,4 @@ minecraft:golden_shovel
 minecraft:netherite_shovel
 minecraft:wooden_shovel
 minecraft:iron_shovel
+minecraft:copper_shovel

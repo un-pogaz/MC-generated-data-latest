@@ -5,6 +5,7 @@ minecraft:block/acacia_log
 minecraft:block/acacia_log_top
 minecraft:block/acacia_planks
 minecraft:block/acacia_sapling
+minecraft:block/acacia_shelf
 minecraft:block/acacia_trapdoor
 minecraft:block/activator_rail
 minecraft:block/activator_rail_on
@@ -34,6 +35,7 @@ minecraft:block/bamboo_fence_particle
 minecraft:block/bamboo_large_leaves
 minecraft:block/bamboo_mosaic
 minecraft:block/bamboo_planks
+minecraft:block/bamboo_shelf
 minecraft:block/bamboo_singleleaf
 minecraft:block/bamboo_small_leaves
 minecraft:block/bamboo_stage0
@@ -74,6 +76,7 @@ minecraft:block/birch_log
 minecraft:block/birch_log_top
 minecraft:block/birch_planks
 minecraft:block/birch_sapling
+minecraft:block/birch_shelf
 minecraft:block/birch_trapdoor
 minecraft:block/black_candle
 minecraft:block/black_candle_lit
@@ -175,6 +178,7 @@ minecraft:block/cherry_log
 minecraft:block/cherry_log_top
 minecraft:block/cherry_planks
 minecraft:block/cherry_sapling
+minecraft:block/cherry_shelf
 minecraft:block/cherry_trapdoor
 minecraft:block/chipped_anvil_top
 minecraft:block/chiseled_bookshelf_empty
@@ -268,6 +272,7 @@ minecraft:block/crimson_nylium_side
 minecraft:block/crimson_planks
 minecraft:block/crimson_roots
 minecraft:block/crimson_roots_pot
+minecraft:block/crimson_shelf
 minecraft:block/crimson_stem  [mcmeta]
 minecraft:block/crimson_stem_top
 minecraft:block/crimson_trapdoor
@@ -294,6 +299,7 @@ minecraft:block/dark_oak_log
 minecraft:block/dark_oak_log_top
 minecraft:block/dark_oak_planks
 minecraft:block/dark_oak_sapling
+minecraft:block/dark_oak_shelf
 minecraft:block/dark_oak_trapdoor
 minecraft:block/dark_prismarine
 minecraft:block/daylight_detector_inverted_top
@@ -406,6 +412,7 @@ minecraft:block/exposed_copper_door_top
 minecraft:block/exposed_copper_grate
 minecraft:block/exposed_copper_trapdoor
 minecraft:block/exposed_cut_copper
+minecraft:block/exposed_lightning_rod
 minecraft:block/farmland
 minecraft:block/farmland_moist
 minecraft:block/fern
@@ -505,6 +512,7 @@ minecraft:block/jungle_log
 minecraft:block/jungle_log_top
 minecraft:block/jungle_planks
 minecraft:block/jungle_sapling
+minecraft:block/jungle_shelf
 minecraft:block/jungle_trapdoor
 minecraft:block/kelp  [mcmeta]
 minecraft:block/kelp_plant  [mcmeta]
@@ -586,6 +594,7 @@ minecraft:block/mangrove_propagule
 minecraft:block/mangrove_propagule_hanging
 minecraft:block/mangrove_roots_side
 minecraft:block/mangrove_roots_top
+minecraft:block/mangrove_shelf
 minecraft:block/mangrove_trapdoor
 minecraft:block/medium_amethyst_bud
 minecraft:block/melon_side
@@ -621,6 +630,7 @@ minecraft:block/oak_log
 minecraft:block/oak_log_top
 minecraft:block/oak_planks
 minecraft:block/oak_sapling
+minecraft:block/oak_shelf
 minecraft:block/oak_trapdoor
 minecraft:block/observer_back
 minecraft:block/observer_back_on
@@ -655,6 +665,7 @@ minecraft:block/oxidized_copper_door_top
 minecraft:block/oxidized_copper_grate
 minecraft:block/oxidized_copper_trapdoor
 minecraft:block/oxidized_cut_copper
+minecraft:block/oxidized_lightning_rod
 minecraft:block/packed_ice
 minecraft:block/packed_mud
 minecraft:block/pale_hanging_moss
@@ -670,6 +681,7 @@ minecraft:block/pale_oak_log
 minecraft:block/pale_oak_log_top
 minecraft:block/pale_oak_planks
 minecraft:block/pale_oak_sapling
+minecraft:block/pale_oak_shelf
 minecraft:block/pale_oak_trapdoor
 minecraft:block/pearlescent_froglight_side
 minecraft:block/pearlescent_froglight_top
@@ -904,6 +916,7 @@ minecraft:block/spruce_log
 minecraft:block/spruce_log_top
 minecraft:block/spruce_planks
 minecraft:block/spruce_sapling
+minecraft:block/spruce_shelf
 minecraft:block/spruce_trapdoor
 minecraft:block/stone
 minecraft:block/stone_bricks
@@ -1028,6 +1041,7 @@ minecraft:block/warped_nylium_side
 minecraft:block/warped_planks
 minecraft:block/warped_roots
 minecraft:block/warped_roots_pot
+minecraft:block/warped_shelf
 minecraft:block/warped_stem  [mcmeta]
 minecraft:block/warped_stem_top
 minecraft:block/warped_trapdoor
@@ -1046,6 +1060,7 @@ minecraft:block/weathered_copper_door_top
 minecraft:block/weathered_copper_grate
 minecraft:block/weathered_copper_trapdoor
 minecraft:block/weathered_cut_copper
+minecraft:block/weathered_lightning_rod
 minecraft:block/weeping_vines
 minecraft:block/weeping_vines_plant
 minecraft:block/wet_sponge
@@ -1193,6 +1208,18 @@ minecraft:entity/cat/white
 minecraft:entity/chest/christmas
 minecraft:entity/chest/christmas_left
 minecraft:entity/chest/christmas_right
+minecraft:entity/chest/copper
+minecraft:entity/chest/copper_exposed
+minecraft:entity/chest/copper_exposed_left
+minecraft:entity/chest/copper_exposed_right
+minecraft:entity/chest/copper_left
+minecraft:entity/chest/copper_oxidized
+minecraft:entity/chest/copper_oxidized_left
+minecraft:entity/chest/copper_oxidized_right
+minecraft:entity/chest/copper_right
+minecraft:entity/chest/copper_weathered
+minecraft:entity/chest/copper_weathered_left
+minecraft:entity/chest/copper_weathered_right
 minecraft:entity/chest/ender
 minecraft:entity/chest/normal
 minecraft:entity/chest/normal_left
@@ -1220,6 +1247,14 @@ minecraft:entity/conduit/closed_eye
 minecraft:entity/conduit/open_eye
 minecraft:entity/conduit/wind  [mcmeta]
 minecraft:entity/conduit/wind_vertical  [mcmeta]
+minecraft:entity/copper_golem/copper_golem
+minecraft:entity/copper_golem/copper_golem_eyes
+minecraft:entity/copper_golem/exposed_copper_golem
+minecraft:entity/copper_golem/exposed_copper_golem_eyes
+minecraft:entity/copper_golem/oxidized_copper_golem
+minecraft:entity/copper_golem/oxidized_copper_golem_eyes
+minecraft:entity/copper_golem/weathered_copper_golem
+minecraft:entity/copper_golem/weathered_copper_golem_eyes
 minecraft:entity/cow/brown_mooshroom
 minecraft:entity/cow/cold_cow
 minecraft:entity/cow/red_mooshroom
@@ -1285,12 +1320,14 @@ minecraft:entity/equipment/happy_ghast_body/purple_harness
 minecraft:entity/equipment/happy_ghast_body/red_harness
 minecraft:entity/equipment/happy_ghast_body/white_harness
 minecraft:entity/equipment/happy_ghast_body/yellow_harness
+minecraft:entity/equipment/horse_body/copper
 minecraft:entity/equipment/horse_body/diamond
 minecraft:entity/equipment/horse_body/gold
 minecraft:entity/equipment/horse_body/iron
 minecraft:entity/equipment/horse_body/leather
 minecraft:entity/equipment/horse_saddle/saddle
 minecraft:entity/equipment/humanoid/chainmail
+minecraft:entity/equipment/humanoid/copper
 minecraft:entity/equipment/humanoid/diamond
 minecraft:entity/equipment/humanoid/gold
 minecraft:entity/equipment/humanoid/iron
@@ -1299,6 +1336,7 @@ minecraft:entity/equipment/humanoid/leather_overlay
 minecraft:entity/equipment/humanoid/netherite
 minecraft:entity/equipment/humanoid/turtle_scute
 minecraft:entity/equipment/humanoid_leggings/chainmail
+minecraft:entity/equipment/humanoid_leggings/copper
 minecraft:entity/equipment/humanoid_leggings/diamond
 minecraft:entity/equipment/humanoid_leggings/gold
 minecraft:entity/equipment/humanoid_leggings/iron
@@ -2413,8 +2451,20 @@ minecraft:item/cooked_porkchop
 minecraft:item/cooked_rabbit
 minecraft:item/cooked_salmon
 minecraft:item/cookie
+minecraft:item/copper_axe
+minecraft:item/copper_boots
+minecraft:item/copper_chestplate
 minecraft:item/copper_door
+minecraft:item/copper_golem_spawn_egg
+minecraft:item/copper_helmet
+minecraft:item/copper_hoe
+minecraft:item/copper_horse_armor
 minecraft:item/copper_ingot
+minecraft:item/copper_leggings
+minecraft:item/copper_nugget
+minecraft:item/copper_pickaxe
+minecraft:item/copper_shovel
+minecraft:item/copper_sword
 minecraft:item/cow_spawn_egg
 minecraft:item/creaking_spawn_egg
 minecraft:item/creeper_banner_pattern
@@ -2989,7 +3039,6 @@ minecraft:misc/underwater
 minecraft:misc/unknown_pack
 minecraft:misc/unknown_server
 minecraft:misc/vignette  [mcmeta]
-minecraft:misc/white
 minecraft:mob_effect/absorption
 minecraft:mob_effect/bad_omen
 minecraft:mob_effect/blindness

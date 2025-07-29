@@ -1,0 +1,4 @@
+minecraft:block/shelf/place_item1
+minecraft:block/shelf/place_item2
+minecraft:block/shelf/place_item3
+minecraft:block/shelf/place_item4

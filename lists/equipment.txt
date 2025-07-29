@@ -6,6 +6,7 @@ minecraft:blue_harness
 minecraft:brown_carpet
 minecraft:brown_harness
 minecraft:chainmail
+minecraft:copper
 minecraft:cyan_carpet
 minecraft:cyan_harness
 minecraft:diamond

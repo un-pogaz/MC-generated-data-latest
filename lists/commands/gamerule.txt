@@ -97,8 +97,6 @@ gamerule showDeathMessages
 gamerule showDeathMessages <value brigadier:bool>
 gamerule snowAccumulationHeight
 gamerule snowAccumulationHeight <value brigadier:integer>
-gamerule spawnChunkRadius
-gamerule spawnChunkRadius <value brigadier:integer[max="32", min="0"]>
 gamerule spawnRadius
 gamerule spawnRadius <value brigadier:integer>
 gamerule spectatorsGenerateChunks

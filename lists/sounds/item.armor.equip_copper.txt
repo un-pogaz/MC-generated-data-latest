@@ -1,0 +1,6 @@
+minecraft:item/armor/equip_copper1
+minecraft:item/armor/equip_copper2
+minecraft:item/armor/equip_copper3
+minecraft:item/armor/equip_copper4
+minecraft:item/armor/equip_copper5
+minecraft:item/armor/equip_copper6

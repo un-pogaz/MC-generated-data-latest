@@ -9,6 +9,7 @@ minecraft:cyan_shulker_box
 minecraft:dispenser
 minecraft:dropper
 minecraft:end_rod
+minecraft:exposed_lightning_rod
 minecraft:gray_shulker_box
 minecraft:green_shulker_box
 minecraft:large_amethyst_bud
@@ -21,6 +22,7 @@ minecraft:medium_amethyst_bud
 minecraft:moving_piston
 minecraft:observer
 minecraft:orange_shulker_box
+minecraft:oxidized_lightning_rod
 minecraft:pink_shulker_box
 minecraft:piston
 minecraft:piston_head
@@ -30,5 +32,10 @@ minecraft:repeating_command_block
 minecraft:shulker_box
 minecraft:small_amethyst_bud
 minecraft:sticky_piston
+minecraft:waxed_exposed_lightning_rod
+minecraft:waxed_lightning_rod
+minecraft:waxed_oxidized_lightning_rod
+minecraft:waxed_weathered_lightning_rod
+minecraft:weathered_lightning_rod
 minecraft:white_shulker_box
 minecraft:yellow_shulker_box

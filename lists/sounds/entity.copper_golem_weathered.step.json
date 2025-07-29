@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    "mob/coppergolem/weathered/step1",
+    "mob/coppergolem/weathered/step2",
+    "mob/coppergolem/weathered/step3",
+    "mob/coppergolem/weathered/step4",
+    "mob/coppergolem/weathered/step5",
+    "mob/coppergolem/weathered/step6",
+    "mob/coppergolem/weathered/step7",
+    "mob/coppergolem/weathered/step8",
+    "mob/coppergolem/weathered/step9"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

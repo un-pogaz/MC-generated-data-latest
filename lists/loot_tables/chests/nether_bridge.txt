@@ -7,6 +7,7 @@ minecraft:flint_and_steel
 minecraft:nether_wart
 minecraft:saddle
 minecraft:golden_horse_armor
+minecraft:copper_horse_armor
 minecraft:iron_horse_armor
 minecraft:diamond_horse_armor
 minecraft:obsidian

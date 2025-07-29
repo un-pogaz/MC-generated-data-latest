@@ -1,4 +1,6 @@
 {
+  "close_sound": "minecraft:block.chest.close",
+  "open_sound": "minecraft:block.chest.open",
   "properties": {},
   "type": "minecraft:chest"
 }

@@ -1,0 +1,1 @@
+minecraft:mob/coppergolem/no_item_no_get

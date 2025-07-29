@@ -1,0 +1,6 @@
+{
+  "sounds": [
+    "mob/coppergolem/item_no_drop"
+  ],
+  "subtitle": "subtitles.entity.copper_golem.item_no_drop"
+}

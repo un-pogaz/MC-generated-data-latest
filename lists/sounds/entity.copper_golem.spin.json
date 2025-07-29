@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "mob/coppergolem/regular/spin1",
+    "mob/coppergolem/regular/spin2",
+    "mob/coppergolem/regular/spin3",
+    "mob/coppergolem/regular/spin4",
+    "mob/coppergolem/regular/spin5",
+    "mob/coppergolem/regular/spin6",
+    "mob/coppergolem/regular/spin7"
+  ],
+  "subtitle": "subtitles.entity.copper_golem.spin"
+}

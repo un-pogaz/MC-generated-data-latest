@@ -274,7 +274,6 @@ minecraft:waxed_oxidized_cut_copper_slab
 minecraft:waxed_weathered_cut_copper_slab
 minecraft:waxed_exposed_cut_copper_slab
 minecraft:waxed_cut_copper_slab
-minecraft:lightning_rod
 minecraft:pointed_dripstone
 minecraft:dripstone_block
 minecraft:deepslate
@@ -387,3 +386,6 @@ minecraft:resin_brick_slab
 minecraft:resin_brick_wall
 minecraft:resin_brick_stairs
 minecraft:chiseled_resin_bricks
+#minecraft:copper_chests
+#minecraft:copper_golem_statues
+#minecraft:lightning_rods

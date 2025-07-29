@@ -1,0 +1,4 @@
+minecraft:block/copper_statue/hit1
+minecraft:block/copper_statue/hit2
+minecraft:block/copper_statue/hit3
+minecraft:block/copper_statue/hit4

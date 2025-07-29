@@ -1,0 +1,7 @@
+minecraft:mob/coppergolem/oxidized/spin1
+minecraft:mob/coppergolem/oxidized/spin2
+minecraft:mob/coppergolem/oxidized/spin3
+minecraft:mob/coppergolem/oxidized/spin4
+minecraft:mob/coppergolem/oxidized/spin5
+minecraft:mob/coppergolem/oxidized/spin6
+minecraft:mob/coppergolem/oxidized/spin7

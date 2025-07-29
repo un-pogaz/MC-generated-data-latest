@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "blocks": "#minecraft:incorrect_for_copper_tool",
+      "correct_for_drops": false
+    },
+    {
+      "blocks": "#minecraft:mineable/hoe",
+      "correct_for_drops": true,
+      "speed": 5.0
+    }
+  ]
+}

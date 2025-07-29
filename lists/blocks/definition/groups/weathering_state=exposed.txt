@@ -1,9 +1,14 @@
 minecraft:exposed_chiseled_copper
 minecraft:exposed_copper
 minecraft:exposed_copper_bulb
+minecraft:exposed_copper_chest
 minecraft:exposed_copper_door
+minecraft:exposed_copper_golem_statue
 minecraft:exposed_copper_grate
 minecraft:exposed_copper_trapdoor
 minecraft:exposed_cut_copper
 minecraft:exposed_cut_copper_slab
 minecraft:exposed_cut_copper_stairs
+minecraft:exposed_lightning_rod
+minecraft:waxed_exposed_copper_chest
+minecraft:waxed_exposed_copper_golem_statue

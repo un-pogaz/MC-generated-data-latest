@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/copper_statue/hit1",
+    "block/copper_statue/hit2",
+    "block/copper_statue/hit3",
+    "block/copper_statue/hit4"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

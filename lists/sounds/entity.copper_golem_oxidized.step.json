@@ -1,0 +1,14 @@
+{
+  "sounds": [
+    "mob/coppergolem/oxidized/step1",
+    "mob/coppergolem/oxidized/step2",
+    "mob/coppergolem/oxidized/step3",
+    "mob/coppergolem/oxidized/step4",
+    "mob/coppergolem/oxidized/step5",
+    "mob/coppergolem/oxidized/step6",
+    "mob/coppergolem/oxidized/step7",
+    "mob/coppergolem/oxidized/step8",
+    "mob/coppergolem/oxidized/step9"
+  ],
+  "subtitle": "subtitles.block.generic.footsteps"
+}

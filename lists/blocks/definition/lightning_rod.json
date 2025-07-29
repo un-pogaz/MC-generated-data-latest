@@ -1,4 +1,5 @@
 {
   "properties": {},
-  "type": "minecraft:lightning_rod"
+  "type": "minecraft:weathering_lightning_rod",
+  "weathering_state": "unaffected"
 }

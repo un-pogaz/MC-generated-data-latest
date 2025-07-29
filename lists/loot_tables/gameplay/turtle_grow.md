@@ -1,0 +1,4 @@
+| Name                   | Count | Chance | Weight | Comment |
+| ---------------------- | ----- | ------ | ------ | ------- |
+| 1 time                 |    -- |     -- |     -- |         |
+| minecraft:turtle_scute |     1 |   100% |      1 |         |

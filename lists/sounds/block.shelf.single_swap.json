@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/shelf/single_swap1",
+    "block/shelf/single_swap2",
+    "block/shelf/single_swap3",
+    "block/shelf/single_swap4"
+  ],
+  "subtitle": "subtitles.block.shelf.single_swap"
+}

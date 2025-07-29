@@ -1,0 +1,9 @@
+{
+  "sounds": [
+    "block/copper_statue/place1",
+    "block/copper_statue/place2",
+    "block/copper_statue/place3",
+    "block/copper_statue/place4"
+  ],
+  "subtitle": "subtitles.block.generic.place"
+}

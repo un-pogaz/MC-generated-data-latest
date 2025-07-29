@@ -33,6 +33,16 @@ minecraft:cherry_chest_boat
 minecraft:chest_minecart
 minecraft:cod_bucket
 minecraft:command_block_minecart
+minecraft:copper_axe
+minecraft:copper_boots
+minecraft:copper_chestplate
+minecraft:copper_helmet
+minecraft:copper_hoe
+minecraft:copper_horse_armor
+minecraft:copper_leggings
+minecraft:copper_pickaxe
+minecraft:copper_shovel
+minecraft:copper_sword
 minecraft:creeper_banner_pattern
 minecraft:crossbow
 minecraft:cyan_bed

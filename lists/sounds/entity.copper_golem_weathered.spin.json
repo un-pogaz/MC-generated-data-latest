@@ -1,0 +1,12 @@
+{
+  "sounds": [
+    "mob/coppergolem/weathered/spin1",
+    "mob/coppergolem/weathered/spin2",
+    "mob/coppergolem/weathered/spin3",
+    "mob/coppergolem/weathered/spin4",
+    "mob/coppergolem/weathered/spin5",
+    "mob/coppergolem/weathered/spin6",
+    "mob/coppergolem/weathered/spin7"
+  ],
+  "subtitle": "subtitles.entity.copper_golem.spin"
+}

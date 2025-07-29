@@ -1,29 +1,30 @@
 | Name                                         | Count | Chance | Weight | Comment                                         |
 | -------------------------------------------- | ----- | ------ | ------ | ----------------------------------------------- |
 | 2 to 6 time                                  |    -- |     -- |     -- |                                                 |
-| minecraft:diamond                            |  2..7 |   5.9% |   5/85 |                                                 |
-| minecraft:iron_ingot                         |  4..8 |  11.8% |  10/85 |                                                 |
-| minecraft:gold_ingot                         |  2..7 |  17.6% |  15/85 |                                                 |
-| minecraft:emerald                            |  2..6 |   2.4% |   2/85 |                                                 |
-| minecraft:beetroot_seeds                     | 1..10 |   5.9% |   5/85 |                                                 |
-| minecraft:saddle                             |     1 |   3.5% |   3/85 |                                                 |
-| minecraft:iron_horse_armor                   |     1 |   1.2% |   1/85 |                                                 |
-| minecraft:golden_horse_armor                 |     1 |   1.2% |   1/85 |                                                 |
-| minecraft:diamond_horse_armor                |     1 |   1.2% |   1/85 |                                                 |
-| minecraft:diamond_sword                      |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:diamond_boots                      |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:diamond_chestplate                 |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:diamond_leggings                   |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:diamond_helmet                     |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:diamond_pickaxe                    |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:diamond_shovel                     |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:iron_sword                         |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:iron_boots                         |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:iron_chestplate                    |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:iron_leggings                      |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:iron_helmet                        |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:iron_pickaxe                       |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
-| minecraft:iron_shovel                        |     1 |   3.5% |   3/85 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:diamond                            |  2..7 |   5.8% |   5/86 |                                                 |
+| minecraft:iron_ingot                         |  4..8 |  11.6% |  10/86 |                                                 |
+| minecraft:gold_ingot                         |  2..7 |  17.4% |  15/86 |                                                 |
+| minecraft:emerald                            |  2..6 |   2.3% |   2/86 |                                                 |
+| minecraft:beetroot_seeds                     | 1..10 |   5.8% |   5/86 |                                                 |
+| minecraft:saddle                             |     1 |   3.5% |   3/86 |                                                 |
+| minecraft:copper_horse_armor                 |     1 |   1.2% |   1/86 |                                                 |
+| minecraft:iron_horse_armor                   |     1 |   1.2% |   1/86 |                                                 |
+| minecraft:golden_horse_armor                 |     1 |   1.2% |   1/86 |                                                 |
+| minecraft:diamond_horse_armor                |     1 |   1.2% |   1/86 |                                                 |
+| minecraft:diamond_sword                      |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:diamond_boots                      |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:diamond_chestplate                 |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:diamond_leggings                   |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:diamond_helmet                     |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:diamond_pickaxe                    |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:diamond_shovel                     |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:iron_sword                         |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:iron_boots                         |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:iron_chestplate                    |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:iron_leggings                      |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:iron_helmet                        |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:iron_pickaxe                       |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
+| minecraft:iron_shovel                        |     1 |   3.5% |   3/86 | enchantments: {levels: 20..39, #on_random_loot} |
 | – – – – – – – – – – – – – – – – – – – – – –  | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – – – – – – |
 | 1 time                                       |    -- |     -- |     -- |                                                 |
 | empty                                        |       |  93.3% |  14/15 |                                                 |

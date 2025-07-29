@@ -1,0 +1,8 @@
+{
+  "sounds": [
+    "block/shelf/activate1",
+    "block/shelf/activate2",
+    "block/shelf/activate3"
+  ],
+  "subtitle": "subtitles.block.shelf.activate"
+}

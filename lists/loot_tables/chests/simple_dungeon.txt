@@ -6,6 +6,7 @@ minecraft:music_disc_13
 minecraft:music_disc_cat
 minecraft:name_tag
 minecraft:golden_horse_armor
+minecraft:copper_horse_armor
 minecraft:iron_horse_armor
 minecraft:diamond_horse_armor
 minecraft:enchanted_book

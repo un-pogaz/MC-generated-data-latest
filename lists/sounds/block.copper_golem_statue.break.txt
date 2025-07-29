@@ -1,0 +1,3 @@
+minecraft:block/copper_statue/break1
+minecraft:block/copper_statue/break2
+minecraft:block/copper_statue/break3

@@ -1,0 +1,9 @@
+minecraft:chest  = minecraft:block.chest.close
+minecraft:copper_chest  = minecraft:block.copper_chest.close
+minecraft:exposed_copper_chest  = minecraft:block.copper_chest.close
+minecraft:oxidized_copper_chest  = minecraft:block.copper_chest_oxidized.close
+minecraft:waxed_copper_chest  = minecraft:block.copper_chest.close
+minecraft:waxed_exposed_copper_chest  = minecraft:block.copper_chest.close
+minecraft:waxed_oxidized_copper_chest  = minecraft:block.copper_chest_oxidized.close
+minecraft:waxed_weathered_copper_chest  = minecraft:block.copper_chest_weathered.close
+minecraft:weathered_copper_chest  = minecraft:block.copper_chest_weathered.close

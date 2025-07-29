@@ -1,0 +1,5 @@
+{
+  "asset_id": "minecraft:copper",
+  "equip_sound": "minecraft:item.armor.equip_copper",
+  "slot": "feet"
+}

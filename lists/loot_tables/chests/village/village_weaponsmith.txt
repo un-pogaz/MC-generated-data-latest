@@ -12,6 +12,7 @@ minecraft:iron_boots
 minecraft:obsidian
 minecraft:oak_sapling
 minecraft:saddle
+minecraft:copper_horse_armor
 minecraft:iron_horse_armor
 minecraft:golden_horse_armor
 minecraft:diamond_horse_armor

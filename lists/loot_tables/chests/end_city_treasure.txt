@@ -4,6 +4,7 @@ minecraft:gold_ingot
 minecraft:emerald
 minecraft:beetroot_seeds
 minecraft:saddle
+minecraft:copper_horse_armor
 minecraft:iron_horse_armor
 minecraft:golden_horse_armor
 minecraft:diamond_horse_armor

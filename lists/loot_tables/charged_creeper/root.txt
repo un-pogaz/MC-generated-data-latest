@@ -1,0 +1,6 @@
+{1}alternatives
+{1} loot_table[]minecraft:charged_creeper/piglin
+{1} loot_table[]minecraft:charged_creeper/creeper
+{1} loot_table[]minecraft:charged_creeper/skeleton
+{1} loot_table[]minecraft:charged_creeper/wither_skeleton
+{1} loot_table[]minecraft:charged_creeper/zombie

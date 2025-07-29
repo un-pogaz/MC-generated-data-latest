@@ -4,3 +4,4 @@ minecraft:golden_pickaxe
 minecraft:netherite_pickaxe
 minecraft:wooden_pickaxe
 minecraft:iron_pickaxe
+minecraft:copper_pickaxe

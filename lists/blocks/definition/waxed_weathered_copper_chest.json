@@ -1,0 +1,7 @@
+{
+  "close_sound": "minecraft:block.copper_chest_weathered.close",
+  "open_sound": "minecraft:block.copper_chest_weathered.open",
+  "properties": {},
+  "type": "minecraft:copper_chest",
+  "weathering_state": "weathered"
+}

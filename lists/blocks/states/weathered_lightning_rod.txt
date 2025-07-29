@@ -1,0 +1,24 @@
+facing=north,powered=true,waterlogged=true
+facing=north,powered=true,waterlogged=false
+facing=north,powered=false,waterlogged=true
+facing=north,powered=false,waterlogged=false
+facing=east,powered=true,waterlogged=true
+facing=east,powered=true,waterlogged=false
+facing=east,powered=false,waterlogged=true
+facing=east,powered=false,waterlogged=false
+facing=south,powered=true,waterlogged=true
+facing=south,powered=true,waterlogged=false
+facing=south,powered=false,waterlogged=true
+facing=south,powered=false,waterlogged=false
+facing=west,powered=true,waterlogged=true
+facing=west,powered=true,waterlogged=false
+facing=west,powered=false,waterlogged=true
+facing=west,powered=false,waterlogged=false
+facing=up,powered=true,waterlogged=true
+facing=up,powered=true,waterlogged=false
+facing=up,powered=false,waterlogged=true
+facing=up,powered=false,waterlogged=false  [default]
+facing=down,powered=true,waterlogged=true
+facing=down,powered=true,waterlogged=false
+facing=down,powered=false,waterlogged=true
+facing=down,powered=false,waterlogged=false

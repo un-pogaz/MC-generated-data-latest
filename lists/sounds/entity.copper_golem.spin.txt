@@ -1,0 +1,7 @@
+minecraft:mob/coppergolem/regular/spin1
+minecraft:mob/coppergolem/regular/spin2
+minecraft:mob/coppergolem/regular/spin3
+minecraft:mob/coppergolem/regular/spin4
+minecraft:mob/coppergolem/regular/spin5
+minecraft:mob/coppergolem/regular/spin6
+minecraft:mob/coppergolem/regular/spin7
