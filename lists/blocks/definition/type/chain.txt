@@ -1,1 +1,5 @@
 minecraft:chain
+minecraft:waxed_copper_chain
+minecraft:waxed_exposed_copper_chain
+minecraft:waxed_oxidized_copper_chain
+minecraft:waxed_weathered_copper_chain

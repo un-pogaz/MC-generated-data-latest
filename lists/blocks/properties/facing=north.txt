@@ -75,6 +75,7 @@ minecraft:copper_chest
 minecraft:copper_door
 minecraft:copper_golem_statue
 minecraft:copper_trapdoor
+minecraft:copper_wall_torch
 minecraft:creeper_wall_head
 minecraft:crimson_button
 minecraft:crimson_door

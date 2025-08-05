@@ -225,15 +225,19 @@ minecraft:block/composter_ready
 minecraft:block/composter_side
 minecraft:block/composter_top
 minecraft:block/conduit
+minecraft:block/copper_bars
 minecraft:block/copper_block
 minecraft:block/copper_bulb
 minecraft:block/copper_bulb_lit
 minecraft:block/copper_bulb_lit_powered
 minecraft:block/copper_bulb_powered
+minecraft:block/copper_chain
 minecraft:block/copper_door_bottom
 minecraft:block/copper_door_top
 minecraft:block/copper_grate
+minecraft:block/copper_lantern  [mcmeta]
 minecraft:block/copper_ore
+minecraft:block/copper_torch
 minecraft:block/copper_trapdoor
 minecraft:block/cornflower
 minecraft:block/cracked_deepslate_bricks
@@ -403,13 +407,16 @@ minecraft:block/end_stone
 minecraft:block/end_stone_bricks
 minecraft:block/exposed_chiseled_copper
 minecraft:block/exposed_copper
+minecraft:block/exposed_copper_bars
 minecraft:block/exposed_copper_bulb
 minecraft:block/exposed_copper_bulb_lit
 minecraft:block/exposed_copper_bulb_lit_powered
 minecraft:block/exposed_copper_bulb_powered
+minecraft:block/exposed_copper_chain
 minecraft:block/exposed_copper_door_bottom
 minecraft:block/exposed_copper_door_top
 minecraft:block/exposed_copper_grate
+minecraft:block/exposed_copper_lantern  [mcmeta]
 minecraft:block/exposed_copper_trapdoor
 minecraft:block/exposed_cut_copper
 minecraft:block/exposed_lightning_rod
@@ -656,13 +663,16 @@ minecraft:block/orange_wool
 minecraft:block/oxeye_daisy
 minecraft:block/oxidized_chiseled_copper
 minecraft:block/oxidized_copper
+minecraft:block/oxidized_copper_bars
 minecraft:block/oxidized_copper_bulb
 minecraft:block/oxidized_copper_bulb_lit
 minecraft:block/oxidized_copper_bulb_lit_powered
 minecraft:block/oxidized_copper_bulb_powered
+minecraft:block/oxidized_copper_chain
 minecraft:block/oxidized_copper_door_bottom
 minecraft:block/oxidized_copper_door_top
 minecraft:block/oxidized_copper_grate
+minecraft:block/oxidized_copper_lantern  [mcmeta]
 minecraft:block/oxidized_copper_trapdoor
 minecraft:block/oxidized_cut_copper
 minecraft:block/oxidized_lightning_rod
@@ -1051,13 +1061,16 @@ minecraft:block/water_overlay
 minecraft:block/water_still  [mcmeta]
 minecraft:block/weathered_chiseled_copper
 minecraft:block/weathered_copper
+minecraft:block/weathered_copper_bars
 minecraft:block/weathered_copper_bulb
 minecraft:block/weathered_copper_bulb_lit
 minecraft:block/weathered_copper_bulb_lit_powered
 minecraft:block/weathered_copper_bulb_powered
+minecraft:block/weathered_copper_chain
 minecraft:block/weathered_copper_door_bottom
 minecraft:block/weathered_copper_door_top
 minecraft:block/weathered_copper_grate
+minecraft:block/weathered_copper_lantern  [mcmeta]
 minecraft:block/weathered_copper_trapdoor
 minecraft:block/weathered_cut_copper
 minecraft:block/weathered_lightning_rod
@@ -2453,6 +2466,7 @@ minecraft:item/cooked_salmon
 minecraft:item/cookie
 minecraft:item/copper_axe
 minecraft:item/copper_boots
+minecraft:item/copper_chain
 minecraft:item/copper_chestplate
 minecraft:item/copper_door
 minecraft:item/copper_golem_spawn_egg
@@ -2460,6 +2474,7 @@ minecraft:item/copper_helmet
 minecraft:item/copper_hoe
 minecraft:item/copper_horse_armor
 minecraft:item/copper_ingot
+minecraft:item/copper_lantern
 minecraft:item/copper_leggings
 minecraft:item/copper_nugget
 minecraft:item/copper_pickaxe
@@ -2524,7 +2539,9 @@ minecraft:item/endermite_spawn_egg
 minecraft:item/evoker_spawn_egg
 minecraft:item/experience_bottle
 minecraft:item/explorer_pottery_sherd
+minecraft:item/exposed_copper_chain
 minecraft:item/exposed_copper_door
+minecraft:item/exposed_copper_lantern
 minecraft:item/eye_armor_trim_smithing_template
 minecraft:item/feather
 minecraft:item/fermented_spider_eye
@@ -2759,7 +2776,9 @@ minecraft:item/orange_bundle_open_front
 minecraft:item/orange_candle
 minecraft:item/orange_dye
 minecraft:item/orange_harness
+minecraft:item/oxidized_copper_chain
 minecraft:item/oxidized_copper_door
+minecraft:item/oxidized_copper_lantern
 minecraft:item/painting
 minecraft:item/pale_oak_boat
 minecraft:item/pale_oak_chest_boat
@@ -2953,7 +2972,9 @@ minecraft:item/warped_hanging_sign
 minecraft:item/warped_sign
 minecraft:item/water_bucket
 minecraft:item/wayfinder_armor_trim_smithing_template
+minecraft:item/weathered_copper_chain
 minecraft:item/weathered_copper_door
+minecraft:item/weathered_copper_lantern
 minecraft:item/wheat
 minecraft:item/wheat_seeds
 minecraft:item/white_bundle
@@ -3161,6 +3182,7 @@ minecraft:particle/cherry_6
 minecraft:particle/cherry_7
 minecraft:particle/cherry_8
 minecraft:particle/cherry_9
+minecraft:particle/copper_fire_flame
 minecraft:particle/critical_hit
 minecraft:particle/damage
 minecraft:particle/drip_fall

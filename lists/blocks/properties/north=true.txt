@@ -7,9 +7,11 @@ minecraft:brown_mushroom_block
 minecraft:brown_stained_glass_pane
 minecraft:cherry_fence
 minecraft:chorus_plant
+minecraft:copper_bars
 minecraft:crimson_fence
 minecraft:cyan_stained_glass_pane
 minecraft:dark_oak_fence
+minecraft:exposed_copper_bars
 minecraft:fire
 minecraft:glass_pane
 minecraft:glow_lichen
@@ -26,6 +28,7 @@ minecraft:mushroom_stem
 minecraft:nether_brick_fence
 minecraft:oak_fence
 minecraft:orange_stained_glass_pane
+minecraft:oxidized_copper_bars
 minecraft:pale_oak_fence
 minecraft:pink_stained_glass_pane
 minecraft:purple_stained_glass_pane
@@ -37,5 +40,10 @@ minecraft:spruce_fence
 minecraft:tripwire
 minecraft:vine
 minecraft:warped_fence
+minecraft:waxed_copper_bars
+minecraft:waxed_exposed_copper_bars
+minecraft:waxed_oxidized_copper_bars
+minecraft:waxed_weathered_copper_bars
+minecraft:weathered_copper_bars
 minecraft:white_stained_glass_pane
 minecraft:yellow_stained_glass_pane

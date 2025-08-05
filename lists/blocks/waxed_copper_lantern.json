@@ -1,0 +1,16 @@
+{
+  "definition": {
+    "type": "minecraft:lantern",
+    "properties": {}
+  },
+  "properties": {
+    "hanging": [
+      "true",
+      "false"
+    ],
+    "waterlogged": [
+      "true",
+      "false"
+    ]
+  }
+}

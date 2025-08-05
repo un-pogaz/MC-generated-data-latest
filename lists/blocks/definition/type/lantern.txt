@@ -1,2 +1,6 @@
 minecraft:lantern
 minecraft:soul_lantern
+minecraft:waxed_copper_lantern
+minecraft:waxed_exposed_copper_lantern
+minecraft:waxed_oxidized_copper_lantern
+minecraft:waxed_weathered_copper_lantern

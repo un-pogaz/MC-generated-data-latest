@@ -1,0 +1,4 @@
+minecraft:copper_lantern
+minecraft:exposed_copper_lantern
+minecraft:oxidized_copper_lantern
+minecraft:weathered_copper_lantern

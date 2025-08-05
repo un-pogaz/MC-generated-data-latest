@@ -12,6 +12,7 @@ minecraft:cherry_fence
 minecraft:chorus_plant
 minecraft:cobbled_deepslate_wall
 minecraft:cobblestone_wall
+minecraft:copper_bars
 minecraft:crimson_fence
 minecraft:cyan_stained_glass_pane
 minecraft:dark_oak_fence
@@ -19,6 +20,7 @@ minecraft:deepslate_brick_wall
 minecraft:deepslate_tile_wall
 minecraft:diorite_wall
 minecraft:end_stone_brick_wall
+minecraft:exposed_copper_bars
 minecraft:fire
 minecraft:glass_pane
 minecraft:glow_lichen
@@ -40,6 +42,7 @@ minecraft:nether_brick_fence
 minecraft:nether_brick_wall
 minecraft:oak_fence
 minecraft:orange_stained_glass_pane
+minecraft:oxidized_copper_bars
 minecraft:pale_moss_carpet
 minecraft:pale_oak_fence
 minecraft:pink_stained_glass_pane
@@ -65,5 +68,10 @@ minecraft:tuff_brick_wall
 minecraft:tuff_wall
 minecraft:vine
 minecraft:warped_fence
+minecraft:waxed_copper_bars
+minecraft:waxed_exposed_copper_bars
+minecraft:waxed_oxidized_copper_bars
+minecraft:waxed_weathered_copper_bars
+minecraft:weathered_copper_bars
 minecraft:white_stained_glass_pane
 minecraft:yellow_stained_glass_pane

@@ -1,10 +1,13 @@
 minecraft:chiseled_copper
+minecraft:copper_bars
 minecraft:copper_block
 minecraft:copper_bulb
+minecraft:copper_chain
 minecraft:copper_chest
 minecraft:copper_door
 minecraft:copper_golem_statue
 minecraft:copper_grate
+minecraft:copper_lantern
 minecraft:copper_trapdoor
 minecraft:cut_copper
 minecraft:cut_copper_slab

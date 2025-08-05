@@ -8,12 +8,14 @@ minecraft:bone_block
 minecraft:chain
 minecraft:cherry_log
 minecraft:cherry_wood
+minecraft:copper_chain
 minecraft:creaking_heart
 minecraft:crimson_hyphae
 minecraft:crimson_stem
 minecraft:dark_oak_log
 minecraft:dark_oak_wood
 minecraft:deepslate
+minecraft:exposed_copper_chain
 minecraft:hay_block
 minecraft:infested_deepslate
 minecraft:jungle_log
@@ -24,6 +26,7 @@ minecraft:muddy_mangrove_roots
 minecraft:oak_log
 minecraft:oak_wood
 minecraft:ochre_froglight
+minecraft:oxidized_copper_chain
 minecraft:pale_oak_log
 minecraft:pale_oak_wood
 minecraft:pearlescent_froglight
@@ -58,3 +61,8 @@ minecraft:stripped_warped_stem
 minecraft:verdant_froglight
 minecraft:warped_hyphae
 minecraft:warped_stem
+minecraft:waxed_copper_chain
+minecraft:waxed_exposed_copper_chain
+minecraft:waxed_oxidized_copper_chain
+minecraft:waxed_weathered_copper_chain
+minecraft:weathered_copper_chain

@@ -1,0 +1,4 @@
+hanging=true,waterlogged=true
+hanging=true,waterlogged=false
+hanging=false,waterlogged=true
+hanging=false,waterlogged=false  [default]
