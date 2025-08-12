@@ -150,6 +150,7 @@ minecraft:zombie
 minecraft:zombie_horse
 minecraft:zombie_villager
 minecraft:zombified_piglin
+#minecraft:accepts_iron_golem_gift
 #minecraft:aquatic
 #minecraft:arrows
 #minecraft:arthropod
@@ -162,6 +163,8 @@ minecraft:zombified_piglin
 #minecraft:can_equip_saddle
 #minecraft:can_turn_in_boats
 #minecraft:can_wear_horse_armor
+#minecraft:candidate_for_iron_golem_gift
+#minecraft:cannot_be_pushed_onto_boats
 #minecraft:deflects_projectiles
 #minecraft:dismounts_underwater
 #minecraft:fall_damage_immune

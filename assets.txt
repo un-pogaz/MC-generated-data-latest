@@ -330,6 +330,14 @@ minecraft/sounds/ambient/underwater/exit1.ogg
 minecraft/sounds/ambient/underwater/exit2.ogg
 minecraft/sounds/ambient/underwater/exit3.ogg
 minecraft/sounds/ambient/underwater/underwater_ambience.ogg
+minecraft/sounds/ambient/weather/end_flash1.ogg
+minecraft/sounds/ambient/weather/end_flash2.ogg
+minecraft/sounds/ambient/weather/end_flash3.ogg
+minecraft/sounds/ambient/weather/end_flash4.ogg
+minecraft/sounds/ambient/weather/end_flash5.ogg
+minecraft/sounds/ambient/weather/end_flash6.ogg
+minecraft/sounds/ambient/weather/end_flash7.ogg
+minecraft/sounds/ambient/weather/end_flash8.ogg
 minecraft/sounds/ambient/weather/rain1.ogg
 minecraft/sounds/ambient/weather/rain2.ogg
 minecraft/sounds/ambient/weather/rain3.ogg

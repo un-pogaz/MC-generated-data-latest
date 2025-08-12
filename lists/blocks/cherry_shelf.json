@@ -4,6 +4,10 @@
     "properties": {}
   },
   "properties": {
+    "align_items_to_bottom": [
+      "true",
+      "false"
+    ],
     "facing": [
       "north",
       "south",

@@ -1714,6 +1714,7 @@ minecraft:entity/zombie_villager/type/swamp
 minecraft:entity/zombie_villager/type/taiga
 minecraft:entity/zombie_villager/zombie_villager
 minecraft:environment/clouds
+minecraft:environment/end_flash
 minecraft:environment/end_sky
 minecraft:environment/moon_phases
 minecraft:environment/rain
