@@ -1,3 +1,4 @@
+minecraft:accept_code_of_conduct
 minecraft:client_information
 minecraft:cookie_response
 minecraft:custom_click_action

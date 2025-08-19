@@ -4,4 +4,4 @@
 | minecraft:sweet_berries |     1 |   100% |      1 |         |
 | – – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – |
 | 1 time                  |    -- |     -- |     -- |         |
-| minecraft:sweet_berries |  1..3 |   100% |      1 |         |
+| minecraft:sweet_berries |  1..2 |   100% |      1 |         |

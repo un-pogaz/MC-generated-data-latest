@@ -1,4 +1,5 @@
 minecraft:clear_dialog
+minecraft:code_of_conduct
 minecraft:cookie_request
 minecraft:custom_payload
 minecraft:custom_report_details

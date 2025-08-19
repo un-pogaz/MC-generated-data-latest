@@ -62,6 +62,7 @@ minecraft:dripstone_block
 minecraft:emerald_block
 minecraft:end_stone
 minecraft:end_stone_bricks
+minecraft:fletching_table
 minecraft:gilded_blackstone
 minecraft:glowstone
 minecraft:gold_block

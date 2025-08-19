@@ -18,7 +18,6 @@ minecraft:disc_fragment_5
 minecraft:dragon_breath
 minecraft:dune_armor_trim_smithing_template
 minecraft:echo_shard
-minecraft:enchanted_book
 minecraft:experience_bottle
 minecraft:explorer_pottery_sherd
 minecraft:flow_armor_trim_smithing_template

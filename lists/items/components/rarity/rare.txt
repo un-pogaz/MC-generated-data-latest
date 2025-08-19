@@ -1,4 +1,5 @@
 minecraft:beacon
+minecraft:enchanted_book
 minecraft:enchanted_golden_apple
 minecraft:eye_armor_trim_smithing_template
 minecraft:flow_banner_pattern

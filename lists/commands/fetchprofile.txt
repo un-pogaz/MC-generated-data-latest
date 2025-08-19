@@ -1,0 +1,3 @@
+((required_level: 2))
+fetchprofile id <id minecraft:uuid>
+fetchprofile name <name brigadier:string[type="greedy"]>
